@@ -1,0 +1,2327 @@
+非洲	Afriko
+日本	Japanio
+南美洲	Sudameriko
+Nò-vî	Norvegio
+Sû-kak-làn	Skotlando
+Vî-ngì-sṳ̂	Kimrio
+Pet Oi-ngì-làn	Nord-Irlando
+Hiûng-ngà-li	Hungario
+Sî-pân-ngà	Hispanio
+Mî-koet	Usono
+Pí-li-sṳ̀	Belgio
+Lù-sêm-pó	Luksemburgo (lando)
+Yî-chhiu	Universo
+Thi-khiù	Tero
+Sâng-miang	Vivo
+Ngìn-lui	Homo
+George Washington	George Washington
+Fûn-làn	Finnlando
+Shuì-tién	Svedio
+Tan-ma̍k	Danio
+Pô-làn	Pollando
+Li̍p-thâu-vón	Litovio
+Yi-thai-li	Italio
+Shuì-sṳ	Svislando
+O-thi-li	Aŭstrio
+Hî-lia̍p	Grekio
+Thú-ngí-khì	Turkio
+Phù-thò-ngà	Portugalio
+歐洲	Eŭropo
+亞洲	Azio
+北美洲	Nordameriko
+南極洲	Antarkto
+Vì-kî Pak-khô	Vikipedio
+Hò-làn	Nederlando
+Néu-yok-sṳ	Novjorko
+Fà-sṳ̀n-tun Kô-lùn-pí-â Thi̍t-khî	Vaŝingtono
+Khiu-kîm-sân	San-Francisko
+Pak-lìm	Berlino
+Lo̍k-chhám-kî	Los-Anĝeleso
+Thien-nó	Komputilo
+Mióng-chi-mióng-lu	Interreto
+Barack Obama	Barack Obama
+Vû-lâ-kûi	Urugvajo
+Lùn-tûn	Londono
+Phìn-kó	Pomo
+Pâ-lì-sṳ	Parizo
+Â-pak-lâ-hón Lìm-khén	Abraham Lincoln
+Google	Google
+Me̍t-sî-kô	Meksiko
+Thai-sî-yòng	Atlantika Oceano
+Thai-phìn-yòng	Pacifika Oceano
+Kâ-li-fuk-nì-â	Kalifornio
+Pô-sṳ-tun	Bostono
+Fó-sên	Marso
+Âi-set-ngò-pí-â	Etiopio
+Sṳ̂-é	Leono
+Fap-koet	Francio
+Sṳ-kie-ngî	Esperanto
+Kiéu-è	Hundo
+Yîn-koet	Unuiĝinta Reĝlando
+Meu-é	Hejma kato
+中華人民共和國	Ĉina Popola Respubliko
+Fap-ngî	Franca lingvo
+Ǹg-è	Fiŝoj
+Pâ-sî	Brazilo
+François Hollande	François Hollande
+Ngò-lò-sṳ̂	Rusio
+Kîn-ǹg	Cetacoj
+Chang-fông-hìn	Kvadrato (geometrio)
+Mong-kó	Mango (frukto)
+Tô-lùn-tô	Toronto
+Â-lâ-pâ-mâ	Alabamo
+Québec-sén	Kebekio
+Boeing 747	Boeing 747
+Jimmy Wales	Jimmy Wales
+Tet-koet	Germanio
+Pha̍k-ngò-lò-sṳ̂	Belorusio
+Tet-ngî	Germana lingvo
+Pên-tó	Islando
+Song-ti	Dio
+Oi-sâ-nì-â	Estonio
+David Cameron	David Cameron
+Thú-sên	Saturno (planedo)
+Ku-thin-yi̍t Fî-kî	Aviadilo
+1	1 (nombro)
+2	2 (nombro)
+3	3 (nombro)
+4	4 (nombro)
+5	5 (nombro)
+George W. Bush	George W. Bush
+Lâ-thot-vì-â	Latvio
+Vû-khiet-làn	Ukrainio
+Tshia̍p-khiet	Ĉeĥio
+Sṳ̂-lo̍k-vì-nì-â	Slovenio
+Lò-mâ-nì-â	Rumanio
+Pó-kâ-li-â	Bulgario
+Lò-mâ	Romo
+Mâ-khì-tun	Respubliko Makedonio
+Â-ngì-pâ-nì-â	Albanio
+Khiet-lò-âi-sî-â	Kroatio
+Pô-sṳ-nì-â lâu Het-set-kô-vì-ná	Bosnio kaj Hercegovino
+Â-set-pai-kiông	Azerbajĝano
+Set-phû-lu-sṳ̂	Kipro
+Kak-lû-kit-â	Kartvelio
+Hâ-sat-khiet-sṳ̂-thán	Kazaĥio
+Mí-li-thai	Malto
+Mô-na̍p-kô	Monako
+Mùng-thi̍t-nui-kô-lò	Montenegro
+Sṳn Mâ-li-nok	San-Marino
+Kú-pâ	Kubo
+Eiffel Thiet-thap	Eiffel-Turo
+Yin-thu-nì-sî-â	Indonezio
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Pi-tô-fûn	Ludwig van Beethoven
+Thú-ngí-khì-ngî	Turka lingvo
+Nàm-fî	Sud-Afriko
+Vû-tsṳ̂-phe̍t-khiet-sṳ̂-thán	Uzbekujo
+Pô-tsṳ-nàm	Poznano
+Fà-sâ	Varsovio
+Súi	Akvo
+Thien-sṳ	Televido
+Chṳ-li	Ĉilio
+Yâ-sû	Jesuo Kristo
+Súi-sên	Merkuro (planedo)
+Li̍t-sṳ́	Historio
+Phìn-kó Kûng-sṳ̂	Apple
+Kîm-sên	Venuso (planedo)
+Ngî-ngièn	Lingvo
+Muk-sên	Jupitero (planedo)
+Thiên-vòng-sên	Urano (planedo)
+Pu-lie̍t-thap-nì	Bretonio
+Hói-vòng-sên	Neptuno (planedo)
+Thiên-vùn-ho̍k	Astronomio
+Sîn-kâ-po	Singapuro
+Khô-ho̍k	Scienco
+Montréal	Montrealo
+Lie̍t-kî-tûn-sṳ-tên	Liĥtenŝtejno
+Kiam-khiâu	Kembriĝo (Britio)
+Thi-ngi-chhṳ Sṳ-kie Thai-chan	Dua mondmilito
+Cologne	Kolonjo
+Kak-tên-nì-â	Gdynia
+Sṳ̍p-chhiet-chhiâng	Szczecin
+Sṳ-ho̍k	Matematiko
+Lâ-tên-ngî	Latina lingvo
+Pâ-lìm	Barejno
+Â-mî-nì-â	Armenio
+Set-ngì-vì-â	Serbio
+Ngie̍t-khiù	Luno
+Àu-thai-li-â	Aŭstralio
+Vu̍t-lî-ho̍k	Fiziko
+Â-kîn-thìn	Argentino
+Pi-lû	Peruo
+Sâng-vu̍t-ho̍k	Biologio
+Tsêu-siên Mìn-tsú Tsú-ngi Ngìn-mìn Khiung-fò-koet	Nord-Koreio
+Kán-pu-chhài	Kamboĝo
+Khiúng-liùng	Dinosaŭro
+Yî-sṳ̂-làn-kau	Islamo
+Lech Wałęsa	Lech Wałęsa
+Lin-é	Rado
+Lyon	Liono
+Êu-chû Lièn-mèn	Eŭropa Unio
+Rhône-Alpes	Rodano-Alpoj
+Chhiòn-khiù Chṳ̂-sín Mióng	TTT
+Ńg-ngìn	Virino
+Khiûng-tsiâu	Banano
+Fâ	Floro
+Mâ-lî-â-na̍p-hói	Mariana Fosego
+Chû-mu̍k-lòng-mâ-fûng	Ĉomolungmo
+Sàng-sṳ	Urbo
+Nâ-pho-lùn yit-sṳ	Napoleono Bonaparte
+Ngit-tèu	Suno
+Pâ-sṳ-tet	Louis Pasteur
+大洋洲	Oceanio
+Thai-yòng Hì	Sunsistemo
+Pô-lò-tit-hói	Balta Maro
+Ngâ-chhṳ	Dento
+Khîn	Hidrogeno
+Hoi (氦)	Heliumo
+Angela Merkel	Angela Merkel
+Lî	Litio
+Phì	Berilio
+Si	Libro
+Ngit	Tago
+Ngièn	Jaro
+Sṳ-ki	Jarcento
+Lò-tsṳ (Pô-làn)	Lodzo
+Khà-thok-vì-chṳ	Katowice
+Ngie̍t-sû-fû	Rzeszów
+Phìn	Boro
+Thàn	Karbono
+Tham	Nitrogeno
+Yòng	Oksigeno
+Hàng-sên	Planedo
+Yîm-ngo̍k	Muziko
+Rennes	Rennes
+Mo̍k-sṳ̂-khô	Moskvo
+Fuk	Fluoro
+Yi-thai-li-ngî	Itala lingvo
+Nái	Neono
+Sṳn Pí-tet-páu	Sankt-Peterburgo
+Na̍p	Natrio
+北	Nordo
+Mî	Magnezio
+Lî (鋁)	Aluminio
+Néu Sî-làn	Nov-Zelando
+南	Sudo
+Yin-thu	Barato
+Si̍t	Silicio
+Fap	Franciumo
+Lìn	Fosforo
+Thiet	Fero
+Tûng-kâ	Tongo
+西	Okcidento
+Liù-vòng	Sulfuro
+東	Oriento
+Liu̍k	Kloro
+Pâ-pu-â Néu-kí-nui-â	Papuo-Nov-Gvineo
+Vî-lièn Sâ-sṳ-pí-â	William Shakespeare
+Â (氬)	Argono
+Kap	Kalio
+Koi	Kalcio
+Yèn	Plumbo
+Mùng-kú-koet	Mongolio
+Khong (鈧)	Skandio
+Thai	Titano (elemento)
+Genghis Khan	Ĝingis-Ĥano
+Fàm	Vanado
+Mien-yîn	Majno
+Kok	Kromo
+Mâ	Ĉevalo
+Thûng-vu̍t	Bestoj
+Sû-li-nàm	Surinamo
+Màng	Mangano
+Pâ-lâ-kûi	Paragvajo
+Koi-â-nâ	Gujano
+Ngi-su̍t	Arto
+Lòi	Renio
+Kô-lùn-pí-â	Kolombio
+Kû	Kobalto
+Vû	Volframo
+Ngiap (鎳)	Nikelo
+Fu̍t-kau	Budhismo
+Pô-li-vì-â	Bolivio
+Tshṳ̀-nì-tha̍t lâu Tô-pâ-kô	Trinidado kaj Tobago
+Chhṳ̍t-vu̍t	Plantoj
+Sîn	Zinko
+Néu Hàn-pu-ha	Nov-Hampŝiro
+Pí-â-vùi-sṳ̂-thok-khiet	Bjalistoko
+Ngà-mâi-kâ	Jamajko
+Mà-sat-chû-set	Masaĉuseco
+Drenthe-sén	Drenthe
+Overijssel-sén	Overijssel
+Kûa-thi-mâ-là	Gvatemalo
+Gelderland-sén	Gelderland
+Pâ-hâ-mâ	Bahamoj
+Không-nái-tí-khiet-chû	Konektikuto
+Kiê-é	Koko
+Ha-vî-yî	Havajo
+Fùng-tû-lâ-sṳ̂	Honduro
+Tô-mí-nì-kâ	Dominiko
+Tô-mí-nì-kâ Khiung-fò-koet	Domingo
+Kâ-chû (Thung-vu̍t)	Porko
+Hói-thi	Haitio
+Sat-ngì-ngá-tô	Salvadoro
+Yî-lóng	Irano
+Yî-là-khiet	Irako
+Â-lâ-sṳ̂-kâ	Alasko
+Kô-sṳ̂-tha̍t Lì-kâ	Kostariko
+Yî-set-lie̍t	Israelo
+Pâ-nâ-mâ	Panamo
+Ya̍p-mùn	Jemeno
+Phiang-thu̍k	Viruso (biologio)
+Pô-làn-ngî	Pola lingvo
+Yok-tan	Jordanio
+Nì-kâ-lâ-kûa	Nikaragvo
+Fu-lò-lî-tha̍t	Florido
+Kit-ngí-kit-sṳ̂-thán	Kirgizio
+Â-li-sông-ná	Arizono
+Khô-vî-thi̍t	Kuvajto
+Liàu-koet	Laoso
+Lì-pâ-nun	Libano
+O-le̍t-kông	Oregono
+Gi-tuk-gaau zung geh sin	Dio laŭ kristanismo
+Mâ-ngì-thoi-fû	Maldivoj
+Yù-thâ	Utaho
+Mâ-lòi-sî-â	Malajzio
+Mién-thien	Birmo
+Nì-pok	Nepalo
+Â-man	Omano
+Pâ-kî-sṳ̂-thán	Pakistano
+Khà-tha̍t	Kataro
+Mióng-khiù	Teniso
+Sâ-vû-thi Â-lâ-pak	Sauda Arabio
+Sṳ̂-lî-làn-khà	Sri-Lanko
+Si-li-â	Sirio
+Kâ	Galiumo
+Thap-kit-khiet-sṳ̂-thán	Taĝikio
+中華民國	Respubliko Ĉinio
+YouTube	YouTube
+Châ	Germaniumo
+Thai-koet	Tajlando
+Sṳ̂n	Arseno
+Thú-khû-man-sṳ̂-thán	Turkmenio
+Abakan	Abakan
+Sî	Seleno
+Yî	Iridio
+Â-lâ-pak Lièn-ha̍p Thai-kûng-koet	Unuiĝintaj Arabaj Emirlandoj
+Tshiù (溴)	Bromo
+Pha̍k (鉑)	Plateno
+Ye̍t-nàm	Vjetnamio
+Thai-hòn Mìn-koet	Sud-Koreio
+Khiet	Kriptono
+Â-fu-hon	Afganio
+J. R. R. Tolkien	John Ronald Reuel Tolkien
+Lù	Rubidio
+Kîm	Oro
+Men-kâ-lâ-koet	Bangladeŝo
+Ufa	Ufa
+Ôn-kô-lâ	Angolo
+Vùn-lòi	Brunejo
+Kúng	Hidrargo
+Fî-li̍t-pîn	Filipinoj
+Thò	Taliumo
+Ngie-sat-khiet Ngiù-tun	Isaac Newton
+Albert Einstein	Albert Einstein
+Sṳ̂	Stroncio
+Yet	Itrio
+Pit	Bismuto
+Vòng-set	Flava
+Tsan-pí-â	Zambio
+Sîn-pâ-pu-vî	Zimbabvo
+北京	Pekino
+Tuva Khiung-fò-koet	Tuvio
+Pok-tshṳ-ngá-na̍p	Bocvano
+Pho (釙)	Polonio
+Bayern	Bavario
+Baden-Württemberg	Baden-Virtembergo
+Ngo (砈)	Astato
+Lòi-sò-thok	Lesoto
+Mâ-tha̍t-kâ-sṳ̂-kâ	Madagaskaro
+Mâ-là-vî	Malavio
+Stuttgart	Stutgarto
+Màu-li-thap-nì-â	Maŭritanio
+Pô-làn-ngìn	Poloj
+Mo̍k-sông-pí-khiet	Mozambiko
+Na̍p-mí-pí-â	Namibio
+Nai-khi̍p-li-â	Niĝerio
+Ko	Zirkonio
+Nì	Niobio
+Yû-li-vû-sṳ̂ Khái-sat	Julio Cezaro
+Sṳ̂-vî-sṳ-làn	Svazilando
+Muk	Molibdeno
+Thap	Teknecio
+Hamburg	Hamburgo
+Thoi-chhia	Metabolo
+Miên-yi̍t Hì-thúng	Imuna sistemo
+Lièn-ha̍p-koet	Unuiĝintaj Nacioj
+Sîm-chhong	Koro
+Thèu-nó	Cerbo
+Phì-fû	Haŭto
+Ló	Rodio
+Làm-set	Blua
+Pâ	Paladio
+Ngiùn	Arĝento
+Kak	Kadmio
+Yîn	Indio
+Siak	Stano
+Yu	Uranio
+Thi (銻)	Antimono
+Ti	Teluro
+Pu	Plutonio
+Tièn	Jodo
+Nai	Neptunio
+Set	Cezio
+Phù	Protaktinio
+Pi	Bario
+Thú	Torio
+Kap (鉿)	Hafnio
+Than (鉭)	Tantalo
+Luì	Radiumo
+Tûng	Radono
+Alsace	Alzaco
+Auvergne	Aŭvernjo
+Ôn-tet-là-pâng	Andra-Pradeŝo
+Me̍t-hiet-kîn	Miĉigano
+Burgundy	Burgonjo
+Aquitaine	Akvitanio
+Schleswig-Holstein	Ŝlesvigo-Holstinio
+Hâ Saxony	Malsupra Saksio
+Pet Rhine-Westphalia	Nordrejn-Vestfalio
+Saxony	Saksio
+Yî-li-nò	Ilinojso
+Thuringia	Turingio
+Saxony-Anhalt	Saksio-Anhalto
+Pet Tha̍t-khô-thâ	Norda Dakoto
+Brandenburg	Brandenburgio
+Bremen-chû	Libera hansa urbo Bremeno
+Nàm Tha̍t-khô-thâ	Suda Dakoto
+Mùng-thai-nâ	Montano
+Fài-ngò-mìn	Vajomingo
+Yâ-lu-sat-lâng	Jerusalemo
+Oi-tha̍t-hòt	Idaho
+Fà-sṳn-tun	Vaŝingtonio
+Lù (鑪)	Ruterfordio
+Nui-fà-tha̍t	Nevado
+Hàn (𨧀)	Dubnio
+Hí (𨭎)	Seborgio
+Yin-thu-yòng	Hinda Oceano
+Khô-sò-vok	Kosovo
+Kâ-le̍t-pí-hói	Kariba Maro
+Pô (𨨏)	Borio
+Het (𨭆)	Hasio
+Phan Kî-vùn	Ban Ki-moon
+Ma̍k (䥑)	Mejtnerio
+Khô-lò-là-tô	Koloradio
+Tha̍t	Darmŝtatio
+Siau-pâng	Frédéric Chopin
+Lùn	Rentgenio
+Kô (鎶)	Kopernicio
+分類:Chú-yeu fûn-lui	Kategorio:Ĉio
+Chi-kâ-kô	Ĉikago
+Arnhem	Arnhem
+Tûng-kui	Vintro
+Sî-pân-ngà-ngî	Hispana lingvo
+Fî-là-thiet-fî	Filadelfio (Pensilvanio)
+Tî-tû	Araneuloj
+Hèu-è	Simio
+Kîm-tshièn	Mono
+Vì-kit-nì-â	Virginio (ŝtato)
+Sî Vì-kit-nì-â	Okcidenta Virginio
+Néu-yok-chû	Nov-Jorkio
+Sṳ (鈰)	Cerio
+Phú	Prazeodimo
+Lò-tet-tó	Rod-Insulo
+Ńg	Neodimo
+Khûn-chhùng	Insekto
+Mâ-lî-làn	Marilando
+Thi̍t-lâ-ngá	Delavaro
+Yû (銪)	Eŭropio
+Ngò-hài-ngò	Ohio
+Vì-kit-ngì	Vergilio
+Machiavelli	Makiavelo
+Pîn-sé-fap-nì-â	Pensilvanio
+Uetersen	Uetersen
+O-kú-sṳ̂-tû	Aŭgusto Cezaro
+Néu Chhe̍t-sî-chû	Nov-Ĵerzejo
+Fûn-làn-ngî	Finna lingvo
+Yin-thi-ôn-na̍p	Indianio
+Vì-sṳ̂-pha-siên	Vespasiano
+Thù-là-chṳ̂n	Trajano
+Hâ-tet-liòng	Hadriano
+Khièu-tshṳ-â	Georgio
+Mâ-khù-sṳ̂ O-lie̍t-lî-vû-sṳ̂	Marko Aŭrelio
+Zagreb	Zagrebo
+Tet-khiet-sat-sṳ̂	Teksaso
+Thai-mí-ngì-na̍p-tet-pâng	Tamilnado
+Pet Khà-lò-lòi-na̍p	Norda Karolino
+Nàm Khà-lò-lòi-na̍p	Suda Karolino
+Loire-sén	Luaro
+Pâ-set-lò-nâ	Barcelono
+Vòng-lî	Ananaso
+Me̍t-sî-sî-pí	Misisipio
+Thièn-na̍p-sî	Tenesio
+Néu Me̍t-sî-kô	Nov-Meksiko
+Mìn-nì-sû-tha̍t	Minesoto
+Vî-sṳ̂-không-sîn	Viskonsino
+Oi-hò-fà	Iovao
+Nui-pu-lâ-sṳ̂-kâ	Nebrasko
+Khâm-sat-sṳ̂	Kansaso
+Yin-thi-ngî	Hindia lingvo
+Me̍t-sû-lî	Misurio
+Lu-yi-sṳ̂-ôn-ná	Luiziano
+Khén-thap-kî	Kentukio
+Â-khén-set	Arkansaso
+Neil Armstrong	Neil Armstrong
+O-khiet-lâ-hò-mâ	Oklahomo
+Pet-hói	Norda Maro
+Mo̍k-sṳ̂-khô-chû	Moskva provinco
+Kiel	Kilo (urbo)
+Schwerin	Schwerin
+Potsdam	Potsdamo
+Hanover	Hanovro
+Düsseldorf	Duseldorfo
+Mainz	Majenco
+Wiesbaden	Wiesbaden
+Saarbrücken	Saarbrücken
+Mu-nì-het	Munkeno
+Erfurt	Erfurto
+Dresden	Dresdeno
+Kaliningrad-chû	Kaliningrada provinco
+Murmansk-chû	Murmanska provinco
+Kak-than-sṳ̂-khiet	Gdańsk
+Fap-làn-khiet-fuk	Frankfurto ĉe Majno
+Fut-lò-tshṳ-ngá-fû	Vroclavo
+Làn	Lantano
+Ki (鉕)	Prometio
+Sân	Samario (kemio)
+Â-chhè Thi̍t-phe̍t Hàng-chṳn-khî	Aceho
+Nga̍t (釓)	Gadolinio
+Thi̍t (鋱)	Terbio
+Tit (鏑)	Disprozio
+Sṳn-kîn	Biblio
+Fó	Holmio
+Ngí (鉺)	Erbio
+Tiû	Tulio
+Yi	Iterbio
+Liu	Lutecio
+Hò-nui-sṳ	Hanojo
+Chṳ̂n Yâ-sû Kau-fi	Vera Eklezio de Jesuo
+Yîn-ngî	Angla lingvo
+Màn-kuk	Bankoko
+Kit-lùng-po	Kuala-Lumpuro
+Pâng-kâ Vú-lî-thung-sén	Bangka-Belitungo
+Thòi-pet-sṳ	Tajpeo
+Mî (鋂)	Americio
+Arkhangelsk-chû	Arĥangelska provinco
+Khiu̍k	Kuriumo
+Thùng-hói-sṳ	Dong Hoi
+Concepción	Koncepciono
+Pet (鉳)	Berkelio
+Khà (鉲)	Kaliforniumo
+Mìn-kú-lû-sén	Bengkuluo
+Oi	Ejnŝtejnio
+Fi	Fermio
+Mùn	Mendelevio
+Na	Nobelio
+Ontario-sén	Ontario
+Lò	Laŭrencio (elemento)
+Karelia Khiung-fò-koet	Karelio (respubliko)
+Końskowola	Końskowola
+2002-ngièn	2002
+2008-ngièn	2008
+Charles de Gaulle	Charles de Gaulle
+Cham-pî-sén	Ĝambio
+Komi Khiung-fò-koet	Komiio
+Nâm-póng-sén	Lampungo
+Pet Sû-mùn-tap-lia̍p-sén	Norda Sumatro
+Syktyvkar	Siktivkar
+Québec-sṳ	Kebeko
+Nenets Chhṳ-chhṳ-khî	Nenecio
+Liàu-nui-sén	Riauo
+Leningrad-chû	Leningrada provinco
+Pskov-chû	Pskova provinco
+Liàu-nui Khiùn-tó-sén	Riau-insuloj
+Nizhny Novgorod-chû	Niĵnij-Novgoroda provinco
+Nàm Sû-mùn-tap-lia̍p-sén	Suda Sumatro
+Lò-mâ Ti-koet	Romia Imperio
+Mì-ngiôn Kûng-sṳ̂	Microsoft
+Tver-chû	Tverja provinco
+Khù-lû-fû	Kurów
+Fa-ho̍k	Kemio
+Smolensk-chû	Smolenska provinco
+Yaroslavl-chû	Jaroslavla provinco
+Kostroma-chû	Kostroma provinco
+Ivanovo-chû	Ivanova provinco
+Arnold Schwarzenegger	Arnold Schwarzenegger
+Chiuk-khiù	Futbalo
+Ryazan-chû	Rjazanja provinco
+IPhone	IPhone
+Sî Sû-mùn-tap-lia̍p-sén	Okcidenta Sumatro
+Tula-chû	Tula provinco
+IPad	IPad
+Mâ-tet-lî	Madrido
+Bryansk-chû	Brjanska provinco
+Michael Jackson	Michael Jackson
+Kaluga-chû	Kaluga provinco
+Loire-Atlantique-sén	Loire-Atlantique
+Ain-sén	Ain
+Allier-sén	Allier
+Khâm-phì-là	Kanbero
+Sông Alpes-sén	Hautes-Alpes
+Oryol-chû	Orjola provinco
+Sit-nì	Sidnejo
+Alpes-de-Haute-Provence-sén	Alpes-de-Haute-Provence
+Liu̍k-set	Verdo
+Alpes-Maritimes-sén	Alpes-Maritimes
+Hâ-tet-sùn-hò	Hudsono (rivero)
+Me̍t-ngì-pún	Melburno
+Fùng-set	Ruĝa
+Ardèche-sén	Ardèche
+Jena	Jena
+Kursk-chû	Kurska provinco
+Ariège-sén	Ariège
+Aude-sén	Aude
+Aveyron-sén	Aveyron
+Sîn Nàm Vî-ngì-sṳ̂-chû	Novsudkimrio
+Bouches-du-Rhône-sén	Bouches-du-Rhône
+Àu-thai-li-â Sú-tû Liâng-thi	Aŭstralia Ĉefurba Teritorio
+Cantal-sén	Cantal
+Belgorod-chû	Belgoroda provinco
+Côte-d'Or-sén	Côte-d'Or
+Côtes-d'Armor-sén	Côtes-d'Armor
+Drôme-sén	Drôme
+Finistère-sén	Finistère
+Voronezh-chû	Voroneĵa provinco
+Sû-mùn-tap-lia̍p	Sumatro
+Lipetsk-chû	Lipecka provinco
+Van-tan-sén	Provinco Banteno
+Chûng Cháu-ôa-sén	Centra Javo
+Fùi-sên	Kometo
+Rostov-chû	Rostova provinco
+Tûng Cháu-ôa-sén	Orienta Javo
+Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî	Ĝakarto
+Sî Cháu-ôa-sén	Okcidenta Javo
+Adygea Khiung-fò-koet	Adigeio
+Gera	Gera
+Maykop	Majkop
+Cháu-ôa-tó	Javo
+Kâ-lî-man-tân-chû	Kalimantano
+Séu Sùn-thâ Khiùn-tó	Malgrandaj Sundaj Insuloj
+Sû-lâ-vî-sî-tó	Sulaveso
+Mô-lu̍k-kâ Khiùn-tó	Molukoj
+Chûng Kâ-lî-man-tân-sén	Centra Kalimantano
+Tûng Kâ-lî-man-tân-sén	Orienta Kalimantano
+Nàm Kâ-lî-man-tân-sén	Suda Kalimantano
+Kâ-li-sî-â	Galegio
+Sî Kâ-lî-man-tân-sén	Okcidenta Kalimantano
+Thai-ho̍k	Universitato
+Pretoria	Pretorio
+Chok-khiù	Tabloteniso
+Â-sṳ̂-thù-lî-â-sṳ̂	Asturio
+Wikipedia:Sandbox	Vikipedio:Provejo
+Astrakhan-chû	Astraĥana provinco
+Kham-thap-pu-lî-â	Kantabrio
+Kalmykia Khiung-fò-koet	Kalmukio
+Weimar	Vajmaro
+Osasco	Osasco (San-Paŭlo)
+Â-là-kung	Aragono
+Kak-là-sṳ̂-kô	Glasgovo
+Thùng-hói Kî-chhòng	Flughaveno Dong Hoi
+Vú-lîn-ngièn Fûng-kín Miàng-sṳn-khî	Vulingjuan
+分類:Thòi-vân li̍t-sṳ́	Kategorio:Historio de Tajvano
+Curitiba	Kuritibo
+Khûng-chṳ́	Konfuceo
+Corbin Bleu	Corbin Bleu
+分類:Sṳ-ho̍k	Kategorio:Matematiko
+分類:Ngìn-kûng ngî-ngièn	Kategorio:Konstruitaj lingvoj
+Pâ-lî-sén	Balio
+Mî-kîm	Usona dolaro
+Thi-chûng-hói	Mediteraneo
+Hông-chû-sṳ	Hangĝoŭo
+Kî-tuk-kau	Kristanismo
+Tûng Nú-sâ Tên-kâ-là-sén	Orientaj sudorientaj insuloj
+Sî Nú-sâ Tên-kâ-là-sén	Okcidentaj sudorientaj insuloj
+Chûng Sû-lâ-vî-sî-sén	Centra Sulaveso
+Kô-lùn-tá-lo̍k-sén	Gorontalo
+Pet Sû-lâ-vî-sî-sén	Norda Sulaveso
+Tûng-nàm Sû-lâ-vî-sî-sén	Sudorienta Sulaveso
+Nàm Sû-lâ-vî-sî-sén	Suda Sulaveso
+Sî Sû-lâ-vî-sî-sén	Okcidenta Sulaveso
+Vò-é	Rizo
+Mâ-lû-kú-sén	Molukoj (provinco)
+Pet Mâ-lû-kú-sén	Nordaj Molukoj
+Pâ-pu-â-sén	Papuo
+Sî Pâ-pu-â-sén	Okcidenta Papuo
+Dagestan Khiung-fò-koet	Dagestano
+Sú-tû	Ĉefurbo
+Monzón	Monzono
+Phù-thò-ngà-ngî	Portugala lingvo
+Ngie̍t	Monato
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+Makhachkala	Maĥaĉkala
+Chechnya Khiung-fò-koet	Ĉeĉenio
+Grozny	Grozno
+Almazán	Almazán
+Vòng Hien-fàm	Huang Senfan
+Ingushetia Khiung-fò-koet	Inguŝio
+Magas	Magas
+Pet Ossetia–Alania Khiung-fò-koet	Nord-Osetio
+Kabardino-Balkaria Khiung-fò-koet	Kabardio-Balkario
+Tson-sa̍k	Diamanto
+Bill Gates	Bill Gates
+Ngi̍t-ngî	Japana lingvo
+Pak-khô-chhiòn-sû	Enciklopedio
+頭頁	Vikipedio:Ĉefpaĝo
+Karachay-Cherkessia Khiung-fò-koet	Karaĉajio-Ĉerkesio
+Saratov	Saratov
+Saratov-chû	Saratova provinco
+Orenburg-chû	Orenburga provinco
+Mordovia Khiung-fò-koet	Mordvio
+Saransk	Saransko
+Yâ-khiù	Basbalo
+Làm-khiù	Korbopilkado
+Kirov-chû	Kirova provinco
+Udmurtia Khiung-fò-koet	Udmurtio
+Sî-pak-li-â	Siberio
+Mari El Khiung-fò-koet	Mariio
+Yoshkar-Ola	Joŝkar-Ola
+Stellenbosch	Stellenbosch
+Sverdlovsk-chû	Sverdlovska provinco
+Cape Town	Kaburbo
+Chuvash Khiung-fò-koet	Ĉuvaŝio
+Durban	Durbano
+Cheboksary	Ĉeboksari
+Tat-tat-sṳ̂-thán Khiung-fò-koet	Tatarstano
+Penza-chû	Penza provinco
+Là-fî-ngì	Rafaelo
+Pí-tet Lû-pún-sṳ̂	Petro Paŭlo Rubens
+Ulyanovsk-chû	Uljanovska provinco
+Gung-gung-hi-tsaa	Aŭtobuso
+Kâ-thai-lò-nì-â	Katalunio
+Bashkortostan Khiung-fò-koet	Baŝkirio
+Chelyabinsk-chû	Ĉeljabinska provinco
+Pâ-lùn-sî-â Chhṳ-chhṳ-khî	Valencilando
+Khà-sṳ̂-tì-li-â lâu Lòi-ngong	Kastilio kaj Leono
+Kurgan-chû	Kurgana provinco
+Mô Chhe̍t-tûng	Mao Zedong
+Tyumen-chû	Tjumena provinco
+Omsk-chû	Omska provinco
+Thai-mí-ngì-ngî	Tamila lingvo
+Chet-ho̍k	Filozofio
+分類:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+Altai Khiung-fò-koet	Respubliko Altaj
+Kòng-khìm	Piano
+Gorno-Altaysk	Gorno-Altajsk
+Kemerovo-chû	Kemerova provinco
+Hebe Camargo	Hebe Camargo
+Chṳ̂-pún chú-ngi	Kapitalismo
+Koet-kâ	Lando
+Mìn-chhu̍k	Nacio
+Khanty-Mansi Chhṳ-chhṳ-khî	Ĥanti-Mansa aŭtonoma distrikto — Jugra
+Yamalo-Nenets Chhṳ-chhṳ-khî	Jamalo-Neneca aŭtonoma distrikto
+Montpellier	Montpellier
+分類:Thiên-vùn-ho̍k	Kategorio:Astronomio
+Khakassia Khiung-fò-koet	Ĥakasio
+Irkutsk-chû	Irkutska provinco
+Sakha Khiung-fò-koet	Jakutio
+Khiet-lò-âi-sî-â-ngî	Kroata lingvo
+Hon-pó	Hamburgero
+Buryatia Khiung-fò-koet	Burjatio
+Vû-làn Vû-tet	Ulan-Ude
+Amur-chû	Amura provinco
+Ngi-sṳ̍p Sṳ-ki	20-a jarcento
+Gotha	Gotha
+Dijon	Dijon
+Kâ-thai-lò-nì-â-ngî	Kataluna lingvo
+Nordhausen	Nordhausen
+Kit-lò-na̍p-sén	Ĝirono
+Eisenach	Eisenach
+Se-pâu Sâng-vu̍t-ho̍k	Ĉelbiologio
+Sṳ-kie Ngiùn-hòng Si̍p-thòn	Monda Banko
+A-la-pak Liên-mên	Ligo de Arabaj Ŝtatoj
+Mìn-tsú Tsú-ngi	Demokratio
+Chhîn-chhèu (秦朝)	Dinastio Qin
+Pet Thai-sî-yòng Kûng-yok Chû-chṳt	NATO
+Chhìn Sṳ Fòng	Qin Shihuangdi
+Hon-chhèu	Dinastio Han
+Hon Vú-ti Liù Chha̍t	Wu Di
+Sâng-vu̍t	Organismo
+Kiûn-chú-chṳ	Monarkio
+Khiung-fò-koet	Respubliko
+Yí-mô-khiù	Badmintono
+Ngièn-chhèu	Dinastio Yuan
+Nazi Tet-koet	Nazia Germanio
+Yù-thai-ngìn	Judoj
+Chang Fò	Ĉeng He
+Ngí	Orelo
+Phi	Nazo (organo)
+Ngién	Okulo
+Mûn-é	Moskito
+Mièn-yòng	Ŝafo
+Lo̍k-thò	Kamelo
+Phú-nen thung-vu̍t	Mamuloj
+Siong	Elefanto
+Ngie-kûng	Formiko
+Phûng-é	Abelo
+Hò-làn-ngî	Nederlanda lingvo
+Fà-thi̍t Thit-sṳ-nì Kûng-sṳ̂	Walt Disney Company
+Thot-yong Fu̍t-thông Fu̍t-son	DNA
+Khiô	Melongeno
+Siet	Neĝo
+Â-pâ	Patro
+Fûn	Minuto
+Yù-thai Chhṳ-chhṳ-chû	Hebrea Aŭtonomio
+Ngò-lò-sṳ̂-ngî	Rusa lingvo
+Tûng-nàm-â Koet-kâ Lièn-mèn	ASEAN
+Sakhalin-chû	Saĥalena provinco
+Mien-pâu	Pano
+Sṳ-kie Mo-yi Chû-chṳt	Monda Organizaĵo pri Komerco
+漢語	Ĉina lingvaro
+Se-pâu	Ĉelo (biologio)
+Hiet-yi̍t	Sango
+Hi	Pulmo
+Lò-mâ-nì-â-ngî	Rumana lingvo
+Pó-kâ-li-â-ngî	Bulgara lingvo
+Magadan-chû	Magadana provinco
+Chhṳ-yèn Khô-ho̍k	Naturscienco
+Het-chhe̍t Mìn	Kurosawa Akira
+Franklin D. Roosevelt	Franklin D. Roosevelt
+Thi-khiù Khô-ho̍k	Terscienco
+Sa̍k-thèu	Rokaĵo
+Yùn	Nubo
+Kí-hò-ho̍k	Geometrio
+Tet-lu-kú-ngî	Telugua lingvo
+Thai-hì-chhèn	Atmosfero (astro)
+Kak-lû-kit-â-ngî	Kartvela lingvo
+Kîn-chi-ho̍k	Ekonomiko
+Pîn-kóng	Pangkal Pinang
+漢字	Ĉina skribo
+Sî-lî-ngì Sṳ-mû	Cirila alfabeto
+Lâ-tên sṳ-mû	Latina alfabeto
+Vùn-ho̍k	Literaturo
+分類:Fap-koet	Kategorio:Francio
+分類:Yîm-ngo̍k	Kategorio:Muziko
+分類:Vùn-ho̍k	Kategorio:Literaturo
+Fù-lì	Vulpo
+La̍p-pá	Trumpeto
+Â-li̍t-sân-thai sâm-sṳ	Aleksandro la Granda
+Kiûn-sṳ-thán-tên Yit-sṳ	Konstantino la 1-a de la Romia Imperio
+Set-lû-sṳ thai-ti	Kiro la 2-a
+Vùn-mìn	Civilizo
+Kau-yuk	Eduko
+Kâ-thìn	Familio
+Nàm-ngìn	Viro
+Fûn-yîn	Geedzeco
+Kiûn-sṳ	Militfortoj
+Kâ-pî	Kafo
+Ngiù-nen	Lakto
+Sûn Chûng-sân	Sun Jatsen
+Â-yuk-vòng	Aŝoko
+香港	Honkongo
+Thai-yîn Ti-koet	Brita imperio
+Sú-ngì	Seulo
+Kâm-nái-thit Koet-chi Kî-chhòng	Internacia Flughaveno John F. Kennedy
+上海	Ŝanhajo
+Lùn-tûn Hî-sṳ̂-lu Kî-chhòng	Flughaveno London Heathrow
+Lùn-tûn Kak-vet Kî-chhòng	Flughaveno London Gatwick
+Set-vì-li-â	Sevilo
+Chhîn-chhèu	Dinastio Qing
+Â-ngì-pâ-nì-â-ngî	Albana lingvo
+Pâ-sṳ̂-khiet-ngî	Eŭska lingvo
+Â-lâ-kung-ngî	Aragona lingvo
+Yîn-koet Hòng-khûng	British Airways
+Â-mî-nì-â-ngî	Armena lingvo
+Vû-khiet-làn-ngî	Ukraina lingvo
+Pâ-lùn-sî-â	Valencio
+Shuì-tién-ngî	Sveda lingvo
+Tan-ma̍k-ngî	Dana lingvo
+Nò-vî-ngî	Norvega lingvo
+Kô-thi̍t-fu̍t-lòi-tet Vî-liâm Lòi-pu-nì-tsṳ	Gottfried Wilhelm Leibniz
+Tshia̍p-khiet-ngî	Ĉeĥa lingvo
+Sṳ̂-lo̍k-phat-khiet-ngî	Slovaka lingvo
+Sṳ̂-lo̍k-vì-nì-â-ngî	Slovena lingvo
+Hiûng-ngà-li-ngî	Hungara lingvo
+Oi-sâ-nì-â-ngî	Estona lingvo
+Là-thot-vì-â-ngî	Latva lingvo
+Li̍p-thâu-vón-ngî	Litova lingvo
+Pha̍k-ngò-lò-sṳ̂-ngî	Belorusa lingvo
+Kui-mí-thi̍t-lî Mùn-tet-lie̍t-fû	Dmitrij Mendelejev
+Ngièn-chṳ́	Atomo
+Lâ-set-fuk	Ernest Rutherford
+Hî-lia̍p-ngî	Greka lingvo
+Oi-ngì-làn-ngî	Irlanda lingvo
+Pô-sṳ̂-ngî	Persa lingvo
+Chûng-kau	Religio
+Chêu-sién-ngî	Korea lingvo
+Chhóng-sṳ-ki	Genezo
+Kóng-tûng-fa	Kantona lingvo
+Chhut-âi-khi̍p-ki	Eliro
+Ye̍t-nàm-ngî	Vjetnama lingvo
+Pó-lò	Paŭlo de Tarso
+Kô-mièn-ngî	Kmera lingvo
+Thai-ngî	Siama lingvo
+Mâ-lòi-ngî	Malaja lingvo
+Yin-nì-ngî	Indonezia lingvo
+Mùng-kú-ngî	Mongola lingvo
+Hâ-sat-khiet-ngî	Kazaĥa lingvo
+Vû-tsṳ̂-phe̍t-khiet-ngî	Uzbeka lingvo
+Thú-khù-màn-ngî	Turkmena lingvo
+Yù-thai-kau	Judismo
+Hî-pak-lói-ngî	Hebrea lingvo
+Â-set-pai-kiông-ngî	Azerbajĝana lingvo
+Mâ-khì-tun-ngî	Makedona lingvo
+Set-ngì-vì-â-ngî	Serba lingvo
+Set-ngì-vì-â Khiet-lò-thi-â-ngî	Serbokroata lingvo
+Pô-sṳ-nì-â-ngî	Bosnia lingvo
+Kâ-lî-sî-â-ngî	Galega lingvo
+Vî-ngì-sṳ̂-ngî	Kimra lingvo
+Sû-kak-làn Koi-ngì-ngî	Skotgaela lingvo
+Siak-khiet-kau	Sikismo
+John Maynard Keynes	John Maynard Keynes
+Lufthansa Hòng-khûng	Lufthansa
+Ló-chṳ́	Laozio
+Kôn-chhóng	Hepato
+Shìn	Reno
+Thu-é	Kuniklo
+Sṳ̀n-kîn Ne-thúng	Nerva sistemo
+Sîm-lî-ho̍k	Psikologio
+Sṳt-kâ-mèu-nì	Sidarto Gotamo
+Mâ-tên Lu-tet	Marteno Lutero
+Yî-kâ	Konfuceismo
+Thiên-chú-kau	Katolika Eklezio
+Tho-kau	Taoismo
+Chit-siói	Mjelo
+Sa̍t	Lango (anatomio)
+Yî-tshóng	Pankreato
+Hèu-thèu	Laringo
+Fuk-khiet-làn khiùn-tó	Insuloj Falklandoj
+Vàng-kak-mo̍k	Toraka diafragmo
+Lân-mî	Apendico
+Elizabeth Ngi-sṳ	Elizabeto la 2-a (Britio)
+Thòng-chhèu	Dinastio Tang
+John F. Kennedy	John F. Kennedy
+Mìn-chhèu	Dinastio Ming
+Dwight D. Eisenhower	Dwight D. Eisenhower
+Ronald Reagan	Ronald Reagan
+Sat-là-kô-sat	Zaragozo
+Kîm Tsang-ngit	Kim Ĝong-il
+Ngièn-su Chû-khì-péu	Perioda tabelo
+Chû-su̍k	Suo
+Mariano Rajoy	Mariano Rajoy
+Se-khiûn	Bakterioj
+Phù-thò	Vinbero
+Phûng-thòng	Mielo
+Thông	Sukero
+Vòng-theu	Sojfabo
+Kûng-chhàng-ho̍k	Inĝenierarto
+Vùn-fa	Kulturo
+Fan-vun	Sanskrito
+Sùn-fàn Hì-thúng	Kardiovaskula sistemo
+Sôn	Acido
+Yî-ho̍k	Medicino
+Néu-Yok Sṳ-kie Mo-yi Chûng-sîm	World Trade Center
+Hâ Màn-hâ-tun	Malalta Manhatano
+Yàm	Salo
+分類:Pâ-sî	Kategorio:Brazilo
+Màn-hâ-tun	Manhatano
+Ngièn-su	Kemia elemento
+Kâ-suk-thu	Akcelo
+Li̍t	Forto
+Kú	Tamburo
+Tsṳt-liông	Maso
+Thien-yáng	Filmo
+Kîm-su̍k	Metalo (fiziko)
+Nùng-ngia̍p	Agrikulturo
+Sâng-yîm	Sono
+Sṳ̀-kiên	Tempo
+Mien-chit	Areo
+Kûng-kîn	Kilogramo
+Kûng-tshak	Metro
+Miéu	Sekundo
+Pâu-siuk	Maizo
+Kûng-sṳ̂n	Litro
+Fà-ngì-kiê	Wall Street
+Tûng-nàm-â	Sud-Orienta Azio
+Tshùng-khin	Ĉongĉingo
+Thiên-tsîn	Tjanĝino
+Vú-hon-sṳ	Vuhano
+Kú Hî-lia̍p	Antikva Grekio
+Thomas Jefferson	Thomas Jefferson
+Vùi-sṳ̂-khà	Huesca
+Tychy	Tychy
+Pu-lie̍t-thap-nì-ngî	Bretona lingvo
+Brittany	Bretonio (franca regiono)
+Lóng	Surdeco
+Chhi̍t-phiang	Malsano
+Khien-không	Sano
+Sok-lî-â	Sorio
+Màn-tó-ngî	Manksa lingvo
+Chhiâng-môi-su	Penicilino
+Nantes	Nanto (Francio)
+Pot-thâm-fó	Tuberkulozo
+Mà-chiông	Maĝango
+模板:Location map Taiwan	Ŝablono:Situo sur mapo Tajvano
+Detroit	Detrojto
+Van-lî Tshòng-sàng	Granda Ĉina Muro
+Gard-sén	Gard
+Gers-sén	Gers
+Sông Garonne-sén	Haute-Garonne
+Sṳ̀n-sṳn Lò-mâ Ti-koet	Sankta Romia Imperio
+Ille-et-Vilaine-sén	Ille-et-Vilaine
+Isère-sén	Isère
+Chûng-kau Kói-kiet	Reformacio
+Sông Loire-sén	Haute-Loire
+Lot-sén	Lot
+Lozère-sén	Lozère
+Maine-et-Loire-sén	Maine-et-Loire
+Nì-pu-kap-nì-sat ngi-sṳ	Nebukadnecar la 2-a
+Mayenne-sén	Mayenne
+Morbihan-sén	Morbihan
+Nièvre-sén	Nièvre
+Nord-sén	Nord
+Calais Hói-hia̍p-sén	Pas-de-Calais
+Puy-de-Dôme-sén	Puy-de-Dôme
+Sông Pyrénées-sén	Hautes-Pyrénées
+Pyrénées-Orientales-sén	Pyrénées-Orientales
+Hâ Rhin-sén	Bas-Rhin
+Sông Rhin-sén	Haut-Rhin
+Saône-et-Loire-sén	Saône-et-Loire
+Sarthe-sén	Sarthe
+Sông Savoie-sén	Haute-Savoie
+Tarn-sén	Tarn
+Tarn-et-Garonne-sén	Tarn-et-Garonne
+Var-sén	Var (departemento)
+Vaucluse-sén	Vaucluse
+Vendée-sén	Vendée
+Yonne-sén	Yonne
+Yî-pí-li-â Pan-tó	Iberio
+Lai-kî	Liĉio
+Yâ-è	Kokoso
+Sa̍k-liù	Granatujo
+Chong-fa	Ĝŭanga lingvo
+Sông-sok-pu-ngî	Suprasoraba lingvo
+Na̍p-ngá-thi̍t-ngî	Naŭatla lingvo
+Mí-nàm-kâ-pó-ngî	Minankabaŭa lingvo
+Mirandés-ngî	Miranda lingvo
+Harvard Thai-ho̍k	Universitato Harvard
+Néu-yok Chṳn-khèn Kâu-yi-só	Novjorka Borso
+Lie̍t-yî-tha̍t-sén	Provinco Ilerdo
+Â-lâ-pak-ngî	Araba lingvo
+Kiú-chiu	Kjuŝuo
+Si-koet	Ŝikokuo
+O-khiet-ngî	Okcitana lingvo
+Nàm-fî Hò-làn-ngî	Afrikansa lingvo
+Lí Mìn-pok	Ji Mjong-bak
+Kâ Mà-chiok	Dompasero
+澳門	Makao
+Suhl	Suhl
+Mühlhausen	Mühlhausen (Turingio)
+Fù Kím-Thàu	Hu Jintao
+Si̍p Khiûn-phìn	Xi Jinping
+Chhòng-kiáng-lu̍k	Ĝirafo (specio)
+Phì-âi-mùng-thi̍t-ngî	Piemonta lingvo
+Thap-là-kô-na̍p	Taragono
+Provence-Alpes-Côte d'Azur	Provenco-Alpoj-Bordo Lazura
+Chhṳ̂m-chun-sṳ	Ŝenĵeno
+Kóng-tûng	Gŭangdongo
+Kóng-sî Chong-chhu̍k Chhṳ-chhṳ-khî	Gŭangŝjio
+Mô-kài	La Mastro de l' Ringoj
+Badajoz	Badaĥozo
+Lu̍k-yì-tó-yen	Gubernio Kagoŝimo
+Kiok	Piedo
+Sit-thit	Lacertuloj
+Altenburg	Altenburg
+Kiên	Ŝultro
+Midi-Pyrénées	Sudo-Pireneoj
+模板:Link FA	Ŝablono:LigoElstara
+Wikipedia:Chhâm-siòng	Vikipedio:Diskutejo
+Fu-mùng-thi̍t	Vermonto
+Hiû-sṳ̂-tûn	Houston (Teksaso)
+Kóng-chiu-sṳ	Kantono (Ĉinio)
+Chiông Kie-sa̍k	Ĉiang Kai-ŝek
+Nàm-kîn-sṳ	Nankingo
+Phiang-yèn	Malsanulejo
+Kông-sû	Ĝjangsuo
+Chet-kông-sén	Ĝeĝjango
+Thèn Séu-phìn	Deng Xiaoping
+Pet-phu Calais Hói-hia̍p	Nordo-Kaleza Markolo
+Pays de la Loire	Luarlandoj
+Languedoc-Roussillon	Langvedoko-Rusiljono
+Thiap-sat-lò-nì-kâ	Tesaloniko
+西藏自治區	Tibeto
+Hàng-thung Thien-fa	Poŝtelefono
+Thò-niâu	Struto
+Manchester	Manchester
+Pu-lû-khiet-lìm	Broklino
+Fòng-heu-khî	Kvinzo
+Liùng-yìn-sṳ	Jongin
+Lòng	Lupo
+Mâ-lòi Pan-tó	Malaja Duoninsulo
+Sîn-yok Sṳn-kîn	Nova testamento
+9	9 (nombro)
+Zung-gok Thaai-liuk	Ĉeftera Ĉinio
+Het-liùng-kông	Hejlongĝjango
+Mâ Yîn-kiú	Ma Ying-jeou
+Hiông-kóng-tó	Honkonga Insulo
+Ngà-tsông-sṳ	Nha Trang
+Podolsk	Podolsk
+Pô-tô Lì-kok Thu̍k-li̍p-tóng	Partio de la Sendependeco de Porto-Riko
+Lì-è	Azeno
+Si-chhôn-sén	Siĉuano
+Khiu-yok Sṳn-kîn	Malnova testamento
+Sṳn-tan-chiet	Kristnasko
+Lò-màn Ngî-chhu̍k	Latinida lingvaro
+Sâm-kok-hìn	Triangulo
+Steve Jobs	Steve Jobs
+Yin-Êu Ngî-ne	Hindeŭropa lingvaro
+Breinigerberg	Breinigerberg
+Lo-fú	Tigro
+Fù-ôn Khà-lo̍k-sṳ̂ Yit-sṳ	Johano Karlo la 1-a (Hispanio)
+Súi-ngièn-sṳ	Suvon
+Louis Couturat	Louis Couturat
+Thai-thièn Kóng-vet-sṳ	Deĝon
+Sṳ̂-khâm-tit-nâ-vì-â	Skandinavio
+Fu̍k-fa̍t-chiet	Pasko
+Koet-chi Yîm-phiêu	Internacia Fonetika Alfabeto
+Hò-pet	Hebejo
+Phú-lìm-sṳ̂-tun Thai-ho̍k	Universitato Princeton
+Fôn-hìn-muk	Cikonioformaj birdoj
+台灣	Tajvano
+Sa̍k-yù	Nafto
+Hài-è	Ŝuo
+Ngiùn-hòng	Banko
+Ngièn-lun Chhṳ-yù	Parollibereco
+Oi-ngì-làn	Irlando (insulo)
+Cheshire	Cheshire
+Cumbria	Kumbrio
+Lancashire	Lankaŝiro
+Northumberland	Northumberland
+Tyne and Wear	Tyne and Wear
+County Durham	County Durham
+Pet Yorkshire	North Yorkshire
+Lincolnshire	Lincolnshire
+Nottinghamshire	Nottinghamshire
+Derbyshire	Derbyshire
+Merseyside	Merseyside
+Leicestershire	Leicestershire
+Rutland	Rutland
+Lû-sùn	Lu Xun
+Northamptonshire	Northamptonshire
+Devon	Devon
+Oxfordshire	Oxfordshire
+Wiltshire	Wiltshire
+Hampshire	Hampshire
+Buckinghamshire	Buckinghamshire
+Surrey	Surrey
+West Sussex	West Sussex
+East Sussex	East Sussex
+Kent	Kent
+Thai Lùn-tûn	Granda Londono
+7	7 (nombro)
+8	8 (nombro)
+Lu̍k-é	Cervedoj
+Pên	Glacio
+Chú ke Khì-tó-vùn	Patro nia
+Ngìn-lui-ho̍k	Antropologio
+Fùng-hói	Ruĝa Maro
+Oi-tên-páu	Edinburgo
+Pha̍k-set	Blanko
+Marseille	Marsejlo
+Thai-chhûng-thèu	Cepo
+6	6 (nombro)
+Kôn-fông ngî-ngièn	Oficiala lingvo
+Kháu-kú-ho̍k	Arkeologio
+George H. W. Bush	George H. W. Bush
+Pâ-ngì-kòn pan-tó	Balkana duoninsulo
+Dmitry Medvedev	Dmitrij Medvedev
+Entrena	Entrena
+Sîn-kau	Protestantismo
+Selena	Selena
+Mî-koet Thai-khûng Chúng-shu	NASA
+Thai Put-lie̍t-tiên-tó	Britio (insulo)
+Pâ-le̍t-sṳ̂-thán	Palestino
+10	10 (nombro)
+Lila Downs	Lila Downs
+Lia̍p-pau	Gepardo
+Liverpool	Liverpool
+Bremen	Bremeno
+Sîn Nò-vî-ngî	Nynorsk
+Meu-thèu-tiâu	Strigoformaj birdoj
+Sṳ̀	Horo
+Fap-lò-ngî	Feroa lingvo
+Meu-khô	Felisedoj
+Koet-chi Thai-khûng Chhàm	Internacia Kosmostacio
+Tà-la-sṳ	Da Lat
+Tat-tat-ngî	Tatara lingvo
+Tshûng-liông	Pezo
+Tsûng-su	Daktilopalmo
+Fan-tshiet-sṳ	Phan Thiết
+Sî Fut-lî-sî-ngî	Frisa lingvaro
+Séu Vòng-chṳ́	La Eta Princo
+Phiàng-fông kûng-tshak	Kvadrata metro
+Li̍p-fông kûng-tshak	Kubmetro
+Fàn-chiet-thûng-vu̍t-mùn	Anelidoj
+Chhú-khô	Musedoj
+Lû-sêm-nì-â-ngî	Rusina lingvo
+Ede (Hò-làn)	Ede
+Fú-kîn	Granda orcino
+Sâ-thi̍t-fut-lî-sî-ngî	Saterfrisa lingvo
+Liû-khiù-koet	Rjukju-reĝlando
+Pet-fut-lî-sî-â-ngî	Nordfrisa lingvo
+Â-mê-ha̍p-lâ-ngî	Amhara lingvo
+蝠婆	Kiropteroj
+Tarnobrzeg	Tarnobrzeg
+Tiau-ǹg-thòi Lie̍t-yí	Senkaku-insuloj
+Khiung-fò-tóng (Mî-koet)	Respublikana Partio (Usono)
+Â-sṳ̂-thù-lî-â-sṳ̂-ngî	Asturia lingvo
+中國	Ĉinio
+O-thi-li Pâ-vî-li-â-ngî	Bavara lingvo
+Mìn-chú-tóng (Mî-koet)	Demokrata Partio (Usono)
+Sàng-tû-sṳ	Ĉengduo
+Âi-sṳ̂-thi̍t-lùi-mâ-thu-lâ-ngî	Ekstremadura lingvo
+Séu-su mìn-chhu̍k	Malplimulto
+Khiet-là-khô-fû	Krakovo
+臺灣省	Provinco Tajvano
+Sîn-kâ-po Hòng-khûng Kûng-sṳ̂	Singapore Airlines
+Thien-nó Thôn-chhèn Só-mèu	Komputila tomografio
+Vî-nî-sṳ̂-ngî	Venecia lingvo
+Vì-phú-sêm-ngî	Vepsa lingvo
+Fu̍t-lò-ngî	Voroa lingvo
+Pân-mâ	Zebro
+Khô-sî-kâ-ngî	Korsika lingvo
+Buryat-ngî	Burjata lingvo
+Sùn-tho-chûng	Metodistoj
+Suk-vú-ngî	Cebua lingvo
+Chavacano-ngî	Ĉabakana lingvo
+Tha̍t-lò-phî-thû Ngî-hì	Dravida lingvaro
+客家語	Hakaa lingvo
+Fut-liù-li-ngî	Friula lingvo
+Kàm-ngî	Gana lingvo
+Pok-vu̍t-kón	Muzeo
+Yin-thu Yî-lóng Ngî-chhu̍k	Hindirana lingvaro
+Thai-yùng-meu	Granda pando
+Kalmyk-ngî	Kalmuka lingvo
+Mân-ngî	Manĉura lingvo
+Kû-li̍p ngî-ngièn	Senparenca lingvo
+Kit-là-kî-ngî	Gila lingvo
+Khà-sû-pí-ngî	Kaŝuba lingvo
+Karachay-Balkar-ngî	Karaĉaja-balkara lingvo
+Lùn-pâ-tí-ngî	Lombarda lingvo
+Sú	Mano
+Thu fú	Du Fu
+Maranao-ngî	Maranaa lingvo
+O-lî-â-ngî	Odia lingvo
+Ngìn-khiéu	Loĝantaro
+Nò-man-thi-ngî	Normanda lingvo
+Pâng-â-sî-nâm-ngî	Pangasina lingvo
+Pet-sat-mí-ngî	Nord-samea lingvo
+O-set-thôi-ngî	Oseta lingvo
+Sî-sî-lî-ngî	Sicilia lingvo
+Sat-tên-nî-â-ngî	Sarda lingvo
+Nì-ngá-ngì-ngî	Nevara lingvo
+Valparaíso	Valparaiso
+Yên-yèn	Aktoro
+Thap-kâ-lo̍k-ngî	Tagaloga lingvo
+Thùng	Bronzo
+Vlaams-ngî	Flandra lingvo
+Fà-liùng-ngî	Valona lingvo
+Sú-ngî	Signolingvo
+Yî-ngî	Siĉuana jia lingvo
+Międzyrzec Podlaski	Międzyrzec Podlaski
+Phiêu-chún Chhông-ngî	Tibeta lingvo
+Ngá-shuì-ngá-shuì-ngî	Varaja lingvo
+N̂g-ngî	Vua lingvo
+Woodrow Wilson	Woodrow Wilson
+Fu̍t-sân-sṳ	Foŝan
+Ngiù-chîn Thai-ho̍k	Universitato de Oksfordo
+Sú-tsṳ́	Fingro
+Sṳ̍p-thiàu Kie-min	La Dekalogo
+Yok-hon-nì-sṳ̂-páu	Johanesburgo
+Kî-tuk Kau-fi	Eklezio
+Pau-é	Leopardo
+Sîn-kiông	Ŝinĝjango
+Muk-kôa	Papajo
+Pu-lî-sṳ̂-pân	Brisbano
+Vî-liâm Lùn-khìm	Wilhelm Conrad Röntgen
+Chû-chhèu	Dinastio Zhou
+Ido-ngî	Ido (lingvo)
+Brad Pitt	Brad Pitt
+Pa̍k-kiûng	Blanka Domo (Vaŝingtono)
+Tha̍t-mâ-thai-ngî	Dalmata lingvo
+Tat-tat-chhu̍k	Tataroj
+Thai-fán-sṳ	Osako
+Sên-khiù-ngî	Lingwa de Planeta
+Kiam-khiâu Thai-ho̍k	Universitato de Kembriĝo
+Kûng-khín	Hektaro
+Sé-lî	Bapto
+Pông-hâ	Astmo
+Chuk	Bambuo
+Hiligaynon-ngî	Hiligajnona lingvo
+Fù Tsṳ-mìn	Ho Chi Minh
+Thièn-piên-fú	Dien Bien Phu
+Khûn-sṳ-làn-chû	Kvinslando
+Ha-liùng-sṳ	Ha Long
+Mìn-nì-â-pô-li-sṳ̂	Minneapolis
+Li-kú-lî-â-ngî	Ligura lingvo (latinida)
+Phô-lò-chû	Borneo
+Khà-phién-phién-kâm-ngî	Pampanga lingvo
+Sun-fa-sṳ	Hue
+Tshòng-thu	Longo
+Sṳ̂-chhù-chṳ̂-lu	Silka Vojo
+Mô-li-ngî	Maoria lingvo
+Mên-tûng-ngî	Min-donga lingvo
+Tô-se-pâu sâng-vu̍t	Metazoo
+Mên-nàm-ngî	Minnana lingvo
+Tshiên-ngièn	Jarmilo
+Ho̍k-miàng	Dunoma nomsistemo
+Vì-tô-li-â-chû	Viktorio (Aŭstralio)
+Chong-chhu̍k	Ĝŭangoj
+Aung San Suu Kyi翁山蘇姬	Aung San Suu Kyi
+Yok-hon-fuk-yîm	Evangelio laŭ Johano
+William Vòng-chṳ́	William Mountbatten-Windsor
+Chhṳ̀n Kóng-sâng	Jackie Chan
+12	12 (nombro)
+Vok-là-phú-khiet-ngî	Volapuko
+Toshiro Mifune	Mifune Toshiro
+Kám-lám-su	Olivarbo
+Só-lò-mùn-vòng	Salomono
+O-khiet-làn	Auckland
+Chhṳ̍t-sien	Rekto
+11	11 (nombro)
+13	13 (nombro)
+Sûn-chṳ́	Sun Tzu
+Sṳn-lìn	Sankta Spirito
+Lû-pu-lìm	Lublin
+Thì-thèu	Ternukso
+100	100 (nombro)
+Tshit-thèu	Genuo
+Tô-piên-hìn	Plurlatero
+Nàm Chûng-koet Hói	Sudĉina Maro
+Campora San Giovanni	Campora San Giovanni
+Pien-set-liùng	Ĥameleono
+Bloemfontein	Bloemfontein
+Ngiam-set-thí	Kromosomo
+O-khiet-làn Vùn-fap Ho̍k-káu	Auckland Grammar School
+Ngióng-kông	Jangono
+Ma̍k-tông-lò Kûng-sṳ̂	McDonald's
+1000000	Miliono
+Meu-miàng-sṳ	Maoming
+Liú-chiu-sṳ	Ljuĝou
+Pet-pan-khiù	Norda duonglobo
+Ló-chhú	Muso (besto)
+Thí-tsit	Volumeno
+Het-tsṳ̂	Herco
+Pak-pân-khiet	Burbank (Kantono Los-Anĝeleso)
+Sien-lia̍p-thí	Mitokondrio
+Yî-sên	Kuracisto
+Ki-sa̍k-chhṳn	Stonehenge
+Chúng-thí Kîn-chi-ho̍k	Makroekonomiko
+Ágreda	Ágreda
+Lu-kâ-fuk-yîm	Evangelio laŭ Luko
+Sîn Kí-nui-â	Nov-Gvineo
+Sṳ́-thù-hàng-chhon	Agoj de la Apostoloj
+Mô-hái	Krabo
+PH	PH (kemia parametro)
+Khì-tó	Preĝo
+Ôn-fui-sén	Anhujo
+Nui Mùng-kú	Interna Mongolio
+Kîm Ngit-sṳ̀n	Kim Il-sung
+Chhái-na̍p Koet-chi Phú-chhu Ngî-ngièn Thoi-péu-thòn	Delegacio por alpreno de la lingvo internacia
+Pí-tet-kô-sṳ̍p	Bydgoszcz
+Nottingham	Nottingham
+Thai-ví-vòng	Davido
+Li-vi-ki	Levidoj
+Sṳ̂-thán-fuk Thai-ho̍k	Universitato Stanford
+Fuk-kian	Fuĝjano
+Kûng-khiet	Gramo
+Mùng-kú-tshu̍k	Mongoloj
+Khí-sṳ-liu̍k	Apokalipso de Johano
+Kô-yòng-sṳ	Gojang
+Fu-chhôn-sṳ	Buĉon
+Sàng-nàm-sṳ	Songnam
+Ôn-sân-sṳ	Ansan
+Ôn-yông-sṳ	Anjang
+Chhîn-chû-sṳ	Ĉeongju
+Chhûn-chhôn-sṳ	Ĉunĉon
+Buckingham Kiûng	Palaco Buckingham
+Hói-nàm	Hajnano
+Yén-tûng	Fora Oriento
+Ngiên-kiu	Scienca esplorado
+Kâm-suk	Gansuo
+Pha̍k Se-pâu	Leŭkocito
+York	York
+Tsiú	Kubuto
+Sṳ̂n-min-ki	Readmono
+Sû-chû-sṳ	Suĝoŭo
+Vûn-chû-sṳ	Venĝou
+Windsor Sàng-páu	Kastelo Windsor
+Hòn-chhu̍k	Hanoj
+Nèn-pô-sṳ	Ningbo
+Tet-koet-ngìn	Germanoj
+Ko-men	Alergio
+Fù-khì	Hirudo
+Kîm-yùng	Financoj
+1000	1000 (nombro)
+Mìn-su-ki	Nombroj
+Liu̍k Khiet-vùn	Kevin Rudd
+Yùn-nàm	Junano
+Vû-â	Korvo
+Plymouth	Plymouth
+Sân-tûng	Ŝandongo
+Pí	Brako
+Derby-sṳ	Derby
+Thàn-khîn Fa-ha̍p-vu̍t	Hidrokarbido
+Hò-nàm	Henano
+Montehermoso	Montehermoso
+Liâu-nèn	Ljaŭningo
+El Cid	Cido
+Jim Morrison	Jim Morrison
+Kóng-khiéu	Haveno
+Kit-lìm	Ĝilinio
+Fù-nàm	Hunano
+Chhiâng-hói	Ĉinghajo
+Vì-ngâ-ngì-tshu̍k	Ujguroj
+Rhône-sén	Rhône (departemento)
+Koet-kâ Kûng-yèn	Nacia parko
+Pâ-lì Charles-de-Gaulle Koet-chi Kî-chhòng	Flughaveno Roissy-Charles-de-Gaulle
+Chṳ̂-sán	Aktivo
+O-le̍t-liòng	Aŭreliano
+Fù-pet	Hubejo
+Sân-sî	Ŝanŝio
+Hòng-khûng Kûng-sṳ̂	Flugkompanio
+Hò-khiéu-vân	Estuaro
+Chûng-set	Bruna
+Kui-chû	Gŭiĝoŭo
+Berkelland	Berkelland
+Chûng-khi Sṳ̀n-kîn Ne-thúng	Centra nerva sistemo
+Yî-fut-só	Efeso
+Ôn-tha̍t-màn Hói	Andamana Maro
+Yok-sû-â-ki	Josuo (libro)
+Sî-pet Yîn-kak-làn	Nordokcidenta Anglio
+Shám-sî-sén	Ŝenŝjio
+Tûng-pet Yîn-kak-làn	Nordorienta Anglio
+Tûng Midlands	East Midlands
+Tûng Yîn-kak-làn	Oriento de Anglio
+Tûng-nàm Yîn-kak-làn	Sud-orienta Anglio
+Sî-nàm Yîn-kak-làn	Sud-okcidenta Anglio
+模板:Commonscat	Ŝablono:Commonscat
+Sî Midlands	West Midlands
+Yorkshire lâu Humber	Yorkshire and the Humber
+Kòn Se-pâu	Praĉelo
+Lò-mâ-sû	Epistolo al la romanoj
+Mâ-liuk-kap Hói-hia̍p	Malaka Markolo
+Yù-thai Vòng-koet	Regno de Jehuda
+Fî-yí Mî-koet Het-ngìn	Afrik-usonanoj
+Mà-sat-chû-set Lî-kûng Ho̍k-yen	Masaĉuseca Instituto de Teknologio
+Pô-sṳ-tun Thai-ho̍k	Universitato de Bostono
+Yâ-lû Thai-ho̍k	Universitato Yale
+Fûn-lî	Nupto
+Fî-li̍p-pí-sû	Epistolo al la filipianoj
+Thiên-koet Pat-fuk	Beatecoj
+Mî-koet Lièn-pâng Chún-phi Ne-thúng	Federacia Rezerva Sistemo (Usono)
+Kúai-é	Anuro
+Hâ Sî-lî-sî-â-sén	Malsuprasilezia Provinco
+Khù-â-vì - Pô-mî-là-nì-â-sén	Kujavia-Pomeria Provinco
+Lû-pu-lìm-sén	Lublina Provinco
+Lû-pu-sṳ̂-khà-sén	Lubuŝa Provinco
+Lò-tsṳ-sén	Lodza Provinco
+Séu Pô-làn-sén	Malgrandpollanda Provinco
+Mâ-tsó-fû-sá-sén	Mazovia Provinco
+O-pô-lòi-sén	Opola Provinco
+Khak-ngì-pâ-yèn-sân-sén	Ĉekarpata Provinco
+Pô-tet-là-chhia-sén	Podlaĥia Provinco
+Pô-mî-là-nì-â-sén	Pomeria Provinco
+Sî-lî-sî-â-sén	Silezia Provinco
+Sṳn-sṳ̍p-sṳ-sén	Sanktakruca Provinco
+Sî Pô-mî-là-nì-â-sén	Okcidentpomeria Provinco
+Pâ-lùn-sî-â-sén	Valencio (provinco)
+Sat-là-kô-sat-sén	Provinco Zaragozo
+Vùi-sṳ̂-khà-sén	Provinco Huesko
+Sok-lî-â-sén	Provinco Sorio
+Kîm Tsang-ên	Kim Ĝong-un
+Kông-sî	Ĝjangŝio
+Wernher von Braun	Wernher von Braun
+Nèn-ha	Ningŝjao
+Lí Hién-liùng	Lee Hsien Loong
+Phòng-châ-phú-ngî	Panĝaba lingvo
+Phú-sṳ̍p-thok-ngî	Paŝtoa lingvo
+Yâ-chû	Apro
+Chû-hói-sṳ	Ĝuhaj
+Sân-thèu-sṳ	Ŝantoŭo
+Shâu-kûan-sṳ	Ŝaoguan
+Kông-mùn-sṳ	Ĝjanmen
+Chhám-kông-sṳ	Ĝanczjan
+Tûng-kôn-sṳ	Dongguan
+Chhèu-chiu-sṳ	Ĉaoĝou
+Mâ-liuk-kap-sṳ	Malako (urbo)
+Khiâu-chhṳ-sṳ	Ĝorĝtaŭno (Penango)
+Sṳn-chhôn-lî	Komunio
+Fuk-chiu-sṳ	Fuĝoŭo
+Hà-mûn-sṳ	Sjamen
+Chông-chiu-sṳ	Ĝanĝou
+Sî-pak-li-â Fú	Siberia tigro
+Buren	Buren (Gelderland)
+Yáng-chhiong Chín-thôn-ho̍k	Radiologio
+Rumia	Rumia
+Kluczbork	Kluczbork
+La̍p-tsuk	Kandelo
+Hiet-chiong	Sangoplasmo
+Southampton	Southampton
+Lu-tet-ki	Libro de Rut
+Hâ-sat-khiet-chhu̍k	Kazaĥoj
+Chit-fûn-ho̍k	Integralo
+Kô-lìm-tô-chhièn-sû	1-a epistolo al la korintanoj
+Sî-pân-ngà Ti-koet	Hispana Imperio
+Sṳ-sṳ̂-ki	Juĝistoj (libro)
+Po-lîn-chhòi	Legoma spinaco
+Pâ-set-lò-nâ-sén	Provinco Barcelono
+Liuk-piên-hìn	Seslatero
+Thòi-pet 101	Taipei 101
+Lùn-tûn Thap-khiâu	Tura ponto
+Luì-kûng	Tondro
+Siù-li Yún-kòn-sien-chhùng	Caenorhabditis elegans
+O-pô-lòi	Opole
+Sopot	Sopot
+Kám-lám-yù	Oliv-oleo
+Chim-sin-fi	Baptismo
+Set-vì-li-â-sén	Provinco Sevilo
+Thap-là-kô-na̍p-sén	Provinco Taragono
+Provence-sén	Provenco
+Kî-hài Kûng-chhàng	Mekanika inĝenierarto
+Apeldoorn	Apeldoorn
+Lìm-pó-ngî	Limburga lingvo
+Khái-ngì-chhái	Kielce
+Bytom	Bytom
+Ôn-sit-ngit	Ŝabato
+Khìm-sṳ̂-thok-khok-ngá	Częstochowa
+Zabrze	Zabrze
+Ôn-sit-ngit-fi	Sepataga Adventisma Eklezio
+Jean Michel Jarre	Jean Michel Jarre
+Thai Pô-làn Thi-khî Kô-yî-fû	Gorzów Wielkopolski
+Là-tô-mê	Radom
+Lo̍k-chham-ki-yen	Kantono Los-Anĝeleso
+Słupsk	Słupsk
+Sosnowiec	Sosnowiec
+Gliwice	Gliwice
+Yo̍k-sṳ̂	Apotekisto
+Bielsko-Biała	Bielsko-Biała
+Rybnik	Rybnik
+Tân-fu̍t Se-pâu	Monocito
+Mâ-khó-fuk-yîm	Evangelio laŭ Marko
+Ruda Śląska	Ruda Śląska
+Kîn-tû-fú	Gubernio Kioto
+Kau-su	Profesoro
+Thai-fán-fú	Gubernio Osaka
+Fuk-kông-yen	Gubernio Fukuoka
+Oi-yèn-yen	Gubernio Ehime
+Kô-lìm-tô-heu-sû	2-a epistolo al la korintanoj
+Khien-mî	Korpokulturado
+Chhùng-hièn	Tervermo
+Port Elizabeth	Port Elizabeth
+Kimberley (Nàm-fî)	Kimberley (Sud-Afriko)
+Yok-sâ-fap-vòng	Jehoŝafat
+Sî Khôi-phú-sén	Okcidenta Kablando
+Yamaguchi-yen	Gubernio Jamaguĉi
+Khiâu-chhṳ Sâm-sṳ	Georgo la 3-a (Britio)
+Chûng-koet Thi-fông	Ĉugoku
+Mî-koet Thu̍k-li̍p Siên-ngièn	Usona Deklaro de Sendependeco
+Sâm-tshûng-yen	Gubernio Mie
+Yù-mu̍k mìn-chhu̍k	Nomado
+Hiông-pak-su	Cedro
+Hî-pak-lòi-sû	Epistolo al la hebreoj
+Kâ-lâ-thai-sû	Epistolo al la galatoj
+Sông-chhèu	Dinastio Shang
+Thai-thúi	Femuro
+Pîn-khù-yen	Gubernio Hjogo
+Kiûng-khì-yen	Gubernio Mijazaki
+Yùng-pún-yen	Gubernio Kumamoto
+Stamford Raffles	Stamford Raffles
+Sha̍m-é	Cikadedoj
+Tûng Khôi-phú-sén	Orienta Kablando
+Fap-koet Hòng-khûng	Air France
+Lie̍t-vòng-ki-song	1-a libro de la Reĝoj
+Kô-lò-sî-sû	Epistolo al la koloseanoj
+Ngâ-kok-sû	Epistolo de Jakobo
+Yok-hon-yit-sû	1-a epistolo de Johano
+Fî-li-mùn-sû	Epistolo al Filemono
+Thiap-sat-lò-nì-kâ-heu-sû	2-a epistolo al la tesalonikanoj
+Thiap-sat-lò-nì-kâ-chhièn-sû	1-a epistolo al la tesalonikanoj
+Pí-tet-chhièn-sû	1-a epistolo de Petro
+Thì-mô-thai-chhièn-sû	1-a epistolo al Timoteo
+Lí Kông-yeu	Lee Kuan Yew
+Chṳ̂-kâ-kô Thai-ho̍k	Universitato de Ĉikago
+Tsṳ̂-fo-yen	Gubernio Ŝiga
+Mu-nì-het Kî-chhòng	Flughaveno Munkeno
+Yok-hon-ngi-sû	2-a epistolo de Johano
+Thì-mô-thai-heu-sû	2-a epistolo al Timoteo
+Thì-tô-sû	Epistolo al Tito
+Yî-sṳ̂-lâ-ki	Libro de Ezra
+Nì-hî-mí-ki	Libro de Neĥemja
+Pietersburg	Polokwane
+Séu Pha̍k-Lù	Malgranda egretardeo
+Chhòn-ngiam-phiang	Infekta malsano
+Kôn-yàm	Hepatito
+Chhûn-chiet	Ĉina novjara festo
+Shinzō Abe	Abe Shinzo
+Mpumalanga-sén	Mpumalanga
+Pet Khôi-phú-sén	Norda Kablando
+Tó-kîn-yen	Gubernio Ŝimane
+Kông-sân-yen	Gubernio Okajama
+Gauteng-sén	Ĥaŭtengo
+Thung-fûng	Podagro
+Thai-fûn-yen	Gubernio Oita
+Tiâu-tshí-yen	Gubernio Tottori
+Nùng-la̍k	Ĉina kalendaro
+Kô-tî-yen	Gubernio Koĉi
+Pha̍k-hèu	Difterio
+Exeter	Exeter
+Saint Lawrence-hò	Sankt-Laŭrenco (rivero)
+Limpopo-sén	Provinco Limpopo
+Sân-tá-kîn	Sandakan
+Â-pí	Kinabalu (urbo)
+Phok Kiún-fi	Park Geun-hye
+Lévis	Lévis
+Thòi-fûng	Tajfuno
+Thòi-nàm-sṳ	Tajnan
+Laval (Québec)	Lavalo
+Mâ-lòi Pô-lî-nì-sî-â Ngî-chhu̍k	Malajopolinezia lingvaro
+Fên-yòng-sṳ	Hengjang
+Mân-chiu-tshu̍k	Manĉuroj
+Zambrów	Zambrów
+Doetinchem	Doetinchem
+Zamość	Zamość
+Malbork	Malbork
+Groesbeek	Groesbeek
+Mì-chit-fûn-ho̍k	Kalkulo
+Mì-fûn	Diferenciala kalkulo
+Ngo̍k-yòng-sṳ	Juejang
+BP	BP (firmao)
+Sú-thiàu	Terpomfingroj
+Kiok-tsṳ́	Piedfingro
+Vî-liâm Â-li̍t-sân-thai (Hò-làn)	Willem-Alexander de Nederlando
+Krasnystaw	Krasnystaw
+Kî-kîm-fi	Fondaĵo
+Fûng-sái	Kakinoko
+Tshṳ̍t-tshòng	Rektumo
+Chhṳ-yù Pâng-sén	Provinco Liberŝtato
+Tsó-fo-yen	Gubernio Saga
+Tet-tó-yen	Gubernio Tokuŝima
+Sî-pân-ngà-ngìn	Hispanoj
+Fu̍t-chhṳ̂ Khiung-chṳn Sṳ̀n-siong	Magneta resonanca bildigo
+Hiông-tshon-yen	Gubernio Kagaŭa
+Reading, Berkshire	Reading
+Kâ-chû Lî-kûng Ho̍k-yen	Kalifornia Instituto de Teknologio
+Êu-kí-lî-tet Kí-hò	Eŭklida geometrio
+Si̍t-kuk	Silicon Valley
+Barneveld	Barneveld
+Khiu Tha̍t-sîn	Taksin Ĉinaŭat
+Thai Sùn-thâ Khiùn-tó	Grandaj Sundaj Insuloj
+Elburg	Elburg
+Doesburg	Doesburg
+Sî-pet-sén	Nordokcidenta Provinco (Sud-Afriko)
+Sien-thon	Rektosegmento
+Vûn-tai	Modera klimato
+Thai-khi̍t-khièn	Tajĝiĉuano
+Kiok-khwá	Maleolo
+Pân-kiêu-é	Turto
+Tshòng-khì-yen	Gubernio Nagasaki
+Hà-chhèu	Dinastio Xia
+Chû-vì Sṳ̀n-kîn Ne-thúng	Periferia nerva sistemo
+Kip-sú	Serio (matematiko)
+Nelspruit	Mbombela
+Sâ-là-ye̍t-chû	Saravako
+Â-chû Thai-phìn-yòng Kîn-tsi Ha̍p-tsok Fi-ngi	Azia-Pacifika Ekonomia Kunlaborado
+Kôan-chiet-yàm	Artrito
+Geldermalsen	Geldermalsen
+Montauban	Montauban
+Chhòng-sâ-sṳ	Ĉangŝa
+Thai Put-lie̍t-tiên lâu Oi-ngì-làn Lièn-ha̍p Vòng-koet	Unuiĝinta Reĝlando de Granda Britio kaj Irlando
+Kiok-kiên	Kalkano
+Kûng-fûn	Centimetro
+Lièn-ha̍p Hòng-khûng	United Airlines
+Yen-thèu	Faringo
+Hò-mí	Milimetro
+Mì-mí	Mikrometro
+Khi̍t-han (Sú-ho̍k)	Limeso
+Theu-fú	Tofuo
+Phù-sat	Bodhisatvo
+Chóng-ló Kau-fi	Presbiteriismo
+Nai-mí	Nanometro
+Berlanga de Duero	Berlanga de Duero
+Sâ-pâ-chû	Sabaho
+Nàm-nèn-sṳ	Naningo
+Ngâ-li-ôn-ngìn	Arjoj
+Yù-sṳn-mî-thi Koet-kâ Kûng-yèn	Nacia Parko Yosemite
+Chhiâng-set	Cejana
+Ho̍k-yen	Fakultato
+Kô-hiùng-sṳ	Kaoŝiung
+Pet-mî Chhṳ-yù Mo-yi Hia̍p-ngi	NAFTA
+Rustenburg	Rustenburg
+Yen-tsong-fui	Koncerto
+Yù-fu̍t-chû	Ĝohoro
+Ngò-lò-sṳ̂ Lièn-pâng Chhṳ̍t-hot-sṳ	Federacia urbo (Rusio)
+Fì-tshu̍k	Hujoj
+Sha̍k-sṳ	Magistro
+Preston, Lancashire	Preston
+Sâm-koet	Tri reĝlandoj
+Chan-koet Sṳ̀-khì	Militŝtata periodo
+Mâ-liuk-kap-chû	Malako
+Pietermaritzburg	Pietermaritzburg
+Sú-vón	Pojno
+Kit-làn-tan-chû	Kelantano
+Tshông-tshu̍k	Tibetanoj
+Pîn-sàng-chû	Penango
+Blackburn	Blackburn
+Pâng-kâ-tó	Insulo Bangka
+Phìn-chhông-khiùn	Pjonĉango
+Thai-koet Koet-chi Hòng-khûng Kûng-sṳ̂	Thai Airways
+Thai Ngi̍t-pún Ti-koet	Japana Imperio
+Hiûng-nù	Ŝiungnuoj
+Phit-li̍t-chû	Perako
+Kui-lìm-sṳ	Gujlin
+Siet-làn-ngô-chû	Selangoro
+Tui-kok-sien	Diagonalo
+Fi-li-phi Liuk-sṳ	Filipo la 6-a (Hispanio)
+Kûng-tún	Tuno
+Phàng-hên-chû	Pahango
+中國象棋	Ĉina ŝako
+Pit-sṳn-hak	Pizza Hut
+Kiu-ên	Savo
+Nàm-kîn Thai-thù-sat	Masakro de Nankingo
+Yún Chṳ-Hau	Yun Chi-ho
+Phì-mí	Pikometro
+Ngiù-ngiuk	Bovaĵo
+Carlisle, Cumbria	Carlisle (Kumbrio)
+Sandomierz	Sandomierz
+Ngit-tèu-kông	Sunradiado
+Khwon-kûan-tsiet	Kokso
+Chàu-yòng-sṳ	Ŝaojan
+Hién-mì-kiang	Mikroskopo
+Chu-chû-sṳ	Ĝuĝou
+Phàng-fù-yen	Penghuoj
+Kûng-tshun	Decimetro
+McGill Thai-ho̍k	Universitato McGill
+Sâm-fòng Ńg-ti	Tri Suverenoj kaj Kvin Imperiestroj
+Sanok	Sanok
+Mâ-tshâ	Armea ĉaro
+Milton Keynes	Milton Keynes
+Ên-tién	Graco
+Sṳ̀n-chhùng	Imagino
+Chang Thien-chṳ́ Fat-sa Kie-son-kî Thôn-chhèn Só-mèu	Pozitrona emisia tomografio
+Przemyśl	Przemyśl
+Chhiòn-khiû Sàng-sṳ	Mondurbo
+Tûng Lùn-tûn, Tûng Khôi-phú-sén	Orient-Londono
+Sat-mû-ngí-ki-ha	2-a libro de Samuel
+Li̍t-thoi-chṳ-ha	2-a libro de la Kroniko
+Lie̍t-vòng-ki-ha	2-a libro de la Reĝoj
+Biała Podlaska	Biała Podlaska
+Mafikeng	Mahikeng
+Mí-sâ-yên Khiùn-tó	Bisajoj
+Slough	Slough
+Thì-mô-thai	Sankta Timoteo
+Tûng-hò, Néu-yok-sṳ	East River (Novjorko)
+Chhêu-fông-hìn	Hiperkubo
+Sêm-mî-làn-chû	Negeri-Sembilano
+Brzeg	Brzeg
+Łomża	Łomża
+Siong-thâm-sṳ	Sjantan
+Thûng-tshu̍k	Dongoj
+Pak-fo Kûng-sṳ̂	Ĉiovendejo
+Thòi-vân Ngièn-tshu-mìn	Aborigenoj de Tajvano
+Tha̍t-vat-ngì-tshu̍k	Dauroj
+Outaouais	Otavio
+Kuî-é	Testuduloj
+Pak-sâ-sat	Belŝacaro
+Yî-set-lie̍t Vòng-koet	Izraela reĝlando
+Sîn-sân-sṳ	Johor Bahru
+Khiu-kîm-sân Vân	Golfo de San-Francisko
+Chełm	Chełm
+Pha̍k-ngìn	Blankulo
+Â-ha̍p-vòng	Ahabo
+Suwałki	Suwałki
+Sî-làn-ngî	Zelanda lingvo
+Epe	Epe
+Chû Khiet-lùn	Jay Chou
+Kiú-liùng	Kaŭluno
+Ngie-mí-li-ôn Lò-mâ-nok-ngî	Emilia-romanja lingvo
+Sîn-pet-sṳ	Novtajpeo
+Thòi-chûng-sṳ	Tajĉung
+Jędrzejów	Jędrzejów
+Busko-Zdrój	Busko-Zdrój
+Àu-thai-li-â Ngièn	Aŭstralia dolaro
+Kroonstad	Kroonstad
+Yî-pó-sṳ	Ipoh
+Ná-pô-pha-lâ-sâ-ngì	Nabopolasaro
+Pha̍k-chhu̍k	Bajoj
+Pińczów	Pińczów
+Aalten	Aalten
+Xuxa	Xuxa
+Hajnówka	Hajnówka
+Lubartów	Lubartów
+Montréal-tó	Insulo Montrealo
+Lì-tshu̍k	Lioj
+Peter Nalitch	Pjotr Naliĉ
+Nâ-tap-vòng	Nadab
+Â-sat-vòng	Asa
+Chong Koet-yùng（Chong Fat-chûng）	Leslie Cheung
+Biłgoraj	Biłgoraj
+Chhî Chai-Phit	Philip Jaisohn
+Puławy	Puławy
+Abitibi-Témiscamingue	Abitibio-Temiskamingio
+Staszów	Staszów
+Mò-tóng-sit	Sendependa (politiko)
+Kâu-thûng kûng-khí	Veturilo
+Phok Hièn-yún	Park Heon-young
+Fùng Puk-kím Kiê	Ora fazano
+Grajewo	Grajewo
+Łapy	Łapy
+Chûng-chhiû-chiet	Luna Festo
+Fùng-theu	Azuki-fabo
+Łuków	Łuków
+Łęczna	Łęczna
+Świdnik	Świdnik
+Pô-sṳ̂ Ti-koet	Aĥemenida Imperio
+Mâ-thai-fuk-yîm	Evangelio laŭ Mateo
+Sṳ̍p-sṳ-ka	Kristana kruco
+Yî-fut-só-sû	Epistolo al la efesanoj
+Sòng-tet-sṳ	Changde
+Nui-kông-sṳ	Nejĝjan
+Fún-fùng-set	Roza
+Nâ-sat-le̍t	Nazareto
+Augustów	Augustów
+Windsor, Berkshire	Windsor (Anglio)
+Hí Chṳ̂n-shuk	Heo Jong-suk
+Tczew	Tczew
+Fù-chṳ-mìn-sṳ Kî-chhòng	Flughaveno Tan Son Nhat
+Vû-tsṳ-phe̍t-khiet-chhu̍k	Uzbekoj
+Thap-kit-khiet-tshu̍k	Taĝikoj
+Wal-Mart Kûng-sṳ̂	Walmart
+Yùn-tôn yun-son	Nuba komputado
+Ńg-sùn-chiet Yun-thung	Pentekosta Kristanismo
+Liu̍k-theu	Mungfabo
+Chêu-siên-chhu̍k	Koreoj
+Khúa-ngì-khiet-tsṳ-tshu̍k	Kirgizoj
+Burgo de Osma-Ciudad de Osma	Burgo de Osma
+Sông-hói Ha̍p-tsok Tsû-tsṳt	Ŝanhaja Organizo por Kunlaboro
+Yì Kit-chùn	Yu Gil-jun
+Reus	Reus
+San Esteban de Gormaz	San Esteban de Gormaz
+Het-mien Phî-lù	Orienta plataleo
+Sṳ̀n-chheu-fi	Asembleoj de Dio
+Phok Chhùng-yòng	Park Jung-yang
+Sâ-â-nàm	Shah Alam
+Starogard Gdański	Starogard Gdański
+Mauricie	Maŭricio (Kebekio)
+Strzelce Opolskie	Strzelce Opolskie
+Hò-làn Tâi-thi Sat-khiet-sêm-ngî	Malaltsaksa lingvo nederlande
+Kâu-thûng	Aŭtotransporto
+Tha̍t-mâ-thai	Dalmatio
+Pán-khièu-khî	Panĉiao
+Mo-yi	Komerco
+Kędzierzyn-Koźle	Kędzierzyn-Koźle
+Duiven	Duiven
+Yo̍k-ho̍k	Farmacio
+Kóng-tó-yen	Gubernio Hiroŝima
+Ólvega	Ólvega
+Skarżysko-Kamienna	Skarżysko-Kamienna
+Kô-tá-ha̍p-lû-sṳ	Bharu
+Kông-phú	Spektro
+Mielec	Mielec
+Vù-kau-piáng	Flanpano
+Wejherowo	Wejherowo
+Néu-yok Tû-fi-khî	Metropola areo de Novjorko
+Lanaudière	Lanodierio
+Thap-lùn-ti-nò-ngî	Taranta lingvo
+Thai-ngâ-tshu̍k	Atajaloj
+Phìn-fông Kûng-lî	Kvadrata kilometro
+Phìn-tûng-sṳ	Ping Tung (Tajvano)
+Chùng-chṳ́	Zongzio
+Lìm-pâ Se-pâu	Limfocito
+Hak-kâ thú-lèu	Tulou
+Jarosław	Jarosław (regiono Podkarpackie)
+Â-chû Thien-sṳ Yû-han Kûng-sṳ̂ (Hiông-kóng)	Atv hongkong
+Gaspésie–Îles-de-la-Madeleine	Gaspegio - Magdalena Insularo
+Ostrowiec Świętokrzyski	Ostrowiec Świętokrzyski
+Chojnice	Chojnice
+Bronckhorst	Bronckhorst
+Mì-fûn-ho̍k	Diferencialo
+Włodawa	Włodawa
+Starachowice	Starachowice
+Stalowa Wola	Stalowa Wola
+Chat-ho̍k Pok-sṳ	Doktoro de filozofio
+Ermelo	Ermelo
+Thông-phûng	Abeledoj
+Tshûng-shîn-yen	Gubernio Okinavo
+Końskie	Końskie
+Madrid Chhṳ-chhṳ Thai-ho̍k	Aŭtonoma Universitato de Madrido
+Medway	Medway
+Nysa, Pô-làn	Nysa
+Pó-ôn-chhu̍k	Bonanoj
+Culemborg	Culemborg
+Kôan-tan-sṳ	Kuantan
+Sokółka	Sokółka
+Thâu-thông-shì	Yao
+Krosno	Krosno
+Kûng-lî	Kilometro
+Almarza	Almarza
+Aldealices	Aldealices
+Aldealafuente	Aldealafuente
+Alentisque	Alentisque
+Adradas	Adradas
+Alconaba	Alconaba
+Abejar	Abejar
+Aldealpozo	Aldealpozo
+Alcubilla de las Peñas	Alcubilla de las Peñas
+Aldealseñor	Aldealseñor
+Alcubilla de Avellaneda	Alcubilla de Avellaneda
+Covaleda	Covaleda
+Almazul	Almazul
+Arcos de Jalón	Arcos de Jalón
+Aldehuela de Periáñez	Aldehuela de Periáñez
+Almenar de Soria	Almenar de Soria
+Vinuesa	Vinuesa
+Duruelo de la Sierra	Duruelo de la Sierra
+San Leonardo de Yagüe	San Leonardo de Yagüe
+Tai-tshu̍k	Dajoj
+Mùn-pâ-tshu̍k	Monpaoj
+Kiong-tshu̍k	Ĉiangoj
+Yîn-koet-ngìn	Britoj
+Ngá-tshu̍k	Vaoj
+Brummen	Brummen
+Fû-yûng-sṳ	Seremban
+Jasło	Jasło
+Â-chhông-chhu̍k	Aĉangoj
+Bielsk Podlaski	Bielsk Podlaski
+Beuningen	Beuningen
+Thú-tshu̍k	Tuoj
+Pân-kap	Lentuga kolombo
+Vì-kî Pak-khô Ngî-ngièn Lie̍t-péu	Vikipedio:Internacia Vikipedio
+Pu-lóng-chhu̍k	Blangoj
+Bracknell Sêm-lìm	Bracknell Forest
+Tomaszów Lubelski	Tomaszów Lubelski
+Hrubieszów	Hrubieszów
+Pet Québec Thi-khî	Nord-Kebekio
+Montérégie	Montereĝio
+Druten	Druten
+Dębica	Dębica
+Grahamstown	Grahamstown
+Cape Town Thai-ho̍k	Universitato de Kaburbo
+Kraśnik	Kraśnik
+Dęblin	Dęblin
+Radzyń Podlaski	Radzyń Podlaski
+Prudnik	Prudnik
+Tân-vi	Unuo
+Wokingham	Wokingham
+Welkom	Welkom
+Vryheid	Vryheid
+Vi	Stomako
+Liùng-hâ	Omaro
+Chaudière-Appalaches	Ŝodierio-Apalaĉio
+Pet-ngan Thi-khî (Québec)	Nord-Bordio
+Àu-choi Fôn	Selbekulo
+Kî-chhòng	Flughaveno
+Chûng-koet Ngò-lò-sṳ̂-tshu̍k	Rusoj en Ĉinio
+Windsor lâu Maidenhead	Windsor and Maidenhead
+分類:Tet-koet	Kategorio:Germanio
+分類:Yi-thai-li	Kategorio:Italio
+分類:Kâ-nâ-thai	Kategorio:Kanado
+分類:Sî-pân-ngà	Kategorio:Hispanio
+分類:Chûng-koet	Kategorio:Ĉinio
+分類:Ngi̍t-pún	Kategorio:Japanio
+分類:Àu-thai-li-â	Kategorio:Aŭstralio
+分類:Yin-thu	Kategorio:Barato
+分類:Yî-set-lie̍t	Kategorio:Israelo
+分類:Nàm-fî	Kategorio:Sud-Afriko
+Redcar and Cleveland	Redcar and Cleveland
+分類:Yin-thu-nì-sî-â	Kategorio:Indonezio
+分類:Pâ-kî-sṳ̂-thán	Kategorio:Pakistano
+分類:Pô-làn	Kategorio:Pollando
+分類:Sîn-kâ-po	Kategorio:Singapuro
+分類:Hòn-koet	Kategorio:Sud-Koreio
+分類:Thai-koet	Kategorio:Tajlando
+分類:Ye̍t-nàm	Kategorio:Vjetnamio
+分類:Phú-nen-lui	Kategorio:Mamuloj
+分類:Tiâu	Kategorio:Birdoj
+分類:Chhṳ̍t-vu̍t	Kategorio:Plantoj
+分類:Vu̍t-lí-ho̍k	Kategorio:Fiziko
+分類:Chhṳ-yèn Khô-ho̍k	Kategorio:Naturscienco
+分類:Sâng-vu̍t-ho̍k	Kategorio:Biologio
+分類:Fa-ho̍k	Kategorio:Kemio
+分類:Li̍t-sṳ́	Kategorio:Historio
+分類:Thi-lî	Kategorio:Geografio
+分類:Sa-fi	Kategorio:Socio
+分類:Chûng-kau	Kategorio:Religio
+分類:Thí-yuk	Kategorio:Sporto
+分類:Khô-ho̍k	Kategorio:Scienco
+分類:Lièn-ha̍p-koet	Kategorio:Unuiĝintaj Nacioj
+分類:Êu-chû Lièn-mèn	Kategorio:Eŭropa Unio
+分類:Kien-chuk-vu̍t	Kategorio:Konstruaĵoj
+分類:Thûng-sin	Kategorio:Komunikado
+分類:Thi-khiù	Kategorio:Tero
+Sî Berkshire	West Berkshire
+Kú Lò-mâ	Romio
+Tsui-heu ke Sṳ́m-phan	Lasta juĝo
+Middelburg, Mpumalanga-sén	Middelburg (Mpumalanga)
+Sat-mû-ngí-ki-song	1-a libro de Samuel
+分類:Chet-ho̍k	Kategorio:Filozofio
+分類:Fu̍t-kau	Kategorio:Budhismo
+分類:Kî-tuk-kau	Kategorio:Kristanismo
+分類:Yù-thai-kau	Kategorio:Judismo
+Ên-tiâu	Aglo
+Bochotnica	Bochotnica
+Chiông-Kiûn-Àu	Tseung Kvan O
+Bothaville	Bothaville
+分類:Hàng-sên	Kategorio:Planedoj
+分類:Vùn-fa	Kategorio:Kulturo
+分類:Ngìn-vùn Khô-ho̍k	Kategorio:Homa scienco
+分類:Tî-sṳt	Kategorio:Scio
+Ap-è	Anaso
+分類:Yên-yèn	Kategorio:Aktoroj
+模板:Tl	Ŝablono:Ŝ
+模板:Userbox	Ŝablono:Uzantoskatolo1
+模板:Wikipedialang	Ŝablono:ĈefPaĝo/AliajLingvoj
+分類:Koet-kâ	Kategorio:Landoj
+Wikipedia:Kón-lî-yèn	Vikipedio:Administrantoj
+分類:Chûng-fà Mìn-chhu̍k	Kategorio:Etnoj en Ĉinio
+分類:Ngìn-vu̍t	Kategorio:Personoj
+分類:Mìn-chhu̍k	Kategorio:Etnoj
+Wikipedia:Hàng-tsṳn-yèn	Vikipedio:Burokratoj
+Wikipedia:IP chhà-fûng li-ngoi-chá	Vikipedio:Imuneco de IP-forbaro
+Wikipedia:Kî-hi-ngìn	Vikipedio:Roboto
+分類:Sṳ̀-kiên	Kategorio:Tempo
+分類:Chhṳ-yèn	Kategorio:Naturo
+分類:Kûng-chhàng	Kategorio:Inĝenierarto
+分類:Yî-ho̍k	Kategorio:Medicino
+分類:Chṳn-chṳ	Kategorio:Politiko
+分類:Kau-yuk	Kategorio:Edukado
+分類:Kông-ho̍k	Kategorio:Optiko
+Âi-khi̍p	Egiptujo
+分類:Chat-ho̍k-kâ	Kategorio:Filozofoj
+模板:Bot	Ŝablono:Bot
+Kâ-nâ-thai	Kanado
+分類:Hiûng-ngà-li	Kategorio:Hungario
+分類:Hî-lia̍p	Kategorio:Grekio
+分類:Lâ-thot-vì-â	Kategorio:Latvio
+分類:Yù-hi	Kategorio:Ludoj
+分類:Êu-chû koet-kâ	Kategorio:Eŭropaj landoj
+分類:Êu-chû	Kategorio:Eŭropo
+模板:Documentation	Ŝablono:Dok
+Wikipedia:Yung-fu	Vikipedio:Rajtoj de uzantoj
+Pok-sṳ	Doktoro
+Wikipedia:Sa-khî	Portalo:Komunumo
+分類:Wikipedians by language	Kategorio:Vikipediistoj laŭ lingvo
+Sṳ̀n Chhai-kî	Sung Jae-gi
+Khi-néu Kî-chhòng	Flugkompania nabo
+Khî-ngia̍p	Profitcela organizaĵo
+Ngiuk-yèn	Viandobulo
+模板:Softredirect	Ŝablono:Intervikia plusendilo
+模板:Delete	Ŝablono:Forigu tuj
+分類:Kî-su̍t	Kategorio:Teknologio
+分類:Ngî-ngièn	Kategorio:Lingvoj
+Wikipedia:Chhóng-kien Sîn Thiàu-muk	Helpo:Kiel krei paĝon
+分類:還無索引嘅頁面	Kategorio:Neindeksitaj paĝoj
+分類:含有損壞文件鏈接嘅頁面	Kategorio:Paĝoj kun eraraj dosierligiloj
+模板:Navbox	Ŝablono:Navigilo2
+Thoi-chhú	Kanguruo
+Pak-ha̍p-fâ	Lilio
+模板:!	Ŝablono:!
+模板:!-	Ŝablono:!-
+模板:Tnavbar	Ŝablono:Tnavbar
+模板:Unicode	Ŝablono:Unicode
+模板:Smallcaps	Ŝablono:Etmajuskloj
+模板:Small	Ŝablono:Malgrande
+模板:Nowrap	Ŝablono:Nrsp
+分類:Fî-chû	Kategorio:Afriko
+分類:Sṳn-kîn	Kategorio:Biblio
+分類:Sî-pet-sén	Kategorio:Nordokcidenta Provinco (Sud-Afriko)
+分類:Si	Kategorio:Libroj
+模板:Pâ-phe̍t	Ŝablono:Babelejo
+模板:Reflist	Ŝablono:Referencoj
+模板:Stub	Ŝablono:Ĝermo
+模板:User ca-1	Ŝablono:Vikipediisto ca-1
+模板:User de	Ŝablono:Vikipediisto de
+模板:User de-1	Ŝablono:Vikipediisto de-1
+模板:User en-3	Ŝablono:Vikipediisto en-3
+模板:User en-1	Ŝablono:Vikipediisto en-1
+模板:User en-2	Ŝablono:Vikipediisto en-2
+模板:User en-4	Ŝablono:Vikipediisto en-4
+模板:User en-0	Ŝablono:Vikipediisto en-0
+模板:User en	Ŝablono:Vikipediisto en
+模板:User de-2	Ŝablono:Vikipediisto de-2
+分類:Yî-chhiu	Kategorio:Universo
+模板:User ja-1	Ŝablono:Vikipediisto ja-1
+模板:User fr	Ŝablono:Vikipediisto fr
+模板:Location map/Info	Ŝablono:Situo sur mapo/informoj
+分類:Khûn-chhùng	Kategorio:Insektoj
+分類:Â-chû	Kategorio:Azio
+分類:Chṳ-li	Kategorio:Ĉilio
+分類:Sok-lî-â-sén	Kategorio:Provinco Sorio
+分類:Nàm-mî-chû	Kategorio:Sudameriko
+分類:Khà-sṳ̂-tì-li-â lâu Lòi-ngong	Kategorio:Kastilio kaj Leono
+模板:Esoteric	Ŝablono:Esotera
+分類:Mâ-lòi-sî-â	Kategorio:Malajzio
+分類:Sṳ̍t-phín	Kategorio:Manĝaĵoj
+模板:Mod	Ŝablono:Mod
+模板:SIL	Ŝablono:ISO639-3 ligilo
+模板:User es-2	Ŝablono:Vikipediisto es-2
+模板:Fôn-ngiàng	Ŝablono:Bonvenon
+分類:Chû-chṳt	Kategorio:Organizaĵoj
+分類:Ngî-ngièn-ho̍k	Kategorio:Lingvoscienco
+模板:ITA	Ŝablono:ITA
+模板:SVK	Ŝablono:SVK
+模板:Infobox Country	Ŝablono:Informkesto lando
+模板:TUR	Ŝablono:TUR
+分類:User en-4	Kategorio:Vikipediisto en-4
+分類:User en	Kategorio:Vikipediisto en
+分類:User zh	Kategorio:Vikipediisto zh
+分類:User zh-N	Kategorio:Vikipediisto zh-D
+分類:User en-2	Kategorio:Vikipediisto en-2
+模板:User zh	Ŝablono:Vikipediisto zh
+模板:Cite web	Ŝablono:Citaĵo el la reto
+分類:Hòng-khûng	Kategorio:Aviado
+分類:Yím-sṳ̍t	Kategorio:Kuirarto
+模板:Fong-wui	Ŝablono:Kompasdirektoj
+模板:BS3	Ŝablono:FL3
+模板:Pp-semi-template	Ŝablono:Pp-duone-ŝablono
+分類:Tsúng-thúng	Kategorio:Prezidantoj
+模板:IPA	Ŝablono:IFA
+分類:Chṳn-chṳ Ngìn-lui	Kategorio:Politikistoj
+分類:Mî-chû	Kategorio:Ameriko
+模板:其他	Ŝablono:Aliaj signifoj
+分類:Language user templates	Kategorio:Babelaj ŝablonoj
+模板:User language-N	Ŝablono:Babel kadro D
+模板:Imbox	Ŝablono:BildaMesaĝokesto
+Wikipedia:GNU自由文檔協議證書	Vikipedio:GNU Free Documentation License
+模板:Topicon	Ŝablono:Titola ikono
+模板:大洋洲行政區劃	Ŝablono:Landoj kaj teritorioj de Oceanio
+分類:Vùn-ho̍k-kâ	Kategorio:Verkistoj
+分類:Kiûn-sṳ	Kategorio:Armitaj fortoj
+分類:Thai-ho̍k	Kategorio:Universitatoj
+模板:Lang-he	Ŝablono:Lang-he
+模板:Both	Ŝablono:Booland
+分類:Sṳ-kie Pok-lám-fi	Kategorio:Internaciaj ekspozicioj
+分類:Chûng-fà Ngìn-mìn Khiung-fò-koet Chú-sit	Kategorio:Prezidantoj de Ĉinio
+模板:Documentation subpage	Ŝablono:Ŝablona navigado
+分類:Fu̍k-tsông	Kategorio:Budhismaj monaĥoj
+模板:FIN	Ŝablono:FIN
+模板:Lang-de	Ŝablono:Lang-de
+模板:DNK	Ŝablono:DNK
+模板:Userpage	Ŝablono:Uzula paĝo
+模板:DEU	Ŝablono:DEU
+模板:SWE	Ŝablono:SWE
+模板:User language-4	Ŝablono:Babel kadro 4
+分類:Ye̍t-nàm kî-chhòng	Kategorio:Flughavenoj de Vietnamio
+Kiet-tshòng	Kojlo
+分類:Kûng-sṳ̂	Kategorio:Firmaoj
+模板:User fr-3	Ŝablono:Vikipediisto fr-3
+模板:JPN	Ŝablono:JPN
+分類:Thien-nó	Kategorio:Komputilo
+模板:MKD	Ŝablono:MKD
+模板:LTU	Ŝablono:LTU
+Mô-li-ngìn	Maorioj
+模板:Disambig	Ŝablono:Apartigilo
+模板:Tick	Ŝablono:Hoko
+分類:Khien-không Khô-ho̍k	Kategorio:Sanscienco
+模板:User nan	Ŝablono:Vikipediisto zh-min-nan
+模板:User nan-1	Ŝablono:Vikipediisto zh-min-nan-1
+模板:GRC	Ŝablono:GRC
+模板:Lang-grc	Ŝablono:Lang-grc
+模板:CZE	Ŝablono:CZE
+模板:Lifetime	Ŝablono:Vivtempo
+模板:Lang-en	Ŝablono:Lang-en
+分類:Chhòn-ngiam-phiang	Kategorio:Infektaj malsanoj
+分類:Sîn-kau	Kategorio:Protestantismo
+模板:GBR	Ŝablono:GBR
+分類:Sâng-vu̍t	Kategorio:Vivaĵoj
+模板:SVN	Ŝablono:SVN
+模板:FRA	Ŝablono:FRA
+模板:User pt-2	Ŝablono:Vikipediisto pt-2
+分類:Kâ-li-sî-â	Kategorio:Galegio
+模板:歐洲行政區劃	Ŝablono:Ŝtatoj en Eŭropo
+分類:User yue	Kategorio:Vikipediisto zh-yue
+分類:User fr	Kategorio:Vikipediisto fr
+分類:User ja	Kategorio:Vikipediisto ja
+分類:User pt	Kategorio:Vikipediisto pt
+分類:User nl-3	Kategorio:Vikipediisto nl-3
+分類:User fr-2	Kategorio:Vikipediisto fr-2
+分類:User ja-2	Kategorio:Vikipediisto ja-2
+分類:User ko-N	Kategorio:Vikipediisto ko-D
+分類:User fr-N	Kategorio:Vikipediisto fr-D
+分類:Vùn-sṳ	Kategorio:Skribsistemoj
+分類:Tho-kau	Kategorio:Taoismo
+分類:User ca	Kategorio:Vikipediisto ca
+分類:User ca-1	Kategorio:Vikipediisto ca-1
+分類:User de	Kategorio:Vikipediisto de
+分類:User de-2	Kategorio:Vikipediisto de-2
+分類:User de-N	Kategorio:Vikipediisto de-D
+分類:User en-3	Kategorio:Vikipediisto en-3
+分類:User en-N	Kategorio:Vikipediisto en-D
+分類:User es	Kategorio:Vikipediisto es
+分類:User es-2	Kategorio:Vikipediisto es-2
+分類:User es-N	Kategorio:Vikipediisto es-D
+分類:Kí-hò-ho̍k	Kategorio:Geometrio
+分類:User ja-1	Kategorio:Vikipediisto ja-1
+分類:User ko	Kategorio:Vikipediisto ko
+模板:Lang-vi	Ŝablono:Lang-vi
+分類:Thiên-hi	Kategorio:Vetero
+分類:Hói-yòng	Kategorio:Maroj
+分類:Ido-ngî	Kategorio:Ido
+模板:LUX	Ŝablono:LUX
+分類:Thai-yòng-ne	Kategorio:Sunsistemo
+分類:Kóng-tûng-sén	Kategorio:Gŭangdongo
+分類:Fuk-kian	Kategorio:Fuĝjano
+分類:Kîn-chi	Kategorio:Ekonomio
+分類:Koet-chi Chû-chṳt	Kategorio:Internaciaj organizaĵoj
+分類:Fat-mìn-kâ	Kategorio:Inventistoj
+分類:Yím-liau	Kategorio:Trinkaĵoj
+分類:Sa-fi Khô-ho̍k	Kategorio:Socia scienco
+分類:Mî-koet Koet-kâ Kûng-yèn	Kategorio:Naciaj parkoj de Usono
+分類:Kô-tén Kau-yuk	Kategorio:Altnivela edukado
+分類:Thi-hìn	Kategorio:Terformoj
+分類:Pâ-lùn-sî-â Chhṳ-chhṳ-khî	Kategorio:Valencilando
+模板:User ja-2	Ŝablono:Vikipediisto ja-2
+分類:Thiên-chú-kau	Kategorio:Katolikismo
+分類:Yîm-ngo̍k-kâ	Kategorio:Muzikistoj
+模板:Lang	Ŝablono:Lang
+分類:Fa-kâ	Kategorio:Pentristoj
+分類:Yin-thu chûng-kau	Kategorio:Religio en Barato
+分類:Ho̍k-su̍t	Kategorio:Universitato
+分類:Sa-fi chṳ-thu	Kategorio:Sociaj institucioj
+分類:Ngìn-lui	Kategorio:Homoj
+模板:CYP	Ŝablono:CYP
+分類:Yin-thu Thi-lî	Kategorio:Geografio de Barato
+分類:Sông-ngia̍p	Kategorio:Komerco
+分類:Fap-koet fòng-ti	Kategorio:Imperiestroj de Francio
+模板:EST	Ŝablono:EST
+模板:AUT	Ŝablono:AUT
+分類:Meu-khô	Kategorio:Felisedoj
+分類:Thòi-vân Thi-lî	Kategorio:Geografio de Tajvano
+模板:User zh-3	Ŝablono:Vikipediisto zh-3
+模板:User zh-4	Ŝablono:Vikipediisto zh-4
+分類:Nì-pok Thi-lî	Kategorio:Geografio de Nepalo
+分類:Thai-khûng-ngìn	Kategorio:Kosmonaŭtoj
+分類:Khî-ngia̍p-kâ	Kategorio:Entreprenistoj
+分類:Fî-li̍t-pîn	Kategorio:Filipinoj
+分類:User nl	Kategorio:Vikipediisto nl
+分類:User zh-1	Kategorio:Vikipediisto zh-1
+分類:User zh-4	Kategorio:Vikipediisto zh-4
+分類:User zh-3	Kategorio:Vikipediisto zh-3
+分類:User zh-2	Kategorio:Vikipediisto zh-2
+分類:Ho̍k-vi	Kategorio:Akademiaj titoloj
+分類:Pô-sṳ̂ koet-vòng	Kategorio:Persaj reĝoj
+分類:Kîm-yùng	Kategorio:Financoj
+分類:Thien-sṳ	Kategorio:Televido
+分類:Chhòn-kau-sṳ	Kategorio:Misiistoj
+分類:Hói-hia̍p	Kategorio:Markoloj
+分類:Yin-Êu Ngî-ne	Kategorio:Hindeŭropa lingvaro
+分類:Kî-chhòng	Kategorio:Flughavenoj
+分類:Fa-ho̍k ngièn-su	Kategorio:Kemiaj elementoj
+分類:Khô-ho̍k-kâ	Kategorio:Sciencistoj
+分類:Pâ-kî-sṳ̂-thán Thi-lî	Kategorio:Geografio de Pakistano
+分類:Kî-tuk-kau lî-ngì	Kategorio:Liturgio
+分類:Nì-pok	Kategorio:Nepalo
+分類:Thòi-vân	Kategorio:Tajvano
+分類:Chûng-koet chhèu-thoi	Kategorio:Ĉinaj dinastioj
+分類:Pet-mî-chû koet-kâ	Kategorio:Nordamerikaj landoj
+分類:Sṳ-tshòi	Kategorio:Legomoj
+分類:Súi-kó	Kategorio:Fruktoj
+分類:Khiu-yok Sṳn-kîn	Kategorio:Malnova Testamento
+分類:Pok-vu̍t-kón	Kategorio:Muzeoj
+分類:Hì-hèu	Kategorio:Klimato
+分類:Â-chû Thi-lî	Kategorio:Geografio de Azio
+分類:Ngìn-lui-ho̍k	Kategorio:Antropologio
+分類:Thai-khûng Chhàm	Kategorio:Kosmostacioj
+分類:Fap-koet Thai-ho̍k	Kategorio:Universitatoj de Francio
+模板:ESP	Ŝablono:ESP
+分類:Thung-vu̍t	Kategorio:Bestoj
+分類:Chit-chhûi Thung-vu̍t	Kategorio:Vertebruloj
+分類:Ngî-yîm-ho̍k	Kategorio:Fonetiko
+分類:Hòng-khûng Kûng-sṳ̂	Kategorio:Flugkompanioj
+分類:Ngìn-khièn	Kategorio:Homaj rajtoj
+分類:Ngo̍k-hi	Kategorio:Muzikaj instrumentoj
+分類:Ngî-ne	Kategorio:Lingvaj familioj
+分類:Hon-sṳ	Kategorio:Ĉina skribo
+分類:Pó-sa̍k	Kategorio:Gemoj
+分類:Koet-kâ Kûng-yèn	Kategorio:Naciaj parkoj
+分類:Hi-siong-ho̍k	Kategorio:Meteologio
+分類:Chûng-mî-chû	Kategorio:Mezameriko
+分類:Fî-kîm-su̍k	Kategorio:Nemetaloj
+分類:Hiông-kóng	Kategorio:Honkongo
+分類:Yên-liau	Kategorio:Brulaĵoj
+分類:Sông-hói	Kategorio:Ŝanhajo
+分類:Sin-sit kî-su̍t	Kategorio:Informa teknologio
+分類:Ngiuk-lui	Kategorio:Viandoj
+分類:Yo̍k-ho̍k	Kategorio:Apoteko
+分類:Sú-tû	Kategorio:Ĉefurboj
+分類:Nàm-Â	Kategorio:Suda Azio
+分類:Kham-thap-pu-lî-â	Kategorio:Kantabrio
+分類:Â-sṳ̂-thù-lî-â-sṳ̂-sén	Kategorio:Asturio
+分類:Kîm-su̍k	Kategorio:Metaloj
+分類:Thòi-pet-sṳ	Kategorio:Tajpeo
+分類:Lò-màn Ngî-chhu̍k	Kategorio:Latinida lingvaro
+分類:Kâu-thûng	Kategorio:Transporto
+分類:Ngiên-kiu	Kategorio:Esploro
+分類:Thông-lui	Kategorio:Karbonhidratoj
+分類:Fòng-ti	Kategorio:Imperiestroj
+分類:Nàm-tó ngî-hì	Kategorio:Aŭstronezia lingvaro
+分類:Pet-mî-chû	Kategorio:Nordameriko
+分類:Kô-sú	Kategorio:Kantistoj
+分類:Si-chhòng	Kategorio:Tibeto
+分類:Sú-ho̍k-kâ	Kategorio:Matematikistoj
+分類:Vu̍t-lî ho̍k-kâ	Kategorio:Fizikistoj
+分類:Kîn-chi ho̍k-kâ	Kategorio:Ekonomikistoj
+分類:Mìn-tsú	Kategorio:Demokratio
+分類:Kî-tuk-kau Li̍t-sṳ́	Kategorio:Historio de kristanismo
+分類:Àu-mûn	Kategorio:Makao
+分類:Hàng-sên-ne	Kategorio:Planedaj sistemoj
+分類:Thòi-vân ngî-ngièn	Kategorio:Lingvoj de Tajvano
+分類:Khiù-lui Yun-thung	Kategorio:Pilkosportoj
+分類:Ngiùn-hòng	Kategorio:Bankoj
+Fu̍k-vu	Servo
+分類:Kâ-thai-lò-nì-â	Kategorio:Katalunio
+分類:Khien-không	Kategorio:Sano
+模板:Lang-pl	Ŝablono:Lang-pl
+Trojany	Trojany
+分類:Â-chû koet-kâ	Kategorio:Aziaj landoj
+分類:Mî-chû koet-kâ	Kategorio:Amerikaj landoj
+模板:User nan-2	Ŝablono:Vikipediisto zh-min-nan-2
+模板:MLT	Ŝablono:MLT
+分類:Kûng-yèn	Kategorio:Parkoj
+分類:Sùn-fàn Hì-thúng	Kategorio:Sangocirkula sistemo
+分類:Thòi-vân ngièn-tshu-mìn ngî-ngièn	Kategorio:Formoza lingvaro
+分類:Koet-tsi kîn-tsi tsû-tsṳt	Kategorio:Internaciaj ekonomiaj organizaĵoj
+分類:Lâ-tên Mî-chû	Kategorio:Latin-Ameriko
+分類:Chûng-fà Mìn-koet	Kategorio:Respubliko Ĉinio
+分類:Siak-khiet-kau	Kategorio:Sikismo
+分類:Sa-fi Mìn-tsú Tsú-ngi	Kategorio:Socialdemokratiismo
+模板:BEL	Ŝablono:BEL
+分類:Kú-thoi chhu̍k-khiùn	Kategorio:Antikvaj etnoj
+分類:Pâ-lùn-sî-â-sén	Kategorio:Provinco Valencio
+分類:Chûng-kau-ho̍k	Kategorio:Religioscienco
+分類:Thien-fa	Kategorio:Telefono
+模板:TPE	Ŝablono:TPE
+分類:Ngân-set	Kategorio:Koloroj
+分類:Â-là-kung	Kategorio:Aragono
+模板:Chûng-fà Mìn-koet Hàng-chṳn Khî-va̍k	Ŝablono:Administra divido de Tajvano
+分類:Lie̍t-yî-tha̍t-sén	Kategorio:Provinco de Ilerdo
+分類:Sat-là-kô-sat-sén	Kategorio:Provinco Zaragozo
+模板:HUN	Ŝablono:HUN
+模板:Yin-thu-nì-sî-â	Ŝablono:Administra divido de Indonezio
+Vòng-phûng	Vespo
+分類:User en-1	Kategorio:Vikipediisto en-1
+分類:User de-1	Kategorio:Vikipediisto de-1
+Li̍t-thoi-chṳ-song	1-a libro de la Kroniko
+Liû-khiû Khiùn-tó	Rjukju-insularo
+模板:User ru-3	Ŝablono:Vikipediisto ru-3
+模板:User nl-3	Ŝablono:Vikipediisto nl-3
+Yòng-ya̍p-é	Rhopalocera
+Chûng-koet Chhèu-thoi	Ĉinaj dinastioj
+Ngiên-kiu-só	Graduate school
+模板:Style/IPA	Ŝablono:Style/IPA
+模板:Style/yid	Ŝablono:Style/yid
+模板:Ping	Ŝablono:Respondo al
+Yun Hyon-seok	Yun Hyon-seok
+特殊:最近更改	Specialaĵo:Lastaj ŝanĝoj
+模組:HtmlBuilder	Modulo:HtmlBuilder
+馬來西亞航空17號班機空難	Flugo 17 de Malaysia Airlines

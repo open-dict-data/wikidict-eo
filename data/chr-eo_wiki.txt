@@ -1,0 +1,578 @@
+ᎬᎿᎦᏍᏛ	Afriko
+ᏣᏩᏂᏏ	Japanio
+ᏧᎦᎾᏮ ᎠᎹᏰᏟ	Sudameriko
+ᎠᏂᏍᏆᏂᏱ	Hispanio
+ᏌᏊᎢᏳᎾᎵᏍᏔᏅᏍᎦᏚᎩ ᎾᎿ ᎠᎺᏰᏟ	Usono
+ᏇᎵᏥᎥᎻ	Belgio
+ᎡᎶᎯ	Tero
+ᏣᏥ ᏩᏒᏓᎾ	George Washington
+ᏫᏂᎦᏙᎯ	Finnlando
+ᏍᏫᏕᏂ	Svedio
+ᏗᏂᎹᎦ	Danio
+ᏉᎳᏂ	Pollando
+ᎢᏔᎵ	Italio
+ᏍᏫᏍ	Svislando
+ᎠᏍᏟᏯ	Aŭstrio
+ᎪᎢᎯ	Grekio
+ᎬᏃ	Turkio
+ᏉᏥᎦᎳ	Portugalio
+ᏳᎳᏛ	Eŭropo
+ᏓᎶᏂᎦᏍᏛ	Azio
+ᏧᏴᏢ ᎠᎹᏰᏟ	Nordameriko
+ᏧᏁᏍᏓᎸ	Antarkto
+ᏫᎩᏇᏗᏯ	Vikipedio
+ᎾᏍᎩ ᏁᏛᎳᏂ	Nederlando
+ᏩᏙᎵ	Peniso
+ᏄᏯᎩ BMX	Novjorko
+ᏆᎳᎩ ᎣᏆᎹ	Barack Obama
+ᎫᎴ ᏗᏍᎪᏂᎯᏱ	Londono
+ᏒᎦᏔ	Pomo
+ᎺᏏᎪ	Meksiko
+ᎤᏃᎸᏔᏅ	Januaro
+ᎧᎦᎵ	Februaro
+ᎠᎾᏱᎵᏒ	Marto
+ᎹᏏ	Marso
+ᎫᏬᏂ	Aprilo
+ᎠᎾᏍᎬᏘ	Majo
+ᏕᎭᎷᏱ	Junio
+ᎫᏰᏉᏂ	Julio
+ᎦᎶᏂ	Aŭgusto
+ᏚᎵᏍᏗ	Septembro
+ᏚᏂᏃᏗ	Oktobro
+ᏅᏓᏕᏆ	Novembro
+ᎥᏍᎩᏱ	Decembro
+ᏢᏓᏥ ᎤᏃᏕᎾ	Leono
+ᎩᏟ	Hundo
+ᎩᎵᏏᏲ	Unuiĝinta Reĝlando
+ᏪᏌ	Hejma kato
+ᏓᎶᏂᎨᏍᏛ	Ĉina Popola Respubliko
+ᎠᏣᏗ	Fiŝoj
+ᏆᏏᎵ	Brazilo
+ᏲᏂᎢ	Rusio
+Cetacea	Cetacoj
+ᎠᏛᏥ	Germanio
+ᏇᎳᎷᏍ	Belorusio
+ᎠᏂᏛᏥ ᎦᏬᏂᎯᏍᏗ	Germana lingvo
+ᏧᏁᏍᏓᎸᎯ	Islando
+ᎡᏍᏙᏂᏯ	Estonio
+ᏌᏓᏂ	Saturno (planedo)
+ᏣᏥ ᎡᏙᎯ ᏊᏏ	George W. Bush
+ᏳᎧᎴᏂ	Ukrainio
+ᏤᎩ ᏍᎦᏚᎩ	Ĉeĥio
+ᎹᎵᏙᏫᎠ	Moldava Respubliko
+ᎶᎹᏂᏯ	Rumanio
+ᎹᏏᏙᏂᎢᎠ	Respubliko Makedonio
+ᎠᎵᏇᏂᏯ	Albanio
+ᎢᏤᎢᏳᏍᏗ ᎦᏙᎯ	Gronlando
+ᏆᏍᏂᏯ ᎠᎴ ᎲᏤᎪᏫᎾ	Bosnio kaj Hercegovino
+ᎠᏏᎵᏆᏌᏂ	Azerbajĝano
+ᎠᏂᏙᎳ	Andoro
+ᎧᏌᎩᏍᏔᏂ	Kazaĥio
+ᎢᏂᏙᏂᏍᏯ	Indonezio
+ᎠᏂᎬᎾ ᎧᏬᏂᎯᏍᏗ	Turka lingvo
+ᎤᏍᏇᎩᏍᏖᏂ	Uzbekujo
+ᎠᎹ	Akvo
+ᎦᏃᏥ	Ledo
+ᎠᏓ	Ligno
+ᏥᎵ	Ĉilio
+ᎹᎫᎵ	Merkuro (planedo)
+ᎠᎾᏂᏍᏓᎾᎵ	Venuso (planedo)
+ᎦᏬᏂᎯᏍᏗ	Lingvo
+ᏧᏈᏓ	Jupitero (planedo)
+ᏳᏪᏅᏍ	Urano (planedo)
+ᏁᏩᏚᏂ	Neptuno (planedo)
+ᏡᏙ	Plutono
+ᎠᏂᎶᎻ ᎦᏬᏂᎯᏍᏗ	Latina lingvo
+ᎠᎵᎻᏂᎠ	Armenio
+ᏒᏈᏯ	Serbio
+ᎡᎳᏗᏜ	Aŭstralio
+ᏘᏲᎭᎵ ᎡᏆ	Dinosaŭro
+ᏎᏗᏳᏍᏗ ᏒᎦᏔ	Pirarbo
+ᏅᏩᏙ ᎯᏯᏛ	Paco
+Star Wars	Star Wars
+ᎴᎹᏂ	Citrono
+ᏆᏁᎾ	Banano
+ᎦᏚᎲᎢ	Urbo
+Napoleon	Napoleono Bonaparte
+ᏃᏈᏏ	Stelo
+ᏅᏓ	Suno
+ᎦᎷᎾᏗ	Ĉielo
+ᏅᏓ ᎠᎴ ᏚᏓᏕᏫᏍᏛ	Sunsistemo
+ᎦᏌᎧᎯᎨ ᎤᏃᎴ	Heliumo
+ᎵᏘᎥᎻ	Litio
+ᏇᎵᎵᎥᎻ	Berilio
+ᎪᏪᎵ	Libro
+ᏒᏃᏱ	Nokto
+ᎤᎦᏔ ᏅᏓᏳᏓᎴᏅ ᏬᏗᎨ	Karbono
+ᎾᎢᏠᏤᏂ	Nitrogeno
+ᏗᎧᏃᎩᏛ	Muziko
+ᏩᎶᏫᏂ	Fluoro
+ᏥᏩᏩ	Chihuahua
+ᎦᏌᎧ ᏔᎷᎩᏍᎩ	Aluminio
+ᎢᏂᏗᎢᎠ	Barato
+ᏔᎷᎩᏍᎩ	Fero
+ᏉᏔᏏᎥᎻ	Kalio
+ᎪᎳ ᏗᏝᏂᎪᎯᏍᏗᏍᎩ	Kalcio
+ᎦᏂ	Plumbo
+ᎹᏂᎪᎵᎠ	Mongolio
+ᏔᎢᏖᏂᎥᎻ	Titano (elemento)
+ᏩᏁᏗᎥᎻ	Vanado
+ᏐᏈᎵ	Ĉevalo
+ᎦᏂᏝᎢ	Bestoj
+ᏉᎵᏫᎠ	Bolivio
+ᎥᏣᏱ	Kupro
+ᎩᎵᏣᎢᏍ	Kirgizio
+ᏩᎧ	Bovo
+ᏔᏥᎩᏍᏕᏂ	Taĝikio
+ᏉᎨᎼᏂ	Pokemono
+ᏔᏯᎴᏂ	Tajlando
+ᎠᎢᎵᏗᏴᎻ	Iridio
+ᏝᏘᏅᎻ	Plateno
+ᏧᎦᎾᏮ ᎪᎵᎠ	Sud-Koreio
+ᎠᏕᎸ ᏓᎶᏂᎨ	Oro
+ᎠᏂᏉᎵᏍ	Poloj
+Julius Caesar	Julio Cezaro
+ᎤᏅᏉᎳᏛ	Ĉielarko
+ᎠᏑᏫᏍᏗ	Koloro
+ᎠᏕᎸ ᎤᏁᎦ	Arĝento
+ᏔᎷᎩᏍᎩᏳᏍᏗ	Stano
+ᏳᏪᏂᎥᎻ	Uranio
+ᏡᏙᏂᎥᎻ	Plutonio
+ᏁᏩᏚᏂᎥᎻ	Neptunio
+ᏇᎵᎥᎻ	Bario
+ᏍᏆᏂ ᎧᏬᏂᎯᏍᏗ	Hispana lingvo
+Johann Sebastian Bach	Johann Sebastian Bach
+ᎧᎿᏁᏍᎩ	Araneuloj
+ᎠᏓᎵᏍᎩᏱᏍᎩ	Simio
+ᎠᏕᎳ	Mono
+ᏄᏯᎩ	Nov-Jorkio
+ᏳᎳᏈᎥᎻ	Eŭropio
+Augustus	Aŭgusto Cezaro
+Trajan	Trajano
+ᏙᎩᏲ	Tokio
+ᏍᏆᏂᏤᏍᏛᎢ	Nov-Meksiko
+ᎣᎦᎳᎰᎹ	Oklahomo
+ᏗᎦᎳᏫᏍᏗ ᏥᏌᏯ	Vera Eklezio de Jesuo
+ᎩᎵᏏ ᎦᏬᏂᎯᏍᏗ	Angla lingvo
+ᎠᎺᎵᏏᏯᎻ	Americio
+ᎠᏔᏩ, ᎨᎾᏓ	Otavo
+ᎠᏤᏙ	Ĝakarto
+Wikipedia:ᏃᏯᎭ ᎧᏁᏌᎢ	Vikipedio:Provejo
+ᎤᏪᏴ	Rivero
+ᎠᎧᏔᏘ	Teleskopo
+ᎫᎵᏘᎦ	Kuritibo
+ᏌᎶᎵ	Rufa sciuro
+ᎠᏙᎯ ᎢᎾᎨ	Arbaro
+ᎪᏈᏂ ᏌᎪᏂᎨ	Corbin Bleu
+ᏧᏈᏓ (ᎤᏁᎳᏅᎯ)	Jupitero (dio)
+ᏳᎳᏛ ᎠᏕᎳ	Eŭro
+ᎡᏆ ᎦᏙᎯ	Kontinento
+ᎯᎸᏍᎩ ᏥᏍᏆ	Birdoj
+ᏏᏅᏙ	Monato
+ᎤᎵᎮᎵᏍᏗ	Vikipedio:Ĉefpaĝo
+ᎤᎴᏍᏓᎸ	Vagino
+ᎤᏬᎳᏨᎯ	Filozofio
+Category:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+ᎤᏔᏅ ᏗᎧᏃᎩᏍᏗ	Piano
+ᏗᎧᏃᎩᏍᏗ	Gitaro
+ᎤᏬᏚ	Belo
+ᏙᏒᏓᎵ	Formiko
+ᏩᏚᎵᏏ	Abelo
+ᏕᎭᎷᎨ ᎠᏓᏛᏍᎩ	Melongeno
+ᎧᏬᏄ	Anasedoj
+ᎤᏂᏥ	Patrino
+ᎤᎾᏥ	Neĝo
+ᎠᏲᎵ	Infano
+ᎠᎦᏍᎬ	Pluvo
+Nelson Mandela	Nelson Mandela
+ᏅᏯ	Rokaĵo
+ᎤᎶᎩᎸ	Nubo
+ᎠᎦᎷᎦ	Tornado (ŝtormo)
+ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ	Geometrio
+Category:ᏗᎧᏃᎩᏛ	Kategorio:Muziko
+ᎬᏂᎨᏧᎵ	Ruĝa vulpo
+ᎧᏫ	Kafo
+ᎣᏓᎸᎢ	Monto
+ᎤᎧᏲᏗ ᎡᎶᎯᏱ	Dezerto
+ᏴᏩᏁᎬ Civil ᏓᏄᏩ	Usona Enlanda Milito
+ᏆᏍᎩ ᎦᏬᏂᎯᏍᏗ	Eŭska lingvo
+Unicode/Cherokee	Unikodo
+ᎠᏂᏍᏫᏗ ᎦᏬᏂᎯᏍᏗ	Sveda lingvo
+ᎥᎦᏔᎲᎢ	Scio
+ᎪᎵᎥ	Korea lingvo
+ᎦᎴᎪ ᎦᏬᏂᎯᏍᏗ	Galega lingvo
+ᏁᎵᏒ	Pensado
+ᎠᎺᏉᎯ	Oceano
+ᎠᏤᎷᎯᏍᏗ	Saksofono
+ᏬᎾᎵᏗ ᏪᎦᏂ	Ronald Reagan
+ᎠᏣᏅᏙ	Plasmo
+ᎠᎴᏂ	Bekasi
+ᏏᏆ	Suo
+ᏚᎵᏍᏗ 11, 2001 ᏗᎦᏘᎸᏍᏗ	Atencoj de la 11-a de septembro 2001
+ᏡᎬ	Arbo
+ᎤᏅᏗ ᎦᏚᏅ	Fromaĝo
+ᏖᎸᎳᏗ	Vinbero
+ᏐᎯ	Nukso
+ᎠᎱᎵ	Tamburo
+ᏄᏓᎨᏒ (Gravitation)	Gravito
+ᏧᏙ	Ĵudo
+ᎠᎾᎦᎵᏍᎩ ᎦᏂᏱᏍᎩ	Metalo (fiziko)
+ᎠᏥᎸ ᏔᎷᎩᏍᎩ	Ŝtalo
+ᏗᎦᎶᎪᏗ	Agrikulturo
+ᏎᎷ	Maizo
+ᎠᏍᏓᏩᏛᏍᏙᏗ	Frekvenco
+ᎠᏰᎵ ᏚᎾᏙᏢᏩᏗᏒ ᏙᎪᏪᎸ	Listo de sendependaj ŝtatoj
+ᏲᎾ	Urso
+ᏧᏍᎦ	Kverko
+ᏒᏗᏩᎵ	Frambo
+ᏆᏅ	Persiko
+ᎣᏂᏥ	Oranĝo (frukto)
+ᎳᎢᎻ	Limeo
+ᎠᎵᎮᎵᏍᏗ ᎢᎦ	Dankotago
+ᎦᏓᏘ	Flago
+ᎦᏍᎩᎶ	Seĝo
+ᏗᎦᎵᏍᏚᎩᏍᎩ	Ĝirafo (specio)
+ᎹᏱᏕ	Ornitorinko
+Queen	Queen
+ᏗᎦᎭᎵ	Lacertuloj
+ᏫᎩᏇᏗᏯ:ᎾᎥ ᏄᎾᏓᎸ ᎾᎿᎢ	Vikipedio:Diskutejo
+ᎠᏍᏘᏂ	Aŭstino
+ᎭᏫᎾᏗᏢ ᏗᏎᏍᏗ ᎤᎬᏩᎵ	Ebeno (matematiko)
+ᎬᎾ ᎤᏔᎾ	Struto
+ᎠᎺᎵᎨ ᎬᎾ ᎤᏔᎾ	Reaedoj
+ᏓᏂᏍᏓᏲᎯᎲ	Kristnasko
+Indo-European languages	Hindeŭropa lingvaro
+ᏢᏓᏥᏧᎶᎸᏗ	Tigro
+ᎩᏳᎦ	Tamiaso
+ᎠᏕᎵ	Adele (kantistino)
+ᎠᏫ	Cervedoj
+ᎤᏁᏍᏓᎳ	Glacio
+ᎣᎩᏙᏓ ᎦᎸᎳᏗ ᎮᎯ	Patro nia
+ᎦᎦᎹ	Kukumo
+ᏔᎹᏟ	Tomato
+ᏎᎵᎾ	Selena
+ᎵᎳ ᏙᏮᏍ	Lila Downs
+ᏢᏓᏥ ᎠᎦᏣᏄᎳ	Gepardo
+Felidae	Felisedoj
+ᏑᎵ	Komuna buteo
+Escherichia coli	Escherichia coli
+ᎠᏫᏳᏍᏘ	Antilopo
+ᎨᏯᏔᎯ ᎬᎾ	Komuna meleagro
+ᎤᏍᏗᏰᎬ	Haro
+ᎠᏍᏛᎭᏟ	Sandviĉo
+ᏌᎵ	Persimono
+ᏥᏯ	Lutra lutra
+ᏩᏂᎨ ᎠᏣᏗ	Meduzo
+Pinnipedia	Fokuloj
+ᎭᏰᎳᏍᏗ	Tranĉilo
+ᏐᏈᎵ-ᏧᎶᎸᏗ	Zebro
+ᏣᎳᎩ ᎧᏬᏂᎯᏍᏗ	Ĉeroka lingvo
+ᎠᎹᏍᎧᎦᎯ	Akvofalo
+ᏣᏱ ᎤᏬᏗᎨ	Bronzo
+ᏩᎭᎧ	Oaxaca
+ᎪᏢᏅ	Butero
+ᏗᎧᏃᎩᏛ ᎬᏔᏂᏓᏍᏗ	Muzika instrumento
+ᏌᏌ	Cigno
+ᏅᏃᎯ	Vojo
+ᏝᏪᏆ	Amfibia hipopotamo
+ᎾᏳ	Sablo
+ᎫᏔᏍᏲᏍᏗ	Rozo
+ᏢᏓᏥ ᎤᏅᏣᏗ	Leopardo
+ᎠᏂᎪᎢ ᎤᏂᏃᎮᎸᎯ	Helena mitologio
+ᎠᎺᎵᎨ ᎤᏂᎬᏫᏳᎯ	Listo de prezidantoj de Usono
+ᏓᏎᏘ	Spegulo
+ᏢᏓᏥ	Pumo
+ᎠᏩᎶᏓᎢᏘ	Afrodito (diino)
+ᎤᏍᏔᎦᎳᏱ	Kaverno
+ᎠᎺᎵᎨ ᏢᏓᏥ ᎤᏅᏣᏗ	Jaguaro
+ᎪᏩᎳ ᏲᎾ	Koalo
+ᎤᎶᎩᎸ ᏢᏓᏥ	Nebula neofeliso
+ᎠᏍᎩᏘᏍᏗ	Sonĝo
+ᏥᏍᏕᏥ	Rato
+ᎠᏂᏃᎯᎵᏙᎲ	Ĉasado
+ᎠᏉᎳ	Apolono
+ᎬᎩᏍᏗ	Akvomelono
+ᎤᎬᏫᏳᎯ ᎡᏆ	Imperiestro
+ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ	Laborilo
+ᏣᏱ	Latuno
+ᎤᎨᏓᎵᏴ	Valo
+ᎠᏓᏢᎢᎯ	Polpo
+ᏗᏑᏫᏍᎩ ᎡᏆ	Rosmaro
+ᎭᎹᏏ	Hermeso
+ᏧᎾᏓᏱᎵᏓᏍᏗ	Tribunalo (juro)
+ᏚᏯ	Fazeolo
+ᎠᏂᏨᎹᏂ	Angloj
+ᎠᎵᏍᏕᎸᏙᏗ ᎠᏕᎸ ᎬᏗ	Financoj
+ᎪᎦ	Korvo
+ᏩᎴᎳ	Kolibro
+ᎬᎾ	Meleagro
+ᎠᏂᏳᎧᏪᏂ	Ukrainoj
+ᎤᎦᏔ	Ordinara lino
+The Doors	The Doors
+ᎠᏂᏣᏍᎩᎵ	Fantomo
+ᎠᏂᏔᎢᏖᏂ	Titanoj
+ᏑᏏ	Suŝio
+ᏐᏃᎳ	Sonora
+ᎤᏪᏴᎢ	Rivereto
+ᏙᏯ	Kastoro
+ᏫᎾᏏ	Venuso (diino)
+ᎤᏯᏍᎦᎳ	Dazipo
+Template:Commonscat	Ŝablono:Commonscat
+ᏧᎴᎯᏌᏅᎯ	Fenikso (birdo)
+ᎠᏂᏲᎾ	Rusoj
+ᎠᏂᎢᏔᎵ	Italoj
+ᏓᎬᎾ ᏥᏳ ᏗᏔᎳᏗᏍᏗ ᏚᎦᏘᎸᏒᎢ	Atako kontraŭ Pearl Harbor
+Template:Taxobox	Ŝablono:Taksonomio
+ᏩᎶᏏ	Anuro
+ᏧᎵᏍᏓᎾᎵ	Katfiŝo
+ᏳᎧᏔᏂ	Jukatanio
+ᎭᏩᏱ ᏗᎧᏃᎩᏍᏗ	Ukulelo
+ᎬᎪᏩᏛᏗ ᏗᎧᏃᏗ	Videbla spektro
+Morse ᎠᏍᏓᏩᏛᏍᏙᏗ	Morsa kodo
+ᏳᏪᏅᏍ (ᎤᏁᎳᏅᎯ)	Urano (dio)
+ᎠᎳ ᏊᎦᏦᏩ	Alla Pugaĉova
+ᎦᏃᎸᏍᎩ ᎠᎦᏍᎩ	Tempesto
+ᎦᏩᏒᎩ	Melono (frukto)
+ᏍᎪᏯ ᎠᏁᏍᎩᎸᎥᏍᎩ	Raŭpo
+ᎠᏂᏍᏆᏂ (ᎧᏃᎮᎭ)	Estado de México
+ᏝᏍᎧᎳ	Tlaxcala
+ᏓᏫᏍᎦᎳ	Siliko
+ᏐᏈᎵ-ᎠᏍᎦᏯ	Centaŭro
+ᏗᎳ	Mefito
+ᎠᏂᎬᎾ	Turkoj
+Template:Cite book	Ŝablono:Citaĵo el libro
+ᎦᏯ	Geo
+ᎡᎳᏗᏝ ᎬᎾ ᎤᏔᎾ	Emuo
+ᎤᎭᎸᏂ	Sonorilo
+ᏣᎳᎩ	Ĉerokoj
+ᎠᏂᎾᏩᎰ	Navahoj
+Uriah Heep	Uriah Heep
+ᎠᏂᎦᎸᏥ	Francoj
+ᏗᏂᏃᎨᏂ	Fusilo
+ᏧᏃ (ᎤᏁᎳᏅᎯ)	Junono
+ᏌᏆᏯ	Safiro
+ᎠᏍᏆᏂᎪᏒᏗ ᏂᎦᎵᏍᏔᏂᏙᎲ	Artfajraĵo
+Panthera	Panteroj
+ᎠᏥᎾ	Cedro
+ᏋᏏᎥᏍ	Perseo
+ᏓᎾᎵᏍᏓᏴᎲᏍᎬ	Festivalo
+ᏓᏰᏂ	Diana
+ᎠᏂᎲᏂᎦᎵ	Hungaroj
+ᎤᎬᏫᏳᎯ ᎡᏆ ᏇᏠ II	Petro la 2-a (Brazilo)
+ᎾᏍᎦᏅᎾ	Virto
+Inachis io	Taga pavo
+ᎠᏂᏍᏆᏂ	Hispanoj
+ᏤᏊᎳᏍᎧ	Ĉeburaŝko
+ᎠᏂᏕᏂ	Danoj
+ᎠᏂᏍᏫᏗ	Svedoj
+ᏭᏕᎵᎬ	Sunsubiro
+ᏌᎪᏂᎨ ᏣᎴᎩ	Blukresta Montaro
+ᎤᏁᎫᎯᏍᏗ	Majonezo
+ᏓᏆ	Lamencetacoj
+ᎠᏂᏤᎩ	Ĉeĥoj
+ᎠᏂᏫᏂ	Finnoj
+ᎠᏂᎠᏲᎵᏍ	Irlandanoj
+ᎠᏂᏍᎶᏩᎩ	Slovakoj
+ᎢᎣᎷ	Eolo
+ᎾᎥ ᏄᎾᏓᎸ	Homa komunumo
+ᎠᏂᏉᏧᎦᎵ	Portugaloj
+ᏪᏍᏔ (ᎤᏁᎳᏅᎯ)	Vesta
+ᎠᎢᎵᏏ	Iriso (mitologio)
+Rita Levi-Montalcini	Rita Levi-Montalcini
+ᎠᏂᏃᏫᏥᏂ	Norvegoj
+ᎠᏂᎤᏁᏍᏓᎳ	Islandanoj
+ᎹᏔ ᏩᏒᏓᎾ	Martha Washington
+ᎡᏆ ᎠᎺᎵᎨ ᎬᎾ ᎤᏔᎾ	Amerika reao
+ᎠᏂᏛᏥ	Nederlandanoj
+Tigranes the Great	Tigrano la Granda
+ᎭᏯᏏᏂ	Hiakinto
+ᎶᏃᎶᏃ	Rongorongo
+ᎤᏁᎳᏅᎢᎤᏪᏥ	Amazing Grace
+ᎤᏯᏍᎦ	Konko
+ᎠᎺᏉᎯ ᎤᏁᏍᏓᎳ	Flosglacio
+ᎠᏅᎬᏂ	Anggun
+ᎤᎵᎾᏫ	Testuduloj
+ᎢᏃᎵ	Taksideo
+ᎠᏂᏓᏪᎯ	Anĝelo
+ᎠᏂᎡᏍᏙᏂᎠᏂ	Aŭstroj
+ᎪᎷᏩᏛᎲ ᎢᎬᏁᏗ	Patento
+ᏍᏏᏉᏯ	Sequoyah
+ᏗᎭᏄᎧᎯ	Kristnaska Viro
+Anthocharis cardamines	Aŭroro-papilio
+ᎠᏓᏍᏕᎸᏗ	Karitato
+ᏴᏩᏁᎬ ᏥᏉᏉ	Migra turdo
+ᎠᏂᏇᎳᎷᏍ	Belorusoj
+ᎠᏂᎶᎺᏂᎠᏂ	Rumanoj
+ᎠᏂᎪᎢ	Grekoj
+ᎬᎮ	Linko
+ᏕᎦᏃᏣᎸ	Telegrafo
+Struthioniformes	Strutoformaj birdoj
+ᎠᏂᏆᏏᎵ	Brazilanoj
+ᎧᏁᏨᎢ	Balotilo
+ᏩᎦᏧᎧᏅᏍᏕᎾ ᎤᏂᎾᏗᏅᏗ	Haŭsiero
+ᎠᏫᏒᏅ	Ĝardeno
+ᎡᎩᏁᏍ ᎹᏂᎧ	Agnes Monica
+Category:ᎠᎹᏰᏟ	Kategorio:Usono
+Category:ᎨᎾᏓ	Kategorio:Kanado
+Category:ᏥᏍᏆ	Kategorio:Birdoj
+Category:Plantae	Kategorio:Plantoj
+Category:ᎧᏃᎮᏍᎩ	Kategorio:Historio
+Category:ᎤᎾᏙᏢᎯ	Kategorio:Socio
+Category:ᏗᏛᎪᏔᏅ	Kategorio:Komunikado
+Category:ᎡᎶᎯ	Kategorio:Tero
+ᏬᎭᎵ	Aglo
+ᎠᎳᏍᏚᎶ	Turbano
+ᏎᎼᏂ	Salmo
+ᏧᎾᎦ	Bruna truto
+Category:Stub	Kategorio:Ĝermo
+Category:ᎡᏆ ᎦᏙᎯ	Kategorio:Kontinentoj
+ᏧᏂᎵᎦᎳ	Giganto (mitologio)
+ᏓᎶᏂᎨ ᎠᏓᏛᏍᎩ	Abrikoto
+ᎫᎴ	Glano
+Template:Wikipedialang	Ŝablono:ĈefPaĝo/AliajLingvoj
+Category:ᎠᏰᎵ ᏚᎾᏙᏢᏩᏗᏒ	Kategorio:Landoj
+Category:ᎠᎾᎵᏏᎾᎯᏍᏗᏍᎩ	Kategorio:Ekonomiko
+Wikipedia:Administrators	Vikipedio:Administrantoj
+Category:ᎠᏂᏴᏫ	Kategorio:Personoj
+Category:ᎤᏁᎳᏅ ᎤᏬᏢᏅ	Kategorio:Naturo
+Category:ᎠᏕᎸ	Kategorio:Mono
+Wikipedia:Vital 100	Vikipedio:Listo de 100 plej havendaj artikoloj
+Template:Bot	Ŝablono:Bot
+Wikipedia:What Wikipedia is not	Vikipedio:Kio Vikipedio ne estas
+ᎨᎾᏓ	Kanado
+Category:ᏳᎳᏛ	Kategorio:Eŭropo
+Current events	Vikipedio:Aktualaĵoj
+Template:Documentation	Ŝablono:Dok
+Wikipedia:Neutral point of view	Vikipedio:Neŭtrala vidpunkto
+Wikipedia:Vandalism	Vikipedio:Vandalismo
+Sung Jae-gi	Sung Jae-gi
+ᏗᎦᎸᏫᏍᏓᏁᏗ	Profitcela organizaĵo
+Template:Softredirect	Ŝablono:Intervikia plusendilo
+Template:Delete	Ŝablono:Forigu tuj
+Category:ᎦᏬᏂᎯᏍᏗ	Kategorio:Lingvoj
+Category:ᏫᎩᏇᏗᏯ	Kategorio:Vikipedio
+Template:Navbox	Ŝablono:Navigilo2
+Template:Nutshell	Ŝablono:Resumo
+Template:!	Ŝablono:!
+Template:Bots	Ŝablono:Bots
+Template:Anchor	Ŝablono:Ankro
+Category:ᎬᎿᎦᏍᏛ	Kategorio:Afriko
+Category:ᏗᎪᏪᎵ	Kategorio:Libroj
+Template:Babel	Ŝablono:Babelejo
+Template:Commons	Ŝablono:Commons
+Template:Reflist	Ŝablono:Referencoj
+Wikipedia:Searching	Helpo:Serĉado
+Template:Stub	Ŝablono:Ĝermo
+Template:User af-1	Ŝablono:Vikipediisto af-1
+Template:User eo-1	Ŝablono:Vikipediisto eo-1
+Template:User da	Ŝablono:Vikipediisto da
+Template:User da-1	Ŝablono:Vikipediisto da-1
+Template:User eo-3	Ŝablono:Vikipediisto eo-3
+Template:User de	Ŝablono:Vikipediisto de
+Template:User de-1	Ŝablono:Vikipediisto de-1
+Template:User el	Ŝablono:Vikipediisto el
+Template:User es	Ŝablono:Vikipediisto es
+Template:User en-3	Ŝablono:Vikipediisto en-3
+Template:User en-1	Ŝablono:Vikipediisto en-1
+Template:User en-2	Ŝablono:Vikipediisto en-2
+Template:User eo-2	Ŝablono:Vikipediisto eo-2
+Template:User en-4	Ŝablono:Vikipediisto en-4
+Template:User en	Ŝablono:Vikipediisto en
+Template:User de-2	Ŝablono:Vikipediisto de-2
+Template:User fr-1	Ŝablono:Vikipediisto fr-1
+Category:ᏗᏓᏅᏖᏗ	Kategorio:Ideoj
+Category:ᎥᎴᏂᏙᎲ	Kategorio:Vivo
+Template:User ia-2	Ŝablono:Vikipediisto ia-2
+Template:User io-3	Ŝablono:Vikipediisto io-3
+Template:User ja-4	Ŝablono:Vikipediisto ja-4
+Template:User sk	Ŝablono:Vikipediisto sk
+Template:User ja	Ŝablono:Vikipediisto ja
+Template:User ja-1	Ŝablono:Vikipediisto ja-1
+Template:User fr	Ŝablono:Vikipediisto fr
+Category:ᏨᏍᎪᏱ	Kategorio:Insektoj
+Category:ᏓᎶᏂᎦᏍᏛ	Kategorio:Azio
+Category:ᏧᎦᎾᏮ ᎠᎹᏰᎵ	Kategorio:Sudameriko
+Category:User uk-N	Kategorio:Vikipediisto uk-D
+Template:Esoteric	Ŝablono:Esotera
+Template:Mod	Ŝablono:Mod
+Template:SIL	Ŝablono:ISO639-3 ligilo
+Template:User uk	Ŝablono:Vikipediisto uk
+Template:User es-2	Ŝablono:Vikipediisto es-2
+Template:Tsilugi	Ŝablono:Bonvenon
+Template:Wikipediasister	Ŝablono:ĈefPaĝo/AliajProjektoj
+Category:User fr-1	Kategorio:Vikipediisto fr-1
+Template:Wikiquote	Ŝablono:Vikicitaro
+Template:Image label	Ŝablono:Marko sur bildo
+Template:Switch	Ŝablono:Switch
+Template:Cite journal	Ŝablono:Citaĵo el gazeto
+Category:User en-4	Kategorio:Vikipediisto en-4
+Category:User en	Kategorio:Vikipediisto en
+Category:ᎠᎵᏍᏓᏴᏗ ᎠᎴ ᎠᏗᏔᏍᏗ	Kategorio:Kuirarto
+Template:Pp-template	Ŝablono:Pp-ŝablono
+Template:Wiktionary	Ŝablono:Vikivortaro
+Template:Multi-listen start	Ŝablono:Aŭskultu komenco
+Category:ᏗᎦᎶᎪᏗ	Kategorio:Agrikulturo
+Category:ᎠᏂᎪᎢ ᎤᎾᏁᎳᏅᎯ	Kategorio:Helenaj gedioj
+Template:Ethnic group	Ŝablono:Informkesto etnaj grupoj
+Template:Namespace detect	Ŝablono:Determinas nomspacon
+Template:User nl	Ŝablono:Vikipediisto nl
+Template:User no-2	Ŝablono:Vikipediisto no-2
+Template:Image label end	Ŝablono:Marko sur bildo fino
+Template:Documentation subpage	Ŝablono:Ŝablona navigado
+Template:Userpage	Ŝablono:Uzula paĝo
+Template:Image label small	Ŝablono:Marko sur bildo malgranda
+Template:Infobox Continent	Ŝablono:Informkesto kontinento
+Category:User ja-N	Kategorio:Vikipediisto ja-D
+Template:Verify source	Ŝablono:Konfirmon
+Category:User sk	Kategorio:Vikipediisto sk
+Category:User eo	Kategorio:Vikipediisto eo
+Category:User fr	Kategorio:Vikipediisto fr
+Category:User gl	Kategorio:Vikipediisto gl
+Category:User ja	Kategorio:Vikipediisto ja
+Category:User sv	Kategorio:Vikipediisto sv
+Category:User fr-N	Kategorio:Vikipediisto fr-D
+Category:Wikipedia cleanup	Kategorio:Polurindaj artikoloj
+Category:User sk-N	Kategorio:Vikipediisto sk-D
+Category:User de	Kategorio:Vikipediisto de
+Category:User de-2	Kategorio:Vikipediisto de-2
+Category:User en-3	Kategorio:Vikipediisto en-3
+Category:User en-N	Kategorio:Vikipediisto en-D
+Category:User es	Kategorio:Vikipediisto es
+Category:User es-2	Kategorio:Vikipediisto es-2
+Category:User es-N	Kategorio:Vikipediisto es-D
+Template:Adminbox	Ŝablono:Uzanto Vikiadministranto
+Category:ᎠᎪᏩᏏᏗ	Kategorio:Vidado
+ᏫᎩᏇᏗᏯ:Babel	Vikipedio:Babelejo
+Template:User sv-1	Ŝablono:Vikipediisto sv-1
+Category:ᎠᏂᎪᎢ ᎤᎾᏁᎳᏅᎯ ᎠᏂᎨᏴ	Kategorio:Helenaj diinoj
+Category:ᎠᎹ	Kategorio:Akvo
+Template:User ko-3	Ŝablono:Vikipediisto ko-3
+Category:User sv-N	Kategorio:Vikipediisto sv-D
+Category:User wa	Kategorio:Vikipediisto wa
+Category:User wa-N	Kategorio:Vikipediisto wa-D
+Category:ᏚᏓᏡᎬ	Kategorio:Artikoloj
+Template:User tr-1	Ŝablono:Vikipediisto tr-1
+Template:User zh-2	Ŝablono:Vikipediisto zh-2
+Template:Multi-listen end	Ŝablono:Aŭskultu fino
+Category:ᎠᎾᎵᏖᎸᎲᏍᎬ ᎦᏁᏰᎩ	Kategorio:Perforto
+Category:ᏧᏓᎴᏅᏓ ᎫᎵᏍᏔᏅ ᏑᏓᎴᎩ	Kategorio:Kemiaj elementoj
+Template:User de-4	Ŝablono:Vikipediisto de-4
+Category:ᎠᏣᏗ	Kategorio:Fiŝoj
+Category:ᎤᎾᏓᏔᏅ ᎠᎩᏍᏗ	Kategorio:Fruktoj
+Category:ᏙᏯᏗᎳ ᏄᏍᏗᏓᏅ	Kategorio:Klimato
+Category:Animalia	Kategorio:Bestoj
+Category:ᎠᏂᎪᎢ ᎤᏂᏃᎮᎸᎯ	Kategorio:Helena mitologio
+Category:ᎠᏂᎩᏍᏙᏗ	Kategorio:Transporto
+Category:ᏧᏴᏢ ᎠᎹᏰᎵ	Kategorio:Nordameriko
+Template:Substituted	Ŝablono:Ŝablono ne inkludita
+Category:ᎠᏥᎳ	Kategorio:Fajro
+Category:ᏗᎧᏃᏗ	Kategorio:Koloroj
+Template:Image label begin	Ŝablono:Marko sur bildo komenco
+Category:User en-1	Kategorio:Vikipediisto en-1
+Category:User de-1	Kategorio:Vikipediisto de-1
+Template:PD-art	Ŝablono:PD-art
+ᎧᎹᎹ (ᏨᏍᎪᏱ)	Rhopalocera
+Wikipedia:Deletion log	Vikipedio:Loglibro de forigoj
+Template:Multi-listen item	Ŝablono:Aŭskultu temon
+Special:RecentChanges	Specialaĵo:Lastaj ŝanĝoj
+Module:HtmlBuilder	Modulo:HtmlBuilder

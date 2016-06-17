@@ -1,0 +1,1720 @@
+អាហ្វ្រិក	Afriko
+ជប៉ុន	Japanio
+អង់គ្លេស	Anglio
+ស្កុតឡែន	Skotlando
+វ៉ែល	Kimrio
+អៀរឡង់ខាងជើង	Nord-Irlando
+សាធារណរដ្ឋអៀរឡង់	Irlando
+ប្រទេសហុងគ្រី	Hungario
+អេស្ប៉ាញ	Hispanio
+សហរដ្ឋអាមេរិក	Usono
+ផែនដី	Tero
+ប៊ឺណឺស លី	Tim Berners-Lee
+ស៊ុយអែត	Svedio
+ប្រទេសប៉ូឡូញ	Pollando
+អ៊ីតាលី	Italio
+ព័រទុយហ្គាល់	Portugalio
+អឺរ៉ុប	Eŭropo
+អាស៊ី	Azio
+វិគីភីឌា	Vikipedio
+ភីអេចភី	PHP
+ទីក្រុងញូវយ៉ក	Novjorko
+កុំព្យូទ័រ	Komputilo
+អ៊ីនធើណេត	Interreto
+បារ៉ាក់ អូបាម៉ា	Barack Obama
+ប៉ារីស	Parizo
+អាប្រាហាម លីនខូន	Abraham Lincoln
+ប្រព័ន្ធប្រតិបត្តការ Android	Android
+Google ស្វែងរក	Google
+ម៉ិកស៊ិក	Meksiko
+មហាសមុទ្រអាត្លង់ទិក	Atlantika Oceano
+មហាសមុទ្រប៉ាស៊ីហ្វិក	Pacifika Oceano
+ថ្ងៃច័ន្ទ	Lundo
+ខែមករា	Januaro
+ខែកុម្ភៈ	Februaro
+ខែមីនា	Marto
+ភពអង្គារ	Marso
+ខែមេសា	Aprilo
+ខែឧសភា	Majo
+ខែមិថុនា	Junio
+ខែកក្កដា	Julio
+ខែសីហា	Aŭgusto
+ខែកញ្ញា	Septembro
+ខែតុលា	Oktobro
+ខែវិច្ឆិកា	Novembro
+ខែធ្នូ	Decembro
+អង្គារ	Mardo
+ថ្ងៃពុធ	Merkredo
+ថ្ងៃព្រហស្បតិ៍	Ĵaŭdo
+ថ្ងៃសុក្រ	Vendredo
+ថ្ងៃសៅរ៍	Sabato
+ថ្ងៃអាទិត្យ	Dimanĉo
+សេះ (​អុក​)	Ĉevalo (ŝako)
+បារាំង	Francio
+សត្វឆ្កែ	Hundo
+រាជាណាចក្ររួម	Unuiĝinta Reĝlando
+ឆ្មា	Hejma kato
+ភាសាបារាំង	Franca lingvo
+ប្រេស៊ីល	Brazilo
+រុស្ស៊ី	Rusio
+ការ៉េ	Kvadrato (geometrio)
+សមុទ្រ	Maro
+អាល្លឺម៉ង់	Germanio
+ភាសាអាល្លឺម៉ង់	Germana lingvo
+ប្រទេសអាយឡែន	Islando
+ភពសៅរ៍	Saturno (planedo)
+១ (លេខ)	1 (nombro)
+២ (លេខ)	2 (nombro)
+៣ (លេខ)	3 (nombro)
+៥	5 (nombro)
+ចតុកោណកែង	Ortangulo
+មុំកែង	Orto
+អ៊ុយក្រែន	Ukrainio
+ទីក្រុងរ៉ូម	Romo
+អាល់បានី	Albanio
+អាស៊ែបៃហ្សង់	Azerbajĝano
+អង់ដូរ៉ា	Andoro
+សាធារណរដ្ឋកាហ្សាក់ស្ថាន	Kazaĥio
+បុរីវ៉ាទីកង់	Vatikano
+គុយបា	Kubo
+ឥណ្ឌូនេស៊ី	Indonezio
+អាហ្វ្រិកខាងត្បូង	Sud-Afriko
+ប្រវត្តិសង្ខេប ក្រុមតន្រ្តី រ៉ុក linkin park	Linkin Park
+ប្រទេសអាល់ហ្សេរី	Alĝerio
+ស្រា	Vino
+ទឹក	Akvo
+ទូរទស្សន៏	Televido
+ភាសាអាយឡែន	Islanda lingvo
+ឈីលី	Ĉilio
+ព្រះយេស៊ូវ គ្រីស្ទ	Jesuo Kristo
+ភពពុធ	Merkuro (planedo)
+ប្រវត្តិសាស្ត្រ	Historio
+ភពសុក្រ	Venuso (planedo)
+ភាសា	Lingvo
+ភពព្រហស្បតិ៍	Jupitero (planedo)
+ភពអ៊ុយរ៉ានុស	Urano (planedo)
+វិគីភីឌាភាសាអង់គ្លេស	Anglalingva Vikipedio
+ភពណិបទូន	Neptuno (planedo)
+សិង្ហបុរី	Singapuro
+ភ្លុយតុង	Plutono
+ហ្វេសប៊ុក	Facebook
+សង្គ្រាមលោកលើកទីមួយ	Unua mondmilito
+សង្គ្រាមលោកលើកទី២	Dua mondmilito
+ទំព័រគំរូ:Corruption	Korupto
+Ubuntu	Ubuntu (linukso)
+លីនុច	Linukso
+គណិតវិទ្យា	Matematiko
+បារ៉ែន	Barejno
+ព្រះចន្ទ	Luno
+អូស្ត្រាលី	Aŭstralio
+រូបវិទ្យា	Fiziko
+ជីវវិទ្យា	Biologio
+កូរ៉េខាងជើង	Nord-Koreio
+ព្រះរាជាណាចក្រកម្ពុជា	Kamboĝo
+ឌីណូស័រ	Dinosaŭro
+សាសនាឥស្លាម	Islamo
+សេរីភាព	Paco
+សហភាពអឺរ៉ុប	Eŭropa Unio
+ចេក	Banano
+ណាប៉ូលេអុងបូណាប៉ារត៍	Napoleono Bonaparte
+ព្រះអាទិត្យ	Suno
+ឆ្នាំពន្លឺ	Lumjaro
+អូសេអានី	Oceanio
+ប្រព័ន្ធព្រះអាទិត្យ	Sunsistemo
+អុីដ្រូសែន	Hidrogeno
+ទីម័រខាងកើត	Orienta Timoro
+ម៉ុង ប្លុង	Blanka Monto
+សឺរេស	Cereso
+អៀរីស	Eriso
+ភព	Planedo
+តន្ត្រី	Muziko
+ភាសាអ៊ីតាលី	Itala lingvo
+អាលុយមីញ៉ូម	Aluminio
+នូវែលសេឡង់	Nov-Zelando
+ឥណ្ឌា	Barato
+អង់ដ្រេ ម៉ារី អំពែរ	André-Marie Ampère
+វីលីម ហ្សេកស្ពែរ	William Shakespeare
+ប៉ាឡាវ	Palaŭo
+ម៉ុងហ្គោលី	Mongolio
+ជេនហ្គិស ខាន់	Ĝingis-Ĥano
+កូឡុំប៊ី	Kolombio
+ព្រះពុទ្ធសាសនា	Budhismo
+ហ្គាតេម៉ាឡា	Gvatemalo
+មហាសមុទ្រអាកទិក	Arkta Oceano
+អ៊ីរ៉ង់	Irano
+ភាសាប៉ូឡូញ	Pola lingvo
+ហ្សកដង់	Jordanio
+កៀហ៊្សីស៊ីស្ថាន	Kirgizio
+គុយវ៉ែត	Kuvajto
+ឡាវ	Laoso
+លីបង់	Libano
+ទ្វីបអាមេរិក	Ameriko
+ម៉ាឡេស៊ី	Malajzio
+មីយ៉ាន់ម៉ា	Birmo
+នេប៉ាល់	Nepalo
+ប៉ាគីស្ថាន	Pakistano
+MySQL	MySQL
+អារ៉ាប៊ីសាអូឌីត	Sauda Arabio
+ស្រីលង្កា	Sri-Lanko
+ផ្លាតូ	Platono
+តាជីគីស្ថាន	Taĝikio
+YouTube	YouTube
+អារីស្តូត	Aristotelo
+ថៃ	Tajlando
+វិទ្យុ	Radiofonio
+តួរមិនីស្ថាន	Turkmenio
+វៀតណាម	Vjetnamio
+កូរ៉េខាងត្បូង	Sud-Koreio
+សាធារណរដ្ឋឥស្លាមអាហ្វហ្កានីស្ថាន	Afganio
+ព្រែកជីកស៊ុយអែស	Sueza Kanalo
+បង់ក្លាដែស្ស	Bangladeŝo
+សូក្រាត	Sokrato
+ធ្វិតថឺរ	Twitter
+ប៊្រុយណេ	Brunejo
+ហ្វីលីពីន	Filipinoj
+អ៊ីសាក់ ញូតុន	Isaac Newton
+OpenStreetMap	OpenStreetMap
+អាល់បឺត អែងស្តែង	Albert Einstein
+ប្រទេសហ្សំប៊ី	Zambio
+ប៉េកាំង	Pekino
+មហាត្មះគន្ធី	Mohandas Karamchand Gandhi
+ឆាលែស ដាវីន	Charles Darwin
+ជូលីស៍ សេសារ	Julio Cezaro
+ឥន្ទធនូ	Ĉielarko
+អង្គការសហប្រជាជាតិ	Unuiĝintaj Nacioj
+ភូមិវិទ្យា	Geografio
+ទីក្រុងប្រាក	Prago
+បន្ទុកអគ្គីសនី	Elektra ŝargo
+ខេត្តជើងភ្នំ (ប្រទេសអ៊ីតាលី)	Piemonto
+មហាសមុទ្រឥណ្ឌា	Hinda Oceano
+អូសាម៉ា ប៊ីន ឡាឌែន	Usama bin Laden
+ភាសាអេស្ប៉ាញ	Hispana lingvo
+ភីឡាដេលផ្យា	Filadelfio (Pensilvanio)
+ញូវយ៉ក	Nov-Jorkio
+វ្លាឌីមៀរ អ៊ីលីច លេនីន	Lenin
+អូហ្គុសទុស	Aŭgusto Cezaro
+លោកកៃយុសសេសារ	Kaligulo
+ត្រាហ្សាន	Trajano
+Kde	KDE
+កូរ៉ាស៊ូន អាគីណូ	Corazón Aquino
+ទីក្រុងតូខ្យូ	Tokio
+ហ្វឺឌីណាន់ដ៏ ម៉ាហ្សេឡង់	Fernão de Magalhães
+ស៊ីសេរ៉ូ	Cicerono
+ភ្នំពេញ	Pnom-Peno
+ទីក្រុងព្រៃនគរ	Ho-Ĉi-Min-urbo
+ទីក្រុងហានូយ	Hanojo
+គ្រិស្តសាសនា	Vera Eklezio de Jesuo
+ភាសាអង់គ្លេស	Angla lingvo
+គូឡាឡាំពួ	Kuala-Lumpuro
+២០០១	2001
+JavaScript	JavaScript
+HTML5	HTML5
+ល្បឿនពន្លឺ	Lumrapido
+JPEG	JPEG
+អេឡិចត្រុង	Elektrono
+ចក្រភព រ៉ូម	Romia Imperio
+Microsoft	Microsoft
+គីមីវិទ្យា	Kemio
+ស៊ីទ្រុងជ្រូក	C dieso (programlingvo)
+បេណេឌីកទី១៦	Benedikto la 16-a
+៧ កក្កដា	7-a de julio
+បាល់ទាត់	Futbalo
+ទីក្រុងបូកូតា	Bogoto
+ថ្ងៃទី៣១ខែធ្នូ	31-a de decembro
+រិសថា	4 Vesto
+ស៊ីដនីយ៏	Sidnejo
+ភ្លើង	Fajro
+ខ្យល់	Atmosfero (tero)
+កោះស៊ូម៉ាត្រា	Sumatro
+ចាការតា	Ĝakarto
+ចំណាត់ថ្នាក់ក្រុម:Wikipedia templates	Kategorio:Vikipedio:Ŝablonoj
+កោះជ្វា	Javo
+ចំណាត់ថ្នាក់ក្រុម:ចំណាត់ថ្នាក់ក្រុមនៃទំព័រគំរូវិគីភីឌា	Kategorio:Ŝablono:laŭ temo
+កាលីម៉ាន់តាន់	Kalimantano
+ខេត្តបន្ទាយមានជ័យ	Banteajo Meanĉejo
+វិគីភីឌា:ប្រអប់ខ្សាច់	Vikipedio:Provejo
+អាកាសយានដ្ឋាន ដុង ហ៊យ	Flughaveno Dong Hoi
+អាន់ ហ្វ្រែង	Anne Frank
+ខុង ជឺ	Konfuceo
+ម៉ារីលីន ម៉ុនរ៉ូ	Marilyn Monroe
+ចំណាត់ថ្នាក់ក្រុម:គណិតវិទ្យា	Kategorio:Matematiko
+ចំណាត់ថ្នាក់ក្រុម:ប្រវត្តិសាស្ត្រខ្មែរ	Kategorio:Historio de Kamboĝo
+ចំណាត់ថ្នាក់ក្រុម:ប្រវត្តិសាស្រ្តសិង្ហបុរី	Kategorio:Historio de Singapuro
+សមុទ្រ មេឌីទែរ៉ានេ	Mediteraneo
+វីនដូអេច	Vindozo 8
+ទំព័រគំរូ:Agree	Ŝablono:Por
+ទន្លេហ្គារ៉ូន	Garono
+ស៊ីតថល	Seattle
+ជញ្ជាំង ប៊ែរឡាំង	Berlina muro
+ស្រូវ	Rizo
+ទំព័រគំរូ:ផតថល	Ŝablono:Portalo
+ប៊ីល ហ្គេត	Bill Gates
+ភាសាជប៉ុន	Japana lingvo
+ប្រជុំវីជ្ជា	Enciklopedio
+ឌីវីឌី	DVD
+ទំព័រដើម	Vikipedio:Ĉefpaĝo
+Central processing unit	Procesoro
+រេស៊ីស្ទ័រ	Rezistilo
+កីឡាអូឡាំពិក	Olimpiaj ludoj
+សមុទ្រ កាសព្យែន	Kaspio
+ឈី ហ្គីវ៉ារ៉ា	Che Guevara
+ទីក្រុងកាបូល	Kabulo
+ហ្គ្រាប្រីអ៊ែល ហ្រ្គារ៉ាស្សៀ ម៉ារ៉ាហ្គេស	Gabriel García Márquez
+ទស្សនវិជ្ជា	Filozofio
+ចំណាត់ថ្នាក់ក្រុម:លុប	Kategorio:Tujforigendaj artikoloj
+លិទ្ធិកុម្មុយនិស្ត	Komunismo
+ហ៊ីលឡារី រូដហេម គ្លីនតុន	Hillary Rodham Clinton
+Boeing 737	Boeing 737
+អាហារនៅប្រទេសបារំាង និង របៀបធ្វើ	Franca kuirarto
+មណ្ឌលម៉ាញេតូ	Magnetosfero
+UTC+7	UTC+07:00
+ភាសាកាតាឡាន	Kataluna lingvo
+បណ្ណាល័យ	Librarejo
+នីល ហេនរីក ដេវីដ ប៊័រ	Niels Bohr
+និវេសនវិទ្យា	Ekologio
+ក្លឹបបាល់ទាត់បារសេឡូណា	Futbala Klubo de Barcelono
+នយោបាយ	Politiko
+ធនាគារពិភពលោក	Monda Banko
+ប្រជាធិបតេយ្យ	Demokratio
+អង្គការសន្ធិសញ្ញាអាត្លង់ទិកខាងជើង	NATO
+ម៉ារី ស្កូដូស្កា គុយរី	Marie Curie
+រង្វាន់ណូបែល	Nobel-premio
+មជ្ឈិមបូព៌ា	Mezoriento
+រាជវង្សហាន	Dinastio Han
+ប្រទេស	Ŝtato
+គ្រឹស្តុបផើ កូឡំបូស (Christopher Columbus)	Kristoforo Kolumbo
+ព្រែកជីកប៉ាណាម៉ា	Panama kanalo
+មហាសមុទ្រខាងត្បូង	Suda Oceano
+ក្មេង	Infano
+លេអុនហាដ អយល័រ	Leonhard Euler
+ណាប៉ូលេអុងទី៣	Napoleono la 3-a
+ភាសារុស្ស៊ី	Rusa lingvo
+ល្វី ដ៏អស្ចារ្យ	Ludoviko la 14-a (Francio)
+សមាគមប្រជាជាតិអាស៊ីអាគ្នេយ៍	ASEAN
+ប្រវត្តិសាស្ត្របារាំង	Historio de Francio
+តុលាការយុត្តិធម៌អន្តរជាតិ	Internacia Kortumo
+យូណេស្កូ	Unesko
+អង្គការសុខភាពពិភពលោក	Monda Organizaĵo pri Sano
+អង្គការពាណិជ្ជកម្មពិភពលោក	Monda Organizaĵo pri Komerco
+ភាសាចិន	Ĉina lingvaro
+ធម្មជាតិ	Naturo
+ឈាម	Sango
+រញ្ជួយផែនដី	Tertremo
+សមុទ្រឡាប់តែវ	Lapteva Maro
+ភ្លើងចរាចរ	Trafiklumoj
+ម៉ាទីន ឡូតធឺរ ឃីង	Martin Luther King
+ត្រីកោណមាត្រ	Trigonometrio
+ធរណីមាត្រ	Geometrio
+វេយ្យាករណ៍	Gramatiko
+សេដ្ឋកិច្ច	Ekonomiko
+អក្សរក្រិច	Greka alfabeto
+អក្សរឡាតាំង	Latina alfabeto
+រឿងមហាភារតយុទ្ធ	Mahabharato
+ការិយាល័យសហព័ន្ធស៊ើបអង្កេត	FBI
+វីយោឡុង	Violono
+ឃឹម	Zimbalono
+អេឡិចសាន់ដឺ ដឹ ហ្គារ៉ែត	Aleksandro la Granda
+សង្គម	Socio
+ការអប់រំ	Eduko
+មនុស្សប្រុស	Viro
+វិគីភីឌាភាសាអេស៉្បាញ	Hispanlingva Vikipedio
+សិទ្ធិមនុស្ស	Homaj rajtoj
+ទាសភាព	Sklaveco
+សង្គ្រាមស៊ីវិល	Interna milito
+ភ្នំ	Monto
+ហុងកុង	Honkongo
+សង្គ្រាមត្រជាក់	Malvarma milito
+សេអ៊ូល	Seulo
+សង្គ្រាមវៀតណាម	Vjetnama milito
+ម៉ៃឃើល ហ្វារ៉ាដេយ	Michael Faraday
+អង់រីកូ ហ្វែរមី	Enrico Fermi
+ភាសាអ៊ុយក្រែន	Ukraina lingvo
+HTML	HTML
+ច្យូហានេស គូទេនបឺគ	Johannes Gutenberg
+ភាសាដាណឺម៉ាក	Dana lingvo
+ភាសាអេស្តូនី	Estona lingvo
+ហិណ្ឌូសាសនា	Hinduismo
+ភាសាពែក	Persa lingvo
+សាសនា	Religio
+ភាសាកូរ៉េ	Korea lingvo
+ភាសាខ្មែរ	Kmera lingvo
+ហ្រ្គេតស៊ីងមួន	Sigmund Freud
+ភាសាថៃ	Siama lingvo
+ភាសាម៉ាឡេ	Malaja lingvo
+ភាសាឥណ្ឌូនេស៊ី	Indonezia lingvo
+ភាសាហេប្រ៊ូ	Hebrea lingvo
+ចន ឡុក	John Locke
+ថ្លើម	Hepato
+ចិត្តវិទ្យា	Psikologio
+មហាសមុទ្រ	Oceano
+ពុទ្ធប្រវត្តិសង្ខេប	Sidarto Gotamo
+ចរិយាមារយាទ	Etiko
+សារជីវកម្មផ្សព្វផ្សាយព័ត៌មានរបស់ចក្រភពអង់គ្លេស(BBC)	BBC
+ក្លិបបាល់ទាត់ឆេលស៊ី	Chelsea F.C.
+គ្រោងឆ្អឹងមនុស្ស	Homa skeleto
+ក (អវយវៈ)	Kolo
+រាជវង្សថាង	Dinastio Tang
+John F. Kennedy	John F. Kennedy
+LibreOffice	LibreOffice
+ផ្លូវរូងដីក្រោមសមុទ្រ	Manika Tunelo
+តារាងខួបនៃធាតុគីមី	Perioda tabelo
+ប្រូម៉ាស	Fromaĝo
+ទំពាំងបាយជូរ	Vinbero
+បន្លែ	Legomo
+បច្ចេកវិទ្យា	Teknologio
+វិស្វកម្ម	Inĝenierarto
+ទំនាក់ទំនង	Komunikado
+វិជ្ជាជីវៈខាងសារព័ត៌មាន	Ĵurnalismo
+កាសែត	Gazeto
+ទូរស័ព្ទ	Telefono
+វប្បធម៌	Kulturo
+សំស្ក្រឹត	Sanskrito
+ប្រដាប់របត់ឈាម	Kardiovaskula sistemo
+The Guardian	The Guardian
+សមីការឌីផេរ៉ង់ស្យែល	Diferenciala ekvacio
+មុំ	Angulo
+សំទុះ	Akcelo
+ព្រះសិវៈ	Ŝivao
+ព្រះវិស្ណុ	Viŝnuo
+Local Area Network	Loka reto
+Wide Area Network	Malloka reto
+ព្រះព្រហ្ម	Brahmao
+កម្លាំង	Forto
+អេឡិចត្រូម៉ាញ៉េទិច	Elektromagnetismo
+កសិកម្ម	Agrikulturo
+សំលៀកបំពាក់	Vesto
+ល្បឿន	Vektora rapido
+ក្រដាស	Papero
+សុញ្ញកាស	Vakuo
+ក្រលាផ្ទៃ	Areo
+ទ្រឹស្តីបទពីតាករ	Teoremo de Pitagoro
+ចំនួនកុំផ្លិច	Kompleksa nombro
+Cristiano Ronaldo	Cristiano Ronaldo
+អ្នកថតរូប	Fotarto
+ល្ខោន	Teatro
+ព័ត៌មានវិទ្យា	Informa teknologio
+អាស៊ីអាគ្នេយ៍	Sud-Orienta Azio
+ក្រុងសៀមរាប	Siem Reap
+បញ្ជីរាយនាម ប្រទេស	Listo de sendependaj ŝtatoj
+វិគីភីឌាភាសាព័រទុយហ្គាល់	Portugallingva Vikipedio
+ប្រដាប់រំលាយអាហារ	Digestado
+កីឡាចាក់សាប	Skermo
+រោគផ្ដាសាយធម្មតា	Malvarmumo
+រោគសរសៃប្រសាទ	Psika malsano
+ប្រតិទិន ក្រេកូរី	Gregoria kalendaro
+សុខភាព	Sano
+ជម្ងឺរលាកទងសួត	Pneŭmonito
+ជំងឺអេដស៍	Aidoso
+ជំងឺទឹកនោមផ្អែម	Diabeto
+ទំព័រគំរូ:Location map Belgium	Ŝablono:Situo sur mapo Belgio
+ទំព័រគំរូ:Location map Croatia	Ŝablono:Situo sur mapo Kroatio
+ទំព័រគំរូ:Location map Ukraine	Ŝablono:Situo sur mapo Ukrainio
+ទំព័រគំរូ:Location map Burma	Ŝablono:Situo sur mapo Birmo
+ទំព័រគំរូ:Location map Philippines	Ŝablono:Situo sur mapo Filipinoj
+ទំព័រគំរូ:Location map Vietnam	Ŝablono:Situo sur mapo Vjetnamio
+ទំព័រគំរូ:Location map Cambodia	Ŝablono:Situo sur mapo Kamboĝo
+ទំព័រគំរូ:Location map Thailand	Ŝablono:Situo sur mapo Tajlando
+ទំព័រគំរូ:Location map Indonesia	Ŝablono:Situo sur mapo Indonezio
+ទំព័រគំរូ:Location map Australia	Ŝablono:Situo sur mapo Aŭstralio
+ញូតុន	Neŭtono (mezurunuo)
+ចក្រភព អូតូម៉ង់	Otomana Imperio
+ម៉ាស៊ីនចំហេះក្នុង	Eksplodmotoro
+ក្បាច់គិតលេខ	Abako (meĥanika kalkulilo)
+វឺតប្រែស	WordPress
+Joomla!	Joomla!
+ដើមដូង	Kokoso
+ភាសាណាវ៉ាថ្ល៍	Naŭatla lingvo
+ភាសាម៉ាយ៉ាយូកាតិក	Jukatana majaa lingvo
+អែនជេលីណា ចូលី	Angelina Jolie
+អ៊ីលដឺហ្រ្វែន	Francilio
+ភាសាអារ៉ាប់	Araba lingvo
+Thanksgiving	Dankotago
+តំបន់ឃ្ជឺស្សឺ	Kjuŝuo
+តំបន់ស៊ីកុគឹ	Ŝikokuo
+ទង់ជាតិ	Flago
+ខ្មៅដៃ	Krajono
+សហភាពសូវៀត	Sovetunio
+ចំណុចរលាយ	Fandopunkto
+កាមេរ៉ា	Fotilo
+ខេត្តខាហ្គុស៊ីម៉ា	Gubernio Kagoŝimo
+ភាសាស៊ី	C (programlingvo)
+ម៉ង់តេរីយើ	Charles Montesquieu
+វិគីភីឌា:អត្ថបទពិសេស	Vikipedio:Elstaraj artikoloj
+ទំព័រគំរូ:Link FA	Ŝablono:LigoElstara
+ពិភពលោក	Mondo
+ឈូក	Hinda lotuso
+ឡងប៊ិច (កាលីផ្វនញ៉ា)	Long Beach
+រង្វង់	Cirklo
+ប្លង់	Ebeno (matematiko)
+វិគីភីឌាភាសាកូរ៉េ	Korelingva Vikipedio
+ទៀបកោះម៉ាឡេ	Malaja Duoninsulo
+អេប៉ុងហ្ស៍ (ពពុះទឹក)	Spongulo
+មធ្យមនព្វន្ធ	Aritmetika meznombro
+World Cup	Futbala Mondpokalo
+សម្ដេចប៉ាប	Papo
+IATA	IATA
+បុណ្យណូអែល	Kristnasko
+ត្រីកោណ	Triangulo
+លោកអេលីសេ រីខ្លាស	Élisée Reclus
+អ្នកប្រើប្រាស់:អេង ឡុង/សង្គមវិទ្យាមូលដ្ឋាន	Sociologio
+សញ្ញាសំលេងអន្តរជាតិ	Internacia Fonetika Alfabeto
+តៃវ៉ាន់	Tajvano
+Friedrich Schiller	Friedrich Schiller
+ជំនឿបាហៃ	Bahaa Kredo
+១	1
+ខ្ទឹមស	Ajlo
+អ៊ូលេនបាធរ	Ulaanbaataro
+កោះ	Insulo
+ភាសាផ្លូវការ	Oficiala lingvo
+ខ្សែអេក្វាទ័រ	Ekvatoro
+ទិស	Kompasdirektoj
+លេខអាតូម	Atomnumero
+អាល់ហ្វ្រិដ ណូបែល	Alfred Nobel
+សម្ដេចប៉ាប យូហាន ទី២៣	Johano la 23-a
+កិរិយាសព្ទ	Verbo
+ទីតានិច	RMS Titanic
+សត្វឆ្អឹងកង	Vertebruloj
+បាគូ	Upupedoj
+អំពែរ	Ampero
+ISO 3166-1	ISO 3166-1
+១ មុនគ.ស	-1
+ម៉ែត្រការ៉េ	Kvadrata metro
+ជំនួយ:Interlanguage links	Planktono
+សហស្សវត្សរ៍ទី២	2-a jarmilo
+ទ្រឹស្តីបទទ្វេធា	Binomo de Newton
+សមុទ្រជប៉ុន	Japana Maro
+អាស៊ីខាងកើត	Orienta Azio
+អាមេរិក កណ្ដាល	Centra Ameriko
+គ្រីស្ទអឌែលហ្វៀន	Kristadelfianoj
+បរិមាត្រ	Perimetro
+ចក្រភព អូទ្រីស-ហុងគ្រី	Aŭstrio-Hungario
+ផាយថុន	Python (programlingvo)
+ចិន	Ĉinio
+សំទុះទំនាញដី	Gravita akcelo
+អ្នកម្តាយ តេរេសា​ (Mother Teresa)	Patrino Teresa
+ប្លូក	Blogo
+រោគគ្រុនចាញ់	Dengo
+ដុល្លារហុងកុង	Honkonga dolaro
+ខ្សែបណ្ដោយ	Meridiano
+សមុទ្រខារ៉ា	Karaa Maro
+ផ្លេតបន្ទោរ	Fulmo
+កំរងកោះ	Insularo
+តួប្រុស	Aktoro
+អំបូរភាសាយូតូអាហ្សតិក	Jut-azteka lingvaro
+ចាស្ទីន ពីពេ្រ	Justin Bieber
+ក្រុម​ភាសា​ថៃកៈដៃ	Kradaja lingvaro
+ចក្រភព រុស្ស៊ី	Rusia Imperio
+មឞវជ	Mošovce
+បេណាហ្សៀរ ប៊ូតូ	Benazir Bhutto
+ស៊ីឌី	Kompakta disko
+ឧទ្ធម្ភាគចក្រ	Helikoptero
+គុណនាម	Adjektivo
+វីតាមីន	Vitamino
+វែបសាយ	TTT-ejo
+តំបន់ហុកកៃដូ	Hokajdo
+សមុទ្រ អារ៉ាល់	Aralo
+ហូ ជីមិញ	Ho Chi Minh
+ម៉ាក ហ្សុកឃឺបឺក	Mark Zuckerberg
+ប្រតិកម្មគីមី	Kemia reakcio
+Binomial nomenclature	Dunoma nomsistemo
+វ៉ែសបែង	Cisjordanio
+ភាសាបាលី	Palia lingvo
+គេហទំព័រ	TTT-paĝo
+ចតុកោណ	Kvarlatero
+ឈិន ឡុង	Jackie Chan
+Yahoo!	Yahoo!
+បន្ទាត់	Rekto
+ហ្មរិឩពឡ	Mariupolo
+G8	G8
+អង្កត់ផ្ចិត	Diametro
+គ្រូបង្រៀន	Instruisto
+ស្នាដៃនៃបុព្វបុរសខ្មែរ	Skribo
+ស្ដេចប៉ាប យ៉ូហាន ប៉ូលទី១	Johano Paŭlo la 1-a
+ណៃពិដោ	Nepjido
+ISO 4217	ISO 4217
+ព្យែរ គុយរី	Pierre Curie
+ក្រុមប្រឹក្សាសន្តិសុខ អង្គការសហប្រជាជាតិ	Konsilio de Sekureco de Unuiĝintaj Nacioj
+ពហុកោណ	Plurlatero
+ទិវានៃក្ដីស្រលាញ់	Sankt-Valentena tago
+ហ្គូហ្គល	Merkato
+សមុទ្រចិនខាងត្បូង	Sudĉina Maro
+និវេសនប្រព័ន្ធ	Ekologia sistemo
+សមុទ្រលឿង	Flava Maro
+យ៉ាំងហ្គូន	Jangono
+សូរព្យញ្ជនៈ	Konsonanto
+ច្បាប់ចលនារបស់ញូតុន	Leĝoj de Newton pri movo
+ឈូងសមុទ្របេងហ្គាល់	Bengala Golfo
+ទិវានារីអន្តរជាតិ	Internacia tago de virinoj
+.jp	.jp
+ភ្នំហ្វឹជី	Fuĵi-Monto
+ប៉ុលពត	Pol Pot
+ភ្នំភ្លើង អ៊ីស៊ាឡឺក	Eyjafjallajökull
+ម៉ាក្រូសេដ្ឋកិច្ច	Makroekonomiko
+ដីជ្រោយហ្គាស្សា	Gaza Sektoro
+​វិទ្យុ​ស្ទូឌីយោ 54 បណ្តាញ	Radio Studio 54 Network
+អេលីប	Elipso (matematiko)
+សមាគមន៍សារព័ត៌មាន	Associated Press
+អធិដ្ឋាន	Preĝo
+គណៈកម្មាធិការអូឡាំពិកអន្តរជាតិ	Internacia Olimpika Komitato
+Skype	Skajpo
+.kh	.kh
+ចតុកោណស្មើ	Rombo
+ទន្លេមេគង្គ	Mekongo
+មេកានិច	Mekaniko
+វិចិត្រសាលវលញ្ឆករប្រទេស	Listo de naciaj emblemoj
+ហែងរីហ ហឺត	Heinrich Rudolf Hertz
+អង់រី បិកកឺរ៉ែល	Antoine Henri Becquerel
+ទស្សនាវដ្ដី	Revuo
+រូពីឥណ្ឌូនេស៊ី	Indonezia rupio
+សមុទ្រអុកហុតស្គ៍	Oĥotska maro
+ចិត្តវិភាគ	Psikoanalizo
+.kr	.kr
+URL	URL
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អេស្ប៉ាញ	Hispana nacia teamo de futbalo
+Google Earth	Google Earth
+ប៊ែនហាដ រីម៉ាន	Bernhard Riemann
+កោន	Konuso
+អាតុល	Atolo
+ទិន្នន័យ	Datumo
+ខ្លែង	Kajto
+ស្ថាបត្យករ	Arkitekturistoj
+មហាអំណាច អាប់ស៊ីស	Akso Berlino-Romo-Tokio
+វិគីភីឌា:FAQ	Helpo:Oftaj demandoj
+.th	.th
+ចក្រភព អាល្លឺម៉ង់	Germana Imperiestra Regno
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អាល្លឺម៉ង់	Germana nacia teamo de futbalo
+ហេរី ផោតធ័រ និង សិលាទេព	Hari Poter kaj la Ŝtono de la Saĝuloj
+អង្គការ Creative Commons	Krea Komunaĵo
+ឥណ្ឌូចិន	Hindoĉinio
+ប្រាសាទអង្គរវត្ត	Angkor Ŭat
+ទ្រឹស្ដីរ៉ឺឡាទីវីតេ	Teorio de la relativeco
+ប្រុស	Vira sekso
+Toulon	Toulon
+ប៉ាស្កាល់	Paskalo
+ទ្រឹស្ដីល្បែង	Ludoteorio
+សមុទ្រចិនខាងកើត	Orientĉina Maro
+ខ្នុរ	Jakvo
+ប្រលេឡូក្រាម	Paralelogramo
+ចតុកោណព្នាយ	Trapezo
+ស៊ូស៊ី	Suŝio
+រូប៊ិក ខ្យូប	Kubo de Rubik
+កាល	Plaŭto
+ចង្រិត	Grilo
+ទិវាពលកម្មអន្ដរជាតិ	Tago de la Laboro
+ស្ទឹង	Rivereto
+សមុទ្រអង់ដាម៉ង់	Andamana Maro
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អង់គ្លេស	Angla nacia teamo de futbalo
+ក្រុមបាល់ទាត់ជម្រើសជាតិ បារាំង	Franca nacia teamo de futbalo
+ទំព័រគំរូ:Commonscat	Ŝablono:Commonscat
+វិគីភីឌាភាសាអាល្លឺម៉ង់	Germanlingva Vikipedio
+អាស៊ីខាងលិច	Proksima Oriento
+យេនឌ័រ	Seksa identeco
+អង្គការសហភាពអន្តរជាតិដើម្បីអភិរក្សធម្មជាតិ	Internacia Unio por la Konservo de Naturo
+ទីក្រុងមេឌេយីណ	Medeĝino
+ប៉ារ៉ាបូល	Parabolo (matematiko)
+ខេត្តអ៊ីវ៉ាតិ	Gubernio Iŭate
+ទ្វារសមុទ្រមលក្កា	Malaka Markolo
+មហាយាន	Mahajano
+ប្រព័ន្ធប្រតិបត្តការ iOS	IOS
+ចំនួនបឋម	Primo
+សង្គ្រាម ប្រាំមួយ ថ្ងៃ	Sestaga milito
+ក្រុងឡូវែល រដ្ឋម៉ាស្សាឈូស៊ែត	Lowell (Masaĉuseco)
+សមុទ្រជ្វា	Java Maro
+សិប្បកម្មខ្ញុំ	Minecraft
+អនុគមន៍ដឺក្រេទី២	Kvadrata funkcio
+ច្បាប់អំពែរ	Ampera cirkvita leĝo
+ជំងឺអ៊ីបូឡា	Ebola malsano
+កង្កែប	Anuro
+ចំណាត់ថ្នាក់ក្រុម:ព្រះមហាក្សត្រ	Kategorio:Monarkoj
+ចំណាត់ថ្នាក់ក្រុម:រដ្ឋាភិបាល	Kategorio:Registaroj
+ទំព័រគំរូ:Infobox legislature	Ŝablono:Informkesto parlamento
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្រចិន	Ŝablono:Historio de Ĉinio
+នរោត្តម សីហមុនី	Norodom Sihamoni
+ភាសាប៉ាស្តូ	Paŝtoa lingvo
+ធនាគារកណ្ដាល	Centra banko
+Pidgin	Pidgin
+យិដា តាដូ	Gerda Taro
+មនុស្សពីងពាង	Spider-Man
+សារធាតុគីមី	Kemiaĵo
+ចលនានៅក្នុងរូបវិទ្យា	Movado (fiziko)
+ជម្ងឺកញ្ជ្រឹល	Morbilo
+ក្រុមបាល់ទាត់ជម្រើសជាតិ អាហ្សង់ទីន	Argentina nacia teamo de futbalo
+ខ្យល់ព្រះអាទិត្យ	Suna vento
+បាល់ទាត់ពិភពលោក ២០១៤	Futbala Mondpokalo 2014
+ម៉ូបាល (អាល់ឡាបាម៉ា)	Mobile
+ខេត្តឈីបា	Gubernio Ĉiba
+អាំងតេក្រាល	Integralo
+ខេត្តអៃឈិ	Gubernio Ajĉi
+ខ្មែរ	Plenkreskeco
+សិល្បៈប្រើវោហារបង្ហូរគំនិត	Retoriko
+ឃីមីហ្គាយ៉ុ	Kimi Ga Jo
+សាល អូហ្គុស្ទីន ដឺ គូឡុំ	Charles-Augustin de Coulomb
+ខេត្តអាគីតា	Gubernio Akita
+ថ្នាក់ពាក្យ	Parolparto
+ស្ថានភាពអភិរក្ស	Konserva statuso
+នាម	Nomo
+ប្រវត្តិសាស្ត្រចិន	Historio de Ĉinio
+អវតារ	Avataro
+ច្បាប់គូឡុំ	Kulomba leĝo
+រឿង រ៉ូមេអូ និង ហ្ស៊ុយលីយេ	Romeo kaj Julieta
+សាលីណា កូមាស់	Selena Gomez
+ក្រុម (តារាងខួបនៃធាតុគីមី)	Grupo de la perioda tabelo
+ក្រុមបាល់ទាត់ជម្រើសជាតិ ប្រេស៊ីល	Brazila nacia teamo de futbalo
+កាល ឡែមស្ដែនណឺ	Karl Landsteiner
+បាល់ប៉ូឡូញ	Pollandpilko
+ឯកសារភាពយន្ត	Dokumenta filmo
+អនុគមន៍ត្រីកោណមាត្រ	Trigonometria funkcio
+ហ្រាន្ដកូស ហ្វីឡុន	François Fillon
+ខួប (តារាងខួបនៃធាតុគីមី)	Periodo de la perioda tabelo
+ល្បែងទាញព្រ័ត្រ	Ŝnurtira lukto
+Article (grammar)	Artikolo (gramatiko)
+មេដ្យានទ័រ	Cirkelo
+Rfid	RFID
+អ៊ីប៉ូតេនុស	Hipotenuzo
+ហិចហ្វាន់	Heĝfonduso
+ISO 3166	Landokodoj
+សញ្ញាជាតិកូរ៉េខាងជើង	Blazono de Korea Demokratia Popola Respubliko
+មេហ្គា	Mega
+ការតាំងសមាធិ	Meditado
+យ៉ុតតា	Jota
+ហ្សិតតា	Zeta
+ហ្សិបតូ	Zepto
+កាតែត	Kateto
+យ៉ុកតូ	Jokto
+ចំណែករដ្ឋបាលនៃម៉ិចស៊ិក	Subŝtatoj de Meksiko
+អាំងតេក្រាលមិនកំនត់	Malderivaĵo
+ខេត្តក្យូតុ	Gubernio Kioto
+តំលៃដាច់ខាត	Absoluta valoro
+ហេដ្ឋារចនាសម្ព័ន្ធ	Substrukturo
+សាស្ត្រាចារ្យ	Profesoro
+តេគីឡា	Tekilo
+សន្ធិសញ្ញាប្រេស្ត-លីតូវស្ក	Traktato de Brest-Litovsk
+William Thomson, 1st Baron Kelvin	William Thomson
+អាណាខេត្តអូសាកា	Gubernio Osaka
+ខេត្តអិហ៊ីមិ	Gubernio Ehime
+វាំងននដែក	Fera Kurteno
+Kara (band)	Kara (muzikgrupo)
+វីលៀម ជែម	William James
+ខេត្តយ៉ាម៉ាកាតា	Gubernio Jamagata
+គំរោងម៉ាន់ហាត់ថាន់	Projekto Manhattan
+ខេត្តយ៉ាម៉ាហ្គឹឈិ	Gubernio Jamaguĉi
+ខេត្តខាន់ណាហ្គាវ៉ា	Gubernio Kanagaŭa
+បញ្ចកោណ	Kvinlatero
+តំបន់ជឺហ្គុកឹ	Ĉugoku
+ខេត្តណាហ្គាណុ	Gubernio Nagano
+ខេត្តសៃតាម៉ា	Gubernio Sajtama
+ខេត្តមីអិ	Gubernio Mie
+ណុត	Knoto
+តំបន់តុហុកកឹ	Tohoku
+ខេត្តហ្គឺនម៉ា	Gubernio Gunma
+ជ្រូកទឹក	Dugongo
+ខ្សែទឹកមហាសមុទ្រ	Marfluo
+ខេត្តមីយ៉ាសាគី	Gubernio Mijazaki
+ខេត្តឃឹម៉ាម៉ុតុ	Gubernio Kumamoto
+សប្ដាហ៏ពិសិដ្ឋ	Sankta Semajno
+ឈូងសមុទ្រថៃ	Golfo de Tajlando
+អ៊ីមម៉ាជីន និងផូស៊ី	Immagine & Poesia
+លី ក្វាន់យូ	Lee Kuan Yew
+កម្មសិទ្ធិបញ្ញា	Intelekta propraĵo
+អាណាខេត្តណារ៉ា	Gubernio Nara
+បុព្វបទនៅក្នុងប្រព័ន្ធខ្នាតអន្តរជាតិ	Dekoblaj kaj dekonaj unuoj
+យន្តហោះប៉ូឡូញកំទេចឆ្នាំ២០១០	Kraŝo de la pola prezidenta aviadilo en 2010
+ជនភៀសខ្លួន	Rifuĝinto
+ហង់រី កាវិនឌីស	Henry Cavendish
+បុណ្យចូលឆ្នាំចិន	Ĉina novjara festo
+ថេរវាទ	Teravado
+តំបន់ខាន់តូ	Kanto (regiono)
+ខេត្តនីហ្គាតាក់	Gubernio Niigata
+ខេត្តយ៉ាម៉ាណាស៊ី	Gubernio Jamanaŝi
+ខេត្តស៊ីម៉ាណិ	Gubernio Ŝimane
+ខេត្តតុយ៉ាម៉ា	Gubernio Tojama
+ខេត្តអូកាយ៉ាម៉ា	Gubernio Okajama
+ISO 3166-2	ISO 3166-2
+ខេត្តអយតាក់	Gubernio Oita
+ខេត្តខូឈិ	Gubernio Koĉi
+អង្គការអន្តរជាតិនៃនយោបាយរបស់បារាំង	Internacia Organizaĵo de la Franclingvio
+ភ្នំមេរ៉ាពី	Merapio
+ព្រះធម៌	Darmo
+តំបន់ឈឺប៊ឹ	Ĉubu
+វ៉ាក់សាំង	Vakcino
+រោគក្អកមាន់	Kokluŝo
+គន្ថនិទ្ទេស	Bibliografio
+គីមឈី	Kimĉio
+ខ្សែទឹកហាំបុល	Humboldta Marfluo
+ជ័រទឹក	Rezino
+ដុនបូស្កូ	Don Bosco
+ធ្នូរង្វង់	Arko (geometrio)
+ស្រុក	Distrikto
+មហាអំណាច កណ្ដាល	Centraj Potencoj
+រ៉ូបឺតកាប៉ា	Robert Capa
+លីប៉ូល ស៊ីដាស៊ាងហ័រ	Léopold Sédar Senghor
+វិគីភីឌាភាសាឥណ្ឌូនេស៊ី	Indonezilingva Vikipedio
+ទន្ដគោម	Agavo
+ប្រវតិ្តBoney M	Boney M
+វីមេអូ	Vimeo
+ហង់រី ការចេរ ប្រេស្សុង	Henri Cartier-Bresson
+ត្រីកោណសម័ង្ស	Egallatera triangulo
+ម៉ាក់ណូលា	Magnolio
+ចូសេហ្វ ហិនរី	Joseph Henry
+ពិធីបញ្ជាប់ពាក្យ	Fianĉiĝo
+ត្រីកោណកែង	Orta triangulo
+សមុទ្រហ្វីលីពីន	Filipina Maro
+ប្រព័ន្ធកូអ័រដោណេភូមិសាស្ត្រ	Geopolitiko
+តេត្រាអែត	Kvaredro
+ម៉ោងផែនដី	Horo por la Tero
+នរោត្ដម សីហនុ	Norodom Sianuk
+ទន្លេរីយ៉ូហ្គ្រែនដេ	Rio Grande del Norte
+កម្មវិធីអភិវឌ្ឍន៍សហប្រជាជាតិ	Programo de la Unuiĝintaj Nacioj pri Disvolvado
+ម៉ាស៊ីនថត លេកា	Leica
+មេគុណជីនី	Koeficiento de Gini
+នីត្រូគ្លីសេរីន	Nitroglicerino
+វណ្ណយុត្តិ	Diakrita signo
+ទង់ជាតិកម្ពុជា	Flago de Kamboĝo
+ក្រុងអង្គរ	Angkor
+ក្រពេញទីមុស	Timuso
+ទ្រឹស្តីបទកូស៊ីនុស	Leĝo de kosinusoj
+ទក្សិណ ជិនវ័ត្រ	Taksin Ĉinaŭat
+អ៊ែង​ហ្គ្រី បឺដ	Angry Birds
+អ៊ីពែបូល	Hiperbolo
+វិសមភាពស្វ័យគុណ	Neegalaĵo (pli granda, malpli granda)
+ប៊ិច	Plumo (skribilo)
+XHTML	XHTML
+គ្រោះទុរ្ភិក្ស	Malsatego
+អរិយសច្ច៤	Kvar noblaj veroj
+ស្តាទិច	Statiko
+ខេត្តណាហ្គាសាគី	Gubernio Nagasaki
+វិគីភីឌាភាសាស្វីស	Svedlingva Vikipedio
+ភ្លើងឆេះព្រៃ	Arbara incendio
+ទ្រឹស្តីបទស៊ីនុស	Leĝo de sinusoj
+ច្បាប់ហ៊ូក	Leĝo de Hooke
+ក្រុមបាល់ទាត់ជម្រើសជាតិ ជប៉ុន	Japana nacia teamo de futbalo
+រោគឈឺចាប់ក្នុងសន្លាក់ឆ្អឹង	Artrito
+ប្លុកហ្គឺ (Blogger)	Blogger
+ធម្មនុញ្ញនៃអង្គការសហប្រជាជាតិ	Ĉarto de la Unuiĝintaj Nacioj
+រោគហើមសួត	Bronkito
+អេមីល្យូ ហ្គីណូ សេហ្គ្រែ	Emilio Segrè
+ម៉ាស៊ីនត្រជាក់	Klimatizilo
+កាំ	Radiuso
+អភិសិទ្ធិ វេជ្ជាជីវៈ	Abhisit Vejjajiva
+លីមីត	Limeso
+វិគីភីឌាភាសាជប៉ុន	Japanlingva Vikipedio
+យានដឹកជញ្ជូនសាធារណៈ	Publika transporto
+ការសំភាសន៏	Intervjuo
+ពាណិជ្ជកម្មអន្តរជាតិ	Internacia komerco
+ចក្រភពអាណានិគមបារាំង	Franca kolonia imperio
+ពន្ធលើប្រាក់ចំណូល	Enspezimposto
+រូបចំលាក់	Statuo
+នាឡិកាខ្សាច់	Sablohorloĝo
+ពុយមីស	Pumiko
+សមុទ្របូហៃ	Bohaj-maro
+ការបង្រៀនដែនដីបរិសុទ្ធ	E-lernado
+ម៉ែត្រក្នុងមួយវិនាទី	Metro en sekundo
+រូបមន្តហេរុង	Formulo de Herono
+ទន្សោង	Bantengo
+វីតាមីន B	Vitamino B
+គណៈកម្មាធិការជាតិអូឡាំពិក	Nacia Olimpika Komitato
+ប៉មតូក្យូ	Turo de Tokio
+រូបមន្តអយល័រ	Eŭlera formulo
+ស៊ីយ៉ាញួរ	Cianido
+សហភាពឥណ្ឌូចិន	Franca Hindoĉinio
+ចន្ទគតិ	Luna kalendaro
+កាលប្បវត្តិព្រះពុទ្ធសាសនា	Kronologio de budhismo
+ឡាហ្គូន	Laguno
+អប់សិន (ហិរញ្ញវត្ថុ)	Opcio (ekonomio)
+អង្កត់ធ្នូ	Ĥordo (geometrio)
+អាយុសង្ឃឹម	Vivdaŭro
+ជំនួយ:Using colours	Helpo:Koloroj
+ខុទ្ទកាល័យ	Estraro
+ធនាគារអភិវឌ្ឍន៍អាស៊ី	Banko por Azia Disvolviĝo
+បញ្ជីរដ្ឋមានអាវុធនុយក្លេអ៊ែរ	Listo de ŝtatoj kun nukleaj armiloj
+សៀវភៅ	La libroj de ĝangaloj
+បារីអេឡិចត្រូនិច	Elektronika cigaredo
+Eagles (ក្រុមភ្លេង)	Eagles
+កំណើនសេដ្ឋកិច្ច	Ekonomia kresko
+រូបមន្តដឺម័រ	Formulo de de Moivre
+អនុគមន៍ហ្គាំម៉ា	Γ-funkcio
+សូរ (​ភាសាសាស្ត្រ​)	Tonlingvo
+ខ្មែរក្រហម	Ruĝaj Kmeroj
+ម៉ូឌុល​យ៉ាំង	Modulo de Young
+យុន ជីមិ-ហូ	Yun Chi-ho
+កែវម៉ាស៊ីនថត	Objektivo
+ទីភ្នាក់ងារសារព័ត៌មាន	Novaĵagentejo
+វិគីភីឌាភាសាស្លូវ៉ាគី	Slovaklingva Vikipedio
+ថេរហ្វារ៉ាដេយ	Konstanto de Faraday
+និមិត្តសញ្ញាគីមី	Listo de kemiaj elementoj laŭ simbolo
+ខូប្រា	Kopro
+អត្ថបទ(ប្រើបា្រស់ភាសា)	Kunteksto
+បំលែងឡាប្លាស	Laplaca konverto
+សញ្ញាជាតិតួរគី	Blazono de Turkio
+បឹងទន្លេសាប	Tonlesapo
+ខ្មែរ (ជនជាតិ)	Kmeroj
+សញ្ញាជាតិឡាវ	Blazono de Laoso
+Tigranes the Great	Tigrano la Granda
+អាណាចក្រខ្មែរ	Kmera imperio
+ត្រីពណ៌	Trikoloro
+រង្វង់ត្រីកោណមាត្រ	Unuocirklo
+ចំរៀករង្វង់	Cirkla sektoro
+អនុគមន៍ដឺក្រេទី៣	Kuba ekvacio
+អនុគមន៍អ៊ីពែបូលីក	Hiperbola funkcio
+ឆាវ ឆាវ	Cao Cao
+រៀល	Kamboĝa rielo
+សមុទ្រស្ទើរបិទ	Bordomaro
+វិគីភីឌាភាសារុស្ស៊ី	Ruslingva Vikipedio
+ភាសាកម្មវិធី Lua	Lua
+ផ្សារហិរញ្ញវត្ថុ	Financa merkato
+ញ៉ែ	Amindumo
+ខ្សែទឹកអាត្លង់ទិកខាងជើង	Nordatlantika Marfluo
+រីស្ស៉ាត កាពុសស៊ីនស្គី	Ryszard Kapuściński
+ស៊ាន ឃីងស្តន	Sean Kingston
+អនុគមន៍បេសែ្សល	Funkcio de Bessel
+ច្បាប់អគ្គីសនីវិភាគរបស់ហ្វារ៉ាដេយ	Leĝo de Faraday
+មានប្រ	Anggun
+ដុនបូស្កូសាឡេស៊ាន្ត	Salesianoj de Don Bosco
+Kara	Kara
+ព្រះបាទសុទ្ធោទន	Ŝuddhodana
+វិទ្យុសម្លេងសហរដ្ឋអាមេរិក	Voĉo de Usono
+គម្ពីរបញ្ចតន្ត្រ	Panĉatantra
+មេដ្យាន	Mediano (geometrio)
+ផ្លាយ អាស់	Flugcindro
+សញ្ញាយ៉ាកូប៊ី	Jakobia simbolo
+វិភាគចិត្តវិទ្យា	Analiza psikologio
+សង្គ្រាមគ្រីមៀ	Krimea milito
+ក្ងោកបៃតង	Verda pavo
+សាលាសំណាក់	Pavilono
+ខ្សែទឹកកាលីហ្វរនៀ	Kalifornia marfluo
+ខេត្តសាឡៈវ៉ាន់	Provinco Salavan
+ដូមីនិក សាវីយ៉ូ	Dominiko Savio
+Seo Jae-pil	Philip Jaisohn
+ព្រះសារីបុត្រ	Ŝariputra
+ទ្រឹស្តីបទគ្រីន	Teoremo de Green
+ប្រាសាទអូសាកា	Osaka burgo
+បេអាត​ រិចន័រ	Beat Richner
+ថ្ងៃបាស់ស្ទីល	Nacia tago de Francio
+ខេត្តផុងសាលី	Provinco Phongsali
+ខេត្តបកែវ	Provinco Bokeo
+ខេត្តចំប៉ាសក្តិ	Provinco Ĉampasako
+កិលេស	Pasio
+កំពស់ត្រីកោណ	Alto (triangulo)
+វិសមភាពរវាងមធ្យម	Neegalaĵo
+ប្រវត្តិសាស្រ្តនៃរូបថត	Historio de fotografio
+បុណ្យសែនព្រះខែ	Luna Festo
+គុណកិរិយា	Adverbo
+កុំផ្លិចឆ្លាស់	Kompleksa konjugito
+ការកើនឡើងនៃចំនួនប្រជាជននៅលើពិភពលោក	Loĝantarkresko
+សម្ដេចប៉ាបហ្វ្រង់សូ័រ	Francisko (papo)
+Regional Internet registry	Regiona Interreta Registrejo
+ខ្វែងជ័យបុរី	Provinco Sainjabuli
+ខ្វែងជើងខ្វែង	Provinco Siangĥuang
+ខេត្តឧត្តមជ័យ	Provinco Udomsai
+អនុគមន៍បែតា	Beta-funkcio
+ទ្រឹស្តីបទតង់សង់	Leĝo de tangentoj
+លិង្គ	Lingamo
+អាកាសយានដ្ឋានអន្តរជាតិតានសូនណាត្ត	Flughaveno Tan Son Nhat
+វីគីប្រជុំ	Vikimanio
+ទង់ជាតិសិង្ហបុរី	Flago de Singapuro
+បង្អួចឆ្នាំ 2000	Vindozo 2000
+តារាងអាំងតេក្រាលនៃអនុគមន៍សនិទាន	Listo de integraloj de racionalaj funkcioj
+សមីការដឺក្រេទី១	Lineara ekvacio
+សញ្ញាជាតិអាហ្វហ្គានីស្ថាន	Blazono de Afganio
+E-commerce	Elektronika komerco
+អ្នក​មាន​ជាង​គេ​លើ​ពិភពលោក	Listo de miliarduloj
+គណកម្មាធិការអូឡាំពិកកូរ៉េ	Korea Olimpika Komitato
+ម្កាក់	Spondias dulcis
+ខេត្ត ហួ ផាន់	Provinco Huaphanh
+ខ្វែងអាចម៍ក្រពើ	Provinco Attapeu
+បញ្ជីទីក្រុងនិងទីប្រជុំជននៅកម្ពុជា	Listo de urboj de Kamboĝo
+ខេត្តខាំមួន	Provinco Ĥamuan
+ឆាយាលក្សសារព័ត៌មាន	Fotoĵurnalismo
+ក្រុមបាល់ទាត់ជម្រើសជាតិ កូរ៉េខាងត្បូង	Sudkorea nacia teamo de futbalo
+នរោត្តម	Norodom de Kamboĝo
+ទ្រឹស្តីបទវ្យែត	Formuloj de Viète
+តារាងអាំងតេក្រាលនៃអនុគមន៍អសនិទាន	Listo de integraloj de malracionalaj funkcioj
+តារាងអាំងតេក្រាលនៃអនុគមន៍លោការីត	Listo de integraloj de logaritmaj funkcioj
+អាំងតេក្រាលផ្ទៃ	Surfaca integralo
+ខេត្តហ៊ីរ៉ូស៊ីម៉ា	Gubernio Hiroŝima
+បន្ទប់រៀន	Klasĉambro
+ជំរំជនភៀសខ្លួន	Rifuĝejo
+អុក	Taja Ŝako
+ចំនួនអាកស៊ីម៉ែដ	Arkimeda nombro
+អនុគមន៍អ៊ីពែបូលីកច្រាស់	Inversa hiperbola funkcio
+អុនសេន	Onseno
+ឧត្តមស្នងការអង្គការសហប្រជាជាតិទទួលបន្ទុកសិទ្ធិមនុស្ស	Alta Komisaro de la Unuiĝintaj Nacioj pri Homaj Rajtoj
+អនុគមន៍ត្រីកោណមាត្រច្រាស់	Inversa trigonometria funkcio
+ម៉ាជូ ពីជូ	Maĉupikĉuo
+ចតុកោណចារឹកក្នុងរង្វង់	Cikla kvarlatero
+គីឡូម៉ែត្រការ៉េ	Kvadrata kilometro
+ចេននី រីវឺរ៉ា	Jenni Rivera
+ពហុកោណនិយ័ត	Regula plurlatero
+ច្រកចូហរ	Ĝohora markolo
+ព្រះសង្ឃ	Monaĥo
+ត្រីរាជ	Mekonga giganta siluro
+Yeghishe Charents	Jeghiŝe Ĉarenc
+ខេត្តហ្លួងព្រះបាង	Provinco Luangprabango
+សង្គ្រាមឥណ្ឌូចិនលើកទី១	Unua Hindoĉina Milito
+សង្គាយនា	Budhistaj koncilioj
+ខ្លែងប្រម៉ង់	Koluma falketo
+ខេត្តអូគីណាវ៉ា	Gubernio Okinavo
+អាស៊ីខាងត្បូង	Suda Azio
+កំណាត់រង្វង់	Cirkla segmento
+តំបន់ត្រីកោណមាស	Ora Triangulo (Sudorienta Azio)
+KM	Kilometro
+ប្រព័ន្ធគោល	Bazo (nombrosistemo)
+បញ្ជី ប្រទេស មានចំនួនអ្នកអានសៀវភៅ	Listo de ŝtatoj laŭ procento de homoj, kiuj kapablas legi
+VietJet Air	VietJet Air
+សាកលវិទ្យាល័យ ចុឡាលុងករណ៍	Universitato Ĉulalonkon
+អនុគមន៍ស៊ីនុសកាឌីណាល់	Sinc funkcio
+ព្រះនាងមាយា	Reĝino Maja
+ព្រហ្មវិហារធម៌	Kvar nemezureblaj
+ជំនួយ:មាតិកា	Helpo:Enhavo
+គណកម្មាធិការអូឡាំពិកជប៉ុន	Japana Olimpika Komitato
+អាំងតេក្រាលអយល័រ	Integralo de Euler
+ចំណុចរំពុះ	Bolpunkto
+ប្រកែកនយោបាយថៃ ស.ក.២០១០	Politika protestado en Tajlando en 2010
+កងទ័ពអេហ្ស៊ីប	Egiptaj Armitaj Fortoj
+ប្រពលវប្បកម្ម	Intensa agrikulturo
+ផលបូក រីម៉ាន	Sumo de Riemann
+ផ្នែកពិត	Reela parto
+ស្ពានឃីងតៃ	Ponto Kintai
+វិគីភីឌា:ស្ថានទូតខ្មែរ	Vikipedio:Ambasadorejo
+អនុគមន៍ហ្គុឌែរម៉ាន់	Funkcio de Gudermannian
+ផ្នែកនិម្មិត	Imaginara parto
+មួយម៉ូនីកា	Agnes Monica
+Candies	Candies
+វិគីភីឌា:Glossary	Helpo:Vikipedia terminaro
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសជប៉ុន	Kategorio:Japanio
+ចំណាត់ថ្នាក់ក្រុម:ម៉ិកសិច	Kategorio:Meksiko
+ចំណាត់ថ្នាក់ក្រុម:ឥណ្ឌូនេស៊ី	Kategorio:Indonezio
+ចំណាត់ថ្នាក់ក្រុម:សិង្ហបុរី	Kategorio:Singapuro
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទ្យា	Kategorio:Fiziko
+ចំណាត់ថ្នាក់ក្រុម:វិទ្យាសាស្រ្តធម្មជាតិ	Kategorio:Naturscienco
+ចំណាត់ថ្នាក់ក្រុម:ជីវវិទ្យា	Kategorio:Biologio
+ចំណាត់ថ្នាក់ក្រុម:សាសនា	Kategorio:Religio
+ចំណាត់ថ្នាក់ក្រុម:កីឡា	Kategorio:Sporto
+ចំណាត់ថ្នាក់ក្រុម:វិទ្យាសាស្ត្រ	Kategorio:Scienco
+ប្រជាមតិទាក់ទងនឹងឯករាជភាពរបស់ស្កុតឡែនឆ្នំា២០១៤	Referendumo pri sendependeco de Skotlando
+ប្រវត្តិច្បាប់រក្សាសិទ្ធ	Historio de kopirajto
+ចំនុចកណ្ដាល	Mezpunkto
+ទំព័រគំរូ:Dts	Ŝablono:Dts
+ទីក្រុងរ៉ូមបុរាណ	Romio
+ទំព័រគំរូ:Box-footer	Portalo:Box-footer
+រឹសគូប	Kuba radiko
+ប្រាសាទកោះកេរ	Koh Ker
+អាំងតេក្រាលមាឌ	Volumena integralo
+អាគីតា	Akita
+អ្នកសារពត័មាន	Ĵurnalisto
+ចំណាត់ថ្នាក់ក្រុម:អូឡាំពិក	Kategorio:Olimpikoj
+ចំណាត់ថ្នាក់ក្រុម:ព្រះពុទ្ធសាសនា	Kategorio:Budhismo
+ទេសចរបារាំង	Turismo en Francio
+ច្បាប់កំលាំងរបស់អំពែរ	Ampera forta leĝo
+ខេត្តបលិខាំសៃ	Provinco Boliĥamsai
+ចំនួនថេរត្រីកោណមាត្រពិត	Akurataj trigonometriaj konstantoj
+កត្តាអាំងតេក្រាល	Integralanta faktoro
+ទំព័រគំរូ:Location map USA2	Ŝablono:Situo sur mapo Usono2
+ចំណាត់ថ្នាក់ក្រុម:អត្ថបទខ្លីមិនពេញលេញ	Kategorio:Ĝermo
+ចំណាត់ថ្នាក់ក្រុម:ទ្វីប	Kategorio:Kontinentoj
+ចំណាត់ថ្នាក់ក្រុម:ភូមិវិទ្យា	Kategorio:Geologio
+ចំណាត់ថ្នាក់ក្រុម:យន្តហោះ	Kategorio:Aviadiloj
+ឧទាហរណ៍នៃការគណនាដេរីវេ	Derivaĵo (ekzemploj)
+ទំព័រគំរូ:ប្រព័ន្ធព្រះអាទិត្យ	Ŝablono:Sunsistemo
+វិគីភីឌា:សារ ទំព័រគំរូ/លំហឈ្មោះ ការពិភាក្សារបស់អ្នកប្រើប្រាស់	Vikipedio:Ŝablonoj/Uzantpaĝoj
+ពីរ៉ាមីត	Piramido (geometrio)
+ពហុធាអាបែល	Abela polinomo
+ជំនួយ:ការកត់ឈ្មោះចូល	Helpo:Registriĝo
+គ្រោះមហន្តរាយ	Katastrofo (akcidento)
+អនុគមន៍គុយ-តែតតា	Q-teta funkcio
+វិគីភីឌា:Reference desk	Vikipedio:Informo
+ទំព័រគំរូ:Authority control	Ŝablono:Bibliotekoj
+ទំព័រគំរូ:Quote	Ŝablono:Citaĵo
+ទំព័រគំរូ:Wikipedia languages	Ŝablono:ĈefPaĝo/AliajLingvoj
+ទំព័រគំរូ:Location map Scotland	Ŝablono:Situo sur mapo Skotlando
+ទំព័រគំរូ:Location map England	Ŝablono:Situo sur mapo Anglio
+ចំណាត់ថ្នាក់ក្រុម:សេដ្ឋកិច្ច	Kategorio:Ekonomiko
+វិគីភីឌា:សុំប្តូរអត្តនាម	Vikipedio:Alinomi uzanton
+ចំណាត់ថ្នាក់ក្រុម:ជនជាតិ ភាគតិច ក្នុង ប្រទេស កម្ពុជា	Kategorio:Etnoj en Kamboĝo
+វិគីភីឌា:IP block exemption	Vikipedio:Imuneco de IP-forbaro
+វិគីភីឌា:រូបយន្ត	Vikipedio:Roboto
+ចំណាត់ថ្នាក់ក្រុម:Hidden categories	Kategorio:Kaŝitaj kategorioj
+អេហ៊្សីប	Egiptujo
+ជំនួយ:ទំព័រគំរូ	Helpo:Ŝablono
+វិគីភីឌា:វិគីគម្រោង	Vikipedio:Projektoj
+ទំព័រគំរូ:Bot	Ŝablono:Bot
+វិគីភីឌា:អ្វីៗដែលវិគីភីឌាមិនអនុញ្ញាត	Vikipedio:Kio Vikipedio ne estas
+កាណាដា	Kanado
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសអាយឡែន	Kategorio:Islando
+ចំណាត់ថ្នាក់ក្រុម:ខ្នាតក្រលាផ្ទៃ	Kategorio:Mezurunuoj de areo
+ទំព័រគំរូ:Flagicon	Ŝablono:Flagikono
+ចំណាត់ថ្នាក់ក្រុម:អឺរ៉ុប	Kategorio:Eŭropo
+ចំណាត់ថ្នាក់ក្រុម:ជំនួយក្នុងវិគីភីឌា	Kategorio:Helpo
+វិគីភីឌា:ទំព័រអ្នកប្រើប្រាស់	Vikipedio:Uzantopaĝo
+វិគីភីឌា:ព្រឹត្តិការណ៍​ថ្មីៗ	Vikipedio:Aktualaĵoj
+ទំព័រគំរូ:Documentation	Ŝablono:Dok
+វិគីភីឌា:អ្នកប្រើប្រាស់	Vikipedio:Rajtoj de uzantoj
+វិគីភីឌា:Protection policy	Vikipedio:Ŝlosendaj paĝoj
+វិគីភីឌា:WikiLove	Vikipedio:VikiAmo
+វិគីភីឌា:Userboxes	Vikipedio:Uzantoskatolo
+វិគីភីឌា:ហត្ថលេខា	Helpo:Subskribo
+វិគីភីឌា:អត្ថបទខ្លីមិនពេញលេញ	Vikipedio:Ĝermo
+វិគីភីឌា:លក្ខណៈវិនិច្ឆ័យនៃលុបជាបន្ទាន់	Vikipedio:Regularo pri tuja forigado
+វិគីភីឌា:Most wanted articles	Vikipedio:Dezirataj artikoloj
+្ឞ្ញ ហ្សអិ-អិអៀ	Sung Jae-gi
+ទំព័រគំរូ:Softredirect	Ŝablono:Intervikia plusendilo
+ទំព័រគំរូ:លុបជាបន្ទាន់	Ŝablono:Forigu tuj
+ទំព័រគំរូ:Succession	Ŝablono:Sinsekvo
+ជំនួយ:ប្រអប់ព័ត៌មាន	Helpo:Informkestoj
+វេស្សន្ដរជាតក	Boun Pha Vet
+ឃុំបឹងបេង	Boeng Beng
+ចំណាត់ថ្នាក់ក្រុម:ភាសា	Kategorio:Lingvoj
+ចំណាត់ថ្នាក់ក្រុម:វេយ្យាករណ៍	Kategorio:Gramatiko
+ចំណាត់ថ្នាក់ក្រុម:វិគីភីឌា	Kategorio:Vikipedio
+វិគីភីឌា:ការបដិសេធ ទូទៅ	Vikipedio:Malgarantio
+ជំនួយ:ចំណាត់ថ្នាក់ក្រុម	Helpo:Kategorio
+វិគីភីឌា:អសង្ស័យកម្ម	Vikipedio:Stilogvido
+Portal:Contents/Portals	Portalo:Portalejo
+ទំព័រគំរូ:Navbox	Ŝablono:Navigilo2
+ជំនួយ:រូបមន្ត	Helpo:TEX en Vikipedio
+ជំនួយ:តំណភ្ជាប់	Helpo:Ligi
+ទំព័រគំរូ:Citation needed	Ŝablono:Mankas fonto
+ទំព័រគំរូ:Error	Ŝablono:Eraro
+ទំព័រគំរូ:!	Ŝablono:!
+ចំណាត់ថ្នាក់ក្រុម:Flag templates	Kategorio:Ŝablonoj landonomoj kun flageto
+ទំព័រគំរូ:=	Ŝablono:=
+ទំព័រគំរូ:Navbar	Ŝablono:Tnavbar
+ទំព័រគំរូ:Loop	Ŝablono:Loop
+ទំព័រគំរូ:Void	Ŝablono:Nevalida
+ទំព័រគំរូ:Key press	Ŝablono:Klavo
+ទំព័រគំរូ:Sc	Ŝablono:Etmajuskloj
+ទំព័រគំរូ:Small	Ŝablono:Malgrande
+ទំព័រគំរូ:Trim	Ŝablono:Trim
+ទំព័រគំរូ:Color	Ŝablono:Kolorteksto
+ទំព័រគំរូ:Nowrap	Ŝablono:Nrsp
+ទំព័រគំរូ:Bots	Ŝablono:Bots
+ទំព័រគំរូ:Abbr	Ŝablono:Diskreta mallongigo
+វិគីភីឌា:វិគីគម្រោង ទំព័រគំរូ	Projekto:Ŝablonoj
+ចំណាត់ថ្នាក់ក្រុម:ខ្សែកោង	Kategorio:Kurboj
+ទំព័រគំរូ:Babel	Ŝablono:Babelejo
+ទំព័រគំរូ:Commons	Ŝablono:Commons
+ទំព័រគំរូ:Link GA	Ŝablono:LigoLeginda
+ទំព័រគំរូ:Reflist	Ŝablono:Referencoj
+ទំព័រគំរូ:NavPeriodicTable	Ŝablono:Perioda tabelo por informkestoj
+វិគីភីឌា:Citing sources	Vikipedio:Citi fontojn
+ទំព័រគំរូ:Gnunote	Ŝablono:Gnunote
+ទំព័រគំរូ:អត្ថបទខ្លីមិនពេញលេញ	Ŝablono:Ĝermo
+ទំព័រគំរូ:User af-1	Ŝablono:Vikipediisto af-1
+ទំព័រគំរូ:User bar-1	Ŝablono:Vikipediisto bar-1
+ទំព័រគំរូ:See also	Ŝablono:Vidu ankaŭ
+ទំព័រគំរូ:User de	Ŝablono:Vikipediisto de
+ទំព័រគំរូ:User de-1	Ŝablono:Vikipediisto de-1
+ទំព័រគំរូ:User el	Ŝablono:Vikipediisto el
+ទំព័រគំរូ:User es	Ŝablono:Vikipediisto es
+ទំព័រគំរូ:User de-3	Ŝablono:Vikipediisto de-3
+ទំព័រគំរូ:User en-3	Ŝablono:Vikipediisto en-3
+ទំព័រគំរូ:User en-1	Ŝablono:Vikipediisto en-1
+ទំព័រគំរូ:User en-2	Ŝablono:Vikipediisto en-2
+ទំព័រគំរូ:User en-4	Ŝablono:Vikipediisto en-4
+ទំព័រគំរូ:User fi	Ŝablono:Vikipediisto fi-D
+ទំព័រគំរូ:User en-0	Ŝablono:Vikipediisto en-0
+ទំព័រគំរូ:User es-4	Ŝablono:Vikipediisto es-4
+ទំព័រគំរូ:User en	Ŝablono:Vikipediisto en
+ទំព័រគំរូ:User de-2	Ŝablono:Vikipediisto de-2
+ទំព័រគំរូ:User es-1	Ŝablono:Vikipediisto es-1
+ទំព័រគំរូ:User fa	Ŝablono:Vikipediisto fa
+ទំព័រគំរូ:User fr-1	Ŝablono:Vikipediisto fr-1
+ទំព័រគំរូ:User id-3	Ŝablono:Vikipediisto id-3
+ទំព័រគំរូ:User it-3	Ŝablono:Vikipediisto it-3
+ទំព័រគំរូ:User tr-2	Ŝablono:Vikipediisto tr-2
+ទំព័រគំរូ:User ja	Ŝablono:Vikipediisto ja
+ទំព័រគំរូ:User ja-1	Ŝablono:Vikipediisto ja-1
+ទំព័រគំរូ:User it-1	Ŝablono:Vikipediisto it-1
+ទំព័រគំរូ:User fr	Ŝablono:Vikipediisto fr
+ទំព័រគំរូ:User gsw-1	Ŝablono:Vikipediisto gsw-1
+ទំព័រគំរូ:Location map/Info	Ŝablono:Situo sur mapo/informoj
+ចំណាត់ថ្នាក់ក្រុម:Navigational boxes	Kategorio:Ŝablono:Navigilo
+ចំណាត់ថ្នាក់ក្រុម:អាស៊ី	Kategorio:Azio
+ចំណាត់ថ្នាក់ក្រុម:User uk-N	Kategorio:Vikipediisto uk-D
+ទំព័រគំរូ:Intricate template	Ŝablono:Esotera
+ទំព័រគំរូ:Football squad player	Ŝablono:Fs player
+ទំព័រគំរូ:Mod	Ŝablono:Mod
+ទំព័រគំរូ:Now Commons	Ŝablono:Nun en Komunejo
+ទំព័រគំរូ:User it	Ŝablono:Vikipediisto it
+ទំព័រគំរូ:User uk	Ŝablono:Vikipediisto uk
+ទំព័រគំរូ:User es-2	Ŝablono:Vikipediisto es-2
+ទំព័រគំរូ:ស្វាគមន៍	Ŝablono:Bonvenon
+ទំព័រគំរូ:គម្រោងវិគីជាបងប្អូន	Ŝablono:ĈefPaĝo/AliajProjektoj
+ចំណាត់ថ្នាក់ក្រុម:External link templates	Kategorio:Ŝablono:Eksteraj ligiloj
+ទំព័រគំរូ:Month header	Ŝablono:MonatEnkonduko
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូសំរាប់កូអរដោនេ	Kategorio:Ŝablono:Kun koordinatoj
+ទំព័រគំរូ:USA	Ŝablono:USA
+ទំព័រគំរូ:Football kit	Ŝablono:Ĉemizo
+ចំណាត់ថ្នាក់ក្រុម:User fr-1	Kategorio:Vikipediisto fr-1
+ទំព័រគំរូ:Wikiquote	Ŝablono:Vikicitaro
+ទំព័រគំរូ:Image label	Ŝablono:Marko sur bildo
+ទំព័រគំរូ:Category tree	Ŝablono:Kategoriarbo
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន អ្នកនិពន្ធ	Ŝablono:Informkesto verkisto
+ទំព័រគំរូ:Stub category	Ŝablono:Ĝermokategorio
+ទំព័រគំរូ:Ja icon	Ŝablono:Ja
+ទំព័រគំរូ:Geographic location	Ŝablono:Geografia ĉirkaŭaĵo
+ទំព័រគំរូ:Infobox musical artist	Ŝablono:Informkesto muzika artisto
+ទំព័រគំរូ:Collapsible list	Ŝablono:Kaŝebla listo
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសប៉ាឡេស្ទីន	Ŝablono:PSE
+ទំព័រគំរូ:Sidebar	Ŝablono:Flanka kesto2
+ទំព័រគំរូ:In use	Ŝablono:Redaktas
+ទំព័រគំរូ:Es icon	Ŝablono:Es
+ទំព័រគំរូ:Ambox	Ŝablono:ArtikolaMesaĝokesto
+ទំព័រគំរូ:Image requested	Ŝablono:Mankas bildo
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភ្លេងជាតិ	Ŝablono:Informkesto nacia himno
+ទំព័រគំរូ:Navigation templates	Ŝablono:Navigilaro
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសគាហ្គីស្ថាន	Ŝablono:KGZ
+ទំព័រគំរូ:Userboxbottom	Ŝablono:Uzantoskatolaro/fino
+ទំព័រគំរូ:Copy to Wikimedia Commons	Ŝablono:Dosiero transigebla sur Komunejon
+ទំព័រគំរូ:ចំណាត់ថ្នាក់ក្រុមនៃទំព័រគំរូ	Ŝablono:Ŝablonkategoriado
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ប្រទេស	Ŝablono:Informkesto lando
+ទំព័រគំរូ:Max	Ŝablono:Max
+ទំព័រគំរូ:Infobox software	Ŝablono:Informkesto programaro
+ទំព័រគំរូ:Column-count	Ŝablono:Kolumno-nombro
+ទំព័រគំរូ:Infobox airline	Ŝablono:Informkesto flugkompanio
+ទំព័រគំរូ:Wide image	Ŝablono:Granda dosiero
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ជម្លោះយោធា	Ŝablono:Informkesto milito
+វិគីភីឌា:សំណួរ	Helpo:Kie demandi
+ទំព័រគំរូ:Redirect4	Ŝablono:Lin mald
+ទំព័រគំរូ:Pagelist	Ŝablono:MultParametroj-Ligilo
+ទំព័រគំរូ:Px	Ŝablono:Px
+ទំព័រគំរូ:Resolved	Ŝablono:Farita
+ទំព័រគំរូ:Str sub long	Ŝablono:Lin sub
+ទំព័រគំរូ:Flatlist	Ŝablono:Listo de elementoj
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសហ្វីលីពីន	Ŝablono:PHL
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន គណបក្សនយោបាយ	Ŝablono:Informkesto politika partio
+ទំព័រគំរូ:Tmbox	Ŝablono:DiskutaMesaĝokesto
+ទំព័រគំរូ:Navbox with columns	Ŝablono:Navigilo kun kolumnoj
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ល្បែងវីដេអូ	Ŝablono:Informkesto komputila kaj videoludo
+ទំព័រគំរូ:S-start	Ŝablono:Komencskatolo
+ទំព័រគំរូ:IsLeapYear	Ŝablono:ISLEAPYEAR
+ទំព័រគំរូ:Age in years and days	Ŝablono:Aĝo en jaroj kaj tagoj
+ទំព័រគំរូ:Nom	Ŝablono:Nomumita
+ទំព័រគំរូ:Cleanup	Ŝablono:Polurinda
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន សាកលវិទ្យាល័យ	Ŝablono:Informkesto universitato
+ទំព័រគំរូ:Cite journal	Ŝablono:Citaĵo el gazeto
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសប្រ៊ុយណេ	Ŝablono:BRN
+ទំព័រគំរូ:វិគីសៀវភៅ	Ŝablono:Vikilibroj
+ទំព័រគំរូ:User browser:Firefox	Ŝablono:Uzanto Mozilo
+ទំព័រគំរូ:User es-0	Ŝablono:Vikipediisto es-0
+ទំព័រគំរូ:Familytree	Ŝablono:Genealogia arbo
+ទំព័រគំរូ:S-aft	Ŝablono:S-aft
+ទំព័រគំរូ:Featured article	Ŝablono:Elstara
+ទំព័រគំរូ:Infobox monarch	Ŝablono:Informkesto reganto
+ចំណាត់ថ្នាក់ក្រុម:User en-4	Kategorio:Vikipediisto en-4
+ចំណាត់ថ្នាក់ក្រុម:User en	Kategorio:Vikipediisto en
+ទំព័រគំរូ:Ordinal	Ŝablono:Ordinara
+ចំណាត់ថ្នាក់ក្រុម:User zh	Kategorio:Vikipediisto zh
+ចំណាត់ថ្នាក់ក្រុម:User zh-N	Kategorio:Vikipediisto zh-D
+ចំណាត់ថ្នាក់ក្រុម:User en-2	Kategorio:Vikipediisto en-2
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន	Ŝablono:Informkesto
+ទំព័រគំរូ:Infobox instrument	Ŝablono:Informkesto muzikilo
+ទំព័រគំរូ:TOC right	Ŝablono:TOC-dekstre
+ទំព័រគំរូ:Main other	Ŝablono:Ĉu artikolo
+ទំព័រគំរូ:RankedMedalTable	Ŝablono:TabeloDeMedalaKlasifiko
+ទំព័រគំរូ:User zh	Ŝablono:Vikipediisto zh
+ទំព័រគំរូ:Template other	Ŝablono:Ĉu ŝablono
+ទំព័រគំរូ:Legend	Ŝablono:Priskribo
+ទំព័រគំរូ:Cite web	Ŝablono:Citaĵo el la reto
+ទំព័រគំរូ:YouTube	Ŝablono:YouTube
+ទំព័រគំរូ:Coor URL	Ŝablono:KoordinatojURL
+ទំព័រគំរូ:Pp-template	Ŝablono:Pp-ŝablono
+ទំព័រគំរូ:Min	Ŝablono:Minimumo
+ទំព័រគំរូ:Wiktionary	Ŝablono:Vikivortaro
+ទំព័រគំរូ:Multi-listen start	Ŝablono:Aŭskultu komenco
+ទំព័រគំរូ:Bar box	Ŝablono:Strikesto
+ទំព័រគំរូ:Language icon	Ŝablono:Ref-lang
+ទំព័រគំរូ:Pp-semi-template	Ŝablono:Pp-duone-ŝablono
+ទំព័រគំរូ:User ru	Ŝablono:Vikipediisto ru
+ទំព័រគំរូ:Admin	Ŝablono:Admininfo
+ទំព័រគំរូ:IPA	Ŝablono:IFA
+ទំព័រគំរូ:អត្ថន័យដទៃទៀត	Ŝablono:Aliaj signifoj
+ទំព័រគំរូ:Language with name	Ŝablono:LingvoKunNomo
+ទំព័រគំរូ:Imbox	Ŝablono:BildaMesaĝokesto
+ទំព័រគំរូ:Rellink	Ŝablono:RilataLigilo
+ទំព័រគំរូ:Navbox subgroup	Ŝablono:Navigilo subgrupo
+ទំព័រគំរូ:Non-free use rationale	Ŝablono:Informkesto justa uzo
+ទំព័រគំរូ:Birth year and age	Ŝablono:Naskiĝdato kaj aĝo
+ទំព័រគំរូ:List of African capitals	Ŝablono:Afrikaj ĉefurboj
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ក្រុមជនជាតិ	Ŝablono:Informkesto etnaj grupoj
+ទំព័រគំរូ:Archive box	Ŝablono:Arkivo
+ទំព័រគំរូ:MONTHNAME	Ŝablono:Nomo de monato
+វិគីភីឌា:Text of GNU Free Documentation License	Vikipedio:GNU Free Documentation License
+ទំព័រគំរូ:Commons category-inline	Ŝablono:Komunejokat
+ទំព័រគំរូ:Sisterlinks	Ŝablono:Projektoj
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន តំបន់ការពារ	Ŝablono:Informkesto protektita tereno
+ទំព័រគំរូ:Border	Ŝablono:Bordero
+ទំព័រគំរូ:Death date and age	Ŝablono:Mortodato kaj aĝo
+ទំព័រគំរូ:MONTHNUMBER	Ŝablono:Nombro de monato
+ចំណាត់ថ្នាក់ក្រុម:People stubs	Kategorio:Ĝermoj pri biografio
+ទំព័រគំរូ:Top icon	Ŝablono:Titola ikono
+ទំព័រគំរូ:Namespace detect	Ŝablono:Determinas nomspacon
+ចំណាត់ថ្នាក់ក្រុម:ជ័យលាភីរង្វាន់ណូបែល ផ្នែករូបវិទ្យា	Kategorio:Nobel-premiitoj pri fiziko
+ចំណាត់ថ្នាក់ក្រុម:ជ័យលាភីរង្វាន់ណូបែល ផ្នែកគីមីវិទ្យា	Kategorio:Nobel-premiitoj pri kemio
+ទំព័រគំរូ:Navbox with collapsible groups	Ŝablono:Navigilo kun kaŝeblaj grupoj
+ទំព័រគំរូ:GeoGroup	Ŝablono:GeoGrupo
+ទំព័រគំរូ:Wikify	Ŝablono:Vikiigenda
+ទំព័រគំរូ:Hidden begin	Ŝablono:Kaŝskatolo komenco
+ទំព័រគំរូ:ParmPart	Ŝablono:ParmPart
+ទំព័រគំរូ:Infobox OS	Ŝablono:Informkesto operaciumo
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន សៀវភៅ	Ŝablono:Informkesto libro
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភព	Ŝablono:Informkesto Planedo
+ទំព័រគំរូ:Lang-fa	Ŝablono:Lang-fa
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសម៉ាឡេស៊ី	Ŝablono:MYS
+ទំព័រគំរូ:Infobox website	Ŝablono:Informkesto retejo
+ទំព័រគំរូ:Globalize	Ŝablono:Kulturdependa
+ទំព័រគំរូ:Image label end	Ŝablono:Marko sur bildo fino
+ទំព័រគំរូ:Documentation subpage	Ŝablono:Ŝablona navigado
+ទំព័រគំរូ:Uncategorized	Ŝablono:Mankas kategorio
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសឥណ្ឌូនេស៊ី	Ŝablono:IDN
+ទំព័រគំរូ:Quote box	Ŝablono:Citskatolo
+ទំព័រគំរូ:CcTLD	Ŝablono:Naciaj domajnoj de plej alta nivelo
+ទំព័រគំរូ:List of Asian capitals by region	Ŝablono:Aziaj ĉefurboj
+ទំព័រគំរូ:ប្រអប់ព័ត៌មានទីកន្លែងកេរដំណែលពិភពលោក	Ŝablono:Informkesto Monda Heredaĵo
+ទំព័រគំរូ:Str len	Ŝablono:Lin longo
+ទំព័រគំរូ:Lang-de	Ŝablono:Lang-de
+ទំព័រគំរូ:Empty category	Ŝablono:Neforigenda kategorio
+ទំព័រគំរូ:Ifempty	Ŝablono:Ifempty
+ទំព័រគំរូ:Lang-la	Ŝablono:Lang-la
+ទំព័រគំរូ:Location map USA	Ŝablono:Situo sur mapo Usono
+ទំព័រគំរូ:Lang-el	Ŝablono:Lang-el
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសអារ៉ាប៊ីសាអូឌីត	Ŝablono:SAU
+ទំព័រគំរូ:User page	Ŝablono:Uzula paĝo
+ទំព័រគំរូ:DE	Ŝablono:DEU
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ព្រះវិហារគ្រិស្ដសាសនា	Ŝablono:Informkesto preĝejo
+ទំព័រគំរូ:Infobox Christian leader	Ŝablono:Informkesto papo
+ទំព័រគំរូ:User	Ŝablono:Uzanto2
+ទំព័រគំរូ:Spoken Wikipedia	Ŝablono:Aŭdioartikolo
+ទំព័រគំរូ:វិគីភីឌាភាសា	Ŝablono:Vikipedioj
+ទំព័រគំរូ:Clarify	Ŝablono:Klarigu
+ទំព័រគំរូ:Refimprove	Ŝablono:Sen fontoj
+ទំព័រគំរូ:ស្នើសុំប្ដូរឈ្មោះ	Ŝablono:Peto pri alinomado/dokumentado
+ទំព័រគំរូ:CIA World Factbook link	Ŝablono:Monda faktolibro de CIA
+ទំព័រគំរូ:Image label small	Ŝablono:Marko sur bildo malgranda
+ទំព័រគំរូ:Nihongo	Ŝablono:Nihongo
+ទំព័រគំរូ:User fr-3	Ŝablono:Vikipediisto fr-3
+ទំព័រគំរូ:PD-because	Ŝablono:PD
+ទំព័រគំរូ:Th icon	Ŝablono:Th
+ទំព័រគំរូ:Pp-meta	Ŝablono:Pp-meta
+ទំព័រគំរូ:Notelist	Ŝablono:Notoj
+ទំព័រគំរូ:S-ttl	Ŝablono:S-ttl
+ទំព័រគំរូ:Infobox former country	Ŝablono:Informkesto pereinta ŝtato
+ទំព័រគំរូ:JPN	Ŝablono:JPN
+ទំព័រគំរូ:ភូមិភាគទាំង៩របស់ជប៉ុន	Ŝablono:Administra divido de Japanio
+ជំនួយ:តារាង	Helpo:Tabeloj
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសប៉ាគីស្ថាន	Ŝablono:PAK
+ទំព័រគំរូ:Age in days nts	Ŝablono:Tagdiferenco
+ទំព័រគំរូ:S-bef	Ŝablono:S-bef
+ទំព័រគំរូ:Guideline	Ŝablono:Rekomendo
+ទំព័រគំរូ:JULIANDAY	Ŝablono:JULIANDAY
+ទំព័រគំរូ:Disagree	Ŝablono:Kontraŭ
+ទំព័រគំរូ:DNB portal	Ŝablono:DNB
+ទំព័រគំរូ:Talkarchive	Ŝablono:Arkivo de diskutoj
+ទំព័រគំរូ:Lt	Ŝablono:Lt
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសអ៊ីរ៉ង់	Ŝablono:IRN
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសហ្សកដង់	Ŝablono:JOR
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសហុងកុង	Ŝablono:HKG
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសកូរ៉េខាងជើង	Ŝablono:PRK
+ទំព័រគំរូ:Infobox continent	Ŝablono:Informkesto kontinento
+ទំព័រគំរូ:BHU	Ŝablono:BTN
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសសិង្ហបុរី	Ŝablono:SIN
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសឥណ្ឌា	Ŝablono:IND
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសម៉ាកាវ	Ŝablono:MAC
+ទំព័រគំរូ:សបា្ដហ៍	Ŝablono:Tagoj de la semajno
+ទំព័រគំរូ:Colors	Ŝablono:W3C-koloroj
+ទំព័រគំរូ:CURRENTJULIANDAY	Ŝablono:CURRENTJULIANDAY
+ទំព័រគំរូ:Nobold	Ŝablono:Nobold
+ចំណាត់ថ្នាក់ក្រុម:User ja-N	Kategorio:Vikipediisto ja-D
+ទំព័រគំរូ:Multicol-break	Ŝablono:Kolumnorompo
+ទំព័រគំរូ:Largest cities	Ŝablono:Plej grandaj urboj
+ទំព័រគំរូ:PDFlink	Ŝablono:PDFligilo
+ទំព័រគំរូ:Ca icon	Ŝablono:Ca
+ទំព័រគំរូ:Lang-ru	Ŝablono:Lang-ru
+ទំព័រគំរូ:Infobox saint	Ŝablono:Informkesto sanktulo
+ទំព័រគំរូ:URL	Ŝablono:URL
+ទំព័រគំរូ:Hidden end	Ŝablono:Kaŝskatolo fino
+ទំព័រគំរូ:ណែនាំ	Ŝablono:Apartigilo
+ទំព័រគំរូ:No	Ŝablono:Ne farita
+ទំព័រគំរូ:Tick	Ŝablono:Hoko
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូ ប្រអប់ព័ត៌មាន	Kategorio:Ŝablono:Informkesto
+ចំណាត់ថ្នាក់ក្រុម:ហិរញ្ញវត្ថុសាធារណៈ	Kategorio:Publikaj financoj
+ចំណាត់ថ្នាក់ក្រុម:អ្នកថតរូប	Kategorio:Fotado
+ទំព័រគំរូ:Para	Ŝablono:Parametro
+ទំព័រគំរូ:Partial	Ŝablono:Parte
+ទំព័រគំរូ:Death year and age	Ŝablono:Mortojaro kaj aĝo
+ទំព័រគំរូ:LAO	Ŝablono:LAO
+ទំព័រគំរូ:User zh-min-nan	Ŝablono:Vikipediisto zh-min-nan
+ទំព័រគំរូ:User zh-min-nan-1	Ŝablono:Vikipediisto zh-min-nan-1
+ទំព័រគំរូ:GRC	Ŝablono:GRC
+ទំព័រគំរូ:PRT	Ŝablono:PRT
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសបង់ក្លាដែស្ស	Ŝablono:BGD
+ទំព័រគំរូ:Category see also	Ŝablono:Rilataj kategorioj
+ទំព័រគំរូ:For	Ŝablono:PorA
+ទំព័រគំរូ:Done-t	Ŝablono:Umita!
+ទំព័រគំរូ:Caution	Ŝablono:Atenton
+ទំព័រគំរូ:Science	Ŝablono:Scienco
+ចំណាត់ថ្នាក់ក្រុម:អង្គការមិនរកប្រាក់កំរៃ	Kategorio:Ne-profitaj organizaĵoj
+ទំព័រគំរូ:High-risk	Ŝablono:Ofte uzata
+ទំព័រគំរូ:Lang-uk	Ŝablono:Lang-uk
+ទំព័រគំរូ:Contains Chinese text	Ŝablono:Ĉina teksto
+ទំព័រគំរូ:KHM	Ŝablono:KHM
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន អង្គការ	Ŝablono:Informkesto organizaĵo
+ទំព័រគំរូ:MNE	Ŝablono:MNE
+ទំព័រគំរូ:Category TOC	Ŝablono:Kategoria indekso
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសមីយ៉ាន់ម៉ា	Ŝablono:MMR
+ទំព័រគំរូ:MONTHDAYS	Ŝablono:MONTHDAYS
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសកូរ៉េខាងត្បូង	Ŝablono:KOR
+ចំណាត់ថ្នាក់ក្រុម:User gsw-1	Kategorio:Vikipediisto gsw-1
+ទំព័រគំរូ:User it-2	Ŝablono:Vikipediisto it-2
+ទំព័រគំរូ:Val	Ŝablono:Val
+ទំព័រគំរូ:Lang-fr	Ŝablono:Lang-fr
+ទំព័រគំរូ:Superimpose	Ŝablono:Supre enmetu
+ទំព័រគំរូ:FRA	Ŝablono:FRA
+ទំព័រគំរូ:Age	Ŝablono:Aĝo
+ទំព័រគំរូ:Infobox person	Ŝablono:Informkesto homoj
+ទំព័រគំរូ:?	Ŝablono:?
+ទំព័រគំរូ:Number table sorting	Ŝablono:Smn
+ទំព័រគំរូ:List of European capitals by region	Ŝablono:Eŭropaj ĉefurboj
+ចំណាត់ថ្នាក់ក្រុម:ព្រះមហាក្សត្រខ្មែរ	Kategorio:Kamboĝaj reĝoj
+ទំព័រគំរូ:Coord	Ŝablono:Koord
+ទំព័រគំរូ:POV	Ŝablono:Malneŭtraleco
+ចំណាត់ថ្នាក់ក្រុម:20th-century births	Kategorio:Naskiĝintoj en la 20-a jarcento
+ទំព័រគំរូ:Dmoz	Ŝablono:Dmoz
+ចំណាត់ថ្នាក់ក្រុម:ពហុកោណ	Kategorio:Plurlateroj
+ទំព័រគំរូ:Fide	Ŝablono:FIDE
+ទំព័រគំរូ:User lb-1	Ŝablono:Vikipediisto lb-1
+ទំព័រគំរូ:Dated maintenance category	Ŝablono:Datita prizorga kategorio
+ទំព័រគំរូ:User fr-4	Ŝablono:Vikipediisto fr-4
+ទំព័រគំរូ:User la-1	Ŝablono:Vikipediisto la-1
+ទំព័រគំរូ:ព្រះពុទ្ធសាសនា	Ŝablono:Budhismo
+ទំព័រគំរូ:Biology-stub	Ŝablono:Ĝermo-biologio
+ចំណាត់ថ្នាក់ក្រុម:ឯកសារអំពី ទំព័រគំរូ	Kategorio:Ŝablono:Dokumentado
+ចំណាត់ថ្នាក់ក្រុម:User et	Kategorio:Vikipediisto et
+ចំណាត់ថ្នាក់ក្រុម:User fr	Kategorio:Vikipediisto fr
+ចំណាត់ថ្នាក់ក្រុម:User id	Kategorio:Vikipediisto id
+ចំណាត់ថ្នាក់ក្រុម:User ja	Kategorio:Vikipediisto ja
+ចំណាត់ថ្នាក់ក្រុម:User la	Kategorio:Vikipediisto la
+ចំណាត់ថ្នាក់ក្រុម:User li	Kategorio:Vikipediisto li
+ចំណាត់ថ្នាក់ក្រុម:User sv	Kategorio:Vikipediisto sv
+ចំណាត់ថ្នាក់ក្រុម:User th	Kategorio:Vikipediisto th
+ចំណាត់ថ្នាក់ក្រុម:User fr-3	Kategorio:Vikipediisto fr-3
+ចំណាត់ថ្នាក់ក្រុម:User it-3	Kategorio:Vikipediisto it-3
+ចំណាត់ថ្នាក់ក្រុម:User ja-3	Kategorio:Vikipediisto ja-3
+ចំណាត់ថ្នាក់ក្រុម:User tr-3	Kategorio:Vikipediisto tr-3
+ចំណាត់ថ្នាក់ក្រុម:User et-1	Kategorio:Vikipediisto et-1
+ចំណាត់ថ្នាក់ក្រុម:User nl-1	Kategorio:Vikipediisto nl-1
+ចំណាត់ថ្នាក់ក្រុម:User tr-1	Kategorio:Vikipediisto tr-1
+ចំណាត់ថ្នាក់ក្រុម:User ko-4	Kategorio:Vikipediisto ko-4
+ចំណាត់ថ្នាក់ក្រុម:User fr-4	Kategorio:Vikipediisto fr-4
+ចំណាត់ថ្នាក់ក្រុម:User it-4	Kategorio:Vikipediisto it-4
+ចំណាត់ថ្នាក់ក្រុម:User fr-2	Kategorio:Vikipediisto fr-2
+ចំណាត់ថ្នាក់ក្រុម:User it-2	Kategorio:Vikipediisto it-2
+ចំណាត់ថ្នាក់ក្រុម:User ja-2	Kategorio:Vikipediisto ja-2
+ចំណាត់ថ្នាក់ក្រុម:User la-2	Kategorio:Vikipediisto la-2
+ចំណាត់ថ្នាក់ក្រុម:User tr-2	Kategorio:Vikipediisto tr-2
+ចំណាត់ថ្នាក់ក្រុម:User fr-N	Kategorio:Vikipediisto fr-D
+ចំណាត់ថ្នាក់ក្រុម:User it-N	Kategorio:Vikipediisto it-D
+ចំណាត់ថ្នាក់ក្រុម:User nl-N	Kategorio:Vikipediisto nl-D
+ចំណាត់ថ្នាក់ក្រុម:User ru-N	Kategorio:Vikipediisto ru-D
+ចំណាត់ថ្នាក់ក្រុម:User it-5	Kategorio:Vikipediisto it-5
+ចំណាត់ថ្នាក់ក្រុម:កំសាន្ត	Kategorio:Distrado
+ទំព័រគំរូ:Beta	Ŝablono:Beta
+ចំណាត់ថ្នាក់ក្រុម:User af	Kategorio:Vikipediisto af
+ចំណាត់ថ្នាក់ក្រុម:User af-1	Kategorio:Vikipediisto af-1
+ចំណាត់ថ្នាក់ក្រុម:User bar	Kategorio:Vikipediisto bar
+ចំណាត់ថ្នាក់ក្រុម:កោះ	Kategorio:Insuloj
+ទំព័រគំរូ:UF-hcard-person	Ŝablono:UF-hcard-persono
+ចំណាត់ថ្នាក់ក្រុម:User de	Kategorio:Vikipediisto de
+ចំណាត់ថ្នាក់ក្រុម:User de-2	Kategorio:Vikipediisto de-2
+ចំណាត់ថ្នាក់ក្រុម:User de-3	Kategorio:Vikipediisto de-3
+ចំណាត់ថ្នាក់ក្រុម:User de-4	Kategorio:Vikipediisto de-4
+ចំណាត់ថ្នាក់ក្រុម:User de-N	Kategorio:Vikipediisto de-D
+ចំណាត់ថ្នាក់ក្រុម:User el	Kategorio:Vikipediisto el
+ចំណាត់ថ្នាក់ក្រុម:User en-3	Kategorio:Vikipediisto en-3
+ចំណាត់ថ្នាក់ក្រុម:User en-N	Kategorio:Vikipediisto en-D
+ចំណាត់ថ្នាក់ក្រុម:User es	Kategorio:Vikipediisto es
+ចំណាត់ថ្នាក់ក្រុម:User es-1	Kategorio:Vikipediisto es-1
+ចំណាត់ថ្នាក់ក្រុម:User es-2	Kategorio:Vikipediisto es-2
+ចំណាត់ថ្នាក់ក្រុម:User es-4	Kategorio:Vikipediisto es-4
+ចំណាត់ថ្នាក់ក្រុម:User es-N	Kategorio:Vikipediisto es-D
+ចំណាត់ថ្នាក់ក្រុម:User fi	Kategorio:Vikipediisto fi
+ចំណាត់ថ្នាក់ក្រុម:User fi-N	Kategorio:Vikipediisto fi-D
+ចំណាត់ថ្នាក់ក្រុម:User gsw	Kategorio:Vikipediisto gsw
+ទំព័រគំរូ:N/a	Ŝablono:N/a
+ចំណាត់ថ្នាក់ក្រុម:User id-1	Kategorio:Vikipediisto id-1
+ចំណាត់ថ្នាក់ក្រុម:User id-2	Kategorio:Vikipediisto id-2
+ចំណាត់ថ្នាក់ក្រុម:User id-3	Kategorio:Vikipediisto id-3
+ទំព័រគំរូ:Multiple image	Ŝablono:Pluraj bildoj
+ចំណាត់ថ្នាក់ក្រុម:ធរណីមាត្រ	Kategorio:Geometrio
+ទំព័រគំរូ:អង្គការសហប្រជាជាតិ	Ŝablono:Unuiĝintaj Nacioj
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន រោគ-ជំងឺ	Ŝablono:Informkesto Malsano
+ទំព័រគំរូ:User wikipedia/Administrator	Ŝablono:Uzanto Vikiadministranto
+ទំព័រគំរូ:Weather box	Ŝablono:Informkesto jara klimo
+ដែនជំរកសត្វព្រៃគូលេនព្រហ្មទេព	Naturrezervejo Kulen Promtep
+វិគីភីឌា:អត្ថបទ​ប្រចាំ​ថ្ងៃ	Vikipedio:Premioj
+ចំណាត់ថ្នាក់ក្រុម:User it	Kategorio:Vikipediisto it
+ចំណាត់ថ្នាក់ក្រុម:User it-1	Kategorio:Vikipediisto it-1
+ចំណាត់ថ្នាក់ក្រុម:User ja-1	Kategorio:Vikipediisto ja-1
+ចំណាត់ថ្នាក់ក្រុម:User ko	Kategorio:Vikipediisto ko
+ចំណាត់ថ្នាក់ក្រុម:User ko-1	Kategorio:Vikipediisto ko-1
+ចំណាត់ថ្នាក់ក្រុម:User ko-2	Kategorio:Vikipediisto ko-2
+ចំណាត់ថ្នាក់ក្រុម:User ko-3	Kategorio:Vikipediisto ko-3
+ចំណាត់ថ្នាក់ក្រុម:User ksh	Kategorio:Vikipediisto ksh
+ចំណាត់ថ្នាក់ក្រុម:User ksh-N	Kategorio:Vikipediisto ksh-D
+ចំណាត់ថ្នាក់ក្រុម:User la-1	Kategorio:Vikipediisto la-1
+ទំព័រគំរូ:Multiple issues	Ŝablono:Pluraj problemoj
+ទំព័រគំរូ:Cite doi	Ŝablono:Cite doi
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន រូបិយវត្ថុ	Ŝablono:Informkesto valuto
+ទំព័រគំរូ:Sup	Ŝablono:Eksp
+ទំព័រគំរូ:Lang-vi	Ŝablono:Lang-vi
+ទំព័រគំរូ:Distinguish	Ŝablono:Ne konfuzu
+ទំព័រគំរូ:Infobox programming language	Ŝablono:Informkesto programlingvo
+ទំព័រគំរូ:Information	Ŝablono:Informo por dosiero
+ចំណាត់ថ្នាក់ក្រុម:User ru-1	Kategorio:Vikipediisto ru-1
+ទំព័រគំរូ:TOC limit	Ŝablono:LimigitaIndekso
+វិគីភីឌា:បាបេល	Vikipedio:Babelejo
+ទំព័រគំរូ:Hilite	Ŝablono:Kolorigo
+ទំព័រគំរូ:Expand list	Ŝablono:Malkompleta listo
+ទំព័រគំរូ:Tdeprecated	Ŝablono:Evitinda
+ទំព័រគំរូ:Sidebar with collapsible lists	Ŝablono:Flanka kesto kun kaŝeblaj listoj
+ចំណាត់ថ្នាក់ក្រុម:សមុទ្រ	Kategorio:Maroj
+ទំព័រគំរូ:User WikiProject Templates	Ŝablono:Uzanto Projekto/Ŝablono/nocat
+ទំព័រគំរូ:CSS3 multiple column layout	Ŝablono:CSS3 multiple column layout
+ទំព័រគំរូ:Lang-ko	Ŝablono:Lang-ko
+ចំណាត់ថ្នាក់ក្រុម:User nds	Kategorio:Vikipediisto nds
+ទំព័រគំរូ:Sect1911	Ŝablono:1911
+ចំណាត់ថ្នាក់ក្រុម:User nds-1	Kategorio:Vikipediisto nds-1
+ទំព័រគំរូ:Coord/dms2dec	Ŝablono:Koord/gmsaldek
+ជំនួយ:Archiving a talk page	Helpo:Arkivigi
+ចំណាត់ថ្នាក់ក្រុម:អង្គការអន្តរជាតិ	Kategorio:Internaciaj organizaĵoj
+ជំនួយ:សៀវភៅ	Helpo:Libroj
+ចំណាត់ថ្នាក់ក្រុម:សមីការឌីផេរ៉ង់ស្យែល	Kategorio:Diferencialaj ekvacioj
+ចំណាត់ថ្នាក់ក្រុម:User zh-min-nan	Kategorio:Vikipediisto zh-min-nan
+ចំណាត់ថ្នាក់ក្រុម:ឧទ្ធម្ភាគចក្រ	Kategorio:Helikopteroj
+ចំណាត់ថ្នាក់ក្រុម:នាយករដ្ឋមន្ត្រី	Kategorio:Ĉefministroj
+ចំណាត់ថ្នាក់ក្រុម:វិទ្យាសាស្ត្រសង្គម	Kategorio:Socia scienco
+ទំព័រគំរូ:Non-free game cover	Ŝablono:Videoludo-kovrilo
+ទំព័រគំរូ:User zh-0	Ŝablono:Vikipediisto zh-0
+ចំណាត់ថ្នាក់ក្រុម:ឆ្នាំកំណើត ១៩៥១	Kategorio:Naskiĝintoj en 1951
+ទំព័រគំរូ:Zh icon	Ŝablono:Zh
+ទំព័រគំរូ:Babel-N	Ŝablono:Babelejo-N
+ទំព័រគំរូ:User ru-2	Ŝablono:Vikipediisto ru-2
+ចំណាត់ថ្នាក់ក្រុម:User ru	Kategorio:Vikipediisto ru
+ចំណាត់ថ្នាក់ក្រុម:User ru-2	Kategorio:Vikipediisto ru-2
+ចំណាត់ថ្នាក់ក្រុម:User ru-3	Kategorio:Vikipediisto ru-3
+ចំណាត់ថ្នាក់ក្រុម:វត្តអារាមព្រះពុទ្ធសាសនា	Kategorio:Budhismaj temploj
+ទំព័រគំរូ:Apollo program	Ŝablono:Programo Apollo/dokumentado
+ចំណាត់ថ្នាក់ក្រុម:User th-N	Kategorio:Vikipediisto th-D
+ចំណាត់ថ្នាក់ក្រុម:User tr	Kategorio:Vikipediisto tr
+ចំណាត់ថ្នាក់ក្រុម:User tr-0	Kategorio:Vikipediisto tr-0
+ចំណាត់ថ្នាក់ក្រុម:User tr-N	Kategorio:Vikipediisto tr-D
+ទំព័រគំរូ:En icon	Ŝablono:En
+ទំព័រគំរូ:Spaces	Ŝablono:Spacoj
+ទំព័រគំរូ:ប្រអប់ភាសា	Ŝablono:Lang
+ទំព័រគំរូ:FishBase species alt	Ŝablono:FishBase species
+ទំព័រគំរូ:Country flag IOC alias GBR	Ŝablono:Lando flago IOK GBR
+ទំព័រគំរូ:Infobox Olympics Cambodia	Ŝablono:Informkesto Olimpikoj Kamboĝo
+ទំព័រគំរូ:Self	Ŝablono:Self
+ទំព័រគំរូ:Any	Ŝablono:Io
+ទំព័រគំរូ:BLACK	Ŝablono:NIGRA
+ទំព័រគំរូ:Bar percent	Ŝablono:Strikesto/procentoj
+ទំព័រគំរូ:Str find	Ŝablono:Lin serĉi
+ទំព័រគំរូ:CENTURY	Ŝablono:CENTURY
+ទំព័រគំរូ:Fr icon	Ŝablono:Fr
+ឃុំម៉ាឡៃ	Malai (komunumo)
+ទំព័រគំរូ:Twitter	Ŝablono:Twitter
+ទំព័រគំរូ:Ko icon	Ŝablono:Ko
+ទំព័រគំរូ:Coord/dec2dms/dm	Ŝablono:Koord/dekalgms/gm
+ចំណាត់ថ្នាក់ក្រុម:Image with comment templates	Kategorio:Ŝablono:Komento
+ទំព័រគំរូ:EST	Ŝablono:EST
+ទំព័រគំរូ:Football squad end	Ŝablono:Fs end
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសរុស្ស៊ី	Ŝablono:RUS
+ទំព័រគំរូ:ប្រវត្តិសាស្ត្របារាំង	Ŝablono:Historio de Francio
+ទំព័រគំរូ:MONTH	Ŝablono:Monato
+ទំព័រគំរូ:CHL	Ŝablono:CHL
+ទំព័រគំរូ:Cc-by-sa-3.0,2.5,2.0,1.0	Ŝablono:Cc-by-sa-3.0,2.5,2.0,1.0
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសស៊ីរី	Ŝablono:SYR
+ទំព័រគំរូ:Familytree/step2	Ŝablono:Genealogia arbo/paŝo2
+ទំព័រគំរូ:Side box	Ŝablono:Flanka kesto
+ទំព័រគំរូ:ENG	Ŝablono:ENG
+ទំព័រគំរូ:Citation	Ŝablono:Cito
+ទំព័រគំរូ:Expert-subject	Ŝablono:Kontrolinda enhavo
+ទំព័រគំរូ:Translation department	Ŝablono:BabelHelpo
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភាសា/family-color	Ŝablono:Informkesto lingvo/Koloro
+ទំព័រគំរូ:Grey	Ŝablono:Griza
+ទំព័រគំរូ:User ru-1	Ŝablono:Vikipediisto ru-1
+ចំណាត់ថ្នាក់ក្រុម:អាំងតេក្រាល	Kategorio:Integraloj
+ទំព័រគំរូ:User tr-1	Ŝablono:Vikipediisto tr-1
+ទំព័រគំរូ:User zh-1	Ŝablono:Vikipediisto zh-1
+ទំព័រគំរូ:User zh-2	Ŝablono:Vikipediisto zh-2
+ទំព័រគំរូ:User zh-3	Ŝablono:Vikipediisto zh-3
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូ	Kategorio:Fizikistoj laŭ nacieco
+ទំព័រគំរូ:User zh-4	Ŝablono:Vikipediisto zh-4
+ចំណាត់ថ្នាក់ក្រុម:គមនាគមន៍នៅប្រទេសជប៉ុន	Kategorio:Transporto en Japanio
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសហ្សំប៊ី	Kategorio:Zambio
+ទំព័រគំរូ:Calm talk	Ŝablono:Trankvila diskuto
+ទំព័រគំរូ:Multi-listen end	Ŝablono:Aŭskultu fino
+ចំណាត់ថ្នាក់ក្រុម:User ja-0	Kategorio:Vikipediisto ja-0
+ចំណាត់ថ្នាក់ក្រុម:User nl	Kategorio:Vikipediisto nl
+ចំណាត់ថ្នាក់ក្រុម:User zh-1	Kategorio:Vikipediisto zh-1
+ចំណាត់ថ្នាក់ក្រុម:User zh-4	Kategorio:Vikipediisto zh-4
+ចំណាត់ថ្នាក់ក្រុម:User zh-3	Kategorio:Vikipediisto zh-3
+ចំណាត់ថ្នាក់ក្រុម:User zh-2	Kategorio:Vikipediisto zh-2
+ចំណាត់ថ្នាក់ក្រុម:មេកានិច	Kategorio:Mekaniko
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអាល្លឺម៉ង់	Kategorio:Germanaj fizikistoj
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអ៊ីតាលី	Kategorio:Italaj fizikistoj
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូបារាំង	Kategorio:Francaj fizikistoj
+ចំណាត់ថ្នាក់ក្រុម:សេវាសាធារណៈ	Kategorio:Ŝtataj servoj
+ចំណាត់ថ្នាក់ក្រុម:គណិតវិទូអាល្លឺម៉ង់	Kategorio:Germanaj matematikistoj
+ចំណាត់ថ្នាក់ក្រុម:ចំនួនគត់រឺឡាទីប	Kategorio:Entjeroj
+ចំណាត់ថ្នាក់ក្រុម:ត្រីកោណមាត្រ	Kategorio:Trigonometrio
+ចំណាត់ថ្នាក់ក្រុម:ទ្រឹស្តីបទ	Kategorio:Teoremoj
+ចំណាត់ថ្នាក់ក្រុម:ទ្រឹស្តីបទគណិតវិទ្យា	Kategorio:Matematikaj teoremoj
+ចំណាត់ថ្នាក់ក្រុម:អាកាសយានដ្ឋាន	Kategorio:Flughavenoj
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអាមេរិក	Kategorio:Usonaj fizikistoj
+ចំណាត់ថ្នាក់ក្រុម:រូបវិទូអង់គ្លេស	Kategorio:Anglaj fizikistoj
+ចំណាត់ថ្នាក់ក្រុម:រង្វាន់ណូបែល	Kategorio:Nobel-premio
+ទំព័រគំរូ:User pfl-1	Ŝablono:Vikipediisto pfl-1
+ចំណាត់ថ្នាក់ក្រុម:Wikipedia shortcut box first parameter needs fixing	Kategorio:Unua parametro de Vikipedia kesto por mallongigo bezonas korekton
+ចំណាត់ថ្នាក់ក្រុម:ប្រទេសកម្ពុជា	Kategorio:Kamboĝo
+ចំណាត់ថ្នាក់ក្រុម:អ្នកនយោបាយប៉ាគីស្ថាន	Kategorio:Pakistanaj politikistoj
+ចំណាត់ថ្នាក់ក្រុម:អ្នកនយោបាយខ្មែរ	Kategorio:Kamboĝaj politikistoj
+ចំណាត់ថ្នាក់ក្រុម:អ្នករុករកជនជាតិបារាំង	Kategorio:Francaj esploristoj
+ចំណាត់ថ្នាក់ក្រុម:ស្រីលង្កា	Kategorio:Sri-Lanko
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូឈ្មោះភាសា	Kategorio:Multlingviloj
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូក្នុងរូបវិទ្យា	Kategorio:Ŝablono:Fiziko
+ទំព័រគំរូ:ISO 639 name	Ŝablono:Lingv/o
+ឃុំអូរសំព័រ	Ou Sampor
+ឃុំអូរស្រឡៅ	Ou Sralau
+ទំព័រគំរូ:Ed	Ŝablono:Redaktu
+ចំណាត់ថ្នាក់ក្រុម:អុនសេន	Kategorio:Banejoj
+ចំណាត់ថ្នាក់ក្រុម:ពហុធា	Kategorio:Polinomoj
+ចំណាត់ថ្នាក់ក្រុម:ពិជគណិតថ្នាក់ដំបូង	Kategorio:Rudimenta algebro
+ចំណាត់ថ្នាក់ក្រុម:ភាសាជប៉ុន	Kategorio:Japana lingvo
+ចំណាត់ថ្នាក់ក្រុម:ចតុកោណ	Kategorio:Kvarlateroj
+ចំណាត់ថ្នាក់ក្រុម:ត្រីកោណ	Kategorio:Trianguloj
+ចំណាត់ថ្នាក់ក្រុម:សំភារៈ​សំណង់	Kategorio:Konstrumaterialoj
+ចំណាត់ថ្នាក់ក្រុម:សមីការ	Kategorio:Ekvacioj
+ចំណាត់ថ្នាក់ក្រុម:សិទ្ធិ	Kategorio:Rajtoj
+ទំព័រគំរូ:Hexadecimal	Ŝablono:Deksesuma
+ចំណាត់ថ្នាក់ក្រុម:វិភាគគណិតវិទ្យា	Kategorio:Analitiko
+ចំណាត់ថ្នាក់ក្រុម:វិសមភាព	Kategorio:Neegalaĵoj
+ចំណាត់ថ្នាក់ក្រុម:ឧទ្យានជាតិ	Kategorio:Naciaj parkoj
+ចំណាត់ថ្នាក់ក្រុម:កោះស៊ូម៉ាត្រា	Kategorio:Sumatro
+ចំណាត់ថ្នាក់ក្រុម:មីក្រូសេដ្ឋកិច្ច	Kategorio:Mikroekonomiko
+ចំណាត់ថ្នាក់ក្រុម:HTML	Kategorio:HTML
+ចំណាត់ថ្នាក់ក្រុម:អេឡិចត្រូស្តាទិច	Kategorio:Elektrostatiko
+ចំណាត់ថ្នាក់ក្រុម:អាកាសចរណ៍	Kategorio:Transporto
+ចំណាត់ថ្នាក់ក្រុម:គណិតវិទ្យាថ្នាក់ដំបូង	Kategorio:Rudimenta matematiko
+ចំណាត់ថ្នាក់ក្រុម:ទ្រឹស្តីបទលេខ	Kategorio:Nombroteorio
+ទំព័រគំរូ:ប្រអប់ព័ត៌មាន ភាសា	Ŝablono:Informkesto lingvo
+ចំណាត់ថ្នាក់ក្រុម:ភាសាអ៊ីតាលី	Kategorio:Itala lingvo
+ចំណាត់ថ្នាក់ក្រុម:ភាសាអេស្ប៉ាញ	Kategorio:Hispana lingvo
+ចំណាត់ថ្នាក់ក្រុម:រថក្រោះ	Kategorio:Tankoj
+ចំណាត់ថ្នាក់ក្រុម:កោះរបស់ឥណ្ឌូនេស៊ី	Kategorio:Indoneziaj insuloj
+ទំព័រគំរូ:Cross	Ŝablono:Kruco
+ទំព័រគំរូ:Split	Ŝablono:Disigu
+ចំណាត់ថ្នាក់ក្រុម:ធរណីមាត្រអ៊ីពែបូលីក	Kategorio:Hiperbola geometrio
+វិគីភីឌា:ឯកសារកម្មទំព័រគំរូ	Helpo:Dokumentado
+ទំព័រគំរូ:CompactTOC8	Ŝablono:Indekso
+ចំណាត់ថ្នាក់ក្រុម:ក្រលាផ្ទៃ	Kategorio:Areo
+ចំណាត់ថ្នាក់ក្រុម:លោការីត	Kategorio:Logaritmoj
+ទំព័រគំរូ:CURRENTMINUTE	Ŝablono:CURRENTMINUTE
+ទំព័រគំរូ:Substituted	Ŝablono:Ŝablono ne inkludita
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសអ៊ូបេគីស្ថាន	Ŝablono:UZB
+ទំព័រគំរូ:Pad	Ŝablono:Pad
+ទំព័រគំរូ:Column-rule	Ŝablono:Kolumno-regulo
+ទំព័រគំរូ:Connected contributor	Ŝablono:Vikipediisto kun artikolo
+ទំព័រគំរូ:Coord/prec dec	Ŝablono:Koord/prec dek
+ទំព័រគំរូ:Flag	Ŝablono:Flago
+ឃុំតាគង់	Ta Kong
+ទំព័រគំរូ:Lang-pl	Ŝablono:Lang-pl
+ទំព័រគំរូ:Country flag IOC alias USA	Ŝablono:Lando flago IOK USA
+ទំព័រគំរូ:Str right	Ŝablono:Lin dekst
+ទំព័រគំរូ:Diff	Ŝablono:Diff
+ឃុំទួលពង្រ	Tuol Pongro
+ចំណាត់ថ្នាក់ក្រុម:ភាសាអង់គ្លេស	Kategorio:Angla lingvo
+ទំព័រគំរូ:OCA	Ŝablono:Aziaj Olimpikaj Komitatoj
+ទំព័រគំរូ:G8	Ŝablono:G8-Ŝtatoj
+ទំព័រគំរូ:Infobox country Olympics	Ŝablono:Informkesto lando Olimpikoj
+ទំព័រគំរូ:User vi-2	Ŝablono:Vikipediisto vi-2
+ទំព័រគំរូ:User zh-min-nan-4	Ŝablono:Vikipediisto zh-min-nan-4
+ទំព័រគំរូ:User zh-min-nan-2	Ŝablono:Vikipediisto zh-min-nan-2
+ទំព័រគំរូ:User id-2	Ŝablono:Vikipediisto id-2
+ទំព័រគំរូ:OMIM2	Ŝablono:OMIM2
+ទំព័រគំរូ:Lang-az	Ŝablono:Lang-az
+ទំព័រគំរូ:Country flag IOC alias CAM	Ŝablono:Lando flago IOK CAM
+ទំព័រគំរូ:Mammal-stub	Ŝablono:Ĝermo-mamulo
+ចំណាត់ថ្នាក់ក្រុម:ពិជគណិត	Kategorio:Algebro
+ចំណាត់ថ្នាក់ក្រុម:មុំ	Kategorio:Angulo
+ចំណាត់ថ្នាក់ក្រុម:នព្វន្ធ	Kategorio:Aritmetiko
+ចំណាត់ថ្នាក់ក្រុម:User ko-0	Kategorio:Vikipediisto ko-0
+ទំព័រគំរូ:Multicol	Ŝablono:Multkolumna
+សិទ្ធិកុមារ	Infanrajtoj
+ចំណាត់ថ្នាក់ក្រុម:អាស៊ីខាងកើត	Kategorio:Orienta Azio
+ចំណាត់ថ្នាក់ក្រុម:អេឡិចត្រូម៉ាញ៉េទិច	Kategorio:Elektromagnetismo
+វិគីភីឌា:វិគីគម្រោង សាកលវិទ្យាល័យ	Projekto:Universitatoj
+ចំណាត់ថ្នាក់ក្រុម:បណ្ណាល័យ	Kategorio:Bibliotekoj
+ជំនួយ:អសង្ស័យកម្ម	Helpo:Apartigiloj
+ទំព័រគំរូ:ទិន្នន័យ​នៃប្រទេសម៉ុងហ្គោល	Ŝablono:MNG
+ទំព័រគំរូ:Non-free newspaper image	Ŝablono:Gazetartikolo
+ចំណាត់ថ្នាក់ក្រុម:ទំព័រគំរូTOC	Kategorio:Ŝablono:Indekso
+ទំព័រគំរូ:Image label begin	Ŝablono:Marko sur bildo komenco
+ទំព័រគំរូ:Bg icon	Ŝablono:Bg
+ចំណាត់ថ្នាក់ក្រុម:កងកម្លាំងអាកាស	Kategorio:Aerarmeo
+ចំណាត់ថ្នាក់ក្រុម:សាកលវិទ្យាល័យនៅប្រទេសជប៉ុន	Kategorio:Universitatoj de Japanio
+វិគីភីឌា:សារ ទំព័រគំរូ/បោសសំអាត	Vikipedio:Takssimboloj
+ចំណាត់ថ្នាក់ក្រុម:User es-0	Kategorio:Vikipediisto es-0
+ចំណាត់ថ្នាក់ក្រុម:វប្បធម៌ខ្មែរ	Kategorio:Kulturo de Kamboĝo
+ចំណាត់ថ្នាក់ក្រុម:User en-1	Kategorio:Vikipediisto en-1
+ចំណាត់ថ្នាក់ក្រុម:User de-1	Kategorio:Vikipediisto de-1
+ចំណាត់ថ្នាក់ក្រុម:Wikipedia protected templates	Kategorio:Protektitaj ŝablonoj
+ទំព័រគំរូ:Not English	Ŝablono:Esperantigu artikolon
+ទំព័រគំរូ:Thank you	Ŝablono:Dankon!
+ទំព័រគំរូ:សង្គ្រាមត្រជាក់	Ŝablono:Malvarma milito
+ទំព័រគំរូ:ព្រះត្រៃបិដក	Ŝablono:Tripitako
+ចំណាត់ថ្នាក់ក្រុម:កោះជ្វា	Kategorio:Javo
+ជំនួយ:របារឧបករណ៍កែប្រែ	Helpo:Redaktiloj
+វិគីភីឌា:Contributing to Wikipedia	Helpo:Kiel kontribui
+ទំព័រគំរូ:Law	Ŝablono:Juro
+ចំណាត់ថ្នាក់ក្រុម:ការធ្វើសេចក្ដីរាយការណ៏ពត៌មាន	Raporto
+ទំព័រគំរូ:Unknown	Ŝablono:Ne konata
+ទំព័រគំរូ:Terminated	Ŝablono:Finita
+ទំព័រគំរូ:User zh-min-nan-3	Ŝablono:Vikipediisto zh-min-nan-3
+ទំព័រគំរូ:Dropped	Ŝablono:Lasita
+ទំព័រគំរូ:Free	Ŝablono:Libera
+ទំព័រគំរូ:Bio-stub	Ŝablono:Ĝermo-biografio
+ទំព័រគំរូ:Nonfree	Ŝablono:Nelibera
+ទំព័រគំរូ:Table-experimental	Ŝablono:Tabela-eksperimenta
+ទំព័រគំរូ:YEARCC	Ŝablono:YEARCC
+ទំព័រគំរូ:ISOYEAR	Ŝablono:ISOYEAR
+ទំព័រគំរូ:YEARYY	Ŝablono:YEARYY
+ទំព័រគំរូ:Incorrect	Ŝablono:Malkorekta
+ទំព័រគំរូ:WikiProject Footer	Ŝablono:Projektpiedo
+វិគីភីឌា:អំពី ប្រអប់ខ្សាច់	Helpo:Provejo
+ទំព័រគំរូ:Infobox file format	Ŝablono:Informkesto dosiera aranĝo
+ទំព័រគំរូ:No result	Ŝablono:Neniu rezulto
+ទំព័រគំរូ:User id-1	Ŝablono:Vikipediisto id-1
+ទំព័រគំរូ:S-inc	Ŝablono:S-inc
+ទំព័រគំរូ:ForLoop/aux	Ŝablono:For/aŭ
+វិគីភីឌា:As of	Vikipedio:Nun en
+វិគីភីឌា:Infobox colours	Vikipedio:Informkesto koloro
+ទំព័រគំរូ:Location map many	Ŝablono:Situo sur mapo/multaj
+វិគីភីឌា:Babel/km-0	Vikipedio:Babelejo/eo-0
+ចំណាត់ថ្នាក់ក្រុម:យន្តហោះប្រដេញ	Kategorio:Ĉasaviadiloj
+ទំព័រគំរូ:Table cell templates	Ŝablono:Jes ne
+ទំព័រគំរូ:Weather box/colpastel	Ŝablono:Veterkesto/paŝteloj
+ទំព័រគំរូ:Issubst	Ŝablono:Issubst
+ទំព័រគំរូ:MSW3 Groves	Ŝablono:MSW3 Groves
+ទំព័រគំរូ:Multi-listen item	Ŝablono:Aŭskultu temon
+ទំព័រគំរូ:Hidden sort key	Ŝablono:Hs
+ទំព័រគំរូ:ISO 639-3 navigation	Ŝablono:ISO 639-3
+ទំព័រគំរូ:Weather box/colt	Ŝablono:Veterkesto/Kolt
+ជំនួយ:ការប្តូរទីតាំងទំព័រ	Helpo:Alidirekto
+ទំព័រគំរូ:Style/IPA	Ŝablono:Style/IPA
+ទំព័រគំរូ:Style/yid	Ŝablono:Style/yid
+ទំព័រគំរូ:Distinguish2	Ŝablono:Ne konfuzu2
+ព្យុះហៃយ៉ាន	Tajfuno Haj-jano
+ពិសេស:បំលាស់ប្ដូរថ្មីៗ	Specialaĵo:Lastaj ŝanĝoj
+Module:HtmlBuilder	Modulo:HtmlBuilder
+Module:Coordinates	Modulo:Coordinates

@@ -1,0 +1,438 @@
+ᐊᑉᕆᖄ	Afriko
+ᓃᑉᐊᓐ	Japanio
+ᐊᒥᐊᓕᑲ ᓂᒋᖅ	Sudameriko
+ᓄᕐᒋ/nurgi	Norvegio
+ᓯᐸᐃᓐ	Hispanio
+ᐊᒥᐊᓕᑲ	Usono
+ᓄᓇ	Tero
+ᐄᒃ	Homo
+ᔫᕐᒋ ᕚᓯᖕᑐᓐ	George Washington
+ᔅᕗᕆᑭ	Svedio
+ᐳᓚᓐᑦ	Pollando
+ᓕᐋᑐᕙ	Litovio
+Italy	Italio
+ᐃᐆᕌᑉ	Eŭropo
+ᐊᓰᐊ	Azio
+ᐊᒥᐊᕆᑲ ᑐᓄᕕᐊᖅ	Nordameriko
+ᐅᐃᑭᐱᑎᐊ	Vikipedio
+ᐅᓱᒃ	Peniso
+ᐱᕐᓖᓐ	Berlino
+ᖃᕋᓴᐅᔭᖅ	Komputilo
+ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ	Interreto
+ᐸᕌᒃ ᐅᐹᒪ	Barack Obama
+ᑭᒻᒥᓇᐅᔭᖅ	Pomo
+ᒎᒐᓪ	Google
+ᒦᒃᓰᖂ	Meksiko
+ᑳᓖᐴᕐᓃᐊ	Kalifornio
+ᒧᓇᑖᒃ	Lundo
+ᔭᓐᓄᐊᓕ	Januaro
+ᕕᐳᐊᕆ	Februaro
+ᓇᑦᓯᐊᓕᐅᑦ	Marto
+ᐊᐃᐳᕆᓪ	Aprilo
+ᒪᐃ	Majo
+ᔪᓂ	Junio
+ᔪᓚᐃ	Julio
+ᐊᐅᒍᔅ	Aŭgusto
+ᓯᑎᒻᐳᕆ	Septembro
+ᐅᒃᑐᐳᕆ	Oktobro
+ᓄᕕᒻᐳᕆ	Novembro
+ᑎᓯᒻᐳᕆ	Decembro
+ᐃᓯᐱᕋᓐᑐ	Esperanto
+ᕿᖕᒥᖅ	Hundo
+China	Ĉina Popola Respubliko
+ᐅᐃᒍᐃᕐᒥᐅᖅ	Franca lingvo
+ᐃᖃᓗᒃ	Fiŝoj
+ᐊᖓᔮᕐᓇᖅᑐᖅ	Alkoholaĵo
+ᐅᓛᓴ	Rusio
+ᐊᕐᕕᒃ	Cetacoj
+ᐅᐃᑭ	Vikio
+ᐋᓛᐹᒫ	Alabamo
+ᑯᐸᐃᒃ	Kebekio
+ᔨᒥ ᐆᐃᓪᔅ	Jimmy Wales
+ᔮᒪᓂ	Germanio
+ᑎᖕᒥᓲᖅ	Aviadilo
+ᐊᑭᕋᖅᑑᑎᔪᑦ	Milito
+ᔅᑏᕕᓐ ᐦᐊᕐᐱᕐ	Stephen Harper
+ᕕᓪᓂᐅᔅ/vilnius	Vilno
+ᐊᑯᑭᑦᑐᑦ	Gronlando
+ᖂᐹ/quupaa	Kubo
+ᐄᓅᓯᐊ	Indonezio
+ᓯᓕ	Ĉilio
+ᐱᐅᓕᑦᓯᔨ	Jesuo Kristo
+ᒥᕐᑰᕆ	Merkuro (planedo)
+ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ	Historio
+ᕖᓄᔅ	Venuso (planedo)
+ᑕᑯᑦᓱᒍᓱᑉᐳᖅ	Amo
+ᐅᕌᓄᔅ	Urano (planedo)
+ᓂᑉᑑᓐ	Neptuno (planedo)
+ᓯᓚᓯᐅᕐᓂᖅ	Astronomio
+ᑉᓘᑐ	Plutono
+ᒧᕆᐊᓪ	Montrealo
+ᑕᖅᑭᖅ	Luno
+ᐊᔅᑦᕌᓕᐊ	Aŭstralio
+ᐆᒫᑦᓱᓕᕆᓂᖅ/umatsuliriniq	Fiziko
+ᐱᕉ	Peruo
+ᐆᒪᔅᓱᓯᖃᕐᑐᓕᕆᓂᖅ	Biologio
+ᐊᖏᐋᕐᓂᖅ	Fekaĵo
+ᐃᑎᖅ	Anuso
+ᐱᕈᖅᑐᓴᔭᖅ/piruqtusajaq	Floro
+ᓄᓇᓖᑦ	Urbo
+ᐅᓪᓗᕆᐊᖅ	Stelo
+ᓯᕿᓂᖅ	Suno
+ᕿᓚᒃ	Ĉielo
+ᐅᓯᐋᓂᐊ	Oceanio
+ᕿᒥᕐᕈᐊᑦ/qimirruat	Libro
+ᖃᐅ	Tago
+ᐅᑭᐅᖅ	Jaro
+ᑕᑯᑦᓱᒍᓱᑉᐳᖅ ᐊᑯᓐᓂᖓᓐᓂ ᒪᒡᒎᒃ ᐊᖑᑦ	Gejo
+ᒨᔅᑯ	Moskvo
+ᐃᓐᑎᐊ	Barato
+ᓂᕐᔪᑦ	Bestoj
+ᐱᕈᖅᑐᖅ	Plantoj
+ᒫᓵᓲᓰᑦᔅ	Masaĉuseco
+ᐊ'ᐊ'ᐋᒃ	Koko
+ᐃᕉᒃ	Irako
+ᐊᓛᓯᑲ	Alasko
+ᑉᓘᕇᑖ	Florido
+ᐋᕇᓲᓈ	Arizono
+ᐆᕇᕇᓐ	Oregono
+ᐸᑭᔅᑕᓐ	Pakistano
+ᓄᑕᒐᒃ	Bebo
+ᔪᓚᐃᐅᔅ	Julio Cezaro
+ᓄᓇᓕᕆᓂᖅ	Geologio
+ᓄᓇᐅᔪᖅ	Geografio
+ᐄᓚᓄᐃᔅ	Ilinojso
+ᑖᑰᑖ ᑐᓄᕕᐊᖅ	Norda Dakoto
+ᑖᑰᑖ ᓂᒋᖅ	Suda Dakoto
+ᐄᑖᓲ	Idaho
+ᓂᕚᑖ	Nevado
+ᑰᓘᕌᑑ	Koloradio
+ᓰᖄᑯ	Ĉikago
+ᓯᐸᐃᓂᑎᑐᑦ	Hispana lingvo
+ᐋᓯᕙᖅ	Araneuloj
+ᒪᒪᖅᑐᖅ, ᓰᕐᓇᖅᑐᖅ ᐱᕈᖅᑐᖅ	Frukto
+ᓂᐅ ᐃᐅᕐᒃ	Nov-Jorkio
+ᐅᓵᐃᐅ	Ohio
+ᐃᐊᐃᑖᓯᓐ/iaitaatsin	Uetersen
+ᐊᐅᒍᔅᒻᐅᔅ	Aŭgusto Cezaro
+ᐃᓐᑎᐋᓈ	Indianio
+ᑖᒃᓵᔅ	Teksaso
+ᑳᕉᓖᓈ ᑐᓄᕕᐊᖅ	Norda Karolino
+ᑳᕉᓖᓈ ᓂᒋᖅ	Suda Karolino
+ᑑᑭᐅ	Tokio
+ᒦᓰᓰᐲ (ᐃᓗᐊᓂ)	Misisipio
+ᒦᓃᓲᑖ	Minesoto
+ᐃᐅᕙ	Iovao
+ᐦᐃᓐᑏ	Hindia lingvo
+ᓗᐄᓰᐋᓈ	Luiziano
+ᐆᑳᓛᓲᒫ	Oklahomo
+ᔅᑑᒃᓱᓪᒻ/stuukhulm	Stokholmo
+ᖃᓪᓗᓈᑎᑐᑦ	Angla lingvo
+ᐋᓐᑎᐅᕆᔪ	Ontario
+ᐊᑐᕚ/atavaa	Otavo
+ᓄᓇᑦᓯᐊᖅ	Nordokcidentaj Teritorioj
+ᓄᓇᕗᑦ	Nunavuto
+2007	2007
+ᐃᖃᓗᐃᑦ	Ikaluito
+1999	1999
+ᓂᕿ	Manĝaĵo
+ᖃᓂᖅ ᖁᐊᔪᖅ	Buŝa seksumado
+ᒪᓪᒧ/malmu	Malmö
+ᐊᔪᒃᑕᖅ	Futbalo
+ᖂᖄ ᑰᓛ	Koka-kolao
+ᒫᑭᓐᓯ ᑰᒃ	Makenzio
+ᓯᕿᓃᖅᓯᖅᑐᖅ	Suna eklipso
+ᐃᓕᓐᓂᐊᕈᑎᒃᓴᓕᐅᕐᕕᒃ	Lernejo
+ᑎᒥ	Homa anatomio
+ᑰᒃ	Rivero
+Kunpusiusi	Konfuceo
+ᑮᓱᐊ	Keĉua lingvaro
+ᐊᒥᖅ	Vikipedio:Ĉefpaĝo
+ᐊᓇᐅᓕᒐᖅ	Basbalo
+ᐃᓄᒃᑕᐅᑦ	Aŭtobuso
+ᐅᓪᓕᐸᑲ	Litkovrilo
+ᓴᓂᓕᐊᖅᑐᖅ	Amoro
+ᐅᑦᓱᒃ	Vagino
+ᐃᓱᒪᓕᐅᕐᓂᖅ	Filozofio
+ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ	Nacio
+ᑲᐅ ᓂᕿ ᑭᒻᒥᐊᒐᖅ ᕿᖂᔭᖅ	Hamburgero
+ᑯᓂᑉᐳᖅ	Kiso
+ᕿᖓᖅ	Nazo (organo)
+ᐃᔨ	Okulo
+ᑭᒃᑐᕆᐊᖅ	Moskito
+ᐱᓱᒃᑎ	Mamuloj
+ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ	Programaro
+ᒥᑎᖅ	Anasedoj
+ᐊᐳᑦ	Neĝo
+ᐃᖏᕐᕋᔾᔪᑎᑦ	Transporto
+ᕝᓛᑎᒥᕐ ᐴᑎᓐ	Vladimir Putin
+ᕿᖂᔭᖅ	Pano
+ᔅᕙᐦᐃᓕᑐᑦ	Svahila lingvo
+ᒥᓂ	Pluvo
+ᓴᔪᑉᐱᓛᕗᖅ	Tertremo
+ᓄᕗᔭᖅ	Nubo
+ᐅᓚᔪᔭᖅ	Tornado (ŝtormo)
+ᐅᖄᓯᓕᕆᓂᖅ	Lingvoscienco
+ᐃᓕᓴᐅᑎᒃ	Latina alfabeto
+ᑎᕆᒐᓂᐊᖅ	Vulpo
+ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ	Eduko
+ᐊᖑᑎ	Viro
+ᐃᓄᐃᑎᑦᑐᖅ	Aborto
+ᐃᒻᒧᒃ	Lakto
+ᔅᕗᓐᔅᑭᑐᑦ	Sveda lingvo
+ᐃᕕᐊᖏᖅ	Mamo
+ᑯᕆᐊᑎᑐᑦ	Korea lingvo
+ᐃᒡᔪᒃ	Testiko
+ᐅᑲᓕᐊᑦᓯᐊᖅ	Kuniklo
+ᐃᒫᓗᒃ	Oceano
+ᖃᐸᒃ	Ejakulaĵo
+Ronald Reagan	Ronald Reagan
+ᓱᑲᒃ	Sukero
+ᓴᓇᕐᕈᑏᑦ ᐊᑑᑎᖏᑕᓗ ᖃᐅᔨᒪᔭᐅᓂᖓ	Teknologio
+ᑎᑎᕋᐅᔭᖅ	Inĝenierarto
+ᐋᔩᖃᑎᒋᖏᖅ	Komunikado
+ᑖᒃᑎ	Medicino
+ᕿᓚᐅᑦ	Tamburo
+ᐄᒐᑕᐃᕕᑦᓴᐃᑦ	Ludo
+ᐱᕈᕐᓰᓂᖅ ᓂᐅᕐᕈᑎᒃᓴᓕᐊᕆᓪᓗᒋᑦ	Agrikulturo
+ᐊᐅᑦᓯᓇᖅᑐᖅ	Vesto
+ᒧᒥᖅᑐᖅ	Danco
+ᓯᕗᓕᐅᖅᐹ ᐊᓪᓚᒍᑎ ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ/sivuliuqpaa allaguti qaujisarniq titiqqatigut qanuiliuqtauqattarnikunik	Prahistorio
+ᐊᑎᖅᐳᖅ	Urso
+ᑭᒍᑎᓕᕆᔨ	Dentokuracado
+ᑐᓵᓐᖏᓐᓂᖅ	Surdeco
+ᐊᓐᓂᐊᒥ ᖃᐅᔨᓴᕐᓂᖅ	Kuracilo
+ᐃᒡᓗᕐᔪᐊᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ	Arkitekturo
+ᑭᒍᑎᙳᐊᑦ ᓂᐱᑎᓯᒪᔪᑦ	Ponto
+ᑭᓯᑦᓯᓯᖕᖑᕐᓗᒋᑦ ᐹᓯᔅᓱᑎᔅᓴᑦ	Statistiko
+ᓴᕕᒐᐅᔭᖅ/ikumautit	Elektro
+ᐊᕋᕕ	Araba lingvo
+ᓴᐃᒻᒪᑎ	Flago
+ᐊᓪᓛᑦ	Krajono
+ᐊᓴᐱ	HIV
+ᐅᐃᑭᐱᑎᐊ:ᐱᐅᔪᖅ ᒪᑉᐱᑕᖅ	Vikipedio:Elstaraj artikoloj
+Template:Link FA	Ŝablono:LigoElstara
+ᐅᐃᑭᐱᑎᐊ:ᐹᕐᓂᖅ	Vikipedio:Diskutejo
+ᐋᓐᓂᐊᕐᕕᒃ	Malsanulejo
+ᓯᑮᑐ	Motorsledo
+ᐃᒥᐊᓗᒃᑕᐃᓕᒪᓂᕐᒧᑦ ᐃᑲᔪᖃᑎᒌᒡᕕᒃ	Alkoholuloj Anonimaj
+ᐊᒪᕈᒃ	Lupo
+ᐊᕿᒃᑭᖅ	Blankvosta lagopo
+ᒥᓗᑦᓱᑳᒐᖅ	Tomato
+ᑎᒦᑦᕆ ᒥᑦᕖᑎᕝ	Dmitrij Medvedev
+ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ	Vortaro
+ᓖᓚ ᑕᓅᔅ	Lila Downs
+ᐆᑉᓴᓚ/uupsala	Upsalo
+ᐃᐅᑕᐳᕆ	Göteborg
+ᑲᕐᓪᔅᑕᑦ	Karlstad
+ᑲᓇᑕᒥ ᐃᓄᐃᑦ ᐅᖃᐅᓯᖏᑦ	Eskim-aleuta lingvaro
+ᑭᕝᒐᓗᒃ	Ondatro
+ᓄᔭᐃᑦ	Haro
+ᐸᒥᐅᖅᑑᖅ	Lutra lutra
+ᒥᖏᑎᑕᐅᑎᔪᖅ	Boksado
+ᓇᓄᖅ	Blanka urso
+ᑲᓪᓕᑕᖅ	Fulmo
+ᐊᒡᒐᒃ	Mano
+ᐊᑭᕈᐊᕈᖅ	Folio
+ᕙᓪᐸᕃᓱ	Valparaiso
+ᖁᖅᓗᕐᓂᖅ	Akvofalo
+ᓯᐊᙳᓰᖂ	Oaxaca
+ᐱᓚᒥᔅ	Flandra lingvo
+ᓯᐅᕋᖅ	Sablo
+ᑕᕋᖅᑑᑦ	Ikso-radioj
+ᐃᓗ	Kaverno
+ᑐᒃᑐᕙᒃ	Alko
+ᓇᑕᖅᑯᕐᓇᐃᑦ/nataqqurnait	Hajlo
+ᐊᕕᙵᖅ	Muso (besto)
+ᐊᑯᖅ	Golfo
+ᑐᒃᑐ	Boaco
+ᐃᒥᐊᓗᒃ	Trinkaĵo
+ᔨᓐᓂᐱᕐ ᓗᐱᔅ	Jennifer Lopez
+ᐊᐃᕕᖅ	Rosmaro
+ᑐᖁᖓᔪᒥᒃ ᖃᐅᔨᓴᕐᓂᖅ	Sekco (anatomio)
+ᖃᐅᔨᓴᕐᓂᖅ	Scienca esplorado
+ᓇᐹᖅᑐᖃᕈᓐᓇᙱᑦᑐᖅ	Tundro
+ᑭᒡᒐᕕᒃ	Falko
+ᖃᓪᓗ	Brovo
+ᑕᑦᕿᖅᓯᖅᑐᖅ	Luna eklipso
+ᐃᓂᖅᑐᐃᒍᑎ	Timo
+ᖁᐱᓪᕈᖅ	Vermo
+ᒥᖅᓱᑎ	Kudromaŝino
+ᓈᕌᔩᖅ	Anuro
+ᑎᑎᖅᑲᓕᐅᕈᑦ ᖃᕆᑕᐅᔭᙳᐊᒃᑯᑦ	Tekstoprilaborilo
+ᐳᑕᖅ	Telero
+ᓯᖓᐃᑦᔪᑎ	Spermatozoo
+ᐃᑭᐊᖅᖠᖅ/ikiaqłiq	Ĉemizo
+ᐆ ᑲᓇᑕ	O Canada
+ᐃᒡᓗ	Iglo
+ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ	Indiĝenaj popoloj
+ᒪᒃᐱᖅᑕᐅᑦ	Fusilo
+ᐃᕙᓗᕕᒃ ᐊᖑᑦ	Korpokulturado
+ᐃᕐᒥᒡᕕᒃ	Lavmaŝino
+ᓂᐱᐅᑦ	Gluo
+ᐃᒥᒐᖅ	Senalkoholaĵo
+ᐆᒥᓱᑦᑐᖅ	Malamo
+ᓂᐱ	Arkivo
+ᐅᒃᐱᒃ	Neĝostrigo
+ᓯᓚᐅᕐᖏᖓ	Eskatologio
+ᐃᓄᒃ	Homo (genro)
+ᑕᓕᐊᖅ	Brakhorloĝo
+ᓂᕿᓂᐅᕕᕐᕕᒃ	Superbazaro
+ᐊᒥᐃᐅᓕᐅᕈ	Fotokopiado
+ᐃᓄᐃᑦ (ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ)	Inuitoj
+ᐅᓪᓛᖅ/ullaaq	Sunleviĝo
+ᖁᐸᓄᐊᕐᔪᐊᖅ	Blua garolo
+ᐊᑭᖃᙱᑦᑐᒃᑯᑦ ᑕᐅᖅᓰᖃᑦᑕᕐᓂᖅ	Libera komerco
+ᐋᒪᐃᔪᖅ	Ebrio
+ᐊᖓᔮᕐᓇᖅᑐᖅ ᓯᓕᙴᑎᕚ ᐅᓪᓛᒃ	Postebrio
+ᕕᓯᐸ ᐱᐊᓯᐅ	Vespo (motorciklo)
+ᕕᐅ	Anggun
+ᐅᑲᓕᒃ	Arkta leporo
+ᕿᖅᑯᐊᖅ	Makroalgoj
+ᓄᕐᒃᑲᕆᑦ ᐃᓕᑕᖅᓯᒍᑎ	Haltŝildo
+ᓇᓂᑦᓯᑰᔭᐃᑦ	Maizflokoj
+ᑐᐱᙳᐊᖅ	Tireoido
+ᑕᑯᒥᓇᖅᓕᐅᖅᑎᑦ	Artisto
+ᐊᕐᕕᑲ	Arvika
+ᒃᓚᐊᐱᑕ/klaipita	Klaipėda
+ᓴᓐᓇ	Sedno (diino)
+ᐊᕿᐊᕈᖅ	Stomako
+ᐃᓄᒃᓱᒃ	Inuksuko
+ᐃᓄᒐᙳᐊᖅ	Falango (osto)
+ᐅᖓᕙ ᑲᖏᖅᓗᒃ	Ungava Golfo
+ᒦᓰᓰᐲ	Misisipo
+ᐃᓛᖁᑦᓯᖅ	Histriko
+ᓐᓂᓗᐱᔅ'ᐊᕐ	Agnes Monica
+Category:ᑲᓇᑕ	Kategorio:Kanado
+Category:ᐱᕈᖅᑐᖅ/piruqtuq	Kategorio:Plantoj
+Category:ᖃᐅᔨᓴᕐᓃᑦ	Kategorio:Scienco
+ᑰᔾᔪᐊᖅ	Kuujjuaq
+ᒥᕐᖑᐃᖅᓯᕐᕕᒃᓴᖅ	Naciaj Parkoj de Kanado
+ᐃᑖᖏᔭᖅᑐᖅ	Polucio
+ᓂᕿᑦᓯᐊᕙᓕᕆᓂᖅ	Manĝado
+Category:ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ	Kategorio:Ĝermo
+Category:ᐊᖏᔪᖅ ᒥᕗᒃ	Kategorio:Kontinentoj
+Category:Wikipedia bots	Kategorio:Vikipedio:Robotoj
+Category:ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ	Kategorio:Landoj
+ᐅᐃᑭᐱᑎᐊoikipitia:ᑐᑭᓕᐅᖅᐹinuluriji	Vikipedio:Administrantoj
+ᐅᐃᑭᐱᑎᐊ:Bots	Vikipedio:Roboto
+Category:ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ	Kategorio:Interreto
+Category:ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ/ilinniaqtuliriniq	Kategorio:Edukado
+ᑯᓇᔅ/kunas	Kaŭno
+ᐅᐃᑭᐱᑎᐊ:Sock puppetry	Vikipedio:Gantopupo
+Template:Bot	Ŝablono:Bot
+ᑲᓇᑕ	Kanado
+Category:ᔅᕗᕆᑭ	Kategorio:Svedio
+Template:Documentation	Ŝablono:Dok
+Category:Babel	Kategorio:Vikipediistoj laŭ lingvo
+ᐅᐃᑭᐱᑎᐊ:ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ	Vikipedio:Ĝermo
+Template:Softredirect	Ŝablono:Intervikia plusendilo
+Template:ᓂᐸᖅᑎᐹ	Ŝablono:Forigu tuj
+Category:ᐅᖃᕐᕕᐅᑎᔪᑦ	Kategorio:Lingvoj
+Category:ᐅᐃᑭᐱᑎᐊ	Kategorio:Vikipedio
+Template:!	Ŝablono:!
+Category:ᑕᒃᕿᒃ	Kategorio:Monatoj
+Template:Babel	Ŝablono:Babelejo
+Template:Commons	Ŝablono:Commons
+Template:Reflist	Ŝablono:Referencoj
+Template:Stub	Ŝablono:Ĝermo
+Template:Mod	Ŝablono:Mod
+Template:Ai	Ŝablono:Bonvenon
+Category:User fr-1	Kategorio:Vikipediisto fr-1
+Template:Babel kadro	Ŝablono:Babel kadro
+Template:Lang-ar	Ŝablono:Lang-ar
+Category:User en-4	Kategorio:Vikipediisto en-4
+Category:User en	Kategorio:Vikipediisto en
+Category:User en-2	Kategorio:Vikipediisto en-2
+Template:IPA	Ŝablono:IFA
+Template:LangWithName	Ŝablono:LingvoKunNomo
+Template:Babel kadro D	Ŝablono:Babel kadro D
+Category:ᖃᕋᓴᐅᔭᖅ	Kategorio:Komputilo
+Category:User ja-N	Kategorio:Vikipediisto ja-D
+Template:Lang-en	Ŝablono:Lang-en
+Category:User gsw-1	Kategorio:Vikipediisto gsw-1
+Template:Lang-fr	Ŝablono:Lang-fr
+Template:InterWiki	Ŝablono:Vikipedio
+Category:User simple	Kategorio:Vikipediisto simple
+Category:User az	Kategorio:Vikipediisto az
+Category:User be	Kategorio:Vikipediisto be
+Category:User hr	Kategorio:Vikipediisto hr
+Category:User eo	Kategorio:Vikipediisto eo
+Category:User et	Kategorio:Vikipediisto et
+Category:User fr	Kategorio:Vikipediisto fr
+Category:User gl	Kategorio:Vikipediisto gl
+Category:User ia	Kategorio:Vikipediisto ia
+Category:User ja	Kategorio:Vikipediisto ja
+Category:User sv	Kategorio:Vikipediisto sv
+Category:User fr-3	Kategorio:Vikipediisto fr-3
+Category:User cs-1	Kategorio:Vikipediisto cs-1
+Category:User da-1	Kategorio:Vikipediisto da-1
+Category:User et-1	Kategorio:Vikipediisto et-1
+Category:User gl-1	Kategorio:Vikipediisto gl-1
+Category:User ar-1	Kategorio:Vikipediisto ar-1
+Category:User be-2	Kategorio:Vikipediisto be-2
+Category:User da-2	Kategorio:Vikipediisto da-2
+Category:User fr-2	Kategorio:Vikipediisto fr-2
+Category:User ia-2	Kategorio:Vikipediisto ia-2
+Category:User cs-N	Kategorio:Vikipediisto cs-D
+Category:User fr-N	Kategorio:Vikipediisto fr-D
+Category:User it-N	Kategorio:Vikipediisto it-D
+Category:User af	Kategorio:Vikipediisto af
+Category:User af-1	Kategorio:Vikipediisto af-1
+Category:User ar	Kategorio:Vikipediisto ar
+Category:User ast	Kategorio:Vikipediisto ast
+Category:User ast-1	Kategorio:Vikipediisto ast-1
+Category:User bar	Kategorio:Vikipediisto bar
+Category:User bg	Kategorio:Vikipediisto bg
+Category:User bg-1	Kategorio:Vikipediisto bg-1
+Category:User ca	Kategorio:Vikipediisto ca
+Category:User ca-1	Kategorio:Vikipediisto ca-1
+Category:User cs	Kategorio:Vikipediisto cs
+Category:User da	Kategorio:Vikipediisto da
+Category:User de	Kategorio:Vikipediisto de
+Category:User de-2	Kategorio:Vikipediisto de-2
+Category:User de-3	Kategorio:Vikipediisto de-3
+Category:User de-N	Kategorio:Vikipediisto de-D
+Category:User en-3	Kategorio:Vikipediisto en-3
+Category:User en-N	Kategorio:Vikipediisto en-D
+Category:User eo-1	Kategorio:Vikipediisto eo-1
+Category:User eo-2	Kategorio:Vikipediisto eo-2
+Category:User eo-3	Kategorio:Vikipediisto eo-3
+Category:User es	Kategorio:Vikipediisto es
+Category:User es-1	Kategorio:Vikipediisto es-1
+Category:User es-2	Kategorio:Vikipediisto es-2
+Category:User es-4	Kategorio:Vikipediisto es-4
+Category:User es-N	Kategorio:Vikipediisto es-D
+Category:User eu	Kategorio:Vikipediisto eu
+Category:User fa	Kategorio:Vikipediisto fa
+Category:User fa-1	Kategorio:Vikipediisto fa-1
+Category:User fa-N	Kategorio:Vikipediisto fa-D
+Category:User fi	Kategorio:Vikipediisto fi
+Category:User fi-N	Kategorio:Vikipediisto fi-D
+Category:User grc	Kategorio:Vikipediisto grc
+Category:User grc-1	Kategorio:Vikipediisto grc-1
+Category:User gsw	Kategorio:Vikipediisto gsw
+Category:User hr-1	Kategorio:Vikipediisto hr-1
+Template:Babel kadro 2	Ŝablono:Babel kadro 2
+Category:ᐊᓯᐊᙳᑐᖅ ᐃᓄᐃᑦ (ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ)/inuit (nunaqaqqaaqsimajut)	Kategorio:Inuitoj
+Category:User pt-4	Kategorio:Vikipediisto pt-4
+Category:User sv-1	Kategorio:Vikipediisto sv-1
+Category:User sv-N	Kategorio:Vikipediisto sv-D
+Category:User tr	Kategorio:Vikipediisto tr
+Category:User tr-N	Kategorio:Vikipediisto tr-D
+Category:User wa	Kategorio:Vikipediisto wa
+Category:User wa-N	Kategorio:Vikipediisto wa-D
+Template:Lang	Ŝablono:Lang
+Category:User no-1	Kategorio:Vikipediisto no-1
+Category:User no	Kategorio:Vikipediisto no
+Category:ᓄᓇᕗᑦ/nunavut	Kategorio:Nunavuto
+Category:ᓯᓚᕐᔪᐊᒥᐅᑦ	Kategorio:Bestoj
+Category:ᐃᖏᕐᕋᔾᔪᑎᑦ/ingirrajjutit	Kategorio:Transporto
+Category:User es-0	Kategorio:Vikipediisto es-0
+Category:User en-1	Kategorio:Vikipediisto en-1
+Category:User de-1	Kategorio:Vikipediisto de-1
+Category:User da-N	Kategorio:Vikipediisto da-D
+Template:LingvaKodo	Ŝablono:LingvaKodo
+ᑕᕐᕋᓕᑭᑖᖅ	Rhopalocera
+ᐅᐃᑭᐱᑎᐊ:Deletion log	Vikipedio:Loglibro de forigoj
+Special:RecentChanges	Specialaĵo:Lastaj ŝanĝoj

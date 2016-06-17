@@ -1,0 +1,1415 @@
+Afrig	Afriko
+Sapoŋ	Japanio
+Bëj-saalumu Aamerig	Sudameriko
+Noorwees	Norvegio
+Irlaand	Irlando
+Ongiri	Hungario
+Ispaañ	Hispanio
+Diiwaan yu Bennoo	Usono
+Belsik	Belgio
+Luksambuur	Luksemburgo (lando)
+Suuf	Tero
+Finlaand	Finnlando
+Suweed	Svedio
+Danmaark	Danio
+Poloñ	Pollando
+Lituwaani	Litovio
+Itaali	Italio
+Suwis	Svislando
+Otris	Aŭstrio
+Girees	Grekio
+Tirki	Turkio
+Portugaal	Portugalio
+Tugal	Eŭropo
+Asi	Azio
+Bëj-gànnaaru Aamerig	Nordameriko
+Goxub Dottub Bëj-saalum	Antarkto
+Wikipedia	Vikipedio
+Olaand	Nederlando
+PHP	PHP
+Berlin	Berlino
+Nosukaay	Komputilo
+Bern	Berno
+Zurich	Zuriko
+Internet	Interreto
+Uruguwaay	Urugvajo
+Londar	Londono
+Xayra	Kairo
+Alegsàndiri	Aleksandrio
+Pari	Parizo
+Meksik	Meksiko
+Mbàmbulaanug Atlas	Atlantika Oceano
+Mbàmbulaan Gu-Dal	Pacifika Oceano
+Altine	Lundo
+Samwie	Januaro
+Fewirie	Februaro
+Maars (weer)	Marto
+Maas	Marso
+Keeñaa	Kenjo
+Ecoopi	Etiopio
+Gana	Ganao
+Awril	Aprilo
+Mee	Majo
+Suwe	Junio
+Sulet	Julio
+Waxset	Aŭgusto
+Satumbar	Septembro
+Oktoobar	Oktobro
+Nowembar	Novembro
+Disambar	Decembro
+Talaata	Mardo
+Àllarba	Merkredo
+Alxames	Ĵaŭdo
+Àjjuma	Vendredo
+Gaawu	Sabato
+Dibéer	Dimanĉo
+Gaynde	Leono
+Faraas	Francio
+Esperanto	Esperanto
+Xaj	Hundo
+Nguur-Yu-Bennoo	Unuiĝinta Reĝlando
+Muus	Hejma kato
+Réewum Popileer bu Siin	Ĉina Popola Respubliko
+Wu-faraas	Franca lingvo
+Wikbaatukaay	Vikivortaro
+Breesil	Brazilo
+Riisi	Rusio
+Géej	Maro
+São Paulo	San-Paŭlo (urbo)
+Almaañ	Germanio
+Belaarus	Belorusio
+Islaand	Islando
+Yàlla	Dio
+Estooni	Estonio
+Benn	1 (nombro)
+Ñaar	2 (nombro)
+Ñatt	3 (nombro)
+Ñent	4 (nombro)
+Juroom	5 (nombro)
+Tus	Nulo
+Letóoni	Latvio
+Ukreen	Ukrainio
+Réewum Cek	Ĉeĥio
+Eslowaaki	Slovakio
+Esloweeni	Slovenio
+Wilniyus	Vilno
+Moldaawi	Moldava Respubliko
+Romaani	Rumanio
+Bulgaari	Bulgario
+Rom	Romo
+Réewum Maseduwaan	Respubliko Makedonio
+Albaani	Albanio
+Groenlaand	Gronlando
+Korwaasi	Kroatio
+Bosni	Bosnio kaj Hercegovino
+Aserbayjaan	Azerbajĝano
+Andoor	Andoro
+Ciipër	Kipro
+Jeoorji	Kartvelio
+Kasakistaan	Kazaĥio
+Malt	Malto
+Monaako	Monako
+Montenegro	Montenegro
+Watikaa	Vatikano
+San Marino	San-Marino
+Burusel	Bruselo
+Kubaa	Kubo
+Beliis	Belizo
+Barbados	Barbado
+Endoneesi	Indonezio
+Afrig gu Bëj-saalum	Sud-Afriko
+Alseeri	Alĝerio
+Usbekistaan	Uzbekujo
+Warsaw	Varsovio
+Ndox	Akvo
+Sili	Ĉilio
+Yéesu-kristaa	Jesuo Kristo
+Merkuur	Merkuro (planedo)
+Taariix	Historio
+Weenus	Venuso (planedo)
+Kàllaama	Lingvo
+Yupiter	Jupitero (planedo)
+Uraanus	Urano (planedo)
+Neptuun	Neptuno (planedo)
+Saytubiddiw	Astronomio
+Singapoor	Singapuro
+Xam-xam	Scienco
+Pluton	Plutono
+Liechtenstein	Liĥtenŝtejno
+Xareb Àdduna bu Njëkk	Unua mondmilito
+Ñaareelu Xareb Àdduna	Dua mondmilito
+Skopje	Skopjo
+Linux	Linukso
+Xayma	Matematiko
+Bahrayni	Barejno
+Armeeni	Armenio
+Seerbi	Serbio
+Óstraali	Aŭstralio
+Jëmm	Fiziko
+Arsantin	Argentino
+Peru	Peruo
+Kore gu Bëj-gànnaar	Nord-Koreio
+Kamboodi	Kamboĝo
+Alxuraan	Korano
+Lislaam	Islamo
+Jubaljana	Ljubljano
+Jimbulang bu waa-Brëtaañ	Encyclopaedia Britannica
+World Wide Web	TTT
+Jigéen	Virino
+Sofiya	Sofio
+Jant	Suno
+Asamaan	Ĉielo
+Oseyaani	Oceanio
+Nosteg jant	Sunsistemo
+Bés	Tago
+Timoor gu Penku	Orienta Timoro
+Guddi	Nokto
+At	Jaro
+Oslo	Oslo
+Lisbon	Lisbono
+Way	Muziko
+Mosku	Moskvo
+Cadd	Ĉado
+Seland-Gu-Bees	Nov-Zelando
+End	Barato
+Tuvalu	Tuvalo
+Tonga	Tongo
+Samowaa	Samoo
+Duni Solomon	Salomonoj
+Wanuatu	Vanuatuo
+Papuwaasi-Gine-Gu-Bees	Papuo-Nov-Gvineo
+Palau	Palaŭo
+Nauru	Nauro
+Réew yu Bennoo yu Mikronesi	Federacio de Mikronezio
+Duni Marshall	Marŝala Insularo
+Kiribati	Kiribato
+Mongoli	Mongolio
+Fiiji	Fiĝioj
+Benesuwela	Venezuelo
+Amsterdam	Amsterdamo
+Rab	Bestoj
+Surinaam	Surinamo
+Paraguwaay	Paragvajo
+Guyaana	Gujano
+Fànn	Arto
+Ekwadoor	Ekvadoro
+Koloombi	Kolombio
+Boliibi	Bolivio
+Tirinidaad ak Tobaago	Trinidado kaj Tobago
+Gàncax	Plantoj
+Saint Vincent and the Grenadines	Sankta Vincento kaj Grenadinoj
+Saint Lucia	Sankta Lucio
+Saint Kitts and Nevis	Sankta-Kito kaj Neviso
+Jamayka	Jamajko
+Grenada	Grenado (lando)
+Guwaatemala	Gvatemalo
+Bahamas	Bahamoj
+Ganaar	Koko
+Antigua ak Barbuda	Antigvo-Barbudo
+Onduras	Honduro
+Dominika	Dominiko
+Réewum Dominik	Domingo
+Mbaam	Porko
+Mbàmbulaan gu Bëj-gànnaar	Arkta Oceano
+Ayiti	Haitio
+Salbadoor	Salvadoro
+Iraan	Irano
+Iraak	Irako
+Kosta Riika	Kostariko
+Israayil	Israelo
+Panamaa	Panamo
+Yaman	Jemeno
+Jordaani	Jordanio
+Nikaraaguwa	Nikaragvo
+Kirgistaan	Kirgizio
+Kowet	Kuvajto
+Réewum Lawos	Laoso
+Libaa	Libano
+Maldiif	Maldivoj
+Aamerig	Ameriko
+Maleesi	Malajzio
+Miyanmaar	Birmo
+Nepaal	Nepalo
+Omaan	Omano
+Pakistaan	Pakistano
+Kataar	Kataro
+Araabi Sawdit	Sauda Arabio
+Siri Laanka	Sri-Lanko
+Siri	Sirio
+Tajikistaan	Taĝikio
+Taaywaan	Respubliko Ĉinio
+Taaylaand	Tajlando
+Ceññeer-mbej	Radiofonio
+Turkumenistaan	Turkmenio
+Imaaraat yu Araab yu Bennoo yi	Unuiĝintaj Arabaj Emirlandoj
+Wiyetnaam	Vjetnamio
+Kore gu Bëj-saalum	Sud-Koreio
+Afganistaan	Afganio
+Banglaades	Bangladeŝo
+Mali	Malio
+Angolaa	Angolo
+Butaan	Butano
+Tansani	Tanzanio
+Filipiin	Filipinoj
+Réewum Diggu Afrig	Centr-Afrika Respubliko
+Dottub Bëj-saalum	Suda poluso
+Dottub Bëj-gànnaar	Norda poluso
+Albert Einstein	Albert Einstein
+Mboq	Flava
+Togóo	Togolando
+Tiniisi	Tunizio
+Saambi	Zambio
+Simbaawee	Zimbabvo
+Bene	Benino
+Botswana	Bocvano
+Burkinaa Faaso	Burkino
+Buruundi	Burundo
+Komoor	Komoroj
+Kongóo-Brasaawiil	Respubliko Kongo
+Kongóo-Kinshasa	Demokratia Respubliko Kongo
+Jibuti	Ĝibutio
+Gineg yamoo	Ekvatora Gvineo
+Eritere	Eritreo
+Tibilisi	Tbiliso
+Gaboŋ	Gabono
+Gàmbi	Gambio
+Gine	Gvineo
+Gine Bisaawóo	Gvineo Bisaŭa
+Kodiwaar	Ebur-Bordo
+Kamerun	Kameruno
+Kap Weert	Kaboverdo
+Lesoto	Lesoto
+Libeeria	Liberio
+Libi	Libio
+Madagaskaar	Madagaskaro
+Malawi	Malavio
+Gànnaar	Maŭritanio
+Móoris	Maŭricio
+Marok	Maroko
+Mosambik	Mozambiko
+Namibi	Namibio
+Niseer	Niĝero
+Charles Darwin	Charles Darwin
+Ugandaa	Ugando
+Ruwandaa	Ruando
+Saw Tome ak Preesip	Sao-Tomeo kaj Principeo
+Senegaal	Senegalo
+Seysel	Sejŝeloj
+Siraa Leyoon	Siera-Leono
+Somali	Somalio
+Julius Caesar	Julio Cezaro
+Sudaan	Sudano
+Suwaasilaand	Svazilando
+Kureelu Mbootayu Xeet yi	Unuiĝintaj Nacioj
+Melosuuf	Geografio
+Melo	Koloro
+Prag	Prago
+Baxa	Blua
+Yanu mbëj	Elektra ŝargo
+Poortorikoo	Porto-Riko
+Mbàmbulaanug End	Hinda Oceano
+Wàll:Xët wu njëkk	Kategorio:Ĉio
+Golo	Simio
+Koppar	Mono
+Gunóor	Insekto
+Niccolò Machiavelli	Makiavelo
+Uetersen	Uetersen
+Jibraltaar	Ĝibraltaro
+Sagreb	Zagrebo
+Astana	Astano
+Aten	Ateno
+Bagdad	Bagdado
+Caracas	Karakaso
+Wiyen	Vieno
+Kopenagen	Kopenhago
+Stokolm	Stokholmo
+Elsinki	Helsinko
+Dublin	Dublino
+Reykjawik	Rejkjaviko
+Talin	Talino
+Riga	Rigo
+Baratislawa	Bratislavo
+Budapest	Budapeŝto
+Luksambuur (péy)	Luksemburgo
+Wadus	Vaduzo
+Biibël	Biblio
+San Marino (péy)	San-Marino (urbo)
+Ho Chi Minh City	Ho-Ĉi-Min-urbo
+Jàngu Yéesu bu Dëggu bi	Vera Eklezio de Jesuo
+Wu-angalteer	Angla lingvo
+Andorra la Vella	Andoro Malnova
+Đồng Hới	Dong Hoi
+Concepción (Ciili)	Koncepciono
+Kiyew	Kievo
+Końskowola	Końskowola
+Xartum	Ĥartumo
+Sharles Degóol	Charles de Gaulle
+Mbëjfepp	Elektrono
+Minsk	Minsko
+Feppsaal	Protono
+Kurów	Kurów
+Feppmaandu	Neŭtrono
+Mogadisu	Mogadiŝo
+Football	Futbalo
+Madrid	Madrido
+Wert	Verdo
+Xonq	Ruĝa
+Safara	Fajro
+Lourdes	Lourdes
+Niiruw jant	Suna nebulozo
+Rabat	Rabato
+Alse	Alĝero
+Dexub Senegaal	Senegalo (rivero)
+Tunis	Tunizo
+Tripoli (Libi)	Tripolo
+Jibuti (dëkk)	Ĝibuto
+Addis-Abeba	Adis-Abebo
+Ankara	Ankaro
+Asmara	Asmaro
+Njamena	Nĵameno
+Nouakchott	Nuakŝoto
+Belgrad	Beogrado
+Ndakaaru	Dakaro
+Banjul	Banĵulo
+Wàll:Royuwaay	Kategorio:Vikipedio:Ŝablonoj
+Praia	Prajo
+Guyaana gu Faraas	Franca Gviano
+Amman	Amano
+Yaunde	Jaundeo
+Malabo	Malabo
+Libarwil	Librevilo
+Bangi	Bango
+Kinshasa	Kinŝaso
+Brasawil	Brazavilo
+Bujumbura	Buĵumburo
+Kigali	Kigalo
+Dodoma	Dodomao
+Nairobi	Najrobo
+Lilongwe	Lilongvo
+Lusaka	Lusako
+Maputo	Maputo
+Kampala	Kampalo
+Luanda	Luando
+Moroni	Moronio
+Antananariwo	Antananarivo
+Arare	Harareo
+Wiktoria (Seysel)	Viktorio (Sejŝeloj)
+Kër	Domo
+Lonkoyoon	Mapo
+Dex	Rivero
+Osasco	Osasco (San-Paŭlo)
+Curitiba	Kuritibo
+Sowwu Afrig	Okcidentafriko
+Confucius	Konfuceo
+Corbin Bleu	Corbin Bleu
+Wàll:Xayma	Kategorio:Matematiko
+Duni Faarow	Ferooj
+Géej gu Diggu	Mediteraneo
+Gox	Kontinento
+Monzón	Monzono
+Weer	Monato
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+Almazán	Almazán
+Jimbulang	Enciklopedio
+Xët wu njëkk	Vikipedio:Ĉefpaĝo
+Dëgërlukaay	Rezistilo
+Fattalukaay(mbëj)	Kondensilo
+Xiirtalukaay	Induktilo
+Tugalasi	Eŭrazio
+Babilon	Babilono
+Dunu Aland	Alando
+Betleyem	Bet-Leĥem
+Duni Kanaari	Kanarioj
+Xeltu	Filozofio
+Rap	Repo
+Hebe Camargo	Hebe Camargo
+Sahara gu Sowwu	Okcidenta Saharo
+Atali	Antalya
+Wàll:Saytubiddiw	Kategorio:Astronomio
+Saara	Saharo
+Niels Bohr	Niels Bohr
+Politig	Politiko
+Qin Shi Huang	Qin Shihuangdi
+Penku gu Diggu	Mezoriento
+Réew	Ŝtato
+Mbàmbulaan gu Bëj-saalum	Suda Oceano
+Bët	Okulo
+Ñay	Elefanto
+Melentaan	Formiko
+Simili	Minuto
+Mburu	Pano
+Kiswahili	Svahila lingvo
+Dereet	Sango
+Toulouse	Tuluzo
+Xam-xamu suuf si ak jawwu ji	Terscienco
+Doj	Rokaĵo
+Jawwu ji	Atmosfero (astro)
+Koom-koom	Ekonomiko
+Yewwute gu ndefar	Industrio
+Wàll:Bulgaari	Kategorio:Bulgario
+Njàngat	Literaturo
+Wàll:Faraas	Kategorio:Francio
+Wàll:Woy	Kategorio:Muziko
+Wàll:Njàngat	Kategorio:Literaturo
+.ac	.ac
+Xay	Civilizo
+Gόor	Viro
+Tangor	Monto
+Yay	Dezerto
+Ooŋ Koŋ	Honkongo
+HTML	HTML
+Xarefulwoon	Atomo
+Nosteg doxiin	Operaciumo
+Baku	Bakuo
+Mbàmbulaan	Oceano
+Budda	Sidarto Gotamo
+Premier League	F.A. Supra Ligo
+Mohammed	Mohamedo
+Dunu Falkland	Insuloj Falklandoj
+Ronald Reagan	Ronald Reagan
+Gordon Brown	Gordon Brown
+Wàll:Benesuwela	Kategorio:Venezuelo
+Pitax	Kolombedoj
+Garab	Arbo
+Wuutuloxo	Maŝino
+Xibaar	Informo
+Paj	Medicino
+Saarayego	Sarajevo
+Wàll:Breesil	Kategorio:Brazilo
+Wàll:Romaani	Kategorio:Rumanio
+Xeet	Kemia elemento
+Kàttan	Energio
+Hip-hop	Hiphopo
+Mbëjbijjaakon	Elektromagnetismo
+Toolu bijjaakon	Magneta kampo
+Dooley ñoddi	Gravito
+Bijjaan	Magneto
+Yolaakon	Likvo
+Féex	Vakuo
+Yaatuwaay	Areo
+Saa	Sekundo
+Cuub	Pentrado
+Nataal	Fotarto
+Yatt	Skulptarto
+Mbëjfeppal	Elektroniko
+Dawaanu mbëj	Elektra kurento
+Baraay	Frekvenco
+Soppalikaay	Transformatoro
+Xaralay xibaar ak jokkoo	Informa teknologio
+Duni Virgin (us)	Usonaj Virgulininsuloj
+Bëj-saalum-penku Asi	Sud-Orienta Azio
+Limu réewi àdduna bi	Listo de sendependaj ŝtatoj
+Njëkk-taariix	Prahistorio
+Réewum ñaari dex yi	Mezopotamio
+Las Palmasu Kanaari gu Mag	Las Palmas de Gran Canaria
+Arminaat	Kalendaro
+Xarey jóoñe	Krucmilitoj
+Mbëj	Elektro
+Montserrat	Moncerato
+Ndajem Berlin	Berlina Konferenco
+Adiratig	Adriatiko
+Ngiste	Optiko
+Makaaw	Makao
+Soviet Yi Benno	Sovetunio
+Queen	Queen
+Royuwaay:Lien AdQ	Ŝablono:LigoElstara
+Àdduna	Mondo
+Wikipedia:Pénc mi	Vikipedio:Diskutejo
+Guam	Gvamo
+Samoa gu Aamerig	Usona Samoo
+Northern Mariana Islands	Nord-Marianoj
+United States Minor Outlying Islands	Usonaj Malgrandaj Insuloj
+Guwaadalup	Gvadelupo
+Martinik	Martiniko
+Mayoot	Majoto
+Reiñõo	Reunio
+Turks and Caicos Islands	Turkoj kaj Kajkoj
+Manchester United	Manchester United
+Juróom ñent	9 (nombro)
+Nha Trang	Nha Trang
+Rafael Correa	Rafael Correa
+Bukarest	Bukareŝto
+Louvre	Luvro
+Kureelu tembte bu Poortorikoo	Partio de la Sendependeco de Porto-Riko
+Tirana	Tirano
+Nowel	Kristnasko
+Breinigerberg	Breinigerberg
+Ségg	Tigro
+Kisinawu	Kiŝinevo
+Şalom	Şalom
+Aruba	Arubo
+Juróom ñaar	7 (nombro)
+Juróom ñett	8 (nombro)
+Ayubés	Semajno
+Ngéej	Lago
+Jeexiituwaay bu Orsay	Musée d'Orsay
+Dunu Buwet	Buvet-Insulo
+Dun	Insulo
+Juróom benn	6 (nombro)
+Moshchena	Moŝĉena
+Yamoo	Ekvatoro
+Mérida, Benesuwela	Merido (Venezuelo)
+Podgorika	Podgorico
+Baatukaay	Vortaro
+Bermuda	Bermudo
+Palestiin	Palestino
+Waleta	La-Valeto
+Fukk	10 (nombro)
+Tene	Gepardo
+Looy	Strigoformaj birdoj
+Angila	Angvilo
+Waxtu	Horo
+Pichilemu	Piĉilemo
+Duni Virgin (angalteer)	Britaj Virgulininsuloj
+Phan Thiet	Phan Thiết
+Goxub Dottub Bëj-gànnaar	Arkto
+Ngóora (jëmm)	Povumo
+Ndëgërlu gu mbëj	Elektra rezistanco
+Dendu mbëj	Elektra tensio
+Niccolò Cusano University	Università degli Studi Niccolò Cusano
+Mbëjtekkaaral	Elektrostatiko
+Anet	Aneto
+Dunu Kook	Kukinsuloj
+Penku Asi	Orienta Azio
+Diggu Asi	Centra Azio
+Bëj-gànnaaru Afrig	Nord-Afriko
+Bëj-saalumu Afrig	Suda Afriko
+Penku Afrig	Orientafriko
+Diggu Afrig	Centra Afriko
+Bëj-saalumu Tugal	Suda Eŭropo
+Penku Tugal	Orienta Eŭropo
+Bëj-gànnaaru Tugal	Norda Eŭropo
+Sowwu Tugal	Okcidenta Eŭropo
+Afritugalasi	Afrik-Eŭrazio
+Diggu Aamerig	Centra Ameriko
+Maghreb	Magrebo
+Weeri wolof	Islama kalendaro
+Ecser	Ecser
+Polineesi gu Faraas	Franca Polinezio
+Dunu Norfolk	Norfolkinsulo
+Dunu Christmas	Kristnaskinsulo
+Arabi	Arabio
+Paaka	Tranĉilo
+Pullaar	Fula lingvo
+Kaledooni-Gu-Bees	Nov-Kaledonio
+Way-dëkk	Loĝantaro
+Niwe	Niuo
+Tus-wu-gaar	Latitudo
+Wolof (làkk)	Volofa lingvo
+Gëstubiddiw	Astrologio
+Seent Eleen	Sankta Heleno
+Saint Pierre ak Miquelon	Sankta-Piero kaj Mikelono
+Njëkk-xaymà	Telefona landokodo
+Tequixquiac	Tequixquiac
+Jeoorji gu Bëj-saalum ak Duni Islaand yi Bëj-saalum	Sud-Georgio kaj Sud-Sandviĉinsuloj
+Dalub web	TTT-ejo
+Araab	Araboj
+Wallis ak Futuna	Valiso kaj Futuno
+Pitkeern	Pitkarna insularo
+Ne-ne	Materio
+Al Bayda	Al Bajda
+Gaal	Boato
+Polineesi	Polinezio
+Dunu Kokos	Kokosinsuloj
+Thanh Hoa	Thanh Hoa
+Siligo	Siligo
+Tus-wu-taxaw	Longitudo
+Dàngin	Gorilo
+Ben Tre	Ben Tre
+Xëtu web	TTT-paĝo
+Tokelau	Tokelao
+Tembte	Sendependeco
+Melaneesi	Melanezio
+Téeméer	100 (nombro)
+Campora San Giovanni	Campora San Giovanni
+Besançon	Besançon
+Jinax	Muso (besto)
+Suraas	Oranĝkolora
+Artemis	Artemiso
+Esaas	Benzino
+Radio Studio 54 Network	Radio Studio 54 Network
+Tëriinuw nosukaay	Komputila programo
+Jëf ya	Agoj de la Apostoloj
+Bejjenu Afrig	Korno de Afriko
+Fatt-jawwu	Troposfero
+Al Pacino	Al Pacino
+Doolerandu	Mekaniko
+Sinemaa	Kinejo
+Jum	Raketo (fajraĵo)
+Daawuda	Davido
+Liggéey (jëmm)	Laboro (fiziko)
+Penku gu Sori	Fora Oriento
+Gëwéel	Tropikoj
+Junni	1000 (nombro)
+Xaralaymbëj	Elektrotekniko
+Waañ	Kuirejo
+Andare	Sankta Andreo
+Bartelemi	Apostolo Bartolomeo
+The Doors	The Doors
+Toolu mbëj	Elektra kampo
+Kàttanug imbiku	Kineta energio
+Mbootaayu Réewi Jullit yi	Organizaĵo de Islama Kunlaboro
+Penku gu Jege	Proksima Oriento
+Almasi bi	Mesio
+Bànni Israyil	Izraelidoj
+Aaroona	Aaron
+Jàngoroy Ebola	Ebola malsano
+Locri	Locri
+Monaako (péy)	Monako (urbo)
+Wàll:Filmi	Kategorio:Filmo
+Aset	Telero
+Truong Tan Sang	Truong Tan Sang
+Duran Duran	Duran Duran
+Ron-goxu End	Hinda subkontinento
+Diiwaani dott	Polusa regiono
+Sahel	Sahelo
+Aadama	Adamo (Biblio)
+Doxalukaay bu mbëj	Elektromotoro
+Ametist	Ametisto
+Coronel Fabriciano	Coronel Fabriciano
+Junj	Simbolo
+1 Korent	1-a epistolo al la korintanoj
+Furset	Forko
+Kuddu	Kulero
+Royan	Royan
+Lepton	Leptono
+Bundesliga	Unua germania ligo de futbalo (Bundesliga)
+Dencukaay	Dosiero
+Cosaan	Tradicio
+Jéeri ji	Litosfero
+Lëkkalekaay	Hiperligilo
+Nukleon	Nukleono
+Beril	Berilo (mineralo)
+Xarey àdduna	Mondmilito
+Abdulaay Wàdd	Abdoulaye Wade
+Dëgërluwiin	Elektra rezistivo
+Yolom-jawwu	Stratosfero
+Melosuufug Tugal	Geografio de Eŭropo
+Dawaan bu safaanu	Alterna kurento
+Disc jockey	Diskĵokeo
+2 Piyeer	2-a epistolo de Petro
+Heard Island and McDonald Islands	Insulo Herdo kaj insuloj Makdonaldaj
+IMMAGINE&POESIA	Immagine & Poesia
+Jurukaayu mbëj	Generatoro
+Ndombo gu mbëj	Elektra cirkvito
+Mamudsu	Mamudzo
+Afrig gu bëj-saalumu-Sahara	Afriko sude de Saharo
+Sawara	Brulo
+Raaya wu Senegaal	Flago de Senegalo
+Leopool Sedaar Sengoor	Léopold Sédar Senghor
+Dóox	Duklando
+Dawaan bu wéy	Kontinua kurento
+Digg bu mbëj	Elektrejo
+Kom-kom	Ekonomio
+Pachuca de Soto	Pachuca de Soto
+Iyon-jawwu	Jonosfero
+Break dancing	Rompdancado
+Asot	Aŝdod
+Amiin	Amen
+Amos	Libro de Amos
+Toolu mbëjbijjaakon	Elektromagneta kampo
+Xiirtalu	Induktanco
+Mbëjbijjaan	Elektromagneto
+Ayóoba	Ijob
+Aakimoo jawwu ji	Kosmoesploro
+Dalu Archimède	Leĝoj de Arkimedo
+Imbraatóor gu Mali	Imperio Malio
+Barnabas	Barnabaso
+Armagedon	Armagedono
+Njël	Sunleviĝo
+Ancos ci Siri	Antioĥio
+Beelsebul	Belzebubo
+Pël	Fulboj
+Vesoul	Vesoul
+Akayi	Achaea
+Imbraatóor gu Gana	Ganaa imperio
+Kàttanug mbëj	Elektra energio
+Duusub sin	Sinusoido
+Njeexitu joule	Ĵula leĝo
+Ajara	Hagar
+Wolof (askan)	Volofoj
+Turu Way-Dëkk	Laŭloka nomo
+Haj	Haĝo
+Krushynka	Kruŝinka
+Arkelawus	Herodo Arĥelao
+Beer	Gorée
+Mboolaay	Societo
+Ndar	Saint-Louis (Senegalo)
+Abadon	Abadon
+Wommat wu mbëj	Konduktado (elektro)
+Asaf	Asa
+Agaripa	Herodo Agripo la 2-a
+Abel	Habelo
+Ousmane Sembène	Ousmane Sembene
+Apolos	Apolo (Biblio)
+Bitini	Bitinio
+Yolet	Viola
+Ben-yamin	Benjamen
+Planoise	Planoise Châteaufarine
+Betsayda	Betsaida
+Bisub Tabaski	Eid ul-Adha
+Dalmasi	Dalmatio
+Max	Termito
+Wure	Ovare
+Baal	Baalo
+Cees	Tieso
+Tuubaa	Tuba
+Antipataris	Antipatrido
+Taariixu Aamerig	Historio de Ameriko
+Séeréer	Sereroj
+Asos	Assos
+Jolof	Volofa Imperio
+Baynuk	Bajnunkoj
+Barag	Barak (Biblio)
+Bartime	Bartimeo
+Beliyar	Belialo
+Mandinke	Mandinkoj
+Awa	Eva
+Betesda	Lageto Betesda
+Kaasamaas	Kazamanco
+Santiago Tequixquiac	Santiago Tequixquiac
+Kawlak	Kaolack
+Nosteg galag	Fiska juro
+Oiapoque	Oiapoque
+Jurbel	Diourbel
+Xolaxol	Longvosta lamprotorno
+Wuutuloxo bu mbëj	Elektra maŝino
+Xiirtalug mbëjbijjaakon	Elektromagneta indukto
+Tëngéej	Rufisko
+Mbuur	Mbur
+Catir	Tiatira
+Maatam	Matam (Senegalo)
+Joolaa (askan)	Djoloj
+Màkkaanum mbëjfeppal	Retadreso
+Wàll:Gόor	Kategorio:Viroj
+Wàll:Almaañ	Kategorio:Germanio
+Wàll:Itaali	Kategorio:Italio
+Wàll:Riisi	Kategorio:Rusio
+Wàll:Kanadaa	Kategorio:Kanado
+Wàll:Nguur-Yu-Bennoo	Kategorio:Unuiĝinta Reĝlando
+Wàll:Ispaañ	Kategorio:Hispanio
+Wàll:Sapoŋ	Kategorio:Japanio
+Wàll:Óstraali	Kategorio:Aŭstralio
+Wàll:Meksik	Kategorio:Meksiko
+Wàll:End	Kategorio:Barato
+Wàll:Araabi Sawdit	Kategorio:Sauda Arabio
+Wàll:Israayil	Kategorio:Israelo
+Wàll:Watikaa	Kategorio:Vatikano
+Wàll:Tirki	Kategorio:Turkio
+Wàll:Afrig gu Bëj-saalum	Kategorio:Sud-Afriko
+Wàll:Isipt	Kategorio:Egiptio
+Wàll:Iraan	Kategorio:Irano
+Wàll:Arsantin	Kategorio:Argentino
+Wàll:Afganistaan	Kategorio:Afganio
+Wàll:Alseeri	Kategorio:Alĝerio
+Wàll:Banglaades	Kategorio:Bangladeŝo
+Wàll:Kubaa	Kategorio:Kubo
+Wàll:Ecoopi	Kategorio:Etiopio
+Wàll:Endoneesi	Kategorio:Indonezio
+Wàll:Iraak	Kategorio:Irako
+Wàll:Niseeria	Kategorio:Niĝerio
+Wàll:Poloñ	Kategorio:Pollando
+Wàll:Portugaal	Kategorio:Portugalio
+Wàll:Kore gu Bëj-saalum	Kategorio:Sud-Koreio
+Wàll:Sudaan	Kategorio:Sudano
+Wàll:Suwis	Kategorio:Svislando
+Wàll:Tansani	Kategorio:Tanzanio
+Wàll:Ukreen	Kategorio:Ukrainio
+Wàll:Wiyetnaam	Kategorio:Vjetnamio
+Wàll:Picc	Kategorio:Birdoj
+Wàll:Gàncax	Kategorio:Plantoj
+Wàll:Jëmm	Kategorio:Fiziko
+Wàll:Taariix	Kategorio:Historio
+Wàll:Melosuuf	Kategorio:Geografio
+Wàll:Diine	Kategorio:Religio
+Wàll:Sport	Kategorio:Sporto
+Wàll:Xam-xam	Kategorio:Scienco
+Wàll:Sinemaa	Kategorio:Kino
+Wàll:Suuf	Kategorio:Tero
+Wàll:Xibaar	Kategorio:Informado
+Wàll:Xeltu	Kategorio:Filozofio
+Wàll:Lislaam	Kategorio:Islamo
+Benedicta Boccoli	Benedicta Boccoli
+Wàll:Junj	Kategorio:Ĝermo
+Wàll:Gox yi	Kategorio:Kontinentoj
+Bunt:Melosuuf	Portalo:Geografio
+Mikroneesi	Mikronezio
+Anna Rita Del Piano	Anna Rita Del Piano
+Royuwaay:M	Ŝablono:Ŝ
+Royuwaay:Yeneenlàkk	Ŝablono:ĈefPaĝo/AliajLingvoj
+Wàll:Réew	Kategorio:Landoj
+Wàll:Koom-koom	Kategorio:Ekonomiko
+Wikipedia:Yorkat	Vikipedio:Administrantoj
+Wàll:Kasakistaan	Kategorio:Kazaĥio
+Wikipedia:Bureaucrats	Vikipedio:Burokratoj
+Wikipedia:Bot	Vikipedio:Roboto
+Wàll:Paj	Kategorio:Medicino
+Wàll:Politig	Kategorio:Politiko
+Wàll:Fànn	Kategorio:Arto
+Isipt	Egiptujo
+Royuwaay:Bot	Ŝablono:Bot
+Kanadaa	Kanado
+Wàll:Beljik	Kategorio:Belgio
+Wàll:Ciipër	Kategorio:Kipro
+Wàll:Réewum Cek	Kategorio:Ĉeĥio
+Wàll:Danmaark	Kategorio:Danio
+Wàll:Estooni	Kategorio:Estonio
+Wàll:Finlaand	Kategorio:Finnlando
+Wàll:Girees	Kategorio:Grekio
+Wàll:Letóoni	Kategorio:Latvio
+Wàll:Islaand	Kategorio:Islando
+Wàll:Luksambuur	Kategorio:Luksemburgo
+Wàll:Lituwaani	Kategorio:Litovio
+Wàll:Malt	Kategorio:Malto
+Wàll:Suweed	Kategorio:Svedio
+Wàll:Eslowaaki	Kategorio:Slovakio
+Wàll:Esloweeni	Kategorio:Slovenio
+Wàll:Xare	Kategorio:Militoj
+Wàll:Tugal	Kategorio:Eŭropo
+Wommatiinu mbëj	Elektra konduktivo
+Wàll:Waa-wikipedia ci làkk-ak-làkk	Kategorio:Vikipediistoj laŭ lingvo
+Sung Jae-gi	Sung Jae-gi
+Royuwaay:Softredirect	Ŝablono:Intervikia plusendilo
+Royuwaay:Far	Ŝablono:Forigu tuj
+Wàll:Xarala	Kategorio:Teknologio
+Wàll:Làkk	Kategorio:Lingvoj
+Wàll:Arminaat	Kategorio:Kalendaro
+Wàll:Wikipedia	Kategorio:Vikipedio
+Wàll:Barab bu tolluwaay bu njëkk	Kategorio:Domajnoj de plej alta nivelo
+Royuwaay:!	Ŝablono:!
+Wàll:Afrig	Kategorio:Afriko
+Wàll:Sulet	Kategorio:Julio
+Wàll:Suwe	Kategorio:Junio
+Wàll:Mbëjfeppal	Kategorio:Elektroniko
+Wàll:Leeral Biibël	Kategorio:Biblio
+Wàll:Weeri at mi	Kategorio:Monatoj
+Royuwaay:Babel	Ŝablono:Babelejo
+Royuwaay:Commons	Ŝablono:Commons
+Royuwaay:Lien BA	Ŝablono:LigoLeginda
+Wàll:Xaralaymbëj	Kategorio:Elektrotekniko
+Royuwaay:ANG	Ŝablono:AGO
+Royuwaay:Junj	Ŝablono:Ĝermo
+Royuwaay:Jëfandikukat af-1	Ŝablono:Vikipediisto af-1
+Royuwaay:Jëfandikukat ar-1	Ŝablono:Vikipediisto ar-1
+Royuwaay:Jëfandikukat eo-1	Ŝablono:Vikipediisto eo-1
+Royuwaay:Jëfandikukat da	Ŝablono:Vikipediisto da
+Royuwaay:Jëfandikukat ca-4	Ŝablono:Vikipediisto ca-4
+Royuwaay:Jëfandikukat da-1	Ŝablono:Vikipediisto da-1
+Royuwaay:Jëfandikukat eo-3	Ŝablono:Vikipediisto eo-3
+Royuwaay:Jëfandikukat es	Ŝablono:Vikipediisto es
+Royuwaay:Jëfandikukat en-3	Ŝablono:Vikipediisto en-3
+Royuwaay:Jëfandikukat el-1	Ŝablono:Vikipediisto el-1
+Royuwaay:Jëfandikukat en-1	Ŝablono:Vikipediisto en-1
+Royuwaay:Jëfandikukat en-2	Ŝablono:Vikipediisto en-2
+Royuwaay:Jëfandikukat eo-2	Ŝablono:Vikipediisto eo-2
+Royuwaay:Jëfandikukat en-4	Ŝablono:Vikipediisto en-4
+Royuwaay:Jëfandikukat fi	Ŝablono:Vikipediisto fi-D
+Royuwaay:Jëfandikukat en-0	Ŝablono:Vikipediisto en-0
+Royuwaay:Jëfandikukat es-4	Ŝablono:Vikipediisto es-4
+Royuwaay:Jëfandikukat en	Ŝablono:Vikipediisto en
+Royuwaay:Jëfandikukat es-1	Ŝablono:Vikipediisto es-1
+Royuwaay:Jëfandikukat fr-1	Ŝablono:Vikipediisto fr-1
+Wàll:Dundat yi	Kategorio:Vivo
+Royuwaay:Jëfandikukat ia-2	Ŝablono:Vikipediisto ia-2
+Royuwaay:Jëfandikukat id-3	Ŝablono:Vikipediisto id-3
+Royuwaay:Jëfandikukat io-3	Ŝablono:Vikipediisto io-3
+Royuwaay:Jëfandikukat it-3	Ŝablono:Vikipediisto it-3
+Royuwaay:Jëfandikukat ja-4	Ŝablono:Vikipediisto ja-4
+Royuwaay:Jëfandikukat sk	Ŝablono:Vikipediisto sk
+Royuwaay:Jëfandikukat ja	Ŝablono:Vikipediisto ja
+Royuwaay:Jëfandikukat ja-1	Ŝablono:Vikipediisto ja-1
+Royuwaay:Jëfandikukat it-1	Ŝablono:Vikipediisto it-1
+Royuwaay:Jëfandikukat fr	Ŝablono:Vikipediisto fr
+Wàll:Fewirie	Kategorio:Februaro
+Wàll:Gunóor	Kategorio:Insektoj
+Wàll:Moldaawi	Kategorio:Moldavio
+Royuwaay:HRV	Ŝablono:HRV
+Wàll:Aserbayjaan	Kategorio:Azerbajĝano
+Wàll:Asi	Kategorio:Azio
+Wàll:Ciili	Kategorio:Ĉilio
+Wàll:Lesoto	Kategorio:Lesoto
+Wàll:Jëfandikukat uk	Kategorio:Vikipediisto uk
+Wàll:Jëfandikukat uk-N	Kategorio:Vikipediisto uk-D
+Wàll:Maleesi	Kategorio:Malajzio
+Wàll:Football	Kategorio:Futbalo
+Royuwaay:Mod	Ŝablono:Mod
+Royuwaay:Jëfandikukat it	Ŝablono:Vikipediisto it
+Royuwaay:Jëfandikukat uk	Ŝablono:Vikipediisto uk
+Royuwaay:Jëfandikukat es-2	Ŝablono:Vikipediisto es-2
+Wàll:Jimbulang	Kategorio:Enciklopedioj
+Royuwaay:Bataaxalu dalal-jàmm	Ŝablono:Bonvenon
+Royuwaay:Weer	Ŝablono:MonatEnkonduko
+Royuwaay:USA	Ŝablono:USA
+Royuwaay:ITA	Ŝablono:ITA
+Royuwaay:GEO	Ŝablono:GEO
+Royuwaay:BOL	Ŝablono:BOL
+Royuwaay:MEX	Ŝablono:MEX
+Wàll:Jëfandikukat fr-1	Kategorio:Vikipediisto fr-1
+Royuwaay:MAR	Ŝablono:MAR
+Royuwaay:MDK	Ŝablono:MDG
+Royuwaay:ISBN	Ŝablono:ISBN
+Royuwaay:SVK	Ŝablono:SVK
+Royuwaay:EGY	Ŝablono:EGY
+Royuwaay:KGZ	Ŝablono:KGZ
+Royuwaay:MYT	Ŝablono:MYT
+Royuwaay:Infobox Réew	Ŝablono:Informkesto lando
+Royuwaay:Max	Ŝablono:Max
+Royuwaay:STP	Ŝablono:STP
+Royuwaay:VEN	Ŝablono:VEN
+Royuwaay:UKR	Ŝablono:UKR
+Royuwaay:ROU	Ŝablono:ROU
+Royuwaay:TUR	Ŝablono:TUR
+Royuwaay:JBT	Ŝablono:DJI
+Royuwaay:Jëfandikukat es-0	Ŝablono:Vikipediisto es-0
+Wàll:Gana	Kategorio:Ganao
+Wàll:Jëfandikukat en-4	Kategorio:Vikipediisto en-4
+Wàll:Togóo	Kategorio:Togolando
+Wàll:Jëfandikukat en	Kategorio:Vikipediisto en
+Wàll:Jëfandikukat zh	Kategorio:Vikipediisto zh
+Wàll:Korwaasi	Kategorio:Kroatio
+Wàll:Jëfandikukat zh-N	Kategorio:Vikipediisto zh-D
+Wàll:Jëfandikukat en-2	Kategorio:Vikipediisto en-2
+Royuwaay:Jëfandikukat zh	Ŝablono:Vikipediisto zh
+Royuwaay:Jëfandikukat ru-4	Ŝablono:Vikipediisto ru-4
+Royuwaay:Coord/URL	Ŝablono:KoordinatojURL
+Royuwaay:Jëfandikukat nl-1	Ŝablono:Vikipediisto nl-1
+Royuwaay:Jëfandikukat nl-2	Ŝablono:Vikipediisto nl-2
+Royuwaay:Jëfandikukat ru	Ŝablono:Vikipediisto ru
+Wàll:Aamerig	Kategorio:Ameriko
+Royuwaay:Boyutu Babel N	Ŝablono:Babel kadro D
+Royuwaay:Boyutu Babel 1	Ŝablono:Babel kadro 1
+Royuwaay:KPW	Ŝablono:CPV
+Royuwaay:Jëfandikukat pt-1	Ŝablono:Vikipediisto pt-1
+Wàll:Samwie	Kategorio:Januaro
+Royuwaay:Jëfandikukat pl	Ŝablono:Vikipediisto pl
+Royuwaay:Jëfandikukat nl	Ŝablono:Vikipediisto nl
+Royuwaay:TJK	Ŝablono:TJK
+Royuwaay:Jëfandikukat no-2	Ŝablono:Vikipediisto no-2
+Royuwaay:Coord	Ŝablono:Koord2
+Royuwaay:GAN	Ŝablono:GHA
+Royuwaay:GAM	Ŝablono:GAM
+Royuwaay:IDN	Ŝablono:IDN
+Royuwaay:AFB	Ŝablono:ZAF
+Royuwaay:CcTLD	Ŝablono:Naciaj domajnoj de plej alta nivelo
+Royuwaay:POL	Ŝablono:POL
+Royuwaay:BOA	Ŝablono:BWA
+Royuwaay:URY	Ŝablono:URY
+Royuwaay:CUB	Ŝablono:CUB
+Royuwaay:KMR	Ŝablono:CMR
+Royuwaay:KOS	Ŝablono:COD
+Royuwaay:BIH	Ŝablono:BIH
+Royuwaay:GIN	Ŝablono:GIN
+Royuwaay:FIN	Ŝablono:FIN
+Wàll:Cuub	Kategorio:Pentrado
+Royuwaay:CAN	Ŝablono:CAN
+Royuwaay:DNK	Ŝablono:DNK
+Royuwaay:Jëfandikukat	Ŝablono:Uzula paĝo
+Royuwaay:DEU	Ŝablono:DEU
+Royuwaay:BEN	Ŝablono:BEN
+Royuwaay:SWE	Ŝablono:SWE
+Royuwaay:Boyutu Babel 4	Ŝablono:Babel kadro 4
+Royuwaay:Jëfandikukat pl-1	Ŝablono:Vikipediisto pl-1
+Royuwaay:Boyutu Babel 0	Ŝablono:Babel kadro 0
+Royuwaay:Jëfandikukat fr-3	Ŝablono:Vikipediisto fr-3
+Wàll:Tiniisi	Kategorio:Tunizio
+Royuwaay:JPN	Ŝablono:JPN
+Royuwaay:SOM	Ŝablono:SOM
+Royuwaay:VAT	Ŝablono:VAT
+Royuwaay:SWL	Ŝablono:SWZ
+Wàll:Suti	Kategorio:Aparataro
+Royuwaay:ISL	Ŝablono:ISL
+Royuwaay:Coord/link	Ŝablono:Koord/ligilo
+Royuwaay:MOR	Ŝablono:MUS
+Royuwaay:COL	Ŝablono:COL
+Royuwaay:GIB	Ŝablono:GNB
+Royuwaay:ERT	Ŝablono:ERI
+Royuwaay:GAR	Ŝablono:MRT
+Royuwaay:GAB	Ŝablono:GAB
+Royuwaay:IRN	Ŝablono:IRN
+Royuwaay:MAL	Ŝablono:MLI
+Royuwaay:SUD	Ŝablono:SUD
+Royuwaay:NAM	Ŝablono:NAM
+Royuwaay:RDA	Ŝablono:CAF
+Royuwaay:MKD	Ŝablono:MKD
+Royuwaay:GNY	Ŝablono:GNQ
+Royuwaay:KOM	Ŝablono:COM
+Royuwaay:SAM	Ŝablono:ZMB
+Royuwaay:MLW	Ŝablono:MWI
+Royuwaay:TAN	Ŝablono:TZA
+Royuwaay:KAZ	Ŝablono:KAZ
+Royuwaay:NIS	Ŝablono:NER
+Royuwaay:KON	Ŝablono:COG
+Royuwaay:SMR	Ŝablono:SMR
+Royuwaay:PER	Ŝablono:PER
+Royuwaay:MOS	Ŝablono:MOZ
+Royuwaay:GUY	Ŝablono:GUY
+Royuwaay:ECP	Ŝablono:ETH
+Royuwaay:NIA	Ŝablono:NGA
+Royuwaay:SRB	Ŝablono:SRB
+Royuwaay:NIC	Ŝablono:NIC
+Royuwaay:LIA	Ŝablono:LBR
+Royuwaay:TKM	Ŝablono:TKM
+Royuwaay:LIB	Ŝablono:LBY
+Royuwaay:LES	Ŝablono:LES
+Royuwaay:BUK	Ŝablono:BFA
+Royuwaay:CAD	Ŝablono:TCD
+Royuwaay:PRY	Ŝablono:PAR
+Royuwaay:ECU	Ŝablono:ECU
+Royuwaay:SEY	Ŝablono:SYC
+Royuwaay:SIR	Ŝablono:SLE
+Royuwaay:LTU	Ŝablono:LTU
+Royuwaay:IND	Ŝablono:IND
+Royuwaay:Jëfandikukat is-1	Ŝablono:Vikipediisto is-1
+Royuwaay:Jëfandikukat en-5	Ŝablono:Vikipediisto en-5
+Wàll:Poortorikoo	Kategorio:Porto-Riko
+Wàll:Jëfandikukat ja-N	Kategorio:Vikipediisto ja-D
+Wàll:Royuwaay jëfëndikookat	Kategorio:Vikipedio:Ŝablonoj por uzanta paĝo
+Royuwaay:CHE	Ŝablono:CHE
+Wàll:Suwaasilaand	Kategorio:Svazilando
+Wàll:Infobox	Kategorio:Ŝablono:Informkesto
+Royuwaay:Jëfandikukat yi-2	Ŝablono:Vikipediisto yi-2
+Royuwaay:ATG	Ŝablono:ATG
+Royuwaay:GRC	Ŝablono:GRC
+Royuwaay:PRT	Ŝablono:PRT
+Royuwaay:SIM	Ŝablono:ZWE
+Royuwaay:Jëfandikukat ksh	Ŝablono:Vikipediisto ksh
+Royuwaay:CZE	Ŝablono:CZE
+Royuwaay:LVA	Ŝablono:LVA
+Royuwaay:AZE	Ŝablono:AZE
+Royuwaay:Xam-xam	Ŝablono:Scienco
+Royuwaay:MNE	Ŝablono:MNE
+Royuwaay:NLD	Ŝablono:NLD
+Royuwaay:GBR	Ŝablono:GBR
+Royuwaay:LIE	Ŝablono:LIE
+Royuwaay:MDA	Ŝablono:MDA
+Royuwaay:Boyutu Babel 3	Ŝablono:Babel kadro 3
+Royuwaay:KOR	Ŝablono:KOR
+Royuwaay:Jëfandikukat it-2	Ŝablono:Vikipediisto it-2
+Royuwaay:SVN	Ŝablono:SVN
+Royuwaay:LBN	Ŝablono:LBN
+Royuwaay:FRA	Ŝablono:FRA
+Wàll:Mongoli	Kategorio:Mongolio
+Royuwaay:Gox	Ŝablono:Kontinentoj
+Royuwaay:Jëfandikukat pt-3	Ŝablono:Vikipediisto pt-3
+Royuwaay:Jëfandikukat pt-2	Ŝablono:Vikipediisto pt-2
+Royuwaay:Jëfandikukat lb-1	Ŝablono:Vikipediisto lb-1
+Royuwaay:Jëfandikukat fr-4	Ŝablono:Vikipediisto fr-4
+Royuwaay:Jëfandikukat la-1	Ŝablono:Vikipediisto la-1
+Wàll:Réewum Maseduwaan	Kategorio:Respubliko Makedonio
+Wàll:Jëfandikukat sk	Kategorio:Vikipediisto sk
+Wàll:Jëfandikukat eo	Kategorio:Vikipediisto eo
+Wàll:Jëfandikukat et	Kategorio:Vikipediisto et
+Wàll:Jëfandikukat fr	Kategorio:Vikipediisto fr
+Wàll:Jëfandikukat hu-N	Kategorio:Vikipediisto hu-D
+Wàll:Jëfandikukat id	Kategorio:Vikipediisto id
+Wàll:Jëfandikukat ia	Kategorio:Vikipediisto ia
+Wàll:Jëfandikukat ja	Kategorio:Vikipediisto ja
+Wàll:Jëfandikukat la	Kategorio:Vikipediisto la
+Wàll:Jëfandikukat li	Kategorio:Vikipediisto li
+Wàll:Jëfandikukat pt	Kategorio:Vikipediisto pt
+Wàll:Jëfandikukat ro	Kategorio:Vikipediisto ro
+Wàll:Jëfandikukat sv	Kategorio:Vikipediisto sv
+Wàll:Jëfandikukat sw	Kategorio:Vikipediisto sw
+Wàll:Jëfandikukat vo	Kategorio:Vikipediisto vo
+Wàll:Jëfandikukat fr-3	Kategorio:Vikipediisto fr-3
+Wàll:Jëfandikukat it-3	Kategorio:Vikipediisto it-3
+Wàll:Jëfandikukat da-1	Kategorio:Vikipediisto da-1
+Wàll:Jëfandikukat et-1	Kategorio:Vikipediisto et-1
+Wàll:Jëfandikukat nl-1	Kategorio:Vikipediisto nl-1
+Wàll:Jëfandikukat pl-1	Kategorio:Vikipediisto pl-1
+Wàll:Jëfandikukat vo-1	Kategorio:Vikipediisto vo-1
+Wàll:Jëfandikukat ar-1	Kategorio:Vikipediisto ar-1
+Wàll:Jëfandikukat fr-4	Kategorio:Vikipediisto fr-4
+Wàll:Jëfandikukat it-4	Kategorio:Vikipediisto it-4
+Wàll:Jëfandikukat ar-4	Kategorio:Vikipediisto ar-4
+Wàll:Jëfandikukat fr-2	Kategorio:Vikipediisto fr-2
+Wàll:Jëfandikukat ia-2	Kategorio:Vikipediisto ia-2
+Wàll:Jëfandikukat it-2	Kategorio:Vikipediisto it-2
+Wàll:Jëfandikukat la-2	Kategorio:Vikipediisto la-2
+Wàll:Jëfandikukat nl-2	Kategorio:Vikipediisto nl-2
+Wàll:Jëfandikukat cs-N	Kategorio:Vikipediisto cs-D
+Wàll:Jëfandikukat fr-N	Kategorio:Vikipediisto fr-D
+Wàll:Jëfandikukat it-N	Kategorio:Vikipediisto it-D
+Wàll:Jëfandikukat lv-N	Kategorio:Vikipediisto lv-D
+Wàll:Jëfandikukat nl-N	Kategorio:Vikipediisto nl-D
+Wàll:Jëfandikukat ru-N	Kategorio:Vikipediisto ru-D
+Wàll:Jëfandikukat fr-5	Kategorio:Vikipediisto fr-5
+Wàll:Jëfandikukat ar-5	Kategorio:Vikipediisto ar-5
+Wàll:Jëfandikukat eu-N	Kategorio:Vikipediisto eu-D
+Wàll:Jëfandikukat af	Kategorio:Vikipediisto af
+Wàll:Jëfandikukat af-1	Kategorio:Vikipediisto af-1
+Wàll:Jëfandikukat ar	Kategorio:Vikipediisto ar
+Wàll:Jëfandikukat ca	Kategorio:Vikipediisto ca
+Wàll:Jëfandikukat ca-4	Kategorio:Vikipediisto ca-4
+Wàll:Jëfandikukat cs	Kategorio:Vikipediisto cs
+Wàll:Jëfandikukat da	Kategorio:Vikipediisto da
+Wàll:Jëfandikukat sk-N	Kategorio:Vikipediisto sk-D
+Wàll:Jëfandikukat de	Kategorio:Vikipediisto de
+Wàll:Jëfandikukat de-0	Kategorio:Vikipediisto de-0
+Wàll:Jëfandikukat de-2	Kategorio:Vikipediisto de-2
+Wàll:Jëfandikukat de-3	Kategorio:Vikipediisto de-3
+Wàll:Jëfandikukat de-4	Kategorio:Vikipediisto de-4
+Wàll:Jëfandikukat de-N	Kategorio:Vikipediisto de-D
+Wàll:Jëfandikukat el	Kategorio:Vikipediisto el
+Wàll:Jëfandikukat el-1	Kategorio:Vikipediisto el-1
+Wàll:Jëfandikukat en-0	Kategorio:Vikipediisto en-0
+Wàll:Jëfandikukat en-3	Kategorio:Vikipediisto en-3
+Wàll:Jëfandikukat en-5	Kategorio:Vikipediisto en-5
+Wàll:Jëfandikukat en-N	Kategorio:Vikipediisto en-D
+Wàll:Jëfandikukat eo-1	Kategorio:Vikipediisto eo-1
+Wàll:Jëfandikukat eo-2	Kategorio:Vikipediisto eo-2
+Wàll:Jëfandikukat eo-3	Kategorio:Vikipediisto eo-3
+Wàll:Jëfandikukat es	Kategorio:Vikipediisto es
+Wàll:Jëfandikukat es-1	Kategorio:Vikipediisto es-1
+Wàll:Jëfandikukat es-2	Kategorio:Vikipediisto es-2
+Wàll:Jëfandikukat es-3	Kategorio:Vikipediisto es-3
+Wàll:Jëfandikukat es-4	Kategorio:Vikipediisto es-4
+Wàll:Jëfandikukat es-N	Kategorio:Vikipediisto es-D
+Wàll:Jëfandikukat eu	Kategorio:Vikipediisto eu
+Wàll:Jëfandikukat fi	Kategorio:Vikipediisto fi
+Wàll:Jëfandikukat fi-N	Kategorio:Vikipediisto fi-D
+Wàll:Jëfandikukat fr-0	Kategorio:Vikipediisto fr-0
+Wàll:Jëfandikukat hu	Kategorio:Vikipediisto hu
+Wàll:Jëfandikukat id-3	Kategorio:Vikipediisto id-3
+Wàll:Jëfandikukat io	Kategorio:Vikipediisto io
+Wàll:Jëfandikukat io-1	Kategorio:Vikipediisto io-1
+Wàll:Jëfandikukat is	Kategorio:Vikipediisto is
+Wàll:Jëfandikukat is-1	Kategorio:Vikipediisto is-1
+Royuwaay:Jëfandikukat la-3	Ŝablono:Vikipediisto la-3
+Wàll:Jëfandikukat pt-3	Kategorio:Vikipediisto pt-3
+Wàll:Yonenti Lislaam	Kategorio:Profetoj en islamo
+Wàll:Jëfandikukat pl-N	Kategorio:Vikipediisto pl-D
+Wàll:Jëfandikukat pt-1	Kategorio:Vikipediisto pt-1
+Wàll:Jëfandikukat ka-1	Kategorio:Vikipediisto ka-1
+Wàll:Jëfandikukat it	Kategorio:Vikipediisto it
+Wàll:Jëfandikukat it-1	Kategorio:Vikipediisto it-1
+Wàll:Jëfandikukat ja-1	Kategorio:Vikipediisto ja-1
+Wàll:Jëfandikukat ka	Kategorio:Vikipediisto ka
+Wàll:Jëfandikukat ko	Kategorio:Vikipediisto ko
+Wàll:Jëfandikukat ko-3	Kategorio:Vikipediisto ko-3
+Wàll:Jëfandikukat ksh	Kategorio:Vikipediisto ksh
+Wàll:Jëfandikukat ksh-N	Kategorio:Vikipediisto ksh-D
+Wàll:Jëfandikukat la-1	Kategorio:Vikipediisto la-1
+Wàll:Jëfandikukat la-3	Kategorio:Vikipediisto la-3
+Royuwaay:NOR	Ŝablono:NOR
+Royuwaay:BRA	Ŝablono:BRA
+Wàll:Nowembar	Kategorio:Novembro
+Wàll:Jëfandikukat ru-1	Kategorio:Vikipediisto ru-1
+Royuwaay:Jëfandikukat sv-1	Ŝablono:Vikipediisto sv-1
+Wàll:Maars	Kategorio:Marto
+Wàll:Sattumbar	Kategorio:Septembro
+Wàll:Jëfandikukat lv	Kategorio:Vikipediisto lv
+Royuwaay:TNI	Ŝablono:TUN
+Wàll:Oktoobar	Kategorio:Oktobro
+Royuwaay:Boyutu Babel 2	Ŝablono:Babel kadro 2
+Wàll:Xam-xamu nosukaay	Kategorio:Informadiko
+Wàll:Géej	Kategorio:Maroj
+Wàll:Disambar	Kategorio:Decembro
+Wàll:Ut	Kategorio:Aŭgusto
+Wàll:Mee	Kategorio:Majo
+Wàll:Awril	Kategorio:Aprilo
+Royuwaay:Boyutu Babel 5	Ŝablono:Babel kadro 5
+Wàll:Angila	Kategorio:Angvilo
+Royuwaay:LUX	Ŝablono:LUX
+Royuwaay:Coord/dms2dec	Ŝablono:Koord/gmsaldek
+Wàll:Endustri	Kategorio:Industrio
+Wàll:Ndox	Kategorio:Akvo
+Wàll:Taariixu Aamerig	Kategorio:Historio de Ameriko
+Wàll:Xay	Kategorio:Civilizoj
+Wàll:Belaarus	Kategorio:Belorusio
+Royuwaay:MCO	Ŝablono:MCO
+Royuwaay:Jëfandikukat pt-4	Ŝablono:Vikipediisto pt-4
+Royuwaay:Jëfandikukat ru-2	Ŝablono:Vikipediisto ru-2
+Royuwaay:Jëfandikukat es-3	Ŝablono:Vikipediisto es-3
+Royuwaay:Jëfandikukat ko-3	Ŝablono:Vikipediisto ko-3
+Wàll:Jëfandikukat pt-0	Kategorio:Vikipediisto pt-0
+Wàll:Jëfandikukat pt-2	Kategorio:Vikipediisto pt-2
+Wàll:Jëfandikukat pt-4	Kategorio:Vikipediisto pt-4
+Wàll:Jëfandikukat pt-5	Kategorio:Vikipediisto pt-5
+Wàll:Jëfandikukat pt-N	Kategorio:Vikipediisto pt-D
+Wàll:Jëfandikukat ro-2	Kategorio:Vikipediisto ro-2
+Wàll:Jëfandikukat ru	Kategorio:Vikipediisto ru
+Wàll:Jëfandikukat ru-2	Kategorio:Vikipediisto ru-2
+Wàll:Jëfandikukat ru-4	Kategorio:Vikipediisto ru-4
+Wàll:Jëfandikukat sk-1	Kategorio:Vikipediisto sk-1
+Wàll:Jëfandikukat sv-1	Kategorio:Vikipediisto sv-1
+Wàll:Jëfandikukat sv-N	Kategorio:Vikipediisto sv-D
+Wàll:Jëfandikukat tr	Kategorio:Vikipediisto tr
+Wàll:Jëfandikukat tr-N	Kategorio:Vikipediisto tr-D
+Wàll:Jëfandikukat yi	Kategorio:Vikipediisto yi
+Wàll:Jëfandikukat yi-2	Kategorio:Vikipediisto yi-2
+Royuwaay:IRL	Ŝablono:IRL
+Royuwaay:ALB	Ŝablono:ALB
+Royuwaay:AND	Ŝablono:AND
+Royuwaay:ARG	Ŝablono:ARG
+Royuwaay:ARM	Ŝablono:ARM
+Royuwaay:Jëfandikukat ca	Ŝablono:Vikipediisto ca
+Royuwaay:BUR	Ŝablono:BDI
+Royuwaay:BGR	Ŝablono:BGR
+Royuwaay:BHS	Ŝablono:BHS
+Royuwaay:BLR	Ŝablono:BLR
+Royuwaay:KOD	Ŝablono:CIV
+Royuwaay:CYP	Ŝablono:CYP
+Wàll:Melosuufug Tugal	Kategorio:Geografio de Eŭropo
+Royuwaay:Xóotal	Ŝablono:Ĉefartikolo
+Royuwaay:Coord/dec2dms/dm	Ŝablono:Koord/dekalgms/gm
+Royuwaay:EST	Ŝablono:EST
+Royuwaay:RUS	Ŝablono:RUS
+Royuwaay:TOG	Ŝablono:TGO
+Royuwaay:AUT	Ŝablono:AUT
+Royuwaay:CHL	Ŝablono:CHL
+Royuwaay:PD-self	Ŝablono:PD-mem
+Royuwaay:CHN	Ŝablono:CHN
+Wàll:Angolaa	Kategorio:Angolo
+Wàll:Bene	Kategorio:Benino
+Wàll:Botswana	Kategorio:Bocvano
+Wàll:Burkinaa Faaso	Kategorio:Burkino
+Wàll:Buruundi	Kategorio:Burundo
+Wàll:Jibuti	Kategorio:Ĝibutio
+Wàll:Gineg yamoo	Kategorio:Ekvatora Gvineo
+Wàll:Eritere	Kategorio:Eritreo
+Wàll:Gaboŋ	Kategorio:Gabono
+Wàll:Gàmbi	Kategorio:Gambio
+Wàll:Kamerun	Kategorio:Kameruno
+Wàll:Keeñaa	Kategorio:Kenjo
+Wàll:Komoor	Kategorio:Komoroj
+Wàll:Libi	Kategorio:Libio
+Wàll:Madagaskaar	Kategorio:Madagaskaro
+Wàll:Malawi	Kategorio:Malavio
+Wàll:Marok	Kategorio:Maroko
+Wàll:Gànnaar	Kategorio:Maŭritanio
+Wàll:Mosambik	Kategorio:Mozambiko
+Wàll:Namibi	Kategorio:Namibio
+Wàll:Ruwandaa	Kategorio:Ruando
+Royuwaay:IRQ	Ŝablono:IRQ
+Wàll:Melosuufug Afrig gu Bëj-saalum	Kategorio:Geografio de Sud-Afriko
+Royuwaay:Jëfandikukat ar-4	Ŝablono:Vikipediisto ar-4
+Wàll:Melosuufug Alseeri	Kategorio:Geografio de Alĝerio
+Royuwaay:Jëfandikukat li-1	Ŝablono:Vikipediisto li-1
+Royuwaay:Jëfandikukat pt	Ŝablono:Vikipediisto pt
+Royuwaay:Jëfandikukat ro-2	Ŝablono:Vikipediisto ro-2
+Royuwaay:Jëfandikukat ru-1	Ŝablono:Vikipediisto ru-1
+Royuwaay:Jëfandikukat sk-1	Ŝablono:Vikipediisto sk-1
+Royuwaay:Jëfandikukat zh-1	Ŝablono:Vikipediisto zh-1
+Royuwaay:Jëfandikukat zh-2	Ŝablono:Vikipediisto zh-2
+Royuwaay:Jëfandikukat zh-4	Ŝablono:Vikipediisto zh-4
+Wàll:Saambi	Kategorio:Zambio
+Wàll:Senegaal	Kategorio:Senegalo
+Wàll:Seysel	Kategorio:Sejŝeloj
+Wàll:Simbaawee	Kategorio:Zimbabvo
+Wàll:Melosuufug Kamerun	Kategorio:Geografio de Kameruno
+Wàll:Somali	Kategorio:Somalio
+Wàll:Cadd	Kategorio:Ĉado
+Wàll:Ugandaa	Kategorio:Ugando
+Wàll:Réewum Diggu Afrig	Kategorio:Centr-Afrika Respubliko
+Wàll:Filipiin	Kategorio:Filipinoj
+Wàll:Jëfandikukat nl	Kategorio:Vikipediisto nl
+Wàll:Jëfandikukat no-2	Kategorio:Vikipediisto no-2
+Wàll:Jëfandikukat no	Kategorio:Vikipediisto no
+Wàll:Jëfandikukat zh-1	Kategorio:Vikipediisto zh-1
+Wàll:Jëfandikukat zh-4	Kategorio:Vikipediisto zh-4
+Wàll:Jëfandikukat zh-2	Kategorio:Vikipediisto zh-2
+Wàll:Doolerandu	Kategorio:Mekaniko
+Wàll:Armeeni	Kategorio:Armenio
+Wàll:Bahrayni	Kategorio:Barejno
+Wàll:Siri	Kategorio:Sirio
+Wàll:Melosuufug Senegaal	Kategorio:Geografio de Senegalo
+Wàll:Jeoorji	Kategorio:Kartvelio
+Wàll:Jamayka	Kategorio:Jamajko
+Wàll:Kataar	Kategorio:Kataro
+Wàll:Maldiif	Kategorio:Maldivoj
+Wàll:Nepaal	Kategorio:Nepalo
+Wàll:Omaan	Kategorio:Omano
+Wàll:Usbekistaan	Kategorio:Uzbekio
+Wàll:Taariixu Tugal	Kategorio:Historio de Eŭropo
+Wàll:San Marino	Kategorio:San-Marino
+Wàll:Jordaani	Kategorio:Jordanio
+Wàll:Nikaraaguwa	Kategorio:Nikaragvo
+Wàll:Bosni	Kategorio:Bosnio kaj Hercegovino
+Wàll:Noorwees	Kategorio:Norvegio
+Wàll:Paraguwaay	Kategorio:Paragvajo
+Wàll:Liechtenstein	Kategorio:Liĥtenŝtejno
+Wàll:Onduras	Kategorio:Honduro
+Wàll:Uruguwaay	Kategorio:Urugvajo
+Wàll:Andoor	Kategorio:Andoro
+Wàll:Seerbi	Kategorio:Serbio
+Wàll:Salbadoor	Kategorio:Salvadoro
+Wàll:Ayiti	Kategorio:Haitio
+Wàll:Ekwadoor	Kategorio:Ekvadoro
+Wàll:Yaman	Kategorio:Jemeno
+Wàll:Peru	Kategorio:Peruo
+Wàll:Boliibi	Kategorio:Bolivio
+Wàll:Albaani	Kategorio:Albanio
+Wàll:Monaako	Kategorio:Monako
+Wàll:Cosaan	Kategorio:Tradicioj
+Wàll:Jén	Kategorio:Fiŝoj
+Wàll:Làkki Afrig	Kategorio:Lingvoj de Afriko
+Wàll:Dëkki Benesuwela	Kategorio:Urboj de Venezuelo
+Royuwaay:ESP	Ŝablono:ESP
+Wàll:Rab	Kategorio:Bestoj
+Wàll:Nauru	Kategorio:Nauro
+Wàll:Antigua ak Barbuda	Kategorio:Antigvo-Barbudo
+Wàll:Guyaana	Kategorio:Gujano
+Wàll:Koloombi	Kategorio:Kolombio
+Wàll:Hip Hop	Kategorio:Hiphopo
+Wàll:Alxuraan	Kategorio:Korano
+Wàll:Mbëjtekkaaral	Kategorio:Elektrostatiko
+Wàll:Mbëj	Kategorio:Elektro
+Wàll:Jëfandikukat pl	Kategorio:Vikipediisto pl
+Royuwaay:Coord/dec2dms/d	Ŝablono:Koord/dekalgms/g/dokumentado
+Wàll:Oseyaani	Kategorio:Oceanio
+Wàll:Montenegro	Kategorio:Montenegro
+Wàll:Moto	Kategorio:Veturiloj
+Wàll:Dëkki Senegaal	Kategorio:Urboj de Senegalo
+Wàll:Làkki senegaal	Kategorio:Lingvoj de Senegalo
+Ngelaw	Aero
+Wàll:Koom-koomu Afrig	Kategorio:Ekonomio de Afriko
+Royuwaay:UGA	Ŝablono:UGA
+Royuwaay:UZB	Ŝablono:UZB
+Wàll:Jëfandikukat de-5	Kategorio:Vikipediisto de-5
+Royuwaay:Coord/dec2dms/d1	Ŝablono:Koord/dekalgms/g1
+Royuwaay:Coord/dec2dms/dms	Ŝablono:Koord/dekalgms/gms
+Royuwaay:Coord/display/inline,title	Ŝablono:Koord/montru/entekste,titolo/dokumentado
+Royuwaay:Coord/dec2dms/dms1	Ŝablono:Koord/dekalgms/gms1
+Royuwaay:Coord/input/d	Ŝablono:Koord/enigu/g
+Royuwaay:Coord/input/dm	Ŝablono:Koord/enigu/gm
+Royuwaay:Coord/input/dms	Ŝablono:Koord/enigu/gms
+Trojany	Trojany
+Wàll:Njiiti Senegaal	Kategorio:Prezidantoj de Senegalo
+Royuwaay:Jëfandikukat it-4	Ŝablono:Vikipediisto it-4
+Royuwaay:Jëfandikukat io-1	Ŝablono:Vikipediisto io-1
+Royuwaay:RUW	Ŝablono:RWA
+Royuwaay:MLT	Ŝablono:MLT
+Royuwaay:Kña	Ŝablono:KEN
+Royuwaay:JAM	Ŝablono:JAM
+Wàll:Wallis ak Futuna	Kategorio:Valiso kaj Futuno
+Wàll:Aakimoo jawwu ji	Kategorio:Kosmoesploro
+Wàll:Jëfandikukat it-0	Kategorio:Vikipediisto it-0
+Wàll:Bés	Kategorio:Tagoj
+Wàll:Mbëjbijjaakon	Kategorio:Elektromagnetismo
+Wàll:Kàttan	Kategorio:Energio
+Wàll:Taariixu Isipt	Kategorio:Historio de la egipta civilizo
+Royuwaay:MNG	Ŝablono:MNG
+Royuwaay:BEL	Ŝablono:BEL
+Wàll:Melo	Kategorio:Koloroj
+Wàll:Jamono	Kategorio:Mezurunuoj de tempo
+Wàll:Nit ñi ci Téere Linjiil	Kategorio:Homoj de la Nova Testamento
+Wàll:Làkki Niseer-Cóngoo	Kategorio:Niĝerkonga lingvaro
+Wàll:Njëkk-taariix	Kategorio:Prahistorio
+Wàll:Jëfandikukat nl-0	Kategorio:Vikipediisto nl-0
+Royuwaay:HUN	Ŝablono:HUN
+Wàll:Jëfandikukat ru-0	Kategorio:Vikipediisto ru-0
+Wàll:Jëfandikukat es-0	Kategorio:Vikipediisto es-0
+Nguri	Vespo
+Royuwaay:Coord/display/title	Ŝablono:Koord/montru/titolo
+Royuwaay:Coord/input/ERROR	Ŝablono:Koord/enigu/ERARO
+Wàll:Jëfandikukat en-1	Kategorio:Vikipediisto en-1
+Wàll:Jëfandikukat de-1	Kategorio:Vikipediisto de-1
+Wàll:Jëfandikukat da-N	Kategorio:Vikipediisto da-D
+Wàll:Taariixu Afrig	Kategorio:Historio de Afriko
+Royuwaay:Coord/dec2dms/dm1	Ŝablono:Koord/dekalgms/gm1
+Royuwaay:Style/IPA	Ŝablono:Style/IPA
+Royuwaay:Style/yid	Ŝablono:Style/yid
+Coreca	Coreca
+Jagleel:Coppite yu mujj	Specialaĵo:Lastaj ŝanĝoj
+Wàll:Jëfandikukat ja-4	Kategorio:Vikipediisto ja-4

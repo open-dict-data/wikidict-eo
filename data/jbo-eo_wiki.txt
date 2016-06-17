@@ -1,0 +1,1461 @@
+frikytu'a	Afriko
+pongu'e	Japanio
+ketytu'a	Sudameriko
+noreg	Norvegio
+airland	Irlando
+madjiar	Hungario
+sangu'e	Hispanio
+mergu'e	Usono
+beldjym	Belgio
+lEtsyburg	Luksemburgo (lando)
+terdi	Tero
+remna	Homo
+gugdrsu,omi	Finnlando
+sueriges	Svedio
+danmark	Danio
+polskas	Pollando
+lietuvas	Litovio
+italias	Italio
+elvetias	Svislando
+ysteraic	Aŭstrio
+xesygu'e	Grekio
+turk	Turkio
+birje	Biero
+potygu'e	Portugalio
+rontu'a	Eŭropo
+zdotu'a	Azio
+bemtu'a	Nordameriko
+ziptu'a	Antarkto
+uikipidias	Vikipedio
+nederland	Nederlando
+pinji	Peniso
+niu,IORK. zei tcadu	Novjorko
+.uacintyn. zei tcadu	Vaŝingtono
+berlin	Berlino
+skami	Komputilo
+tcadrjenevu	Ĝenevo
+byRAK.obamas	Barack Obama
+uruguais	Urugvajo
+london	Londono
+plise	Pomo
+paris	Parizo
+mexygu'e	Meksiko
+atlantik. zei braxamsi	Atlantika Oceano
+pasifik. zei braxamsi	Pacifika Oceano
+kalifornias	Kalifornio
+pavma'i	Januaro
+relma'i	Februaro
+mars	Marso
+kenias	Kenjo
+itiopias	Etiopio
+cinfo	Leono
+fasygu'e	Francio
+esperantos	Esperanto
+gerku	Hundo
+ritygu'e	Unuiĝinta Reĝlando
+mlatu	Hejma kato
+jugygu'e	Ĉina Popola Respubliko
+fasybau	Franca lingvo
+finpe	Fiŝoj
+razgu'e	Brazilo
+rukygu'e	Rusio
+xamsi	Maro
+xekri xamsi	Nigra Maro
+alybamas	Alabamo
+sankt. paulos	San-Paŭlo (urbo)
+dotygu'e	Germanio
+belrus	Belorusio
+dotybau	Germana lingvo
+island	Islando
+estis	Estonio
+saturn	Saturno (planedo)
+ci'i	Senfineco
+djordj. ualker. buc	George W. Bush
+vurgu'e	Ukrainio
+tcesk.zei gubyseltru	Ĉeĥio
+slovensk	Slovakio
+slovEni,as	Slovenio
+moldovas	Moldava Respubliko
+romanias	Rumanio
+bylgAri,as	Bulgario
+romas	Romo
+xrvatskas	Kroatio
+andoras	Andoro
+kazaksTAN	Kazaĥio
+maltas	Malto
+brusel.	Brusela Ĉefurba Regiono
+kubas	Kubo
+beliz	Belizo
+bidgu'e	Indonezio
+vulfygan.amade,us.motsart	Wolfgang Amadeus Mozart
+ludvix.fan.beitoven	Ludwig van Beethoven
+nanfi'ogu'e	Sud-Afriko
+jexygu'e	Alĝerio
+djacu	Akvo
+tciles	Ĉilio
+iesus	Jesuo Kristo
+galileos.galileis	Galilejo
+merkurios	Merkuro (planedo)
+citri	Historio
+venus	Venuso (planedo)
+bangu	Lingvo
+barda tarci bo girzu	Galaksio
+iupiter	Jupitero (planedo)
+uranos	Urano (planedo)
+neptun	Neptuno (planedo)
+kesyske	Astronomio
+singapura	Singapuro
+saske	Scienco
+mu'eske	Kosmologio
+pluton	Plutono
+lictenctain	Liĥtenŝtejno
+.adolf. .itlyr.	Adolf Hitler
+remoi ke terdi nunjamna	Dua mondmilito
+ubuntus	Ubuntu (linukso)
+linuks	Linukso
+cmaci	Matematiko
+U2	U2
+xigzo	Bosono de Higgs
+serbias	Serbio
+lunra	Luno
+sralygu'e	Aŭstralio
+termu'eske	Fiziko
+getygu'e	Argentino
+perus	Peruo
+mivyske	Biologio
+berti zei .dcosyn	Nord-Koreio
+danlu kamjikyzi'e	Bestaj rajtoj
+dalske	Bestoscienco
+musyjda	Islamo
+spaske	Plantoscienco
+lex.wauensas.	Lech Wałęsa
+lion	Liono
+ropno gunma	Eŭropa Unio
+ninmu	Virino
+pemci	Poezio
+badna	Banano
+napoleon	Napoleono Bonaparte
+tarci	Stelo
+solri	Suno
+lu'is. pastyr.	Louis Pasteur
+viktor.ugos	Victor Hugo
+poltu'a	Oceanio
+solri ciste	Sunsistemo
+baltik. xamsi	Balta Maro
+cidro	Hidrogeno
+solnavni	Heliumo
+roksodna	Litio
+jinmrberilo	Berilio
+djedi	Tago
+nicte	Nokto
+nanca	Jaro
+ctona'a	Jarcento
+tcadrkatovitse	Katowice
+jicmrboro	Boro
+.nikolaus.kopernikus	Koperniko
+tabno	Karbono
+trano	Nitrogeno
+kijno	Oksigeno
+plini	Planedo
+zgike	Muziko
+lil.	Lille
+moskovas	Moskvo
+li'orkliru	Fluoro
+ninynavni	Neono
+sankt. peterburg	Sankt-Peterburgo
+tcad	Ĉado
+sodna	Natrio
+lidgusyjinme	Magnezio
+jinmrmalume	Aluminio
+zis. poi cnino	Nov-Zelando
+xingu'e	Barato
+cancmu	Silicio
+fasysodna	Franciumo
+sackycmu	Fosforo
+tirse	Fero
+sliri	Sulfuro
+kliru	Kloro
+.uiliam. cekspir.	William Shakespeare
+laznynavni	Argono
+sodnrkali	Kalio
+bogjinme	Kalcio
+cnisa	Plumbo
+mongolo	Mongolio
+jinmrskandi	Skandio
+jinmrtitani	Titano (elemento)
+benesuel	Venezuelo
+caxmati	Ŝako
+tcingis. xan	Ĝingis-Ĥano
+jinmrvanadi	Vanado
+rogjinme	Kromo
+xirma	Ĉevalo
+danlu	Bestoj
+surinam	Surinamo
+jinmrmanga	Mangano
+paraguais	Paragvajo
+gudjanas	Gujano
+larcu	Arto
+ekuador	Ekvadoro
+jinmlreni	Renio
+kolombias	Kolombio
+ridjinme	Kobalto
+jarjinme	Volframo
+nikle	Nikelo
+bu'ojda	Budhismo
+bolivias	Bolivio
+jinmrbosmi	Osmio
+tunka	Kupro
+spati	Plantoj
+zinki	Zinko
+leonardos.davintcis	Leonardo da Vinci
+djamaikas	Jamajko
+guatemal	Gvatemalo
+onduras	Honduro
+artik.zei braxamsi	Arkta Oceano
+salbador	Salvadoro
+iran	Irano
+raksygu'e	Irako
+kostarikas	Kostariko
+brogu'e	Israelo
+nowy.sontc	Nowy Sącz
+panamas	Panamo
+jorgu'e	Jordanio
+nikaraguas	Nikaragvo
+ku,uait	Kuvajto
+luaos	Laoso
+lu'orgu'e	Libano
+oregon	Oregono
+mejgu'e	Malajzio
+nepal	Nepalo
+kisygu'e	Pakistano
+djogu'e	Sauda Arabio
+stalin.	Josif Stalin
+sixygu'e	Sirio
+platon	Platono
+fasyjinme	Galiumo
+dotyjinme	Germaniumo
+aristoteles	Aristotelo
+tais	Tajlando
+arseniko	Arseno
+lurcmu	Seleno
+jinmrdiridi	Iridio
+xunkliru	Bromo
+jinmrplati	Plateno
+vietnam	Vjetnamio
+novosibirsk	Novosibirsko
+snanu zei .xanguk	Sud-Koreio
+mipnavni	Kriptono
+afyganisTAN	Afganio
+jyryrys. tolkien	John Ronald Reuel Tolkien
+xunsodna	Rubidio
+solji	Oro
+begygu'e	Bangladeŝo
+xorxes.luis.borxes	Jorge Luis Borges
+sokrates	Sokrato
+angol	Angolo
+tanzanias	Tanzanio
+margu	Hidrargo
+pilipinas	Filipinoj
+jinmrtali	Taliumo
+aisak.niuton	Isaac Newton
+la opyn,strit,map	OpenStreetMap
+albert. ainctain	Albert Einstein
+jinmrstronti	Stroncio
+jinmrtitri	Itrio
+jinmrbismu	Bismuto
+tunis	Tunizio
+zambias	Zambio
+zimbabues	Zimbabvo
+beidjin	Pekino
+benin	Benino
+botsuanas	Bocvano
+kongos	Respubliko Kongo
+ob	Obo
+roltrusi'o zei.kongos	Demokratia Respubliko Kongo
+jicmrpoloni	Polonio
+badenvirtemberg	Baden-Virtembergo
+klirlxastati	Astato
+gabon	Gabono
+kamerun	Kameruno
+libgu'e	Libio
+morgu'e	Maroko
+mosambik	Mozambiko
+namibias	Namibio
+nixerias	Niĝerio
+carl. daruin.	Charles Darwin
+ugandas	Ugando
+jinmrzirkoni	Zirkonio
+senegal	Senegalo
+sieras. leon	Siera-Leono
+somalias	Somalio
+jinmrni,obi	Niobio
+.iulius. kaisar.	Julio Cezaro
+sudan	Sudano
+mlibdena	Molibdeno
+runjinme	Teknecio
+gunma natmi	Unuiĝintaj Nacioj
+ligytedyske	Geologio
+tutske	Geografio
+risna	Koro
+besna	Cerbo
+skari	Koloro
+pragas	Prago
+rukyjinme	Rutenio
+zgujinme	Rodio
+jinmrpaladi	Paladio
+rijno	Arĝento
+jinmrkadmu	Kadmio
+blajinme	Indio
+tinci	Stano
+jinmrvurani	Uranio
+antimoni	Antimono
+tedjicmu	Teluro
+jinmrplutoni	Plutonio
+zirkliru	Jodo
+jinmrneptuni	Neptunio
+fangynavni	Ksenono
+blasodna	Cezio
+jinmrproktini	Protaktinio
+tijyjinme	Bario
+lidycevjinme	Torio
+jinmrxafni	Hafnio
+jinmrtaktini	Aktinio
+jinmrtantalu	Tantalo
+bil. klinton	William J. Clinton
+dircyjinme	Radiumo
+dircynavni	Radono
+mymbais	Mumbajo
+jinmlruterfordi	Ruterfordio
+jinmrdubni	Dubnio
+jinmrsiborgi	Seborgio
+xindo braxamsi	Hinda Oceano
+karibes. zei xamsi	Kariba Maro
+jinmrbori	Borio
+jinmrxasi	Hasio
+jinmrmaitneri	Mejtnerio
+kolorados	Koloradio
+jinmrdarmctati	Darmŝtatio
+crisa	Somero
+cteduncitsi	Ekvinokso
+sanbau	Hispana lingvo
+io'an.zebastian.bax	Johann Sebastian Bach
+niu,IORK	Nov-Jorkio
+jinmrseri	Cerio
+jinmrprase,odimi	Prazeodimo
+jinmrne,odimi	Neodimo
+lenin	Lenin
+ronjinme	Eŭropio
+uetersen	Uetersen
+la canko	Microsoft Windows
+manilias.	Manilo
+buenosaires	Bonaero
+mexygu'e tcadu	Meksik-urbo
+tokios	Tokio
+atenas	Ateno
+bagdad	Bagdado
+nil.armstryg.	Neil Armstrong
+berti xamsi	Norda Maro
+eliogabalus	Elagabalo
+jinmrlantano	Lantano
+fagycevjinme	Prometio
+jinmrsamari	Samario (kemio)
+jinmrgadolini	Gadolinio
+jinmrterbi	Terbio
+jinmrdisprosi	Disprozio
+jinmrxolmi	Holmio
+jinmrberbi	Erbio
+jinmrtuli	Tulio
+Ho Chi Minh tcadu	Ho-Ĉi-Min-urbo
+jinmrtiterbi	Iterbio
+jinmrluteti	Lutecio
+stace lijda befi la .iecuax	Vera Eklezio de Jesuo
+glibau	Angla lingvo
+merjinme	Americio
+jinmrkuri	Kuriumo
+dong. xois.	Dong Hoi
+konsepSION	Koncepciono
+jinmrberkeli	Berkelio
+jinmrkaliforni	Kaliforniumo
+jinmrtainctaini	Ejnŝtejnio
+jinmrfermi	Fermio
+jinmrmendelevi	Mendelevio
+jinmrnobeli	Nobelio
+jinmrlorensi	Laŭrencio (elemento)
+konskovola	Końskowola
+2000moi	2000
+2003moi	2003
+2002moi	2002
+2001moi	2001
+tabrelkijno	Karbona dioksido
+2004moi	2004
+2005moi	2005
+2006moi	2006
+2007moi	2007
+1901moi	1901
+carl. dygol.	Charles de Gaulle
+1903moi	1903
+1904moi	1904
+1907moi	1907
+1906moi	1906
+1908moi	1908
+1992moi	1992
+1991moi	1991
+1990moi	1990
+1993moi	1993
+1994moi	1994
+1995moi	1995
+1996moi	1996
+1911moi	1911
+1913moi	1913
+1916moi	1916
+1997moi	1997
+1998moi	1998
+1999moi	1999
+1917moi	1917
+cidja	Manĝaĵo
+nilsutra lo gusni	Lumrapido
+pavma'i 1moi	1-a de januaro
+pavma'i 2moi	2-a de januaro
+pavma'i 3moi	3-a de januaro
+1919moi	1919
+pavma'i 4moi	4-a de januaro
+1923moi	1923
+cmaplini	Nanoplanedo
+pavma'i 5moi	5-a de januaro
+pavma'i 6moi	6-a de januaro
+dutydikca kantu	Elektrono
+pavma'i 7moi	7-a de januaro
+pavma'i 9moi	9-a de januaro
+pavma'i 10moi	10-a de januaro
+pavma'i 17moi	17-a de januaro
+pavma'i 18moi	18-a de januaro
+pavma'i 19moi	19-a de januaro
+pavma'i 20moi	20-a de januaro
+pavma'i 21moi	21-a de januaro
+pavma'i 22moi	22-a de januaro
+pavma'i 23moi	23-a de januaro
+latmo sosygugje'a	Romia Imperio
+pavma'i 24moi	24-a de januaro
+pavma'i 25moi	25-a de januaro
+pavma'i 26moi	26-a de januaro
+maikrosaft	Microsoft
+pavma'i 27moi	27-a de januaro
+pavma'i 28moi	28-a de januaro
+pavma'i 29moi	29-a de januaro
+pavma'i 30moi	30-a de januaro
+pavma'i 31moi	31-a de januaro
+pavrelma'i 9moi	9-a de decembro
+relma'i 1moi	1-a de februaro
+relma'i 2moi	2-a de februaro
+relma'i 3moi	3-a de februaro
+kuruf	Kurów
+relma'i 4moi	4-a de februaro
+relma'i 5moi	5-a de februaro
+relma'i 6moi	6-a de februaro
+relma'i 7moi	7-a de februaro
+relma'i 8moi	8-a de februaro
+relma'i 9moi	9-a de februaro
+relma'i 10moi	10-a de februaro
+xumske	Kemio
+relma'i 14moi	14-a de februaro
+relma'i 13moi	13-a de februaro
+relma'i 15moi	15-a de februaro
+relma'i 11moi	11-a de februaro
+relma'i 12moi	12-a de februaro
+relma'i 19moi	19-a de februaro
+relma'i 17moi	17-a de februaro
+relma'i 16moi	16-a de februaro
+relma'i 18moi	18-a de februaro
+relma'i 20moi	20-a de februaro
+relma'i 21moi	21-a de februaro
+relma'i 22moi	22-a de februaro
+relma'i 23moi	23-a de februaro
+relma'i 24moi	24-a de februaro
+relma'i 25moi	25-a de februaro
+relma'i 26moi	26-a de februaro
+relma'i 27moi	27-a de februaro
+relma'i 28moi	28-a de februaro
+cibma'i 2moi	2-a de marto
+cibma'i 3moi	3-a de marto
+cibma'i 5moi	5-a de marto
+cibma'i 1moi	1-a de marto
+cibma'i 7moi	7-a de marto
+cibma'i 8moi	8-a de marto
+cibma'i 4moi	4-a de marto
+cibma'i 10moi	10-a de marto
+cibma'i 11moi	11-a de marto
+cibma'i 6moi	6-a de marto
+cibma'i 13moi	13-a de marto
+cibma'i 9moi	9-a de marto
+cibma'i 12moi	12-a de marto
+cibma'i 15moi	15-a de marto
+cibma'i 14moi	14-a de marto
+cibma'i 16moi	16-a de marto
+cibma'i 17moi	17-a de marto
+cibma'i 18moi	18-a de marto
+cibma'i 19moi	19-a de marto
+1989moi	1989
+1988moi	1988
+cibma'i 20moi	20-a de marto
+1987moi	1987
+1986moi	1986
+1985moi	1985
+1984moi	1984
+cibma'i 21moi	21-a de marto
+1983moi	1983
+cibma'i 22moi	22-a de marto
+1982moi	1982
+1981moi	1981
+1980moi	1980
+cibma'i 23moi	23-a de marto
+cibma'i 24moi	24-a de marto
+cibma'i 25moi	25-a de marto
+cibma'i 26moi	26-a de marto
+cibma'i 27moi	27-a de marto
+cibma'i 28moi	28-a de marto
+cibma'i 29moi	29-a de marto
+cibma'i 30moi	30-a de marto
+cibma'i 31moi	31-a de marto
+1970moi	1970
+1971moi	1971
+1972moi	1972
+1973moi	1973
+1974moi	1974
+1975moi	1975
+1976moi	1976
+1977moi	1977
+1978moi	1978
+1969moi	1969
+vonma'i 15moi	15-a de aprilo
+vonma'i 13moi	13-a de aprilo
+vonma'i 12moi	12-a de aprilo
+vonma'i 14moi	14-a de aprilo
+vonma'i 11moi	11-a de aprilo
+vonma'i 10moi	10-a de aprilo
+vonma'i 8moi	8-a de aprilo
+vonma'i 9moi	9-a de aprilo
+vonma'i 7moi	7-a de aprilo
+vonma'i 6moi	6-a de aprilo
+vonma'i 5moi	5-a de aprilo
+vonma'i 4moi	4-a de aprilo
+vonma'i 3moi	3-a de aprilo
+vonma'i 1moi	1-a de aprilo
+vonma'i 2moi	2-a de aprilo
+vonma'i 16moi	16-a de aprilo
+vonma'i 17moi	17-a de aprilo
+vonma'i 18moi	18-a de aprilo
+vonma'i 19moi	19-a de aprilo
+vonma'i 20moi	20-a de aprilo
+vonma'i 21moi	21-a de aprilo
+vonma'i 22moi	22-a de aprilo
+vonma'i 23moi	23-a de aprilo
+vonma'i 24moi	24-a de aprilo
+vonma'i 25moi	25-a de aprilo
+vonma'i 26moi	26-a de aprilo
+vonma'i 27moi	27-a de aprilo
+vonma'i 28moi	28-a de aprilo
+vonma'i 29moi	29-a de aprilo
+vonma'i 30moi	30-a de aprilo
+mumyma'i 1moi	1-a de majo
+mumyma'i 2moi	2-a de majo
+mumyma'i 3moi	3-a de majo
+mumyma'i 4moi	4-a de majo
+mumyma'i 5moi	5-a de majo
+mumyma'i 6moi	6-a de majo
+mumyma'i 7moi	7-a de majo
+mumyma'i 8moi	8-a de majo
+mumyma'i 29moi	29-a de majo
+xavma'i 6moi	6-a de junio
+xavma'i 1moi	1-a de junio
+1968moi	1968
+1967moi	1967
+1966moi	1966
+1965moi	1965
+1964moi	1964
+xavma'i 29moi	29-a de junio
+arnold. cyvartseneger	Arnold Schwarzenegger
+zelma'i 2moi	2-a de julio
+zelma'i 4moi	4-a de julio
+zelma'i 1moi	1-a de julio
+1963moi	1963
+pavrelma'i 26moi	26-a de decembro
+1962moi	1962
+bivma'i 24moi	24-a de aŭgusto
+fraiburg	Freiburg
+marna snexu'i	Mariĥuano
+sozma'i 26moi	26-a de septembro
+antuan. dy. sant,egzuperis	Antoine de Saint-Exupéry
+pavrelma'i 31moi	31-a de decembro
+pavnonma'i 29moi	29-a de oktobro
+pavypavma'i 8moi	8-a de novembro
+pavypavma'i 2moi	2-a de novembro
+xunre	Ruĝa
+.ganymid.	Ganimedo (luno)
+anil. zei rirxe	Nilo
+1961moi	1961
+1960moi	1960
+amazonas. zei rirxe	Amazono (rivero)
+Wikipedia:ciptumla	Vikipedio:Provejo
+alxebra	Algebro
+remna xadyske	Homa anatomio
+rirxe	Rivero
+kuritcibas	Kuritibo
+pitr.djeksyn	Peter Jackson
+kongzi	Konfuceo
+korbin blys	Corbin Bleu
+Category:cmaci	Kategorio:Matematiko
+ronru'u	Eŭro
+mijytu'a xamsi	Mediteraneo
+xi'ojda	Kristanismo
+Template:tugni	Ŝablono:Por
+rismi	Rizo
+braplu	Kontinento
+cipni	Birdoj
+monZON	Monzono
+masti	Monato
+1948moi	1948
+1949moi	1949
+almaZAN	Almazán
+Huang Xianfan	Huang Senfan
+1956moi	1956
+1941moi	1941
+1945moi	1945
+1958moi	1958
+1926moi	1926
+1947moi	1947
+1944moi	1944
+1952moi	1952
+krilytabno	Diamanto
+bil. geits	Bill Gates
+ponbau	Japana lingvo
+ralju ckupau	Vikipedio:Ĉefpaĝo
+1959moi	1959
+pistabno	Grafito
+1957moi	1957
+siberias	Siberio
+baikal. zei lalxu	Bajkalo
+mitcelyngelos	Mikelanĝelo
+makax	Mekko
+tces.gevaras	Che Guevara
+ma'os. dzedon.	Mao Zedong
+vibna	Vagino
+pijyske	Filozofio
+Category:sutra vimcu	Kategorio:Tujforigendaj artikoloj
+pipno	Piano
+tcati	Teo
+kaurpo'esi'o	Komunismo
+nonje'asi'o	Anarkiismo
+viltrusi'o	Faŝismo
+gugde	Lando
+1452moi	1452
+1453moi	1453
+Category:kesyske	Kategorio:Astronomio
+Stanisław Lem	Stanisław Lem
+sa'aras.zei kutytu'a	Saharo
+jgita	Gitaro
+karl.fridrix.gaus	Carl Friedrich Gauss
+1627moi	1627
+1807moi	1807
+1809moi	1809
+19xyxymoi	20-a jarcento
+1725moi	1725
+1812moi	1812
+20xyxymoi	21-a jarcento
+1814moi	1814
+1815moi	1815
+18xyxymoi	19-a jarcento
+17xyxymoi	18-a jarcento
+15moi na'acto	15-a jarcento
+caurceisi'o	Ateismo
+emis.nyter	Emmy Noether
+friko gunma	Afrika Unio
+ginske	Genetiko
+plajva	Politiko
+roltrusi'o	Demokratio
+maris.kuris	Marie Curie
+aleksandr. puckin	Aleksandr Puŝkin
+jmive	Organismo
+mark.tuein	Mark Twain
+.alan turin	Alan Turing
+cemtrusi'o	Socialismo
+tadjycolnunte'a	Terorismo
+kristoforos.kolombos.	Kristoforo Kolumbo
+ernan.kortes	Hernán Cortés
+.iuxil.gygaxin.	Jurij Aleksejeviĉ Gagarin
+banli lalxu	Grandaj Lagoj (Nordameriko)
+dzipo braxamsi	Suda Oceano
+kerlo	Orelo
+nazbi	Nazo (organo)
+kanla	Okulo
+mabru	Mamuloj
+xanto	Elefanto
+ritcard. stalman	Richard Stallman
+rirni	Generinto
+1830moi	1830
+1831moi	1831
+1743moi	1743
+1834moi	1834
+1836moi	1836
+leonard.euler	Leonhard Euler
+1848moi	1848
+1683moi	1683
+1852moi	1852
+1691moi	1691
+1862moi	1862
+1780moi	1780
+1869moi	1869
+rukybau	Rusa lingvo
+1782moi	1782
+1870moi	1870
+flalu	Leĝo (jura)
+zginroknro	Rokenrolo
+1788moi	1788
+xelso citri	Historio de Grekio
+nanba	Pano
+1794moi	1794
+1882moi	1882
+1885moi	1885
+1887moi	1887
+jugbau	Ĉina lingvaro
+ji'esle	Ĉelo (biologio)
+fepri	Pulmo
+samselkei	Komputila ludo
+ctuske	Pedagogio
+samsmacu	Komputila muso
+rarske	Naturscienco
+tedyske	Terscienco
+.uinstyn. tcyrtcil.	Winston Churchill
+dilnu	Nubo
+logji	Logiko
+gerna	Gramatiko
+vlile carna xamsi brife	Uragano
+nintendos	Nintendo
+dinske	Ekonomiko
+bauske	Lingvoscienco
+zdosible'u	Ĉina skribo
+latmo lerfu	Latina alfabeto
+Category:bulgarias	Kategorio:Bulgario
+Category:fasygu'e	Kategorio:Francio
+Category:zgike	Kategorio:Muziko
+zgirjazu	Ĵazo
+remce'u	Socio
+lanzu	Familio
+nanmu	Viro
+remna selcru	Homaj rajtoj
+selbaise'u	Sklaveco
+ckafi	Kafo
+ladru	Lakto
+cmana	Monto
+simon.bolivar	Simón Bolívar
+rios. dis. djaneiros	Rio-de-Ĵanejro
+canxais.	Ŝanhajo
+euklides	Eŭklido
+jo'anes. kepler.	Keplero
+maks.plank	Max Planck
+kuarizmis	Al-Ĥorazmi
+nom.tcomskis	Noam Chomsky
+karl. marks	Karl Marx
+volter	Voltaire
+ratni	Atomo
+gusni	Lumo
+xesybau	Greka lingvo
+samplabau	Programlingvo
+bangrmalti	Malta lingvo
+lijda	Religio
+rynes dekart	René Descartes
+zikmunt. freut.	Sigmund Freud
+lijdrdjaina	Ĝajnismo
+.adam. smit.	Adam Smith
+ractu	Kuniklo
+menske	Psikologio
+braxamsi	Oceano
+sidartas.gautamas	Sidarto Gotamo
+marde	Etiko
+vasxu	Spirado
+bybycys	BBC
+moklu	Buŝo
+canti	Digesta sistemo
+lerfu	Litero
+Ronald Reagan	Ronald Reagan
+bangrklingo	Klingona lingvo
+kampindi	Malriĉeco
+kanba solgrixra	Kaprikorno (konstelacio)
+jaurbei solgrixra	Akvisto
+Category:benesuel	Kategorio:Venezuelo
+dikni selratni cartu	Perioda tabelo
+respa	Reptilioj
+banfi	Amfibioj
+skoselti'e	Ĥorduloj
+sutra binxo	Revolucio
+cirla	Fromaĝo
+sakta	Sukero
+mi'irlarcu	Teknologio
+fonxa	Telefono
+kulnu	Kulturo
+xukmi veljmina	Kemia kombinaĵo
+sapme'ocmaci	Aritmetiko
+Category:razgu'e	Kategorio:Brazilo
+Category:romanias	Kategorio:Rumanio
+selratni	Kemia elemento
+fancu	Funkcio (matematiko)
+xumsle	Molekulo
+dicmakseldi'e	Elektromagneta ondo
+maircpukai	Gravito
+gos	Goo
+skina	Filmo
+jinme	Metalo (fiziko)
+gasta	Ŝtalo
+gapci	Gaso
+sligu	Solido
+sance	Sono
+cipra	Matematika pruvo
+namcu	Nombro
+relcimdyna'u	Kompleksa nombro
+mitre	Metro
+snidu	Sekundo
+zumri	Maizo
+kelvo	Kelvino
+cintylarcu	Pentrado
+dansu	Danco
+rutni menli	Artefarita inteligenteco
+uuxan	Vuhano
+gugde liste	Listo de sendependaj ŝtatoj
+prucitri	Prahistorio
+rokci cedra	Ŝtonepoko
+ransu cedra	Bronzepoko
+cribe	Urso
+tixa	Tychy
+gurni	Greno
+madjan	Maĝango
+cripu	Ponto
+silna	Salo (kemio)
+treci'e	Internacia sistemo de unuoj
+nacycmaci	Nombroteorio
+jungo ke banli bitmu	Granda Ĉina Muro
+mulna'u	Entjero
+la'ortu'a	Latin-Ameriko
+mexygu'e xamsi	Meksika Golfo
+cladakyxa'i	Glavo
+remoi me la fernandos. pe la .aragon	Fernando la 2-a (Aragono)
+pavycimdyna'u	Reelo
+frederik. bastias	Frédéric Bastiat
+drupepa	Drupo
+djirafa	Ĝirafo (specio)
+sofygu'e	Sovetunio
+selrunme	Fandopunkto
+Queen	Queen
+rober.cuman	Robert Schuman
+Template:Link FA	Ŝablono:LigoElstara
+konstantinupolis	Konstantinopolo
+monopolis	Monopolo (ludo)
+strutione	Struto
+dcosyn/xanguk	Koreio
+1927moi	1927
+abumoi mivytcuxu'i	Vitamino A
+djeims.kuk.braun	James Cooke Brown
+1955moi	1955
+1954moi	1954
+1953moi	1953
+1951moi	1951
+1950moi	1950
+1946moi	1946
+1943moi	1943
+1942moi	1942
+1940moi	1940
+1939moi	1939
+1937moi	1937
+1936moi	1936
+1934moi	1934
+1933moi	1933
+1932moi	1932
+1930moi	1930
+mlijilkle	Teralkala metalo
+binjimkle	Transirmetalo
+klirylei	Halogeno
+luvr	Luvro
+1928moi	1928
+xindo ropno bangu	Hindeŭropa lingvaro
+tirxu	Tigro
+cidjrspageti	Spagetoj
+bertu'a	Skandinavio
+kacna'u	Natura nombro
+sornai bacru alfabeta	Internacia Fonetika Alfabeto
+sovmabru	Monotremoj
+ctile	Nafto
+lalxu	Lago
+di,orsais. zei muzga	Musée d'Orsay
+remske	Antropologio
+daplu	Insulo
+blabi	Blanko
+997moi	997
+stedu	Kapo
+timske	Meteologio
+jacke'o	Grado celsia
+sirenias	Sireno (besto)
+troneim	Trondheim
+1xyxyxymoi	2-a jarmilo
+0xyxyxymoi	1-a jarmilo
+2xyxyxymoi	3-a jarmilo
+pifcpi	Buceredoj
+beryrontu'a	Norda Eŭropo
+mijropno	Mezeŭropo
+sanga	Kantado
+selpliske	Aplikataj sciencoj
+paiton	Python (programlingvo)
+denmi	Denso
+pinpedi	Fokuloj
+avril.lavin	Avril Lavigne
+sumji	Adicio
+runbau	Konstruita lingvo
+pardali	Oceloto
+lev. trotskis	Lev Trockij
+cionmau la barda	Granda pando
+bercribe	Blanka urso
+runbau liste	Listo de planlingvoj kaj planlingvaj projektoj
+rarbau	Natura lingvo
+pidjni	Piĝino
+plugri	Insularo
+fla,ui,us.klaudius.iulianus	Juliano la Apostato
+xeldraci	Aktoro
+fla,ui,us.klaudius.io,ui,anus	Joviano
+la by sy dy poi gubni	OpenBSD
+zgitci	Muzika instrumento
+zbabu	Sapo
+198xymoi	1980-aj jaroj
+199xymoi	1990-aj jaroj
+makfartci	Kompaso
+rutrpaupau	Papajo
+200xymoi	2000-aj jaroj
+liste be lo merja'a	Listo de prezidantoj de Usono
+nikitas. xrucof.	Nikita Ĥruŝĉov
+rabybau	Araboj
+titikakas. zei lalxu	Lago Titikako
+voksnaske	Fonetiko
+mergu'e vipygu'e	Usona ŝtato
+192moi na'ardekto	1920-aj jaroj
+marji	Materio
+bambusa	Bambuo
+interlingua	Interlingvao
+mleske	Estetiko
+finci'a	Verkisto
+lojban.	Loĵbano
+loglan	Loglano
+ctemidju	Noktomezo
+ki'orna'a	Jarmilo
+zgifi'i	Komponisto
+rianys	Rihanna
+tokiponas	Tokipono
+volapuk	Volapuko
+Tociro Mifune	Mifune Toshiro
+zgirpopu	Pop-muziko
+alzaitu	Olivarbo
+boxna	Ondo
+preske	Instruisto
+genlalske	Sintakso
+zunsna	Konsonanto
+zatsi'o	Ekzistadismo
+nobel.zei termu'eske velne'u	Nobel-premio pri fiziko
+rafske	Morfologio (lingvo)
+184moi na'ardekto	1840-aj jaroj
+ka sezga'o	Aŭtismo
+remna kamfarvi namcu	Indico de homa disvolviĝo
+smuske	Semantiko
+lastu	Latuno
+dekna'a	Jardekoj
+selpinxe	Trinkaĵo
+jordo rirxe	Jordano
+vraga	Levilo
+merko jecta vlile binxo fasnu	Usona Milito de Sendependeco
+odbenu	Rosmaro
+snage'a	Fonologio
+kurt.gedyl	Kurt Gödel
+dujro'i	Magmorokaĵo
+biork	Björk
+be'ejda be lei fanmo djedi cespre bei la iecy,ys.krist	Eklezio de Jesuo Kristo de la Sanktuloj de la Lastaj Tagoj
+trixexo	Manato
+dikca mi'irlarcu	Elektrotekniko
+kantrbocuni	Bosono
+xasyske	Oceanografio
+mataios	Sankta Mateo
+mu'amad.djunus	Muhammed Yunus
+ranmi	Legendo
+ritcard.dokinz	Richard Dawkins
+gynus	GNU
+182moi na'ardekto	1820-aj jaroj
+imazixen	Berberoj
+The Doors	The Doors
+rikteropu	Orikteropo
+fla,ui,us.iulius konstantius	Konstancio la 2-a
+ma'arlinsi	Montara sistemo
+djosef.smit	Joseph Smith
+auskalerik	Eŭskio
+grin.deis	Green Day
+363moi	363
+fedoras	Fedora
+nalfendi kacna'u	Primo
+Template:selro'i datyta'e	Ŝablono:Informkesto mineralo
+Template:Taxobox	Ŝablono:Taksonomio
+jbonunsla	Biciklado
+toiotas	Toyota
+visbis	Visby
+astrid. lindgren	Astrid Lindgren
+sambau	Maŝinkodo
+gombesa	Celakantoformaj
+rafsi	Afikso
+.siluren. cedran.	Silurio
+la glico selmikce	The English Patient (filmo)
+.devon. cedran.	Devonio
+karl. von. klausevits	Carl von Clausewitz
+me la napoleon nunjamna	Napoleonaj Militoj
+tcimpazi	Ĉimpanza genro
+aris.puakares	Henri Poincaré
+bolci danti cecla xarci	Kanono
+nimre	Citruso
+akenatyn	Aĥnaton
+onkapi	Okapio
+cmevla	Nomo
+nalre'ucti	Vegetarismo
+oradeas	Oradea
+nalvelganzu sligu	Amorfa solido
+fu'ivla	Lingva prunto
+rokci pelji jinci	Papero, tondilo, ŝtono
+gismu	Etimo
+namsos	Namsos
+condi jorne xamsi	Profunda submara fosego
+mivyfu'i	Klonado
+1036 .ganymed.	1036 Ganimedo
+snanilsutra	Rapido de sono
+skalduna	Eŭskoj
+nikolaus.lobatceskis	Nikolaj Ivanoviĉ Lobaĉevskij
+ketlete	Korpomasa indico
+konstantius.xlorus	Konstancio Ĥloro
+me la .OIdipus. stura	Edipa konflikto
+cange	Bieno
+befsraku	Seppuku
+iosef.ben.matitia'uv	Jozefo Flavio
+kumte	Kameledoj
+sordaivla	Pluralo
+Wikipedia:galfi lo ckupau ta'i ma kau	Helpo:Redakti
+moresnet	Moresnet
+spatrmeliace	Meliacoj
+mari'an.re'iefskis	Marian Rejewski
+jgenanba	Breco
+euklidi tamcmaci	Eŭklida geometrio
+prolog	Prolog
+starkraft	StarCraft
+nunjamna le gligu'e la zanzibar	Angla-zanzibara milito
+Nagardjunas	Nagarĝunao
+fi'orxruki	Numidedoj
+cagyske	Agronomio
+nikaraguas. zei lalxu	Lago de Nikaragvo
+cevni	Diaĵo
+mluske to pijyske	Fenomenologio
+tabra	Latuna blovinstrumento
+cicna	Cejana
+banpliske	Pragmatiko
+vlaba'u	Prononco
+gerna selcni	Gramatika modo
+ve'erze'erna'u	Kampo (fiziko)
+gramin. zei banxa	Gramin-Banko
+bancuvysi'o	Lingva purismo
+.i mi pacna da	Revon havas mi
+selratni liste fi lo sinxa	Listo de kemiaj elementoj laŭ simbolo
+ka'o	Imaginara unuo
+rafael.del.riegos	Rafael del Riego
+finpre	Inventisto
+detri	Dato
+la cabna cedra	Komuna Erao
+la uigyn	Wigan
+1812moi nanca bancu zgike sidbo selfinti	Uverturo 1812
+nu damba befi la berstici	Batalo por Vesnot'
+prenu	Persono
+noltrusi'o	Monarkiismo
+galbisybau	Alta-islanda lingvo
+king.kong	King Kong
+favmapti	Homologio (biologio)
+dasri pe la .mobius.	Rubando de Möbius
+gletu	Kopulacio
+mirlyxarju	Babiruso
+lubin	Lubin
+lujvo	Kunmetita vorto
+xalo,uin	Halloween
+ni'icpa	Inferenco
+kijytcini	Oksidiĝa nombro
+leon. to skina toi	Léon (filmo)
+luk.besyn	Luc Besson
+glanejni sroka'e	Masa varmokapacito
+sliders	Sliders
+tcadrklaipeda	Klaipėda
+ka'oske	Sanscienco
+remna girzu	Socia grupo
+gubytrusi'o	Respublikismo
+nalseljunbau	Lingua ignota
+daplrxometepe	Ometepe
+febvi	Bolpunkto
+purdi	Ĝardeno
+dilcyna'u	Racionala nombro
+Category:dotygu'e	Kategorio:Germanio
+Category:italias	Kategorio:Italio
+Category:mergu'e	Kategorio:Usono
+Category:rukygu'e	Kategorio:Rusio
+Category:kadnygu'e	Kategorio:Kanado
+Category:ritygu'e	Kategorio:Unuiĝinta Reĝlando
+Category:sangu'e	Kategorio:Hispanio
+Category:pongu'e	Kategorio:Japanio
+Category:sralygu'e	Kategorio:Aŭstralio
+Category:mexygu'e	Kategorio:Meksiko
+Category:xingu'e	Kategorio:Barato
+Category:djogu'e	Kategorio:Sauda Arabio
+Category:brogu'e	Kategorio:Israelo
+Category:turk	Kategorio:Turkio
+Category:nanfi'ogu'e	Kategorio:Sud-Afriko
+Category:misrygu'e	Kategorio:Egiptio
+Category:iran	Kategorio:Irano
+Category:getygu'e	Kategorio:Argentino
+Category:jexygu'e	Kategorio:Alĝerio
+Category:osteraix	Kategorio:Aŭstrio
+Category:kubas	Kategorio:Kubo
+Category:itiopias	Kategorio:Etiopio
+Category:bidgu'e	Kategorio:Indonezio
+Category:raksygu'e	Kategorio:Irako
+Category:nederland	Kategorio:Nederlando
+Category:nixerias	Kategorio:Niĝerio
+Category:kisygu'e	Kategorio:Pakistano
+Category:polskas	Kategorio:Pollando
+Category:potygu'e	Kategorio:Portugalio
+Category:singapura	Kategorio:Singapuro
+Category:snanu zei .xanguk	Kategorio:Sud-Koreio
+Category:sudan	Kategorio:Sudano
+Category:elvetias	Kategorio:Svislando
+Category:tanzanias	Kategorio:Tanzanio
+Category:vurgu'e	Kategorio:Ukrainio
+Category:vietnam	Kategorio:Vjetnamio
+Category:mabru	Kategorio:Mamuloj
+Category:termu'eske	Kategorio:Fiziko
+Category:mivyske	Kategorio:Biologio
+Category:xumske	Kategorio:Kemio
+Category:citri	Kategorio:Historio
+Category:tutske	Kategorio:Geografio
+Category:lijda	Kategorio:Religio
+Category:gunma natmi	Kategorio:Unuiĝintaj Nacioj
+Category:pijyske	Kategorio:Filozofio
+Category:menske	Kategorio:Psikologio
+Category:bu'ojda	Kategorio:Budhismo
+Category:musyjda	Kategorio:Islamo
+prototaksitizi	Prototaxites
+kinzbapre	Reĝisoro
+ninxinronbau	Eŭropaio
+Category:na mulno	Kategorio:Ĝermo
+Category:kulnu	Kategorio:Kulturo
+Category:nanca	Kategorio:Jaroj
+makykai	Magnetismo
+na'orteryratni	Atomomaso
+Category:gugde	Kategorio:Landoj
+Wikipedia:administrator	Vikipedio:Administrantoj
+Category:kazaksTAN	Kategorio:Kazaĥio
+Category:prenu	Kategorio:Personoj
+Wikipedia:bots	Vikipedio:Roboto
+Category:plajva	Kategorio:Politiko
+Category:larcu	Kategorio:Arto
+misrygu'e	Egiptujo
+Template:Bot	Ŝablono:Bot
+kadnygu'e	Kanado
+Category:madjiar	Kategorio:Hungario
+Category:beldjym	Kategorio:Belgio
+Category:tcesk.zei gubyseltru	Kategorio:Ĉeĥio
+Category:danmark	Kategorio:Danio
+Category:estis	Kategorio:Estonio
+Category:xesygu'e	Kategorio:Grekio
+Category:island	Kategorio:Islando
+Category:luksymbyrg	Kategorio:Luksemburgo
+Category:lietuvas	Kategorio:Litovio
+Category:maltas	Kategorio:Malto
+Category:sueriges	Kategorio:Svedio
+Category:slovensk	Kategorio:Slovakio
+Category:slovEni,as	Kategorio:Slovenio
+Category:samselkei	Kategorio:Videoludoj
+Category:maikrosaft	Kategorio:Mikrosofto
+Category:rontu'a	Kategorio:Eŭropo
+Template:Documentation	Ŝablono:Dok
+Category:pilno admin	Kategorio:Vikipedio:Administrantoj
+Category:pilno bangu	Kategorio:Vikipediistoj laŭ lingvo
+Wikipedia:lo mu pe'a kamju be la .uikipedias.	Vikipedio:Kvin principoj
+.sung. .jae-gi.	Sung Jae-gi
+Template:Softredirect	Ŝablono:Intervikia plusendilo
+Template:ko vimcu	Ŝablono:Forigu tuj
+Category:bangu	Kategorio:Lingvoj
+Wikipedia:clinoi pe loi finselkai	Vikipedio:Stilogvido
+kanguru	Kanguruo
+Template:!	Ŝablono:!
+Template:!-	Ŝablono:!-
+Wikipedia:liste be le tcevai ckupau	Vikipedio:Listo de havendaj artikoloj
+Category:frikytu'a	Kategorio:Afriko
+Category:cukta	Kategorio:Libroj
+Template:babel	Ŝablono:Babelejo
+Template:na mulno	Ŝablono:Ĝermo
+Template:pilno de	Ŝablono:Vikipediisto de
+Template:pilno es	Ŝablono:Vikipediisto es
+Template:pilno en-3	Ŝablono:Vikipediisto en-3
+Template:pilno en-1	Ŝablono:Vikipediisto en-1
+Template:pilno en-2	Ŝablono:Vikipediisto en-2
+Template:pilno en	Ŝablono:Vikipediisto en
+Template:pilno de-2	Ŝablono:Vikipediisto de-2
+Template:pilno fr-1	Ŝablono:Vikipediisto fr-1
+Category:relma'i	Kategorio:Februaro
+Category:1957moi	Kategorio:1957
+Category:1949moi	Kategorio:1949
+Category:1927moi	Kategorio:1927
+Category:1919moi	Kategorio:1919
+Category:moldovas	Kategorio:Moldavio
+Category:zdotu'a	Kategorio:Azio
+Category:tciles	Kategorio:Ĉilio
+Category:20xyxymoi	Kategorio:21-a jarcento
+Category:ketytu'a	Kategorio:Sudameriko
+Category:1930moi	Kategorio:1930
+Category:1936moi	Kategorio:1936
+Category:1947moi	Kategorio:1947
+Category:1937moi	Kategorio:1937
+Category:1940moi	Kategorio:1940
+Category:1934moi	Kategorio:1934
+Category:1960moi	Kategorio:1960
+Category:1943moi	Kategorio:1943
+Category:1951moi	Kategorio:1951
+Category:1942moi	Kategorio:1942
+Category:1959moi	Kategorio:1959
+Category:1928moi	Kategorio:1928
+Category:1913moi	Kategorio:1913
+Category:1954moi	Kategorio:1954
+Category:mejgu'e	Kategorio:Malajzio
+Category:1941moi	Kategorio:1941
+Category:1955moi	Kategorio:1955
+Category:1950moi	Kategorio:1950
+Category:1977moi	Kategorio:1977
+Category:1946moi	Kategorio:1946
+Category:1948moi	Kategorio:1948
+Category:1932moi	Kategorio:1932
+Category:1945moi	Kategorio:1945
+Template:Mod	Ŝablono:Mod
+Category:1923moi	Kategorio:1923
+Category:1917moi	Kategorio:1917
+Category:1904moi	Kategorio:1904
+Category:1926moi	Kategorio:1926
+Category:1907moi	Kategorio:1907
+Template:pilno es-2	Ŝablono:Vikipediisto es-2
+Category:1908moi	Kategorio:1908
+Template:coi	Ŝablono:Bonvenon
+Category:1901moi	Kategorio:1901
+Category:1903moi	Kategorio:1903
+Category:1933moi	Kategorio:1933
+Template:masti	Ŝablono:MonatEnkonduko
+Category:1952moi	Kategorio:1952
+Category:bauske	Kategorio:Lingvoscienco
+Category:1911moi	Kategorio:1911
+Category:1906moi	Kategorio:1906
+Category:pilno fr-1	Kategorio:Vikipediisto fr-1
+Template:gugde datni	Ŝablono:Informkesto lando
+Category:paris	Kategorio:Parizo
+Category:pilno en	Kategorio:Vikipediisto en
+Category:pilno zh	Kategorio:Vikipediisto zh
+Category:xrvatskas	Kategorio:Kroatio
+Category:pilno zh-N	Kategorio:Vikipediisto zh-D
+Category:pilno en-2	Kategorio:Vikipediisto en-2
+Template:tertcita tanxe	Ŝablono:Informkesto
+Category:cagyske	Kategorio:Agrikulturo
+Category:19xyxymoi	Kategorio:20-a jarcento
+Template:IPA	Ŝablono:IFA
+Category:18xyxymoi	Kategorio:19-a jarcento
+Template:talkback	Ŝablono:Respondo
+Category:1958moi	Kategorio:1958
+Category:1956moi	Kategorio:1956
+Category:1944moi	Kategorio:1944
+Category:pavma'i	Kategorio:Januaro
+Category:1916moi	Kategorio:1916
+Category:1939moi	Kategorio:1939
+Category:mu'eske	Kategorio:Kosmologio
+Template:na tugni	Ŝablono:Kontraŭ
+selratni liste fi lo namcu	Listo de kemiaj elementoj laŭ atomnumero
+Template:suzmunski	Ŝablono:Apartigilo
+Category:1962moi	Kategorio:1962
+Category:mongolo	Kategorio:Mongolio
+Category:1953moi	Kategorio:1953
+Template:braplu	Ŝablono:Kontinentoj
+Category:pilno fr	Kategorio:Vikipediisto fr
+Category:pilno pt	Kategorio:Vikipediisto pt
+Category:pilno fr-2	Kategorio:Vikipediisto fr-2
+Category:pilno fr-N	Kategorio:Vikipediisto fr-D
+Category:pilno de	Kategorio:Vikipediisto de
+Category:pilno de-2	Kategorio:Vikipediisto de-2
+Category:pilno de-N	Kategorio:Vikipediisto de-D
+Category:pilno en-3	Kategorio:Vikipediisto en-3
+Category:pilno en-N	Kategorio:Vikipediisto en-D
+Category:pilno es	Kategorio:Vikipediisto es
+Category:pilno es-N	Kategorio:Vikipediisto es-D
+Category:1452moi	Kategorio:1452
+Category:pilno pl-N	Kategorio:Vikipediisto pl-D
+Category:1812moi	Kategorio:1812
+Category:1691moi	Kategorio:1691
+Category:samske	Kategorio:Komputiko
+Category:solri ciste	Kategorio:Sunsistemo
+Category:1453moi	Kategorio:1453
+Category:belrus	Kategorio:Belorusio
+solri barna	Sunmakulo
+Category:191xymoi	Kategorio:1910-1919
+Category:192xymoi	Kategorio:1920-1929
+Category:195xymoi	Kategorio:1950-1959
+Category:199xymoi	Kategorio:1990-1999
+Category:200xymoi	Kategorio:2000-aj jaroj
+Category:pilno pt-N	Kategorio:Vikipediisto pt-D
+Category:1627moi	Kategorio:1627
+Category:1683moi	Kategorio:1683
+Category:1725moi	Kategorio:1725
+Category:1780moi	Kategorio:1780
+Category:16xyxymoi	Kategorio:17-a jarcento
+Category:09xyxymoi	Kategorio:10-a jarcento
+Category:angol	Kategorio:Angolo
+Category:botsuanas	Kategorio:Bocvano
+Category:gabon	Kategorio:Gabono
+Category:kamerun	Kategorio:Kameruno
+Category:kenias	Kategorio:Kenjo
+Category:libgu'e	Kategorio:Libio
+Category:morgu'e	Kategorio:Maroko
+Category:mosambik	Kategorio:Mozambiko
+Category:namibias	Kategorio:Namibio
+Category:1743moi	Kategorio:1743
+Category:1782moi	Kategorio:1782
+Category:1788moi	Kategorio:1788
+Category:1794moi	Kategorio:1794
+Category:1807moi	Kategorio:1807
+Category:1809moi	Kategorio:1809
+Category:1814moi	Kategorio:1814
+Category:1815moi	Kategorio:1815
+Category:1830moi	Kategorio:1830
+Category:1834moi	Kategorio:1834
+Category:1836moi	Kategorio:1836
+Category:1848moi	Kategorio:1848
+Category:1852moi	Kategorio:1852
+Category:1862moi	Kategorio:1862
+Category:1869moi	Kategorio:1869
+Category:1870moi	Kategorio:1870
+Category:1882moi	Kategorio:1882
+Category:1885moi	Kategorio:1885
+Category:1887moi	Kategorio:1887
+Category:1961moi	Kategorio:1961
+Category:1964moi	Kategorio:1964
+Category:1965moi	Kategorio:1965
+Category:1966moi	Kategorio:1966
+Category:1967moi	Kategorio:1967
+Category:1969moi	Kategorio:1969
+Category:1970moi	Kategorio:1970
+Category:1972moi	Kategorio:1972
+Category:1973moi	Kategorio:1973
+Category:1974moi	Kategorio:1974
+Category:1975moi	Kategorio:1975
+Category:1976moi	Kategorio:1976
+Category:1978moi	Kategorio:1978
+Category:1980moi	Kategorio:1980
+Category:1981moi	Kategorio:1981
+Category:1982moi	Kategorio:1982
+Category:1983moi	Kategorio:1983
+Category:1984moi	Kategorio:1984
+Category:1985moi	Kategorio:1985
+Category:1986moi	Kategorio:1986
+Category:1987moi	Kategorio:1987
+Category:1988moi	Kategorio:1988
+Category:1989moi	Kategorio:1989
+Category:1990moi	Kategorio:1990
+Category:1991moi	Kategorio:1991
+Category:1992moi	Kategorio:1992
+Category:1993moi	Kategorio:1993
+Category:1994moi	Kategorio:1994
+Category:1995moi	Kategorio:1995
+Category:1996moi	Kategorio:1996
+Category:1997moi	Kategorio:1997
+Category:1999moi	Kategorio:1999
+Category:2000moi	Kategorio:2000
+Category:2001moi	Kategorio:2001
+Category:2002moi	Kategorio:2002
+Category:2004moi	Kategorio:2004
+Category:2005moi	Kategorio:2005
+Category:2006moi	Kategorio:2006
+Category:2007moi	Kategorio:2007
+Template:pilno pt	Ŝablono:Vikipediisto pt
+Template:pilno zh-1	Ŝablono:Vikipediisto zh-1
+Category:zambias	Kategorio:Zambio
+Category:senegal	Kategorio:Senegalo
+Category:sieras. leon	Kategorio:Siera-Leono
+Category:zimbabues	Kategorio:Zimbabvo
+Category:somalias	Kategorio:Somalio
+Category:tcad	Kategorio:Ĉado
+Category:ugandas	Kategorio:Ugando
+Category:banskepre	Kategorio:Lingvistoj
+Category:pilipinas	Kategorio:Filipinoj
+Category:pilno zh-1	Kategorio:Vikipediisto zh-1
+Category:tivni	Kategorio:Televido
+Category:sixygu'e	Kategorio:Sirio
+Category:13xyxymoi	Kategorio:14-a jarcento
+Category:15xyxymoi	Kategorio:16-a jarcento
+Category:03xyxymoi	Kategorio:4-a jarcento
+Category:17xyxymoi	Kategorio:18-a jarcento
+Category:1xyxyxymoi	Kategorio:2-a jarmilo
+Category:0xyxyxymoi	Kategorio:1-a jarmilo
+Category:xindo ropno bangu	Kategorio:Hindeŭropa lingvaro
+Category:1963moi	Kategorio:1963
+Category:selratni	Kategorio:Kemiaj elementoj
+Category:14xyxymoi	Kategorio:15-a jarcento
+Category:berti zei .xanguk	Kategorio:Nord-Koreio
+Category:1831moi	Kategorio:1831
+Category:1968moi	Kategorio:1968
+Category:djamaikas	Kategorio:Jamajko
+Category:1998moi	Kategorio:1998
+Category:luaos	Kategorio:Laoso
+Category:lu'orgu'e	Kategorio:Libano
+Category:nepal	Kategorio:Nepalo
+Category:2003moi	Kategorio:2003
+Category:sofygu'e	Kategorio:Sovetunio
+Category:1971moi	Kategorio:1971
+Category:jorgu'e	Kategorio:Jordanio
+Category:kostarikas	Kategorio:Kostariko
+Category:surinam	Kategorio:Surinamo
+Category:nikaraguas	Kategorio:Nikaragvo
+Category:noreg	Kategorio:Norvegio
+Category:panamas	Kategorio:Panamo
+Category:paraguais	Kategorio:Paragvajo
+Category:lictenctain	Kategorio:Liĥtenŝtejno
+Category:onduras	Kategorio:Honduro
+Category:uruguais	Kategorio:Urugvajo
+Category:andoras	Kategorio:Andoro
+Category:serbias	Kategorio:Serbio
+Category:beliz	Kategorio:Belizo
+Category:salbador	Kategorio:Salvadoro
+Category:ekuador	Kategorio:Ekvadoro
+Category:perus	Kategorio:Peruo
+Category:bolivias	Kategorio:Bolivio
+Category:remske	Kategorio:Antropologio
+Category:gudjanas	Kategorio:Gujano
+Category:kolombias	Kategorio:Kolombio
+Category:zgitci	Kategorio:Muzikaj instrumentoj
+Category:timske	Kategorio:Meteologio
+Category:gackle	Kategorio:Gasoj
+Category:jinkle	Kategorio:Metaloj
+Category:pilno pl	Kategorio:Vikipediisto pl
+Category:dansu	Kategorio:Danco
+Category:2xyxyxymoi	Kategorio:3-a jarmilo
+Category:kaurpo'esi'o	Kategorio:Komunismo
+Category:logji	Kategorio:Logiko
+Category:bemtu'a	Kategorio:Nordameriko
+Category:guatemal	Kategorio:Gvatemalo
+najgenja	Karoto
+trojany	Trojany
+Category:la'ortu'a	Kategorio:Latin-Ameriko
+Category:skoselti'e	Kategorio:Ĥorduloj
+Category:pilno jbo	Kategorio:Vikipediisto jbo
+Category:pilno jbo-1	Kategorio:Vikipediisto jbo-1
+Category:pilno jbo-2	Kategorio:Vikipediisto jbo-2
+Category:skari	Kategorio:Koloroj
+Category:selpliske	Kategorio:Aplikataj sciencoj
+Category:pilno en-1	Kategorio:Vikipediisto en-1
+Category:pilno de-1	Kategorio:Vikipediisto de-1
+Template:pilno jbo-1	Ŝablono:Vikipediisto jbo-1
+toldi	Rhopalocera
+Template:pilno jbo-2	Ŝablono:Vikipediisto jbo-2
+Special:RecentChanges	Specialaĵo:Lastaj ŝanĝoj

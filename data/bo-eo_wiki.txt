@@ -1,0 +1,2638 @@
+ཨ་ཧྥེ་རི་ཁ།	Afriko
+ཉི་ཧོང་།	Japanio
+ནོར་ཝེ།	Norvegio
+སི་ཁོ་ཁྲི་ལན་ཌི།	Skotlando
+ཨར་ལེན་ཌ།	Irlando
+ཧུང་གྷ་རི།	Hungario
+ཞི་པན་ཡ།	Hispanio
+ཨ་མེ་རི་ཁ་རྒྱལ་ཕྲན་མཉམ་འབྲེལ་རྒྱལ་ཁབ།	Usono
+པེར་ཅིན།	Belgio
+ལུ་སེམ་བའུརག (རྒྱལ་ཁབ།)	Luksemburgo (lando)
+སའི་གོ་ལ།	Tero
+འཚོ་བ།	Vivo
+ཤི་བ།	Morto
+འགྲོ་བ་མི།	Homo
+དགའ་སྐྱིད།	Feliĉo
+ཧྥིན་ལན།	Finnlando
+སི་ཝེ་དེན།	Svedio
+དན་མྲག	Danio
+ཕོ་ལན།	Pollando
+ལི་ཐུ་ཨེ་ནི་ཡ།	Litovio
+ཨི་ཏ་ལི།	Italio
+སུད་སི།	Svislando
+ཨོ་སི་ཐྲི་ཡ།	Aŭstrio
+ཀེ་རི་སི།	Grekio
+ཏུར་ཀི།	Turkio
+སྦི་རག	Biero
+པོ་ཅུ་གྷལ།	Portugalio
+ཡོ་རོབ་གླིང་།	Eŭropo
+ཨེ་ཤེ་ཡ།	Azio
+ལྷོ་མཐའི་གླིང་།	Antarkto
+ཧོ་ལན།	Nederlando
+ནེའུ་ཡོར་ཀ།	Novjorko
+ཝ་ཤིན་ཏྲོན།	Vaŝingtono
+སན་ཧྥུ་རན་སིས་ཁོ	San-Francisko
+པེར་ལིན།	Berlino
+གློག་ཀླད།	Komputilo
+པེར་ནེ།	Berno
+ཀྲེ་ནེ་ཝ།	Ĝenevo
+བ་རག་ཨོ་པྰ་མ།	Barack Obama
+ཨུ་རུ་གུ་ཡེ།	Urugvajo
+པ་སེལ།	Bazelo
+ལོན་ཊོན།	Londono
+ཁ་ཡི་རོ	Kairo
+ཡ་ལི་ཧྲན་ད	Aleksandrio
+ཕ་རི།	Parizo
+མེག་སི་ཀོ།	Meksiko
+ནུབ་རྒྱ་མཚོ་ཆེན་པོ།	Atlantika Oceano
+ཞི་བདེ་རྒྱ་མཚོ་ཆེན་པོ།	Pacifika Oceano
+ཁྰ་ལེ་ཧྥོར་ནི་ཡ།	Kalifornio
+བོ་སེ་ཊོན།	Bostono
+གཟའ་ཟླ་བ།	Lundo
+མིག་དམར།	Marso
+མ་ཨེར་སི།	Marso (dio)
+ཁེ་ནི་ཡ།	Kenjo
+ཨི་ཐི་ཨོ་པི་ཡ།	Etiopio
+ཀ་ན།	Ganao
+གཟའ་མིག་དམར།	Mardo
+གཟའ་ལྷག་པ།	Merkredo
+གཟའ་ཕུར་བུ།	Ĵaŭdo
+གཟའ་པ་སངས།	Vendredo
+གཟའ་སྤེན་པ།	Sabato
+གཟའ་ཉི་མ།	Dimanĉo
+སེང་གེ།	Leono
+ཧྥ་རན་སི།	Francio
+ཁྱི།	Hundo
+དབྱིན་ཇི་མཉམ་འབྲེལ།	Unuiĝinta Reĝlando
+ཞི་མི།	Hejma kato
+ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Ĉina Popola Respubliko
+ཧྥ་རན་སིའི་སྐད།	Franca lingvo
+ཉ།	Fiŝoj
+ཨ་རག་ཉིང་ཁུ།	Etanolo
+པུ་རུ་ཟིལ།	Brazilo
+ཧྥ་རན་སུའཱ་ཨོ་ལན་དེ།	François Hollande
+ཨུ་རུ་སུ།	Rusio
+ཕའེ།	Pio (litero)
+ཨ་ལ་པ་མ།	Alabamo
+སན་པའུ་ལོ་	San-Paŭlo (urbo)
+འཇར་མན།	Germanio
+བྷེ་ལ་རསུ།	Belorusio
+འཇར་མན་སྐད།	Germana lingvo
+ཨཡིསུ་ལེན་ཌ།	Islando
+ཨིསུ་ཊོ་ནིཡ།	Estonio
+སྤེན་པ།	Saturno (planedo)
+སྤེན་པའི་གདུབ་ཀོར།	Ringoj de Saturno
+སེའུ།	Ĉerizo
+དམག་འཁྲུག	Milito
+༡ (གྲངས་ཀ།)	1 (nombro)
+༢ (གྲངས་ཀ།)	2 (nombro)
+༣ (གྲངས་ཀ།)	3 (nombro)
+༤ (གྲངས་ཀ།)	4 (nombro)
+༥ (གྲངས་ཀ།)	5 (nombro)
+༠ (གྲངས་ཀ།)	Nulo
+ལ་ཊ་ཝིཡ།	Latvio
+ཨུཀ་རཡི་ནི།	Ukrainio
+ཅེ་ཁེ།	Ĉeĥio
+སི་ལོ་ཕ་ཁེ།	Slovakio
+སི་ལོ་ཝེ་ནི་ཡ།	Slovenio
+ལྦེ་ནི་སུ་ནི།	Vilno
+མོལ་དོ་ཝ།	Moldava Respubliko
+རོ་མ་ནི་ཡ།	Rumanio
+པུ་ར་ག་རི་ཡ།	Bulgario
+རོ་མ།	Romo
+མ་སེ་ཌོ་ནིཡ། (རྒྱལ་ཁབ།)	Respubliko Makedonio
+ཨལ་པ་ཉི་ཡ།	Albanio
+གེ་རེན་ལ	Gronlando
+ཁུརོ་ཤི་ཡ།	Kroatio
+བྷོསུ་ནིཡ་དང་ཧར་ཛེ་གྷོ་ཝི་ན།	Bosnio kaj Hercegovino
+ཨ་ཛར་བཡི་ཇན།	Azerbajĝano
+ཨན་ཌོར་ར།	Andoro
+སེ་པི་རི་སི།	Kipro
+འཇོར་ཇི་ཡ། (རྒྱལ་ཁབ།)	Kartvelio
+ཀཛ་ཀིསུ་གཏན།	Kazaĥio
+མལ་ཏ།	Malto
+མོ་ན་ཁོ།	Monako
+མོན་ཊེནིག་རོ།	Montenegro
+ཝ་ཏི་ཀན་གྲོང་ཁྱོར།	Vatikano
+སན་མ་རི་ནོ།	San-Marino
+པུའུ་ལུའུ་སེལ​།	Brusela Ĉefurba Regiono
+ཀུ་བ།	Kubo
+བེ་ལི་ཛི།	Belizo
+བར་བ་ཌོ་སི།	Barbado
+ཨིན་རྡུ་ནི་ཤིས་ཡ།	Indonezio
+ལྷོ་ཨ་ཧྥེ་རི་ཁ།	Sud-Afriko
+ཨཱལ་ཇི་རི་ཡ།	Alĝerio
+ཨུ་ཟ་བྷེ་ཁི་སི་ཐན།	Uzbekujo
+ཕྰོ་ཟོ་ནན།	Poznano
+ཐ་ཧྲི་ཀན།	Taŝkento
+ཝར་སོ།	Varsovio
+ཆུ།	Akvo
+ཆགས།	Sekso
+ཆགས་སློང་རྩོམ་རིག	Pornografio
+ཁ་ལའོ་ཊ་མོ་ནེ།	Claude Monet
+ཅི་ལི།	Ĉilio
+ཡེ་ཤུ།	Jesuo Kristo
+ཨེལ་ཝེ་སི་ཕིར་ཟི་ལཱེ།	Elvis Presley
+གཱ་ལི་ལེའོ་གཱ་ལི་ལེའི།	Galilejo
+ལྷག་པ།	Merkuro (planedo)
+ལོ་རྒྱུས།	Historio
+པ་སངས།	Venuso (planedo)
+སྐད་རིགས།	Lingvo
+བརྩེ་དུང་།	Amo
+ཕུར་བུ།	Jupitero (planedo)
+སྐར་མ་གནམ་རྒྱལ།	Urano (planedo)
+ནི་ཀོ་ལ་ས་ར་ཀོ་ཟི།	Nicolas Sarkozy
+སྐར་མ་མཚོ་རྒྱལ།	Neptuno (planedo)
+སེང་ག་ཕོར།	Singapuro
+ཚན་རིག	Scienco
+མིར་ཡམ །	Maria (patrino de Jesuo)
+ལི་ཆེ་ཏན་སཏིན།	Liĥtenŝtejno
+ལུས་རྩལ།	Sporto
+ཨྰ་སྦྲོལ་ཧྥུ་ཧི་ཐུ་ལུར།	Adolf Hitler
+འཛམ་གླིང་འཁྲུག་ཆེན་དང་པོ།	Unua mondmilito
+འཛམ་གླིང་འཁྲུག་ཆེན་གཉིས་པ་	Dua mondmilito
+ཧྥུ་ཐ་ཅ་ཨ་རག	Vodko
+སི་ཀོཔ་ཇི།	Skopjo
+རྩིས་རིག	Matematiko
+ལ་ཏིན་སྐད།	Latina lingvo
+བྷཧ་རཡིན།	Barejno
+ཨར་མེ་ནི་ཡ།	Armenio
+སེར་བྷི་ཡ།	Serbio
+ཟླ་བ།	Luno
+ཨོ་སེ་ཐེ་ལི་ཡ།	Aŭstralio
+དངོས་ཁམས་རིག་པ་	Fiziko
+ཨར་ཇེན་ཊི་ན།	Argentino
+པེ་རུ།	Peruo
+སྐྱེ་དངོས་རིག་པ།	Biologio
+བྱང་ཀོ་རི་ཡ།	Nord-Koreio
+ཁམ་པོ་ཛ།	Kamboĝo
+ཁུ་རན་གསུང་རབ།	Korano
+དབྱི་སི་ལམ་ཆོས་ལུགས།	Islamo
+ལི་པོ་ཡ་ན།	Ljubljano
+རྩི་ཤིང་རིག་པ།	Plantoscienco
+ལིས་ཆི་ཝེ་ལིས་ས།	Lech Wałęsa
+འཁོར་ལོ།	Rado
+༄༅།། རིག་གནས་ཤེས་བྱ་ཀུན་ཁྱབ།	Encyclopédie ou dictionnaire raisonné des sciences, des arts et des métiers
+ཏེའུ་ཏེ་རོ།	Denis Diderot
+ཞི་བདེ།	Paco
+ལི་ཡོང་།	Liono
+བུད་མེད།	Virino
+སོ་ཧྥི་ཡ།	Sofio
+ཐང་རྗི་ཁོཏ།	Kiĥoto
+སྙན་ངག	Poezio
+མི་ལཱན།	Milano
+ཁྱིམ་དྲན་སེམས་ནད།	Memoro
+ཊུ་རིན།	Torino
+ལེ་མོན།	Citrono
+ངང་ལག	Banano
+མེ་ཏོག	Floro
+ཇོ་མོ་གླང་མ།	Ĉomolungmo
+གཤག་བཅོས་རིག་པ།	Anatomio
+གྲོང་ཁྱེར།	Urbo
+ཝེ་སུའུ་ཝེའོ་མེ་རི།	Vezuvio
+ཉི་མ།	Suno
+གྲོང་ཚོ།	Vilaĝo
+རྒྱ་མཚོ་ཆེན་པོའི་གླིང་ཆེན།	Oceanio
+ཉི་མའི་ཁྱིམ་རྒྱུད།	Sunsistemo
+ཨན་ཇེ་ལ་མེར་ཁེལ།	Angela Merkel
+ཉིན་མོ།	Tago
+ཤར་ཏིམོར།	Orienta Timoro
+དགོང་མོ།	Nokto
+ལོ་	Jaro
+རེན་གཙང་པོ།	Rejno
+ཨོ་སི་ལོ།	Oslo
+བྷོ་ཨིན།	Bonn
+ནག་ཁུང་།	Nigra truo
+ལི་སི་བཱོན།	Lisbono
+ལུའོ་ནེའུ་གཙང་པོ།	Rodano
+མིའི་རིགས་ཀྱི་ཆགས་སྦྱོར་གྱི་བྱ་སྤྱོད།	Seksumado
+ཧྥོར་ཅཱ་གཙང་པོ།	Volgo
+གསོ་རླུང་།	Oksigeno
+གཡོ་སྐར།	Planedo
+རོལ་དབྱངས།	Muziko
+ཝེ་ནེ་ཟི་ཡ།	Venecio
+པོ་གཙང་པོ།	Pado
+མོ་སི་ཁོ།	Moskvo
+ཨི་ཏ་ལིའི་སྐད།	Itala lingvo
+སན་པི་ཏི་པོག	Sankt-Peterburgo
+ཆཱ་ཌ།	Ĉado
+བྱང་ཕྱོགས།	Nordo
+ནིའུ་ཛི་ལེན་ཌི།	Nov-Zelando
+རྒྱ་གར།	Barato
+ཏུ་ཝ་ལུ།	Tuvalo
+ཚིག་ལྷུག	Prozo
+ཊོང་ག	Tongo
+ནུབ་ཕྱོགས།	Okcidento
+ས་མོའ།	Samoo
+ཤར་ཕྱོགས།	Oriento
+སོ་ལོ་མོན་གླིང་ཕྲན་ཚོ་ཁག	Salomonoj
+ཝ་ནུའ་ཏུ།	Vanuatuo
+མོའོ་ལིས་ཨེར།	Molière
+པ་པུ་འ་ནིའུ་གི་ནེ།	Papuo-Nov-Gvineo
+ཞེ་ཁུ་སི་པེར།	William Shakespeare
+པ་ལའུ།	Palaŭo
+ནའུ་རུ།	Nauro
+མའི་ཀོ་རོ་ནེ་ཤི་ཡ། (རྒྱལ་ཁབ།)	Federacio de Mikronezio
+མར་ཤལ་གླིང་ཕྲན་རྒྱལ་ཁབ།	Marŝala Insularo
+ཀི་རི་བ་ཏི།	Kiribato
+སོག་ཡུལ།	Mongolio
+ཧྥི་ཇི།	Fiĝioj
+ཝེ་ནེ་ཟུའེ་ལ།	Venezuelo
+རྒྱལ་སྤྱིའི་མིག་མངས།	Ŝako
+རྟ།	Ĉevalo
+ཨེམ་སི་ཊར་ཌམ།	Amsterdamo
+མཚོན་ཆ།	Armilo
+སུ་རི་ནེམ།	Surinamo
+པ་ར་གུ་ཡེ།	Paragvajo
+གུ་ཡ་ན།	Gujano
+སྒྱུ་རྩལ།	Arto
+ཨེ་ཁོའོ་ཌོར།	Ekvadoro
+ཁོ་ལོམ་བི་ཡ།	Kolombio
+ནང་བསྟན།	Budhismo
+བྷོ་ལི་ཝི་ཡ།	Bolivio
+ཏྲི་ནི་ཌད་དང་ཏྲོ་བེ་གོ	Trinidado kaj Tobago
+སེན་ཊི་བིན་སེན་ཊི་དང་གི་རི་ན་ཌིན་སི།	Sankta Vincento kaj Grenadinoj
+ནེའུ་ཧམ་ཕུ་ཤར།	Nov-Hampŝiro
+སེན་ཊ་ལུ་ཤི་ཡ།	Sankta Lucio
+ལེ་ཨོ་ན་ཏོ་ཏ་ཧྥིན་ཆི།	Leonardo da Vinci
+སེན་ཊི་ཀི་ཊི་སི་དང་ནེ་བི་སི།	Sankta-Kito kaj Neviso
+ཇ་མའི་ཀ	Jamajko
+གི་རི་ན་ཌ། (རྒྱལ་ཁབ།)	Grenado (lando)
+གུ་ཝེ་ཐི་མ་ལ།	Gvatemalo
+བ་ཧ་མཱ་སི།	Bahamoj
+བྱ་ཏེ་	Koko
+ཨེན་ཊི་གུའ་དང་བར་བུ་ཌ།	Antigvo-Barbudo
+ཧ་ཝ་ཡི།	Havajo
+ཧོང་དུ་ར་སི།	Honduro
+ཌོ་མི་ནི་ཀ	Dominiko
+ཌོ་མི་ནི་ཀན་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Domingo
+ཕག་པ།	Porko
+ཧའི་ཏི།	Haitio
+ཨིལ་སལ་ཝ་ཌོར།	Salvadoro
+ཡི་ལང་།	Irano
+ཡི་ལའ་ཁོ།	Irako
+ཁོ་ས་ཏ་རི་ཁ	Kostariko
+ཨི་སི་ར་ཨེལ།	Israelo
+པ་ན་མ།	Panamo
+ཡེ་མེན།	Jemeno
+ཕོ་ལན་སྐད།	Pola lingvo
+རྗོར་ཌན།	Jordanio
+ནི་ཀ་ར་གུ་ཝ།	Nikaragvo
+ཧྥོ་ལོ་རི་ཌ།	Florido
+ཀེ་རེ་གེཛུ་སུཏེན།	Kirgizio
+ཨྰ་རི་ཟོ་ནྰ།	Arizono
+ཁུ་ཝི་ཐི།	Kuvajto
+ལའོ་སུ།	Laoso
+ལེ་པ་ནོན།	Libano
+མལ་དི་ཝེསུ།	Maldivoj
+ཨ་མེ་རི་ཁ་གླིང་ཆེན།	Ameriko
+ཡུ་ཊ།	Utaho
+གླང་གོག་	Bovo
+མ་ལ་ཤི་ཡ།	Malajzio
+བྷར་མ།	Birmo
+བལ་ཡུལ།	Nepalo
+ཨོ་མན།	Omano
+པ་ཀི་སི་ཐན	Pakistano
+ཁ་ཏར།	Kataro
+ཏན་ནེ་སི་སྤོ་ལོ།	Teniso
+སའུ་དི་ཨ་ར་པི་ཡ།	Sauda Arabio
+སེང་ག་གླིང་།	Sri-Lanko
+སི་རི་ཡ།	Sirio
+ཕི་ལ་ཐོན།	Platono
+ཐ་ཇི་ཁེ་སི་ཏན།	Taĝikio
+ཐའེ་ཝན།	Respubliko Ĉinio
+ཐའི་ལེན།	Tajlando
+མེ་འཁོར།	Trajno
+ཏུརཀ་མེ་ནི་སུཏན།	Turkmenio
+ཡི་ནེ་ཁྲེ་ཀྲི་ཨ་རབ་ཨེ་མེ་རེ་ཁྲི།	Unuiĝintaj Arabaj Emirlandoj
+ཝི་ཏི་ནམ།	Vjetnamio
+ཤར་ལི་ཤ་པི་ལིན།	Charlie Chaplin
+ལྷོ་ཀོ་རི་ཡ།	Sud-Koreio
+སིམ་བུ་སན།	La Simpsonoj
+ཨ་ཧྥུའུ་རྒན་སི་ཐན།	Afganio
+བྷང་ལ་རྡེ་ཤུ།	Bangladeŝo
+མ་ལི།	Malio
+ཨང་གོ་ལ།	Angolo
+འབྲུག་ཡུལ།	Butano
+བྷི་རུ་ནི།	Brunejo
+ཏན་ཛ་ནི་ཡ།	Tanzanio
+ཧྥི་ལི་པིན།	Filipinoj
+དབུས་ཨ་ཧྥེ་རི་ཁན་རི་པཔ་ལིཀ།	Centr-Afrika Respubliko
+སེར་པོ།	Flava
+ཊོ་གོ	Togolando
+ཏུ་ནི་ཤི་ཡ།	Tunizio
+ཛམ་བི་ཡ།	Zambio
+ཛིམ་བབ་ཝི།	Zimbabvo
+པེ་ཅིང་གྲོང་ཁྱེར།	Pekino
+བེ་ནིན།	Benino
+བྷོ་ཙི་ཝ་ན།	Bocvano
+བུར་ཀི་ན་ཕ་སོ།	Burkino
+བུ་རུན་ཌི།	Burundo
+ཁོ་མོ་རོ་སུ།	Komoroj
+ཀོང་གོ་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Respubliko Kongo
+ཀོང་གོ་མི་དམངས་དམངས་གཙོ།	Demokratia Respubliko Kongo
+ཇི་བའོ་ཊི།	Ĝibutio
+ཨི་ཁུའ་ཊོ་རལ་གི་ནེ།	Ekvatora Gvineo
+ཨི་རི་ཏྲའ།	Eritreo
+ནེའུ་དིལ་ལི།	Nov-Delhio
+ཁྲེ་བྷི་ལི་སི།	Tbiliso
+གེ་བོན།	Gabono
+གེམ་བྷི་ཡ།	Gambio
+གི་ནེ།	Gvineo
+གི་ནེ་-བི་སའོ།	Gvineo Bisaŭa
+ཀོ་ཊི་ཌི་ཨའི་བོ་རི།	Ebur-Bordo
+ཁམ་མུ་རོན།	Kameruno
+ཁེབ་ཝར་ཌི།	Kaboverdo
+ལི་སོ་ཐོ།	Lesoto
+ལི་བེ་རི་ཡ།	Liberio
+ལི་པི་ཡ།	Libio
+མ་ད་གཱ་སི་ཀར།	Madagaskaro
+མ་ལ་ཝི།	Malavio
+མའུ་རི་ཏ་ནི་ཡ།	Maŭritanio
+མའུ་རི་ཊིའུ་སུ།	Maŭricio
+མོ་རོ་ཁོ།	Maroko
+མོ་ཛམ་བིཀ།	Mozambiko
+ན་མི་བྷི་ཡ།	Namibio
+ནི་ཇར།	Niĝero
+ནི་ཇི་རི་ཡ།	Niĝerio
+ཨུ་གན་ད།	Ugando
+རུ་ཝན་ཌ།	Ruando
+སའོ་ཊོ་མེ་དང་པི་རིན་སི་པ།	Sao-Tomeo kaj Principeo
+སི་ནི་གཱལ།	Senegalo
+སེ་ཞེལ།	Sejŝeloj
+སི་ར་ལེ་ཨོན།	Siera-Leono
+སོ་མ་ལི།	Somalio
+ཡིའུ་ལི་ཝུའུ་སི་ཁའེ་ས།	Julio Cezaro
+སུའུ་ཏན།	Sudano
+སུ་ཝ་ཛི་ལནཌ།	Svazilando
+འཇའ།	Ĉielarko
+གྷུ་ཇ་རཱཏ།	Guĝaratio
+མཉམ་འབྲེལ་རྒྱལ་ཚོགས།	Unuiĝintaj Nacioj
+ཏན་ཐེ།	Dante Alighieri
+ས་ཁམས་རིག་པ།	Geografio
+པུ་ལ་ཁེ།	Prago
+སྔོན་པོ།	Blua
+འབོམ་སྦེ	Mumbajo
+ཨཱན་དྷ་ར་མངའ་སྡེ།	Andra-Pradeŝo
+ཨ་རུ་ནཱ་ཅལ་མངའ་སྡེ།	Arunaĉal-Pradeŝo
+ཨཱསཱམ།	Asamo
+སྦི་ཧཱར།	Biharo
+མི་ཅི་གྷན།	Miĉigano
+ཆར་ཊི་སི་གྷར།	Ĉhatisgaro
+གྷོའ།	Goao
+ཧ་རི་ཡཱ་ཎཱ།	Harjano
+ཧི་མ་ཅལ་མངའ་སྡེ།	Himaĉal-Pradeŝo
+ཇ་མུ་དང་ཀ་ཤི་མིར།	Ĝamuo kaj Kaŝmiro
+རྗར་ཁན་ཌི།	Ĝharkhando
+ཁར་ན་ཀྲ་ཁཱ།	Karnatako
+ཀེ་ར་ལཱ།	Keralao
+མཱ་ནི་པུར།	Manipuro
+མོན་ཏཱ་ན།	Montano
+ཝ་ཡོ་མིང་།	Vajomingo
+ཇེ་རུ་ས་ལེམ།	Jerusalemo
+ཝ་ཤིན་ཏྲོན། (རྒྱལ་ཁབ།)	Vaŝingtonio
+ནེ་བ་ད།	Nevado
+ཏོན་གཙང་པོ།	Don (rivero)
+ཝེ་ནེ་ཏོ།	Veneto
+ཁོ་སོ་ཝོ།	Kosovo
+ཁོ་ལོ་ར་ཌོ།	Koloradio
+ཁོ་ལོ་ར་ཌོ་གཙང་པོ།	Kolorado (rivero)
+Category:རིགས།	Kategorio:Ĉio
+ཕི་ལེ་ཟི་ཕ་སི་ཁལ།	Blaise Pascal
+མཆོང་སྒྲིག་མིག་མངས།	Damludo
+དགུན་ཁ།	Vintro
+དཔྱིད།	Printempo
+དབྱར་ཁ།	Somero
+སྟོན་ཁ།	Aŭtuno
+སེ་པན་སྐད།	Hispana lingvo
+མཱོན་ཊི་ཝི་ཌོ།	Montevideo
+ཀ་ལི་ཀུ་ཏ	Kolkato
+དྷ་ཁ།	Dako
+ཨི་སི་ལམ་བོ།	Islamabado
+ཤིང་ཏོག	Frukto
+སྤྲེའུ།	Simio
+དངུལ་ལོར།	Mono
+ཝིར་ཇི་ནི་ཡ།	Virginio (ŝtato)
+མ་རིས་ལེན་ཌ།	Marilando
+དྷེའི་ལ་ཝར།	Delavaro
+ལེ་ཉིན།	Lenin
+ཨོ་ཧེའོ།	Ohio
+བིར་སྒྲེལ།	Vergilio
+ཕེན་སུལ་ཝེ་ནའི་ཡ།	Pensilvanio
+པོ་ཅ་ཆུའུ།	Giovanni Boccaccio
+ཨའོ་ཀུའུ་སི་ཏུའུ།	Aŭgusto Cezaro
+ནེའུ་ཇེར་སས།	Nov-Ĵerzejo
+ཨིན་ཌི་ཡཱ་ན།	Indianio
+འཇོར་ཇི་ཡ། (ཨ་མེ་རི་ཁ།)	Georgio
+མར་ཁུའུ་སེ་ཨའུ་རེ་ལིའུ་སེ།	Marko Aŭrelio
+ཛག་རེབ།	Zagrebo
+ཋེག་ཟ་སི།	Teksaso
+ཏཱ་མིལ་ན་ཌུ།	Tamilnado
+ཁ་རོ་ལི་ན་ལྷོ་ཕྱོགས།	Suda Karolino
+སི་ཅི་ལི་ཡ།	Sicilio
+མ་ནི་ལ།	Manilo
+ལུའུ་ཝར་གཙང་པོ།	Luaro
+སེ་ན་གཙང་པོ།	Sejno
+པུ་ཨེ་ནོ་སི་ཨས་རི་སི།	Bonaero
+མེག་སི་ཀོ་གྲོང་།	Meksik-urbo
+ཐོ་ཁེ་ཡོ།	Tokio
+བྷར་སེ་ལོ་ནཱ།	Barcelono
+ཐང་འབྲས།	Ananaso
+མི་སི་སི་ཕི།	Misisipio
+མི་སི་སི་ཕི་གཙང་པོ།	Misisipo (rivero)
+འབྲས་ལྗོངས།	Sikimo
+ཐེན་ནེ་སི།	Tenesio
+ཨ་པོའུ་དྷ་པེ།	Abu-Dabio
+ཨ་སི་ཐ་ན།	Astano
+མེག་སི་ཀོ་གསར་མ།	Nov-Meksiko
+ཨ་ཐེན།	Ateno
+པ་ག་ཏ	Bagdado
+ཁ་ར་ཁ་སི	Karakaso
+ཝིས་སི་ཁོན་སིན།	Viskonsino
+ཡོ་བ།	Iovao
+གུ་ཝེ་ཐི་མ་ལ་གྲོང་ཁྱེར།	Gvatemalurbo
+ཁན་སཱ་སི།	Kansaso
+ཧ་ཝན	Havano
+རྒྱ་གར་སྐད།	Hindia lingvo
+ཤོག་དྲིལ་དུ་བ།	Cigaredo
+ཚོགས་བདག	Ganeŝo
+ལུའི་ཟི་ཨཱན་ནཱ།	Luiziano
+ཨར་ཁན་སཱ་སི།	Arkansaso
+ཕའི་ཆིའུ་སྤོ་ལོ།	Flugpilkado
+ཝི་ཨེ་ན།	Vieno
+ཁོ་ཕེན་ཧ་ཀེན།	Kopenhago
+སི་ཏོག་ཧོ་ལིམ།	Stokholmo
+ཧེལ་སིན་ཀི།	Helsinko
+དུབ་ལིན།	Dublino
+རེཀ་ཇ་བིཀ།	Rejkjaviko
+ཏཱལ་་ལིན།	Talino
+རི་ག	Rigo
+བ་ར་ཏིསི་ལ་བ།	Bratislavo
+བུ་ད་ཕེ་སིད།	Budapeŝto
+ལུ་སེམ་བའུརག (གྲོང་རྡལ།)	Luksemburgo
+བ་དུ་ཛི།	Vaduzo
+གསུང་རབ།	Biblio
+སན་མ་རི་ནོ། (གྲོང་རྡལ།)	San-Marino (urbo)
+ཕོམ་ཕེན།	Pnom-Peno
+ཧོ་ཀྲི་མིན་གྲོང་ཁྱེར།	Ho-Ĉi-Min-urbo
+ཧེ་ནོ།	Hanojo
+སྟོན་པ་ཡེ་ཤུའི་ཆོས་ཚོགས།	Vera Eklezio de Jesuo
+དབྱིན་ཇིའི་སྐད།	Angla lingvo
+པན་ཀོག	Bankoko
+ཨན་ཌོར་ར་གྲོང་ཁྱེར།	Andoro Malnova
+ཁལ་ལུང་ཕུ།	Kuala-Lumpuro
+ཐའེ་པེ	Tajpeo
+ཕྱི་འབྲིལ།	Diplomatio
+ཀིབ།	Kievo
+ཨོ་ཏ་ཝ།	Otavo
+ཡེ་རེ་ཝན།	Erevano
+ཏ་རེ་སི་ས་ལམ།	Daresalamo
+ཁར་ཏུམ།	Ĥartumo
+༢༠༠༩	2009
+ཝེ་རོ་ན།	Verono
+ཧྥུ་ལོ་རོན་ཟིའུ་ཡ།	Florenco
+ཨེ་ཏི་མོན་ཐོན།	Edmontono
+སྦྲུལ།	Serpento
+ཁ་ཐོག་གི་ཆགས་སྦྱོར།	Buŝa seksumado
+ཁོའོ་ལུ་ཧྲི།	Michel Colucci
+ལུའོ་མུའུ་ལུའོ་སི་དང་རུའེ་མོ་སི།	Romulo kaj Remo
+ཞི་པི་ཨ་ཨ་ཧྥེ་རི་ཁ་ནུའོ་སི།	Skipio Afrika
+མིན་སིཀ།	Minsko
+རྫས་འགྱུར་རིག་པ།	Kemio
+༡༩༨༩	1989
+༡༩༨༡	1981
+མོ་ག་དི་ཤུ།	Mogadiŝo
+ན་སའོ། (བ་ཧ་མཱ་སི།)	Nasaŭo (Bahamoj)
+ས་ནཱ།	Sanao
+རྐང་རྩེད་སྤོ་ལོ།	Futbalo
+ཡཱ་ཁོ་དང་ཝེ་ལེམ་.ཀོ་ལིམ།	Fratoj Grimm
+མ་ད་རིད།	Madrido
+ཁོལ་ཁོལ་ཁུ་ནག	Koka-kolao
+མའེ་ཁོའོ་ཅས་ཁ་ཤུན།	Michael Jackson
+ཚད་རིམས།	Gripo
+པོ་གོ་ཏ	Bogoto
+པུ་རུ་ཟི་ལི་ཡ།	Braziljo
+ལི་མ།	Limo
+སཱན་ཏི་ཡ་གོ (ཅི་ལི།)	Santiago de Ĉilio
+ཁེ་ཐོ།	Kito
+སུ་ཁུ་རེ།	Sukro
+ཨ་སུན་སི་འན།	Asunciono
+ར་མ།	Hejma kapro
+ཝེ་ཧི་ས་ཡེ་ཕོ་བྲང་།	Kastelo de Versailles
+རང་དབང་།	Libereco
+པེ་ར་མེ་རི་བོ།	Paramaribo
+ཀ་ཏ་མན་ཏུ།	Katmanduo
+པེར་མོ་ཕན།	Belmopano
+སན་ཇོ་སེ། (ཁོ་ས་ཏ་རི་ཁ།)	San-Joseo (Kostariko)
+སན་སལ་ཝ་ཌོར།	San-Salvadoro
+ཁན་པེ་ར།	Kanbero
+སིད་ནེ།	Sidnejo
+ལྗང་ཁུ།	Verdo
+མེར་བུན	Melburno
+དམར་པོ།	Ruĝa
+ཨ་ཝེ་རོང་།	Aveyron
+ཐེ་གུ་སི་གེ་པ།	Tegucigalpo
+མ་ན་གུ་འ།	Managvo
+པ་ན་མ། (གྲོང་རྡལ།)	Panamurbo
+ཁོང་ཀོ་གཙང་པོ།	Kongo (rivero)
+ར་བ་ཐེ།	Rabato
+ཨཱལ་ཇི་ཡར་སི།	Alĝero
+ཊུ་ནིསི།	Tunizo
+ཐི་རི་ཕོ་ལི	Tripolo
+ཇི་བའོ་ཊི། (གྲོང་རྡལ།)	Ĝibuto
+ཏེ་ཧི་རན།	Teherano
+ཨ་ཌི་སི་ཨ་བ་བ།	Adis-Abebo
+ཊ་ཁར་ཏ།	Ĝakarto
+ཨན་ཁ་ར།	Ankaro
+ཨཱ་སི་མི་ར།	Asmaro
+ཇ་མི་ན།	Nĵameno
+ནི་ཡ་མེ།	Niameo
+ནའུ་ཀ་ཅོ་ཊི།	Nuakŝoto
+རིས་ཡག	Riado
+བ་མ་ཀོ།	Bamako
+བེལ་གེ་རེ་ཌི།	Beogrado
+ཌ་ཀར།	Dakaro
+བཱན་ཇཱུ་ལ།	Banĵulo
+ཀོ་ནཀ་རི།	Konakrio
+བི་སའོ།	Bisaŭo
+Category:སྒྲོམ་གཞི།	Kategorio:Vikipedio:Ŝablonoj
+མོང་རོ་ཝི་ཡ།	Monrovio
+ཕུ་ར་ཡ།	Prajo
+ཇ་ཝ།	Javo
+ཨ་ཁ་ར།	Akrao
+དྷ་མ་སི་ཁོ་སི།	Damasko
+ཡམ་སོ་ཁེ་རོ།	Jamusukro
+ཨོ་འ་ག་དོའུ་གོའུ།	Uagaduguo
+ཕིརི་ཊའུན།	Fritaŭno
+ཡ་མ་སོན་གཙང་པོ།	Amazono (rivero)
+ཨ་པུ་ཅ།	Abuĝo
+ལཱོ་མེ།	Lomeo
+པོར་ཊོ་-ནོ་བོ།	Porto-Novo
+ཨམ་མན།	Amano
+ཡོན་དྷི།	Jaundeo
+མ་ལ་བོ།	Malabo
+པེ་རུ་ཐེ།	Bejruto
+ལིབ་རེ་ཝིལ།	Librevilo
+མི་སི་ཁ་ཁྲི།	Maskato
+བང་གུའི།	Bango
+ཀིན་ཤ་ས།	Kinŝaso
+བ་ར་ཛ་བི་ལི།	Brazavilo
+བུ་ཇུམ་བུ་ར།	Buĵumburo
+ནེ་ཁོ་ཤི་ཡ།	Nikozio
+ཀི་ག་ལི།	Kigalo
+དྷོ་ཧ།	Doho
+ནའི་རོ་བི།	Najrobo
+ལི་ལོང་ཀུའེ།	Lilongvo
+ལུ་ས་ཀ།	Lusako
+མ་ན་མ།	Manamo
+མ་པུ་ཊོ།	Maputo
+ཀམ་པ་ལ།	Kampalo
+ལའུན་ཌ།	Luando
+མོ་རོ་ནི། (ཁོ་མོ་རོ་སུ།)	Moronio
+མ་པ་པན།	Mbabano
+མ་སི་རུ།	Maseruo
+སློབ་གྲྭ།	Lernejo
+ཨེན་ཊ་ན་ན་རི་བོ།	Antananarivo
+སློབ་གྲྭ་ཆེན་མོ།	Universitato
+ག་བོ་རོ་ནི།	Gaberono
+ཧ་ར་རི།	Harareo
+ཕི་རི་ཐོ་རི་ཡ།	Pretorio
+ལོ་ཡི་སི་གྲུ་ཁ།	Port-Luiso
+ཕིན་ཕང་སྤོ་ལོ།	Tabloteniso
+སའོ་ཊོ་མེ།	Sao-Tomeo
+ཝིན་ཌི་ཧོཡིཀ།	Vindhuko
+Wikipedia:Sandbox	Vikipedio:Provejo
+ཝིག་ཐོ་རི་ཡ། (སེ་ཞེལ།)	Viktorio (Sejŝeloj)
+ནང་།	Domo
+ཉི་ཕུའུ་ཏུན།	Neptuno (dio)
+གྲོང་རྡལ།	Taŭno
+ཆུ་རྒྱུན།	Rivero
+གཟི་རྩ་སྡེ་དགུ་	Jiuzhaigou
+ཝུའུ་ལིན་ཡོན།	Vulingjuan
+ལུ་ཛེར་ན།	Lucerno
+Category:ཉི་ཧུང་གི་ལོ་རྒྱུས།	Kategorio:Historio de Japanio
+ཨེ་མི་ལིས་ཏིས་ཁེན་སིན།	Emily Dickinson
+ཁུང་ཙི།	Konfuceo
+Category:རྩིས་རིག	Kategorio:Matematiko
+Category:རྒྱ་གར་གི་ལོ་རྒྱུས།	Kategorio:Historio de Barato
+ཀྲུའུ་པི་ཐེ།	Jupitero (dio)
+ཏི་ཀྲུང་ཧའེ་རྒྱ་མཚོ།	Mediteraneo
+ཧང་ཀྲོའུ།	Hangĝoŭo
+ཡེ་ཤུའི་ཆོས་ལུགས།	Kristanismo
+པེར་ལིན་ལྕགས་རི།	Berlina muro
+གླང་ཆེན་ཁ་བབས།	Gango
+འབྲས།	Rizo
+བྷལ་ཏྲི་མོར།	Baltimore (Marilando)
+བྱ།	Birdoj
+པོ་ཅུ་གྷལ་གྱི་སྐད།	Portugala lingvo
+ཟླ།	Monato
+ཉི་ཧོང་སྐད།	Japana lingvo
+གཙོ་ངོས།	Vikipedio:Ĉefpaĝo
+Cpu	Procesoro
+དེ་སྦེལ།	Decibelo
+འབྲི་ཆུ	Jangzio
+སེ་པོ་རི་ཡ།	Siberio
+ཧྥུ་རོན་སི་སི་ཀོ་ཀོའོ་ཡ།	Francisco de Goya
+ཧི་མ་ལ་ཡ	Himalajo
+མཚོ་མོ་ཝེ་ཁེ་ཐོ་རི་ཡ།	Viktoria lago
+པེ་གལ་མཚེའུ།	Bajkalo
+སལ་ཝ་ཌོར་དཱ་ལི།	Salvador Dalí
+ཝིན་སན་ཝན་ཀའོ།	Vincent van Gogh
+ཧོ་ཀུ་སའི།	Katsushika Hokusai
+ཧྥ་རིས་ད་ཀ་ལོ།	Frida Kahlo
+མེ་ཀེ་ལན་ཇུ་ལོ།	Mikelanĝelo
+པ་བུ་ལོ་པི་ཀ་སོ།	Pablo Picasso
+ར་ཧྥ་ཨེལ་ལོ་སན་ཛིའོ།	Rafaelo
+ཧྥ་ར་ཨན་ཇེ་ལི་ཁོ།	Fra Angelico
+སན་ཌོ་པའོ་ཊི་ཅེ་ལི།	Sandro Botticelli
+མ་ཏི་སུའོ་བ་ཤོ།	Matsuo Basho
+པི་ཨེར་ཇོ་སེ་ཧྥེ་པུ་རུ་དོང་།	Pierre-Joseph Proudhon
+མ་ཁ།	Mekko
+མའོ་ཙེ་ཏུང་།	Mao Zedong
+ཤེ་ཨན།	Ŝjiano
+པེ་རུ་ཇི་ནོ།	Pietro Perugino
+ཇང་ལུག་མེ་ལང་ཅོང་།	Jean-Luc Mélenchon
+ཁ་པུལ།	Kabulo
+ལྷ་ས།	Lasao
+ཆགས་སྦྱོར་བྱེད་པ།	Amoro
+ཆགས་པ་མཐོ་རུ་འཕེལ་བ།	Orgasmo
+མཚན་ཉིད་རིག་པ།	Filozofio
+Category:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+རྣོ་སྦྲེང་།	Piano
+ཇ།	Teo
+མཱར་ཁོ་ཕོ་ལོ།	Marko Polo
+གཞུང་མེད་ལམ་སྲོལ།	Anarkiismo
+ཧྥ་ཤི་སིའི་རིང་ལུགས།	Faŝismo
+མི་རིགས་རིང་ལུགས།	Naciismo
+ནུབ་ས་ཧ་ར།	Okcidenta Saharo
+ཅ་ཐའེ་ཅི།	Kartago
+ཨ་ཝི་ཉོང་།	Avignon
+Category:གཟའ་སྐར་རིག་པ།	Kategorio:Astronomio
+ཏ་ཏ་ནེར་མཚོ་འགག	Dardaneloj
+གདང་ཡ་ཙེ།	Donaldo Anaso
+ས་ཧ་ར་བྱེ་ཐང་ཆེན་པོ།	Saharo
+སི་ཐི་རཱ་སི་བུར།	Strasburgo
+རྒྱུད་དྲུག	Gitaro
+མཚན་མཐུན་དགའ་རོགས་སྒྲིག་པ།	Samseksemo
+ཧོ་མུར།	Homero
+དི་ཇཱོན།	Dijon
+ལུ་ག་ནོ།	Lugano
+སངས་རྒྱས། (ཐ་སྙད།)	Budho
+ལྷ་མེད་སྨྲ་བ་པོ།	Ateismo
+ལི་པའེ།	Li Bai
+དཔེ་མཛོད་ཁང་།	Librarejo
+ཆབ་སྲིད་ཀྱི།	Politiko
+ཆིན་རྒྱལ་རབས།	Dinastio Qin
+ཆིན་ཧྲི་ཧོང་།	Qin Shihuangdi
+ཨོ་བི་རྡི།	Ovidio
+ཧན་རྒྱལ་རབས།	Dinastio Han
+ལིའུ་པང་།	Liu Bang
+ཧན་ཝུའུ་ཏི།	Wu Di
+ཐོར་སི་ཐའེ།	Lev Tolstoj
+མར་ཁེ་སེ་རིང་ལུགས།	Marksismo
+རྒྱལ་སྲིད།	Monarkio
+འཁྲབ་སྒྲགས།	Propagando
+བྱ་སྒྲོ་སྤོ་ལོ།	Badmintono
+རི་བོ་ཆི་ལི་མ་ཀྲ་ལུའོ།	Kilimanĝaro
+ཁ་སྐྱེལ་པ།	Kiso
+ཡོན་རྒྱལ་རབས།	Dinastio Yuan
+ཁ་རི་སི་ཐོའོ་ཧྥུ་ཀོ་ལུན་སྤུ་སི།	Kristoforo Kolumbo
+སེང་གེ་ཁ་འབབ	Induso
+རྨ་ཆུ།	Flava Rivero
+སྣ།	Nazo (organo)
+མིག	Okulo
+ལུག	Ŝafo
+གཏུམ་ཉ།	Ŝarko
+རྔ་མོང་།	Kamelo
+འུ་འཐུང་སྲོག་ཆགས།	Mamuloj
+གླང་ཆེན།	Elefanto
+འབུ་གྲོག་མ།	Formiko
+མར་ག་རེ་ཐ་ཁྲ་ཆེའར།	Margaret Thatcher
+མེ་ཚལ་དཀར་པོ།	Florbrasiko
+རྡོ་ལུ་མ།	Melongeno
+བྱ་གག	Anasedoj
+ཨ་མ།	Patrino
+ཨ་ཕ།	Patro
+ཕྲུ་གུ	Infano
+ཇང་མར་ཀི་ཨེ་རོ།	Jean-Marc Ayrault
+ཨུ་རུ་སུའི་སྐད།	Rusa lingvo
+ཁྲིམས།	Leĝo (jura)
+ཡོ་རོབ་གི་ལོ་རྒྱུས།	Historio de Eŭropo
+༄༅༎ ཡོངས་ཁྱབ་གསལ་བསྒྲགས་འགྲོ་བ་མིའི་ཐོབ་ཐང༌།	Universala Deklaracio de Homaj Rajtoj
+ཆའོ་ཐོ།	Giotto
+ཨན་ནི་བ་ལེ་ཁས་ར་ཅི།	Annibale Carracci
+རྒྱ་སྐད།	Ĉina lingvaro
+ཁྲག	Sango
+ཊོའུ་ལོའུ་སེ།	Tuluzo
+ཆར་པ།	Pluvo
+ཟེན།	Zeno
+རང་བྱུང་གི་ཚན་རིག	Naturscienco
+འགྲིམ་འགྲུལ་བརྡ་སྒྲོན།	Trafiklumoj
+ཝིན་སུ་ཏོན་ཆུར་ཆེལ།	Winston Churchill
+སན་ཏོ་ཨོའོ་ཀོའོ་སེ་ཐིང་།	Aŭgusteno de Hipono
+ནེལ་སོན་མཱན་ཌེ་ལ།	Nelson Mandela
+མར་ཏིན་ལུ་ཏར་ཁིན།	Martin Luther King
+མེ་རི།	Vulkano
+སྤྲིན།	Nubo
+དབྱིབས་རྩིས་རིག་པ།	Geometrio
+བརྡ་སྤྲོད་ཀྱི་གཞུང་།	Gramatiko
+རླུང་།	Vento
+དཔལ་འབྱོར་རིག་པ།	Ekonomiko
+སྐད་བརྡ་རིག་པ།	Lingvoscienco
+སྒྲ་ཚན།	Fonemo
+ཀེ་རི་སིའི་དབྱངས་གསལ་རེའུ་མིག	Greka alfabeto
+Category:པུ་ར་ག་རི་ཡ།	Kategorio:Bulgario
+རྩོམ་རིག་ཡི་གེའི་རིག་པ།	Literaturo
+Category:ཧྥ་རན་སི།	Kategorio:Francio
+Category:རོལ་དབྱངས།	Kategorio:Muziko
+Category:རྩོམ་རིག	Kategorio:Literaturo
+ཁང་ཆེན་དམར་པོའི་རྨི་ལམ།	Ruĝdoma sonĝo
+མན་གྷ།	Mangao
+ཨེ་ལི་ཡེ་ཏེ།	Iliado
+༼མ་ཧ་བ་ར་ཏ།༽	Mahabharato
+ཝ་མོ།	Vulpo
+ཝ་དམར།	Ruĝa vulpo
+འཁྱིལ་ཆུང་།	Trumpeto
+ཨོག་ལེན།	Violono
+ཆགས་སྦྱོར་བྱེད་སྟངས་ཀྱི་ཐོ།	Listo de seksaj pozicioj
+ལག་གཡེམ།	Sinmasturbado
+བཤང་སྒོའི་ཆགས་སྦྱོར།	Anusa seksumado
+སློབ་གསོ།	Eduko
+ཁྱིམ་ཚང་།	Familio
+ཕོ་གཞོན།	Viro
+ཆང་ས།	Geedzeco
+བྲན་གཡོག་རིང་ལུགས།	Sklaveco
+དམག་དོན།	Militfortoj
+ཁོ་ཧྥེ།	Kafo
+སིལ་ཁུ།	Suko
+སུན་ཀྲུང་ཧྲན།	Sun Jatsen
+ཧོང་ཀོང་།	Honkongo
+ཀ་ར་ཆི	Karaĉio
+རིའོ་ཌེ་ཇ་ནེའུ་རའོ།	Rio-de-Ĵanejro
+སེ་ཨུལ།	Seulo
+ཧྲང་ཧའེ་གྲོང་ཁྱེར།	Ŝanhajo
+རིག་གནས་གསར་བརྗེ་ཆེན་པོ	Kultura Revolucio
+ཆིང་རྒྱལ་རབས།	Dinastio Qing
+ཨར་ཁི་མེའུ་ཏེ་སི།	Arkimedo
+ཡོའུ་ཁེ་ལེ་ཏེ།	Eŭklido
+ཨུཀ་རཡི་ནི་སྐད།	Ukraina lingvo
+ནམ་ཆོམ་སི་ཀེ།	Noam Chomsky
+པུ་ཏིང་།	Pudingo
+ཁཱར་ལ་མར་ཁེ་སི།	Karl Marx
+མོ་ཤི།	Moseo
+ཧིན་ཏུའི་ཆོས་ལུགས།	Hinduismo
+ནུ་མ།	Mamo
+འོད་རིག་པ་	Lumo
+ཀེ་རི་སིའི་སྐད།	Greka lingvo
+ཐེ་ཇི་བང་སོ།	Taĝ-Mahalo
+བྱ་ཁྱིའུ།	Pingveno
+གློག་རྡུལ་འཕྲིན་སྒམ།	Retpoŝto
+ལྷ་གཅིག་ཆོས་ལུགས།	Monoteismo
+ལྷ་མང་ཆོས་ལུགས།	Politeismo
+ཏ་ཟིག་གི་སྐད།	Persa lingvo
+ཆོས་ལུགས།	Religio
+ཨབ་ར་ཧམ།	Abraham
+རོས་ནེ་དེ་ཁར་ཏེ།	René Descartes
+རང་དབང་ལྷ་མོའི་འདྲ་བརྙན།	Statuo de Libereco
+ལུམ་བི་ནི་	Lumbini
+འབར་མའི་སྐད།	Birma lingvo
+གཅེར་བུ་བའི་ཆོས་ལུགས།	Ĝajnismo
+སོག་པོའི་སྐད།	Mongola lingvo
+པཱ་ཁི།	Bakuo
+ཡིའུ་ཐའེ་ཆོས་ལུགས།	Judismo
+ཐིམ་ཕུ།	Timbuo
+སི་རི་པེ་ཀ་མཚོ་ཁུགས་གྲོང་ཁྱེར།	Bandar-Seri-Begavano
+དྷི་ལི།	Dilo
+སིག་གི་ཆོས་ལུགས།	Sikismo
+ཏིན་ཏོ་རེ་ཏོ།	Tintoretto
+ཝིན་ཆིའང་	Vjentiano
+ལོའོ་ཙེ།	Laozio
+མ་ལེ།	Maleo (Maldivoj)
+ཡོ་ག	Jogo
+པི་སི་ཁེག	Biŝkeko
+དུ་ཤང་པེ།	Duŝanbeo
+སི་མ་ཆན།	Sima Qian
+ལུད་ཝིག་ཝིཏ་གེན་སི་ཏེ་ཡིན།	Ludwig Wittgenstein
+ཀྲུའུ་ཞི།	Zhu Xi
+འདུ་ཤེས།	Emocio
+སེམས་ཁམས་རིག་པ།	Psikologio
+ཐོ་མཱ་སི་ཨ་ཁི་ཝི་ནཱ་སི།	Tomaso de Akvino
+ཕའོ་ལོ་ཝེ་རོ་ནེ་ཟེ།	Paolo Veronese
+བཅོམ་ལྡན་འདས།	Sidarto Gotamo
+མུ་ཧ་མད།	Mohamedo
+ནགས་བྱི།	Sciuredoj
+བྱ་མ་བྱི།	Flugsciuro
+ཁུང་ཙིའི་གཞུང་ལུགས།	Konfuceismo
+ཏོའོ་ཅོའོ་ཆོས་ལུགས།	Taoismo
+ཛོ་ར་སིའི་ཆོས་ལུགས།	Zaratuŝtrismo
+སྐེ།	Kolo
+ཁ།	Buŝo
+བྲང་ཁོག	Brusto
+ཐང་རྒྱལ་རབས།	Dinastio Tang
+གནའ་གཞུང་རོལ་དབྱངས།	Klasika muziko
+ཨལ་ཧྥ།	Alfo
+ཨོ་མེ་ག	Omego
+མིའུ།	Muo (litero)
+མིང་རྒྱལ་རབས།	Dinastio Ming
+ཀྲུའུ་ཡོན་ཀྲང་།	Ĵu Juanĵang
+ཧྥའེ།	Fio (litero)
+ཙོ་ལུའུའི་སྐད།	Zulua lingvo
+ཕའེ་ཐ་གྷོ་ར་ཟི།	Pitagoro
+ཕཱར་ཧྥེ་ནན།	Partenono
+དབུལ་ཕོངས།	Malriĉeco
+རྩ་རྫས་ཀྱི་དུས་འཁོར་རེའུ་མིག།	Perioda tabelo
+ཅོར་ཅི་ཐོན། (གུ་ཡ་ན།)	Ĝorĝtaŭno (Gujano)
+རང་ཤི་རྒྱབ་པ།	Sinmortigo
+ཆགས་སྦྱོར་གྱི་མཁོ་ཆས།	Erotikaj helpiloj
+ཆགས་སྦྱོར་གྱི་ཨ་ལས་པད་གོག	Enbloviga pupo
+ཤིང་།	Arbo
+ལེམ་ད།	Lambdo
+ཆུར་བ།	Fromaĝo
+རྒུནའབྲུམ།	Vinbero
+ཞོ་ཁོག	Terpomo
+སྲན་སེར།	Sojfabo
+འཕྲུལ་འཁོར།	Maŝino
+གཅུ་འཛེར།	Ŝraŭbo
+གསར་འགོད།	Ĵurnalismo
+ཚགས་པར།	Gazeto
+རིག་གནས།	Kulturo
+ལེགས་སྦྱར་སྐད།	Sanskrito
+སྨན།	Medicino
+ས་ར་ཇི་བོ།	Sarajevo
+ཚྭ།	Salo
+Category:པུ་རུ་ཟིལ།	Kategorio:Brazilo
+Category:རོ་མ་ནི་ཡ།	Kategorio:Rumanio
+དབང་ཕྱུག	Ŝivao
+ཁྱབ་​འཇུག	Viŝnuo
+ཚངས་པ།	Brahmao
+རྔ།	Tamburo
+གླིང་བུ།	Fluto
+རོལ་རྩེད།	Ludo
+མིག་མངས་སྒོར་སྒོར།	Goo
+ཁ་ར་ཏེ།	Karateo
+འབོལ་འཇུ།	Ĵudo
+རྩེད་ཆས།	Ludilo
+གློག་བརྙན།	Filmo
+འགུལ་རིས་གློག་བརྙན།	Animacio
+སོ་ནམ།	Agrikulturo
+སྒྲ་	Sono
+དྲོད་ཚད་	Temperaturo
+དུས་ཚོད།	Tempo
+ཤོག་བུ།	Papero
+གྲངས་ཀ།	Nombro
+སྟོང་ཁེའུ།	Kilogramo
+སྨི།	Metro
+སྐར་ཆ།	Sekundo
+ཨ་ཤོམ།	Maizo
+ནས།	Ordinara hordeo
+ཁེལ།	Kelvino
+སྤྱི་ཧྲན།	Litro
+རི་མོ།	Pentrado
+འོད་པར་རྒྱབ་ཐབས།	Fotarto
+ཟློས་གར།	Teatro
+ཞབས་བྲོ།	Danco
+ཁྲུང་ཆིན་གྲོང་ཁྱེར།	Ĉongĉingo
+ཐན་ཅིན ་གྲོང་ཁྱེར།	Tjanĝino
+ཝུའུ་ཧན་གྲོང་ཁྱེར།	Vuhano
+རྒྱལ་ཁབ་དག་གི་མིང་།	Listo de sendependaj ŝtatoj
+ལོ་རྒྱུས་བྱུང་གོང་གི་དུས་མཚམས།	Prahistorio
+རྡོ་ཆས་སྤྱོད་པའི་དུས་རབས།	Ŝtonepoko
+ཟངས་ཆས་སྤྱོད་པའི་དུས་རབས།	Bronzepoko
+ལྕགས་ཆས་སྤྱོད་པའི་དུས་རབས།	Ferepoko
+གནའ་རབས་ཀེ་རི་སི།	Antikva Grekio
+དོམ།	Urso
+༄༅།། གངས་དཀར་སྲས་མོ།	Neĝblankulino
+༄༅།། ཞྭ་མོ་དམར་ཆུང་།	Ruĝkufulineto
+མིག་གིའི་ཙི་ཙི།	Mickey Mouse
+མངལ་སྦུམ་པ།	Gravedeco
+བེ་ཤིང་།	Kverko
+ཐང་ཤིང་།	Pino
+འབྲས་སྐྲན།	Kancero
+སྐྱུག་ཤལ་འགོས་ནད།	Ĥolero
+གྲོ་ནག	Sekalo
+གྲི་རྩེད།	Skermo
+ཡུག་པོ།	Kutima aveno
+གྲོ།	Tritiko
+འབྲུ་རིགས།	Greno
+འོན་པ	Surdeco
+ན་ཚ།	Malsano
+བེ་རེ་སི་ཊི། (ཧྥ་རན་སི།)	Brest (Francio)
+གློ་གཅོང་གི་ནད།	Tuberkulozo
+མ་ཅང་།	Maĝango
+ཁང་རྩིག་བཟོ་རིག	Arkitekturo
+ཟམ་པ།	Ponto
+མོ་ན་ལི་ས།	La Gioconda
+ལྕགས་རི་རིང་པོ།	Granda Ĉina Muro
+གློག་རིག་པ།	Elektro
+དཔའ་དམ།	Glavo
+ཝོ་ཁ་ལུ་ཟེ།	Vaucluse
+ཨུམ་བེར་ཏོ་ཨེ་ཀོ།	Umberto Eco
+ཁྲབ་ལྡན་འཁོར་ལོ།	Tanko
+ཕོ་ལོ་ཁོའེ་ལོ།	Paulo Coelho
+མ་ཇུ་རོ།	Majuro
+མ་རིན་ལེ་པེན།	Marine Le Pen
+འབྲུག་ཚགས།	Liĉio
+བེ་ཏ།	Kokoso
+སེ་འབྲུ།	Granatujo
+ཁམ་བུ།	Persiko
+ཚ་ལུ་མ།	Oranĝo (frukto)
+སྤྲེལ་ཁམ།	Kivifrukto
+ཀྲོང་སྐད།	Ĝŭanga lingvo
+ཡུལ་གོར་སྐད།	Ujgura lingvo
+ཀ་རཱ་ར།	Kararo
+འབུར་མདའ།	Kamŝafto
+ཐའེ་པོ་ཆུ་བོ།	Tibero
+ནུ་ཤུབ།	Mamzono
+ཨན་ཇེ་ལི་ནའ་ཇོའོ་ལི།	Angelina Jolie
+ཨ་རབ་སྐད།	Araba lingvo
+ཧོན་ཤུ།	Honŝu
+སྲུང་ཤུབས།	Kondomo
+ཥིང་ཏ་ལ་	Arekacoj
+མོ་ཟ་རེལ་ལ། (ཆུར་བ།)	Mocarelo
+ཁོར་སི་ཁ་གླིང་ཕྲན།	Korsiko
+པིས་ཐ།	Beto (litero)
+གྷེ་མ།	Gamo (litero)
+དེལ་ཐ།	Delto (litero)
+ཨེ་ཕི་སེ་ལོན།	Epsilono
+ཟེས་ཐ།	Zeto
+ཨིས་ཐ།	Eto (litero)
+ཐིས་ཐ།	Teto
+ཨའོ་ཐ།	Joto
+ཁེ་ཕི།	Kapo (litero)
+ནིའུ།	Nuo (litero)
+ཁི་སའེ།	Ksio
+ཨོ་མི་ཁི་རོན།	Omikrono
+རོའུ།	Roto (litero)
+སིག་མ།	Sigmo
+ཐོ།	Taŭo (litero)
+ཡུབ་སི་ལོན།	Upsilono
+ཁའེ།	Ĥio (litero)
+ཕི་སའེ།	Psio (litero)
+ཀླུ་ཥིང་	Kakto
+གོ་རེ་ཤིང་འབྲས།	Panarbo
+ཧུའུ་ཅིན་ཐོའོ།	Hu Jintao
+ཞིས་ཅིན་ཕིང་།	Xi Jinping
+ཤ་བ་སྐེ་རིང་།	Ĝirafo (specio)
+ཕོ་རོའོ་ཝང་སི་ཝལ་ཕེས་ཁོ་ཏེ་ད་ཟུར།	Provenco-Alpoj-Bordo Lazura
+མཆུ།	Lipo
+ཀོང་ཏུང་ཞིང་ཆེན།	Gŭangdongo
+ཀོའོང་ཤི་ཀྲོང་རིགས་རང་སྐྱོང་ལྗོངས།	Gŭangŝjio
+པར་ཆས།	Fotilo
+སྲམ་ངང་མཆུ་ཅན།	Ornitorinko
+རྩིགས་རྨིགས།	Geko
+རྩངས་པ།	Lacertuloj
+ཁ་ཏ་ཉ། (ཞིང་ཆེན།)	Provinco de Katanio
+མེ་སི་ན། (ཞིང་ཆེན།)	Provinco de Mesino
+ཕ་ལེར་མོ། (ཞིང་ཆེན།)	Provinco de Palermo
+དཔུང་པ།	Ŝultro
+མི་དི་ཕི་རེ་ནེ།	Sudo-Pireneoj
+ལི་ཞོའོ་ལུང་།	Bruce Lee
+Template:Link FA	Ŝablono:LigoElstara
+ཁྲིམས་དཔོན།	Juĝisto
+ཀོང་ཀྲོའུ་གྲོང་ཁྱེར།	Kantono (Ĉinio)
+ཅང་རྩེ་མིན།	Jiang Zemin
+ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།	Urumĉio
+ཅང་སུའུ་ཞིང་ཆེན།	Ĝjangsuo
+ཀྲེ་ཅང་ཞིང་ཆེན།	Ĝeĝjango
+ཨེཏ་ན་རི་བོ།	Etna
+རེ་འབྱམས་མཆུ་རིང་།	Gavialo
+ཇི་ཡོ་ཝ་ནི་བེལ་ལི་ནི།	Giovanni Bellini
+བོད་རང་སྐྱོང་ལྗོངས།	Tibeto
+བསྟན་འཛིན་རྒྱ་མཚོ།	Tenzin Gyatso
+ཨར་ལེ་ཀི་ནོ།	Arlekeno
+ལག་ཐོག་ཁ་དཔར།	Poŝtelefono
+འགག་བརྡར་གྱི་སྒྲ།	Afrikato
+ཧོ་ནོ་ལུ་ལུ།	Honolulu
+ཀོ་རི་ཡ།	Koreio
+ཀོའོ་ཤིན་ཅན།	Gao Xingjian
+སྤྱང་ཀི	Lupo
+ཕོང་ཡང་།	Pjongjango
+ཡེ་དེན་གྱི་ལདུམ་རའི་སྐོར།	Edena ĝardeno
+༩ (གྲངས་ཀ།)	9 (nombro)
+ཧའེ་ལུང་ཅང་ཞིང་ཆེན།	Hejlongĝjango
+ཁྱུ་དགའ།	Pelikano
+པོ་དོལ་སིག	Podolsk
+བོ་ནོ་བོ།	Eta ĉimpanzo
+པུ་ཁ་རེ་སིད།	Bukareŝto
+ཨཱལ་གྷོར།	Al Gore
+ལུའུ་བུ་ཝི་ཕོ་བྲང་།	Luvro
+ཐེམ་ཟི་གཙང་པོ།	Tamizo
+ཐིས་རན།	Tirano
+བོང་བུ།	Azeno
+སི་ཁྲོན་ཞིང་ཆེན།	Siĉuano
+ཡེ་ཤུའི་འཁྲུངས་སྐར།	Kristnasko
+ལ་ཊིན་ནས་ཆད་པའི་ཡུལ་སྐད།	Latinida lingvaro
+སེ་ཏེའི་ཧྥུ་འོ་པོ་སེ།	Steve Jobs
+ཧིན་རྡུ་དང་ཡོ་རོབ་ཀྱི་སྐད།	Hindeŭropa lingvaro
+སྟག	Tigro
+ཅི་སི་ནའུ།	Kiŝinevo
+རང་བྱུང་གྲངས།	Natura nombro
+སྤྱི་ཚོགས་རིག་པ།	Sociologio
+རྒྱལ་སྤྱིའི་སྒྲ་རྟགས།	Internacia Fonetika Alfabeto
+ཧའོ་པེ་ཞིང་ཆེན།	Hebejo
+ཨོ་རི་ས།	Odiŝo
+པན་ཇབ།	Panĝabo (Barato)
+མེ་ཊི་ཛི།	Metz
+རི་འཛེག་ལུས་རྩལ།	Grimpado
+ཚྭ་མཚོའི་གྲོང་ཁྱེར།	Sallaga Urbo
+༧ (གྲངས་ཀ།)	7 (nombro)
+༨ (གྲངས་ཀ།)	8 (nombro)
+Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres
+གཟའ་འཁོར།	Semajno
+ཤ་བ།	Cervedoj
+སྒོག་ལོག	Ajlo
+མིའི་རིགས་དཔྱད་པའི་རིག་པ།	Antropologio
+རྡོ་ཀུབ།	Kukumo
+ཝུ་ལན་བ་ཐུར	Ulaanbaataro
+ཨ་ཧྲི་ཁ་པད།	Aŝgabato
+དཀར་པོ།	Blanko
+ནག་པོ།	Nigro
+ཙོང་རིལ།	Cepo
+༦ (གྲངས་ཀ།)	6 (nombro)
+ལྡུམ་སྒོང་།	Tomato
+ཨ་ཊི་ལཱན་ཊཱ།	Atlanta (Georgio)
+ཝེ་ལིང་ཐོན།	Velingtono
+ཇི་མི་ཀར་ཀྲར།	Jimmy Carter
+ཝ་ལེ་ཐ།	La-Valeto
+༡༠ (གྲངས་ཀ།)	10 (nombro)
+ཇོའོར་ཇེ་ཁ་ལོན་ནེ།	George Clooney
+ཨིལ་དཨཱཨུཥ	Lila Downs
+ཤ་གཟིག	Gepardo
+ནམ་དུས།	Sezono
+ཝན་ཁུ་ཝེར།	Vankuvero
+འུག་པ།	Strigoformaj birdoj
+ཝ་ཐི།	Vato (mezurunuo)
+རྒྱལ་བ་ཐུབ་བསྟན་རྒྱ་མཚོ།	Thubten Gyatso
+ཤིང་སྟག་པ།	Betulo
+ཚུལ་ཁྲིམ་རྒྱ་མཚོ་	Tsultrim Gyatso
+ལུང་རྟོགས་རྒྱ་མཚོ་	Lungtok Gyatso
+པུ་ཤུད།	Upupedoj
+བྱམས་སྤེལ་རྒྱ་མཚོ་	Jamphel Gyatso
+ཝོལ།	Volto
+ཡོན་ཏན་རྒྱ་མཚོ་	Yonten Gyatso
+དགེ་འདུན་གྲུབ།	Gendun Drup
+གནམ་གཤིས་རིག་པ།	Meteologio
+སེ་དྲོད།	Grado celsia
+ཅོལ།	Ĵulo
+པི་རི་སི་ཊི་ན།	Priŝtino
+ཨམ་ཕེར།	Ampero
+སྐྱ་ཀ།	Eŭropa pigo
+སྣ་མའི་མེ་ཏོག	Orkidacoj
+བསེ་སྦྲང་།	Blato
+སོམ་ཤིང་།	Abio
+ཕོ་རོག	Korako
+ན་གི།	Maniso
+ཁུ་ལོམ།	Kulombo (mezurunuo)
+ཁུ་བྱུག	Kukoledoj
+གཡག	Gruntbovo
+ལི་ཤི།	Kariofilo
+བྱང་སྣེའི་སྐྱར་རྟ།	Arkta ŝterno
+གོ་སྙོད།	Karvio
+༄༅།། ཨོ་སེ་ལོ།	Otelo
+སྟག་ཆུ་སྲིན།	Granda orcino
+ཁོ་ཁེ་གླིང་ཚོམ།	Kukinsuloj
+གྲུམ་བ།	Melo
+སྐྱར་མོ།	Mevo
+མི་ཁ་ཨིལ་ཕ་ཁུ་ནིན།	Miĥail Bakunin
+གཞས་གཏོང་བ།	Kantado
+ཨའི་ནུ་སྐད།	Ajnua lingvo
+ལྕ་ཚལ།	Vera celerio
+འདམ་མྱུག	Asparago
+ཟེ་མོ་སེར་པོ།	Musteloj
+གནའ་རབས་མ་ཡ།	Majaoj
+ལས་རིགས།	Profesio
+དྲི་ཞིམ་སོན་ཅན།	Anizo
+ཁང་བྱིའུ།	Paseredoj
+ཧན་ཧྥེ།	Han Fei
+མེར་ཁྲེས་ཨ་ཁྲེ་ས་རེས།	Martti Ahtisaari
+ཆུ་ལྷ།	Narciso (floro)
+རྒྱ་ནག	Ĉinio
+ཅོ་ཀ།	Alaŭdedoj
+ཆུ་སྲམ།	Lutra lutra
+གསའ་གཟིག	Neĝleopardo
+མཚོ་གཟིག	Fokuloj
+སེལ་འོ་སུ་འན་གྱི་སྐད	Silezia lingvo
+ཨོ་སི་ཀར་ཝེལ་ཌེ།	Oscar Wilde
+ཐི་བ་རིགས་	Turtoj
+ཡ་རེན།	Jareno
+༩༣ (གྲངས་ཀ།)	93 (nombro)
+ཡོ་ས་བུ་སོན།	Yosa Buson
+མར་ཀུས།	Sankta Marko la evangeliisto
+ཁུར་འཛིང་།	Boksado
+གྲི།	Tranĉilo
+རྐྱང་ཁྲ།	Zebro
+ཁ་ཆེའི་ཆོས་ཁང་།	Moskeo
+འབྲུག་པའི་སྐད།	Dzonka lingvo
+སྦལ་ཏིའི་སྐད།	Balta lingvo
+ཡུལ་སྐད།	Dialekto
+ལི་ཡོན་ཁྲོའོ་ཚི་ཁི།	Lev Trockij
+སུག་སྨེལ།	Kardamomo
+འགྲེམས་སྟོན་ཁང་།	Muzeo
+སྐྲན་	Karcinomo
+དོམ་ཁྲ།	Granda pando
+བྱང་སྣེའི་དོམ་དཀར།	Blanka urso
+གཞུ་ཚད།	Radiano
+ལག་པ།	Mano
+ཏུའུ་ཧྥུ།	Du Fu
+བལ་པོའི་སྐད།	Nepala lingvo
+པེ་ཏྲོ།	Sankta Petro
+ལོ་མ།	Folio
+སི་ཅི་ལིའི་སྐད།	Sicilia lingvo
+བལྤ་རཨིསོ	Valparaiso
+གའཀ	Oaxaca
+ཕུ་ན་ཕུ་ཊི།	Funafutio
+ལྷ་ཆོས་རིག་པ།	Teologio
+པ་བུ་ལོ་ནེ་རུ་དཱ།	Pablo Neruda
+བརྡ སྐད	Signolingvo
+ཨོ་ཀི་ན་ལྦ་སྐད།	Okinava lingvo
+པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།	Portoprinco
+བོད་ཀྱི་སྐད་ཡིག།	Tibeta lingvo
+ཐ་སི་མ་ནི་ཡཱ།	Tasmanio
+རོལ་ཆ།	Muzika instrumento
+ངང་དཀར།	Cigno
+མའ་མའོ་སྒྲི་ཨ་མ་སྒྲེན་ཅ་ཊི།	Mahmud Ahmadineĵad
+ཧི་རོ་ཧི་ཐོ།	Hirohito
+ཆུ་རྟ།	Amfibia hipopotamo
+ཁེཡོ་ཐྲོ།	Kioto
+ཨལ་བྷེར་ཀ་མུས།	Albert Camus
+རྒྱ་སེ།	Rozo
+ཁིང་སི་ཐོན། (ཇ་མའི་ཀ།)	Kingstono
+གཟིག	Leopardo
+བསེ་རུ།	Rinoceredoj
+ཤིན་ཅང་ཡུ་གུར་རང་སྐྱོང་ལྗོངས།	Ŝinĝjango
+སཱན་ཏོ་ཌོ་མིང་གོ	Sankta Domingo
+སེ་ཡབ།	Papajo
+རི་བོ་ཁ་ཕི་ཐུའོ་ཉི།	Kapitolo (Romo)
+པད་ལོག	Blanka brasiko
+གཏམ་དཔེ།	Proverbo
+ཨ་ངྷི་སེའུ།	Odiseado
+ཁུ་ཝི་ཐི། (རྒྱལ་ས།)	Kuvajturbo
+ཀྲོའུ་རྒྱལ་རབས།	Dinastio Zhou
+པ་རའི་པི་ཏ།	Brad Pitt
+ཏི་ཏི་ཁ་ཁ་མཚེའུ།	Lago Titikako
+ཁོ་ལུམ་པོ།	Kolombo (urbo)
+ཨཱལ་མ་ཊི།	Almato
+ཤ་བ་ནོག་ལྡན།	Alko
+ཉེན་རྟོག་པ།	Polico
+ཧོ་ཁའི་དོ།	Hokajdo
+བཅའ་ལྒ།	Zingibro
+ནོར་བྷེལ་བྱ་དགའ།	Nobel-premio pri paco
+དངོས་པོ།	Materio
+ཧེག་ཐ།	Hektaro
+དགོད་བྲོ།	Humuro
+སྨུག་མ།	Bambuo
+རྒྱལ་སྤྱིའི་སྐད།	Interlingvao
+སུའུ་ཧྲི།	Su Ŝi
+ཧོང་ཧྲན་རི་བོ།	Huangŝan
+ལྕང་མ།	Saliko
+པུ་རུའི་ཀྲི་ཐོན།	Briĝurbo
+རྩོམ་པ་པོ།	Verkisto
+དབྱངས་ཡིག	Vokalo
+ཨ་པི་ཡ།	Apio
+སེནཊི་ཇཱོན་སི། (ཨེན་ཊི་གུའ་དང་བར་བུ་ཌ།)	Sankta Johano (Antigvo-Barbudo)
+རུ་ཟོ།	Roseo
+དྲེད་མོང་།	Bruna urso
+ཧན་ཉི་པ།	Hanibal Barka
+པོ་རོ་ཊི་མོ་རེ་སི་བི།	Port-Moresbo
+ཤར་པའི་སྐད།	Ŝerpa lingvo
+སྨད་འཚོང་མ།	Prostituo
+ཀྲོང་མི།	Ĝŭangoj
+ཨང་སན་སུའུ་ཁེའི།	Aung San Suu Kyi
+༄༅།། ཡོ་ཧ་ནན་གྱིས་བྲིས་པའི་འཕྲིན་བཟང་བཞུགས་སོ།།	Evangelio laŭ Johano
+ཧྥ་རན་སི་ཡི་ས་ཁུལ་།	Regionoj de Francio
+མཛེ་ནད།	Lepro
+རྔོན་པ།	Ĉasado
+གྲེང་ལུང་།	Jackie Chan
+༡༢ (གྲངས་ཀ།)	12 (nombro)
+དར་ཁྱབ་ཆེ་བའི་རོལ་དབྱངས།	Pop-muziko
+ལྕགས་འཛེར།	Najlo
+ཤ་ལོ་མོ།	Salomono
+ཨ་ཧྥན་ན།	Atena
+༡༡ (གྲངས་ཀ།)	11 (nombro)
+༡༣ (གྲངས་ཀ།)	13 (nombro)
+དགེ་རྒན།	Instruisto
+༼ར་མ་ཡ་ན།༽	Ramajano
+ཨ་པོ་ལུའོ།	Apolono
+རྒྱལ་དབང་སྐུ་འཕྲེང་རིམ་བྱོན།	Dalai-lamao
+ཧྥ་རན་སི་ཨི་སི་བྷེ་ཀན།	Francis Bacon
+༡༠༠ (གྲངས་ཀ།)	100 (nombro)
+པུས་མོ།	Genuo
+པོལ.ཀའོ་ཀེང་།	Paul Gauguin
+ཧའི་གུ།	Hajko
+ཝེ་ལ་གྲུ་ཁ།	Portvilao
+མཚོ་འགག	Markolo
+ཞོག་མངར།	Batato
+ཡང་ཀོང་།	Jangono
+གསལ་བྱེད།	Konsonanto
+ཀའོ་ལུའུ།	Gaŭlujo
+ས་མུ་རའི།	Samurajo
+ཡོ་ཀོ་ཧ་མ།	Jokohamo
+༡༤ (གྲངས་ཀ།)	14 (nombro)
+ཆུ་ཀུབ།	Akvomelono
+༡༥ (གྲངས་ཀ།)	15 (nombro)
+༡༨ (གྲངས་ཀ།)	18 (nombro)
+སུ་ཝ།	Suvo
+ནུ་ཁུ་ཨ་ལོ་ཧྥ།	Nukualofo
+རོ་མའི་ཨང་ཀི།	Romiaj ciferoj
+པེའུ་ས་མཚོད་རྟེན་གསེག་མ།	Oblikva turo de Pizo
+ཕྲ་མཐོང་དཔལ་འབྱོར།	Mikroekonomiko
+པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།	Portospeno
+ཙི་ཙི།	Muso (besto)
+ལི་ཝང།	Oranĝkolora
+ཧེར་ཚི།	Herco
+ལག་ཆ།	Laborilo
+སྨན་པ།	Kuracisto
+ཆེ་མཐོང་དཔལ་འབྱོར།	Makroekonomiko
+༡༩ (གྲངས་ཀ།)	19 (nombro)
+༄༅།། ལུ་ཀཱ་ཡིས་བྲིས་པའི་འཕྲིན་བཟང་བཞུགས་སོ།།	Evangelio laŭ Luko
+ཨ་ཇཀ་སིའོ།	Ajaccio
+༡༧ (གྲངས་ཀ།)	17 (nombro)
+ཆུ་སྲིན་ལག་བརྒྱད།	Polpo
+ཧོ་སྦར་ཐེ།	Hobarto
+མ་ལ་སུང་རྒྱུགས་འགྲན།	Maratono
+༡༦ (གྲངས་ཀ།)	16 (nombro)
+༢༠ (གྲངས་ཀ།)	20 (nombro)
+ཁྲིམས་རྩོད་པ།	Advokato
+སུ་མོ་སྦེ་ག	Sumoo
+འཐབ་རྒྱུག་རིམ།	Troposfero
+ནཱན་སི།	Nancio
+ཧོ་ཉི་ཡ་ར།	Honiaro
+སྨོན་ལམ།	Preĝo
+ཨན་ཧུའེ་ཞིང་ཆེན།	Anhujo
+མཚོ་གླང་།	Rosmaro
+སྤྲ།	Orangutano
+དཔྲལ་བ།	Frunto
+ནང་སོག་རང་སྐྱོང་ལྗོངས།	Interna Mongolio
+ཐང་ཆེན་དམར་པོ།	Ruĝa Placo (Moskvo)
+ཧེ་རཱ་ཁི་ལེ་ཁྲི་ཟི།	Heraklito
+ཟླ་ཆུ།	Mekongo
+པིན་ཆེན་ཆུ་ཚོད།	Big Ben
+པ་སི་ཐེར།	Bastero
+དུས་དེབ།	Revuo
+དཱ་བིད། (གསུང་རབ།)	Davido
+ཁིན་སི་ཐོན།	Kingstaŭno
+རྩ་བ།	Radiko (planto)
+ཞུ་མཁན།	Mespilarbo
+མོལ།	Molo
+སན་ཐ་ཇོར་ཇི། (གི་རི་ན་ཌ།)	Sankta Georgo (Grenado)
+༄༅།། ཧམ་ལེ་ཐྲི།	Hamleto
+ཉི་གདུགས་	Ombrelo
+འུ་སུ།	Kultiva koriandro
+ལིའུ་ཞ་པོ།	Liu Xiaobo
+དྲེལ།	Mulo
+ཁ་སི་ཐྲིས།	Kastrizo
+ཧྥུའུ་ཅན་ཞིང་ཆེན།	Fuĝjano
+བྱི་ལ་དོམ་ཆུང་།	Malgranda pando
+སོག་པོ།	Mongoloj
+ཞོན་ཙང་།	Xuanzang
+ཧའེ་ནན་ཞིང་ཆེན།	Hajnano
+ཨིལ་ཁས་ར་ཝ་ཇིའོ།	Michelangelo Merisi da Caravaggio
+གཡའ་ཤིང་།	Acero
+༤༠ (གྲངས་ཀ།)	40 (nombro)
+ཀན་སུའུ་ཞིང་ཆེན།	Gansuo
+དབྱིན་ཇིའི་མི།	Angloj
+སྦེ་ག	Lukto
+གྲུ་མོ།	Kubuto
+ཆོས་དཔོན།	Pastro
+ཝུའུ་ཞི།	Vuŝio
+མ་ཧེ།	Akvobubalo
+རྒྱ་མི།	Hanoj
+༣༠ (གྲངས་ཀ།)	30 (nombro)
+ཤོག་བྱ།	Kajto
+བདེ་བར་གཤེགས་པའི་གནས།	Nirvano
+ཐོ་ཕུ་རིག་པ།	Topologio
+པགས་གཙགས་རི་མོ།	Tatuo
+ཌེ་སི་མོན་ཌི་ཏུ་ཏུ།	Desmond Tutu
+ཙན་པི་ཞི་གཙང་པོ།	Zambezi
+ཨའི་ཁི་དོ།	Aikido
+ཝེ་ཁེ་རིག་མཛོད་ནང་འཕྲད་སྲིད་པའི་དཀའ་རྙོག་སེལ་ཐབས།	Helpo:Oftaj demandoj
+ཨེ་ར་ཐོ་སི་ཐེ་ནེ་སི།	Eratosteno de Kireno
+ཡུན་ནན་ཞིང་ཆེན།	Junano
+ས་ངོས་སྙོམས་ཐིག	Horizonto
+མོའོ་ཀའོ་བྲག་ཕུག	Ŝtonkavernaro de Mogao
+པོམ་པེ་ཡི།	Pompejo
+སྐྱེས་ཆེན་དམ་པ་ཨན་དྲི་ཡཱ།	Sankta Andreo
+ཧྲན་ཏུང་ཞིང་ཆེན།	Ŝandongo
+རྟ་བླ།	Centpieduloj
+མིའི་རིགས་རྒྱུད་རིག་པ།	Etnologio
+སྦྲོ་སྦྲོ།	Dido
+སྐྱེས་ཆེན་དམ་པ་མད་ཐཱ།	Sankta Mateo
+རང་བྱུང་ཁོར་ཡུག	Medio
+རྐང་ཤུབས།	Ŝtrumpeto
+ཧའོ་ནན་ཞིང་ཆེན།	Henano
+མིག་གི་རྫི་མ།	Brovo
+ལའུ་ཉིང་ཞིང་ཆེན།	Ljaŭningo
+ཧ་མའེ་སྒྲི་ཁར་སའེ།	Hamid Karzai
+ཡ་ཀོབ་ནི་ཟེ་བད་ཡཱ་ཞེས་བྱ་བའིབུ།	Jakobo la pli aĝa
+ཤེད་འཕྲུལ།	Motoro
+ལྗེས་ཧ་སྒྲིའམ།	Ĝihado
+ཕ་སི་ཁལ།	Paskalo
+ལྷ་དབང་ཆབ་སྲིད་ལམ་ལུགས།	Teokratio
+སྐྲག་པ།	Timo
+སིད་ནེ་ཟློས་གར་ཁང་།	Operdomo de Sidnejo
+ཅི་ལིན་ཞིང་ཆེན།	Ĝilinio
+ཡར་ཀླུང་གཙང་པོ་	Bramaputro
+གཡུང་དྲུང་།	Svastiko
+པ་ར་མི་ཏ།	Jakvo
+ཧུའུ་ནན་ཞིང་ཆེན།	Hunano
+མཚོ་སྔོན་ཞིང་ཆེན།	Ĉinghajo
+ཡུལ་གོར་མི།	Ujguroj
+ཧྲོའུ་སི།	Suŝio
+ཨུ་སའེ་ལི་སི།	Oziriso
+ཝང་གྷ་རི་མཱ་ཐཱི།	Wangari Maathai
+སོར་གདུབ།	Fingroringo
+ཧུའུ་པེ་ཞིང་ཆེན།	Hubejo
+ཧྲན་ཞི་ཞིང་ཆེན།	Ŝanŝio
+མཁུར་ཆོས།	Vango
+ཨོ་མུ།	Omo
+བཙན་གཡེམ།	Seksatenco
+ཀུད་ཀྲོའུ་ཞིང་ཆེན།	Gŭiĝoŭo
+ཕེ་ཐིར་ནེའུ་སི།	Petronio (aŭtoro)
+འཁྲུངས་སྐར།	Naskiĝtago
+ཨེག་སི་-ཨེན་-ཕོ་རོའོ་ཝང་སི།	Aix-en-Provence
+ཨ་མའི་དུས་ཆེན།	Tago de patrinoj
+གྲོག་ཆུ།	Rivereto
+ཨན་ནུའུ་པེ་སི།	Anubo
+ཌི་ཛི་ཨ་ནོ་ཝ་ཅེ་ལི་ཡོ།	Ticiano
+ལྷ་མོ་ཝེ་ནུ་སི།	Venuso (diino)
+མེ་ཚལ་ལྗང་ཁུ།	Brokolo
+ཀྲོའང་ཙེ།	Ĝuangzio
+རྩ་འཁུམ་ནད།	Tetanoso
+རྒྱལ་ཡུམ་ཚི་ཞི།	Ciŝji
+ཧྲའན་ཞི་ཞིང་ཆེན།	Ŝenŝjio
+༢༣ (གྲངས་ཀ།)	23 (nombro)
+སློབ་ཕྲུག་	Studanto
+མ་ལིའུ་ཅ་མཚོ་འགག	Malaka Markolo
+ཐེག་པ་ཆེན་པོ།	Mahajano
+མེ་ཀྲི་ལོན་མཚོ་འགག	Magelana markolo
+ལུའོ་སའེ་རྡོ་རིང་།	Rozeta ŝtono
+སན་པི་ཏི་པོག (ཧྥོ་ལོ་རི་ཌ།)	Sankt-Peterburgo (Florido)
+མིང་ལྡོག	Petolnomo
+འཁྱོག་མདའ།	Krankŝafto
+ཅི་ཅོ་ལི་ན།	Ilona Staller
+ཨི་ཏ་ལིའི་མི།	Italoj
+སྒྱུ་རྩལ་གྱི་བྱུང་ཚུལ།	Historio de arto
+ཀེའུ།	Ŝenoprazo
+ཁ་འབུད།	Buŝharmoniko
+འགག་སྒྲ།	Plozivo
+ཨན་ན་ཐོའོ་ལི་ཡ།	Anatolio
+ཡེ་ཤུའི་བརྒྱུད་རྩ།	Kanonikaj Genealogioj de Jesuo
+ཨ་རོན།	Aaron
+ཆེང་མྰེ།	Ĉiang Mai
+Template:Taxobox	Ŝablono:Taksonomio
+ཧར་རྗེར།	Hergé
+Category:རྒྱལ་སྲིད།	Kategorio:Monarkio
+Category:བརྩེ་དུང་།	Kategorio:Amo
+མོ་ན་ཁོ་གྲོང་།	Monako (urbo)
+Category:ཕོ་ལན་གྱི་ཙུང་ཐུང་།	Kategorio:Prezidantoj de Pollando
+ལུ་མེ་ཨེར་གཅེན་གཅུང་།	Fratoj Lumière
+ཅང་ཤིའི་ཞིང་ཆེན།	Ĝjangŝio
+སྡེར་མ།	Telero
+ཉིང་ཤ་ཧུའི་རིགས་རང་སྐྱོང་ལྗོངས།	Ningŝjao
+ཡྰང་ཀྲོའུ།	Janĉĵou
+ཀྲེན་ཅང་།	Ĉĵencjan
+ཕག་རྒོད།	Apro
+འཁོར་གཡུགས་གཙོག་སྐྱོན།	Poluo
+དབྱངས་ཅན་མ།	Sarasvati
+ཞི་བདེ་རིང་ལུགས།	Pacismo
+སི་ནོ་པེ་ཡིའི་དིའོ་ཇེ་ན།	Diogeno la Cinika
+འདི་ན་ཡང་དྲག་ཏུ་མཆོང་ལྡིང་བྱེད་བཞིན་པའི་སྙིང་གསོན་པོ་ཞིག་འདུག	Gubernio Babil
+མེ་ཏོག་ལུག་མིག	Krizantemo
+༄༅།། ཨེ་ནེ་རྡི།	Eneado
+འགྱུར་མིང་།	Pseŭdonimo
+མག་དལ་མ་མིར་ཡམ།	Maria Magdala
+ཟི་ལིང་།	Sinino
+༼ནུབ་ཕྱོགས་སུ་བསྐྱོད་པའི་རྣམ་ཐར།༽	Pilgrimado al la Okcidento
+༼རྒྱལ་ཁབ་གསུམ་གྱི་གཏམ་རྒྱུད།༽	Tri regnoj
+ཆུ་ངོགས་གཏམ་རྒྱུད།	Ĉe akvorando
+ཨ་དམ།	Adamo (Biblio)
+པོ་ཏ་ལ།	Palaco Potala
+མཚོ་རྟེའུ།	Hipokampo
+ལིའུ་པོལ་ཌི་བོན་ཪཱན་ཀེ།	Leopold von Ranke
+གློག་དཀྲོལ་རྒྱུད་མང་།	Elektra gitaro
+སིབ་བི།	Morbilo
+ལག་སྦྲེང་།	Akordiono
+༢༠༡༤ལོའི་འཛམ་གླིང་བུམ་པའི་རྐང་རྩེད་སྤོ་ལོའི་མགྲན་སྡུར།	Futbala Mondpokalo 2014
+རྦིར་མིང་ཧམ། (ཨ་ལ་པ་མ།)	Birmingham (Alabamo)
+ཁོང་ཁྲོ།	Kolero
+དབྱི་ཞི་སི།	Iziso
+༢༥ (གྲངས་ཀ།)	25 (nombro)
+༢༤ (གྲངས་ཀ།)	24 (nombro)
+༦༠ (གྲངས་ཀ།)	60 (nombro)
+སྐྱུར་ཙི་ཆེན་པོ།	Pampelmuso
+ཊ་བི་རི་ཛ།	Tabrizo
+ཏག་སེ།	Pokero
+བེང་ག་ལི།	Bengalio
+ཨའི་ཆི་ཞེས་པའི་སྲིད་འཛིན་ས་ཁུལ།	Gubernio Ajĉi
+སྰ་ཝན་ཐི་ཨྰར་ཧེན་ཡ་སུ།	August Svante Arrhenius
+འབྲོག་ལས།	Bredado
+ན་སོ་ལོན་པ།	Plenkreskeco
+ཡུ་དཱ་དབྱི་སི་ཀར།	Judaso Iskarioto
+མཱོན་ཊི་རེ།	Monterejo
+ཆུ་ཁམས་འཁོར་སྐྱོད།	Akvocirkulado
+ནོ་ཨ།	Noa
+ལའེ་ཧྥན་ཐ།	Levantenio
+ཀུབ་མངར།	Melono (frukto)
+མགྱོགས་ཟས།	Rapidmanĝejo
+ཁ་དབྲག	Forko
+ཐུར་མ།	Kulero
+ཟ་ཐུར་རམ་ཁོ་ཙེ།	Manĝobastonetoj
+གེབ་རི་ཨེལ།	Ĉefanĝelo Gabrielo
+བ་སྤུའི་མེ་ཏིག	Jasmeno
+ལ་རོ་ཅེ་ལེ།	La Rochelle
+བྱང་སྣེའི་ཝ་མོ།	Arkta vulpo
+ཀྲུང་གོའི་རྒྱལ་རབས།	Historio de Ĉinio
+ཨ་ན་ཁི་ཟཱ་གྷོ་རཱ་ཟི།	Anaksagoro
+༄༅།། རའོ་མེའུ་ཨོ་དང་ཇོའུ་ལིའུ་ཡ་ཐི།	Romeo kaj Julieta
+རྗེན་ཚལ་	Kultiva laktuko
+ཁེན།	Kandelo (mezurunuo)
+ཏེ་ལོ།	Mefito
+༢༦ (གྲངས་ཀ།)	26 (nombro)
+གློག་རྡུལ་ཝོལ།	Elektronvolto
+ཨེམ་ཕི་ཌོལ་ཁི་ཟི།	Empedoklo
+ཧོ་ལུའུ་སི།	Horuso
+ཧེན་རིག་ཆི་ཧཱ་རཱར།	Heinrich Harrer
+ཡུས་ཅིན་མེ་ཏོག	Tulipo
+མཚོ་ལེ།	Marmejlo
+ཝི་ཆི།	Vichy
+བདེ་འཇགས་དབུགས་སྒྲོ།	Aersako
+ལང་ཚོ་དར་བབས།	Pubereco
+མཚན་ཉིད།	Difino
+ཕོ་རོའོ་ཝང་སི།	Provenco
+འཇོན་མི།	Homo habilis
+མཁའ་སྐྱོད་བུ་མོ།	Stevardo
+ཨའི་ནུ་མི།	Ajnuoj
+པེ་ཁེར།	Bekerelo
+ལྷོ་སྤྲ།	Aŭstralopitekoj
+སི་ཝེད།	Siverto
+སྒོ་ཕྱུགས་སེམས་ཅན།	Bruto (agrikulturo)
+པཱར།	Baro (unuo)
+ཤིས་ས་སྤང་མ།	Shishapangma
+༄༅།། མར་ཀུས་བྲིས་པའི་འཕྲིན་བཟང་བཞུགས་སོ།།	Evangelio laŭ Marko
+འཁོར་འགྲོས།	Rotacio
+སེད།	Set
+ཁྲང་པེ་རི་བོ།	Pektusan
+སྙོམས་རྒྱུག་རིམ།	Stratosfero
+ཏིང་ངེ་འཛིན།	Meditado
+ཨ་མེ་ཏིའོ་མོ་ཏིག་ལི་ཡ་ནི།	Amedeo Modigliani
+ཧྥ་རན་སིའི་མི།	Francoj
+འཆར་ལྡན་བུ་བཙའ།	Kontraŭkoncipilo
+ལོག་གཡེམ་མམ་ཉེས་སྤྱོད།	Violento
+ཀྲུའུ་ནུའོ།	Junono
+ལུ་ཟོན།	Luzono
+ཕང་ཕེ་	Pompeo
+འཕར་བ།	Ŝakalo
+ཕཱ་ར་མེ་ནེ་ཌི་ཟི།	Parmenido
+ཁམས།	Kham
+སྨི་ཉི་ཝ།	Minerva
+གཉེན་ཚན་བར་ཆགས་སྦྱོར་བྱེད་པ།	Incesto
+དཀར་མཛེས་བོད་རིགས་རང་སྐྱོང་ཁུལ་	Ganzi-a Tibetana Aŭtonoma Subprovinco
+སྐྱེས་ཆེན་དམ་པ་ཡོ་སེབ།	Sankta Jozefo
+བརྒྱ་བྱིན།	Indro
+སྐྱེས་ཆེན་དམ་པ་ལུ་ཀཱ།	Sankta Luko
+ཐང་ཁྲག	Cedro
+ཚིགས།	Knoto
+ཨ་འབྲུམ།	Kaŝtanarbo
+གཡའ་དྲེད།	Jetio
+ཙོ་ལུའུ་པ།	Zuluoj
+དཔྱིད་མཛེས་མེ་ཏག	Papaveto
+སི་ཧྥུན་ཁོ་སི། (ཨའི་ཅི།)	Granda sfinkso en Gizo
+ཁཱ།	Kalorio
+ཡའོ་ཁེས་འོ་ཧ་ཐའོ་ཡ་མ།	Hatojama Jukio
+ཡོམ་འབོག་ཤིང་།	Ulmo
+བསྟན་བཤིག	Ŝerco
+ཤི་རིན་ཨེ་བྷ་ཌི།	Ŝirin Ebadi
+ཡུལ་ཏོ་པི་ཡ།	Utopio
+འཁྱིལ་ཆེན།	Tubjo
+སྲན་ལེབ་ཆུང་ངུ།	Lento
+ཧྥ་རད།	Farado (mezurunuo)
+མན་རྡ་ར།	Mantro
+ཞིང་པ་	Terkultivisto
+ཕྱི་ལྦགས།	Marmoto
+ཨོ་ལི་ནོ་ཁི་གཙང་པོ།	Orinoko
+སའེ་ཐི།	Setho
+ཆུ་སྲིན་དཀར་པོ།	Belugo
+དུས་ཆེན།	Festivalo
+ལྷ་མོ་ཏི་ཨན་ན།	Diana
+སྐྱུ་རུ་དམན་པ།	Kratago
+འཕར་སྤྱང་།	Montara kuono
+ཊ་རོ་ཨ་སོ།	Aso Taro
+ཨཱལ་ཕི།	Albi (Francio)
+ཕ་རིའི་ཀོ་མུ་ནེ། (༡༨༧༡)	Pariza Komunumo (1871)
+རྒྱ་གར་གི་ལོ་རྒྱུས།	Historio de Barato
+རྫོང་གྲུག	Skvaŝo
+ཨེལ་བྷ་ར་སྒྲེ།	Mohamed ElBaradei
+ཧ་ཐུའོ་ཨེར།	Hatoro
+ཨེ་ལི་ཡཱ།	Elija
+ཐག་འཁྱུད་མེ་ཏོག	Turbina corymbosa
+ནད་ཡམས།	Pesto
+ཨ་པོ་ལི་ནེར།	Guillaume Apollinaire
+ཀེར་ལངས།	Erektiĝo
+ཕི་ལོ་ཋི་ནཱ་ཟི།	Plotino
+སོ་བཀྲུ།	Dentobroso
+ལྷ་ཆོས།	Darmo
+ཡུ་ཁྱོ་མི་ཤི་མ།	Jukio Miŝima
+ཁོ་རེ་ཡའི་ཤིང་ཞིག	Artiŝoko
+ཆུ་པུ།	Ĉubu
+འབྲུམ་སྨན།	Vakcino
+ཤམ་ཕེན་ཆང་།	Ĉampano
+ཏི་རེ་ཁི་མཚོ་འགག	Drake-pasejo
+ཝེ་ཁེ་ཏོ་རི་ཡ་བྱེ་ཐང་ཆེན་མོ།	Granda Viktoria-Dezerto
+མ་མེན་མེ་ཏོག	Violo
+ལྕི་ཚ།	Ranunkolo
+པུའུ་ཐ།	Ptaho
+རྒྱ་མེན།	Papavo
+སིལ་ཏོག་ཅིག་གི་མིང་།	Nigra ribo
+རྡོ་པད་མ།	Zantedesĥio
+ཚ་ལུ་མ་སྐྱུར་མོ།	Bigarado
+ཤིང་པད་མ།	Peonio
+རླངས་ཆུ།	Senalkoholaĵo
+༄༅།། ཨན་ན་ཁ་ལི་ཉེ་ན།	Anna Karenina
+གནམ་རིག་ཁང་།	Planetario
+ཆུ་པད་མ།	Nimfeacoj
+ངོ་ཚ་བ།	Honto
+ཤིང་བཟོ་བ།	Ĉarpentisto
+ཁ་རེལ་ཆ་ཕེག	Karel Čapek
+དྲང་སོང་མེ་ཏོག	Hidrangeo
+ཟིང་དཀར།	Dianto
+མེ་ཐུ་ཟི་ལཱ།	Metuŝelaĥ
+ཕྱེ་ལེབ་མེ་ཏོག	Irido
+ཤང་དྲིལ།	Primolacoj
+ཞབས་ཞུ་བ།	Kelnero
+ལི་ཤིའི་མེ་ཏོག	Siringo
+ཀུན་སྤྱོད་བཟང་པོ།	Virto
+ཀུ་ཤུ།	Kulturpomo
+ཧྥེ་ཧྥེ།	Paviano
+རླབས་ཤུད།	Ondorajdado
+པ་གླིང་།	Fagoto
+སྡང་སེམས།	Malamo
+ཇོའོ་ཏའེ་ལྦེ་སོན་རོའོ་ཀ་ཧྥེ་ལར།	John D. Rockefeller
+སྒྲོག་གུ	Butono
+ཟི་ར་ནག་པོ།	Nigelo
+མངར་དྲིལ།	Fuksio
+ཟུར་དྲུག་མའི་སྐར་མ།	Stelo de Davido
+གདོང་འབག	Masko
+༄༅།། དམག་འཁྲུག་དང་ཞི་བདེ།	Milito kaj paco
+ཉི་ཧོང་གི་མི།	Japanoj
+ཕ་ཁྲི་རི་ཟེ་ལི་མིན་བ།	Patrice Lumumba
+མ་སེའི་མི།	Masajoj
+ཐེ་སླ།	Teslo (mezurunuo)
+འཁྱིལ་དུང་།	Korno (muzikinstrumento)
+གཞས་རིག་པ།	Muzikscienco
+ཁམ་ཤིང་།	Ĉerizarbo
+ཚལ་དཀར་ཆེ་བ།	Pekina brasiko
+ཅག་ཕུ་རེ་ཝེར།	Jacques Prévert
+སྣུམ་སྒྱུར་ཆས།	Karburilo
+ཤིང་དཀྲོལ།	Ksilofono
+སྦུབས་མཆོངས།	Altosalto
+ཉུལ་ཞིབ་པ།	Spionado
+ཨའོ་ཉེ་ཅ་མཚེའུ།	Onega (lago)
+བྱི་བ་གཡི།	Palasa kato
+རྫ་རྫིས།	Zazie
+ཐའེ་ཅི་ཆོན།	Tajĝiĉuano
+ཁབ་ར།	Ibekso
+རྣ་རྒྱན།	Orelringo
+ཕུ་དིག	Turto
+ལག་ཤུབས།	Ganto
+ཕི་རོ་ཁྲེ་གྷོ་རཱ་ཟི།	Protagoro de Abdero
+སེམས་སྐྱོ་བ།	Tristeco
+ཧྲུའུ།	Ŝuo (dio)
+འུག་དཀར།	Neĝostrigo
+ཅི་ནན།	Ĝinano
+ཨཱ་ཝཛ།	Ahvazo
+ཨ་ཝ་རུ་ཨ།	Avaruo
+ཨ་ཐུན།	Atumo
+གད་མོ་ཤོར་བ།	Rido
+མགོམས་མཆོངས།	Longosalto
+ཆགས་སྦྱོར་རིག་པ།	Seksologio
+ཟས་ཀྱི་རིག་པ།	Gastronomio
+མི་ཆོག་པའི་བཀག་བྱ།	Tabuo
+དཔལ་དགོན་བླུ་གྲུབ།	Nagarĝunao
+སེམས་དབུས་ཀྱི་ཞལ་ཟས་ཁང་།	Restoracioj de l' koro
+ཉི་མ་མེ་ཏོག​	Sunfloro
+ལར་ན་ཀ།	Larnaka
+གསུབ་འགྱིག	Skrapogumo
+དྲི་ཞིམ་ཅན།	Lavendo
+ཆོས་དད་རང་མོས།	Religia libereco
+ཕིག་མིའི་མི།	Pigmeoj
+གབ་རེས་འུར་རེས།	Kaŝludo
+ཧེན་ཐའེ།	Hentajo
+འཁོར་བ།	Sansaro
+ལི་སྨིད།	Centimetro
+གཡང་ཊི།	Jado
+བྱང་གི་ལྡོག་ཐིག	Tropiko de Kankro
+གཞས་པ་གཞས་མ།	Kantisto
+ལྷོའི་ལྡོག་ཐིག	Tropiko de Kaprikorno
+ཟླུམ་ངོས་ཚད།	Steradiano
+རྐང་ལམ།	Trotuaro
+སྣུམ་ཚལ་	Kolzo
+བྱང་སེམས་ཅན།	Bodhisatvo
+གཏེར་ཆུ།	Mineralakvo
+ཝེ་ཞིན་ཀེ་ཐུའོ་ལི་ཁོ་སི།	Vercingetoriks
+ཇེ་དུ་ཀྲི་ཤི་ན་མུར་ཏི།	Jiddu Krishnamurti
+ནན་ཉིང་གྲོང་ཁྱེར།	Naningo
+ལ་ཁི་སི།	Lukso (mezurunuo)
+བོད་ས་མཐོ།	Tibeta Altebenaĵo
+ཤྭ་བ་རྔ་རིང་།	Kanada cervo
+གསོ་ཕྲུག	Adopto
+ན་ཏི་སུ་མེ་སོ་སེ་ཁི	Natsume Sôseki
+ཆགས་སྲེད་ཀྱི་རྒྱུ་རྩལ།	Erotiko
+ཕ་ལོན་ཁེ།	Palenque
+ཨོ་ལན་ཀི་གཙང་པོ།	Oranĝo (rivero)
+ཀའོ་ཞུང་གྲོང་ཁྱེར།	Kaoŝiung
+༄༅།། རྒྱལ་པོ་ལེར།	La Tragedio de Reĝo Lear
+མོ་རི་ཧེའི་ཨུའེ་ཤི་ཕཱ།	Ueshiba Morihei
+ཚའོ་ཞུའེ་ཆིང་།	Cao Xueqin
+མངར་ཟས།	Deserto
+ཁུ་ནུའུ་མུའུ།	Ĥnum
+ཀོ་ཅ་བང་ལྦ་	Cochabamba (urbo)
+བོད་ཞི་བས་བཅིངས་འགྲོལ་འབྱུང་ཐབས་སྐོར་གྱི་གྲོས་མཐུན་དོན་ཚན་བཅུ་བདུན་	Akordo po dek-sep punktoj por la paca liberigo de Tibeto
+ཧུད་མི།	Hujoj
+ཤུགས་འཁོར།	Inercirado
+ལན་ཀྲོའུ།	Lanĝoŭo
+ཊར་བེ།	Tarbes
+ཏེའོ་དོར་དེ་ཇེ་རི་ཀོ།	Théodore Géricault
+ལ་ཕུའི་ཨང་ཝ་ལེ།	Le Puy-en-Velay
+རྒྱུན་འཇགས་བརྗོད་ཚིག	Idiotismo
+རྒྱ་རིགས་ཀྱི་མཚན་ཉིད་རིག་པ།	Ĉina filozofio
+༄༅།། གཟུགས་འགྱུར་བའི་གཏམ་རྒྱུད།	Metamorfozoj
+ཨེ་དོའི་དུས་སྐབས།	Epoko de Edo
+པར་ན་པཱ།	Barnabaso
+ཨ་ཡོ་དྷི་ཡ།	Ajodhjo
+སྒང་ཐོག	Gangtok
+རྡ་རམ་ས་ལ།	Dharamsala
+གཉན།	Argalo
+ཁོ་བོ་ཨ་བེ།	Abe Kobo
+ལེབ་ཤྭ།	Ostrofungo
+ལུའོ་དབྱང་།	Lŭojango
+ཨོ་ནོ་རེ་དོ་མི་ཡེ།	Honoré Daumier
+སྒར་ཉེའི་ཟློས་གར་ཁང་།	Operejo Garnier
+ཁུ་ནུ་རི་རྒྱུད།	Kunlun
+བོད་མི།	Tibetanoj
+ཧ་ནུ་མན།	Hanumano
+རི་གྷོ་བྷེར་ཏ་མེན་ཆུ་ཏུམ།	Rigoberta Menchú
+ཇིང་ཏ་ལིང་ཏ།	Pendolilo
+མིག་སེར།	Envio
+རོ་ཌེ་ཛི།	Rodezo
+ཁོར་ཡུག་རིག་པ།	Mediscienco
+TED	TED (konferencoj)
+རོ་ཀ་ཧྥོར། (ཆུར་བ།)	Rokforto
+སྐེ་རྒྱལ།	Kolĉeno
+ཧའེ་ཁོའུ་གྲོང་ཁྱེར།	Hajkoŭo
+ཐག་རྒུལ་འདྲ་གཟུགས།	Marioneto
+ཨི་ནུའི་ཏི་མི།	Inuitoj
+མོ་གཅུས། (ལག་ཆ།)	Ŝraŭbingo
+ལེ་ཉིན་གྱི་བང་སོ།	Maŭzoleo de Lenin
+བླ་མ།	Lamao
+དཀྱིལ་འཁོར།	Mandalo
+མིག་མངས།	Ĉina ŝako
+ཁྱིམ་ཐབ་མེད་པར་གནས་པའི་མི་ཚེ།	Senedzeco
+བཙུན་མ།	Ordena fratino
+ནའེ་ཐི།	Neith
+ཨ་བ་དཱེ།	Abadeh
+ཨུ་སུག་རིང་མོ།	Ŝtrumpo
+མི་ཡ་མོ་ཏོ་མུ་ས་ཤི།	Mijamoto Musaŝi
+འབྲུག་མིག	Dimocarpus longan
+རྒྱལ་བ་བྱམས་པ།	Majtrejo
+ར་རྒྱ།	Takino
+སིལ་རྔ།	Tamburino
+སྤྱན་རས་གཟིགས།	Avalokiteŝvaro
+རྒས་མེད་ཚེ་རིང་།	Senmorteco
+དགེ་འདུན་དཀོན་མཆོག	Sangho
+རི་བོ་ཨ་ཝུན་ཏི་ཉི།	Aventino
+ས་རཱ།	Sara (Biblio)
+འཕང་འབྲས།	Lycium barbarum
+གཞལ་སྒང་གི་ས་ཁོངས།	Distrikto Ĵemgang
+ཞུས་ཀྲོའུ།	Ĝuĝou
+འཛམ་གླིང་རྒྱལ་རབས་	Historio de la mondo
+ཡ་ཕེད།	Jafet
+རི་བོ་ཕ་ལ་ཏི་ཉི།	Palatino (Romo)
+ལ་དྭགས	Ladako
+སྤྱི་མཐུན་རྒྱལ་ཁབ་ཨང་ལྔ་པ།	Kvina Respubliko de Francio
+ཤེམ།	Ŝem
+ཟེར་མོ།	Tetraonedoj
+ལག་གདུབ།	Brakringo
+སྤྱི་ཚོགས་རང་མོས་རེང་ལུགས།	Socialliberalismo
+སུར་པན།	Kapsiko
+པོ་ཐང་མ།	Pada Ebenaĵo
+ཁར་པེན་ཏྲ།	Carpentras
+ཇ་དམར།	Nigra teo
+སེན་གོའི་དུས་མཚམས་	Epoko Sengoku
+ཚའོ་ཚའོ།	Cao Cao
+ཀ་ཡིན །	Kaino
+ར་བཟི་བ།	Ebrio
+སྐར་རེའི་འཁོར་ཚད།	Rivolua nombro
+ཨ་ཌོལ་ཧྥོ་པེ་རེ་ཛུ།	Adolfo Pérez Esquivel
+མཚན་སྙན།	Honoro
+ལུས་བསྲུངས་མཐའ་འཁྱོལ།	Ĉasteco
+རི་བོ་ཁུའེ་ལི་ན་ཨེར།	Kvirinalo
+ཐག་སོག	Motorsegilo
+བསམ་པའི་དགའ་རོགས།	Platona amo
+གོར་གོན་ཟོ་ལ། (ཆུར་བ།)	Gorgonzolo
+ཕུག་རོན།	Columba (genro)
+སི་རོ་སི།	Siros
+རི་བོ་ཨའེ་སི་ཁུའེ་ལི་ཉི།	Eskvilino
+ཀ་ཡ་ཕཱ།	Kajafas
+ཨོ་སེལ་ཏཱ་མི་ཝིར།	Oseltamiviro
+ཧྥ་རན་སི་ཡི་གྲོང་ཁྱེར་ཆེན་པོ།	Ĉeflanda Francio
+ཐི་མོ་ཐེ།	Sankta Timoteo
+སེམས་ཁམས་རིག་པ་བ།	Psikologo
+ཧེ་ནོག	Ĥanoĥo
+ཞི་ལིན།	Ŝilingo
+དྲིལ་ཁྲུ།	Mezurbendo
+ཁའོ་ཕན།	Copán
+སེ་བ། (གསུང་རབ།)	Reĝlando Ŝeba
+ཏུང་ཐིང་མཚེའུ།	Lago Dongting
+རི་བོ་ཝེ་སྨི་ན་ཨེར།	Viminalo
+ལུ་ཡི་སེ་མི་ཤེལ།	Louise Michel
+ཏུང་མི།	Dongoj
+རི་བོ་ཁ་ཨའེ་ལི་ཨན།	Kaelio
+ཏ་ཝོར་མི།	Dauroj
+ཚ་ལུ་མའི་ཁུ་བ།	Oranĝsuko
+སྦྲེལ་མདའ།	Bielo (mekaniko)
+ཡན་ནིག་ནོ་ཨ།	Yannick Noah
+རུས་སྤལ་	Testuduloj
+རྒྱལ་པོ་ཟས་གཙང་།	Ŝuddhodana
+ཝུའུ་ཁྲེང་ཨེན།	Wú Chéngēn
+གླ་བ།	Moskulo
+གངས་རིན་པོ་ཆེ།	Kajlaŝ
+ཚའེ་ལུན།	Cai Lun
+ཧམ།	Ĥam
+པདྨ་འབྱུང་གནས།	Padmasambhavo
+ཇ་ཝུའུ་ལུང་།	Ŭulong-teo
+ཧྲའོ་ལིན་དགོན་པ།	Ŝaolina templo
+ས་ལོ་མེ།	Saloma
+འགྲུལ་བྱི།	Lemingo
+ཨོ་ལི་ཝེར་.རྒོ་རྡི་སིམ་སི།	Oliver Goldsmith
+༩༠ (གྲངས་ཀ།)	90 (nombro)
+ཨོཾ་མ་ཎི་པ་དྨེ་ཧཱུྃ།	Om mani peme hum
+༥༨ (གྲངས་ཀ།)	58 (nombro)
+དི་ནོ་བུ་ཟ་ཏི།	Dino Buzzati
+ཚེམ་བཟོ།	Tajloro
+འབྲ་གོ་དམར་པོ།	Jujubarbo
+བུན་ར་ཀུ།	Bunrako
+༧༢ (གྲངས་ཀ།)	72 (nombro)
+ཐག་མཆོང་།	Saltoŝnuro
+སྲམ།	Kurtunga lutro
+པེ་སོ།	Peso (monunuo)
+སན་ཇོ་སེ།རྒྱ་ནག	San José Chinantequilla
+བུ་མོ་རའོ་ཟི།	Lucy
+ཆུ་སྦུག་བཟོ་གྲ།	Tubisto
+ངང་པ།	Bredansero
+མིང་གི་གོ་རིམ།	Vortordo
+ཁྲེ།	Milio
+གཙོད།	Tibeta antilopo
+པང་གདན།	Antaŭtuko
+ལུང་མོན་བྲག་ཕུག	Kavernaro Longmen
+པའེ་མི།	Bajoj
+ཨུ་སུག་སྲབ་མོ།	Kalsonŝtrumpoj
+ཕ་སི་ཁལ་ལ་མི།	Pascal Lamy
+༩༢ (གྲངས་ཀ།)	92 (nombro)
+༨༤ (གྲངས་ཀ།)	84 (nombro)
+༩༦ (གྲངས་ཀ།)	96 (nombro)
+༤༣ (གྲངས་ཀ།)	43 (nombro)
+ས་ཀའེ་ཨོ་སུ་གི	Ōsugi Sakae
+༨༧ (གྲངས་ཀ།)	87 (nombro)
+ཡ་ཀོབ།	Jakobo
+༥༤ (གྲངས་ཀ།)	54 (nombro)
+ལོ་ལོ་ཧྥེ་ར་རི།	Lolo Ferrari
+ལི་མི།	Lioj
+ཕྱོགས་མདའ།	Ŝafto
+ཀེན་ཤིན་ཨུའེ་སུ་གི	Uesugi Kenshin
+པི་ས་ནེལ་ལོ།	Pisanello
+ཁོ་བ་ཡ་ཤི་ཨི་ས།	Kobayashi Issa
+པའེ་ཅུས་དབྱི།	Bai Juyi
+ཧ་བེལ།	Habelo
+ཝང་ཝེ་ཡི། (ཐང་རྒྱལ་རབས།)	Wang Wei
+ཏུན་ཧོང་གྲོང་ཁྱེར།	Dunhuang
+དགེ་ལུགས་པ།	Gelugpao
+མི་ཧྥུ།	Mi Fu
+ཐེ་ཏུ།	Sankta Tito
+ཤཱ་རིའི་བུ།	Ŝariputra
+ལེའི་ཨུའོ་ཧྥེ་རེ།	Léo Ferré
+བལ་ཏུ་སི།	Balthus
+བཙན་བྱོལ་བོད་གཞུང་།	Ekzilita tibeta registaro
+མཐུད་རྒྱུགས།	Stafeto (sporto)
+རྡོ་བཟོ་བ།	Ŝtontajlisto
+ཉ་པ།	Fiŝkaptisto
+ཏུའུ་མུའུ།	Du Mu
+གློག་བརྙན་པར་ཆས།	Filmilo
+པེ་ཅིང་གི་ཁྲང་ཞི།	Pekina opero
+གསེར་མོ།	Ora fazano
+ཨ་པོ་ལོ་སི།	Apolo (Biblio)
+གསོར་འབིགས།	Borpinto
+ཁྲུར་སི་ཐན་དང་ཨེ་སོལ་རྡེ།	Tristan kaj Iseult
+པང་ཏ།	Pundo
+༨༨ (གྲངས་ཀ།)	88 (nombro)
+ཝིག་ཏོར་སེར་ཇེ།	Victor Serge
+ཨེ་ལི། (གསུང་རབ།)	Eli
+ཡུར་རྒ་ཨེ་བ་ན་སི་ཁད་ཐེེ།	Jurga Ivanauskaitė
+ཨོས་ཏྲལིཨན་ཕྱི་རྒྱལ་ཞབས་ཞུ་ཁང་	Aŭstria Eksterlanda Servo
+ལྗི་བ།	Pulo
+༄༅།། མད་ཐཱ་བྲིས་པའི་འཕྲིན་བཟང་བཞུགས་སོ།།	Evangelio laŭ Mateo
+ཨ་མདོ	Amdo
+༨༥ (གྲངས་ཀ།)	85 (nombro)
+མུ་མེན།	Viola
+ཟིང་སྐྱ །	Roza
+༢༧ (གྲངས་ཀ།)	27 (nombro)
+༣༥ (གྲངས་ཀ།)	35 (nombro)
+༦༤ (གྲངས་ཀ།)	64 (nombro)
+༩༩ (གྲངས་ཀ།)	99 (nombro)
+ཚ་ལི་མ་ཆུང་བའི་རིགས།	Klementino (frukto)
+བེན་ཡ་མིན། (གསུང་རབ།)	Benjamen
+བུམ་ཐང་གི་ས་ཁོངས།	Distrikto Bumthang
+ཨེ་ཝ་ཇོའོ་ལི།	Eva Joly
+ཧ་མི་ཀུབ།	Kantalupo
+ཤ་རི་ཡ།	Ŝario
+རྡུལ་ཕྲན་སྤུས་ཚད་རྩི་གཞི།	Atommasa unuo
+རི་མོ་བ།	Artisto
+ཝལ་མར།	Walmart
+བོད་བརྒྱུད་ནང་བསྟན།	Tibeta budhismo
+ཇ་ལྗང་།	Verda teo
+ལུ་མེན།	Lumeno
+སྲན་ལྗང་།	Mungfabo
+སྐད་ཀྱི་མཚན་ཉིད་རིག་པ།	Filozofio de lingvo
+མགོ་མཁྲེགས་གཞུང་ལུག	Cinikismo
+ས་མུ་ཨེལ་ཝལ་ཏོན།	Sam Walton
+ཤིང་ཏོག་གི་མིང་ཐོ།	Listo de foliarboj de la tropika zono
+ཁ་ཁུ་སིམ་པོ།	Silento
+ལམ་སྒྲོན།	Fosto
+ཁོ་ལོ་ཉི་ཡ། (མའི་ཀོ་རོ་ནེ་ཤི་ཡ།)	Kolonio (Mikronezio)
+ཡན་ཨན།	Janan
+བོད་ཀྱི་རྒྱལ་རབས་	Historio de Tibeto
+༥༦ (གྲངས་ཀ།)	56 (nombro)
+༨༩ (གྲངས་ཀ།)	89 (nombro)
+མཁར་སྔོན་གྲོང་ཁྱེར།	Hoĥoto
+དཀར་ཆག་གི་ཨང་གྲངས།	Listo de nombroj
+༧༦ (གྲངས་ཀ།)	76 (nombro)
+༢༩ (གྲངས་ཀ།)	29 (nombro)
+ཧ་ཡ་ཤི་ར་ཟན།	Hayashi Razan
+༧༡ (གྲངས་ཀ།)	71 (nombro)
+༢༨ (གྲངས་ཀ།)	28 (nombro)
+༥༩ (གྲངས་ཀ།)	59 (nombro)
+༦༢ (གྲངས་ཀ།)	62 (nombro)
+༩༥ (གྲངས་ཀ།)	95 (nombro)
+༄༅།། བར་དོ་ཐོས་གྲོལ།	Bardo Thodol
+སི་ནོ་པེ། (ཏུར་ཀི།)	Sinop (Turkio)
+འཇོལ་མོ།	Hilociklo
+༣༨ (གྲངས་ཀ།)	38 (nombro)
+༧༥ (གྲངས་ཀ།)	75 (nombro)
+དམར་སྨུག་གི	Malva
+ཆིག་རྡང་།	Reko
+༤༥ (གྲངས་ཀ།)	45 (nombro)
+བོད་ཡིག་གི་ཆ་འཕྲིན	Arkeologia Enketo de Barato
+༦༥ (གྲངས་ཀ།)	65 (nombro)
+འཕྱི་བ།	Azia marmoto
+སྤྲུལ་སྐུ།	Tulku
+Chukha District	Distrikto Ĉuĥa
+བཀྲ་ཤིས་སྒང་གི་ས་ཁོངས།	Distrikto Traŝigang
+༦༨ (གྲངས་ཀ།)	68 (nombro)
+ཁེ་ར་བི་ཧན།	Karibio
+ཨི་སཱག	Isaak
+༩༧ (གྲངས་ཀ།)	97 (nombro)
+མ་ཆོ་པེ་ཆོ།	Maĉupikĉuo
+༩༤ (གྲངས་ཀ།)	94 (nombro)
+༥༥ (གྲངས་ཀ།)	55 (nombro)
+༩༡ (གྲངས་ཀ།)	91 (nombro)
+ཉིས་རྡང་།	Paralelstangoj
+རྡོ་རྗེ།	Kloŝo kaj vajra
+༨༠ (གྲངས་ཀ།)	80 (nombro)
+༢༡ (གྲངས་ཀ།)	21 (nombro)
+༢༢ (གྲངས་ཀ།)	22 (nombro)
+༧༠ (གྲངས་ཀ།)	70 (nombro)
+༥༠ (གྲངས་ཀ།)	50 (nombro)
+༤༡ (གྲངས་ཀ།)	41 (nombro)
+༣༤ (གྲངས་ཀ།)	34 (nombro)
+༣༣ (གྲངས་ཀ།)	33 (nombro)
+༤༧ (གྲངས་ཀ།)	47 (nombro)
+༣༡ (གྲངས་ཀ།)	31 (nombro)
+༣༢ (གྲངས་ཀ།)	32 (nombro)
+༤༤ (གྲངས་ཀ།)	44 (nombro)
+༤༦ (གྲངས་ཀ།)	46 (nombro)
+༤༩ (གྲངས་ཀ།)	49 (nombro)
+༤༨ (གྲངས་ཀ།)	48 (nombro)
+༣༧ (གྲངས་ཀ།)	37 (nombro)
+༣༩ (གྲངས་ཀ།)	39 (nombro)
+༣༦ (གྲངས་ཀ།)	36 (nombro)
+༥༣ (གྲངས་ཀ།)	53 (nombro)
+༨༡ (གྲངས་ཀ།)	81 (nombro)
+༦༦ (གྲངས་ཀ།)	66 (nombro)
+༦༣ (གྲངས་ཀ།)	63 (nombro)
+༥༢ (གྲངས་ཀ།)	52 (nombro)
+༦༩ (གྲངས་ཀ།)	69 (nombro)
+༧༣ (གྲངས་ཀ།)	73 (nombro)
+༥༧ (གྲངས་ཀ།)	57 (nombro)
+༧༤ (གྲངས་ཀ།)	74 (nombro)
+༧༩ (གྲངས་ཀ།)	79 (nombro)
+༦༧ (གྲངས་ཀ།)	67 (nombro)
+༧༧ (གྲངས་ཀ།)	77 (nombro)
+༨༣ (གྲངས་ཀ།)	83 (nombro)
+༨༢ (གྲངས་ཀ།)	82 (nombro)
+༨༦ (གྲངས་ཀ།)	86 (nombro)
+༧༨ (གྲངས་ཀ།)	78 (nombro)
+༩༨ (གྲངས་ཀ།)	98 (nombro)
+པི་ཝང་།	Erhuo
+ཤྭ་བ་མཆུ་དཀར།	Blanklipa cervo
+འདུན་པ་ནག་པོས།	Noir Désir
+རྩི་རང་གི་ས་ཁོངས།	Distrikto Cirang
+དབང་འདུས་ཕོ་བྲང་གི་ས་ཁོངས།	Distrikto Ŭangdue Podrang
+གསར་སྦང་གི་ས་ཁོངས།	Distrikto Sarpang
+བཙུན་པ།	Monaĥo
+ཉི་ཧུང་གི་ནང་ཆོས།	Budhismo en Japanio
+ཨཱ་སམ་སྤྲེལ།	Ursmakako
+༄༅།། ཏིན་ཏིན་གྱི་དཔའ་རྩལ།	Tinĉjo
+བྱིའུ་སེར།	Ora parulio
+༦༡ (གྲངས་ཀ།)	61 (nombro)
+པར་ཐི་མེ།	Bartimeo
+ཧྲིན་ཐོ།	Ŝintoismo
+༤༢ (གྲངས་ཀ།)	42 (nombro)
+པའོ་ཨན་མི།	Bonanoj
+སྤྱི་ལེ།	Kilometro
+ཧ་ཝ།	Eva
+ཨ་ལའེ་ཞི་ཡ།	Arkeologia loko de Alesia
+ཏའེ་མི།	Dajoj
+མོན་པ།	Monpaoj
+ཆའང་མི།	Ĉiangoj
+དབའ་མི།	Vaoj
+Wylie	Transliterumado Wylie
+རྒྱ་ནག་གི་ནང་ཆོས།	Ĉina budhismo
+ཨ་ཁྲང་མི།	Aĉangoj
+སྐུ་སྲུང་།	Korpogardisto
+ཧོར་མི།	Tuoj
+ཧྲའོ་ལིན་དྲག་རྩལ།	Ŝaolino
+པེ་ཅིང་རྒྱུད་གཉིས།	Ĝinghuo
+ཕྱེ་ལེབ་རོལ་ཆས།	Jangĉino
+ལྷ་མོ་སྒྱུ་འཕྲུལ་མ།	Reĝino Maja
+པུའུ་ལང་མི།	Blangoj
+༥༡ (གྲངས་ཀ།)	51 (nombro)
+འབར་ཁང་།	Brulkamero
+རྒྱ་རྒོ་ར།	Ruĝa goralo
+དམག་འཐབ་གྲུ་གཟིངས།	Marbatalo (ludo)
+མ་སྐྱེས་དགྲ།	Judiŝtiro
+སྤང་།	Herbejo
+གཱ་ཡ་པོ་མི།	Kajapooj
+ཤར་ལི་ཨེཕ་དོ།	Charlie Hebdo
+མཚོ་ཁྱི།	Felfoko
+འཁོར་ལོ་སྡོམ་པ།	Ŝakrasamvara
+ཝ་ཡང་ཟློས་གར་ཁང་།	Vajango
+ཚལ་ཐོ།	Listo de legomoj
+རྩམ་པ།	Tsampa
+ཞི་པན་ཡའི་སྒྱུ་རྩལ།	Hispana arto
+མོ་ནད་ཚན་ཁག་གི་མཁས་པ།	Ginekologio
+རུའེ།	Reo
+ཁྲུར་སི་ཐན་དང་ཨེ་སོལ་རྡེ། (ཝ་རྒི་ནར།)	Tristano kaj Izoldo
+ཀ་ཀོ་ལ།	Amomo
+པ་ལི་ཡ་ཅིའོ།	Pajaco
+Category:འཇར་མན།	Kategorio:Germanio
+Category:ཨི་ཏ་ལི།	Kategorio:Italio
+Category:ཨ་མེ་རི་ཁ་རྒྱལ་ཕྲན་མཉམ་འབྲེལ་རྒྱལ་ཁབ།	Kategorio:Usono
+Category:ཨུ་རུ་སུ།	Kategorio:Rusio
+Category:ཁ་ན་ཌ།	Kategorio:Kanado
+Category:དབྱིན་ཇི་མཉམ་འབྲེལ།	Kategorio:Unuiĝinta Reĝlando
+Category:ཞི་པན་ཡ།	Kategorio:Hispanio
+Category:རྒྱ་ནག	Kategorio:Ĉinio
+Category:རི་པིན།	Kategorio:Japanio
+Category:ཨོ་སེ་ཐེ་ལི་ཡ།	Kategorio:Aŭstralio
+Category:མེག་སི་ཀོ།	Kategorio:Meksiko
+Category:རྒྱ་གར།	Kategorio:Barato
+Category:སའུ་དི་ཨ་ར་པི་ཡ།	Kategorio:Sauda Arabio
+Category:ཨི་སི་ར་ཨེལ།	Kategorio:Israelo
+Category:ཝ་ཏི་ཀན།	Kategorio:Vatikano
+Category:ལྷོ་ཨ་ཧྥེ་རི་ཁ།	Kategorio:Sud-Afriko
+Category:ཨའི་ཅི།	Kategorio:Egiptio
+Category:ཡི་ལང་།	Kategorio:Irano
+Category:ནིའུ་ཛི་ལེན་ཌི།	Kategorio:Nov-Zelando
+Category:ཨར་ཇེན་ཊི་ན།	Kategorio:Argentino
+Category:ཨ་ཧྥུའུ་རྒན་སི་ཐན།	Kategorio:Afganio
+Category:ཨཱལ་ཇི་རི་ཡ།	Kategorio:Alĝerio
+Category:ཨ་སུ་ཊ་རི་ཡ།	Kategorio:Aŭstrio
+Category:བྷང་ལ་རྡེ་ཤུ།	Kategorio:Bangladeŝo
+Category:ཀོང་གོ་མི་དམངས་དམངས་གཙོ།	Kategorio:Demokratia Respubliko Kongo
+Category:ཨི་ཐི་ཨོ་པི་ཡ།	Kategorio:Etiopio
+Category:ཨིན་རྡུ་ནི་ཤིས་ཡ།	Kategorio:Indonezio
+Category:ཧོ་ལན།	Kategorio:Nederlando
+Category:ནི་ཇི་རི་ཡ།	Kategorio:Niĝerio
+Category:པ་ཀི་སི་སྟན།	Kategorio:Pakistano
+Category:ཕོ་ལན།	Kategorio:Pollando
+Category:པོ་ཅུ་གྷལ།	Kategorio:Portugalio
+Category:ལྷོ་ཀོ་རི་ཡ།	Kategorio:Sud-Koreio
+Category:སུད་སི།	Kategorio:Svislando
+Category:ཏན་ཛ་ནི་ཡ།	Kategorio:Tanzanio
+Category:ཐའེ་གོ	Kategorio:Tajlando
+Category:ཨུཀ་རཡི་ནི།	Kategorio:Ukrainio
+Category:ཝི་ཏི་ནམ།	Kategorio:Vjetnamio
+Category:འུ་འཐུང་སྲོག་ཆགས།	Kategorio:Mamuloj
+Category:བྱ།	Kategorio:Birdoj
+Category:དངོས་ཁམས་རིག་པ།	Kategorio:Fiziko
+Category:རང་བྱུང་གི་ཚན་རིག	Kategorio:Naturscienco
+Category:སྐྱེས་དངོས་རིག་པ།	Kategorio:Biologio
+Category:རྫས་འགྱུར་རིག་པ།	Kategorio:Kemio
+Category:ལོ་རྒྱུས།	Kategorio:Historio
+Category:ས་ཁམས།	Kategorio:Geografio
+Category:ཆོས་ལུགས།	Kategorio:Religio
+Category:ལུས་རྩལ་སྐོར།	Kategorio:Sporto
+Category:ཚན་རིག	Kategorio:Scienco
+Category:མཉམ་འབྲེལ་རྒྱལ་ཚོགས།	Kategorio:Unuiĝintaj Nacioj
+Category:གློག་བརྙན།	Kategorio:Kino
+Category:སྤེལ་རེས།	Kategorio:Komunikado
+Category:སའི་གོ་ལ།	Kategorio:Tero
+རྒྱ་ཨར།	Olivo
+བསོད་ནམས་དཔལ་འཛོམས།	Koriandro
+ཀེའུ་ཙོང་།	Poreo
+ཆོས་ལུགས་བར་གྱི་དམག་འཁྲུག	Sankta milito
+མ་བཅུག་པར་ཆགས་སྦྱོར་བྱེད་ཚུལ།	Masturbado
+ཆུ་སྲིན།	Baleno
+གྲོང་ཁྱེར་ཆེན་པོར།	Metropolaj regionoj
+གསར་འགོད་པ།	Ĵurnalisto
+Category:མཚན་ཉིད་རིག་པ།	Kategorio:Filozofio
+Category:སེམས་ཁམས་རིག་པ།	Kategorio:Psikologio
+Category:ནང་པ་སངས་རྒྱས་ཆོས་ལུགས།	Kategorio:Budhismo
+Category:ཡེ་ཤུའི་ཆོས་ལུགས།	Kategorio:Kristanismo
+Category:ཧིན་ཏུའི་ཆོས་ལུགས།	Kategorio:Hinduismo
+Category:དབྱི་སི་ལམ་ཆོས་ལུགས།	Kategorio:Islamo
+བྱ་རྒོད།	Aglo
+ཡིག་སྐྱེལ་བ།	Leterportisto
+སྟར་ཤིང་།	Juglando (genro)
+གཡང་ཆེན་ལྷ་མོ།	Yungchen Lhamo
+ལེ་ཤར་ལོ།	Les Charlots
+རོ་སི་ཝར་ཏེ།	Rosy Varte
+Category:ཆ་མི་ཚང་བ	Kategorio:Ĝermo
+Category:ལྦེ་ཁེ་རིག་མཛོད།	Kategorio:Vikipedio:Vikipedio
+Category:རིག་གནས།	Kategorio:Kulturo
+Template:User uk-2	Ŝablono:Vikipediisto uk-2
+ཁབ་ལེན་	Magnetismo
+སླི་ཁེ་རི་ནི་ཞི་ཡ།	Mikronezio
+Category:ཕའི་ཆིའུ་སྤོ་ལོ།	Kategorio:Volejbalo
+ཉུང་མ།	Rapo
+Category:འཁྲབ་སྟོན་པ།	Kategorio:Aktoroj
+Template:Tl	Ŝablono:Ŝ
+Category:ཁྲིམས་ལུགས།	Kategorio:Juro
+Category:རྒྱལ་ཁབ།	Kategorio:Landoj
+Category:དཔལ་འབྱོར་རིག་པ།	Kategorio:Ekonomiko
+Wikipedia:Administrators	Vikipedio:Administrantoj
+Category:ཀཛ་ཀིསུ་གཏན།	Kategorio:Kazaĥio
+Wikipedia:བཀོད་འདོམས་པར་རེ་ཞུ	Vikipedio:Administrantoj/kandidatoj
+Category:ལས་རིགས།	Kategorio:Profesioj
+Category:དུས་ཚོད།	Kategorio:Tempo
+Category:དངུལ་ལོར།	Kategorio:Mono
+Category:རྩི་ཤིང་རིག་པ།	Kategorio:Botaniko
+Category:གཤག་བཅོས་རིག་པ།	Kategorio:Anatomio
+Category:སྨན།	Kategorio:Medicino
+Category:ཆབ་སྲིད།	Kategorio:Politiko
+Category:སློབ་གསོ།	Kategorio:Edukado
+Category:སྒྱུ་རྩལ།	Kategorio:Arto
+ཨའི་ཅི།	Egiptujo
+Category:མཚན་ཉིད་རིག་པ་བ།	Kategorio:Filozofoj
+Template:Bot	Ŝablono:Bot
+ཁ་ན་ཌ།	Kanado
+Category:ཧུང་གྷ་རི།	Kategorio:Hungario
+Category:པེར་ཅིན།	Kategorio:Belgio
+Category:སེ་པི་རི་སི།	Kategorio:Kipro
+Category:ཅེཀ་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Kategorio:Ĉeĥio
+Category:དན་མྲག	Kategorio:Danio
+Category:ཨིསུ་ཊོ་ནིཡ།	Kategorio:Estonio
+Category:ཀེ་རི་སི།	Kategorio:Grekio
+Category:ལ་ཊ་ཝིཡ།	Kategorio:Latvio
+Category:ཨཡིསུ་ལེན་ཌ།	Kategorio:Islando
+Category:ལུ་སེམ་བའུརག (རྒྱལ་ཁབ།)	Kategorio:Luksemburgo
+Category:ལི་ཐུ་ཨེ་ནི་ཡ།	Kategorio:Litovio
+Category:མལ་ཏ།	Kategorio:Malto
+Category:སི་ཝེ་དེན	Kategorio:Svedio
+Category:སི་ལོ་ཕ་ཁེ།	Kategorio:Slovakio
+Category:སི་ལོ་ཝེ་ནི་ཡ།	Kategorio:Slovenio
+Category:ཨར་ལེན་ཌ།	Kategorio:Respubliko de Irlando
+Wikipedia:Copyrights	Vikipedio:Aŭtorrajto
+Category:རོལ་རྩེད།	Kategorio:Ludoj
+Template:Flagicon	Ŝablono:Flagikono
+Category:ཡོ་རོབ་གླིང་གི་རྒྱལ་ཁབ།	Kategorio:Eŭropaj landoj
+Category:ཡོ་རོབ་གླིང་།	Kategorio:Eŭropo
+Template:Documentation	Ŝablono:Dok
+Category:ལྦེ་ཁེ་བ།	Kategorio:Vikipediistoj
+ཚོང་ལས།	Profitcela organizaĵo
+Template:Softredirect	Ŝablono:Intervikia plusendilo
+Template:གསུབ་པ	Ŝablono:Forigu tuj
+Category:སྐད་རིགས།	Kategorio:Lingvoj
+Category:བརྡ་སྤྲོད་ཀྱི་གཞུང་།	Kategorio:Gramatiko
+Category:ལོ་ཐོ།	Kategorio:Kalendaro
+Wikipedia:General disclaimer	Vikipedio:Malgarantio
+Category:Pages with broken file links	Kategorio:Paĝoj kun eraraj dosierligiloj
+དམག་མི།	Soldato
+Template:Navbox	Ŝablono:Navigilo2
+ཁུག་བྱི།	Kanguruo
+དྲང་པོ།	Justeco
+Template:!	Ŝablono:!
+དད་པ།	Fido
+Template:Nowrap	Ŝablono:Nrsp
+རྩི་ཤིང་རིགས་ཤིག	Mirtelo
+Wikipedia:སྐད་རིགས་ཆ་ཚང་ཡོད་པའི་རྩོམ་ཡིག་ཟིན་ཐོ།	Vikipedio:Listo de havendaj artikoloj
+Category:ཨ་ཧྥེ་རི་ཁ་གླིང་།	Kategorio:Afriko
+Category:གྲངས་ཀ།	Kategorio:Nombroj
+Category:གྲོང་ཚོ།	Kategorio:Vilaĝoj
+Category:གསུང་རབ།	Kategorio:Biblio
+Category:དེབ།	Kategorio:Libroj
+Template:བྷི་པེལ།	Ŝablono:Babelejo
+Template:Commons	Ŝablono:Commons
+Template:Reflist	Ŝablono:Referencoj
+Template:Gnunote	Ŝablono:Gnunote
+Template:ཆ་མི་ཚང་བ	Ŝablono:Ĝermo
+Template:User eo-1	Ŝablono:Vikipediisto eo-1
+Template:User bg-1	Ŝablono:Vikipediisto bg-1
+Template:User eo-3	Ŝablono:Vikipediisto eo-3
+Template:User de	Ŝablono:Vikipediisto de
+Template:User de-1	Ŝablono:Vikipediisto de-1
+Template:User es	Ŝablono:Vikipediisto es
+Template:User de-3	Ŝablono:Vikipediisto de-3
+Template:User en-3	Ŝablono:Vikipediisto en-3
+Template:User en-1	Ŝablono:Vikipediisto en-1
+Template:User en-2	Ŝablono:Vikipediisto en-2
+Template:User eo-2	Ŝablono:Vikipediisto eo-2
+Template:User en-4	Ŝablono:Vikipediisto en-4
+Template:User en-0	Ŝablono:Vikipediisto en-0
+Template:User en	Ŝablono:Vikipediisto en
+Template:User de-2	Ŝablono:Vikipediisto de-2
+Category:དངོས་པོ།	Kategorio:Materio
+Category:འཚོ་བ།	Kategorio:Vivo
+Template:User he-2	Ŝablono:Vikipediisto he-2
+Template:User it-3	Ŝablono:Vikipediisto it-3
+Template:User ja-4	Ŝablono:Vikipediisto ja-4
+Template:User ja	Ŝablono:Vikipediisto ja
+Template:User ja-1	Ŝablono:Vikipediisto ja-1
+Template:User it-1	Ŝablono:Vikipediisto it-1
+Template:User hr-1	Ŝablono:Vikipediisto hr-1
+Template:User fr	Ŝablono:Vikipediisto fr
+Template:Unsigned	Ŝablono:Subskribo
+Category:སྲིན་འབུ།	Kategorio:Insektoj
+Category:མོལ་དོ་ཝ།	Kategorio:Moldavio
+Category:ཨ་ཛར་བཡི་ཇན།	Kategorio:Azerbajĝano
+Category:ཡ་ཀྲོའུ་གླིང་	Kategorio:Azio
+Category:ཅི་ལི།	Kategorio:Ĉilio
+Category:ལི་སོ་ཐོ།	Kategorio:Lesoto
+Category:User uk	Kategorio:Vikipediisto uk
+Category:User uk-N	Kategorio:Vikipediisto uk-D
+Category:མ་ལ་ཤི་ཡ།	Kategorio:Malajzio
+Template:Mod	Ŝablono:Mod
+Template:User uk	Ŝablono:Vikipediisto uk
+Template:དགའ་བསུ་ཞུ	Ŝablono:Bonvenon
+Category:གཟའ་འཁོར་གྱི་རེ་གཟའ་གཅིག	Kategorio:Tagoj de la semajno
+Category:ཟླ་བ།	Kategorio:Luno
+Category:སྐད་བརྡ་རིག་པ།	Kategorio:Lingvoscienco
+Template:Userboxbottom	Ŝablono:Uzantoskatolaro/fino
+Template:S-start	Ŝablono:Komencskatolo
+Category:ཀ་ན།	Kategorio:Ganao
+Category:ཕ་རི།	Kategorio:Parizo
+Category:User en-4	Kategorio:Vikipediisto en-4
+Category:ཊོ་གོ	Kategorio:Togolando
+Category:User en	Kategorio:Vikipediisto en
+Category:ཁུརོ་ཤི་ཡ།	Kategorio:Kroatio
+Category:User zh-N	Kategorio:Vikipediisto zh-D
+Category:User en-2	Kategorio:Vikipediisto en-2
+Template:User eo	Ŝablono:Vikipediisto eo
+Template:User zh	Ŝablono:Vikipediisto zh
+Template:Template other	Ŝablono:Ĉu ŝablono
+Category:མིང་།	Kategorio:Nomoj
+Category:ཟས་ཀྱི་རིག་པ།	Kategorio:Kuirarto
+Template:Pp-template	Ŝablono:Pp-ŝablono
+Template:Wikispecies	Ŝablono:Vikispecoj
+Template:User nl-2	Ŝablono:Vikipediisto nl-2
+Category:སོ་ནམ།	Kategorio:Agrikulturo
+Category:ཙུང་ཐུང་ གཙོ་འཛིན།	Kategorio:Prezidantoj
+Template:User ru	Ŝablono:Vikipediisto ru
+Category:ཨ་མེ་རི་ཀ	Kategorio:Ameriko
+Category:ནོའོ་བྷེལ་བྱ་དགའ་རགས་མཁན།	Kategorio:Nobel-premiitoj pri paco
+Category:Language user templates	Kategorio:Babelaj ŝablonoj
+Category:ཚད་འཇལ་བྱེད་ཀྱི་སྡེ་ཚན།	Kategorio:Mezurunuoj
+Template:User eo-4	Ŝablono:Vikipediisto eo-4
+Category:རྩོམ་པ་པོ།	Kategorio:Verkistoj
+Category:དམག་དོན།	Kategorio:Armitaj fortoj
+Category:སློབ་གྲྭ་ཆེན་མོ།	Kategorio:Universitatoj
+Category:ཀྲུང་ཧྭ་མི་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་ཀྲུའུ་ཞི།	Kategorio:Prezidantoj de Ĉinio
+Template:User pl	Ŝablono:Vikipediisto pl
+Template:རིགས་དགར་མེད་པ	Ŝablono:Mankas kategorio
+Category:རི་མོ།	Kategorio:Pentrado
+Category:འདུ་ཤེས།	Kategorio:Emocioj
+Category:ཡི་ལང་གི་སྒྱུ་རྩལ།	Kategorio:Irana arto
+རམས་ཚོས།	Indiga
+Template:User pl-1	Ŝablono:Vikipediisto pl-1
+Category:ཏུ་ནི་ཤི་ཡ།	Kategorio:Tunizio
+Template:User lt	Ŝablono:Vikipediisto lt
+Category:ལག་ཆ།	Kategorio:Aparataro
+Category:མར་ཁེ་སེ་རིང་ལུགས།	Kategorio:Marksismo
+Template:User de-0	Ŝablono:Vikipediisto de-0
+Template:User en-5	Ŝablono:Vikipediisto en-5
+Wikipedia:Guestbook for non-Tibetan speaker	Vikipedio:Diskutejo/Neesperanto
+Category:User ja-N	Kategorio:Vikipediisto ja-D
+Category:སྤེན་པ།	Kategorio:Saturno
+Category:ལྷག་པ།	Kategorio:Merkuro
+Category:ཤ་རི་ཡ།	Kategorio:Ŝario
+Category:ཇ།	Kategorio:Teoj
+Category:རྩ།	Kategorio:Poacoj
+Category:ཁེ་ར་བི་ཧན།	Kategorio:Karibio
+Category:སུ་ཝ་ཛི་ལནཌ།	Kategorio:Svazilando
+Category:འོད་པར་རྒྱབ་ཐབས།	Kategorio:Fotado
+Category:མངར་ཟས།	Kategorio:Desertoj
+Template:གསལ་བྱེད།	Ŝablono:Konsonantoj
+Category:ཁང་རྩིག་བཟོ་རིག	Kategorio:Arkitekturo
+Category:མེ་འཁོར།	Kategorio:Fervojo
+Category:ཁྲོམ་ལམ།	Kategorio:Netrakaj tervojoj
+Category:གི་རི་ན་ཌ། (རྒྱལ་ཁབ།)	Kategorio:Grenado
+Template:User fr-4	Ŝablono:Vikipediisto fr-4
+Template:User eo-0	Ŝablono:Vikipediisto eo-0
+Category:མ་སེ་ཌོ་ནིཡ། (རྒྱལ་ཁབ།)	Kategorio:Respubliko Makedonio
+Category:User la	Kategorio:Vikipediisto la
+Category:User lt	Kategorio:Vikipediisto lt
+Category:User fr-4	Kategorio:Vikipediisto fr-4
+Category:User fr-N	Kategorio:Vikipediisto fr-D
+Category:User lt-N	Kategorio:Vikipediisto lt-D
+Category:User ru-N	Kategorio:Vikipediisto ru-D
+Category:ཚོང་ལས།	Kategorio:Negoco
+Category:ཏོའོ་ཅོའོ་ཆོས་ལུགས།	Kategorio:Taoismo
+Category:User de	Kategorio:Vikipediisto de
+Category:User de-0	Kategorio:Vikipediisto de-0
+Category:User en-3	Kategorio:Vikipediisto en-3
+Category:User en-N	Kategorio:Vikipediisto en-D
+Category:སའོ་ཊོ་མེ་དང་པི་རིན་སི་པ།	Kategorio:Sao-Tomeo kaj Principeo
+Category:དགེ་སྒྲུབ།	Kategorio:Karitataj organizaĵoj
+Category:ཀྲུང་གོའི་རི་མོ་མཁས་ཅན།	Kategorio:Ĉinaj pentristoj
+Category:ཨའི་ཆི་ཞེས་པའི་སྲིད་འཛིན་ས་ཁུལ།	Kategorio:Gubernio Ajĉi
+Category:རྒྱལ་ཁབ་གྱི་ཆབ་སྲིད།	Kategorio:Politiko laŭ landoj
+Category:དབྱིབས་རྩིས་རིག་པ།	Kategorio:Geometrio
+Category:གཞས་རིག་པ།	Kategorio:Muzikscienco
+Category:User ja-1	Kategorio:Vikipediisto ja-1
+Category:མེ་རི།	Kategorio:Vulkanoj
+Category:User ru-1	Kategorio:Vikipediisto ru-1
+Category:སྙན་ངག་མཁན།	Kategorio:Poetoj
+Category:ས་མུ་རའི།	Kategorio:Samurajoj
+Template:ཀེ་རི་སིའི་དབྱངས་གསལ་རེའུ་མིག	Ŝablono:Grekaj literoj
+Category:མའི་ཀོ་རོ་ནེ་ཤི་ཡ། (རྒྱལ་ཁབ།)	Kategorio:Federacio de Mikronezio
+ཧྲང་ཨན།	Ĉangan
+Category:རྒྱལ་སྤྱིའི་འཁྲབ་སྟོན་པ།	Kategorio:Aktoroj laŭ landoj
+Category:མེ་ཏོག་སྐོར།	Kategorio:Floroj
+Category:ཉི་མའི་ཁྱིམ་རྒྱུད།	Kategorio:Sunsistemo
+Category:ཧོ་ཁའི་དོ།	Kategorio:Hokajdo
+Category:ཀོང་ཏུང་ཞིང་ཆེན།	Kategorio:Gŭangdongo
+Category:ཧྲའན་ཞི།	Kategorio:Ŝenŝjio
+Category:ཨན་ཧུའེ་ཞིང་ཆེན།	Kategorio:Anhujo
+Category:ཧྥུའུ་ཅན།	Kategorio:Fuĝjano
+Category:ཌོ་མི་ནི་ཀན་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Kategorio:Domingo
+Category:ཆུ།	Kategorio:Akvo
+Category:བཏུང་བྱའི་སྐོར།	Kategorio:Trinkaĵoj
+Category:རྒྱལ་ཁབ་གྱི་དབུ་འཛིན།	Kategorio:Prezidantoj laŭ nacieco
+ལུང་སྟོན་པ་ཤ་མུ་ཨེལ།	Samuelo
+Category:བྷེ་ལ་རསུ།	Kategorio:Belorusio
+Category:ཨེན་ནའུ་ཝེ་ཐེ་མི།	Kategorio:Inuitoj
+Category:ཨ་ཧྥེ་རི་ཁའི་གླིང་གི་རྒྱལ་ཁབ།	Kategorio:Afrikaj landoj
+Category:ཧྥ་ཤི་སིའི་རིང་ལུགས།	Kategorio:Faŝismo
+Category:བྲན་གཡོག་རིང་ལུགས།	Kategorio:Sklaveco
+Template:User ru-2	Ŝablono:Vikipediisto ru-2
+Template:User es-3	Ŝablono:Vikipediisto es-3
+Category:མིག་དམར།	Kategorio:Marso
+Category:པལ་ཊིམ་གྱི་ཟུར་ཟའི་མུ་འབྲེལ་རི་མོ།	Kategorio:Belga bildliteraturo
+Category:User ru	Kategorio:Vikipediisto ru
+Category:User ru-2	Kategorio:Vikipediisto ru-2
+Category:User ru-3	Kategorio:Vikipediisto ru-3
+Category:User uk-2	Kategorio:Vikipediisto uk-2
+Category:ཧྲན་ཏུང་།	Kategorio:Ŝandongo
+Category:མཚོ་སྔོན་ཞིང་ཆེན།	Kategorio:Ĉinghajo
+Category:ཧའོ་ནན།	Kategorio:Henano
+Category:ཧུའུ་ནན།	Kategorio:Hunano
+Category:དགོན་པ།	Kategorio:Monaĥejoj
+Category:ཤིང་།	Kategorio:Arboj
+Category:སྤྱི་ཚོགས་རིག་པ།	Kategorio:Sociologio
+Category:སྤྲིན།	Kategorio:Nuboj
+Category:འགྲོ་བ་མི།	Kategorio:Homoj
+Category:ཨོ་ཝེར་ཉེ།	Kategorio:Aŭvernjo
+Category:མི་དི་ཕི་རེ་ནེ།	Kategorio:Sudo-Pireneoj
+Category:ཕོ་རོའོ་ཝང་སི་ཝལ་ཕེས་ཁོ་ཏེ་ད་ཟུར།	Kategorio:Provenco-Alpoj-Bordo Lazura
+Category:མེག་སི་ཀོ་གསར་མ།	Kategorio:Nov-Meksiko
+Category:མི་ཅི་གྷན།	Kategorio:Miĉigano
+Category:ཡོ་བ།	Kategorio:Iovao
+Category:ཨིན་ཌི་ཡཱ་ན།	Kategorio:Indianio
+Category:ཁོ་ལོ་ར་ཌོ།	Kategorio:Koloradio
+Category:འཛམ་གླིང་འཁྲུག་ཆེན་དང་པོ།	Kategorio:Unua mondmilito
+Category:རླུང་།	Kategorio:Ventoj
+Category:ཨོའོ་སི་ཁྲོ་རི་ཡའི་རྩོམ་པ་པོ།	Kategorio:Aŭstraj verkistoj
+Category:དབྱི་རག་གི་རྩོམ་པ་པོ།	Kategorio:Irlandaj verkistoj
+Category:དབྱི་ཐ་ལི་ཡི་རྩོམ་པ་པོ།	Kategorio:Italaj verkistoj
+Category:ཨང་གོ་ལ།	Kategorio:Angolo
+Category:བེ་ནིན།	Kategorio:Benino
+Category:བྷོ་ཙི་ཝ་ན།	Kategorio:Bocvano
+Category:བུར་ཀི་ན་ཕ་སོ།	Kategorio:Burkino
+Category:བུ་རུན་ཌི།	Kategorio:Burundo
+Category:ཇི་བའོ་ཊི།	Kategorio:Ĝibutio
+Category:ཀོ་ཊི་ཌི་ཨའི་བོ་རི།	Kategorio:Ebur-Bordo
+Category:ཨི་ཁུའ་ཊོ་རལ་གི་ནེ།	Kategorio:Ekvatora Gvineo
+Category:ཨི་རི་ཏྲའ།	Kategorio:Eritreo
+Category:གེ་བོན།	Kategorio:Gabono
+Category:གེམ་བྷི་ཡ།	Kategorio:Gambio
+Category:གི་ནེ།	Kategorio:Gvineo
+Category:གི་ནེ་-བི་སའོ།	Kategorio:Gvineo Bisaŭa
+Category:ཁམ་མུ་རོན།	Kategorio:Kameruno
+Category:ཁེབ་ཝར་ཌི།	Kategorio:Kabo-Verdo
+Category:ཁེ་ནི་ཡ།	Kategorio:Kenjo
+Category:ཁོ་མོ་རོ་སུ།	Kategorio:Komoroj
+Category:ལི་བེ་རི་ཡ།	Kategorio:Liberio
+Category:མ་ད་གཱ་སི་ཀར།	Kategorio:Madagaskaro
+Category:མ་ལ་ཝི།	Kategorio:Malavio
+Category:མ་ལི།	Kategorio:Malio
+Category:མའེ་ལོ་ཀོ།	Kategorio:Maroko
+Category:མའུ་རི་ཏ་ནི་ཡ།	Kategorio:Maŭritanio
+Category:མའུ་རི་ཊིའུ་སུ།	Kategorio:Maŭricio
+Category:མོ་ཛམ་བིཀ།	Kategorio:Mozambiko
+Category:ན་མི་བྷི་ཡ།	Kategorio:Namibio
+Category:ནི་ཇར།	Kategorio:Niĝero
+Category:ཀོང་གོ་སྤྱི་མཐུན་རྒྱལ་ཁབ།	Kategorio:Respubliko Kongo
+Category:རུ་ཝན་ཌ།	Kategorio:Ruando
+Category:ཕོ་ལན་གྱི་སྒྱུ་རྩལ།	Kategorio:Pola arto
+Category:ཆོས་ལུགས་དང་ལོག་གཡེམ་མམ་ཉེས་སྤྱོད།	Kategorio:Religio kaj perforto
+Template:Merge	Ŝablono:Kunigu
+Category:ནང་པ་སངས་རྒྱས།	Kategorio:Budhanoj
+Template:Infobox Language/family-color	Ŝablono:Informkesto lingvo/Koloro
+Template:User ca-3	Ŝablono:Vikipediisto ca-3
+Template:User cs-3	Ŝablono:Vikipediisto cs-3
+Category:གཙང་པོ།	Kategorio:Riveroj
+Template:User ru-1	Ŝablono:Vikipediisto ru-1
+Template:User sk-2	Ŝablono:Vikipediisto sk-2
+Template:User zh-1	Ŝablono:Vikipediisto zh-1
+Template:User zh-4	Ŝablono:Vikipediisto zh-4
+Category:ཛམ་བི་ཡ།	Kategorio:Zambio
+Category:སི་ནི་གཱལ།	Kategorio:Senegalo
+Category:ཧྥ་རན་སིའི་སྲིད་དོན།	Kategorio:Politiko en Francio
+Category:སེ་ཆེ་ལེ་སུ།	Kategorio:Sejŝeloj
+Category:སི་ར་ལེ་ཨོན།	Kategorio:Siera-Leono
+Category:ཛིམ་བབ་ཝི།	Kategorio:Zimbabvo
+Category:ཁབ་ལེན།	Kategorio:Magnetismo
+Category:སོ་མ་ལི།	Kategorio:Somalio
+Category:ཆཱ་ཌ།	Kategorio:Ĉado
+Category:ཨུ་གན་ད།	Kategorio:Ugando
+Category:དབུས་ཨ་ཧྥེ་རི་ཁན་རི་པཔ་ལིཀ།	Kategorio:Centr-Afrika Respubliko
+Category:གླུ་གཞས་ཟློས་གར།	Kategorio:Opero
+Category:གཞས་གཏོང་བ།	Kategorio:Kantado
+Category:བོད་མི།	Kategorio:Tibetanoj
+Category:ཟློས་གར།	Kategorio:Teatro
+Category:མི་རིགས་ཀྱི་གཞས་གཏོང་མཁན།	Kategorio:Kantistoj laŭ landoj
+Category:ཧྥི་ལི་པིན​།	Kategorio:Filipinoj
+Category:ཧྥ་རན་སིའི་གཞས་པ་གཞས་མ།	Kategorio:Francaj kantistoj
+Category:དབྱིན་ཇིའི་ཕྱི་འབྲེལ་མཁས་ཅན།	Kategorio:Britaj ambasadoroj
+Category:ཤོག་བུ།	Kategorio:Paperoj
+Category:ཨར་མེ་ནི་ཡ།	Kategorio:Armenio
+Category:བྷཧ་རཡིན།	Kategorio:Barejno
+Category:འབྲུག་ཡུལ།	Kategorio:Butano
+Category:ཨ་མི་རི་ཁའི་སྙན་ངག	Kategorio:Usonaj poetoj
+Category:རང་ཤི་རྒྱབ་པ།	Kategorio:Sinmortigo
+Category:སི་རི་ཡ།	Kategorio:Sirio
+Category:དབྱི་ཐ་ལི་ཡི་སྙན་ངག་མཁས་ཅན།	Kategorio:Italaj poetoj
+Category:དྲ་ཕས་སྤོ་ལོ།	Kategorio:Korbopilkado
+Category:མེག་སི་ཀོ་ཡི་རི་མོ་མཁས་ཅན།	Kategorio:Meksikaj pentristoj
+Category:ཡེ་ཤུའི་འཁྲུངས་སྐར།	Kategorio:Kristnasko
+Category:མི་རིགས་རིང་ལུགས།	Kategorio:Naciismo
+Category:ཤི་བ།	Kategorio:Morto
+Category:དབུལ་ཕོངས།	Kategorio:Malriĉeco
+Category:ལོག་གཡེམ་མམ་ཉེས་སྤྱོད།	Kategorio:Perforto
+Category:ལྗོར་མན་གྱི་ལོ་རྒྱུས་མཁས་ཅན།	Kategorio:Germanaj historiistoj
+Category:ཧྥ་རན་སི་ཡི་ལོ་རྒྱུས་མཁས་ཅན།	Kategorio:Francaj historiistoj
+Category:ཁ་ར་ཏེ།	Kategorio:Karateo
+Category:ཨ་ལི་ཡེ།	Kategorio:Allier
+Category:ཨ་ཝེ་རོང་།	Kategorio:Aveyron
+Category:ཝོ་ཁ་ལུ་ཟེ།	Kategorio:Vaucluse
+Category:ཧྥ་རན་སིའི་སྲིད་དོན་ལས་མཁན།	Kategorio:Francaj politikistoj
+Category:མཚོ་འགག	Kategorio:Markoloj
+Category:དབྱིན་ཇིའི་འཁྲབ་སྟོན་པ།	Kategorio:Anglaj aktoroj
+Category:སྐར་མ་གནམ་རྒྱལ།	Kategorio:Urano
+Category:ཕུར་བུ།	Kategorio:Jupitero
+Category:སྐར་མ་མཚོ་རྒྱལ།	Kategorio:Neptuno
+Category:ཧིན་རྡུ་དང་ཡོ་རོབ་ཀྱི་སྐད།	Kategorio:Hindeŭropa lingvaro
+Category:ཉི་ཧུང་གི་རི་མོ་མཁས།	Kategorio:Japanaj pentristoj
+Category:འབྲུ་རིགས་སྐོར།	Kategorio:Cerealoj
+Category:ཀྲུང་གོའི་གཞས་པ་དང་གཞས་མ།	Kategorio:Ĉinaj kantistoj
+Category:ཧྥ་རན་སིའི་བཀའ་བློན་འགོ་གཙོ།	Kategorio:Ĉefministroj de Francio
+Category:བྱང་ཀོ་རི་ཡ།	Kategorio:Nord-Koreio
+Category:ཇིཨོར་ཇི་ཡ། (རྒྱལ་ཁབ།)	Kategorio:Kartvelio
+Category:ཁམ་པོ་ཛ།	Kategorio:Kamboĝo
+Category:རྒྱ་མི།	Kategorio:Ĉinoj
+Category:ཨ་མེ་རི་ཁའི་གཞས་གཏོང་མཁན།	Kategorio:Usonaj kantistoj
+Category:ཝ་ནུའ་ཏུ།	Kategorio:Vanuatuo
+Category:གསར་འགོད།	Kategorio:Ĵurnalistiko
+Category:ཉི་ཧུང་གི་མཚན་ཉིད་རིག་པ་བ།	Kategorio:Japanaj filozofoj
+Category:ཁ་ཏར།	Kategorio:Kataro
+Category:ཀེ་རེ་གེཛུ་སུཏེན།	Kategorio:Kirgizio
+Category:ཀོ་རི་ཡ།	Kategorio:Koreio
+Category:ཁུ་ཝི་ཐི།	Kategorio:Kuvajto
+Category:ལེ་པ་ནོན།	Kategorio:Libano
+Category:མལ་དིཝེསུ།	Kategorio:Maldivoj
+Category:བྷར་མ།	Kategorio:Birmo
+Category:བལ་ཡུལ།	Kategorio:Nepalo
+Category:ཨོ་མན།	Kategorio:Omano
+Category:སེང་ག་གླིང་།	Kategorio:Sri-Lanko
+Category:ཐ་ཇི་ཁེ་སི་ཏན།	Kategorio:Taĝikio
+Category:ཐེ་ཝན།	Kategorio:Tajvano
+Category:ཤར་ཏིམོར།	Kategorio:Orienta Timoro
+Category:ཏུརཀ་མེ་ནི་སུཏན།	Kategorio:Turkmenio
+Category:ཨུཛ་བེ་ཀིསུ་ཏན།	Kategorio:Uzbekio
+Category:ཡི་ནེ་ཁྲེ་ཀྲི་ཨ་རབ་ཨེ་མེ་རེ་ཁྲི།	Kategorio:Unuiĝintaj Arabaj Emirlandoj
+Category:ཧྥ་རན་སིའི་འཁྲབ་སྟོན་པ།	Kategorio:Francaj aktoroj
+Template:User de-4	Ŝablono:Vikipediisto de-4
+Category:ཡུལ་སྐོར་གྱི་དེབ།	Kategorio:Vojaĝlibroj
+Category:གསུང་རབ་ཀྱི་མི་སྣ།	Kategorio:Bibliaj personoj
+Category:ཡོ་རོབ་གི་ལོ་རྒྱུས།	Kategorio:Historio de Eŭropo
+Category:ཀི་རི་བ་ཏི།	Kategorio:Kiribato
+Category:སན་མ་རི་ནོ།	Kategorio:San-Marino
+Category:རྗོར་ཌན།	Kategorio:Jordanio
+Category:ས་མོའ།	Kategorio:Samoo
+Category:ཁོ་ས་ཏ་རི་ཁ།	Kategorio:Kostariko
+Category:ཏྲི་ནི་ཌད་དང་ཏྲོ་བེ་གོ	Kategorio:Trinidado kaj Tobago
+Category:སུ་རི་ནེམ།	Kategorio:Surinamo
+Category:ནི་ཀ་ར་གུ་ཝ།	Kategorio:Nikaragvo
+Category:བྷོསུ་ནིཡ་དང་ཧར་ཛེ་གྷོ་ཝི་ན།	Kategorio:Bosnio kaj Hercegovino
+Category:བར་བ་ཌོ་སི།	Kategorio:Barbado
+Category:པ་ན་མ།	Kategorio:Panamo
+Category:པ་ར་གུ་ཡེ།	Kategorio:Paragvajo
+Category:ཧྥི་ཇི།	Kategorio:Fiĝioj
+Category:པ་པུ་འ་ནིའུ་གི་ནེ།	Kategorio:Papuo-Nov-Gvineo
+Category:མར་ཤལ་གླིང་ཕྲན་རྒྱལ་ཁབ།	Kategorio:Marŝala Insularo
+Category:ལི་ཆེ་ཏན་སཏིན།	Kategorio:Liĥtenŝtejno
+Category:སོ་ལོ་མོན་གླིང་ཕྲན་ཚོ་ཁག	Kategorio:Salomonoj
+Category:ཧོང་དུ་ར་སི།	Kategorio:Honduro
+Category:ཨུ་རུ་གུ་ཡེ།	Kategorio:Urugvajo
+Category:ཨན་ཌོར་ར།	Kategorio:Andoro
+Category:སེན་ཊི་བིན་སེན་ཊི་དང་གི་རི་ན་ཌིན་སི།	Kategorio:Sankta Vincento kaj Grenadinoj
+Category:སེར་བྷི་ཡ།	Kategorio:Serbio
+Category:བེ་ལི་ཛི།	Kategorio:Belizo
+Category:ཨིལ་སལ་ཝ་ཌོར།	Kategorio:Salvadoro
+Category:ཧའི་ཏི།	Kategorio:Haitio
+Category:ཨེ་ཁོའོ་ཌོར།	Kategorio:Ekvadoro
+Category:ཡེ་མེན།	Kategorio:Jemeno
+Category:པེ་རུ།	Kategorio:Peruo
+Category:ཌོ་མི་ནི་ཀ	Kategorio:Dominiko
+Category:བྷོ་ལི་ཝི་ཡ།	Kategorio:Bolivio
+Category:ཨལ་པ་ཉི་ཡ།	Kategorio:Albanio
+Category:མོ་ན་ཁོ།	Kategorio:Monako
+Category:གོམས་སྲོལ།	Kategorio:Tradicioj
+Category:ཨ་མེ་རི་ཁའི་བྱང་གླིང་གི་རྒྱལ་ཁབ།	Kategorio:Nordamerikaj landoj
+Category:པེ་ཅིང་།	Kategorio:Pekino
+Category:སྔོ་ཚལ་རིགས།	Kategorio:Legomoj
+Category:ཤིང་ཏོག་རིགས།	Kategorio:Fruktoj
+Category:ཡུལ་སྐད།	Kategorio:Dialektoj
+Category:སངས་རྒྱས།	Kategorio:Budhoj
+Category:འགྲེམས་སྟོན་ཁང་།	Kategorio:Muzeoj
+Category:རྒྱ་མཚོ།	Kategorio:Oceanoj
+Category:མན་གྷ།	Kategorio:Mangao
+Category:ཁ་ཆེའི་ཆོས་ཁང་།	Kategorio:Moskeoj
+Category:མིའི་རིགས་དཔྱད་པའི་རིག་པ།	Kategorio:Antropologio
+Category:རྡོ་ཆས་སྤྱོད་པའི་དུས་རབས།	Kategorio:Ŝtonepoko
+Category:ལྕགས་ཆས་སྤྱོད་པའི་དུས་རབས།	Kategorio:Ferepoko
+Category:འབྲས་ལྗོངས།	Kategorio:Sikimo
+Category:ནམ་དུས།	Kategorio:Sezonoj
+Category:ལི་ཡོང་།	Kategorio:Lyon
+Category:ནུབ་ཕྱོགས་རྒྱལ་ཁབ་ཀྱི་རིག་གནས།	Kategorio:Okcidenta kulturo
+Category:རླུང་འཕྲིན།	Kategorio:Radio
+Category:གཅེར་​བུ་​བའི་​ཆོས་​ལུགས།	Kategorio:Ĝajnismo
+Category:ཛོ་​ར་​སིའི་​ཆོས་​ལུགས།	Kategorio:Zaratuŝtrismo
+Category:ནུབ་ཕྱོགས་རྒྱལ་ཁབ་ཀྱི་སྒྱུ་རྩལ།	Kategorio:Okcidenta arto
+Category:ཨེ་ཤེ་ཡའི་རྒྱུ་རྩལ།	Kategorio:Azia arto
+Category:ཞི་བདེ།	Kategorio:Paco
+Category:ཆགས་སློང་རྩོམ་རིག	Kategorio:Pornografio
+Category:གདོང་འབག	Kategorio:Maskoj
+Category:ནག་ཁུང་།	Kategorio:Nigraj truoj
+Category:གསོ་རླུང་།	Kategorio:Oksigeno
+Category:མཚོན་ཆ།	Kategorio:Armiloj
+Category:ནའུ་རུ།	Kategorio:Nauro
+Category:པ་ལའུ།	Kategorio:Palaŭo
+Category:ཊོང་ག	Kategorio:Tongo
+Category:ཏུ་ཝ་ལུ།	Kategorio:Tuvalo
+Category:ཨེན་ཊི་གུའ་དང་བར་བུ་ཌ།	Kategorio:Antigvo-Barbudo
+Category:ཨ་མེ་རི་ཁའི་ལྷོ་གླིང་གི་རྒྱལ་ཁབ།	Kategorio:Sudamerikaj landoj
+Category:གུ་ཡ་ན།	Kategorio:Gujano
+Category:ཁོ་ལོམ་བི་ཡ།	Kategorio:Kolombio
+Category:ཁོ་སོ་ཝོ།	Kategorio:Kosovo
+Template:ཆགས།	Ŝablono:Sekso
+Category:རོལ་ཆའི།	Kategorio:Muzikaj instrumentoj
+Category:གནའ་རབས་མ་ཡ།	Kategorio:Majaa civilizo
+Category:རང་དབང་།	Kategorio:Libereco
+Category:གནམ་གཤིས་རིག་པ།	Kategorio:Meteologio
+Category:ཧོང་ཀོང་།	Kategorio:Honkongo
+Category:ཚྭ།	Kategorio:Saloj
+Category:སི་ཅི་ལི་ཡ།	Kategorio:Sicilio
+Category:གྱོན་ཆས།	Kategorio:Vestoj
+Category:ཧིན་དུ་ཡི་ལྷ།	Kategorio:Hinduaj dioj
+Category:དུས་ཆེན།	Kategorio:Festivaloj
+Category:ཧི་མ་ལ་ཡ།	Kategorio:Himalajo
+Category:ཕིན་ཕང་སྤོ་ལོ།	Kategorio:Tabloteniso
+Category:ཆགས།	Kategorio:Sekso
+Category:ཕྲ་མཐོང་དཔལ་འབྱོར།	Kategorio:Mikroekonomiko
+Category:གསལ་བྱེད།	Kategorio:Konsonantoj
+Category:འགུལ་རིས་གློག་བརྙན།	Kategorio:Animacio
+Category:རིམས་ནད།	Kategorio:Malsanoj
+Category:སླི་ཁེ་རི་ནི་ཞི་ཡ།	Kategorio:Mikronezio
+Category:གནའ་རབས་ཀེ་རི་སི།	Kategorio:Antikva Grekio
+Category:ལ་ཊིན་ནས་ཆད་པའི་ཡུལ་སྐད།	Kategorio:Latinida lingvaro
+Category:པར་ཆས།	Kategorio:Fotiloj
+Category:ཕྱི་འབྲིལ།	Kategorio:Diplomatio
+Category:ཞབས་བྲོ།	Kategorio:Danco
+Category:སྦྲང་མ་ཉར་སྲུང་།	Kategorio:Abelkulturo
+Category:རྩེད་ཆས།	Kategorio:Ludiloj
+Category:ཁྱིམ་ཚང་།	Kategorio:Familio
+Category:དྲང་པོ།	Kategorio:Justeco
+Category:སྦྲུལ།	Kategorio:Serpentoj
+Category:ཉི་མ།	Kategorio:Suno
+Category:དཔའ་དམ།	Kategorio:Glavoj
+Category:པ་སངས།	Kategorio:Venuso
+Category:ལྷོ་མཐའི་གླིང་	Kategorio:Antarkto
+Category:ཐོ་ཕུ་རིག་པ།	Kategorio:Topologio
+Category:བོད་ཡུལ།	Kategorio:Tibeto
+Template:Infobox language	Ŝablono:Informkesto lingvo
+Category:རྒྱ་མཚོ་ཆེན་པོའི་གླིང་ཆེན།	Kategorio:Oceanio
+Template:User eo-5	Ŝablono:Vikipediisto eo-5
+Category:ཀྲུང་གོའི་གྲོང་ཁྱེར།	Kategorio:Urboj de Ĉinio
+Category:ཀུན་སྤྱོད་བཟང་པོ།	Kategorio:Virtoj
+Category:གུ་ཝེ་ཐི་མ་ལ།	Kategorio:Gvatemalo
+Category:མོན་ཊེནིག་རོ།	Kategorio:Montenegro
+Category:GFDL images	Kategorio:Bildoj sub GFDL
+Category:གྲི།	Kategorio:Tranĉiloj
+Category:ཁྲབ་ལྡན་འཁོར་ལོ།	Kategorio:Tankoj
+Category:བཅོམ་ལྡན་འདས།	Kategorio:Siddhartha Gautama
+Category:ཟུར་ཟའི་མུ་འབྲེལ་རི་མོ།	Kategorio:Bildliteraturo
+Category:རི་པིན་གྱི་སྒྱུ་རྩལ།	Kategorio:Japana arto
+Category:ཁ་ན་ཌ་ཀྱི་སྒྱུ་རྩལ།	Kategorio:Artoj en Kanado
+Template:CompactTOC	Ŝablono:Indekso
+Category:མ་ཧ་བ་ར་ཏ།	Kategorio:Mahabharato
+Category:སློབ་གྲྭ།	Kategorio:Lernejoj
+Category:མར་ཏིན་ལུ་ཏར་ཁིན།	Kategorio:Martin Luther King
+Category:ཏིན་ཏིན།	Kategorio:Tinĉjo
+Category:ཐུར་མ།	Kategorio:Kuleroj
+Category:མིའི་རིགས་རྒྱུད་རིག་པ།	Kategorio:Etnologio
+ཚོ་ཁག་གི་ཆགས་སྤྱོད།	Grupa seksumado
+Category:ཁ་ཏ་ཉ། (ཞིང་ཆེན།)	Kategorio:Provinco Catania
+Category:ཟེན།	Kategorio:Zeno
+Category:ཡེ་རེ་ཝན།	Kategorio:Erevano
+ཞོག་རྒོད།	Ignamo
+Category:ཨེ་ཤེ་ཡའི་གླིང་གི་རྒྱལ་ཁབ།	Kategorio:Aziaj landoj
+Category:ཆེ་མཐོང་དཔལ་འབྱོར།	Kategorio:Makroekonomio
+Category:ཨྰ་སྦྲོལ་ཧྥུ་ཧི་ཐུ་ལུར།	Kategorio:Adolf Hitler
+Category:ཝེ་ནེ་ཟི་ཡ།	Kategorio:Venecio
+Category:ཝེ་ནེ་ཏོ།	Kategorio:Veneto
+Category:རྒྱལ་ཁབ་ཁག་གི་གཞུང་མེད་རིང་ལུག	Kategorio:Anarkiismo laŭ landoj
+Category:སྒྱུ་རྩལ་གྱི་བྱུང་ཚུལ།	Kategorio:Historio de arto
+Category:ཨ་ཝི་ཉོང་།	Kategorio:Avignon
+Category:པ་སེལ།	Kategorio:Kantono Bazelo
+Category:དོམ།	Kategorio:Ursedoj
+Category:ཟམ་པ།	Kategorio:Pontoj
+Category:ཟངས་ཆས་སྤྱོད་པའི་དུས་རབས།	Kategorio:Bronzepoko
+Category:ཁྱིམ་ཐབ་མེད་པར་གནས་པའི་མི་ཚེ།	Kategorio:Fraŭleco
+Category:སེལ་ཊིཀ་ཡི་འཛམ་གླིང་།	Kategorio:Kelta mondo
+Category:སྐད་ཀྱི་མཚན་ཉིད་རིག་པ།	Kategorio:Filozofio de lingvo
+Category:ཉིན་མོ།	Kategorio:Tagoj
+Category:གྲི་རྩེད།	Kategorio:Skermo
+Category:དམག་འཁྲུག	Kategorio:Milito
+Category:ཁོར་ཡུག	Kategorio:Mediprotektado
+Category:ཧྥ་རན་སིའི་གཞུང་མེད་རིང་ལུག་པ།	Kategorio:Francaj anarkiistoj
+Category:ཧྥ་རན་སིའི་སྐད།	Kategorio:Franca lingvo
+Category:ཀེ་རི་སིའི་དབྱངས་གསལ་རེའུ་མིག	Kategorio:Greka alfabeto
+Category:ཧོན་ཤུ།	Kategorio:Honŝuo
+Category:དགོད་བྲོ།	Kategorio:Humuro
+Category:ཡུལ་ཏོ་པི་ཡ།	Kategorio:Utopioj
+Category:གཞུང་མེད་ལམ་སྲོལ།	Kategorio:Anarkiismo
+Category:ཉི་ཧོང་གི་གཞུང་མེད་རིང་ལུག་པ།	Kategorio:Japanaj anarkiistoj
+Category:བོད་ཀྱི་ཡུལ་སྐད།	Kategorio:Lingvoj de Tibeto
+Category:ལེ་ཨོ་ན་ཏོ་ཏ་ཧྥིན་ཆི།	Kategorio:Leonardo da Vinci
+Category:དཔེ་མཛོད་ཁང་།	Kategorio:Bibliotekoj
+Category:རིས་ཡག	Kategorio:Riado
+Category:རོ་མ།	Kategorio:Romo
+Category:སེན་ཊི་ཀི་ཊི་སི་དང་ནེ་བི་སི།	Kategorio:Sankta-Kito kaj Neviso
+Category:སེན་ཊ་ལུ་ཤི་ཡ།	Kategorio:Sankta Lucio
+Category:ལེགས་སྦྱར་སྐད།	Kategorio:Sanskrito
+Category:ཕ་རིའི་ཀོ་མུ་ནེ།	Kategorio:Pariza komunumo
+Category:ཆགས་སྦྱོར་རིག་པ།	Kategorio:Seksologio
+Category:ཧྲིན་ཐོ།	Kategorio:Ŝintoismo
+Category:སིག་​གི་​ཆོས་​ལུགས།	Kategorio:Sikismo
+Category:སྒྲ།	Kategorio:Sono
+Category:འགྱུར་མིང་།	Kategorio:Pseŭdonimoj
+Category:མེ་སི་ན། (ཞིང་ཆེན།)	Kategorio:Provinco Messina
+Category:བ་ཧ་མཱ་སི།	Kategorio:Bahamoj
+Category:སིམ་བུ་སན།	Kategorio:La Simpsonoj
+Category:བོད་སྐད།	Kategorio:Tibeta lingvaro
+Category:བོད་པའི་གཞས་པ་གཞས་མ།	Kategorio:Tibetaj muzikistoj
+Category:བོད་རིག་པ།	Kategorio:Tibetologio
+Category:ཨའི་ཁི་དོ།	Kategorio:Ajkido
+Category:ཚོན་མདོག།	Kategorio:Koloroj
+Category:སིད་ནེ།	Kategorio:Sidnejo
+Category:ཨའི་ནུ།	Kategorio:Ajnuoj
+Category:བོད་ཀྱི་རི་བོ།	Kategorio:Montoj en Tibeto
+Category:བྷི་རུ་ནི།	Kategorio:Brunejo
+Category:ཐག་རྒུལ་འདྲ་གཟུགས།	Kategorio:Pupteatro
+Category:ཁོ་ཁེ་གླིང་ཚོམ།	Kategorio:Kukinsuloj
+Category:ཕོ་རོའོ་ཝང་སི།	Kategorio:Provenco
+Category:བོད་པའི་འཁྲབ་སྟོན་པ།	Kategorio:Tibetaj aktoroj
+Category:ལོ་རྒྱུས་བྱུང་གོང་གི་དུས་མཚམས།	Kategorio:Prahistorio
+Category:གྲོང་ཁྱེར།	Kategorio:Urboj
+Category:User en-1	Kategorio:Vikipediisto en-1
+Category:User de-1	Kategorio:Vikipediisto de-1
+Category:ཇ་ཝ།	Kategorio:Javo
+Template:Userbox-level	Ŝablono:Userbox-level
+Category:བྱང་སྣེ་ས་ཁུལ་གྱི་སྲོག་ཆགས།	Kategorio:Arktaj terbestoj
+Template:User zh-min-nan-3	Ŝablono:Vikipediisto zh-min-nan-3
+Template:User sh-2	Ŝablono:Vikipediisto sh-2
+ལ་ཕུག	Kultiva rafano
+Template:Style/ril	Ŝablono:Style/ril
+བཟོད་པ།	Pacienco
+Special:RecentChanges	Specialaĵo:Lastaj ŝanĝoj
+Category:User ja-4	Kategorio:Vikipediisto ja-4

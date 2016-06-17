@@ -1,0 +1,2910 @@
+Affrica	Afriko
+Iapan	Japanio
+Sūðamerica	Sudameriko
+Norþweg	Norvegio
+Englaland	Anglio
+Scotland	Skotlando
+Wēalas	Kimrio
+Norðerne Īrland	Nord-Irlando
+Īrland Cynewīse	Irlando
+Ungerland	Hungario
+Spēonland	Hispanio
+Geānedu Rīcu American	Usono
+Belgice	Belgio
+Letseburg	Luksemburgo (lando)
+Eorðe	Tero
+Līf	Vivo
+George Washington	George Washington
+Finnland	Finnlando
+Swēoland	Svedio
+Denemearc	Danio
+Polaland	Pollando
+Liþþuania	Litovio
+Italia	Italio
+Swissland	Svislando
+Ēastrīce	Aŭstrio
+Grēcland	Grekio
+Turcland	Turkio
+Bēor	Biero
+Portugal	Portugalio
+Europe	Eŭropo
+Asia	Azio
+Norðamerica	Nordameriko
+Antarctica	Antarkto
+Wikipǣdia	Vikipedio
+Niðerland	Nederlando
+Nīweoforwīcburg	Novjorko
+Hwæsingatūn, D.C.	Vaŝingtono
+Berlin	Berlino
+Los Angeles	Los-Anĝeleso
+Spearctelle	Komputilo
+Genf	Ĝenevo
+Betweoxnett	Interreto
+Barack Obama	Barack Obama
+Uruguay	Urugvajo
+Lunden	Londono
+Æppel	Pomo
+Paris	Parizo
+Abraham Lincoln	Abraham Lincoln
+Android	Android
+Google	Google
+Mexico	Meksiko
+Atlantisc Gārsecg	Atlantika Oceano
+Sericus Gārsecg	Pacifika Oceano
+California	Kalifornio
+Mōnandæg	Lundo
+Æfterra Gēola	Januaro
+Solmōnaþ	Februaro
+Hrēþmōnaþ	Marto
+Tīw (tungol)	Marso
+Cenia	Kenjo
+Sigelhearwenaland	Etiopio
+Ēastermōnaþ	Aprilo
+Þrimilcemōnaþ	Majo
+Sēremōnaþ	Junio
+Mǣdmōnaþ	Julio
+Wēodmōnaþ	Aŭgusto
+Hāligmōnaþ	Septembro
+Winterfylleþ	Oktobro
+Blōtmōnaþ	Novembro
+Gēolmōnaþ	Decembro
+Tīwesdæg	Mardo
+Wēdnesdæg	Merkredo
+Þunresdæg	Ĵaŭdo
+Frīgedæg	Vendredo
+Sæternesdæg	Sabato
+Sunnandæg	Dimanĉo
+Lēo	Leono
+Francland	Francio
+Esperanto	Esperanto
+Geāned Cynerīce	Unuiĝinta Reĝlando
+Catte	Hejma kato
+Cīnan Folclicu Cynewīse	Ĉina Popola Respubliko
+Frencisc sprǣc	Franca lingvo
+Fisc	Fiŝoj
+Brasil	Brazilo
+Russland	Rusio
+Eoferwicscīr	Jorkŝiro
+Sǣ	Maro
+Euxinus	Nigra Maro
+Toronto	Toronto
+Alabama	Alabamo
+São Paulo	San-Paŭlo (urbo)
+São Paulo (rīce)	San-Paŭlo
+Quebec	Kebekio
+Piza	Pico
+Þēodscland	Germanio
+Hwītrussland	Belorusio
+Þēodsc sprǣc	Germana lingvo
+Īsland	Islando
+God	Dio
+Estland	Estonio
+Sætern (tungol)	Saturno (planedo)
+Ceocōlāte	Ĉokolado
+2 (getæl)	2 (nombro)
+Þrīe	3 (nombro)
+Fēower	4 (nombro)
+Fīf	5 (nombro)
+George W. Bush	George W. Bush
+Lettland	Latvio
+Ucrægna	Ukrainio
+Cecland	Ĉeĥio
+Slofacia	Slovakio
+Slofenia	Slovenio
+Vilnius	Vilno
+Moldofa	Moldava Respubliko
+Rumǣnia	Rumanio
+Pulgaraland	Bulgario
+Rōm	Romo
+Macedonia Cynewīse	Respubliko Makedonio
+Albania	Albanio
+Grēneland	Gronlando
+Croatia	Kroatio
+Bosnia and Herzegofina	Bosnio kaj Hercegovino
+Godhopa	Nuko (Gronlando)
+Azerbaijan	Azerbajĝano
+Andorra	Andoro
+Cipros	Kipro
+Georgia (land)	Kartvelio
+Casahstan	Kazaĥio
+Melita	Malto
+Flandras	Flandrio
+Monaco	Monako
+Sweartbeorg	Montenegro
+Faticanburg	Vatikano
+San Marino	San-Marino
+Brysel	Bruselo
+Cūba	Kubo
+Barbados	Barbado
+Cǣgbord (spearctellend)	Komputila klavaro
+Indonesia	Indonezio
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Ludwig van Beethoven	Ludwig van Beethoven
+Sūðaffrica	Sud-Afriko
+Algeria	Alĝerio
+Usbecastan	Uzbekujo
+Warsaw	Varsovio
+Wīn (drinc)	Vino
+Wæter	Akvo
+Holt	Ligno
+Feorrsīen	Televido
+Īslendisc sprǣc	Islanda lingvo
+Cile	Ĉilio
+Iesus	Jesuo Kristo
+Elvis Presley	Elvis Presley
+Wōden (tungol)	Merkuro (planedo)
+Stǣr	Historio
+Apple Inc.	Apple
+Frig (tungol)	Venuso (planedo)
+Sprǣc	Lingvo
+Lufu	Amo
+Þunor (tungol)	Jupitero (planedo)
+Uranus	Urano (planedo)
+Neptune (planēta)	Neptuno (planedo)
+Tungolcræft	Astronomio
+Witancræft	Scienco
+Pluto	Plutono
+Montreal	Montrealo
+Lēohtenstān	Liĥtenŝtejno
+Plega	Sporto
+Grantanbrycg	Kembriĝo (Britio)
+Adolf Hitler	Adolf Hitler
+Fyrst Woruldgūþ	Unua mondmilito
+Ōðru Woruldgūþ	Dua mondmilito
+Wikibēc	Vikilibroj
+Augusto Pinochet	Augusto Pinochet
+Geanca Cupala	Janka Kupala
+Ubuntu	Ubuntu (linukso)
+Stettin	Szczecin
+Rīmcræft	Matematiko
+U2	U2
+Lǣden	Latina lingvo
+Bahrain	Barejno
+Armenia	Armenio
+Serbia	Serbio
+Mōna	Luno
+Constantinopolis	Istanbulo
+Australia	Aŭstralio
+Bob Marley	Bob Marley
+Argentina	Argentino
+Peru	Peruo
+Norþcorēa	Nord-Koreio
+Cambodia	Kamboĝo
+Kuiperes gyrtel	Kujper-zono
+Curān	Korano
+Alladōm	Islamo
+Lech Wałęsa	Lech Wałęsa
+Europisce Gesamnung	Eŭropa Unio
+Woruldwīd Webb	TTT
+Wīf	Virino
+Wætertyge	Akvedukto
+Don Quijote	Kiĥoto
+Megelan	Milano
+Burg	Urbo
+Napoleon I Francena Cāsere	Napoleono Bonaparte
+Uesuuius	Vezuvio
+Sunne	Suno
+Lēohtgēar	Lumjaro
+Sunnlicu Endebyrdnes	Sunsistemo
+Ostsǣ	Balta Maro
+Wisle	Vistulo
+Tōþ	Dento
+Wætertimber	Hidrogeno
+Wikimedia Commons	Vikimedia Komunejo
+Dæg	Tago
+Ēasttimor	Orienta Timoro
+Niht	Nokto
+Gēar	Jaro
+Hundgēar	Jarcento
+Rīn	Rejno
+Oslo	Oslo
+Katowice	Katowice
+1 Ceres	Cereso
+Dubai	Dubajo
+Folga	Volgo
+Æðmlyft	Oksigeno
+Dweligende tungol	Planedo
+Venetia	Venecio
+Naruto	Naruto (mangao)
+Moscow	Moskvo
+Italisc sprǣc	Itala lingvo
+Cead	Ĉado
+Nīwe Sǣland	Nov-Zelando
+Indea	Barato
+Īsen	Fero
+Willelm Scacaspere	William Shakespeare
+Lēad	Plumbo
+Mongolland	Mongolio
+Ficgīege	Fiĝioj
+Feneswela	Venezuelo
+Blēobord	Ŝako
+Maine	Majno
+Hors	Ĉevalo
+Amsterdam	Amsterdamo
+Wǣpen	Armilo
+Dēor	Bestoj
+Paraguay	Paragvajo
+Ecuador	Ekvadoro
+Colombia	Kolombio
+Strēawberge	Frago
+Buddendōm	Budhismo
+Bolifia	Bolivio
+Coper	Kupro
+Plante	Plantoj
+Nīwu Hāmtūnscīr	Nov-Hampŝiro
+Iamaica	Jamajko
+Massachusetts	Masaĉuseco
+Connecticut	Konektikuto
+Henn	Koko
+Hawaii	Havajo
+Cēsarēa	Ĵersejo
+Swīn	Porko
+Īshæf	Arkta Oceano
+Persealand	Irano
+Irac	Irako
+Alaska	Alasko
+Israhēl	Israelo
+Utrecht	Utrecht
+Gemen	Jemeno
+Clēofanwyrm	Viruso (biologio)
+Polisc sprǣc	Pola lingvo
+Hascemisc Cynerīce þæs Iordanes	Jordanio
+Florida	Florido
+Arizona	Arizono
+Cuwait	Kuvajto
+Libanus	Libano
+Oregon	Oregono
+Utah	Utaho
+Hriðer	Bovo
+Malægsia	Malajzio
+Burma	Birmo
+Oman	Omano
+Pacistan	Pakistano
+Qatar	Kataro
+Tennis	Teniso
+Saudisc Arabea	Sauda Arabio
+Tāprabane	Sri-Lanko
+Iosep Stalin	Josif Stalin
+Syria	Sirio
+Plato	Platono
+Tacgicastan	Taĝikio
+Aristoteles	Aristotelo
+Thailand	Tajlando
+Ūtƿeorp	Radiofonio
+Turcmenistan	Turkmenio
+Geānedu Arabisc Bregorīcu	Unuiĝintaj Arabaj Emirlandoj
+Fietnam	Vjetnamio
+Sūþcorēa	Sud-Koreio
+Afghanistan	Afganio
+J. R. R. Tolkien	John Ronald Reuel Tolkien
+Gold	Oro
+Bængladesc	Bangladeŝo
+Bleach (manga)	Bleach
+Socrates	Sokrato
+Angola	Angolo
+Tansania	Tanzanio
+Philippines	Filipinoj
+Middel Affricanisc Cynewīse	Centr-Afrika Respubliko
+Sūþende þǣre eaxe	Suda poluso
+Norþende þære eaxe	Norda poluso
+Isaac Newton	Isaac Newton
+Albert Einstein	Albert Einstein
+Geolu	Flava
+Tunisia	Tunizio
+Simbabwe	Zimbabvo
+Beicing	Pekino
+Sūþsudan	Sud-Sudano
+Botswana	Bocvano
+Burkina Faso	Burkino
+Folcrīcelicu Cynewīse þæs Congwes	Demokratia Respubliko Kongo
+Bægwaraland	Bavario
+Baden-Wyrttemberg	Baden-Virtembergo
+Æriþrea	Eritreo
+Nīwe Delhi	Nov-Delhio
+Iohannes Paulus II Pāpa	Johano Paŭlo la 2-a
+Gabon	Gabono
+Mohandas Karamchand Gandhi	Mohandas Karamchand Gandhi
+Gambia	Gambio
+Guinea	Gvineo
+Elpendbānrima	Ebur-Bordo
+Camerun	Kameruno
+Grēnenæs Īega	Kaboverdo
+Lesotho	Lesoto
+Liberia	Liberio
+Libia	Libio
+Madagascar	Madagaskaro
+Mauritania	Maŭritanio
+Morocco	Maroko
+Mosambice	Mozambiko
+Namibia	Namibio
+Nigeria	Niĝerio
+Charles Darwin	Charles Darwin
+Uganda	Ugando
+Rwanda	Ruando
+Sōmalia	Somalio
+Gaius Iulius Caesar	Julio Cezaro
+Sudan	Sudano
+Swasiland	Svazilando
+Hamburg	Hamburgo
+Heorte	Koro
+Brægen	Cerbo
+Prag	Prago
+Bleoh	Blua
+Seolfor	Arĝento
+Tin	Stano
+Reddit	Reddit
+Elsass	Alzaco
+Bihar	Biharo
+Michigan	Miĉigano
+Puerto Rico	Porto-Riko
+Niðerseaxland	Malsupra Saksio
+Hetwaraland	Hesio
+Illinois	Ilinojso
+Norþdakota	Norda Dakoto
+Brandenburg	Brandenburgio
+Langbeardnaland	Lombardujo
+Sūþdakota	Suda Dakoto
+Montǣna	Montano
+Wyoming	Vajomingo
+Ierusalem	Jerusalemo
+Idaho	Idaho
+Hwæsingatūn	Vaŝingtonio
+Nevada	Nevado
+Danais	Don (rivero)
+Indisc Gārsecg	Hinda Oceano
+Caribisc Sǣ	Kariba Maro
+Colorado	Koloradio
+Tuscania	Toskanio
+Alpis	Alpoj
+Gænt	Gento (urbo)
+Chicago	Ĉikago
+The Beatles	The Beatles
+Winter	Vintro
+Ēawielm	Printempo
+Efenniht	Ekvinokso
+Spēonisc sprǣc	Hispana lingvo
+Caligardamana	Kolkato
+West Bengal	Okcident-Bengalo
+Ātorcoppe	Araneuloj
+Virginia	Virginio (ŝtato)
+Westvirginia	Okcidenta Virginio
+Nīwe Eoforwīc	Nov-Jorkio
+Rhode Īeg	Rod-Insulo
+Ceorfdēor	Insekto
+Marianland	Marilando
+Delaware	Delavaro
+Fladimir Lenin	Lenin
+Ohio	Ohio
+Pennsylvānia	Pensilvanio
+Uetersen	Uetersen
+Augustus	Aŭgusto Cezaro
+Microsoft Windows	Microsoft Windows
+Nīwe Cēsarēa	Nov-Ĵerzejo
+Calpis	Ĝibraltaro
+Finnisc sprǣc	Finna lingvo
+Indiǣna	Indianio
+Selffērende wægn	Aŭtomobilo
+Roger Federer	Roger Federer
+Georgia (America)	Georgio
+Marcus Aurelius	Marko Aŭrelio
+Texas	Teksaso
+Puilla	Apulio
+Norþcarolīna	Norda Karolino
+Sūþcarolīna	Suda Karolino
+Sicilia	Sicilio
+Sardinia	Sardio
+Ligore	Luaro
+Sigen	Sejno
+Buenos Aires	Bonaero
+Mexicoburg	Meksik-urbo
+Pīnæppel	Ananaso
+Mississippi	Misisipio
+Mississippi ēa	Misisipo (rivero)
+Mizoram	Mizoramo
+Tennessee	Tenesio
+Abu Dhabi	Abu-Dabio
+Nīwe Mexico	Nov-Meksiko
+Athēnas	Ateno
+Minnesota	Minesoto
+Wisconsin	Viskonsino
+Iowa	Iovao
+Nebraska	Nebrasko
+Kansas	Kansaso
+Hafana	Havano
+Pīpwēod	Tabako
+Missouri	Misurio
+Louisiāna	Luiziano
+Nagaland	Nagalando
+Kentucky	Kentukio
+Arkansas	Arkansaso
+Ælf ēa	Elbo (rivero)
+Oklahoma	Oklahomo
+Donua	Danubo
+Hæfel	Havel
+Norþsǣ	Norda Maro
+Flēogeball	Flugpilkado
+Uigenna	Vieno
+Cēapmannahæfen	Kopenhago
+Stoccholm	Stokholmo
+Helsinki	Helsinko
+Difelin	Dublino
+Rēcwīc	Rejkjaviko
+Riga	Rigo
+Menuþias	Zanzibaro
+Dantsic	Gdańsk
+Frankfurt	Frankfurto ĉe Majno
+Death Note	Kajero de Morto
+Biblioþēce	Biblio
+Ho Chi Minh Burg	Ho-Ĉi-Min-urbo
+Sōþ Iesus Cirice	Vera Eklezio de Jesuo
+Nīwenglisc sprǣc	Angla lingvo
+Andorra la Vella	Andoro Malnova
+Đồng Hới	Dong Hoi
+Concepcion	Koncepciono
+Cænugeard	Kievo
+Ontario	Ontario
+Ottawa	Otavo
+Alberta	Alberto
+Nīwe Scotland	Nov-Skotio
+Końskowola	Końskowola
+Geocon Landscipe	Jukonio
+Florentia	Florenco
+Ǣt	Manĝaĵo
+Snaca	Serpento
+Halifax	Halifakso
+Quebecceaster	Kebeko
+3. Æfterran Gēolan	3-a de januaro
+4. Æfterran Gēolan	4-a de januaro
+Región del Biobío (Cile)	Biobío
+5. Æfterran Gēolan	5-a de januaro
+Arica	Arica (Ĉilia urbo)
+6. Æfterran Gēolan	6-a de januaro
+7. Æfterran Gēolan	7-a de januaro
+8. Æfterran Gēolan	8-a de januaro
+9. Æfterran Gēolan	9-a de januaro
+10. Æfterran Gēolan	10-a de januaro
+11. Æfterran Gēolan	11-a de januaro
+12. Æfterran Gēolan	12-a de januaro
+13. Æfterran Gēolan	13-a de januaro
+Beormingahām	Birmingham
+14. Æfterran Gēolan	14-a de januaro
+15. Æfterran Gēolan	15-a de januaro
+16. Æfterran Gēolan	16-a de januaro
+17. Æfterran Gēolan	17-a de januaro
+18. Æfterran Gēolan	18-a de januaro
+Rōmānisc Rīce	Romia Imperio
+Microsoft	Microsoft
+30. Æfterran Gēolan	30-a de januaro
+Kurów	Kurów
+11. Solmōnðes	11-a de februaro
+11. Gēolmōnþes	11-a de decembro
+12. Gēolmōnðes	12-a de decembro
+17. Gēolmōnðes	17-a de decembro
+Þrittiggēara Orlege	Tridekjara milito
+Benedictus XVI Pāpa	Benedikto la 16-a
+6. Ēastermōnðes	6-a de aprilo
+4. Ēastermōnþes	4-a de aprilo
+Helmut Kohl	Helmut Kohl
+17. Ēastermōnðes	17-a de aprilo
+12. Þrimilcemōnþes	12-a de majo
+13. Þrimilcemōnþes	13-a de majo
+20. Þrimilcemōnðes	20-a de majo
+31 Þrimilcemōnaþ	31-a de majo
+6. Mǣdmōnðes	6-a de julio
+1. Mǣdmōnðes	1-a de julio
+18. Mǣdmōnðes	18-a de julio
+Gyldfōtþōðer	Futbalo
+26. Gēolmōnðes	26-a de decembro
+Eallbærnet	Holokaŭsto
+IPad	IPad
+Madrid	Madrido
+Elton John	Elton John
+Undersǣbāt	Submarŝipo
+26. Wēodmōnðes	26-a de aŭgusto
+24. Wēodmōnðes	24-a de aŭgusto
+2. Hāligmōnþes	2-a de septembro
+Kassel	Kaselo
+Canadisc underrīcu	Provincoj kaj teritorioj de Kanado
+25. Hāligmōnðes	25-a de septembro
+Santiago (Cile)	Santiago de Ĉilio
+1. Winterfylleðes	1-a de oktobro
+14. Winterfylleðes	14-a de oktobro
+8. Winterfylleðes	8-a de oktobro
+7. Winterfylleðes	7-a de oktobro
+Oldenburg (Oldenburg)	Oldenburgo
+26. Winterfylleðes	26-a de oktobro
+4. Blōtmōnðes	4-a de novembro
+1. Blōtmōnðes	1-a de novembro
+Wolfsburg	Wolfsburg
+Carl Micela Francena Cyning	Karolo la Granda
+Canberra	Kanbero
+Sydney	Sidnejo
+Grēne	Verdo
+Rēad	Ruĝa
+Perþ (Australia)	Perto
+Fȳr	Fajro
+Westerne Australia	Okcidenta Aŭstralio
+Nīwe Sūþwealas	Novsudkimrio
+Norþerne Landscipe	Norda Teritorio
+Australisc Hēafodbyrig Landscipe	Aŭstralia Ĉefurba Teritorio
+Fīfeldor	Eider
+Nīl	Nilo
+Heortfordscīr	Hertfordshire
+Comēta	Kometo
+Antofagasta	Antofagasta (urbo)
+Ancyra	Ankaro
+Flocc:Bysen	Kategorio:Vikipedio:Ŝablonoj
+Frencisc Guiana	Franca Gviano
+Chillán (Cile)	Chillán
+Amāzanēa	Amazono (rivero)
+Tybingen	Tübingen
+Flocc:Bysen Land	Kategorio:Ŝablono:laŭ lando
+Flocc:Bysen tīd	Kategorio:Ŝablono:laŭ tempo
+Willelmeshæfen	Wilhelmshaven
+Copiapó (Cile)	Copiapó (urbo)
+Manama	Manamo
+Delmenhorst	Delmenhorst
+Brandenburg (burg)	Brandenburg an der Havel
+Wikipǣdia:Sandbox	Vikipedio:Provejo
+Wikipǣdia:Inlǣdung	Vikipedio:Bonvenon al Vikipedio
+Cantabria	Kantabrio
+Hūs	Domo
+Rīmagiefung	Algebro
+Mennisc bodiglār	Homa anatomio
+Osasco	Osasco (San-Paŭlo)
+Fujairah	Fuĵajro
+Glasgow	Glasgovo
+Donghoi Lyfthæfene	Flughaveno Dong Hoi
+Rodor	Ekstertero
+Sweartweald	Nigra Arbaro
+Curitiba	Kuritibo
+Weald	Arbaro
+Flocc:Cliferfētedēor	Kategorio:Parhufuloj
+Talca	Talkao
+Flothere	Mararmeo
+Cwidbōc	Sentencoj de Salomono
+Rancagua	Rancagua (Ĉilio)
+Confucius	Konfuceo
+Corbin Bleu	Corbin Bleu
+Flocc:Rīmcræft	Kategorio:Matematiko
+Faroisca Īega	Ferooj
+Wendelsǣ	Mediteraneo
+Flocc:Nīwes Sǣlandes īga	Kategorio:Insuloj en Nov-Zelando
+Cōcnearuness	Kuka Markolo
+Crīstendōm	Kristanismo
+Windows 8	Vindozo 8
+Gandis	Gango
+Worulddǣl	Kontinento
+Fugol	Birdoj
+Hēafodstōl	Ĉefurbo
+Monzón	Monzono
+Portuglisc sprǣc	Portugala lingvo
+Mōnaþ	Monato
+Almazán	Almazán
+Huang Siānfan	Huang Senfan
+Kescwisc sprǣccynn	Keĉua lingvaro
+Bill Gates	Bill Gates
+Iapanisc sprǣc	Japana lingvo
+Wīsdōmbōc	Enciklopedio
+Hēafodtramet	Vikipedio:Ĉefpaĝo
+Golf	Golfo (sporto)
+Hrōcburhfōtþōðer	Rugbeo
+Olympisc Gamen	Olimpiaj ludoj
+Eurasia	Eŭrazio
+Andes	Andoj
+Durban	Durbano
+Caspia	Kaspio
+Uictoriamere	Viktoria lago
+Estmere	Vistula Laguno
+Babilōn	Babilono
+Ēalendisca Īega	Alando
+Cægman Īegland	Kajmana Insularo
+Novak Đoković	Novak Đoković
+Fortunatus iegland	Kanarioj
+Hrōcburhgesamnunge plega	Rugbeo 15
+Ūðwitegung	Filozofio
+Flocc:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+Tē	Teo
+Hebe Camargo	Hebe Camargo
+Gemǣnre ǣhte rǣd	Komunismo
+Wealdlīste rǣd	Anarkiismo
+Ǣhtwealdes endebyrdness	Kapitalismo
+Frēodōmes þōht	Liberalismo
+Gilmrǣd	Faŝismo
+Cofentreo	Coventry
+Lodi	Lodi
+Ōðre Penisc Gūþ	Dua Punika milito
+Cartaina	Kartago
+Bryttisc Museum	Brita Muzeo
+Sund	Naĝado
+1451	1451
+Ellaspontus	Dardaneloj
+Strǣtburg	Strasburgo
+Gytārre	Gitaro
+Croatisc sprǣc	Kroata lingvo
+Cesena	Cesena
+Hāmburgere	Hamburgero
+Fédération Internationale de Volleyball	Federacio Internacia de Volejbalo
+20e gēarhundred	20-a jarcento
+Stefan Raab	Stefan Raab
+Catalan sprǣc	Kataluna lingvo
+11e gēarhundred	11-a jarcento
+Gelēaflēasnes	Ateismo
+Cynn scī huang	Qin Shihuangdi
+Elisabeþ I Engla Cwēn	Elizabeto la 1-a (Anglio)
+Cynewīse	Respubliko
+Þēodlices gemǣnscipes rǣd	Naziismo
+Nazi Þēodscland	Nazia Germanio
+Christopher Columbus	Kristoforo Kolumbo
+Iacobus Cōc	James Cook
+Ēare	Orelo
+Nasu	Nazo (organo)
+Ēage	Okulo
+Scēap	Ŝafo
+Sǣhund	Ŝarko
+Sycedēor	Mamuloj
+Ǣmette	Formiko
+Bēo	Abelo
+Niðerlendisc sprǣc	Nederlanda lingvo
+Ǣȝƿyrt	Melongeno
+Draca	Drako (mitologio)
+Mōdor	Patrino
+Snāw	Neĝo
+Wæterþōðer	Akvopilkado
+1865	1865
+Napoleon III Francena Casere	Napoleono la 3-a
+Russisc sprǣc	Rusa lingvo
+Hloþwig XIV Francena Cyning	Ludoviko la 14-a (Francio)
+Hām	Hejmo (loĝejo)
+Vladimir Putin	Vladimir Putin
+Loðwic-Philippus Francena Cyning	Ludoviko-Filipo (Francio)
+Þēodacynewīse	Komunumo de Nacioj
+Hlāf	Pano
+Taurica	Krimeo
+Līfclēofa	Ĉelo (biologio)
+Blōd	Sango
+Īwungplega	Komputila ludo
+Rumǣnisc sprǣc	Rumana lingvo
+Regn	Pluvo
+Medumweder	Klimato
+Woruldlicu wearmung	Tutmonda varmiĝo
+Eorþbeofung	Tertremo
+Museum on Dēoraby	Muzeo kaj artgalerio de Derby
+Winston Churchill	Winston Churchill
+Nelson Mandela	Nelson Mandela
+10. gēarhundred	10-a jarcento
+Fȳrbeorg	Vulkano
+Wolcen	Nubo
+Īwungplegtōl	Videoludilo
+Wind	Vento
+Lyfthelm	Atmosfero (astro)
+Sprǣccræft	Lingvoscienco
+Flocc:Pulgaraland	Kategorio:Bulgario
+Flocc:Francland	Kategorio:Francio
+Flocc:Glīƿdrēam	Kategorio:Muziko
+Flocc:Bōccræft	Kategorio:Literaturo
+Fox	Ruĝa vulpo
+Valladolid	Valadolido
+Alexander Mæcedonia Cyning	Aleksandro la Granda
+Hēaphandþōðer	Manpilkado
+Hugo Chávez	Hugo Chávez
+Þēowdōm	Sklaveco
+Caffig	Kafo
+Meolc	Lakto
+Beorg	Monto
+Oferswefn	Hipnoto
+Andrew Johnson	Andrew Johnson
+Miami	Miamo
+Americanisce Ingefeoht	Usona Enlanda Milito
+Rio de Janeiro	Rio-de-Ĵanejro
+Bryttisce Rīce	Brita imperio
+Albanisc sprǣc	Albana lingvo
+Ucrægnisc sprǣc	Ukraina lingvo
+Crabba (steorra)	Kankro (konstelacio)
+Swēonisc sprǣc	Sveda lingvo
+Denisc sprǣc	Dana lingvo
+Norðisc sprǣc	Norvega lingvo
+Noam Chomsky	Noam Chomsky
+Bæmisc sprǣc	Ĉeĥa lingvo
+Karl Marx	Karl Marx
+Lettisc sprǣc	Latva lingvo
+Liþþuanisc sprǣc	Litova lingvo
+Hinduismus	Hinduismo
+Wīflicu brēost	Mamo
+Mot	Atomo
+Crēacisc sprǣc	Greka lingvo
+Weorcendebyrdness	Operaciumo
+Īrisc sprǣc	Irlanda lingvo
+Ambihtlic Cīnisc sprǣc/ᚱᚢᚾ	Nordĉina dialektaro
+C. S. Lewis	C. S. Lewis
+Baku	Bakuo
+Hebrēisc sprǣc	Hebrea lingvo
+Azeri sprǣc	Azerbajĝana lingvo
+Wilisc sprǣc	Kimra lingvo
+Scyttisce sprǣc	Skotgaela lingvo
+John Locke	John Locke
+Friedrich Nietzsche	Friedrich Wilhelm Nietzsche
+Lifere	Hepato
+Drēag (Fūdū)	Zombio
+Gārsecg	Oceano
+Gautama Budda	Sidarto Gotamo
+Premier League	F.A. Supra Ligo
+Mahomet	Mohamedo
+Ācweorna	Sciuredoj
+Rēmisc Cirice	Katolika Eklezio
+Bengalisc sprǣc	Bengala lingvo
+Tunge	Lango (anatomio)
+Folcland Īegland	Insuloj Falklandoj
+Manīeg	Manksinsulo
+Wiht (īeg)	Isle of Wight
+Heortford	Hertford
+Elisabeþ II	Elizabeto la 2-a (Britio)
+ß	ß
+John F. Kennedy	John F. Kennedy
+Ronald Reagan	Ronald Reagan
+Æ	Æ
+Ð	Ð
+Fernando Alonso	Fernando Alonso
+Flocc:Feneswela	Kategorio:Venezuelo
+Þunreshæfen	Tórshavn
+11. Hāligmōnþes 2001. torngemōt	Atencoj de la 11-a de septembro 2001
+Culfre	Kolombedoj
+Trēow	Arbo
+Cīese	Fromaĝo
+Wīnberge	Vinbero
+Hunig	Mielo
+Eorþperu	Terpomo
+Searuþræl	Roboto
+Searucræft	Teknologio
+Feorrspreca	Telefono
+Lugo	Lugo (Hispanio)
+Windows 7	Vindozo 7
+Windows Vista	Vindozo Vista
+World Trade Center	World Trade Center
+One World Trade Center	One World Trade Center
+Fidel Castro	Fidel Castro
+Rockefeller Center	Rockefeller Center
+Flocc:Brasil	Kategorio:Brazilo
+Flocc:Rumǣnia	Kategorio:Rumanio
+Hēafodgesceaft	Kemia elemento
+Gemot	Molekulo
+Cræftlicu endebyrdung	Biologia klasado
+Lyft	Gaso
+Lyftcræft	Flugmaŝino
+Clāðas	Vesto
+Swēg	Sono
+Paper	Papero
+Rīm	Nombro
+Bere	Ordinara hordeo
+Nirvana	Nirvana
+Weder	Vetero
+Land þǣre worulde	Listo de sendependaj ŝtatoj
+Bera	Urso
+John Adams	John Adams
+Thomas Jefferson	Thomas Jefferson
+James Madison	James Madison
+James Monroe	James Monroe
+John Quincy Adams	John Quincy Adams
+Andrew Jackson	Andrew Jackson
+Martin Van Buren	Martin Van Buren
+William Henry Harrison	William H. Harrison
+John Tyler	John Tyler
+James K. Polk	James K. Polk
+Zachary Taylor	Zachary Taylor
+Ǣtweg	Digestado
+Kylie Minogue	Kylie Minogue
+Āc	Kverko
+Pīntrēow	Pino
+Āte	Kutima aveno
+Hwǣte	Tritiko
+Corn	Greno
+Unmeaht	Malkapablo
+Gerīmbōc	Kalendaro
+Ādl	Malsano
+Gregorisc gerīmbōc	Gregoria kalendaro
+Soria	Sorio
+Manisc sprǣc	Manksa lingvo
+Bysen:Stedefindend scite Breten	Ŝablono:Situo sur mapo Britio
+Millard Fillmore	Millard Fillmore
+Franklin Pierce	Franklin Pierce
+James Buchanan	James Buchanan
+Pireni	Pireneoj
+Hālig Rōmānisc Rīce	Sankta Romia Imperio
+Mongolrīce	Mongola Imperio
+Oþomanisce Rīce	Otomana Imperio
+Cirice Ednīwung	Reformacio
+Wīcingas	Vikingoj
+Sweord	Glavo
+Fȳrwǣpen	Pafarmilo
+Iberia	Iberio
+Fȳrspringend	Eksplodaĵo
+Campwægn	Tanko
+Antwerpen	Antverpeno (urbo)
+François Asselineau	François Asselineau
+Brycg (burh)	Bruĝo
+Fenberge	Oksikoko
+Cīnisc gōsberige	Kivifrukto
+Retoromanisc sprǣc	Romanĉa lingvo
+Īsrēam	Glaciaĵo
+Ceace	Kuko
+Dinegisc sprǣc	Navaha lingvo
+Meolcbrīw	Jogurto
+Montserrat	Moncerato
+Bysen:Location map Greenland	Ŝablono:Situo sur mapo Gronlando
+Wikicynn	Vikispecioj
+Arabisc sprǣc	Araba lingvo
+Ian Magen	Janmajeno
+Corsica	Korsiko
+Affricanisc sprǣc	Afrikansa lingvo
+Santiago de Compostela	Santiago de Compostela
+Fiscoþ	Fiŝkaptado
+Iquique	Iquique
+La Serena (Cile)	La Serena (Ĉilio)
+Niðerscyttisc sprǣc	Skota lingvo
+Darwin (æhtendebyrd)	Darwin (operaciumo)
+Emmen	Emmen (Nederlando)
+Sofiet Gesamnung	Sovetunio
+Se Hlāford þāra Hringa	La Mastro de l' Ringoj
+Hrūse	Terkrusto
+Sīensearu	Fotilo
+Gaðes	Kadizo
+Llión	Leono (Hispanio)
+Fōt	Piedo
+Queen	Queen
+Freddie Mercury	Freddie Mercury
+Normandig	Normandio
+Metallica	Metallica
+Wikipǣdia:Fulgōd gewritu	Vikipedio:Elstaraj artikoloj
+Bysen:Link FA	Ŝablono:LigoElstara
+Wikipǣdia:Se Þorpes Wella	Vikipedio:Diskutejo
+Vermont	Vermonto
+Jacksonville, Florida	Jacksonville (Florido)
+Los Ángeles (Cile)	Los Ángeles (Ĉilio)
+Eþna	Etna
+Æg	Ovo
+Handsprecend	Poŝtelefono
+Strȳta	Struto
+Corēa	Koreio
+Wesend	Bizono
+Mameceaster	Manchester
+Turcas and Caicos Īegland	Turkoj kaj Kajkoj
+Blēocræft	Brodado
+Wulf	Lupo
+Major League Soccer	Grandliga Futbalo
+Þōðer	Pilko
+Club de Gimnasia y Esgrima La Plata	Club Gimnasia y Esgrima La Plata
+Nīwu Gecȳþnes	Nova testamento
+Ælfric Ercebiscop of Cantawarabyrig	Aelfric de Abingdon
+San Pedro de la Paz	San Pedro de la Paz
+Scræf (fugol)	Kormoranoj
+Dūfedoppa	Pelikano
+Nha Trang	Nha Trang
+Podolsk	Podolsk
+Pāpa	Papo
+Rafael Correa	Rafael Correa
+5	5
+Louvre	Luvro
+Sæfern	Severn
+Temes	Tamizo
+Tirana	Tirano
+Motorhead	Motörhead
+6	6
+Josh Duhamel	Josh Duhamel
+Crīstesmæsse	Kristnasko
+Bises	Superjaro
+Steve Jobs	Steve Jobs
+Indo-Europisc sprǣchīred	Hindeŭropa lingvaro
+Breinigerberg	Breinigerberg
+Muammar al-Gaddafi	Muamar Kadafi
+Tiger	Tigro
+Moru	Radiklegomo
+Ēaster	Pasko
+Germanisca sprǣca	Ĝermana lingvaro
+GNU Frēo Gewrita Amearcunge Lēaf	Permesilo de GNU por Liberaj Dokumentoj
+John Kerry	John Kerry
+Taiwan (īeg)	Tajvano
+Trōia	Trojo
+Nīwe Eoforwīc (scīrung)	New York
+Ceafer	Koleopteroj
+Scōh	Ŝuo
+Baðanceaster	Bath
+Īrland	Irlando (insulo)
+Bradanford	Bradford
+Ceasterscīr	Cheshire
+Lonceasterscīr	Lankaŝiro
+Norþhymbraland	Northumberland
+Dūnholmscīr	County Durham
+Lincolnscīr	Lincolnshire
+Snotingahāmscīr	Nottinghamshire
+Dēorabyscīr	Derbyshire
+Scrobbesbyrigscīr	Shropshire
+Stæffordscīr	Staffordshire
+Lægreceastrescīr	Leicestershire
+Roteland	Rutland
+Norþfolc	Norfolk (Anglio)
+Sūþfolc	Suffolk
+Grantabrycgscīr	Cambridgeshire
+Norþhāmtūnescīr	Northamptonshire
+Herefordscīr	Herefordshire
+Wigreceastrescīr	Worcestershire
+Wæringscīr	Warwickshire
+Beadanfordscīr	Bedfordshire
+Cornweal	Kornvalo
+Bricgstōw	Bristolo
+Defenascīr	Devon
+Sumorsǣte	Somerset
+Dorsǣte	Dorset
+Gleawcesterscīr	Gloucestershire
+Oxnafordscīr	Oxfordshire
+Wiltūnscīr	Wiltshire
+Hāmtūnescīr	Hampshire
+Bearrucscīr	Berkshire
+Buccingahāmscīr	Buckinghamshire
+Ēastseaxe	Essex
+Sūþrīge	Surrey
+Cent	Kent
+Lundenceaster	City (Londono)
+Huntandūnscīr	Huntingdonŝiro
+Sūþseaxe	Graflando Sussex
+Seofon	7 (nombro)
+Taylor Lautner	Taylor Lautner
+Cumbraland	Cumberland
+Jeremy Renner	Jeremy Renner
+Īs	Glacio
+Fæder ūre	Patro nia
+Musée d'Orsay	Musée d'Orsay
+Hwerhwette	Kukumo
+Edinburg	Edinburgo
+Hwīt	Blanko
+Sweart	Nigro
+Chris Pine	Chris Pine
+Lordi	Lordi
+6 (getæl)	6 (nombro)
+Ambihtlicu sprǣc	Oficiala lingvo
+Heortæppel	Tomato
+Phong Nha-Ke Bang	Nacia Parko Phong Nha-Ke Bang
+Entrena	Entrena
+Selena	Selena
+NASA	NASA
+Merida (Feneswela)	Merido (Venezuelo)
+Atlanta	Atlanta (Georgio)
+Benito Mussolini	Benito Mussolini
+Bermuda	Bermudo
+Hēafod	Kapo
+Weolingtūn (Nīwe Sǣland)	Velingtono
+Bryten	Britio (insulo)
+Alfred Nobel	Alfred Nobel
+Camb (tō hǣre)	Kombilo
+Mennisc līc	Homa korpo
+Lila Downs	Lila Downs
+Andrew Garfield	Andrew Garfield
+Dottatiger	Gepardo
+Albany on Nīwum Eoforwīce	Albany (Nov-Jorkio)
+Ūle	Strigoformaj birdoj
+Anguilla	Angvilo
+Guernsey	Guernsey
+Scearpbeorgas	Svalbardo
+Hrycgdēor	Vertebruloj
+Nowy Dwór Królewski	Nowy Dwór Królewski
+Faroisc sprǣc	Feroa lingvo
+Catt	Felisedoj
+Lytel Spēonland	Hispaniolo
+Harrisburg	Harrisburg (Pensilvanio)
+Hamor	Martelo
+Picilemo	Piĉilemo
+Bryttiscan Fæmne Īegland	Britaj Virgulininsuloj
+Flēoge	Dipteroj
+Norða	Arkto
+Hund	Kanisedoj
+Fresisc sprǣc	Frisa lingvaro
+Antoni Gaudí	Antoni Gaudí
+Cliferfētedēor	Parhufuloj
+Steorrfisc	Marstelo
+Eurasisc bleohcrāwe	Eŭropazia garolo
+Hrōc	Frugilego
+Ēotaland	Jutlando
+Niþeru Þēodsc sprǣc	Platgermana lingvo
+Cuscan Rīce	Kuŝana imperio
+Tromsīeg	Tromsø
+Eormengyld Niccolò Cusano	Università degli Studi Niccolò Cusano
+Montpelier on Uermonte	Montpelier (Vermonto)
+Geac	Gruntbovo
+Palistiniscre Frēogunge Þēodnes	Organizaĵo por Liberigo de Palestino
+Westgermanisca sprǣca	Okcidentĝermana lingvaro
+Taylor Swift	Taylor Swift
+Cōcīega	Kukinsuloj
+Brocc	Melo
+Sealterisc sprǣc	Saterfrisa lingvo
+Middelasia	Centra Azio
+Sealterland	Saterland
+Ofersǣwisc rind	Cinamo
+Jackson (Mississippi)	Jackson (Misisipio)
+Concord (Nīwu Hāmtūnscīr)	Concord (Nov-Hampŝiro)
+Annapolis	Annapolis (Marilando)
+Hreaðemūs	Kiropteroj
+Ēastrīce-Ungerland	Aŭstrio-Hungario
+Tarnobrzeg	Tarnobrzeg
+Wesle	Musteloj
+Scīr	County
+Sandwīc (ǣt)	Sandviĉo
+Spearwa	Paseredoj
+Francisco Franco	Francisco Franco
+Tarja Halonen	Tarja Halonen
+Willis Tower	Willis-Turo
+Cantwaraburg	Canterbury
+Cīna	Ĉinio
+Tracter	Funelo
+Seolh	Fokuloj
+Ecser	Ecser
+Silesisc gereord	Silezia lingvo
+Zhengzhou	Ĝengĝoŭo
+Foresittend	Prezidanto
+Frencisc Polynesia	Franca Polinezio
+Roðem	Rueno
+Crīstesmæsse Īeg	Kristnaskinsulo
+Bleohfugol	Papagoformaj
+Cambihtere	Kakatuedoj
+Arabea	Arabio
+Fȳstlāc	Boksado
+Seax	Tranĉilo
+Top Gear	Top Gear
+Tasmansǣ	Tasmana Maro
+Ceroke sprǣc	Ĉeroka lingvo
+Campwīg be Tannebeorge	Batalo de Grunwald
+Īsbera	Blanka urso
+Hand	Mano
+Tu Fu	Du Fu
+Nīwe Scotta Ēaland	Nov-Kaledonio
+Cecoslofacia	Ĉeĥoslovakio
+Lēaf	Folio
+Nepal Bhasa	Nevara lingvo
+Valparaíso (on Cilan)	Valparaiso
+Fugolīeg, Sūþgeorgia	Birdinsulo (Sud-Georgio)
+Nathalia Dill	Nathalia Dill
+Oaxaca	Oaxaca
+Tahitisc sprǣc	Tahitia lingvo
+Flemisc sprǣc	Flandra lingvo
+Yasser Arafat	Jaser Arafat
+Oxnaford	Oksfordo
+Międzyrzec Podlaski	Międzyrzec Podlaski
+Tasmania	Tasmanio
+Creto	Kreto (insulo)
+Saint-Dié-des-Vosges	Saint-Dié-des-Vosges
+Eormengyld Oxnafordes	Universitato de Oksfordo
+Þyrla	Helikoptero
+Sancte Elene Īeg	Sankta Heleno
+Nicor	Amfibia hipopotamo
+Egisca Sǣ	Egea Maro
+Ichiro Mizuki	Mizuki Ichirō
+Anastacia	Anastacia
+Eufrāte	Eŭfrato
+James A. Garfield	James A. Garfield
+Cirice	Eklezio
+Persisc Sǣ	Persa Golfo
+Sand	Sablo
+Cyningestūn (Iamaica)	Kingstono
+Lafor	Leopardo
+Age of Empires	Ĝermolisto de populara kulturo
+Tequixquiac	Tequixquiac
+Ulysses S. Grant	Ulysses S. Grant
+Oklahoma City	Oklahomaurbo (Oklahomo)
+Meotedisca Mere	Azova Maro
+William McKinley	William McKinley
+Cawel	Blanka brasiko
+Foresittend þāra Geāndena Rīca	Listo de prezidantoj de Usono
+Sūþgeorgia and þā Sūþsandwic Īegland	Sud-Georgio kaj Sud-Sandviĉinsuloj
+Webbsīde	TTT-ejo
+Ealdfresisc sprǣc	Malnovfrisa lingvo
+Catalão	Catalão (Gojaso)
+Grover Cleveland	Grover Cleveland
+Ealdhēahþēodisc	Malnovaltgermana lingvo
+Ealdseaxisc sprǣc	Malnovsaksa lingvo
+Satan	Satano
+Wordstǣrcræft	Etimologio
+Beorglēo	Pumo
+Arabas	Araboj
+Proponditis	Marmora Maro
+Ēagduru	Fenestro
+Chester A. Arthur	Chester A. Arthur
+Riffeng	Uralo
+Rīcu þāra Geāndena Rīca American	Usona ŝtato
+Pitcearnīega	Pitkarna insularo
+Benjamin Harrison	Benjamin Harrison
+Rutherford B. Hayes	Rutherford B. Hayes
+Wīnlendisc panðer	Jaguaro
+Sūþaustralia	Suda Aŭstralio
+Gotisc sprǣc	Gota lingvo
+Boise	Boise (Idaho)
+Bāt	Boato
+Awaisc sprǣc	Gvarania lingvo
+Gærsbēam	Bambuo
+Interlingua	Interlingvao
+Bosporos	Bosporo
+Smyrna	Izmiro
+Lemburg	Lvivo
+Cwēneland	Kvinslando
+Siligo	Siligo
+Puerto Montt	Puerto Montt
+Iane Austen	Jane Austen
+Tægcwondo	Tekvondo
+Middel Englisc sprǣc	Meza angla lingvo
+Māorisc sprǣc	Maoria lingvo
+Hannibal	Hanibal Barka
+Hōrdōm	Prostituo
+Twinemniendlic nama	Dunoma nomsistemo
+Victoria (Australia)	Viktorio (Aŭstralio)
+Geugoslafia	Jugoslavio
+Ætla	Atilo la Huno
+Scrælingas	Indianoj
+Arancón	Arancón
+Willelm Heretoga of Grantanbrycge	William Mountbatten-Windsor
+Toshiro Mifune	Mifune Toshiro
+Tallahassee	Tallahassee (Florido)
+Sundorrīcehād	Sendependeco
+Bismarck (Norþdakota)	Bismarck (Norda Dakoto)
+Aucland	Auckland
+Iohannes Paulus I Pāpa	Johano Paŭlo la 1-a
+John Michael Talbot	John Michael Talbot
+Acrotiri and Ðecelia	Akrotiri kaj Dekelia
+Arara	Arara
+Cnēo	Genuo
+Willelm I Engla Cyning	Vilhelmo la 1-a (Anglio)
+Campora Sancte Iohannes	Campora San Giovanni
+Sīde	Silko
+Sint-Truiden	Sint-Truiden
+Lēoðlic scātung	Arta sketado
+Stefn (līfcræft)	Filumo
+Heanrig VIII Engla Cyning	Henriko la 8-a (Anglio)
+Columbia (Sūþcarolīna)	Columbia (Suda Karolino)
+Xena: Warrior Princess	Xena
+1880. gēar oþ 1889. gēar	1880-aj jaroj
+Helena (Montana)	Helena (Montano)
+Wælhwelp	Ĉashundoj
+Eormengyld Biobiwes	Universidad del Bío-Bío
+Sufa	Suvo
+Eorþmistel	Bazilio
+Lēohtfȳsend	Lasero
+Prēossland	Prusio
+Cheyenne (Wyoming)	Cheyenne
+Norðerne healftrendel	Norda duonglobo
+Loidis	Leeds
+Fūcgī Beorg	Fuĵi-Monto
+Mūs	Muso (besto)
+Geolurēad	Oranĝkolora
+Æcs	Hakilo
+Seofonbyrig	Transilvanio
+Tōl	Laborilo
+Alī	Ali ibn Abi Talib
+Hrān	Boaco
+Stānhencg	Stonehenge
+Ágreda	Ágreda
+Amazonas	Amazonio (ŝtato)
+Ajaccio	Ajaccio
+Rodorcræft	Kosmoveturilo
+Lisa Gerrard	Lisa Gerrard
+Thirty Seconds to Mars	30 Seconds to Mars
+Paulínia	Paulinjo
+Pierre	Pierre (Suda Dakoto)
+Crabba	Krabo
+God Nerie þā Cwēne	God Save the Queen
+Meteūtsiht	Diareo
+Anna Maria Jopek	Anna Maria Jopek
+Horshwæl	Rosmaro
+Fōrhēafod	Frunto
+Haile Selassie	Haile Selassie
+Caðum	Caen
+Sonygegyld	Sony
+Mynet	Monero
+Sūðerne Healftrendel	Suda duonglobo
+Cnihtas þæm Temple	Templanoj
+Americanisc fōtball	Usona piedpilkado
+Tōþsticca	Dentopikilo
+Folcmorðor	Genocido
+Hociȝ	Glacihokeo
+Swīnmūþa	Świnoujście
+Īrisc Sǣ	Irlanda Maro
+Tracia	Trakio
+Mongolas	Mongoloj
+Mǣs	Mozo
+Talcahuano	Talcahuano
+Tahitīeg	Tahitio
+Ontynung	Apokalipso de Johano
+Abel Tasman	Abel Tasman
+Gotan	Gotoj
+Nettfrumfindend	URL
+Ænglisc sprǣc	Anglosaksa lingvo
+Englisc folc	Angloj
+Eoforwic	York
+Iron Maiden	Iron Maiden
+Asterix	Asteriks
+Grǣg	Griza
+Wearm geard	Tropikoj
+Hwælhuntoþ	Balenkaptado
+Sǣcū	Manato
+Gregorius Pāpa I	Gregorio la 1-a
+Cȳta (lyftcræft)	Kajto
+Þunor	Toro (mitologio)
+Castel Goffredo	Castel Goffredo
+Roðos	Rodoso
+Sanct	Sanktulo
+Wikipǣdia:FAQ	Helpo:Oftaj demandoj
+Galatasaray	Galatasaray
+Cycene	Kuirejo
+Hlæstwægn	Kamiono
+Carl Wēala Þēoden	Karlo, princo de Kimrujo
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Crāwe	Korvo
+Sūþtun on Defnum	Plymouth
+Bryttisca Indisca Garsecg Landscipe	Brita Hindoceana Teritorio
+Dēoraby	Derby
+Francan	Frankoj
+Fealcen	Falko
+Nightwish	Nightwish
+Mattheus se Godspellere	Sankta Mateo
+Mac OS	Mac OS
+Leyden	Leiden
+Fiðerlēasere	Kivio
+Montehermoso	Montehermoso
+Louis the Pious	Ludoviko la 1-a (Sankta Romia Imperio)
+Cwēnsǣ	Blanka Maro
+Jim Morrison	Jim Morrison
+GNOME	GNOME
+Hāt	Varmo
+Spere	Lanco
+Charleston (Westvirginia)	Charleston (Okcidenta Virginio)
+Mynster	Monaĥejo
+Oxnaford Englisc Wordbōc	Oxford English Dictionary
+Īsearn	Alcededoj
+Carl XVI Gustaf Swēona Cyning	Karolo la 16-a Gustavo (Svedio)
+Świętochłowice	Ŝvintohuvitso
+Monte Carlo	Montekarlo
+Elba	Elbo (insulo)
+The Doors	The Doors
+Fylfōt	Svastiko
+Hara	Leporo
+Rīcisc edisc	Nacia parko
+Boga	Arko (armilo)
+Byrdling	Teraj testudoj
+Bryttisc landbūnes	Britaj transmaraj teritorioj
+Brūn	Bruna
+Hjaltland	Ŝetlandaj Insuloj
+Byrddæg	Naskiĝtago
+Æx-in-Profentse	Aix-en-Provence
+Gaza	Gaza-urbo
+Īsbeorg	Glacimonto
+Ephese	Efeso
+Englisc wera rīcisc fōtballtēam	Angla nacia teamo de futbalo
+Pratibha Patil	Pratibha Patil
+Minte	Mento
+Spilcarte	Ludkarto
+Bysen:Commonscat	Ŝablono:Commonscat
+Hālig Land	Sankta Lando
+Folcland Gewinn	Falklanda milito
+Bēowulf	Beowulf
+Marīahæfen	Mariehamn
+Hrǣw	Kadavro
+IOS	IOS
+Lee Harvey Oswald	Lee Harvey Oswald
+Frumtæl	Primo
+Þ	Þ
+Orlando	Orlando
+Saint Petersburg	Sankt-Peterburgo (Florido)
+Hereðaland	Hordaland
+Sogn and þa Flēotas	Sogn og Fjordane
+Meore and Romsdæl	Møre og Romsdal
+Troms	Troms
+Dǣlere	Divizoro
+Australisc fōtþōðer	Aŭstralia piedpilkado
+Secglēac	Ŝenoprazo
+Stānweall sacunga	Ribelo de Stonewall
+Punta Arenas	Punta Arenas
+Aaron	Aaron
+Osgar I Swēona Cyning	Oskaro la 1-a (Svedio)
+Hwēolrinnung	Biciklado
+Aquilegia	Aquileia
+Flocc:Cyningas	Kategorio:Reĝoj
+Beorneslēah	Barnsley
+Soria (scīr)	Provinco Sorio
+El Royo	El Royo
+Harold V Norrena Cyning	Haroldo la 5-a (Norvegio)
+Þēodlic Dæg	Nacia tago
+Ēadweard I Engla Cyning	Eduardo la 1-a (Anglio)
+Ariel Sharon	Ariel Ŝaron
+1050e	1050-aj jaroj
+Æneid	Eneado
+Forma Frencisce Rīce	Unua Imperio (Francio)
+Brādford	Bredevoort
+Se Holbytla	La Hobito
+Eocene	Eoceno
+Hwilpe	Longbeka kurlo
+Strǣt	Strato
+Superman	Superman
+Heorotbrēr	Ramno
+Wikipǣdia:Fulgōdra gewrita teohhunga	Vikipedio:Proponoj por elstaraj artikoloj
+Wikipǣdia:Gōd gewrit genamunga	Vikipedio:Proponoj por legindaj artikoloj
+Rætswīn	Kobajo
+Iconium	Konya
+Emma Goldman	Emma Goldman
+Iacobus I Grēatre Bryten Cyning	Jakobo la 1-a (Anglio)
+Crīstcirice	Kristkirko
+Coronel Fabriciano	Coronel Fabriciano
+Babsk	Babsk
+Englisca Ingewinn	Angla enlanda milito
+Bengal	Bengalio
+Morgenmete	Matenmanĝo
+1060e	1060-aj jaroj
+Pippen III Francena Cyning	Pipino la pli juna
+Carl I (Grēatre Bryten Cyning)	Karlo la 1-a (Anglio)
+Ȝealdor/ᚷᛖᚪᛚᛞᚩᚱ	Magio
+Cucler	Kulero
+Geþofted Rīcu American	Konfederaciitaj ŝtatoj de Usono
+Elpendbān	Eburo
+Villarrobledo	Villarrobledo
+Temuco	Temuco
+Hloðwic I Francena Cyning	Klodvigo la 1-a
+William Wallace	William Wallace
+Bundesliga	Unua germania ligo de futbalo (Bundesliga)
+Fȳrland	Fajrolando
+Frēols þǣre Sunnan (on Meridan)	Feria del Sol (Mérida)
+Maria I Engla Cwēn	Maria la 1-a (Anglio)
+Angelcirice	Eklezio de Anglio
+Lencten (tīd)	Karesmo
+Fuþorc	Runaj alfabetoj
+Lēactric	Kultiva laktuko
+Beadu Hǣstingum	Batalo apud Hastings
+Ēadweard VI Engla Cyning	Eduardo la 6-a (Anglio)
+Jacques-Yves Cousteau	Jacques-Yves Cousteau
+Horatio Nelson	Horatio Nelson
+Galilēa	Galileo (regiono)
+Foldlic clūt	Litosfero
+Þunor (weder)	Tondro
+Þūma	Dikfingro
+Ælfrēd Micela	Alfredo la Granda
+Hāmlǣrung	Hejminstruo
+Teutoburg Weald Beadu	Batalo de Varus
+Bysen:Cite book	Ŝablono:Citaĵo el libro
+O Canada	O Canada
+Orcanege	Orkadoj
+Profentse	Provenco
+Predore	Predore
+Seaxe	Saksoj
+Willelm II Engla Cyning	Vilhelmo la 2-a (Anglio)
+Limburgisc	Limburga lingvo
+Eallerīca Gotena Cyning	Alariko la 1-a
+Tygelwīg	Ŝnurtira lukto
+Boētius	Boecio
+Hunigbēo	Mielabelo
+Abbod	Abato
+Sameramis	Semiramiso
+Pīp	Pipo
+Aerosol	Aerosolo
+Gangnihessou	Gangnihessou
+Ilfingburg	Elbląg
+Mierce	Mercia
+Þēodrīc Ēastgotena Cyning	Teodoriko la Granda
+Westseaxena Rīce	Wessex
+Norþhymbra Rīce	Northumbria
+Wulfila	Ulfilo
+Angeow	Anĵuo
+2011 FIFA Frēona Woruldceampscipe	Virina Futbala Mondpokalo 2011
+Alexander VI Pāpa	Aleksandro la 6-a
+Mexiciscu rīce	Subŝtatoj de Meksiko
+Cethāmīga	Chatham-insularo
+Norþīg	Norda Insulo (Nov-Zelando)
+Anne Cwēn	Anna (Britio)
+Sūþīeg	Suda Insulo (Nov-Zelando)
+Dziecinów	Dziecinów (poviato Otwock)
+Sunnstede	Solstico
+Regnwyrm	Tervermo
+Kara	Kara (muzikgrupo)
+Ceadmere	Ĉada Lago
+Getalu Rōmāniscra Cāsera	Listo de romiaj imperiestroj
+Heantun	Wolverhampton
+Wascas	Eŭskoj
+Minerva	Minerva
+Fȳræg	Bombo
+Ashley Tisdale	Ashley Tisdale
+Þrondham	Trøndelag
+Nīwe Woruld	Nova Mondo
+Fȳrweorc	Artfajraĵo
+Æsc	Frakseno
+Galwæg	Galivo
+Ēadweard Andettere	Eduardo la Konfesanto
+Hramsa	Ursa ajlo
+Scīdfarung	Skiado
+World of Warcraft	World of Warcraft
+Byrig þāra Geāndena Rīca	Listo de urboj de Usono
+Nemniendlic cāsus	Nominativo
+Folcawanderung	Elorienteŭropaj popolmigradoj
+Slayer	Slayer
+Biliþ and lēoþcræft	Immagine & Poesia
+Maria Scotta Cwēn	Maria Stuart
+Indisc rīce	Ŝtatoj de Barato
+Scield	Ŝildo
+Henry V Englalandes	Henriko la 5-a (Anglio)
+Sciþþia	Skitoj
+Universidade Federal de Minas Gerais	Universidade Federal de Minas Gerais
+Sceanca	Kruro
+Pulgare	Bulgaroj
+Lyftscip	Aerŝipo
+Cnut se Micela	Knuto la Granda
+Saturnus	Saturno (dio)
+Exanceaster	Exeter
+Sanctes Laurentes Ēa	Sankt-Laŭrenco (rivero)
+Mundlēow	Lavujo
+Sūþhjaltland	Sudaj Ŝetlandaj Insuloj
+Cartespil	Kartludo
+Iscimbag	Iŝimbaj
+Marianburg	Malbork
+Monica Iozzi	Monica Iozzi
+Nīwsǣlandworulddǣl	Zelandio
+Carl Fǣtta Francena Cyning	Karlo la 3-a la Dika
+Þēodisc Āþbēorscipe	Germana Federacio
+Wikipǣdia:How to edit a page	Helpo:Redakti
+Cantwarabyrig eorþbeofung 2011.	Tertremo en Christchurch en 2011
+Eorðæppelstycce	Terpomfingroj
+Rīnland	Rejnlando
+Eormengyld Tybingenes	Universitato de Tubingeno
+Blōdmearh	Sangokolbaso
+Midsumor	Somermeza festo
+Timborwyrhta	Ĉarpentisto
+Anlaf V Norrena Cyning	Olavo la 5-a (Norvegio)
+Hacun VII Norrena Cyning	Haakon la 7-a (Norvegio)
+Ecgbryht	Egbert (Wessex)
+Earnulf Carendran	Arnulf de Karintio
+Bēda	Bede (historiisto)
+Laplandes Gūþ	Laponia milito
+Willelm-Alexander Niðerlanda Cyning	Willem-Alexander de Nederlando
+Bredspearctellend	Tabulkomputilo
+Mathusal	Metuŝelaĥ
+Universidade Estadual de Feira de Santana	Universidade Estadual de Feira de Santana
+Europisc wild gingifer	Azaro
+Bēowyrt	Kalam-akoro
+Universidade Federal da Bahia	Federacia Universitato de Bahio
+Centro Federal de Educação Tecnológica de Minas Gerais	Centro Federal de Educação Tecnológica de Minas Gerais
+Nēohwæl	Narvalo
+Ajman	Aĵmano
+Harold Godwinson	Harold la 2-a (Anglio)
+Ȳþrīdung	Ondorajdado
+Port:Stǣr	Flago de Taĝikio
+Kiæresburh	Cherbourg-Octeville
+Bresl	Breco
+CONCACAF	CONCACAF
+Searoburg	Salisbury
+Lunden Ēage	Londona Okulo
+Valdivia	Valdivia
+Pachuca de Soto	Pachuca de Soto
+Dweorgedosle	Pulegio
+Rēadingas	Reading
+Mængo	Mangifero
+Grēate Bryten Cynerīce	Reĝlando de Granda Britio
+Iane Grey Hlæfdige	Jane Grey
+Grammatisc cyn	Genro (gramatiko)
+Sihþ	Vidkapablo
+Hetware	Ĥatoj
+Americanisc wera rīcisc fōtballtēam	Usona nacia teamo de futbalo
+Maywood, Illinois	Maywood (Ilinojo)
+Þrēo Coreaniscu Cynerīcu	Tri Antikvaj Regnoj de Koreio
+Feðer (blæces)	Plumo (skribilo)
+Pening	Pfenigo
+Bryttisca Antarctisca Landscipe	Brita Antarkta Teritorio
+Starcraft	StarCraft
+Seofon dēadlica synna	Sep gravegaj pekoj
+Finger	Mezfingro
+Midwearme geardas	Modera klimato
+Angleseg	Môn
+Māse	Paruedoj
+Caselle Landi	Caselle Landi
+Penwiðsteort	Land's End
+Æðelstān Engla Cyning	Adelstano
+Ras al-Khaimah	Ras-al-Ĥajmo
+Elene Constantinoples	Helena de Konstantinopolo
+Nintendo DS	Nintendo DS
+Ēse	Azoj
+Nīwe Francland	Nova Francio
+Cyclades	Cikladoj
+Trafalgar Sǣfeoht	Batalo apud Trafalgar
+Iosephine Francena Caserin	Jozefino de Beauharnais
+Sōlate	Sunfloro
+Cynelica Sciphere	Reĝa mararmeo
+Inbærnes	Olibano
+Difelinscīr	Graflando Dublino
+Helm	Kasko
+Umm Al Quwain	Um-al-Kajvajno
+Nīwes Sǣlandes þēodlīc fōtþōðerhēap	Nov-Zelanda nacia teamo de futbalo
+The Oval	La Ovalo
+2010 FIFA Woruldceampscipe	Futbala Mondpokalo 2010
+Sunu	Filo
+Caltojar	Caltojar
+Grīpfealcen	Ĉasfalko
+Snāwbordfarung	Neĝtabulado
+Ōsgeard	Ásgarðr
+Glīdflēogung	Glisparaŝutado
+Mageoscīr	Graflando Mayo
+Berlanga de Duero	Berlanga de Duero
+Australisc rīce	Aŭstraliaj ŝtatoj kaj teritorioj
+Blizzard Entertainment	Blizzard Entertainment
+Dofras	Dovero (Anglio)
+Herenuma	Militkaptito
+Dȳfung	Subakvado
+Daguerreotype	Dagerotipio
+Dūnholm	Durham (Anglio)
+Þrēotīene Landbūnessa	Dek tri Kolonioj
+Lincoln	Lincoln (Anglio)
+Syllīega	Insuloj Scilly
+Helen Clark	Helen Clark
+Būr	Ĉambro
+Wēala Þēoden	Princo de Kimrujo
+Scōnīeg	Skanio
+Milanes Bann	Edikto de Milano
+Francforta	Kolbasobulko
+Gelocen boge	Arbalesto
+Wichlawscīr	Graflando Wicklow
+Striuelin	Stirling
+Æðelred Unrǣd	Ethelred la 2-a (Anglio)
+Twentig Þūsend Lēowena Under þǣm Sǣ	Dudek mil leŭgoj sub la maro
+Baius	Bayeux (Francio)
+Ballōn (lyftcræft)	Balono
+Colneceaster	Colchester
+Meodu	Medo
+Met (Grammaticcræft)	Gramatika modo
+Sǣelpend	Marelefanto
+Grytviken	Grytviken
+Fox News	Fox News
+Brīw	Kaĉo (manĝaĵo)
+Ēadweard se Ieldra	Eduardo la pli aĝa
+Iþacige	Itako
+Baius tæpped	Tapiŝo de Bayeux
+Sharjah	Ŝarĵo
+Antrimscīr	County Antrim
+Vigdís Finnbogadóttir	Vigdís Finnbogadóttir
+Final Fantasy	Final Fantasy
+Norrena Cyning	Listo de norvegaj reĝoj
+Westmynster	Westminster
+Ēadmund Æðeling	Edmundo la 1-a (Anglio)
+Rachel McAdams	Rachel McAdams
+Fermanagh	Fermanagh
+Foresittend Franclandes	Prezidento de la Respubliko (Francio)
+Yun Chi-ho	Yun Chi-ho
+Sancte Elene Īeg, Upstigeīeg and Tristan da Cunha	Sankta Heleno, Ascension kaj Tristan da Cunha
+Jack Ruby	Jack Ruby
+Wīnland	Vinlando
+Luel	Carlisle (Kumbrio)
+Ēadgar Engla Cyning	Edgaro (Anglio)
+Kea	Keo (birdo)
+Itumbiara	Itumbiara
+A Night at the Opera	A Night at the Opera (Queen)
+Queen (album)	Queen (muzikalbumo)
+Þunres Hamor	Mjolnir
+Oben am jungen Rhein	Oben am jungen Rhein
+Guinness	Guinness
+Scræfclūdas (Sūþgeorgia)	Aŭroroj
+Łobez	Łobez
+Liðere	Svingoĵetilo
+Tawpomere	Lago Taupo
+Universidad de Concepción	Universidad de Concepción
+Hameldūn (Nīwe Sǣland)	Hamilton
+Stǣr þǣre Worulde	Historio de la mondo
+Rēad wulf	Ruĝa lupo
+Normandisca Forcyme	Normana konkero de Anglio
+Fif Scīr	Fife (Skotlando)
+Stǣrwrītere	Historiisto
+Nebrond	Nimrod
+Scrobbesburh	Shrewsbury
+Fæger hǣr	Blonda
+Myrra	Mirho
+Harold III Norrena Cyning	Harald la 3-a (Norvegio)
+Middeltūn þǣra de Cahaignes	Milton Keynes
+Īrisc fōtþōðer	Pejlo
+Lonceaster	Lancaster (Lancashire)
+Sūþalpis	Sudaj Alpoj
+Neamere	Neagh
+Wyrt	Spicherbo
+Maðante	Mantes-la-Jolie
+Fermat tæl	Nombro de Fermat
+Liccidfeld	Lichfield
+Sūþorcanege	Sudaj Orkadoj
+Se Fēolagascipe þæs Hringes	La Mastro de l' Ringoj: La Kunularo de l' Ringo (libro)
+Cod	Gadedoj
+Micel Ficgīeg	Viti Levu
+Wrenna	Trogloditedoj
+1984 (bōc)	1984 (romano)
+Folcaþing	Folketing
+Getalu burga in Þēodsclande	Listo de urboj de Germanio
+The Game	The Game (Queen)
+Bancorena burg	Bangor
+Gēol	Julo
+Washington Redskins	Washington Redskins
+Ægelesburg	Aylesbury
+Ēsatrēowþ	Asatro
+Westgeatland	Västergötland
+Wīcinga Ieldu	Vikinga erao
+Sihhem	Nablus
+Beatrix Potter	Beatrix Potter
+Ēadgar Æðeling	Edgar Aetheling
+Grēat Rōmisc Fȳr	Granda Incendio de Romo
+Mann	Persono
+Tollund wer	Viro de Tollund
+Hēapplega	Teama sporto
+Violetta Villas	Violetta Villas
+Ynce	Colo
+Gearwung (plega)	Korpekzercado
+Anggun	Anggun
+Wīfa rihta forðung	Virinaj rajtoj
+Apaxco	Apaxco
+Cham	Ĥam
+Zune	Zune
+Lox	Lynx
+In	In
+Eormengyld Ciles	Universitato de Ĉilio
+Sēremōnaþ 2007	Junio de 2007
+Offa Miercna Cyning	Offa (Mercia)
+Mǣdmōnaþ 2006	Julio de 2006
+Mǣdmōnaþ 2007.	Julio de 2007
+Wēodmōnaþ 2007	Aŭgusto de 2007
+Engel	Anĝelo
+Æðelflǣd	Aethelflaed (Mercia)
+D.C. United	D.C. United
+Eowland	Öland
+Allan Kardec	Allan Kardec
+Deadache	Deadache
+The God Delusion	The God Delusion
+Canadisc fōtþōðer	Kanada piedpilko
+Ealra Hālgena Ǣfen	Halloween
+Bān	Osto
+Wēodmōnaþ 2006	Aŭgusto de 2006
+Ælfrīc Abbod of Egoneshame	Aelfric
+Ælle Sūþseaxna cyning	Aelle (Sussex)
+Æðelbald West-Seaxna Cyning	Ethelbald (Wessex)
+Æðelrǣd	Aethelred la 1-a (Mercia)
+Bēagel	Bagelo
+Rēcels	Incenso
+Woruldlic Gemōt þāra Ciricena	Monda Konsilio de Eklezioj
+Marjorie Estiano	Marjorie Estiano
+Fotþōðer	Piedpilkado
+Oresundes brycg	Sundoponto
+Vadillo	Vadillo
+Dohtor	Filino
+Spell Twēgra Burga	Rakonto pri Du Urboj
+Morbid Angel	Morbid Angel
+Orosius	Paŭlo Orosio
+Alexis Tsipras	Aleksis Tsipras
+Joseph Serchuk	Joseph Serchuk
+Babez for breakfast	Babez for Breakfast
+Philip Jaisohn	Philip Jaisohn
+Wælheall Herig	Valhalo (monumento)
+Æbbandūn	Abingdon (Oxfordshire)
+Westmannland	Västmanland
+Corn Flakes	Maizflokoj
+Penda Miercna Cyning	Penda
+Dūnstān	Sankta Dunstan
+Pak Hon-yong	Park Heon-young
+Americanisc frēona rīcisc fōtballtēam	Usona virina nacia teamo de futbalo
+Mǣdmōnaþ 2005	Julio de 2005
+Winterfylleþ 2005	Oktobro de 2005
+Jordan Galland	Jordan Galland
+Offa	Offa
+Almaluez	Almaluez
+Ēadmund se Martyr	Edmundo la Martiro
+Australisca Witenagemōt	Parlamento de Aŭstralio
+Lao	Laŭoj
+Godspell Mattheus	Evangelio laŭ Mateo
+James Ēa	Rivero James (Virginio)
+Nazarēth	Nazareto
+Kwara Rīce	Kŭara Ŝtato
+Windlesōra	Windsor (Anglio)
+Ēastermōnaþ 2005	Aprilo de 2005
+Heo Jong-suk	Heo Jong-suk
+Rædwald Ēastengla Cyning	Raedwald (East Anglia)
+Ēadbald	Eadbald (Kent)
+Oswiu Norþhymbra Cyning	Oswiu
+Agmodesham	Amersham
+Recedham	Rochdale
+Illative cāsus	Ilativo
+Herelic munucregol	Kavalira ordeno
+Coritiba Foot Ball Club	Coritiba Foot Ball Club
+Tansonnhates Geondrīciscum Lyfthæfene	Flughaveno Tan Son Nhat
+The Chronicles of Narnia	Kronikoj de Narnio
+Aliud	Aliud
+Iacub Colas	Jakub Kolas
+Baraona	Baraona
+Keane	Keane
+Medinaceli	Medinaceli
+Láchar	Láchar
+Burgo de Osma-Ciudad de Osma	Burgo de Osma
+Suellacabras	Suellacabras
+Yanguas	Yanguas
+Get Heavy	Get Heavy
+The Arockalypse	The Arockalypse
+San Esteban de Gormaz	San Esteban de Gormaz
+The Monsterican Dream	The Monsterican Dream
+Barbourscīr, Westvirginia	Kantono Barbour (Okcidenta Virginio)
+Hāmtūnscīr Scīr, West Virginia	Kantono Hampshire (Okcidenta Virginio)
+Park Jung-yang	Park Jung-yang
+Sūþtūn Hōh	Sutton Hoo
+Tuidi	Rivero Tweed
+Sǣbeorg	Submara monto
+Dornwaraceaster	Dorchester
+Chris Pratt	Chris Pratt
+Walhshalh	Walsall
+Cañamaque	Cañamaque
+Navaleno	Navaleno
+Anna Ēastengla Cyning	Anna (East Anglia)
+Trévago	Trévago
+Scīrburna	Sherborne
+JavaScript weorcsearu	JavaScript-interpretilo
+Dévanos	Dévanos
+Mexicanisc frēona rīcisc fōtballtēam	Meksika virina nacia teamo de futbalo
+Læland	Lolland
+Bukan	Bukan
+Grahamland	Lando de Graham
+Wikipǣdia:Sceortpæþ	Vikipedio:Simbola ligilo
+Ólvega	Ólvega
+Eormengyld Juraj Dobrila on Pula	Universitato Juraj Dobrila de Pula
+Dopenid	Fuliko
+Swearttægelhara	Nigravosta leporo
+Sybelhūs on Lundne	Banqueting House
+Magaña	Magaña
+Ulfretūn	Newbury
+Tæppa	Krano
+Tīdunghēap	Novaĵgrupo
+Nile (trūðhlōð)	Nile
+Stǣr Angelþēode ciricean	Historia ecclesiastica gentis Anglorum
+Centenera de Andaluz	Centenera de Andaluz
+Þrimilcemōnaþ 2005	Majo de 2005
+Blecinga īeg	Blekinge
+Lox (catte)	Linko
+Gewuldorbeagungīeg (on Sūþorcanege)	Kronada insulo
+Æfterra Gēola 2005.	Januaro de 2005
+Huntandūn	Huntingdon
+Scotburg ēa	Kongeå
+Hoym	Hoym
+Hude (Oldenburg)	Hude (Oldenburgio)
+Ambihtlicu Cīnisc sprǣc	Norma ĉina lingvo
+Mans	Mansio
+Hwicce	Hwicce
+Falster	Falster
+Ealdfriþ	Aldfrith
+Solmōnaþ 2005	Februaro de 2005
+Hāligmōnaþ 2005	Septembro de 2005
+Wuduhen	Vekaralo
+Centro Federal de Educação Tecnológica Celso Suckow da Fonseca	Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+Ægelesþrep	Aylesford
+Almarza	Almarza
+Aldealices	Aldealices
+Aldealafuente	Aldealafuente
+Alentisque	Alentisque
+Adradas	Adradas
+Alconaba	Alconaba
+Abejar	Abejar
+Almajano	Almajano
+Arenillas	Arenillas
+Aldealpozo	Aldealpozo
+Alcubilla de las Peñas	Alcubilla de las Peñas
+Aldealseñor	Aldealseñor
+Alcubilla de Avellaneda	Alcubilla de Avellaneda
+Covaleda	Covaleda
+Casarejos	Casarejos
+Cerbón	Cerbón
+Calatañazor	Calatañazor
+Almazul	Almazul
+Cidones	Cidones
+Alpanseque	Alpanseque
+Arcos de Jalón	Arcos de Jalón
+Aldehuela de Periáñez	Aldehuela de Periáñez
+Beratón	Beratón
+Almenar de Soria	Almenar de Soria
+Maján	Maján
+Coscurita	Coscurita
+Barcones	Barcones
+Castilfrío de la Sierra	Castilfrío de la Sierra
+Castilruiz	Castilruiz
+Miño de Medinaceli	Miño de Medinaceli
+Vinuesa	Vinuesa
+Cigudosa	Cigudosa
+Candilichera	Candilichera
+Ausejo de la Sierra	Ausejo de la Sierra
+Carabantes	Carabantes
+Soliedra	Soliedra
+Taroda	Taroda
+Nepas	Nepas
+Valtajeros	Valtajeros
+Arévalo de la Sierra	Arévalo de la Sierra
+Pozalmuro	Pozalmuro
+Cabrejas del Pinar	Cabrejas del Pinar
+Villasayas	Villasayas
+Cubilla	Cubilla
+Castillejo de Robledo	Castillejo de Robledo
+Escobosa de Almazán	Escobosa de Almazán
+Estepa de San Juan	Estepa de San Juan
+Carrascosa de la Sierra	Carrascosa de la Sierra
+Las Aldehuelas	Las Aldehuelas
+Bayubas de Arriba	Bayubas de Arriba
+Borobia	Borobia
+Bliecos	Bliecos
+Buberos	Buberos
+Muriel Viejo	Muriel Viejo
+Oncala	Oncala
+Fuentecambrón	Fuentecambrón
+Cabrejas del Campo	Cabrejas del Campo
+Frechilla de Almazán	Frechilla de Almazán
+Valdelagua del Cerro	Valdelagua del Cerro
+Ciria	Ciria
+Buitrago	Buitrago
+Talveila	Talveila
+Salduero	Salduero
+Fuentes de Magaña	Fuentes de Magaña
+Viana de Duero	Viana de Duero
+Tardelcuende	Tardelcuende
+Duruelo de la Sierra	Duruelo de la Sierra
+Bayubas de Abajo	Bayubas de Abajo
+Fuentearmegil	Fuentearmegil
+Fuentelmonge	Fuentelmonge
+Rollamienta	Rollamienta
+Villar del Ala	Villar del Ala
+Velilla de los Ajos	Velilla de los Ajos
+Momblona	Momblona
+Fresno de Caracena	Fresno de Caracena
+Valdegeña	Valdegeña
+Velamazán	Velamazán
+Torlengua	Torlengua
+Fuentecantos	Fuentecantos
+Carrascosa de Abajo	Carrascosa de Abajo
+Pinilla del Campo	Pinilla del Campo
+Serón de Nágima	Serón de Nágima
+Blacos	Blacos
+Valdeavellano de Tera	Valdeavellano de Tera
+Narros	Narros
+Valdeprado	Valdeprado
+Borjabad	Borjabad
+Fuentelsaz de Soria	Fuentelsaz de Soria
+San Leonardo de Yagüe	San Leonardo de Yagüe
+Muriel de la Fuente	Muriel de la Fuente
+Villar del Río	Villar del Río
+Valderrodilla	Valderrodilla
+Espejón	Espejón
+Liceras	Liceras
+Matalebreras	Matalebreras
+Quintana Redonda	Quintana Redonda
+Nafría de Ucero	Nafría de Ucero
+Sotillo del Rincón	Sotillo del Rincón
+Torrubia de Soria	Torrubia de Soria
+Noviercas	Noviercas
+Tajueco	Tajueco
+Valdenebro	Valdenebro
+Villaciervos	Villaciervos
+Yelo	Yelo
+Montenegro de Cameros	Montenegro de Cameros
+Langa de Duero	Langa de Duero
+Quiñonería	Quiñonería
+Villar del Campo	Villar del Campo
+Portillo de Soria	Portillo de Soria
+Gormaz	Gormaz
+Santa Cruz de Yanguas	Santa Cruz de Yanguas
+Villaseca de Arciel	Villaseca de Arciel
+Reznos	Reznos
+Cueva de Ágreda	Cueva de Ágreda
+Nolay	Nolay
+Cirujales del Río	Cirujales del Río
+Caracena	Caracena
+Cubo de la Solana	Cubo de la Solana
+Miño de San Esteban	Miño de San Esteban
+Fuentestrún	Fuentestrún
+Espeja de San Marcelino	Espeja de San Marcelino
+Matamala de Almazán	Matamala de Almazán
+La Póveda de Soria	La Póveda de Soria
+Los Rábanos	Los Rábanos
+Quintanas de Gormaz	Quintanas de Gormaz
+Santa María de Huerta	Santa María de Huerta
+San Pedro Manrique	San Pedro Manrique
+Velilla de la Sierra	Velilla de la Sierra
+San Felices	San Felices
+Renieblas	Renieblas
+Morón de Almazán	Morón de Almazán
+Los Villares de Soria	Los Villares de Soria
+Torreblacos	Torreblacos
+Vizmanos	Vizmanos
+Tejado	Tejado
+Herrera de Soria	Herrera de Soria
+Deza	Deza (Sorio)
+Monteagudo de las Vicarías	Monteagudo de las Vicarías
+La Riba de Escalote	La Riba de Escalote
+Montejo de Tiermes	Montejo de Tiermes
+La Losilla	La Losilla
+Recuerda	Recuerda
+Tajahuerce	Tajahuerce
+Fuentepinilla	Fuentepinilla
+Golmayo	Golmayo
+Rioseco de Soria	Rioseco de Soria
+Gómara	Gómara
+Weogornaceasterscīrsēaw	Vorcestera saŭco
+Picilemwes eorþbeofung 2010 gēares	Tertremo de Piĉilemo (2010)
+York University	York University
+Hrēþmōnaþ 2005	Marto de 2005
+Strēoneshalh	Whitby
+Cwatbrycg	Bridgnorth
+Help:Innoþ	Helpo:Enhavo
+Wīntrēow	Rebo
+Pontifícia Universidade Católica de Minas Gerais	Pontifícia Universidade Católica de Minas Gerais
+Deorwente	Rivero Derwent (Derbyshire)
+Universidad de los Andes (Cile)	Universidad de Los Andes
+Hāligmōnaþ 2006	Septembro de 2006
+Molinos de Duero	Molinos de Duero
+Vozmediano	Vozmediano (Soria)
+Hinojosa del Campo	Hinojosa del Campo
+Elpendīeg	Elefant-insulo
+Mældūn	Maldon (Essex)
+Burns Niht	Burns Supper
+Vrahovice	Vrahovice
+Gēatland	Gotlando
+Būc	Stomako
+Candelmæssanīeg	Candlemas-insulo
+Loppestre	Omaro
+Rello	Rello
+Rebollar	Rebollar (Kastilio kaj Leono)
+Garray	Garray
+Simeon II Pulgara Cyning	Simeono la 2-a (Bulgario)
+Lopphāma	Vetao
+Umm Culþþūm	Umm Kulthum
+Universidade Tecnológica Federal do Paraná	Universidade Tecnológica Federal do Paraná
+Stæffordscīr hord	Trezoro de Staffordshire
+Swamphæn	Porfirio
+Wikipǣdia:Ambihtsecghof	Vikipedio:Ambasadorejo
+Sēo Rād tō Wiganshwearfe	La strato al Wigan Pier
+National Hockey League	NHL
+Perþscīr	Perthshire
+Flyhthæfen	Flughaveno
+Major Antônio Couto Pereira Stadium	Estádio Major Antônio Couto Pereira
+Stǣrlice gemynddagas	Listo de historiaj eventoj
+Uzumaki	Uzumaki
+Sǣweardþrēat	Marborda patrolo
+Agnes Monica	Agnes Monica
+Windlesōra and Mægdenhȳþ	Windsor and Maidenhead
+Flocc:Ƿeras	Kategorio:Viroj
+Flocc:Ƿīf	Kategorio:Virinoj
+Flocc:Þēodscland	Kategorio:Germanio
+Flocc:Italia	Kategorio:Italio
+Flocc:Geānedu Rīcu American	Kategorio:Usono
+Flocc:Russland	Kategorio:Rusio
+Flocc:Canada	Kategorio:Kanado
+Flocc:Geānede Cynerīce	Kategorio:Unuiĝinta Reĝlando
+Flocc:Spēonland	Kategorio:Hispanio
+Flocc:Cīna	Kategorio:Ĉinio
+Flocc:Iapan	Kategorio:Japanio
+Flocc:Australia	Kategorio:Aŭstralio
+Flocc:Mexico	Kategorio:Meksiko
+Flocc:Indea	Kategorio:Barato
+Flocc:Saudisc Arabea	Kategorio:Sauda Arabio
+Flocc:Israhēl	Kategorio:Israelo
+Flocc:Turcland	Kategorio:Turkio
+Flocc:Sūðaffrica	Kategorio:Sud-Afriko
+Flocc:Ǣgypt	Kategorio:Egiptio
+Flocc:Persealand	Kategorio:Irano
+Flocc:Nīwe Sǣland	Kategorio:Nov-Zelando
+Flocc:Argentina	Kategorio:Argentino
+Flocc:Afghanistan	Kategorio:Afganio
+Flocc:Algeria	Kategorio:Alĝerio
+Flocc:Ēastrīce	Kategorio:Aŭstrio
+Flocc:Bangladesc	Kategorio:Bangladeŝo
+Flocc:Cūba	Kategorio:Kubo
+Flocc:Sigelhearwenaland	Kategorio:Etiopio
+Flocc:Indonesia	Kategorio:Indonezio
+Flocc:Irac	Kategorio:Irako
+Flocc:Niðerland	Kategorio:Nederlando
+Flocc:Nigeria	Kategorio:Niĝerio
+Flocc:Pacistan	Kategorio:Pakistano
+Flocc:Pōlaland	Kategorio:Pollando
+Flocc:Portugal	Kategorio:Portugalio
+Flocc:Sudan	Kategorio:Sudano
+Flocc:Tansania	Kategorio:Tanzanio
+Flocc:Ucrægna	Kategorio:Ukrainio
+Flocc:Fietnam	Kategorio:Vjetnamio
+Flocc:Rōmānisc Cāsere	Kategorio:Romia Imperio
+Flocc:Sycedēor	Kategorio:Mamuloj
+Flocc:Fugolas	Kategorio:Birdoj
+Flocc:Plantan	Kategorio:Plantoj
+Flocc:Stǣr	Kategorio:Historio
+Flocc:Ferscipe	Kategorio:Socio
+Flocc:Gelēafan	Kategorio:Religio
+Flocc:Plegan	Kategorio:Sporto
+Flocc:Sprǣc	Kategorio:Lingvo
+Flocc:Eorþ	Kategorio:Tero
+Victor Iusccenco	Viktor Juŝĉenko
+Thila-īeg	Insulo Thule
+Palmerland	Palmera Tero
+Hocig	Hokeo
+Īsensmiþ	Forĝisto
+Wiogoraceastre	Worcester
+Ganet	Suloj
+Mōr	Torfejo
+Três Pontas	Três Pontas
+Hwæl	Baleno
+Flocc:Scīrung	Kategorio:Apartigiloj
+Flocc:Olympisc Gamen	Kategorio:Olimpikoj
+Flocc:Crīstendōm	Kategorio:Kristanismo
+Flocc:Alladōm	Kategorio:Islamo
+Offa, Nigeria	Offa (Niĝerio)
+Ammomanes	Ammomanes
+Earn	Aglo
+Scyrte	Jupo
+Elworuldontygenes	Alimondismo
+Bochotnica	Bochotnica
+Universidade do Estado de Minas Gerais	Universidade do Estado de Minas Gerais
+Grantasæte	Grantchester
+Adesa	Adzo
+Sceota	Bruna truto
+Flocc:Styccelicu gewritu	Kategorio:Ĝermo
+Flocc:Wikipedia categorization	Kategorio:Vikipedio:Kategorioj
+Flocc:Sidaþing	Kategorio:Kulturo
+Flocc:Gēar	Kategorio:Jaroj
+Flocc:Worulddǣl	Kategorio:Kontinentoj
+Flocc:Lyftcræftas	Kategorio:Aviadiloj
+Bysen:Stēorungsunnanendebyrdnes	Ŝablono:Sunsistemo
+Wikipǣdia:Wikibōceras	Vikipedio:Vikipediistoj
+Scearseax	Sendanĝera razilo
+Wikipǣdia:Recentchanges	Helpo:Lastaj ŝanĝoj
+Bysen:Succession box	Ŝablono:Enŝovi dinastion
+Æðelinga īg	Athelney
+Flocc:Flēogeball	Kategorio:Volejbalo
+Flocc:Wikipedia bots	Kategorio:Vikipedio:Robotoj
+Ened	Anaso
+Bysen:Cquote	Ŝablono:Citaĵo
+Flocc:Þēodisc	Kategorio:Germanoj
+Flocc:Land	Kategorio:Landoj
+Wikipǣdia:Bewitendas	Vikipedio:Administrantoj
+Flocc:Lēode	Kategorio:Personoj
+Wikipǣdia:Bēna tō and fram bewitendhāde	Vikipedio:Administrantoj/kandidatoj
+Flocc:Tīd	Kategorio:Tempo
+Flocc:Bodiȝlār	Kategorio:Anatomio
+Wikipǣdia:Betwuxsprǽclice bendas	Helpo:Interlingva ligilo
+Flocc:Leornung	Kategorio:Edukado
+Cyningesbeorg	Kenigsbergo
+Ægypt	Egiptujo
+Flocc:Ūtwitan	Kategorio:Filozofoj
+Bysen:Bot	Ŝablono:Bot
+Wikipǣdia:Hwæt Wikipǣdia Nis	Vikipedio:Kio Vikipedio ne estas
+Canada	Kanado
+Flocc:Ungerland	Kategorio:Hungario
+Flocc:Belgice	Kategorio:Belgio
+Flocc:Cipros	Kategorio:Kipro
+Flocc:Cecland	Kategorio:Ĉeĥio
+Flocc:Denemearc	Kategorio:Danio
+Flocc:Estland	Kategorio:Estonio
+Flocc:Finnland	Kategorio:Finnlando
+Flocc:Crecaland	Kategorio:Grekio
+Flocc:Lettland	Kategorio:Latvio
+Flocc:Īsland	Kategorio:Islando
+Flocc:Letseburg	Kategorio:Luksemburgo
+Flocc:Liþuania	Kategorio:Litovio
+Flocc:Melita	Kategorio:Malto
+Flocc:Swēoland	Kategorio:Svedio
+Flocc:Slofacia	Kategorio:Slovakio
+Flocc:Īrland Cynewīse	Kategorio:Respubliko de Irlando
+Flocc:Fulgōd ȝeƿritu	Kategorio:Elstaraj artikoloj
+Flocc:Spærcletelle gamen	Kategorio:Videoludoj
+Flocc:Microsoft	Kategorio:Mikrosofto
+Wikipǣdia:Edit summary	Vikipedio:Resumo
+Bysen:Flagicon	Ŝablono:Flagikono
+Flocc:Land on Europan	Kategorio:Eŭropaj landoj
+Flocc:Europe	Kategorio:Eŭropo
+Flocc:Wikipedia:Help	Kategorio:Helpo
+Help:Mōtungtramet	Vikipedio:Diskutpaĝo
+Wikipǣdia:Efenealde belimpas	Vikipedio:Aktualaĵoj
+Bysen:Documentation	Ŝablono:Dok
+Wikipǣdia:Protected pages	Vikipedio:Ŝlosendaj paĝoj
+Flocc:Wikibōceras	Kategorio:Vikipediistoj
+Wikipǣdia:Gemǣnscipes Ingang	Portalo:Komunumo
+Flocc:Brūcendsprǣc	Kategorio:Vikipediistoj laŭ lingvo
+Wikipǣdia:Fīf styde	Vikipedio:Kvin principoj
+Wikipǣdia:Ānsund styccegewrit	Vikipedio:Ĝermo
+Wikipǣdia:Bealu	Vikipedio:Vandalismo
+Sung Jae-ki	Sung Jae-gi
+Instituto Federal da Bahia	Federacia Instituto de Bahio
+Bysen:Softredirect	Ŝablono:Intervikia plusendilo
+Bysen:Delete	Ŝablono:Forigu tuj
+Snægel	Gastropodoj
+Bryttisce Wealdendas	Listo de britaj reĝoj
+Flocc:Searucræft	Kategorio:Teknologio
+Flocc:Sprǣca	Kategorio:Lingvoj
+Flocc:Gerīmbōc	Kategorio:Kalendaro
+Help:Onbregdan nīwne tramet	Helpo:Kiel krei paĝon
+Flocc:Wikipǣdia	Kategorio:Vikipedio
+Flocc:Unȝebēacniende trametas	Kategorio:Neindeksitaj paĝoj
+Flocc:Pages with broken file links	Kategorio:Paĝoj kun eraraj dosierligiloj
+Wikipǣdia:Manual of Style	Vikipedio:Stilogvido
+Bysen:-	Ŝablono:-
+Bysen:Navbox	Ŝablono:Navigilo2
+Flocc:Byrig on Persum	Kategorio:Urboj de Irano
+Bysen:Sēðung þurfed	Ŝablono:Mankas fonto
+Angelfresisca sprǣca	Anglofrisa lingvaro
+Bysen:!	Ŝablono:!
+Flocc:Fana bysen	Kategorio:Ŝablonoj landonomoj kun flageto
+Bysen:!-	Ŝablono:!-
+Bysen:!!	Ŝablono:!!
+Bysen:=	Ŝablono:=
+Bysen:Navbar	Ŝablono:Tnavbar
+Bysen:Unicode	Ŝablono:Unicode
+Bysen:E	Ŝablono:X10
+Bysen:Color	Ŝablono:Kolorteksto
+Bysen:Anchor	Ŝablono:Ankro
+Wikipǣdia:List of articles all languages should have	Vikipedio:Listo de havendaj artikoloj
+Flocc:Affrica	Kategorio:Afriko
+Flocc:Mǣdmōnaþ	Kategorio:Julio
+Flocc:Þorpas	Kategorio:Vilaĝoj
+Flocc:Bēc	Kategorio:Libroj
+Flocc:Mōnþas	Kategorio:Monatoj
+Bysen:Wikisource	Ŝablono:Vikifontaro
+Bysen:Babel	Ŝablono:Babelejo
+Bysen:Commons	Ŝablono:Commons
+Bysen:Link GA	Ŝablono:LigoLeginda
+Bysen:Reflist	Ŝablono:Referencoj
+Bysen:NavPeriodicTable	Ŝablono:Perioda tabelo por informkestoj
+Wikipǣdia:Fulgōdra gewrita hwætgōdnesse	Vikipedio:Kriterioj por elstaraj artikoloj
+Bysen:Stycce	Ŝablono:Ĝermo
+Bysen:Brūcend de	Ŝablono:Vikipediisto de
+Bysen:Brūcend de-1	Ŝablono:Vikipediisto de-1
+Bysen:Brūcend el	Ŝablono:Vikipediisto el
+Bysen:Brūcend es	Ŝablono:Vikipediisto es
+Bysen:Brūcend de-3	Ŝablono:Vikipediisto de-3
+Bysen:Brūcend en-3	Ŝablono:Vikipediisto en-3
+Bysen:Brūcend el-1	Ŝablono:Vikipediisto el-1
+Bysen:Brūcend en-1	Ŝablono:Vikipediisto en-1
+Bysen:Brūcend en-2	Ŝablono:Vikipediisto en-2
+Bysen:Brūcend eo-2	Ŝablono:Vikipediisto eo-2
+Bysen:Brūcend en-4	Ŝablono:Vikipediisto en-4
+Bysen:Brūcend fi	Ŝablono:Vikipediisto fi-D
+Bysen:Brūcend en-0	Ŝablono:Vikipediisto en-0
+Bysen:Brūcend es-4	Ŝablono:Vikipediisto es-4
+Bysen:Brūcend en	Ŝablono:Vikipediisto en
+Bysen:Brūcend de-2	Ŝablono:Vikipediisto de-2
+Bysen:Brūcend es-1	Ŝablono:Vikipediisto es-1
+Bysen:Brūcend fi-1	Ŝablono:Vikipediisto fi-1
+Bysen:Brūcend fr-1	Ŝablono:Vikipediisto fr-1
+Flocc:Līf	Kategorio:Vivo
+Bysen:Brūcend he-2	Ŝablono:Vikipediisto he-2
+Bysen:Brūcend it-3	Ŝablono:Vikipediisto it-3
+Bysen:User sk	Ŝablono:Vikipediisto sk
+Bysen:Brūcend ja	Ŝablono:Vikipediisto ja
+Bysen:Brūcend ja-1	Ŝablono:Vikipediisto ja-1
+Bysen:Brūcend it-1	Ŝablono:Vikipediisto it-1
+Bysen:Brūcend fr	Ŝablono:Vikipediisto fr
+Cosco	Kusko
+Wikipedia:Find oþþe gebét stycce	Vikipedio:Perfekta ĝermo de artikolo
+Flocc:Solmōnaþ	Kategorio:Februaro
+Flocc:1949	Kategorio:1949
+Bysen:Stedefindend scite/Writ	Ŝablono:Situo sur mapo/informoj
+Flocc:Ceorfdēor	Kategorio:Insektoj
+Bysen:Fs mid	Ŝablono:Fs mid
+Flocc:Asia	Kategorio:Azio
+Flocc:Cile	Kategorio:Ĉilio
+Flocc:21e gēarhundred	Kategorio:21-a jarcento
+Flocc:Lesotho	Kategorio:Lesoto
+Flocc:Brūcend uk	Kategorio:Vikipediisto uk
+Flocc:Sūðamerica	Kategorio:Sudameriko
+Flocc:Brūcend uk-M	Kategorio:Vikipediisto uk-D
+Flocc:1918	Kategorio:1918
+Flocc:1954	Kategorio:1954
+Flocc:Ǣt	Kategorio:Manĝaĵoj
+Flocc:1946	Kategorio:1946
+Bysen:Fs player	Ŝablono:Fs player
+Flocc:Gyldfōtþōðer	Kategorio:Futbalo
+Flocc:1945	Kategorio:1945
+Bysen:Mod	Ŝablono:Mod
+Flocc:1926	Kategorio:1926
+Bysen:NowCommons	Ŝablono:Nun en Komunejo
+Flocc:1920	Kategorio:1920
+Bysen:Brūcend it	Ŝablono:Vikipediisto it
+Bysen:Brūcend uk	Ŝablono:Vikipediisto uk
+Bysen:Brūcend es-2	Ŝablono:Vikipediisto es-2
+Bysen:Infobox Football club	Ŝablono:Informkesto futbalteamo
+Bysen:Welcome	Ŝablono:Bonvenon
+Flocc:Bysen mid ūtweardum hlence	Kategorio:Ŝablono:Eksteraj ligiloj
+Bysen:Mōnþas	Ŝablono:MonatEnkonduko
+Bysen:Scire in Irlande	Ŝablono:Graflandoj de Irlando
+Bysen:Click	Ŝablono:Ligo el bildo
+Bysen:Wikivar	Ŝablono:Wikivar
+Flocc:Brūcend fr-1	Kategorio:Vikipediisto fr-1
+Bysen:Wikiquote	Ŝablono:Vikicitaro
+Flocc:Americisc Awendung Wig	Kategorio:Usona Revolucio
+Bysen:Geānedu Rīcu American	Ŝablono:Usonaj ŝtatoj
+Bysen:Cyþþubox ieg	Ŝablono:Informkesto insulo
+Flocc:Circolwyrde gamen	Kategorio:Videoludo
+Bysen:Ambox	Ŝablono:ArtikolaMesaĝokesto
+Flocc:Americanisc stǣr	Kategorio:Historio de Usono
+Bysen:Infobox Country	Ŝablono:Informkesto lando
+Bysen:Max	Ŝablono:Max
+Bysen:Infobox Mīlitisc Gemōt	Ŝablono:Informkesto milito
+Bysen:Start box	Ŝablono:Komencskatolo
+Bysen:Infobox U.S. Scīr	Ŝablono:Informkesto usona kantono
+Bysen:Cleanup	Ŝablono:Polurinda
+Flocc:Crabbas	Kategorio:Kraboj
+Bysen:Cite journal	Ŝablono:Citaĵo el gazeto
+Bysen:Lang-ar	Ŝablono:Lang-ar
+Bysen:Brūcend es-0	Ŝablono:Vikipediisto es-0
+Bysen:Cite news	Ŝablono:Citaĵo el novaĵo
+Bysen:Featured article	Ŝablono:Elstara
+Flocc:Paris	Kategorio:Parizo
+Flocc:Brūcend en-4	Kategorio:Vikipediisto en-4
+Flocc:Brūcend en	Kategorio:Vikipediisto en
+Flocc:Croatia	Kategorio:Kroatio
+Flocc:Brūcend en-2	Kategorio:Vikipediisto en-2
+Bysen:Infobox	Ŝablono:Informkesto
+Bysen:Main other	Ŝablono:Ĉu artikolo
+Flocc:Francena cyningas	Kategorio:Francaj reĝoj
+Flocc:Stafas	Kategorio:Alfabeto
+Bysen:Template other	Ŝablono:Ĉu ŝablono
+Bysen:Legend	Ŝablono:Priskribo
+Flocc:Bryttisce wrīteras	Kategorio:Britaj verkistoj
+Bysen:Cite web	Ŝablono:Citaĵo el la reto
+Bysen:Imdb title	Ŝablono:IMDb titolo
+Bysen:Coor URL	Ŝablono:KoordinatojURL
+Bysen:Notice	Ŝablono:Bone!
+Bysen:Pp-template	Ŝablono:Pp-ŝablono
+Bysen:·	Ŝablono:·
+Bysen:Brūcend nl-1	Ŝablono:Vikipediisto nl-1
+Bysen:Infobox Winodland	Ŝablono:Urbo pl
+Bysen:Min	Ŝablono:Minimumo
+Bysen:Wiktionarypar2	Ŝablono:Vikivortaro
+Bysen:Brūcend nl-2	Ŝablono:Vikipediisto nl-2
+Flocc:Byrig on Dēnum	Kategorio:Urboj de Danio
+Flocc:Eorþtilþ	Kategorio:Agrikulturo
+Bysen:Pp-semi-template	Ŝablono:Pp-duone-ŝablono
+Flocc:Beorgas	Kategorio:Montoj
+Bysen:Brūcend ru	Ŝablono:Vikipediisto ru
+Flocc:20e gēarhundred	Kategorio:20-a jarcento
+Bysen:IPA	Ŝablono:IFA
+Bysen:Bēc þǣre Nīwan Gecȳþnesse	Ŝablono:Libroj de La Nova Testamento
+Bysen:USpresidents	Ŝablono:Prezidentoj de Usono
+Flocc:Bysen Brūcend Box Spræc	Kategorio:Babelaj ŝablonoj
+Bysen:LangWithName	Ŝablono:LingvoKunNomo
+Flocc:Hwæsingatūn	Kategorio:Vaŝingtonio
+Flocc:Wihta	Kategorio:Mitologiaj kreitaĵoj
+Bysen:Birth date and age	Ŝablono:Naskiĝdato kaj aĝo
+Bysen:MONTHNAME	Ŝablono:Nomo de monato
+Bysen:Sortname	Ŝablono:Ordiginomo
+Flocc:Gebēd	Kategorio:Preĝoj
+Bysen:Namespace detect	Ŝablono:Determinas nomspacon
+Flocc:19e gēarhundred	Kategorio:19-a jarcento
+Flocc:Wrīteras	Kategorio:Verkistoj
+Flocc:Eormengyld	Kategorio:Universitatoj
+Bysen:Lang-he	Ŝablono:Lang-he
+Bysen:Infobox OS	Ŝablono:Informkesto operaciumo
+Bysen:Both	Ŝablono:Booland
+Bysen:Brūcend pt-1	Ŝablono:Vikipediisto pt-1
+Flocc:Æfterra Gēola	Kategorio:Januaro
+Bysen:Lang-fa	Ŝablono:Lang-fa
+Bysen:End tab	Ŝablono:Fino de langetoj
+Bysen:Brūcend pl	Ŝablono:Vikipediisto pl
+Bysen:Brūcend nl	Ŝablono:Vikipediisto nl
+Bysen:Tab	Ŝablono:Langeto
+Bysen:Brūcend pl-0	Ŝablono:Vikipediisto pl-0
+Bysen:Brūcend no-2	Ŝablono:Vikipediisto no-2
+Bysen:Start tab	Ŝablono:Komenco de langetoj
+Bysen:Australia	Ŝablono:Aŭstraliaj ŝtatoj kaj teritorioj
+Bysen:Tlx	Ŝablono:Tlx
+Bysen:CAN	Ŝablono:CAN
+Bysen:Lang-de	Ŝablono:Lang-de
+Bysen:Lang-la	Ŝablono:Lang-la
+Bysen:Infobox Album	Ŝablono:Informkesto muzikalbumo
+Bysen:User	Ŝablono:Uzanto2
+Flocc:Flyhthæfenan on Fietname	Kategorio:Flughavenoj de Vietnamio
+Bysen:Brūcend pl-1	Ŝablono:Vikipediisto pl-1
+Flocc:Gebed	Kategorio:Kristanaj preĝoj
+Flocc:Cyningas of Englalande	Kategorio:Anglaj reĝoj
+Flocc:Bryttisce cyningas	Kategorio:Britaj reĝoj
+Bysen:Brūcend fr-3	Ŝablono:Vikipediisto fr-3
+Bysen:GRA mid rīce namum	Ŝablono:Usona mapo
+Bysen:Imdb name	Ŝablono:IMDb nomo
+Flocc:Tunisia	Kategorio:Tunizio
+Bysen:PD	Ŝablono:PD
+Bysen:Wikispell	Ŝablono:Vikinovaĵoj
+Bysen:Brūcend lt	Ŝablono:Vikipediisto lt
+Bysen:Cc-by-sa-2.0	Ŝablono:Cc-by-sa-2.0
+Bysen:Oppose	Ŝablono:Kontraŭ
+Bysen:Coord/link	Ŝablono:Koord/ligilo
+Bysen:Brūcend is-1	Ŝablono:Vikipediisto is-1
+Bysen:Brūcend is-2	Ŝablono:Vikipediisto is-2
+Bysen:Brūcend is	Ŝablono:Vikipediisto is
+Bysen:Brūcend de-0	Ŝablono:Vikipediisto de-0
+Bysen:Brūcend fr-5	Ŝablono:Vikipediisto fr-5
+Bysen:Brūcend en-5	Ŝablono:Vikipediisto en-5
+Bysen:Dagas þǣre wuce	Ŝablono:Tagoj de la semajno
+Bysen:Brūcend fr-0	Ŝablono:Vikipediisto fr-0
+Flocc:Norþ Carolīna	Kategorio:Norda Karolino
+Flocc:Puerto Rico	Kategorio:Porto-Riko
+Bysen:ColBreak	Ŝablono:Kolumnorompo
+Flocc:Byrig þāra Geāndena Rīca American	Kategorio:Urboj de Usono
+Bysen:Lang-ru	Ŝablono:Lang-ru
+Bysen:Brūcend it-0	Ŝablono:Vikipediisto it-0
+Flocc:Brittisca Here	Kategorio:Armeo de Britio
+Bysen:Disambig	Ŝablono:Apartigilo
+Bysen:Doi	Ŝablono:COI
+Flocc:Coreanisc stǣr	Kategorio:Historio de Koreio
+Bysen:Fb	Ŝablono:Fb
+Bysen:Lang-grc	Ŝablono:Lang-grc
+Bysen:Brūcend ksh	Ŝablono:Vikipediisto ksh
+Bysen:Infobox Film	Ŝablono:Informkesto filmo
+Bysen:Lang-en	Ŝablono:Lang-en
+Bysen:Monþes lengþ	Ŝablono:MONTHDAYS
+Flocc:Byrig on Belgum	Kategorio:Loĝareoj de Belgio
+Bysen:Brūcend sv-2	Ŝablono:Vikipediisto sv-2
+Bysen:Brūcend it-2	Ŝablono:Vikipediisto it-2
+Bysen:Lang-fr	Ŝablono:Lang-fr
+Bysen:Brūcend pt-0	Ŝablono:Vikipediisto pt-0
+Bysen:Betwuxwici	Ŝablono:Vikipedio
+Flocc:Byrig in þǣm Niðerlandum	Kategorio:Urboj de Nederlando
+Bysen:Coord	Ŝablono:Koord
+Bysen:Brūcend pt-3	Ŝablono:Vikipediisto pt-3
+Flocc:Byrig on Lincolnscīre	Kategorio:Urboj de Lincolnshire
+Bysen:TemplatePAGENAME	Ŝablono:ŜablonPAĜNOMO
+Bysen:Brūcend pt-2	Ŝablono:Vikipediisto pt-2
+Flocc:Wyoming	Kategorio:Vajomingo
+Bysen:Brūcend fr-4	Ŝablono:Vikipediisto fr-4
+Flocc:Grēneland	Kategorio:Gronlando
+Bysen:Brūcend la-1	Ŝablono:Vikipediisto la-1
+Bysen:Land on Europan	Ŝablono:Ŝtatoj en Eŭropo
+Bysen:Brūcend is-0	Ŝablono:Vikipediisto is-0
+Bysen:Brūcend el-0	Ŝablono:Vikipediisto el-0
+Flocc:User sk	Kategorio:Vikipediisto sk
+Flocc:Brūcend eo	Kategorio:Vikipediisto eo
+Flocc:Brūcend fr	Kategorio:Vikipediisto fr
+Flocc:Brūcend cy	Kategorio:Vikipediisto cy
+Flocc:Brūcend la	Kategorio:Vikipediisto la
+Flocc:Brūcend lt	Kategorio:Vikipediisto lt
+Flocc:Brūcend pt	Kategorio:Vikipediisto pt
+Flocc:Brūcend sv	Kategorio:Vikipediisto sv
+Flocc:Brūcend fr-3	Kategorio:Vikipediisto fr-3
+Flocc:Brūcend it-3	Kategorio:Vikipediisto it-3
+Flocc:Brūcend pl-3	Kategorio:Vikipediisto pl-3
+Flocc:Brūcend fi-1	Kategorio:Vikipediisto fi-1
+Flocc:Brūcend cy-1	Kategorio:Vikipediisto cy-1
+Flocc:Brūcend nl-1	Kategorio:Vikipediisto nl-1
+Flocc:Brūcend pl-1	Kategorio:Vikipediisto pl-1
+Flocc:Brūcend fr-4	Kategorio:Vikipediisto fr-4
+Flocc:Brūcend it-4	Kategorio:Vikipediisto it-4
+Flocc:Brūcend pl-4	Kategorio:Vikipediisto pl-4
+Flocc:Brūcend fr-2	Kategorio:Vikipediisto fr-2
+Flocc:Brūcend it-2	Kategorio:Vikipediisto it-2
+Flocc:Brūcend la-2	Kategorio:Vikipediisto la-2
+Flocc:Brūcend pl-2	Kategorio:Vikipediisto pl-2
+Flocc:Brūcend sv-2	Kategorio:Vikipediisto sv-2
+Flocc:Brūcend fr-M	Kategorio:Vikipediisto fr-D
+Flocc:Brūcend lt-N	Kategorio:Vikipediisto lt-D
+Flocc:Brūcend nl-M	Kategorio:Vikipediisto nl-D
+Flocc:Brūcend ru-M	Kategorio:Vikipediisto ru-D
+Flocc:Brūcend fr-5	Kategorio:Vikipediisto fr-5
+Flocc:Brūcend it-5	Kategorio:Vikipediisto it-5
+Flocc:Brūcend pl-5	Kategorio:Vikipediisto pl-5
+Flocc:Feormung	Kategorio:Distrado
+Flocc:Hēafodstōlas þæs Sericus Gārsecges	Kategorio:Ĉefurboj de Oceanio
+Flocc:Turcas and Caicos Īegland	Kategorio:Turkoj kaj Kajkoj
+Flocc:Articles that need to be wikified	Kategorio:Vikiigendaj artikoloj
+Flocc:Īega	Kategorio:Insuloj
+Flocc:Sericus Garsecg	Kategorio:Pacifika Oceano
+Flocc:User sk-N	Kategorio:Vikipediisto sk-D
+Flocc:Brūcend de	Kategorio:Vikipediisto de
+Flocc:Brūcend de-2	Kategorio:Vikipediisto de-2
+Flocc:Brūcend de-3	Kategorio:Vikipediisto de-3
+Flocc:Brūcend de-4	Kategorio:Vikipediisto de-4
+Flocc:Brūcend el	Kategorio:Vikipediisto el
+Flocc:Brūcend el-1	Kategorio:Vikipediisto el-1
+Flocc:Brūcend el-2	Kategorio:Vikipediisto el-2
+Flocc:Brūcend el-3	Kategorio:Vikipediisto el-3
+Flocc:Brūcend el-N	Kategorio:Vikipediisto el-D
+Flocc:Sūþgeorgia and þā Sūþsandwic Īegland	Kategorio:Sud-Georgio kaj Sud-Sandviĉinsuloj
+Flocc:Brūcend en-3	Kategorio:Vikipediisto en-3
+Flocc:Brūcend en-5	Kategorio:Vikipediisto en-5
+Flocc:Brūcend en-M	Kategorio:Vikipediisto en-D
+Flocc:Brūcend eo-2	Kategorio:Vikipediisto eo-2
+Flocc:Brūcend es	Kategorio:Vikipediisto es
+Flocc:Brūcend es-1	Kategorio:Vikipediisto es-1
+Flocc:Brūcend es-2	Kategorio:Vikipediisto es-2
+Flocc:Puilla	Kategorio:Apulio
+Flocc:Brūcend es-3	Kategorio:Vikipediisto es-3
+Flocc:Brūcend es-4	Kategorio:Vikipediisto es-4
+Flocc:Brūcend es-N	Kategorio:Vikipediisto es-D
+Flocc:Brūcend fi	Kategorio:Vikipediisto fi
+Flocc:Brūcend fi-M	Kategorio:Vikipediisto fi-D
+Flocc:Brūcend is	Kategorio:Vikipediisto is
+Flocc:Brūcend is-1	Kategorio:Vikipediisto is-1
+Bysen:Brūcend la-3	Ŝablono:Vikipediisto la-3
+Flocc:Frencisc Guiana	Kategorio:Franca Gviano
+Ǣht	Posedo
+Flocc:Hebrēisc sprǣc	Kategorio:Hebrea lingvo
+Flocc:Brūcend pt-3	Kategorio:Vikipediisto pt-3
+Flocc:Bryttisc bōccræft	Kategorio:Brita literaturo
+Flocc:Brūcend pl-N	Kategorio:Vikipediisto pl-D
+Flocc:Brūcend pt-1	Kategorio:Vikipediisto pt-1
+Flocc:Brūcend it	Kategorio:Vikipediisto it
+Flocc:Brūcend it-1	Kategorio:Vikipediisto it-1
+Flocc:Rīcu þāra Geāndena Rīca American	Kategorio:Usonaj ŝtatoj
+Flocc:Brūcend ksh	Kategorio:Vikipediisto ksh
+Flocc:Brūcend la-1	Kategorio:Vikipediisto la-1
+Flocc:Brūcend la-3	Kategorio:Vikipediisto la-3
+Bysen:Cite doi	Ŝablono:Cite doi
+Flocc:Fȳrbeorgas	Kategorio:Vulkanoj
+Flocc:Dēorabyscīr	Kategorio:Derbyshire
+Flocc:Byrig on Latie	Kategorio:Komunumoj de Latio
+Flocc:Feohtan	Kategorio:Luktoarto
+Flocc:Blōtmōnaþ	Kategorio:Novembro
+Wikipǣdia:Babel	Vikipedio:Babelejo
+Flocc:Lēodweard	Kategorio:Aŭtoritatuloj
+Flocc:Scopas	Kategorio:Poetoj
+Flocc:Hāligmōnaþ	Kategorio:Septembro
+Flocc:Winterfylleþ	Kategorio:Oktobro
+Flocc:Sǣ	Kategorio:Maroj
+Flocc:Gēolmōnaþ	Kategorio:Decembro
+Flocc:Wēodmōnaþ	Kategorio:Aŭgusto
+Flocc:Þrimilcemōnaþ	Kategorio:Majo
+Flocc:Brandenburg	Kategorio:Brandenburgio
+Flocc:Englaland	Kategorio:Anglio
+Seringas	Ĉinoj
+Flocc:Ēastermōnaþ	Kategorio:Aprilo
+Flocc:Līfnamrǣden	Kategorio:Taksonomio
+Bysen:Coord/dms2dec	Ŝablono:Koord/gmsaldek
+Flocc:Brūcend es-5	Kategorio:Vikipediisto es-5
+Flocc:Gestorfen in 988	Kategorio:Mortintoj en 988
+Flocc:Wæter	Kategorio:Akvo
+Flocc:Hēafod and swēor	Kategorio:Homaj kapo kaj kolo
+Flocc:Geboren in 121	Kategorio:Naskiĝintoj en 121
+Wikipǣdia:MediaWiki namespace	Helpo:Sistemaj mesaĝoj
+Flocc:Gestorfen in 180	Kategorio:Mortintoj en 180
+Flocc:Drincas	Kategorio:Trinkaĵoj
+Flocc:Gestorfen in 2005	Kategorio:Mortintoj en 2005
+Flocc:Geboren in 1974	Kategorio:Naskiĝintoj en 1974
+Flocc:Geboren in 1899	Kategorio:Naskiĝintoj en 1899
+Flocc:Oklahoma	Kategorio:Oklahomo
+Flocc:Iapanisc sangeras	Kategorio:Japanaj kantistoj
+Flocc:Forman Þegnas	Kategorio:Ĉefministroj
+Flocc:Geboren in 1954	Kategorio:Naskiĝintoj en 1954
+Flocc:Geboren in 850	Kategorio:Naskiĝintoj en 850
+Flocc:Hwītrussland	Kategorio:Belorusio
+Flocc:Alberta	Kategorio:Alberto
+Flocc:Ontario	Kategorio:Ontario
+Flocc:Nīwe Scotland	Kategorio:Nov-Skotio
+Flocc:Gestorfen in 899	Kategorio:Mortintoj en 899
+Flocc:Geocon Landscipe	Kategorio:Jukonio
+Flocc:Massachusetts	Kategorio:Masaĉuseco
+Flocc:Gestorfen in 924	Kategorio:Mortintoj en 924
+Flocc:Land on Affrice	Kategorio:Afrikaj landoj
+Bysen:Canadan underrīce	Ŝablono:Provincoj de Kanado
+Flocc:Geboren in 1239	Kategorio:Naskiĝintoj en 1239
+Flocc:1249	Kategorio:1249
+Bysen:Brūcend la-0	Ŝablono:Vikipediisto la-0
+Flocc:Gestorfen in 1305	Kategorio:Mortintoj en 1305
+Bysen:Brūcend pt-4	Ŝablono:Vikipediisto pt-4
+Bysen:Brūcend es-3	Ŝablono:Vikipediisto es-3
+Flocc:Ēa Franclandes	Kategorio:Riveroj en Francio
+Bysen:Incumbent succession box	Ŝablono:Sukcedo postenulo
+Flocc:Brūcend pt-2	Kategorio:Vikipediisto pt-2
+Flocc:Brūcend pt-4	Kategorio:Vikipediisto pt-4
+Flocc:Brūcend pt-5	Kategorio:Vikipediisto pt-5
+Flocc:Brūcend pt-N	Kategorio:Vikipediisto pt-D
+Flocc:Brūcend ru	Kategorio:Vikipediisto ru
+Flocc:Brūcend sv-M	Kategorio:Vikipediisto sv-D
+Flocc:1634	Kategorio:1634
+Flocc:1638	Kategorio:1638
+Bysen:En icon	Ŝablono:En
+Flocc:1719	Kategorio:1719
+Flocc:Gestorfen in 1719	Kategorio:Mortintoj en 1719
+Flocc:121	Kategorio:121
+Bysen:Lang	Ŝablono:Lang
+Flocc:Trēowu	Kategorio:Arboj
+Bysen:Infobox ea	Ŝablono:Riveroj
+Flocc:Geboren in 1634	Kategorio:Naskiĝintoj en 1634
+Flocc:Geboren in 1638	Kategorio:Naskiĝintoj en 1638
+Flocc:Geboren in 1852	Kategorio:Naskiĝintoj en 1852
+Flocc:Geboren in 1892	Kategorio:Naskiĝintoj en 1892
+Flocc:Geboren in 1918	Kategorio:Naskiĝintoj en 1918
+Flocc:Geboren in 1945	Kategorio:Naskiĝintoj en 1945
+Flocc:Geboren in 1949	Kategorio:Naskiĝintoj en 1949
+Flocc:Geboren in 1981	Kategorio:Naskiĝintoj en 1981
+Flocc:Geboren in 1993	Kategorio:Naskiĝintoj en 1993
+Flocc:1715	Kategorio:1715
+Flocc:11e gēarhundred	Kategorio:11-a jarcento
+Flocc:10e gēarhundred	Kategorio:10-a jarcento
+Flocc:7e gēarhundred	Kategorio:7-a jarcento
+Flocc:Gestorfen in 1307	Kategorio:Mortintoj en 1307
+Flocc:Corsica	Kategorio:Korsiko
+Flocc:Gestorfen in 1715	Kategorio:Mortintoj en 1715
+Flocc:Russisce bōccræft	Kategorio:Literaturo de Rusio
+Flocc:Sardinia	Kategorio:Sardio
+Flocc:Florida	Kategorio:Florido
+Flocc:Normandig	Kategorio:Normandio
+Bysen:Coord/dec2dms/dm	Ŝablono:Koord/dekalgms/gm
+Flocc:Francena caseras	Kategorio:Imperiestroj de Francio
+Flocc:Nevada	Kategorio:Nevado
+Flocc:Nebraska	Kategorio:Nebrasko
+Flocc:Norþ Dakota	Kategorio:Norda Dakoto
+Flocc:Nīwe Eoforwīc	Kategorio:Nov-Jorkio
+Flocc:Rhode Īeg	Kategorio:Rod-Insulo
+Flocc:Louisiāna	Kategorio:Luiziano
+Flocc:Marianland	Kategorio:Marilando
+Flocc:Maine	Kategorio:Majno
+Flocc:Minnesota	Kategorio:Minesoto
+Flocc:Michigan	Kategorio:Miĉigano
+Flocc:Mississippi	Kategorio:Misisipio
+Flocc:Missouri	Kategorio:Misurio
+Flocc:Vermont	Kategorio:Vermonto
+Flocc:Virginia	Kategorio:Virginio
+Flocc:Idaho	Kategorio:Idaho
+Flocc:Iowa	Kategorio:Iovao
+Flocc:Arkansas	Kategorio:Arkansaso
+Flocc:Alaska	Kategorio:Alasko
+Flocc:Arizona	Kategorio:Arizono
+Flocc:Alabama	Kategorio:Alabamo
+Flocc:Ohio	Kategorio:Ohio
+Flocc:Westvirginia	Kategorio:Okcidenta Virginio
+Flocc:Wisconsin	Kategorio:Viskonsino
+Flocc:Indiāna	Kategorio:Indianio
+Flocc:Illinois	Kategorio:Ilinojo
+Flocc:Kansas	Kategorio:Kansaso
+Flocc:California	Kategorio:Kalifornio
+Flocc:Kentucky	Kategorio:Kentukio
+Flocc:Connecticut	Kategorio:Konektikuto
+Flocc:Colorado	Kategorio:Koloradio
+Flocc:Texas	Kategorio:Teksaso
+Flocc:Hawaii	Kategorio:Havajo
+Bysen:Fs end	Ŝablono:Fs end
+Bysen:Fs start	Ŝablono:Fs start
+Flocc:Ōðru Woruldgūþ	Kategorio:Dua mondmilito
+Flocc:Nīwes Sǣlandes byrig	Kategorio:Urboj de Nov-Zelando
+Flocc:Hundas	Kategorio:Hundoj
+Flocc:OS X gamen	Kategorio:Videoludoj ludeblaj per Mac Os
+Flocc:Cattas	Kategorio:Felisedoj
+Flocc:Russisce wrīteras	Kategorio:Rusiaj verkistoj
+Bysen:•	Ŝablono:•
+Flocc:Gestorfen in 1066	Kategorio:Mortintoj en 1066
+Flocc:Angola	Kategorio:Angolo
+Flocc:Botswana	Kategorio:Bocvano
+Flocc:Elpendbānrima	Kategorio:Ebur-Bordo
+Flocc:Æriþrea	Kategorio:Eritreo
+Flocc:Gabon	Kategorio:Gabono
+Flocc:Gambia	Kategorio:Gambio
+Flocc:Guinea	Kategorio:Gvineo
+Flocc:Camerun	Kategorio:Kameruno
+Flocc:Grēnenæs Īega	Kategorio:Kabo-Verdo
+Flocc:Cenia	Kategorio:Kenjo
+Flocc:Liberia	Kategorio:Liberio
+Flocc:Libia	Kategorio:Libio
+Flocc:Morocco	Kategorio:Maroko
+Flocc:Mauritania	Kategorio:Maŭritanio
+Flocc:1451	Kategorio:1451
+Flocc:Namibia	Kategorio:Namibio
+Flocc:Delaware	Kategorio:Delavaro
+Flocc:Georgia (America)	Kategorio:Georgio
+Flocc:Montāna	Kategorio:Montano
+Bysen:Merge	Ŝablono:Kunigu
+Flocc:Tennessee	Kategorio:Tenesio
+Bysen:Sūðamerica	Ŝablono:Sudameriko
+Flocc:Baden-Wyrttemberg	Kategorio:Baden-Virtembergo
+Flocc:1852	Kategorio:1852
+Flocc:1892	Kategorio:1892
+Flocc:Gestorfen in 1926	Kategorio:Mortintoj en 1926
+Flocc:1973	Kategorio:1973
+Flocc:Gestorfen in 1973	Kategorio:Mortintoj en 1973
+Flocc:1975	Kategorio:1975
+Flocc:1981	Kategorio:1981
+Flocc:Gestorfen in 1982	Kategorio:Mortintoj en 1982
+Flocc:2004	Kategorio:2004
+Flocc:Gestorfen in 2004	Kategorio:Mortintoj en 2004
+Flocc:2005	Kategorio:2005
+Flocc:2006	Kategorio:2006
+Flocc:2007	Kategorio:2007
+Flocc:2008	Kategorio:2008
+Flocc:Ēa	Kategorio:Riveroj
+Bysen:Brūcend el-2	Ŝablono:Vikipediisto el-2
+Bysen:Brūcend no-1	Ŝablono:Vikipediisto no-1
+Bysen:Brūcend pl-2	Ŝablono:Vikipediisto pl-2
+Bysen:Brūcend pt	Ŝablono:Vikipediisto pt
+Flocc:Sūþsudan	Kategorio:Sud-Sudano
+Flocc:Cead	Kategorio:Ĉado
+Flocc:Uganda	Kategorio:Ugando
+Flocc:Rōmānisce Cāseras	Kategorio:Romiaj imperiestroj
+Flocc:Brūcend nl	Kategorio:Vikipediisto nl
+Flocc:Sūþhjaltland	Kategorio:Sudaj Ŝetlandaj Insuloj
+Flocc:Brūcend no-1	Kategorio:Vikipediisto no-1
+Flocc:Brūcend no-2	Kategorio:Vikipediisto no-2
+Flocc:Brūcend no	Kategorio:Vikipediisto no
+Flocc:Niðerlanda Cyningas	Kategorio:Reĝoj de Nederlando
+Flocc:Norrena cyningas	Kategorio:Norvegaj reĝoj
+Flocc:Swēona cyningas	Kategorio:Svedaj reĝoj
+Flocc:Armenia	Kategorio:Armenio
+Flocc:Bahrain	Kategorio:Barejno
+Flocc:Mennisc bodiȝlār	Kategorio:Homa anatomio
+Flocc:Feorrsīen	Kategorio:Televido
+Flocc:14e gēarhundred	Kategorio:14-a jarcento
+Flocc:13e gēarhundred	Kategorio:13-a jarcento
+Flocc:2e gēarhundred	Kategorio:2-a jarcento
+Flocc:4e gēarhundred	Kategorio:4-a jarcento
+Flocc:5e gēarhundred	Kategorio:5-a jarcento
+Flocc:18e gēarhundred	Kategorio:18-a jarcento
+Flocc:6e gēarhundred	Kategorio:6-a jarcento
+Flocc:Arabea	Kategorio:Arabio
+Flocc:Nīwlicu Word	Kategorio:Neologismoj
+Flocc:Nīwesǣlendisce wrīteras	Kategorio:Novzelandaj verkistoj
+Flocc:Seaxland-Anhalt	Kategorio:Saksio-Anhalto
+Flocc:Niðerseaxland	Kategorio:Malsupra Saksio
+Flocc:Russe	Kategorio:Rusoj
+Flocc:Unƿǣre lēode	Kategorio:Fikciuloj
+Flocc:Crēcisc ūtwitan	Kategorio:Grekaj filozofoj
+Flocc:Sūþseaxe	Kategorio:Sussex
+Flocc:Bægwaraland	Kategorio:Bavario
+Flocc:Ēage	Kategorio:Okulo
+Flocc:Corn	Kategorio:Cerealoj
+Flocc:Nīweoforwīcburg	Kategorio:Novjorko
+Flocc:Norþfolc	Kategorio:Norfolk
+Flocc:Norþhāmtūnescīr	Kategorio:Northamptonshire
+Flocc:Snotingahāmscīr	Kategorio:Nottinghamshire
+Flocc:15e gēarhundred	Kategorio:15-a jarcento
+Flocc:Georgia (land)	Kategorio:Kartvelio
+Flocc:Cambodia	Kategorio:Kamboĝo
+Flocc:Americanisc sangeras	Kategorio:Usonaj kantistoj
+Flocc:Bryttisce scopas	Kategorio:Britaj poetoj
+Flocc:Stǣr þæs Cynerices Greatbryttenes	Kategorio:Historio de Britio
+Flocc:Iamaica	Kategorio:Jamajko
+Flocc:Scotta cyningas	Kategorio:Skotlandaj reĝoj
+Flocc:Bryttiscan Fæmne Īegland	Kategorio:Britaj Virgulininsuloj
+Flocc:Corēa	Kategorio:Koreio
+Flocc:Burma	Kategorio:Birmo
+Flocc:Taprabane	Kategorio:Sri-Lanko
+Flocc:Tacgicastan	Kategorio:Taĝikio
+Flocc:Ēasttimor	Kategorio:Orienta Timoro
+Flocc:Turcmenistan	Kategorio:Turkmenio
+Flocc:Usbecastan	Kategorio:Uzbekio
+Flocc:Geānedan Arabiscan Bregorīce	Kategorio:Unuiĝintaj Arabaj Emirlandoj
+Flocc:9e gēarhundred	Kategorio:9-a jarcento
+Flocc:Sofiet Gesamnung	Kategorio:Sovetunio
+Bysen:Brūcend de-4	Ŝablono:Vikipediisto de-4
+Flocc:Searwa stycce	Kategorio:Ĝermoj pri teknologio
+Flocc:Wēalas	Kategorio:Kimrio
+Flocc:Foresittendas þāra Geāndena Rīca American	Kategorio:Prezidantoj de Usono
+Flocc:Europisc stǣr	Kategorio:Historio de Eŭropo
+Flocc:Hascemisce Cynerīce þæs Iordanes	Kategorio:Jordanio
+Flocc:Bosnia and Herzegovina	Kategorio:Bosnio kaj Hercegovino
+Flocc:Norþweg	Kategorio:Norvegio
+Flocc:Barbados	Kategorio:Barbado
+Flocc:Paraguay	Kategorio:Paragvajo
+Flocc:Ficgiege	Kategorio:Fiĝioj
+Flocc:Lēohtenstān	Kategorio:Liĥtenŝtejno
+Flocc:Uruguay	Kategorio:Urugvajo
+Flocc:Andorra	Kategorio:Andoro
+Flocc:Serbia	Kategorio:Serbio
+Flocc:Ecuador	Kategorio:Ekvadoro
+Flocc:Peru	Kategorio:Peruo
+Flocc:Bolifia	Kategorio:Bolivio
+Flocc:Albania	Kategorio:Albanio
+Flocc:Monaco	Kategorio:Monako
+Flocc:Land on Norðamerican	Kategorio:Nordamerikaj landoj
+Flocc:Fiscas	Kategorio:Fiŝoj
+Flocc:Wyrta	Kategorio:Legomoj
+Flocc:Ofet	Kategorio:Fruktoj
+Flocc:Nīwu Gecȳþnes	Kategorio:Nova testamento
+Flocc:Musea	Kategorio:Muzeoj
+Flocc:Landscipas Swēolandes	Kategorio:Modernaj provincoj de Svedio
+Flocc:Stǣrlice Sprǣccræft	Kategorio:Historia lingvoscienco
+Flocc:Dūnholmscīr	Kategorio:County Durham
+Flocc:Manga	Kategorio:Mangao
+Flocc:Eoferwicscīr	Kategorio:Yorkshire
+Flocc:Calpis	Kategorio:Ĝibraltaro
+Flocc:Beadwe	Kategorio:Bataloj
+Flocc:Weorcendebyrdnessa	Kategorio:Operaciumoj
+Flocc:Mexicorīce	Kategorio:Provincoj de Meksiko
+Flocc:Hetwaraland	Kategorio:Hesio
+Flocc:Canadan underrīce and landscipas	Kategorio:Kanadaj provincoj
+Flocc:Lunden	Kategorio:Londono
+Flocc:Lincolnscīr	Kategorio:Lincolnshire
+Bysen:Incubator	Ŝablono:Inkubejo
+Flocc:Dæg þæs gēares	Kategorio:Almanako
+Flocc:Wikimedian geweorc	Kategorio:Vikimedio
+Flocc:Byrig on Buccingahamscīre	Kategorio:Urboj de Buckinghamshire
+Flocc:Wiltūnscīr	Kategorio:Wiltshire
+Flocc:Wigreceastrescīr	Kategorio:Worcestershire
+Flocc:Americanisce Ingefeoht	Kategorio:Usona Enlanda Milito
+Flocc:Byrig on Tuscanie	Kategorio:Komunumoj de Toskanio
+Flocc:Dēor	Kategorio:Bestoj
+Flocc:Hweorfdēor	Kategorio:Vertebruloj
+Flocc:Pitcearnīega	Kategorio:Pitkarna Insularo
+Flocc:Cægman Īegland	Kategorio:Kajmaninsuloj
+Flocc:Folcland Īegland	Kategorio:Insuloj Falklandoj-Malvinoj
+Flocc:Land on Sūðamerican	Kategorio:Sudamerikaj landoj
+Flocc:Colombia	Kategorio:Kolombio
+Flocc:Anime	Kategorio:Animeo
+Flocc:Oxnafordscīr	Kategorio:Oxfordshire
+Flocc:Hociȝ	Kategorio:Hokeo
+Flocc:Heortfordscīr	Kategorio:Hertfordshire
+Flocc:Sicilia	Kategorio:Sicilio
+Flocc:Grantabrycgscīr	Kategorio:Cambridgeshire
+Flocc:Þēodacynewīse	Kategorio:Komunumo de Nacioj
+Flocc:Līþ	Kategorio:Alkoholaĵoj
+Flocc:Spearctellas	Kategorio:Videoludaj konzoloj
+Flocc:Englisc scīr	Kategorio:Graflandoj de Anglio
+Flocc:Æþelingas	Kategorio:Princoj
+Flocc:Sūþrige	Kategorio:Surrey
+Flocc:Rōmāniscu Folclār	Kategorio:Romia mitologio
+Flocc:Bergan	Kategorio:Beroj
+Flocc:Bēor	Kategorio:Biero
+Flocc:Sang	Kategorio:Kantoj
+Flocc:Hēafodstōlas	Kategorio:Ĉefurboj
+Flocc:Stōwlice hēafodstōlas Canadan	Kategorio:Urboj de Kanado
+Flocc:Ēastseaxe	Kategorio:Essex
+Flocc:Middelasia	Kategorio:Centra Azio
+Flocc:Indisca Underworulddǣl	Kategorio:Suda Azio
+Flocc:Tuscania	Kategorio:Toskanio
+Flocc:Latium	Kategorio:Latio
+Flocc:Lonceasterscīr	Kategorio:Lancashire
+Flocc:Brūcend pl	Kategorio:Vikipediisto pl
+Flocc:Gleawcesterscīr	Kategorio:Gloucestershire
+Flocc:Rōmānisca sprǣca	Kategorio:Latinida lingvaro
+Flocc:Fōr	Kategorio:Transporto
+Flocc:Sund	Kategorio:Naĝado
+Flocc:Hēapplegan	Kategorio:Teama sporto
+Flocc:Toys	Kategorio:Ludiloj
+Flocc:Hīwscipe	Kategorio:Familio
+Flocc:Cornweall	Kategorio:Kornvalo
+Flocc:Cīna Caseras	Kategorio:Imperiestroj de Ĉinio
+Flocc:Antarctica	Kategorio:Antarkto
+Flocc:Norðamerica	Kategorio:Nordameriko
+Flocc:Sangestre	Kategorio:Kantistoj
+Flocc:Euxinus	Kategorio:Nigra Maro
+Flocc:Meras	Kategorio:Lagoj
+Flocc:Sweartbeorg	Kategorio:Montenegro
+Flocc:Indisc Gārsecg	Kategorio:Hinda Oceano
+Flocc:Wægnas	Kategorio:Aŭtomobiloj
+Bysen:Brūcend af-2	Ŝablono:Vikipediisto af-2
+Wealhmoru	Karoto
+Flocc:Cent	Kategorio:Kent
+Flocc:Byrig on Fietname	Kategorio:Urboj de Vjetnamio
+Flocc:Byrig on þǣm Ucrægnan	Kategorio:Urboj de Ukrainio
+Flocc:Byrig on Eotolwarum	Kategorio:Urboj de Italio
+Flocc:Beorgas on Brettum	Kategorio:Montoj en Britio
+Flocc:Scotland	Kategorio:Skotlando
+Flocc:Spēonisc bōccræft	Kategorio:Hispana literaturo
+Flocc:Hēafodstōlas in Europe	Kategorio:Ĉefurboj de Eŭropo
+Flocc:Hēafodstōlas in Asie	Kategorio:Ĉefurboj de Azio
+Flocc:Norðerne Īrland	Kategorio:Nord-Irlando
+Flocc:Nīwesǣlendisc bōccræft	Kategorio:Novzelanda literaturo
+Flocc:Īrisc bōccræft	Kategorio:Irlanda literaturo
+Bysen:CompactTOC	Ŝablono:Indekso
+Flocc:Geāsparedu līc	Kategorio:Mumioj
+Flocc:Wendelsǣ	Kategorio:Mediteraneo
+Flocc:Brūcend de-5	Kategorio:Vikipediisto de-5
+Bysen:Color box	Ŝablono:Kolora kesto
+Bysen:Coord/dec2dms/dms	Ŝablono:Koord/dekalgms/gms
+Bysen:Coord/input/d	Ŝablono:Koord/enigu/g
+Bysen:Coord/input/dm	Ŝablono:Koord/enigu/gm
+Bysen:Coord/input/dms	Ŝablono:Koord/enigu/gms
+Bysen:Coord/prec dec	Ŝablono:Koord/prec dek
+Bysen:Flag	Ŝablono:Flago
+Bysen:Lang-pl	Ŝablono:Lang-pl
+Bysen:Brūcend pl-3	Ŝablono:Vikipediisto pl-3
+Bysen:Brūcend pl-4	Ŝablono:Vikipediisto pl-4
+Flocc:Flæmingaland	Kategorio:Flandrio
+Trojany (Masovian Voivodship)	Trojany
+Flocc:Willelm Shakespeare	Kategorio:William Shakespeare
+Flocc:Byrig þāra Faroiscan Īegena	Kategorio:Urboj kaj vilaĝoj de la Ferooj
+Flocc:Sigelhearwena Cāseras	Kategorio:Imperiestroj de Etiopio
+Flocc:Land on Asie	Kategorio:Aziaj landoj
+Flocc:Windows gamen	Kategorio:Videoludoj ludeblaj per Vindozo
+Bysen:Landskap	Ŝablono:Provincoj de Svedio
+Flocc:Wicibōceras in þǣm Geānlǣhtum Rīcum American	Kategorio:Vikipediistoj de Usono
+Bysen:Brūcend la-4	Ŝablono:Vikipediisto la-4
+Bysen:Brūcend it-4	Ŝablono:Vikipediisto it-4
+Bysen:Brūcend is-4	Ŝablono:Vikipediisto is-4
+Bysen:Brūcend is-3	Ŝablono:Vikipediisto is-3
+Bysen:Brūcend el-4	Ŝablono:Vikipediisto el-4
+Bysen:Brūcend el-3	Ŝablono:Vikipediisto el-3
+Bysen:Brūcend cy-1	Ŝablono:Vikipediisto cy-1
+Bysen:Lang-ro	Ŝablono:Lang-ro
+Flocc:Wæringscīr	Kategorio:Warwickshire
+Flocc:Wīcinga Ieldu	Kategorio:Vikingoj
+Flocc:Seolh	Kategorio:Fokuloj
+Flocc:Quebec	Kategorio:Kebekio
+Flocc:Ostsǣ	Kategorio:Balta Maro
+Flocc:Bysen Brūcend Box	Kategorio:Uzantoskatolo
+Flocc:Dēaþstīele glīwdrēame clīwene	Kategorio:Mortmetalrokaj muzikaj grupoj
+Flocc:Gūþ	Kategorio:Milito
+Flocc:Ēastgermanisca sprǣca	Kategorio:Orientĝermana lingvaro
+Flocc:Lēoðlic scātung	Kategorio:Arta sketado
+Flocc:Frencisc Polynesia	Kategorio:Franca Polinezio
+Bysen:Brūcend it-5	Ŝablono:Vikipediisto it-5
+Flocc:Germanisca sprǣca	Kategorio:Ĝermana lingvaro
+Flocc:Rōmānisc stǣr	Kategorio:Historio de Romo
+Flocc:Īshocig	Kategorio:Glacihokeo
+Wikipǣdia:Edit conflicts	Helpo:Redaktokonflikto
+Flocc:Īrland	Kategorio:Irlando
+Flocc:Constantinopolis	Kategorio:Istanbulo
+Wikipǣdia:Page history	Helpo:Historio de paĝo
+Flocc:Mintan	Kategorio:Lamiacoj
+Flocc:Lægreceastrescīr	Kategorio:Leicestershire
+Flocc:Langbeardnaland	Kategorio:Lombardio
+Wikipǣdia:Show preview	Helpo:Antaŭrigardo
+Flocc:Rōm	Kategorio:Romo
+Flocc:Norþhymbraland	Kategorio:Northumberland
+Flocc:Rūncræft	Kategorio:Runoj
+Flocc:Scipu	Kategorio:Ŝipoj
+Flocc:Scrobbesbyrigscīr	Kategorio:Shropshire
+Flocc:Byrig on Gleawcesterscīre	Kategorio:Urboj de Gloucestershire
+Flocc:Napoleon I Francena Casere	Kategorio:Napoleono Bonaparte
+Flocc:Byrig on Nīwum Hāmtūnscīre	Kategorio:Urboj de Nov-Hampŝiro
+Flocc:Byrig on Lonceasterscīre	Kategorio:Urboj de Lancashire
+Flocc:Americanisc fōtball	Kategorio:Usona piedpilko
+Flocc:Bermuda	Kategorio:Bermudo
+Flocc:Bearrucscīr	Kategorio:Berkshire
+Flocc:Byrig on Bearrucscīre	Kategorio:Urboj de Berkshire
+Flocc:Norþgermanisca sprǣca	Kategorio:Nordĝermana lingvaro
+Flocc:São Paulo	Kategorio:San-Paŭlo (urbo)
+Flocc:Ucrægnisc sprǣc	Kategorio:Ukraina lingvo
+Flocc:Westgermanisca sprǣca	Kategorio:Okcidentĝermana lingvaro
+Flocc:Byrig on Cent	Kategorio:Urboj de Kent
+Flocc:Byrig on Oxnafordscīre	Kategorio:Urboj de Oxfordshire
+Flocc:Dȳfung	Kategorio:Subakvado
+Flocc:Byrig on Scrobbesbyrigscīre	Kategorio:Urboj de Shropshire
+Flocc:Byrig on Wigreceastrescīre	Kategorio:Urboj de Worcestershire
+Flocc:Byrig on Wæringscīre	Kategorio:Urboj de Warwickshire
+Flocc:Byrig on Wiltūnscīre	Kategorio:Urboj de Wiltshire
+Flocc:Nīwre Gecȳþnesse bōc	Kategorio:Libroj de la Nova Testamento
+Flocc:Celtisc sprǣc	Kategorio:Kelta lingvaro
+Flocc:Coritiba Foot Ball Club	Kategorio:Coritiba Foot Ball Club
+Flocc:Bryttisce Scīre	Kategorio:Graflandoj de Britio
+Flocc:Landscipas Denemearce	Kategorio:Duoninsuloj en Danio
+Flocc:Wendelsǣs īega	Kategorio:Mediteraneaj insuloj
+Flocc:Byrig on Brasile	Kategorio:Municipoj de Brazilo
+Flocc:Byrig on Ēastseaxum	Kategorio:Urboj de East Sussex
+Flocc:Byrig on Russum	Kategorio:Loĝlokoj de Rusio
+Flocc:Byrig	Kategorio:Urboj
+Flocc:Personal life	Kategorio:Ĉiutaga vivo
+Flocc:Byrig on Brettum	Kategorio:Urboj de Britio
+Bysen:Coord/display/title	Ŝablono:Koord/montru/titolo
+Bysen:Year in other calendars	Ŝablono:Jaro en la aliaj kalendaroj
+Flocc:Byrig on Grēnelande	Kategorio:Urboj de Gronlando
+Flocc:Brūcend en-1	Kategorio:Vikipediisto en-1
+Flocc:Geboren in 1946	Kategorio:Naskiĝintoj en 1946
+Flocc:Brūcend de-1	Kategorio:Vikipediisto de-1
+Flocc:Geboren in 1920	Kategorio:Naskiĝintoj en 1920
+Flocc:Byrig on Spēnum	Kategorio:Vilaĝoj de Hispanio
+Flocc:Germanisc mægþ	Kategorio:Ĝermanoj
+Flocc:Īrisce Scīre	Kategorio:Graflandoj de Irlando
+Flocc:Skrælingcynn	Kategorio:Indianoj
+Flocc:Byrig on Eoferwicscīre	Kategorio:Urboj de Yorkshire
+Bysen:Brūcend pl-5	Ŝablono:Vikipediisto pl-5
+Bysen:Mennisc bodiglārlicu ansīen	Ŝablono:Homa anatomio
+Bysen:Portas	Ŝablono:Portaloj
+Bysen:Brūcend cy-0	Ŝablono:Vikipediisto cy-0
+Bysen:Brūcend ang-1	Ŝablono:Vikipediisto ang-1
+Bleohcrāwe	Garolo
+Bysen:Brūcend pt-5	Ŝablono:Vikipediisto pt-5
+Swǣfe	Ŝvaboj
+Wikipǣdia:Templates	Vikipedio:Ŝablono
+Wikipǣdia:Deletion log	Vikipedio:Loglibro de forigoj
+Læsse Asia	Malgrandazio
+Bysen:End	Ŝablono:Finskatolo
+Peru (ofet)	Piro
+Lorde	Lorde
+Wikipǣdia:Administrators' reading list	Vikipedio:Legindaj paĝoj por administrantoj
+Module:Yesno	Modulo:Yesno
+Yun Hyon-seok	Yun Hyon-seok
+Syndrig:RecentChanges	Specialaĵo:Lastaj ŝanĝoj
+Flocc:Byrig on Langbeardum	Kategorio:Komunumoj de Lombardio
+Flocc:Gestorfen in 1975	Kategorio:Mortintoj en 1975
+Tæfl	Henefataflo

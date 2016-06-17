@@ -1,0 +1,1162 @@
+ທະວີບອາຟະລິກ	Afriko
+ປະເທດຍີ່ປຸ່ນ	Japanio
+ທະວີບອາເມລິກາໃຕ້	Sudameriko
+ປະເທດນອກແວດ	Norvegio
+ປະເທດອັງກິດ	Anglio
+ປະເທດເອກົດ	Skotlando
+ປະເທດການ	Kimrio
+ປະເທດອຽກລັງ	Irlando
+ປະເທດຮົງກະລີ	Hungario
+ປະເທດແອສະປາຍ	Hispanio
+ສະຫະລັດອາເມລິກາ	Usono
+ປະເທດແບນຊິກ	Belgio
+ປະເທດລູກຊຳບວກ	Luksemburgo (lando)
+ໂລກ	Tero
+ປະເທດແຟງລັງ	Finnlando
+ປະເທດຊູແອດ	Svedio
+ປະເທດດານມາກ	Danio
+ປະເທດໂປໂລຍ	Pollando
+ປະເທດລີຕົວນີ	Litovio
+ປະເທດອິຕາລີ	Italio
+ປະເທດສະວິດ	Svislando
+ປະເທດໂອຕະລິດ	Aŭstrio
+ປະເທດກະແລັດ	Grekio
+ປະເທດຕວກກີ	Turkio
+ເບຍ	Biero
+ປະເທດປອກຕຸຍການ	Portugalio
+ທະວີບເອີລົບ	Eŭropo
+ອາຊີ	Azio
+ທະວີບອາເມລິກາເໜືອ	Nordameriko
+ທະວີບອັງຕາກຕິກ	Antarkto
+ວິກິພີເດຍ	Vikipedio
+ປະເທດໂຮນລັງ	Nederlando
+ຄອມພິວເຕີ	Komputilo
+ອິນເຕີເນັດ	Interreto
+ບາຣັກ ໂອບາມາ	Barack Obama
+ປະເທດອູຣູກວາຍ	Urugvajo
+ຈັກພິມ	Presilo
+ລອນດອນ	Londono
+ປາລີ	Parizo
+ແອນດຣອຍດ໌	Android
+ກູໂກລ	Google
+ປະເທດເມັກຊິກ	Meksiko
+ມະຫາສະໝຸດອັດລັງຕິກ	Atlantika Oceano
+ມະຫາສະໝຸດປາຊີຟິກ	Pacifika Oceano
+ວັນຈັນ	Lundo
+ເດືອນມັງກອນ	Januaro
+ກຸມພາ	Februaro
+ມີນາ	Marto
+ເມສາ	Aprilo
+ພຶດສະພາ	Majo
+ມິຖຸນາ	Junio
+ກໍລະກົດ	Julio
+ສິງຫາ	Aŭgusto
+ກັນຍາ	Septembro
+ຕຸລາ	Oktobro
+ພະຈິກ	Novembro
+ທັນວາ	Decembro
+ວັນອັງຄານ	Mardo
+ວັນພຸດ	Merkredo
+ວັນພະຫັດ	Ĵaŭdo
+ວັນສຸກ	Vendredo
+ວັນເສົາ	Sabato
+ວັນອາທິດ	Dimanĉo
+ປະເທດຝະລັ່ງ	Francio
+ໝາ	Hundo
+ສະຫະລາຊະອານາຈັກ	Unuiĝinta Reĝlando
+ແມວ	Hejma kato
+ປະເທດຈີນ	Ĉina Popola Respubliko
+ພາສາຝະລັ່ງ	Franca lingvo
+ປະເທດບະເຣຊິນ	Brazilo
+ປະເທດລັດເຊຍ	Rusio
+ຮູບຈັດຕຸລັດ	Kvadrato (geometrio)
+ທະເລ	Maro
+ແຂວງເກແບັກ	Kebekio
+ປະເທດເຢຍລະມັນ	Germanio
+ປະເທດບີເອໂລລຸດ	Belorusio
+ປະເທດອີສະລັງ	Islando
+ປະເທດແອສະໂຕນີ	Estonio
+ຍົນ	Aviadilo
+ຮູບສີ່ແຈສາກ	Ortangulo
+ມຸມສາກ	Orto
+ປະເທດແລດໂຕນີ	Latvio
+ປະເທດອູກະແລນ	Ukrainio
+ສາທາລະນະລັດແຊັກ	Ĉeĥio
+ປະເທດສະໂລວາກີ	Slovakio
+ປະເທດສະໂລເວນີ	Slovenio
+ປະເທດລູມານີ	Rumanio
+ປະເທດບູນກາລີ	Bulgario
+ປະເທດມາເຊດວນ	Respubliko Makedonio
+ປະເທດກະໂລອາຊີ	Kroatio
+ປະເທດບົດສະນີແຮກເຊໂກວີນ	Bosnio kaj Hercegovino
+ປະເທດອາແຊກບາຍຊັງ	Azerbajĝano
+ປະເທດອັງດອກ	Andoro
+ປະເທດຊີບ	Kipro
+ປະເທດເຊອັອກຊີ	Kartvelio
+ປະເທດມານ	Malto
+ປະເທດໂມນາໂກ	Monako
+ປະເທດແຊັງມາແລງ	San-Marino
+ຫໍແອບແຟນ	Eiffel-Turo
+ຄີບອດ	Komputila klavaro
+ປະເທດອິນໂດເນເຊຍ	Indonezio
+ໂທລະພາບ	Televido
+ປະເທດຈີເລ	Ĉilio
+ພຣະເຢຊູ	Jesuo Kristo
+ປະຫວັດສາດ	Historio
+ພາສາ	Lingvo
+ລະບອບຜະເດັດການ	Diktatoreco
+ບິກແບງ	Praeksplodo
+ດາຣາສາດ	Astronomio
+ປະເທດສິງກະໂປ	Singapuro
+ວິທະຍາສາດ	Scienco
+ມົງເລອານ	Montrealo
+ປະເທດລິກເຕນສະຕາຍ	Liĥtenŝtejno
+ກິລາ	Sporto
+ອາໂດນ ຮິດແລ	Adolf Hitler
+ເຟດບຸກ	Facebook
+ສົງຄາມໂລກຄັ້ງທີສອງ	Dua mondmilito
+ໂມງ	Horloĝo
+ອຸບຸນຕູ	Ubuntu (linukso)
+ລິນຸກຊ໌	Linukso
+ຄະນິດສາດ	Matematiko
+ພາສາລາແຕັງ	Latina lingvo
+ປະເທດອາກເມນີ	Armenio
+ປະເທດແຊກບີ	Serbio
+ດວງຈັນ	Luno
+ປະເທດອົດສະຕະຣາລີ	Aŭstralio
+ວັດຖຸວິທະຍາ	Fiziko
+ປະເທດອາກຊັງຕິນ	Argentino
+ໂທລະຄົມມະນາຄົມ	Telekomunikado
+ປະເທດເປຣູ	Peruo
+ຊີວະສາດ	Biologio
+ປະເທດກຳປູເຈຍ	Kamboĝo
+ໄດໂນເສົາ	Dinosaŭro
+ສາສະໜາອິສະລາມ	Islamo
+ຈິດ	Menso
+ສັນຕິພາບ	Paco
+ກາບກອນ	Poezio
+ຈັກກະພັດນາໂປເລອົງທີ 1	Napoleono Bonaparte
+ປີແສງ	Lumjaro
+ໂອເຊອານີ	Oceanio
+ລະບົບສຸລິຍະ	Sunsistemo
+ປຶ້ມ	Libro
+ມື້	Tago
+ປີ	Jaro
+ອົກຊີແຊນ	Oksigeno
+ດົນຕີ	Muziko
+ພາສາອິຕາລີ	Itala lingvo
+ອາລູມິນຽມ	Aluminio
+ປະເທດນູແວນເຊລັງ	Nov-Zelando
+ປະເທດປາປົວຊີນູແວນກີເນ	Papuo-Nov-Gvineo
+ປະເທດເວເນຊູເອລາ	Venezuelo
+ສັດ	Bestoj
+ປະເທດຊູຣີນາມ	Surinamo
+ປະເທດປາຣາກວາຍ	Paragvajo
+ປະເທດກຸຍຢານ	Gujano
+ສິລະປະ	Arto
+ປະເທດເອກົວເຕີ	Ekvadoro
+ປະເທດໂກລົມບີ	Kolombio
+ພຸດທະສາສະໜາ	Budhismo
+ປະເທດໂບລີວີ	Bolivio
+ປະເທດກົວເຕມາລາ	Gvatemalo
+ປະເທດອີຣານ	Irano
+ປະເທດກົດສະຕາລິກາ	Kostariko
+ປະເທດລາວ	Laoso
+ທະວີບອາເມລິກາ	Ameriko
+ງົວ	Bovo
+ປະເທດມາເລເຊຍ	Malajzio
+ປະເທດມຽນມາ	Birmo
+ປະລາຕົງ	Platono
+ຢູທູບ	YouTube
+ປະເທດໄທ	Tajlando
+ລົດໄຟ	Trajno
+ປະເທດຫວຽດນາມ	Vjetnamio
+ປະເທດເກົາຫຼີໃຕ້	Sud-Koreio
+ປະເທດບັງກະລາເທດ	Bangladeŝo
+ປະເທດອັງໂກລາ	Angolo
+ທະວິດເຕີ	Twitter
+ປະເທດບູໄນ	Brunejo
+ປະເທດຟີລິບປິນ	Filipinoj
+ປັກກິ່ງ	Pekino
+ວິວັດທະນາການ	Evoluismo
+ສະຫະປະຊາຊາດ	Unuiĝintaj Nacioj
+ທໍລະນີສາດ	Geologio
+ພູມສາດ	Geografio
+ສີ	Koloro
+ຄຳນາມ	Substantivo
+ປະເທດໂກໂຊໂວ	Kosovo
+ໝວດ:ມູນຖານ	Kategorio:Ĉio
+ລະດູໜາວ	Vintro
+ລະດູບານໃໝ່	Printempo
+ລະດູຮ້ອນ	Somero
+ລະດູໃບໄມ້ຫຼົ່ນ	Aŭtuno
+ພາສາແອສະປາໂຍນ	Hispana lingvo
+ໝາກໄມ້	Frukto
+ເງິນ	Mono
+ລັດນີວຢອກ	Nov-Jorkio
+Uetersen	Uetersen
+Microsoft Windows	Microsoft Windows
+ໄທບີຣຽສ	Tiberio
+ລົດ	Aŭtomobilo
+ບອກໂດ	Bordeaux
+ໂຕກຽວ	Tokio
+ບາກເຊໂລນ	Barcelono
+ໝາກນັດ	Ananaso
+ກາໂຕລິກ	Katolikismo
+ພະຄຳພີ	Biblio
+ພະນົມເປັນ	Pnom-Peno
+ນິກາຍໂບດທູຈີຊັດ	Vera Eklezio de Jesuo
+ພາສາອັງກິດ	Angla lingvo
+ບາງກອກ	Bankoko
+ດົງເຮີຍ	Dong Hoi
+ໂກຣິສໂກໂວລາ	Końskowola
+ປີ 2009	2009
+ປີ 2008	2008
+ອາຫານ	Manĝaĵo
+XML	XML
+ການປະຕິວັດອຸດສາຫະກຳ	Industria revolucio
+ໄມໂຄຼຊອຟທ໌	Microsoft
+ຄູໂຣ	Kurów
+ເຄມີສາດ	Kemio
+14 ກຸມພາ	14-a de februaro
+22 ມີນາ	22-a de marto
+16 ເມສາ	16-a de aprilo
+ອາໂນນ ຊວາເຊເນກເກີ	Arnold Schwarzenegger
+19 ກໍລະກົດ	19-a de julio
+ເຕະບານ	Futbalo
+ໄອໂຟນ	IPhone
+ເຮືອດຳນ້ຳ	Submarŝipo
+ໄມເຄິ້ນ ແຈັກຊັ້ນ	Michael Jackson
+ພະລາຊະວັງແວກໄຊ	Kastelo de Versailles
+ມະຫາວິຫານນົດ-ດາມ	Dipatrino de Parizo
+ໝວດ:ແມ່ແບບ	Kategorio:Vikipedio:Ŝablonoj
+ແມ່ນ້ຳອາມາຊົນ	Amazono (rivero)
+ໂຮງຮຽນ	Lernejo
+ມະຫາວິທະຍາໄລ	Universitato
+ວິກິພີເດຍ:Sandbox	Vikipedio:Provejo
+ວິກິພີເດຍ:ເລີ່ມຕົ້ນ	Vikipedio:Bonvenon al Vikipedio
+ເຮືອນ	Domo
+ທະວີບອົດສະຕະຣາລີ	Aŭstralia kontinento
+ຮາດແວ	Aparataro
+ພຶດຊະຄະນິດ	Algebro
+ສະໜາມບິນດົງເຮີຍ	Flughaveno Dong Hoi
+ອາວະກາດ	Ekstertero
+ປ່າໄມ້	Arbaro
+ຂົງຈື້	Konfuceo
+ມາຣິລິນ ມອນໂຣ	Marilyn Monroe
+ໝວດ:ຄະນິດສາດ	Kategorio:Matematiko
+ເອີໂລ	Eŭro
+ທະເລເມດີແຕກລາເນ	Mediteraneo
+ຄິດຕະສາສະໜາ	Kristanismo
+Windows 8	Vindozo 8
+ເຂົ້າຈ້າວ	Rizo
+ທະວີບ	Kontinento
+ສັດປີກ	Birdoj
+ນະຄອນຫຼວງ	Ĉefurbo
+ພາສາປອກຕຸຍການ	Portugala lingvo
+ເດືອນ	Monato
+1949	1949
+ຕາກດີກະລາດາ	Tardigradoj
+ພາສາຍີ່ປຸ່ນ	Japana lingvo
+ໜ້າຈໍ	Komputila ekrano
+ສາລານຸກົມ	Enciklopedio
+ໜ້າຫຼັກ	Vikipedio:Ĉefpaĝo
+ຊີພີຢູ	Procesoro
+ເຣົາເຕີຣ໌	Enkursigilo
+ໂຕຕ້ານໄຟຟ້າ	Rezistilo
+ທຣານຊິສເຕີ	Transistoro
+ເບດບອນ	Basbalo
+ບານບ້ວງ	Korbopilkado
+ກິລາໂອແລມປິກ	Olimpiaj ludoj
+ລົດເມ	Aŭtobuso
+ແຄວ້ນກາຕາໂລຍ	Katalunio
+ການຮ່ວມເພດ	Amoro
+ປັດຊະຍາ	Filozofio
+ຈິມິ ເຮນດຣິກຊ໌	Jimi Hendrix
+ໝວດ:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+ອະນາທິປະໄຕ	Anarkiismo
+ລັດທິທຶນນິຍົມ	Kapitalismo
+ປະເທດ	Lando
+ເວັບເບຣົາວ໌ເຊີຣ໌	TTT-legilo
+Boeing 737	Boeing 737
+ໝວດ:ດາຣາສາດ	Kategorio:Astronomio
+ການປະຕິວັດຝະລັ່ງ	Franca revolucio de 1789
+ຮັກຮ່ວມເພດ	Samseksemo
+ອາຫານຝະລັ່ງ	Franca kuirarto
+ໂຮແມ	Homero
+ພາສາກາຕາລັງ	Kataluna lingvo
+ພຣະພຸດທະເຈົ້າ	Budho
+ອະເທວະນິຍົມ	Ateismo
+ຫໍສະໝຸດ	Librarejo
+ນິເວດສາດ	Ekologio
+ການເມືອງ	Politiko
+ລະບອບປະຊາທິປະໄຕ	Demokratio
+ໂລກາພິວັດ	Tutmondiĝo
+ແຊນ	Geno
+ລັດຖະບານ	Registaro
+ຄວາມສວຍງາມ	Belo
+ລາຊາທິປະໄຕ	Monarkio
+ລັດ	Ŝtato
+ດັງ	Nazo (organo)
+ເພງ	Kanto
+ສັດລ້ຽງລູກດ້ວຍນ້ຳນົມ	Mamuloj
+ໂລຊີຊີແອນ	Programaro
+ອາເດແອັນ	DNA
+ແອສະແປດ	Specio
+ພາສາລັດເຊຍ	Rusa lingvo
+ກົດໝາຍ	Leĝo (jura)
+ລັດຖະທຳມະນູນ	Konstitucio
+ສະມາຄົມປະຊາຊາດແຫ່ງອາຊີຕາເວັນອອກສຽງໃຕ້	ASEAN
+ກອງທືນການເງີນລະຫວ່າງປະເທດ	Internacia Monunua Fonduso
+ພາສາສະວາຮີລີ	Svahila lingvo
+ພາສາຈີນ	Ĉina lingvaro
+ທຳມະຊາດ	Naturo
+ນ້ຳດື່ມ	Trinkakvo
+ພາສາລູມານີ	Rumana lingvo
+ສຶກສາສາດ	Pedagogio
+ແຮ່ທາດ	Mineralo
+ເຊັນ	Zeno
+ເມົາສ໌	Komputila muso
+ປະໂລເຕອິນ	Proteino
+ພະຍຸໂທຣນາໂດ	Tornado (ŝtormo)
+ໄຕມຸມ	Trigonometrio
+ເລຂາຄະນິດ	Geometrio
+ໄວຍະກອນ	Gramatiko
+ນິນເທັນໂດ	Nintendo
+ເສດຖະສາດ	Ekonomiko
+ທຶນ	Kapitalo
+ເງິນຕາ	Valuto
+ເຢນ	Japana eno
+ອຸດສາຫະກຳ	Industrio
+ພາສີ	Imposto
+ພາສາສາດ	Lingvoscienco
+ຄຳ (ພາສາສາດ)	Vorto
+ໂຕໜັງສືເກຣັກ	Greka alfabeto
+ວັນນະຄະດີ	Literaturo
+ໝວດ:ປະເທດຝະລັ່ງ	Kategorio:Francio
+ໝວດ:ດົນຕີ	Kategorio:Muziko
+ໝວດ:ວັນນະຄະດີ	Kategorio:Literaturo
+ຂັ້ນຕອນວິທີ	Algoritmo
+ການສຶກສາ	Eduko
+ຄອບຄົວ	Familio
+ກາເຟ	Kafo
+ນົມ	Lakto
+ສົງຄາມເຢັນ	Malvarma milito
+ຊຽງໄຮ້	Ŝanhajo
+ອິນເຕີຣ໌ເນັຕ ໂປຣໂຕໂຄລ	IP
+ໄບຕ໌	Bitoko
+ບິຕ	Bito
+ຄວາມຮູ້	Scio
+ສາສະໜາພາມ	Hinduismo
+ປະລະມະນູ	Atomo
+ພາສາກະເລັກ	Greka lingvo
+ລະບົບປະຕິບັດການ	Operaciumo
+ອີແມລ	Retpoŝto
+ສາສະໜາ	Religio
+ພາສາເກົາຫຼີ	Korea lingvo
+ຕຶກແອັມພາຍສະເຕດ	Empire State Building
+ອະນຸສາວະລີເທພີເສລີພາບ	Statuo de Libereco
+ພາສາລາວ	Laŭa lingvo
+ພາສາໄທ	Siama lingvo
+ສາສະໜາຊູດາ	Judismo
+ພາສາການ	Kimra lingvo
+ສາສະໜາຊິກ	Sikismo
+ຈອນ ເມນາດ ເຄນ	John Maynard Keynes
+ວຽງຈັນ	Vjentiano
+ພຶຕິກຳ	Konduto
+ອາລົມ	Emocio
+ຈິຕະວິທະຍາ	Psikologio
+ຄວາມຄຶດ	Pensado
+ມະຫາສະໝຸດ	Oceano
+ຈະລິຍະທຳ	Etiko
+ຍານວິທະຍາ	Sciteorio
+ເຈດຈຳນົງເສລີ	Libera volo
+ແກນກາງ	Kerno (operaciumo)
+ສົມເດັດພະລາຊິນີນາດເອລີຊາແບັດທີ 2 ແຫ່ງສະຫະລາຊະອານາຈັກ	Elizabeto la 2-a (Britio)
+ຄວາມທຸກຍາກ	Malriĉeco
+ຕາລາງທາດ	Perioda tabelo
+ເດິນຟິນໜູ	Porkocetoj
+ກົກໄມ້	Arbo
+ເນີຍແຂງ	Fromaĝo
+ຜັກ	Legomo
+ໂຣບົດ	Roboto
+ເຕັກໂນໂລຊີ	Teknologio
+ກົນຈັກ	Maŝino
+ວິສະວະກຳ	Inĝenierarto
+ສານສົນເທດ	Informo
+ໜັງສືພິມ	Gazeto
+ໂທລະສັບ	Telefono
+ວັດທະນະທຳ	Kulturo
+ຫມາຍເລກໄອພີ	IP-adreso
+ແພດສາດ	Medicino
+ອົງກອນນິຕິບັນຍັດ	Leĝdona povo
+ຫ້ຽນ	Interreta trolo
+ສົມຜົນ	Ekvacio
+ຕຳລາ (ຄະນິດສາດ)	Funkcio (matematiko)
+ກະລູຊິດ	Karbonhidrato
+ຮອກມົນ	Hormono
+ເກມ	Ludo
+ຂອງຫຼິ້ນ	Ludilo
+ຮູບເງົາ	Filmo
+ລົດຖີບ	Biciklo
+ກຳປັ່ນ	Ŝipo
+ກະສິກຳ	Agrikulturo
+ລາຍຊື່ໜ່ວຍນັບເວລາ	Tempo
+ເຈ້ຍ	Papero
+ປະລາສະຕິກ	Plasto
+ເນື້ອທີ່	Areo
+ຈຳນວນ	Nombro
+ຈຳນວນສົນ	Kompleksa nombro
+ແມັດ	Metro
+ຈິຕະກຳ	Pentrado
+ນັກອາວະກາດ	Kosmonaŭto
+ການຖ່າຍຮູບ	Fotarto
+ການຟ້ອນລຳ	Danco
+ເອເລັກໂຕຣນິກ	Elektroniko
+ດີອົດ	Diodo
+ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ	Informa teknologio
+ຮ້ານອາຫານ	Restoracio
+ອາຊີຕາເວັນອອກສຽງໃຕ້	Sud-Orienta Azio
+ບະລັງແນດ	Neĝblankulino
+ຊັງດີຢົງ	Cindrulino
+ປະຕິທິນ	Kalendaro
+ເຂດເວລາ	Horzono
+ສຸຂະພາບ	Sano
+ເອດສ໌	Aidoso
+ສະຖາປັດຕະຍະກຳ	Arkitekturo
+ຂົວ	Ponto
+ເຂົ້າໜົມມາກາຣົງ	Makarono
+ສະຖິຕິສາດ	Statistiko
+ຈຳນວນຖ້ວນ	Entjero
+ເຂື່ອນສາມຜາ	Baraĵo Tri Gorĝoj
+ຍຸກແສງສະຫວ່າງ	Klerismo
+ສະໄໝກາງ	Mezepoko
+ລວມຍອດຜະລິດຕະພັນພາຍໃນ	Malneta enlanda produkto
+ແຟຊັ້ນ	Modo
+ລູກຄິດ	Abako (meĥanika kalkulilo)
+ຄາບສະໝຸດອີເບລີ	Iberio
+ຈຳນວນຈິງ	Reelo
+ໝາກກ້ຽງ	Oranĝo (frukto)
+ພາສາຈ້ວງ	Ĝŭanga lingvo
+ພາສານາວາເທິນ	Naŭatla lingvo
+ສິ່ງແວດລ້ອມສໍາລັບການພັດທະນາແບບຮວບຮວມ	IDE (komputilo)
+ພາສາອາຣັບ	Araba lingvo
+ພາສາອົກຊີຕັງ	Okcitana lingvo
+ສໍດຳ	Krajono
+ໂຕະ	Tablo
+ແທັງເກີ	Cisternoŝipo
+ກວາງຄໍຍາວ	Ĝirafo (specio)
+ພາສາເຊ	C (programlingvo)
+ວິກິພີເດຍ:ບົດຄວາມດີເດັ່ນ	Vikipedio:Elstaraj artikoloj
+ແມ່ແບບ:Link FA	Ŝablono:LigoElstara
+ວິກິພີເດຍ:Village pump	Vikipedio:Diskutejo
+ກວ່າງໂຈວ	Kantono (Ĉinio)
+ໂຮງໜໍ	Malsanulejo
+ການສົມລົດເພດດຽວກັນ	Samseksaj edzeco kaj edzineco
+ໂທລະສັບມືຖື	Poŝtelefono
+ລົດສະນິຍົມທາງເພດ	Seksa orientiĝo
+ງົວປ່າອາເມລິກາ	Bizono
+ບານເຕະໂລກ	Futbala Mondpokalo
+ຍາຈາງ	Nha Trang
+ສາທາລະນະສົມບັດ	Publika havaĵo
+ກຸ່ມພາສາໂລມັງ	Latinida lingvaro
+ຮູບສາມແຈ	Triangulo
+ຈຳນວນທຳມະຊາດ	Natura nombro
+ສັດທະອັກສອນສາກົນ	Internacia Fonetika Alfabeto
+ພິກັດພູມສາດ	Geografia koordinata sistemo
+ເກີບ	Ŝuo
+ເສລີພາບໃນການເວົ້າ	Parollibereco
+ສວນສາທາລະນະ	Parko
+ສັບປະດາ	Semajno
+ຜັກທຽມ	Ajlo
+ມະນຸດສາດ	Antropologio
+ເອແດມບວກ	Edinburgo
+កោះ	Insulo
+ພາສາລັດຖະການ	Oficiala lingvo
+ບູຮານວິທະຍາ	Arkeologio
+ອຸດທະຍານແຫ່ງຊາດຟົງ ງາ-ເຄ ບັງ	Nacia Parko Phong Nha-Ke Bang
+ແຂວງກວາງບິນ	Provinco Quang Binh
+ເສັ້ນສູນສູດ	Ekvatoro
+ປະໂລແຕສະຕັງ	Protestantismo
+ວັດຈະນານຸກົມ	Vortaro
+ເພງຊາດ	Nacia himno
+ຄຳກຳມະ	Verbo
+ພາສາແຟໂລ	Feroa lingvo
+ສັດກິນຊີ້ນ	Karnomanĝuloj
+ເກາະຊີແລນ	Sjælland
+ເຮືອຂ້າມຟາກ	Pramo
+Józef Gosławski	Józef Gosławski
+ການຂັບລຳ	Kantado
+ເສັ້ນຜົມ	Haro
+ວິຊາຊີບ	Profesio
+ສິນຄ້າ	Varo
+ຜົນຕຳລາ	Derivaĵo (matematiko)
+ບລອກ	Blogo
+ນົກແກ້ວ	Papagoformaj
+ຊື່ໂດເມນ	Domajna nomo
+ມ້າລາຍ	Zebro
+ເລກມາຕະຖານສາກົນປະຈຳປຶ້ມ	ISBN
+ພາສາຈາໂມໂລ	Ĉamora lingvo
+ພາສາເຈໂລກີ	Ĉeroka lingvo
+ຈິຕະນິຍົມ	Ideismo
+ເສັ້ນຂະໜານ	Latitudo
+ໝວດ:ພາສາໂປແກມ	Kategorio:Programlingvoj
+ຈັດສະຕິນ ບີເບີ	Justin Bieber
+ກຸ່ມພາສາໄທ-ກະໄດ	Kradaja lingvaro
+ເນີຍ	Butero
+ເທວະວິທະຍາ	Teologio
+ນ້ຳຕົກຕາດນີອາກາລາ	Niagara Akvofalaro
+ໂຫລາສາດ	Astrologio
+ຫົງ	Cigno
+ຫົນທາງ	Vojo
+ເຮລີກົບແຕ	Helikoptero
+ລົດຈັກ	Motorciklo
+ມ້າແມ່ນ້ຳ	Amfibia hipopotamo
+ສັງຄົມສາດ	Socia scienco
+ແຫຼມ	Duoninsulo
+ລະຫັດໂທລະສັບລະຫວ່າງປະເທດ	Telefona landokodo
+ຟົວກາ	Grashepataĵo
+ມົນທົນ	Provinco
+ໝາກຫຸ່ງ	Papajo
+ວິຕາມິນ	Vitamino
+ເວັບໄຊຕ໌	TTT-ejo
+ກວາງອູດ	Alko
+ເສືອອາເມລິກາ	Jaguaro
+ສະພາ	Parlamento
+ສະພາວະເງິນເຟີ້	Inflacio
+ເຮືອ	Boato
+ໂປລີເນຊີ	Polinezio
+ດຽນບຽນຟູ	Dien Bien Phu
+ໝີໄຮ້ຫາງ	Koalo
+ເສັ້ນແວງ	Longitudo
+ສະຫັດສະວັດ	Jarmilo
+ຊ້າງຂົນຍາວ	Mamuto
+ອອງ ຊານ ຊຸຈີ	Aung San Suu Kyi
+ໄຂ້ຫວັດຫມູ	Porka gripo
+ເສິນຫຼົງ	Jackie Chan
+ເອກະລາດ	Sendependeco
+ມະຣິວຸລ	Mariupolo
+ມະຫາປີລະມິດ ແຫ່ງ ກິຊາ	Piramido de Keopso
+ISO 4217	ISO 4217
+ຕະຫຼາດ	Merkato
+ກະໂລໂມຊົມ	Kromosomo
+ມັນດ້າງ	Batato
+ພະຍັນຊະນະ	Konsonanto
+ນ້ຳຕົກຕາດຄອນພະເພັງ	Akvofaloj Khone Phapheng
+ຟີລຳ	Filumo
+ພະເຈົ້າຮົງລີທີ 8 ແຫ່ງອັງກິດ	Henriko la 8-a (Anglio)
+ດັດສະນີການພັດທະນາມະນຸດ	Indico de homa disvolviĝo
+ເສດຖະສາດຈຸນລະພາກ	Mikroekonomiko
+ສັດລ້ຽງ	Dombesto
+ເລເຈບ ໄຕຢິບ ແອໂດກັນ	Recep Tayyip Erdoğan
+ນໍ້າມັນເຊື້ອໄຟ	Benzino
+ເສດຖະສາດມະຫາພາກ	Makroekonomiko
+ສະໜວນກາຊາ	Gaza Sektoro
+ເຄື່ອງດື່ມ	Trinkaĵo
+ປະໂລກະລຳ ແອງຟອກມາຕິກ	Komputila programo
+ຍານອາວະກາດ	Kosmoveturilo
+ເຈັນນິເຟີຣ໌ ໂລເປສ	Jennifer Lopez
+ມີດຕັດ	Tondilo
+ຊ້າງທະເລ	Rosmaro
+ຕຶກ	Konstruaĵo
+ແມ່ນ້ຳຂອງ	Mekongo
+ວາລະສານ	Revuo
+ສານ	Tribunalo (juro)
+Rupiah ອິນໂດເນເຊຍ	Indonezia rupio
+.la	.la
+ສວນລອຍຟ້າບາບິລອນ	Pendĝardenoj de Babilono
+ໝາແຜງ	Hienedoj
+ພິ່ນອິ່ນ	Hanyu Pinyin
+ເຊື້ອໄຟ	Brulaĵo
+ອູດແກະໃຫຍ່	Lamo
+ຄວາຍ	Akvobubalo
+Long Thanh International Airport	Flughaveno Long Thanh
+ຍານພາຫະນະ	Vehiklo
+ນ້ຳມັນ	Oleo
+ວິນຍານນິຍົມ	Animismo
+ບໍລິການຂໍ້ຄວາມສັ້ນ	Servo de mallongaj mesaĝoj
+ເຮືອນຄົວ	Kuirejo
+ຮັກຮ່ວມສອງເພດ	Ambaŭseksemo
+ເອສົບ	Ezopo
+ສິ່ງແວດລ້ອມ	Medio
+ໂກແລສະເຕໂລນ	Kolesterolo
+ສະຫະພັນທະລັດ	Federacio
+ໄຂ້ຫວັດນົກ	Birda gripo
+ມາຕຣິກ	Matrico
+ຕຳນານ	Legendo
+ເທວາທິປະໄຕ	Teokratio
+ຂົວໂກນເດນເກດ	Golden-Gate-Ponto
+ໝາກສຸກ ໝາກໃສ	Varioleto
+ທ່າເຮືອ	Haveno
+ໝາກມີ້	Jakvo
+ທຸງຊາດລາວ	Flago de Laoso
+ໃບສະຫຼຸບຊັບສົມບັດ	Bilanco
+ສາຍການບິນ	Flugkompanio
+ວັນກຳມະກອນສາກົນ	Tago de la Laboro
+ລາດາ	Radaro
+ແມ່ແບບ:Commonscat	Ŝablono:Commonscat
+ຈັກກະວັດແອສະປາຍ	Imperio
+ມະຫາຍານ	Mahajano
+ກະສວຍອາວະກາດ	Kosmopramo
+ການທ່ອງທ່ຽວ	Turismo
+ຕູ້ໄປສະນີ	Poŝtkesto
+ແຂວງ	Teritoria organizado de Laoso
+ຕຳລາຂັ້ນສອງ	Kvadrata funkcio
+ອີໂບລາ	Ebola malsano
+ໝວດ:ລັດຖະບານ	Kategorio:Registaroj
+ໝວດ:ຄວາມຮັກ	Kategorio:Amo
+ສະຖານີລົດໄຟ	Fervoja stacidomo
+ພາສາໂຮປີ	Hopia lingvo
+ພາສາເຮົາຊາ	Haŭsa lingvo
+ຈູມມະລີ ໄຊຍະສອນ	Choummaly Sayasone
+ຍິ່ງລັກ ຊິນນະວັດ	Jinglak Ĉinaŭat
+ທອງສິງ ທຳມະວົງ	Thongsing Thammavong
+ກ້ອງດິຈິຕອນ	Cifereca fotilo
+ອັດຕາແລກປ່ຽນ	Kurzo
+ທະນາຄານກາງ	Centra banko
+ຮອບບິດ (ປຶ້ມ)	La Hobito
+ຄະນາທິປະໄຕ	Oligarkio
+Current events	Vikipedio:Historio
+ບານເຕະໂລກ 2014	Futbala Mondpokalo 2014
+ການແຍກໃຊ້ອຳນາດ	Disigo de povoj
+ໝາກກ້ຽງໃຫຍ່	Pampelmuso
+ວົງຈອນພອນ	Mungotedoj
+ວິສະວະກຳໂລຊີຊີແອນ	Programara inĝenierarto
+ອູດແກະ	Alpako
+ຄວາມກົດອາກາດ	Atmosfera premo
+ບ່ວງ	Kulero
+VoIP	Interreta telefono
+ໄມ້ຖູ່	Manĝobastonetoj
+ເຄື່ອງໝາຍວັກ	Interpunkcio
+ຕັກຊີ	Taksio
+ຄຳອຸທານ	Interjekcio
+ພຽງພອນເໝັນ	Mefito
+ເຊລີນ້າ ໂກເມຊ	Selena Gomez
+ໂຮງງານ	Fabriko
+ບານເຕະທີມຊາດບະເລຊິນ	Brazila nacia teamo de futbalo
+ບານໂປໂລຍ	Pollandpilko
+ຕຳລາໄຕມຸມ	Trigonometria funkcio
+ຄຣິສຕະຈັກເຊເວັນເດ ແອັດເວັນຕິສ	Sepataga Adventisma Eklezio
+ອຳນາດຕຸລາການ	Justica povo
+ລັດທິ	Doktrino
+ກະລັງກັງຢົງ	Granda Kanjono
+ໂຄງສ້າງພື້ນຖານ	Substrukturo
+ໜູລ້າງນ້ຳ	Lav-urso
+ຕົ້ນໂຣສ ເມຣີ	Oficina rosmareno
+ປະເທດທີ່ບໍ່ມີທາງອອກສູ່ທະເລ	Lando sen maraliro
+ເວັກເຕີ	Vektora spaco
+ປຶ້ມເອເລັກໂຕຣນິກ	Bitlibro
+ພາສີມູນຄ່າເພີ່ມ	Aldonvalora imposto
+ພະເຈົ້າເອດູອາກທີ 3 ແຫ່ງອັງກິດ	Eduardo la 3-a (Anglio)
+ການພັດທະນາແບບຍືນຍົງ	Daŭripova disvolviĝo
+ອ່າວໄທ	Golfo de Tajlando
+ນິກາຍເຖຣະວາດ	Teravado
+ໂທລະພາບຄວາມລະອຽດສູງ	Altdifina televido
+ທຸງຊາດໄທ	Flago de Tajlando
+ພະຍຸໄຕ້ຝຸ່ນ	Tajfuno
+ດຸນການຊຳລະ	Pagopesilo
+ການຊອກຄ່າເໝາະສົມ (ຄະນິດສາດ)	Optimumigo (matematiko)
+ລະດູແລ້ງ	Seka sezono
+Phu Quoc	Phu Quoc
+ວິກິພີເດຍ:ຂໍໃຫ້ຂະຫຍາຍ	Helpo:Redakti
+ວົງຜື	Ciperacoj
+ເດຈາວູ	Déjà vu
+ເສດຖະກິດ	Ekonomio
+ເອໂຄໂນເມທຣິກ	Ekonometrio
+ລາຄາ	Prezo
+ມະຫາວິທະຍາໄລເອແດມບວກ	Universitato de Edinburgo
+ສຳປະສິດຈິນີ	Koeficiento de Gini
+ກາຕະລີນແຫ່ງອາລາກົງ	Katerino de Aragono
+ໝາກເຜັດ	Kapsiketo
+ບິກ	Plumo (skribilo)
+ການສະໜອງ ແລະ ຄວາມຕ້ອງການ	Mendado kaj ofertado
+ຊອດໄຂ່ແດງ	Majonezo
+ENIAC	ENIAC
+ຊຸດຈຳນວນ	Serio (matematiko)
+ພັດທະຍາ	Pataja
+ດອກເບ້ຍ	Interezo
+ຫຸ່ນຍົນສາດ	Robotiko
+ອຸປະຕິເຫດ	Akcidento
+ຢາງລຶບ	Skrapogumo
+ເຂື່ອນຮູເວີ	Akvobaraĵo Hoover
+ນູເມລິກ	Cifereca
+ລະບົບມາດຕະຖານຄຳ	Orbazo
+កាំ	Radiuso
+ມະຫາວິຫານແຊັງໂປນ	Katedralo Sankta Paŭlo (Londono)
+ຍິວວິທະຍາໄລຂອງເຢຣູຊາເລັມ	Hebrea Universitato de Jerusalemo
+ມະຫາວິທະຍາໄລແຄລິຟໍເນຍ ລອດແອນເຈລິດ	Universitato de Kalifornio ĉe Los-Anĝeleso
+ຊັງຕີແມັດ	Centimetro
+ມິລີແມັດ	Milimetro
+ມິໂກຣແມັດ	Mikrometro
+ເສດຖະກິດຕົກຕໍ່າ	Recesio
+ບໍ່ນ້ຳຮ້ອນ	Termofonto
+ນາໂນແມັດ	Nanometro
+ການຄ້າສາກົນ	Internacia komerco
+ຈອຍສະຕິກ	Stirstango
+ເທວະດາ	Diaĵo
+ລົດໂຮງໝໍ	Ambulanco
+ເສັ້ນສະແດງ	Grafikaĵo
+ສູດເຮລົງ	Formulo de Herono
+ບັນທັດຖານວັດແທກ ລາຍໄດ້ ແລະ ຜົນຜະລິດ ແຫ່ງຊາດ	Malneta Nacia Produkto
+ຕຳລາເສັ້ນຊື່	Lineara funkcio
+ທະນາຄານພັດທະນາອາຊີ	Banko por Azia Disvolviĝo
+ເນີຍແຂງລົກຟອກ	Rokforto
+ການຂະຫຍາຍໂຕທາງເສດຖະກິດ	Ekonomia kresko
+ເມືອງຫຼວງພະບາງ	Luangprabango
+ສົມເດັດພະລາຊາທິບະດີເຟລີເປທີ 6 ແຫ່ງແອສະປາຍ	Filipo la 6-a (Hispanio)
+ວັນນະຍຸດ	Tonlingvo
+ນ້ຳເຕົ້າຮູ້	Sojlakto
+ການຊົມໃຊ້	Konsumo
+ປິໂກແມັດ	Pikometro
+ກະຊວງ	Ministerio
+ວັດຖຸດິບ	Kruda materialo
+ຈອງ	Ĉerpokulero
+ລົດພະລັງງານໄຟຟ້າ	Elektra aŭtomobilo
+ຫີນະຍານ	Hinajano
+ເງີນກີບລາວ	Laosa kipo
+ເດຊີແມັດ	Decimetro
+ເຄື່ອງໝາຍຊາດລາວ	Blazono de Laoso
+ພະຍາດໄລມ	Boreliozo Lyme
+ໂທລະພາບແບບດິຈິຕໍລ໌	Cifereca televido
+ປະໂລແວງ	Provins
+ຕຳລາຂັ້ນສາມ	Kuba ekvacio
+ສິລະປະປະຍຸກ	Dekoraj artoj
+ອາຊີອາຕິກ	Mongoloida raso
+ວາຈົກ	Gramatika voĉo
+ຜູ້ຊົມ	Publiko
+ພຶດຊະຄະນິດພື້ນຖານ	Baza algebro
+ຟຣີແລນເຊີຣ	Sendependa kunlaboristo
+ຄວາມໄດ້ປຽບທຽບຖານ	Kompara avantaĝo
+ຄະລາວາດນິຍົມ	Sekulareco
+ສະໜາມບິນສາກົນວັດໄຕ	Internacia Flughaveno Wattay
+າເປັນ	Anggun
+ໂດລາເອມອນ	Doraemon
+ຊາຍບອກ	Kiborgo
+ປະທານປະເທດ ແຫ່ງ ສປປ ລາວ	Listo de ĉefministroj de Japanio
+ໃບລາຍງານຜົນໄດ້ຮັບ	Spezokonto
+ຄຳນາມປະສົມ	Kunmetita vorto
+ອ໋າວຢາຍ	Aŭzajo
+ລາຍຊື່ປະເທດລຽງຕາມພື້ນທີ່	Listo de landoj laŭ areo
+ລັດວິສາຫະກິດ	Ŝtata entrepreno
+Externality	Ekstera efiko
+ເກໂກລີ ເລີມາກຊານ	Grégory Lemarchal
+ແຂວງສາລະວັນ	Provinco Salavan
+ຜູ້ໂດຍສານ	Pasaĝero
+ໄກສອນ ພົມວິຫານ	Kaysone Phomvihane
+ຄົມມະນາຄົມ	Veturilo
+ແຂວງຜົ້ງສາລີ	Provinco Phongsali
+ແຂວງບໍ່ແກ້ວ	Provinco Bokeo
+ແຂວງຈໍາປາສັກ	Provinco Ĉampasako
+ອາຍແກັສແຫຼວ	LPG
+ສະຫະພາບໂທລະຄົມມະນາຄົມ	Internacia Telekomunika Unio
+ເຈົ້າມະຫາຊີວິດສີສະຫວ່າງວົງ	Sisavang Vong
+ເຈົ້າສີສະຫວ່າງວັດທະນາ	Savang Vatthana
+ເມືອງປາກເຊ	Pakse
+ລາວ (ຊົນເຜົ່າ)	Laŭoj
+ການກໍ່ສ້າງ	Konstruado
+ນະຄອນຫຼວງວຽງຈັນ	Prefektejo Vjentiano
+ຂ່າ (ພືດ)	Galango
+ສົມເດັດພະສັນຕະປາປາຟຣັງຊົວ	Francisko (papo)
+ໜີ້ຕ່າງປະເທດ	Ekstera ŝuldo
+ແຂວງໄຊຍະບູລີ	Provinco Sainjabuli
+ແຂວງສະຫວັນນະເຂດ	Provinco Savannaĥet
+ແຂວງຊຽງຂວາງ	Provinco Siangĥuang
+ແຂວງອຸດົມໄຊ	Provinco Udomsai
+ສະໜາມບິນສາກົນເຕິນເຊິນເຍິດ	Flughaveno Tan Son Nhat
+ປ່ອງຢ້ຽມປີ 2000	Vindozo 2000
+7 ສິ່ງມະຫັດສະຈັນ	Sep mirindaĵoj de la antikva mondo
+ໂສມງາມກັບເຈົ້າຊາຍອະສູນ	Belulino kaj la Besto
+ແຂວງຫົວພັນ	Provinco Huaphanh
+ແຂວງອັດຕະປື	Provinco Attapeu
+ອົງການ ຄວບຄຸມໄພສຸກເສີນລັດຖະບານກາງ	Federal Emergency Management Agency
+ແຂວງຄຳມ່ວນ	Provinco Ĥamuan
+ຜາສາດຫີນວັດພູ	Vat Phu
+ແຂວງເຊກອງ	Provinco Sekong
+ການຄ້າ	Komerco
+ຈຳນວນອະປົກກະຕິ	Neracionala nombro
+ໜູຖົງຊາຍ	Valabio
+ສວນຄົວ	Kuireja ĝardeno
+ໝັງກາຕູນ	Kartuno
+ເມືອງຫຼວງນໍ້າທາ	Luang Namtha
+ເອັນຣິໂຄ ເລັດຕາ	Enrico Letta
+ລິງລົມ	Ordinara loriso
+ລາຍຊື່ປະເທດຮຽງຕາມຈຳນວນປະຊາກອນ	Listo de landoj laŭ loĝantaro
+7 ສິ່່ງມະຫັດສະຈັນຂອງໂລກ	Novaj sep mirindaĵoj de la mondo
+ເສັ້ນເຂົ້າປຸ້ນ	Riznudeloj
+ຫ້ວຍຊາຍ	Ban Huajsai
+ແຂວງວຽງຈັນ	Provinco Vjentiano
+ໄຮ້ເພດ	Neniuseksemo
+ກະເທີຍ	Kathoey
+ແຂວງຫຼວງພະບາງ	Provinco Luangprabango
+ເມືອງໄກສອນ ພົມວິຫານ	Savannaĥet
+ການບິນລາວ	Lao Airlines
+ພັກປະຊາຊົນປະຕິວັດລາວ	Laosa Popola Revolucia Partio
+ອາຊີໃຕ້	Suda Azio
+ສະໜາມບິນສາກົນເຫຼ້າສຸດ	Flughaveno Da Nang
+ສາມຫຼ່ຽມຄຳ	Ora Triangulo (Sudorienta Azio)
+ເຂົ້າຈີ່ປາເຕ້	Pasteĉo
+ກິໂລແມັດ	Kilometro
+ລົດມ້າ	Ĉevaltira tramo
+ດຸນຍະພາບເສດຖະກິດ	Ekvilibra prezo
+VietJet Air	VietJet Air
+ຮູບສອງແຈ	Dulatero
+ຈຸລາລົງກອນມະຫາວິທະຍາໄລ	Universitato Ĉulalonkon
+ພູພຽງບໍລະເວນ	Altebenaĵo Bolaven
+ຊ່ວຍເຫຼືອ:ເນື້ອໃນ	Helpo:Enhavo
+ຊຸດໂຣບົດ	Eksterskeleto
+ແຂວງຫຼວງນໍ້າທາ	Provinco Luang Namtha
+ວັງວຽງ	Vang Vieng
+ທ່າແຂກ	Thaĥek
+ຮັກຕ່າງເພດ	Aliseksemo
+ພະລັງງານຂັ້ນຕົ້ນ	Primara energio
+ພະທາດຫຼວງ	Pha That Luang
+ສະໜາມບິນສາກົນຫຼວງພະບາງ	Internacia Flughaveno de Luangprabango
+ສະພາແຫ່ງຊາດ	Laosa Nacia Asembleo
+ເໝ້ນ	Histriko
+ຈຳນວນປົກກະຕິ	Racionala nombro
+ເດີ່ນຍົນ	Flughaveno
+ລະບອບການປົກຄອງ	Regformo
+ພຣະໄຕປິດົກ	Tripitako
+El Chavo del 8	El Chavo del Ocho
+ໝວດ:ປະເທດເຢັຽລະມັນ	Kategorio:Germanio
+ໝວດ:ສະຫະລັດອາເມລິກາ	Kategorio:Usono
+ໝວດ:ປະເທດການາດາ	Kategorio:Kanado
+ໝວດ:ສະຫະລາຊະອານາຈັກ	Kategorio:Unuiĝinta Reĝlando
+ໝວດ:ປະເທດແອສະປາຍ	Kategorio:Hispanio
+ໝວດ:ປະເທດຍີ່ປຸ່ນ	Kategorio:Japanio
+ໝວດ:ປະເທດເກົາຫຼີໃຕ້	Kategorio:Sud-Koreio
+ໝວດ:ປະເທດໄທ	Kategorio:Tajlando
+ໝວດ:ປະເທດຫວຽດນາມ	Kategorio:Vjetnamio
+ໝວດ:ສັດລ້ຽງລູກດ້ວຍນ້ຳນົມ	Kategorio:Mamuloj
+ໝວດ:ພືດ	Kategorio:Plantoj
+ໝວດ:ວັດຖຸວິທະຍາ	Kategorio:Fiziko
+ໝວດ:ຊີວະສາດ	Kategorio:Biologio
+ໝວດ:ປະຫວັດສາດ	Kategorio:Historio
+ໝວດ:ພູມສາດ	Kategorio:Geografio
+ໝວດ:ສັງຄົມ	Kategorio:Socio
+ໝວດ:ສາສະໜາ	Kategorio:Religio
+ໝວດ:ກິລາ	Kategorio:Sporto
+ໝວດ:ສາດ	Kategorio:Scienco
+ໝວດ:ສະຫະປະຊາຊາດ	Kategorio:Unuiĝintaj Nacioj
+ໝວດ:ຮູບເງົາ	Kategorio:Kino
+ໝວດ:ມໍລະດົກໂລກ	Kategorio:Mondaj heredaĵoj de UNESKO
+ໝວດ:ໂລກ	Kategorio:Tero
+ໝວດ:ອາວະກາດ	Kategorio:Spaco
+ໝວດ:ຂໍ້ມູນຂ່າວສານ	Kategorio:Informado
+ລາຍໄດ້	Rento
+ໝວດ:ນິເວດສາດ	Kategorio:Ekologio
+ໝວດ:ພຸດທະສາສະໜາ	Kategorio:Budhismo
+ໝວດ:ຄຣິສຕະສາດສະໜາ	Kategorio:Kristanismo
+ໝວດ:ສາສະໜາອິສະລາມ	Kategorio:Islamo
+ໂພຊະນາການ	Manĝado
+ດັດຊະນີ (ເສດຖະກິດ)	Indico
+ແຂວງບໍລິຄຳໄຊ	Provinco Boliĥamsai
+ລັດອິດສະລາມອີຣັກແລະເຣເວນທ໌	Islama Ŝtato de Irako kaj Sirio
+ຄ່າສະເຫຼ່ຍ	Meznombro
+ການຈັດການ	Administradoscienco
+ໝວດ:ວັດທະນະທຳ	Kategorio:Kulturo
+ໝວດ:ຄວາມຮູ້	Kategorio:Scio
+ໝວດ:ທະວີບ	Kategorio:Kontinentoj
+ໝວດ:ທໍລະນີສາດ	Kategorio:Geologio
+ໝວດ:ພາສາ: ເຮືອບິນ	Kategorio:Aviadiloj
+ລະດູຝົນ	Pluvsezono
+ເບຍລາວ	Beerlao
+ອອກໂຕດົກ	Ortodoksismo
+ເລຂາທິການໃຫຍ່ຄະນະບໍລິຫານງານສູນກາງພັກປະຊາຊົນປະຕິວັດລາວ	Ĝenerala Sekretario de la Laosa Popola Revolucia Partio
+ວົງຍ່ອຍສິງທະເລ	Marleono
+ໝວດ:ນັກສະແດງ	Kategorio:Aktoroj
+ແມ່ແບບ:Tl	Ŝablono:Ŝ
+ແມ່ແບບ:Wikipedialang	Ŝablono:ĈefPaĝo/AliajLingvoj
+ໝວດ:ປະເທດ	Kategorio:Landoj
+ໝວດ:ເສດຖະສາດ	Kategorio:Ekonomiko
+ວິກິພີເດຍ:ຜູ້ບໍລິຫານ	Vikipedio:Administrantoj
+ໝວດ:ອາຊີບ	Kategorio:Profesioj
+ໝວດ:ເວລາ	Kategorio:Tempo
+ໝວດ:ທຳມະຊາດ	Kategorio:Naturo
+ໝວດ:ອິນເຕີເນັດ	Kategorio:Interreto
+ໝວດ:ວັດສະດຸ	Kategorio:Materialoj
+ໝວດ:ແພດສາດ	Kategorio:Medicino
+ໝວດ:ການເມືອງ	Kategorio:Politiko
+ໝວດ:ການສຶກສາ	Kategorio:Edukado
+ໝວດ:ສິລະປະ	Kategorio:Arto
+ໝວດ:ຊອຟແວ	Kategorio:Programaro
+ແມ່ແບບ:Bot	Ŝablono:Bot
+ປະເທດການາດາ	Kanado
+ໝວດ:ບົດຄວາມດີເດັ່ນ	Kategorio:Elstaraj artikoloj
+ຄວາມຕ້ອງການ (ເສດຖະສາດ)	Mendado
+ແມ່ແບບ:Flagicon	Ŝablono:Flagikono
+ໝວດ:ເອີລົບ	Kategorio:Eŭropo
+ແມ່ແບບ:ຄູ່ມືການໃຊ້ງານ	Ŝablono:Dok
+ໝວດ:ຜູ້ໃຊ້ແບ່ງຕາມພາສາ	Kategorio:Vikipediistoj laŭ lingvo
+ວິກິພີເດຍ:ຫ້າຫຼັກການ	Vikipedio:Kvin principoj
+ໝວດ:ແນວປະຕິບັດວິກິພີເດຍ	Kategorio:Vikipedio:Rekomendoj
+ວິກິພີເດຍ:ກ່ອງຜູ້ໃຊ້	Vikipedio:Uzantoskatolo
+ຊໂງ ໃຈ-ກກິ	Sung Jae-gi
+ທຸລະກິດ	Profitcela organizaĵo
+ແມ່ແບບ:Softredirect	Ŝablono:Intervikia plusendilo
+ແມ່ແບບ:ລຶບ	Ŝablono:Forigu tuj
+ໝວດ:ພາສາ: ເຕັກໂນໂລຊີ	Kategorio:Teknologio
+ໝວດ:ພັນທຸສາດ	Kategorio:Genetiko
+ໝວດ:ພາສາ	Kategorio:Lingvoj
+ໝວດ:ໄວຍາກອນ	Kategorio:Gramatiko
+ໝວດ:ປະຕິທິນ	Kategorio:Kalendaro
+ໝວດ:ວິກິພີເດຍ	Kategorio:Vikipedio
+ວິກິພີເດຍ:ຂໍ້ປະຕິເສດຄວາມຮັບຜິດຊອບ	Vikipedio:Malgarantio
+ໝວດ:Pages with broken file links	Kategorio:Paĝoj kun eraraj dosierligiloj
+ແມ່ແບບ:Navbox	Ŝablono:Navigilo2
+ໜູຖົງ	Kanguruo
+ການບໍລິຫານ	Administracio
+ໝວດ:ການບຳລຸງຮັກສາວິກິພີເດຍ	Kategorio:Artikoloj bezonantaj plibonigon
+ໝວດ:ຄອມພິວເຕີ	Kategorio:Aplikata komputiko
+ແມ່ແບບ:!	Ŝablono:!
+ໝວດ:ແມ່ແບບທຸງ	Kategorio:Ŝablonoj landonomoj kun flageto
+ແມ່ແບບ:!-	Ŝablono:!-
+ແມ່ແບບ:Tnavbar	Ŝablono:Tnavbar
+ແມ່ແບບ:Fontie	Ŝablono:Unicode
+ໝວດ:ອາຟຣິກກາ	Kategorio:Afriko
+ໝວດ:ປຶ້ມ	Kategorio:Libroj
+ແມ່ແບບ:ບາເບລ	Ŝablono:Babelejo
+ແມ່ແບບ:Commons	Ŝablono:Commons
+ແມ່ແບບ:Reflist	Ŝablono:Referencoj
+ວິກິພີເດຍ:ການອ້າງອີງແຫຼ່ງທີ່ມາ	Vikipedio:Citi fontojn
+ວິກິພີເດຍ:ຊອກຫາ	Helpo:Serĉado
+ແມ່ແບບ:Gnunote	Ŝablono:Gnunote
+ແມ່ແບບ:Stub	Ŝablono:Ĝermo
+ແມ່ແບບ:User eo-1	Ŝablono:Vikipediisto eo-1
+ແມ່ແບບ:User de	Ŝablono:Vikipediisto de
+ແມ່ແບບ:User de-1	Ŝablono:Vikipediisto de-1
+ແມ່ແບບ:User es	Ŝablono:Vikipediisto es
+ແມ່ແບບ:User de-3	Ŝablono:Vikipediisto de-3
+ແມ່ແບບ:User en-3	Ŝablono:Vikipediisto en-3
+ແມ່ແບບ:User en-1	Ŝablono:Vikipediisto en-1
+ແມ່ແບບ:User en-2	Ŝablono:Vikipediisto en-2
+ແມ່ແບບ:User en-4	Ŝablono:Vikipediisto en-4
+ແມ່ແບບ:User en	Ŝablono:Vikipediisto en
+ແມ່ແບບ:User de-2	Ŝablono:Vikipediisto de-2
+ແມ່ແບບ:User fr-1	Ŝablono:Vikipediisto fr-1
+ແມ່ແບບ:User ja-4	Ŝablono:Vikipediisto ja-4
+ແມ່ແບບ:User ja	Ŝablono:Vikipediisto ja
+ແມ່ແບບ:User ja-1	Ŝablono:Vikipediisto ja-1
+ແມ່ແບບ:User fr	Ŝablono:Vikipediisto fr
+ໝວດ:ອາຊີ	Kategorio:Azio
+ແມ່ແບບ:Esoteric	Ŝablono:Esotera
+ໝວດ:ປະເທດມາເລເຊຍ	Kategorio:Malajzio
+ແມ່ແບບ:Mod	Ŝablono:Mod
+ແມ່ແບບ:User es-2	Ŝablono:Vikipediisto es-2
+ແມ່ແບບ:ຍິນດີຕ້ອນຮັບ	Ŝablono:Bonvenon
+ແມ່ແບບ:Sisterprojects	Ŝablono:ĈefPaĝo/AliajProjektoj
+ໝວດ:ດວງຈັນ	Kategorio:Luno
+ແມ່ແບບ:USA	Ŝablono:USA
+ໝວດ:ພາສາສາດ	Kategorio:Lingvoscienco
+ແມ່ແບບ:Click	Ŝablono:Ligo el bildo
+ໝວດ:User fr-1	Kategorio:Vikipediisto fr-1
+ແມ່ແບບ:Image label	Ŝablono:Marko sur bildo
+ໝວດ:ແມວ	Kategorio:Katoj
+ແມ່ແບບ:Sidebar	Ŝablono:Flanka kesto2
+ແມ່ແບບ:ປັບປຸງການອ້າງອີງ	Ŝablono:Nesufiĉaj fontoj
+ແມ່ແບບ:ກ່ອງຜູ້ໃຊ້ລຸ່ມ	Ŝablono:Uzantoskatolaro/fino
+ແມ່ແບບ:ຂໍ້ມູນປະເທດ	Ŝablono:Informkesto lando
+ແມ່ແບບ:Px	Ŝablono:Px
+ແມ່ແບບ:ກ່ອງຜູ້ໃຊ້ເທິງ	Ŝablono:Uzantoskatolaro/komenco
+ແມ່ແບບ:Infobox Political party	Ŝablono:Informkesto politika partio
+ແມ່ແບບ:ກ່ອງຂ້ໍມູນ ປະຊາຄົມອາຊຽນ	Ŝablono:Navigilo kun kolumnoj
+ແມ່ແບບ:Infobox ບໍລິສັດ	Ŝablono:Informkesto firmao
+ແມ່ແບບ:ປ້າຍບົດຄວາມດີເດັ່ນ	Ŝablono:Elstara
+ແມ່ແບບ:Infobox ຈັກກະພັດໂຣມັນ	Ŝablono:Informkesto reganto
+ໝວດ:ປາລີ	Kategorio:Parizo
+ໝວດ:User en	Kategorio:Vikipediisto en
+ໝວດ:User zh	Kategorio:Vikipediisto zh
+ໝວດ:User en-2	Kategorio:Vikipediisto en-2
+ແມ່ແບບ:Infobox	Ŝablono:Informkesto
+ແມ່ແບບ:User zh	Ŝablono:Vikipediisto zh
+ໝວດ:ອັກສອນ	Kategorio:Alfabeto
+ແມ່ແບບ:Template other	Ŝablono:Ĉu ŝablono
+ໝວດ:ພາສາ: ບິນ	Kategorio:Aviado
+ໝວດ:ອາຫານແລະເຄື່ອງດື່ມ	Kategorio:Kuirarto
+ແມ່ແບບ:Pp-template	Ŝablono:Pp-ŝablono
+ແມ່ແບບ:Infobox City Poland	Ŝablono:Urbo pl
+ແມ່ແບບ:ວິກິວັດຈະນານຸກົມ	Ŝablono:Vikivortaro
+ແມ່ແບບ:Languageicon	Ŝablono:Ref-lang
+ແມ່ແບບ:Pp-semi-template	Ŝablono:Pp-duone-ŝablono
+ແມ່ແບບ:User ru	Ŝablono:Vikipediisto ru
+ໝວດ:ອະເມລິກາ	Kategorio:Ameriko
+ໝວດ:ເຂົ້າຈີ່	Kategorio:Panoj
+ແມ່ແບບ:ກັບສາງ	Ŝablono:Arkivo
+ວິກິພີເດຍ:ຂ້ອຄວາມຂວງ GNU Free Documentation License	Vikipedio:GNU Free Documentation License
+ແມ່ແບບ:Sisterlinks	Ŝablono:Projektoj
+ແມ່ແບບ:Border	Ŝablono:Bordero
+ໝວດ:ພາສາທະຫານ	Kategorio:Armitaj fortoj
+ແມ່ແບບ:Increase	Ŝablono:Kresko
+ແມ່ແບບ:Image label end	Ŝablono:Marko sur bildo fino
+ແມ່ແບບ:Tlx	Ŝablono:Tlx
+ແມ່ແບບ:CAN	Ŝablono:CAN
+ໝວດ:ຄຳສັບ	Kategorio:Leksikoj
+ໝວດ:ຄຳ	Kategorio:Vortoj
+ແມ່ແບບ:ກ່ອງຜູ້ໃຊ້ຄັ່ນ	Ŝablono:Uzantoskatolaro/interrompo
+ໝວດ:ແຫຼ່ງນ້ຳ	Kategorio:Akvaĵoj
+ແມ່ແບບ:ຕ້ອງການອ້າງອີງ	Ŝablono:Sen fontoj
+ໝວດ:ສະໜາມບິນໃນຫວຽດນາມ	Kategorio:Flughavenoj de Vietnamio
+ແມ່ແບບ:Image label small	Ŝablono:Marko sur bildo malgranda
+ໝວດ:ພະມະຫາກະສັດອັງກິດ	Kategorio:Anglaj reĝoj
+ໝວດ:ສານອາຫານ	Kategorio:Nutraĵo
+ແມ່ແບບ:SUL Box	Ŝablono:Uzanto SUL
+ໝວດ:ວິທະຍາສາດສຸຂະພາບ	Kategorio:Sanscienco
+ແມ່ແບບ:Lang-en	Ŝablono:Lang-en
+ໝວດ:ເນີຍແຂງ	Kategorio:Fromaĝoj
+ແມ່ແບບ:UK	Ŝablono:GBR
+ໝວດ:ສະຖາປັດຕະຍະກຳ	Kategorio:Arkitekturo
+ໝວດ:ລົດໄຟ	Kategorio:Fervojo
+ແມ່ແບບ:Interwiki	Ŝablono:Vikipedio
+ໝວດ:ໂພຊະນາການ	Kategorio:Nutrado
+ແມ່ແບບ:ບໍ່ເປັນກາງ	Ŝablono:Malneŭtraleco
+ແມ່ແບບ:Dmoz	Ŝablono:Dmoz
+ໝວດ:ເມືອງໃນແຂວງເກແບັກ	Kategorio:Urboj en Kebekio
+ໝວດ:User eo	Kategorio:Vikipediisto eo
+ໝວດ:User fr	Kategorio:Vikipediisto fr
+ໝວດ:User ja	Kategorio:Vikipediisto ja
+ໝວດ:User th	Kategorio:Vikipediisto th
+ໝວດ:User ja-2	Kategorio:Vikipediisto ja-2
+ໝວດ:User fr-N	Kategorio:Vikipediisto fr-D
+ໝວດ:ແມ່ນ້ຳອາມາຊົນ	Kategorio:Amazonio
+ໝວດ:ແຂວງກວາງບິນ	Kategorio:Provinco Quang Binh
+ໝວດ:User en-3	Kategorio:Vikipediisto en-3
+ໝວດ:User en-N	Kategorio:Vikipediisto en-D
+ໝວດ:User eo-1	Kategorio:Vikipediisto eo-1
+ໝວດ:User es	Kategorio:Vikipediisto es
+ແມ່ແບບ:EU	Ŝablono:Eŭropa Unio
+ໝວດ:User es-2	Kategorio:Vikipediisto es-2
+ໝວດ:User es-3	Kategorio:Vikipediisto es-3
+ນິກາຍອັງກະລິກັງ	Anglikanismo
+ໝວດ:ສິລະປິນ	Kategorio:Artistoj
+ໝວດ:ເວັບໄຊຕ໌	Kategorio:Retejoj
+ໝວດ:User ko	Kategorio:Vikipediisto ko
+ໝວດ:User ko-1	Kategorio:Vikipediisto ko-1
+ໝວດ:ຫົວໜ່ວຍການປົກຄອງ	Kategorio:Teritoria administrado
+ໝວດ:ພາສາວັນນະຍຸດ	Kategorio:Tonlingvoj
+ໝວດ:ເມືອງໃນປະເທດຝະລັ່ງ	Kategorio:Urboj de Francio
+ໝວດ:ວັນນະຄະດີເດັກນ້ອຍ	Kategorio:Literaturo por infanoj
+ແມ່ແບບ:ຮູບຫຼາຍແຈ	Ŝablono:Plurlateroj
+ໝວດ:ທະເລ	Kategorio:Maroj
+ໝວດ:ປະເທດອັງກິດ	Kategorio:Anglio
+ໝວດ:ນັກສະແດງແບ່ງຕາມສັນຊາດ	Kategorio:Aktoroj laŭ landoj
+ໝວດ:ລະບົບສຸລິຍະ	Kategorio:Sunsistemo
+ຊ່ວຍເຫຼືອ:ຫ້ອງສາງ	Helpo:Arkivigi
+ໝວດ:ອຸດສາຫະກຳ	Kategorio:Industrio
+ໝວດ:ນ້ຳ	Kategorio:Akvo
+ໝວດ:ສັດກິນຊີ້ນ	Kategorio:Karnomanĝuloj
+ໝວດ:ຟີລຳ	Kategorio:Filumo
+ໝວດ:ເຮລີກົບແຕ	Kategorio:Helikopteroj
+ໝວດ:ນາຍົກລັດຖະມົນຕີ	Kategorio:Ĉefministroj
+ໝວດ:ນັກຮ້ອງການາດາ	Kategorio:Kanadaj kantistoj
+ແມ່ແບບ:User es-3	Ŝablono:Vikipediisto es-3
+ໝວດ:User ru	Kategorio:Vikipediisto ru
+ໝວດ:User ru-3	Kategorio:Vikipediisto ru-3
+ໝວດ:User th-N	Kategorio:Vikipediisto th-D
+ແມ່ແບບ:Lang	Ŝablono:Lang
+ໝວດ:ສາຂາວິຊາວິທະຍາສາດ	Kategorio:Sciencaj studfakoj
+ໝວດ:ຊາວພະມ້າ	Kategorio:Birmanoj
+ໝວດ:ມະນຸດ	Kategorio:Homoj
+ໝວດ:ພາສາ: ບົດຄວາມ	Kategorio:Artikoloj
+ແມ່ແບບ:ບົດຄວາມຫຼັກ	Ŝablono:Ĉefartikolo
+ໝວດ:ວັນນະຄະດີແບ່ງຕາມປະເພດ	Kategorio:Literaturo laŭ ĝenroj
+ແມ່ແບບ:ໃຜກ່າວ	Ŝablono:Kiu?
+ໝວດ:ວົງເສືອແລະແມວ	Kategorio:Felisedoj
+ໝວດ:ແມ່ນ້ຳແບ່ງຕາມປະເທດ	Kategorio:Riveroj laŭ lando
+ໝວດ:ສະກຸນເງິນ	Kategorio:Monunuoj
+ແມ່ແບບ:Infobox Language/family-color	Ŝablono:Informkesto lingvo/Koloro
+ໝວດ:ແມ່ນ້ຳ	Kategorio:Riveroj
+ໝວດ:ແມ່ນ້ຳໃນປະເທດບະເລຊິນ	Kategorio:Riveroj en Brazilo
+ໝວດ:ແມ່ນ້ຳໃນປະເທດເປລູ	Kategorio:Riveroj en Peruo
+ໝວດ:ນັກຮ້ອງແບ່ງຕາມສັນຊາດ	Kategorio:Kantistoj laŭ landoj
+ໝວດ:ນ້ຳມັນ	Kategorio:Oleoj
+ໝວດ:User zh-1	Kategorio:Vikipediisto zh-1
+ໝວດ:User zh-3	Kategorio:Vikipediisto zh-3
+ໝວດ:ພະມະຫາກະສັດໄທ	Kategorio:Reĝoj de Tajlando
+ໝວດ:ຊັບສິນທາງປັນຍາ	Kategorio:Juro pri intelekta proprieto
+ໝວດ:ນັກສະແດງຈີນ	Kategorio:Ĉinaj aktoroj
+ໝວດ:ນັກສະແດງໄທ	Kategorio:Tajlandaj aktoroj
+ໝວດ:ປະທານປະເທດລາວ	Kategorio:Prezidantoj de Laoso
+ໝວດ:ຊາວໄທ	Kategorio:Tajlandanoj
+ໝວດ:ນັກຮ້ອງຈີນ	Kategorio:Ĉinaj kantistoj
+ໝວດ:ນິກາຍໃນສາສະໜາຄິດ	Kategorio:Kristanaj konfesioj
+ໝວດ:ມໍລະດົກໂລກແບ່ງຕາມປະເທດ	Kategorio:Mondaj heredaĵoj laŭ landoj
+ໝວດ:ແມ່ນ້ຳໃນປະເທດໂກລົມບີ	Kategorio:Riveroj en Kolombio
+ໝວດ:ນາຍົກລັດຖະມົນຕີແບ່ງຕາມປະເທດ	Kategorio:Ĉefministroj laŭ landoj
+ໝວດ:ປະເທດລາວ	Kategorio:Laoso
+ໝວດ:ຜັກ	Kategorio:Legomoj
+ໝວດ:ໝາກໄມ້	Kategorio:Fruktoj
+ໝວດ:ພາສາໃນປະເທດລາວ	Kategorio:Lingvoj de Laoso
+ໝວດ:ພາສາລາແຕັງ	Kategorio:Latina lingvo
+ໝວດ:ມໍລະດົກໂລກໃນປະເທດຝະລັ່ງ	Kategorio:Mondaj heredaĵoj en Francio
+ໝວດ:ມະຫາສະໝຸດ	Kategorio:Oceanoj
+ໝວດ:ມະນຸດສາດ	Kategorio:Antropologio
+ໝວດ:ລົດສະນິຍົມທາງເພດ	Kategorio:Seksa orientiĝo
+ໝວດ:ລະບົບປະຕິບັດການ	Kategorio:Operaciumoj
+ໝວດ:ລະດູ	Kategorio:Sezonoj
+ໝວດ:ແຮ່ທາດສາດ	Kategorio:Mineralogio
+ໝວດ:ວິວັດທະນາການ	Kategorio:Evoluo
+ໝວດ:ສັດ	Kategorio:Bestoj
+ໝວດ:ສັດທະສາດ	Kategorio:Fonetiko
+ໝວດ:ສະເຕໂລອິດ	Kategorio:Steroidoj
+ໝວດ:ອົງການລະຫວ່າງລັດຖະບານ	Kategorio:Interregistaraj organizaĵoj
+ໝວດ:ປະໂລເຕອິນ	Kategorio:Proteinoj
+ໝວດ:ເຄື່ອງໝາຍວັກ	Kategorio:Interpunkcio
+ໝວດ:ເພງ	Kategorio:Kantoj
+ໝວດ:ນະຄອນຫຼວງ	Kategorio:Ĉefurboj
+ໝວດ:ເມືອງໃນລາວ	Kategorio:Urboj de Laoso
+ໝວດ:ເອດສ໌	Kategorio:Aidoso
+ໝວດ:ອາຊີຕາເວັນອອກສຽງໃຕ້	Kategorio:Sud-Orienta Azio
+ໝວດ:ໄດໂນເສົາ	Kategorio:Dinosaŭroj
+ໝວດ:ກຸ່ມພາສາໂລມັງ	Kategorio:Latinida lingvaro
+ໝວດ:ພາສາ: ການຂົນສົ່ງ	Kategorio:Transporto
+ໝວດ:ການຟ້ອນລຳ	Kategorio:Danco
+ໝວດ:ກະລູຊິດ	Kategorio:Karbonhidratoj
+ໝວດ:ນັກເສດຖະສາດ	Kategorio:Ekonomikistoj
+ແມ່ແບບ:ກ່ອງຂໍ້ມູນ ພາສາ	Ŝablono:Informkesto lingvo
+ໝວດ:ພືດທີ່ກິນໄດ້	Kategorio:Manĝeblaj sovaĝaj plantoj
+ໝວດ:ກາເຟ	Kategorio:Kafo
+ໝວດ:ພາສາອິຕາລີ	Kategorio:Itala lingvo
+ໝວດ:ພາສາແອສະປາໂຍນ	Kategorio:Hispana lingvo
+ໝວດ:ພາສາໃນປະເທດໄທ	Kategorio:Lingvoj de Tajlando
+ໝວດ:ແຊນ	Kategorio:Genoj
+ໝວດ:ຍານພາຫະນະ	Kategorio:Veturiloj
+ໝວດ:ລົດ	Kategorio:Aŭtomobiloj
+ໝວດ:Tanks	Kategorio:Tankoj
+ໝວດ:ພາສາໃນປະເທດຫວຽດນາມ	Kategorio:Lingvoj de Vjetnamio
+ໝວດ:ອາຫານຝະລັ່ງ	Kategorio:Franca kuirarto
+ການບໍລິການ	Servo
+ໝວດ:ສະໄໝກາງ	Kategorio:Mezepoko
+ໝວດ:ສຸຂະພາບ	Kategorio:Sano
+ແມ່ແບບ:ທຸງຊາດ	Ŝablono:Flago
+ແມ່ແບບ:G8	Ŝablono:G8-Ŝtatoj
+ໝວດ:ເສດຖະສາດມະຫາພາກ	Kategorio:Makroekonomio
+ໝວດ:ແຂວງເກແບັກ	Kategorio:Kebekio
+ໝວດ:ພາສາປືນໃຫຍ່	Kategorio:Artilerio
+ໝວດ:ຂົວ	Kategorio:Pontoj
+ໝວດ:ພາສາກາຕາລັງ	Kategorio:Kataluna lingvo
+ສິດທິເດັກ	Infanrajtoj
+ໝວດ:ເອແດມບວກ	Kategorio:Edinburgo
+ໝວດ:ຮາດແວ	Kategorio:Komputila aparataro
+ໝວດ:ພະລັງງານ	Kategorio:Energio
+ໝວດ:ພາສາຝະລັ່ງ	Kategorio:Franca lingvo
+ໝວດ:ສຽງມະນຸດ	Kategorio:Homa voĉo
+ໝວດ:ໂຣບົດ	Kategorio:Robotoj
+ໝວດ:ພາສາລູມານີ	Kategorio:Rumana lingvo
+ໝວດ:ພາສາອົກຊີຕັງ	Kategorio:Okcitana lingvo
+ໝວດ:ສັດມີແກນສັນຫຼັງ	Kategorio:Ĥorduloj
+ໝວດ:ມົງເລອານ	Kategorio:Montrealo
+ໝວດ:ໂທລະສັບ	Kategorio:Telefono
+ໝວດ:ໜ່ວຍນັບເວລາ	Kategorio:Mezurunuoj de tempo
+ໝວດ:ວິທະຍາສາດປະຍຸກ	Kategorio:Aplikataj sciencoj
+ແມ່ແບບ:Image label begin	Ŝablono:Marko sur bildo komenco
+ໝວດ:ພາສາກໍາລັງທາງອາກາດ	Kategorio:Aerarmeo
+ແມ່ແບບ:Coor dms	Ŝablono:Koordinatoj gms
+ໝວດ:User en-1	Kategorio:Vikipediisto en-1
+ໝວດ:ນັກສະແດງອາເມລິກັນ	Kategorio:Usonaj aktoroj
+ປະເທດໂມນດາວີ	Princlando Moldavio
+ແມ່ແບບ:QC	Ŝablono:CA-QC
+ແມ່ແບບ:Infobox file format	Ŝablono:Informkesto dosiera aranĝo
+ຮຳຊະ	Ĥamso
+ພິເສດ:ການດັດແກ້ຫຼ້າສຸດ	Specialaĵo:Lastaj ŝanĝoj
+Module:Coordinates	Modulo:Coordinates
+ສາຍການບິນມາເລເຊຍທຽ່ວບິນMH370	Flugo 370 de Malaysia Airlines

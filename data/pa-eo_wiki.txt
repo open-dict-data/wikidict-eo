@@ -1,0 +1,6642 @@
+ਅਫ਼ਰੀਕਾ	Afriko
+ਜਪਾਨ	Japanio
+ਦੱਖਣੀ ਅਮਰੀਕਾ	Sudameriko
+ਨਾਰਵੇ	Norvegio
+ਇੰਗਲੈਂਡ	Anglio
+ਸਕਾਟਲੈਂਡ	Skotlando
+ਵੇਲਜ਼	Kimrio
+ਉੱਤਰੀ ਆਇਰਲੈਂਡ	Nord-Irlando
+ਆਇਰਲੈਂਡ ਗਣਰਾਜ	Irlando
+ਹੰਗਰੀ	Hungario
+ਸਪੇਨ	Hispanio
+ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ	Usono
+ਬੈਲਜੀਅਮ	Belgio
+ਲਕਸਮਬਰਗ	Luksemburgo (lando)
+ਧਰਤੀ	Tero
+ਜੀਵਨ	Vivo
+ਮੌਤ	Morto
+ਮਨੁੱਖ	Homo
+ਖ਼ੁਸ਼ੀ	Feliĉo
+ਜਾਰਜ ਵਾਸ਼ਿੰਗਟਨ	George Washington
+ਫ਼ਿਨਲੈਂਡ	Finnlando
+ਸਵੀਡਨ	Svedio
+ਡੈੱਨਮਾਰਕ	Danio
+ਪੋਲੈਂਡ	Pollando
+ਲਿਥੁਆਨੀਆ	Litovio
+ਇਟਲੀ	Italio
+ਸਵਿਟਜ਼ਰਲੈਂਡ	Svislando
+ਆਸਟਰੀਆ	Aŭstrio
+ਯੂਨਾਨ	Grekio
+ਤੁਰਕੀ	Turkio
+ਪੁਰਤਗਾਲ	Portugalio
+ਯੂਰਪ	Eŭropo
+ਏਸ਼ੀਆ	Azio
+ਉੱਤਰੀ ਅਮਰੀਕਾ	Nordameriko
+ਅੰਟਾਰਕਟਿਕਾ	Antarkto
+ਵਿਕੀਪੀਡੀਆ	Vikipedio
+ਨੀਦਰਲੈਂਡ	Nederlando
+ਸ਼ਿਸ਼ਨ	Peniso
+ਨਿਊਯਾਰਕ ਸ਼ਹਿਰ	Novjorko
+ਵਾਸ਼ਿੰਗਟਨ, ਡੀ.ਸੀ.	Vaŝingtono
+ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ	San-Francisko
+ਬਰਲਿਨ	Berlino
+ਲਾਸ ਐਂਜਲਸ	Los-Anĝeleso
+ਕੰਪਿਊਟਰ	Komputilo
+ਬਰਨ	Berno
+ਜਨੇਵਾ	Ĝenevo
+ਜ਼ਿਊਰਿਖ	Zuriko
+ਇੰਟਰਨੈੱਟ	Interreto
+ਬਰਾਕ ਓਬਾਮਾ	Barack Obama
+ਉਰੂਗੁਏ	Urugvajo
+ਲੰਡਨ	Londono
+ਕਾਹਿਰਾ	Kairo
+ਸਿਰਦਰਦ	Kapdoloro
+ਸਿਕੰਦਰੀਆ	Aleksandrio
+ਸੇਬ	Pomo
+ਪੈਰਿਸ	Parizo
+ਅਬਰਾਹਮ ਲਿੰਕਨ	Abraham Lincoln
+ਐਂਡ੍ਰਾਇਡ (ਆਪਰੇਟਿੰਗ ਸਿਸਟਮ)	Android
+ਗੂਗਲ	Google
+ਮੈਕਸੀਕੋ	Meksiko
+ਅੰਧ ਮਹਾਂਸਾਗਰ	Atlantika Oceano
+ਪ੍ਰਸ਼ਾਂਤ ਮਹਾਂਸਾਗਰ	Pacifika Oceano
+ਕੈਲੀਫ਼ੋਰਨੀਆ	Kalifornio
+ਬੌਸਟਨ	Bostono
+ਸੋਮਵਾਰ	Lundo
+ਵਿਸਥਾਰ	Spaco
+ਜਨਵਰੀ	Januaro
+ਫ਼ਰਵਰੀ	Februaro
+ਮਾਰਚ	Marto
+ਮੰਗਲ (ਗ੍ਰਹਿ)	Marso
+ਮਾਰਸ	Marso (dio)
+ਕੀਨੀਆ	Kenjo
+ਇਥੋਪੀਆ	Etiopio
+ਘਾਨਾ	Ganao
+ਅਪ੍ਰੈਲ	Aprilo
+ਮਈ	Majo
+ਜੂਨ	Junio
+ਜੁਲਾਈ	Julio
+ਅਗਸਤ	Aŭgusto
+ਸਤੰਬਰ	Septembro
+ਅਕਤੂਬਰ	Oktobro
+ਨਵੰਬਰ	Novembro
+ਦਸੰਬਰ	Decembro
+ਮੰਗਲਵਾਰ	Mardo
+ਬੁੱਧਵਾਰ	Merkredo
+ਵੀਰਵਾਰ	Ĵaŭdo
+ਸ਼ੁੱਕਰਵਾਰ	Vendredo
+ਸ਼ਨਿੱਚਰਵਾਰ	Sabato
+ਐਤਵਾਰ	Dimanĉo
+ਫ਼ਰਾਂਸ	Francio
+ਏਸਪੇਰਾਂਤੋ	Esperanto
+ਕੁੱਤਾ	Hundo
+ਸੰਯੁਕਤ ਬਾਦਸ਼ਾਹੀ	Unuiĝinta Reĝlando
+ਬਿੱਲੀ	Hejma kato
+ਚੀਨ ਲੋਕ ਗਣਰਾਜ	Ĉina Popola Respubliko
+ਫ਼ਰਾਂਸੀਸੀ ਭਾਸ਼ਾ	Franca lingvo
+ਵਿਕਸ਼ਨਰੀ	Vikivortaro
+ਮੱਛੀ	Fiŝoj
+ਈਥੇਨੋਲ	Etanolo
+ਬ੍ਰਾਜ਼ੀਲ	Brazilo
+ਅਲਕੋਹਲ	Alkoholo
+ਫਰਾਂਸੋਆ ਔਲਾਂਦ	François Hollande
+ਰੂਸ	Rusio
+ਪ੍ਰਕਾਸ਼ੀ ਤੰਦ	Optika fibro
+ਸਮੁੰਦਰ	Maro
+ਕਾਲ਼ਾ ਸਮੁੰਦਰ	Nigra Maro
+ਪਾਈ	Pi (nombro)
+ਪਾਈ (ਅੱਖਰ)	Pio (litero)
+ਅੰਬ	Mango (frukto)
+ਟੋਰਾਂਟੋ	Toronto
+ਅਲਾਬਾਮਾ	Alabamo
+ਸਾਓ ਪਾਉਲੋ	San-Paŭlo (urbo)
+ਕੇਬੈਕ	Kebekio
+ਪੀਜ਼ਾ	Pico
+ਵਿਕੀਮੀਡੀਆ ਫ਼ਾਊਂਡੇਸ਼ਨ	Fondaĵo Vikimedio
+ਜਿੰਮੀ ਵੇਲਸ	Jimmy Wales
+ਜਰਮਨੀ	Germanio
+ਬੇਲਾਰੂਸ	Belorusio
+ਜਰਮਨ ਭਾਸ਼ਾ	Germana lingvo
+ਆਈਸਲੈਂਡ	Islando
+ਪਰਮਾਤਮਾ	Dio
+ਇਸਤੋਨੀਆ	Estonio
+ਸ਼ਨੀ (ਗ੍ਰਹਿ)	Saturno (planedo)
+ਹਵਾਈ ਜਹਾਜ਼	Aviadilo
+ਜੰਗ	Milito
+੧ (ਅੰਕ)	1 (nombro)
+੨ (ਅੰਕ)	2 (nombro)
+੩ (ਅੰਕ)	3 (nombro)
+੪ (ਅੰਕ)	4 (nombro)
+੫ (ਅੰਕ)	5 (nombro)
+ਸਿਫ਼ਰ (ਅੰਕ)	Nulo
+ਸਟੀਵਨ ਹਾਰਪਰ	Stephen Harper
+ਜਾਰਜ ਵਾਕਰ ਬੁਸ਼	George W. Bush
+ਲਾਤਵੀਆ	Latvio
+ਯੂਕਰੇਨ	Ukrainio
+ਚੈੱਕ ਗਣਰਾਜ	Ĉeĥio
+ਸਲੋਵਾਕੀਆ	Slovakio
+ਸਲੋਵੇਨੀਆ	Slovenio
+ਵਿਲਨਸ	Vilno
+ਮੋਲਦੋਵਾ	Moldava Respubliko
+ਰੋਮਾਨੀਆ	Rumanio
+ਬੁਲਗਾਰੀਆ	Bulgario
+ਰੋਮ	Romo
+ਮਕਦੂਨੀਆ ਗਣਰਾਜ	Respubliko Makedonio
+ਅਲਬਾਨੀਆ	Albanio
+ਗਰੀਨਲੈਂਡ	Gronlando
+ਕ੍ਰੋਏਸ਼ੀਆ	Kroatio
+ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵੀਨਾ	Bosnio kaj Hercegovino
+ਨੂਕ	Nuko (Gronlando)
+ਅਜ਼ਰਬਾਈਜਾਨ	Azerbajĝano
+ਅੰਡੋਰਾ	Andoro
+ਸਾਇਪ੍ਰਸ	Kipro
+ਜਾਰਜੀਆ (ਦੇਸ਼)	Kartvelio
+ਕਜ਼ਾਖ਼ਸਤਾਨ	Kazaĥio
+ਮਾਲਟਾ	Malto
+ਮੋਨਾਕੋ	Monako
+ਮੋਂਟੇਨੇਗਰੋ	Montenegro
+ਵੈਟੀਕਨ ਸ਼ਹਿਰ	Vatikano
+ਸਾਨ ਮਰੀਨੋ	San-Marino
+ਬਰੱਸਲਸ (ਸ਼ਹਿਰ)	Brusela Ĉefurba Regiono
+ਕਿਊਬਾ	Kubo
+ਬੇਲੀਜ਼	Belizo
+ਆਈਫ਼ਲ ਟਾਵਰ	Eiffel-Turo
+ਬਾਰਬਾਡੋਸ	Barbado
+ਫ਼ੌਕਸਵੈਗਨ	Volkswagen
+ਇਨਟੈੱਲ	Intel
+ਜਾਵਾ (ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ)	Java (programlingvo)
+ਇੰਡੋਨੇਸ਼ੀਆ	Indonezio
+ਵੋਲਫ਼ਗਾਂਗ ਆਮਾਡੇਅਸ ਮੋਜ਼ਾਰਟ	Wolfgang Amadeus Mozart
+ਲੁਡਵਿਗ ਵਾਨ ਬੀਥੋਵਨ	Ludwig van Beethoven
+ਤੁਰਕ ਭਾਸ਼ਾ	Turka lingvo
+ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ	Sud-Afriko
+ਅਲਜੀਰੀਆ	Alĝerio
+ਉਜ਼ਬੇਕਿਸਤਾਨ	Uzbekujo
+ਤਾਸ਼ਕੰਤ	Taŝkento
+ਵਾਰਸਾ	Varsovio
+ਵਾਈਨ	Vino
+ਪਾਣੀ	Akvo
+ਚਮੜਾ	Ledo
+ਲੱਕੜ	Ligno
+ਟੀਵੀ	Televido
+ਫ਼ਾਹਸ਼ ਰਚਨਾ	Pornografio
+ਕਲੌਦ ਮੋਨੇ	Claude Monet
+ਡਿਏਗੋ ਵੇਲਾਕਿਉਜ	Diego Velázquez
+ਚੀਲੇ	Ĉilio
+ਈਸਾ ਮਸੀਹ	Jesuo Kristo
+ਗੈਲੀਲਿਓ ਗੈਲੀਲੀ	Galilejo
+ਬੁੱਧ (ਗ੍ਰਹਿ)	Merkuro (planedo)
+ਇਤਿਹਾਸ	Historio
+ਐਪਲ	Apple
+ਭਾਸ਼ਾ	Lingvo
+ਪਿਆਰ	Amo
+ਤਾਨਾਸ਼ਾਹੀ	Diktatoreco
+ਅਕਾਸ਼ਗੰਗਾ	Galaksio
+ਬ੍ਰਹਿਸਪਤ (ਗ੍ਰਹਿ)	Jupitero (planedo)
+ਮਿਸ਼ੇਲ ਬਾਚੇਲੇਤ	Michelle Bachelet
+ਮਿਲਕੀ ਵੇ	Lakta vojo
+ਮਹਾਂ ਧਮਾਕਾ	Praeksplodo
+ਯੁਰੇਨਸ (ਗ੍ਰਹਿ)	Urano (planedo)
+ਅੰਗਰੇਜ਼ੀ ਵਿਕੀਪੀਡੀਆ	Anglalingva Vikipedio
+ਵਰੁਣ (ਗ੍ਰਹਿ)	Neptuno (planedo)
+ਤਾਰਾ ਵਿਗਿਆਨ	Astronomio
+ਸਿੰਗਾਪੁਰ	Singapuro
+ਵਿਗਿਆਨ	Scienco
+ਪਲੂਟੋ	Plutono
+ਮਾਂਟਰੀਆਲ	Montrealo
+ਆਜ਼ਾਦ ਸਾਫ਼ਟਵੇਅਰ	Libera programaro
+ਕੁਆਰੀ ਮਰੀਅਮ	Maria (patrino de Jesuo)
+ਲੀਖਟਨਸ਼ਟਾਈਨ	Liĥtenŝtejno
+ਖੇਡ	Sporto
+ਕੈਂਬਰਿਜ	Kembriĝo (Britio)
+ਅਡੋਲਫ ਹਿਟਲਰ	Adolf Hitler
+ਫ਼ੇਸਬੁੱਕ	Facebook
+ਵਿਕੀਲੀਕਸ	WikiLeaks
+ਪਹਿਲੀ ਸੰਸਾਰ ਜੰਗ	Unua mondmilito
+ਦੂਜੀ ਸੰਸਾਰ ਜੰਗ	Dua mondmilito
+ਕਲਨ	Kolonjo
+ਭ੍ਰਿਸ਼ਟਾਚਾਰ	Korupto
+ਘੜੀ	Horloĝo
+ਉਬੁੰਟੂ (ਆਪਰੇਟਿੰਗ ਸਿਸਟਮ)	Ubuntu (linukso)
+ਸਕੋਪੀਏ	Skopjo
+ਲਿਨਕਸ	Linukso
+ਹਿਸਾਬ	Matematiko
+ਬਹਿਰੀਨ	Barejno
+ਅਰਮੀਨੀਆ	Armenio
+ਕੀਲਾਕਾਰ ਲਿਪੀ	Kojnoskribo
+ਹਿਗਜ਼ ਬੋਸੌਨ	Bosono de Higgs
+ਸਰਬੀਆ	Serbio
+ਚੰਦਰਮਾ	Luno
+ਇਸਤਾਨਬੁਲ	Istanbulo
+ਆਸਟਰੇਲੀਆ	Aŭstralio
+ਬਾਬ ਮਾਰਲੇ	Bob Marley
+ਭੌਤਿਕ ਵਿਗਿਆਨ	Fiziko
+ਅਰਜਨਟੀਨਾ	Argentino
+ਪੇਰੂ	Peruo
+ਜੀਵ ਵਿਗਿਆਨ	Biologio
+ਉੱਡਣ ਤਸ਼ਤਰੀ	Nifo
+ਉੱਤਰੀ ਕੋਰੀਆ	Nord-Koreio
+ਕੰਬੋਡੀਆ	Kamboĝo
+ਪਸ਼ੂ ਅਧਿਕਾਰ	Bestaj rajtoj
+ਕੁਰਾਨ	Korano
+ਡਾਈਨੋਸੌਰ	Dinosaŭro
+ਜੰਤੂ ਵਿਗਿਆਨ	Bestoscienco
+ਇਸਲਾਮ	Islamo
+ਲਿਊਬਲਿਆਨਾ	Ljubljano
+ਬਨਸਪਤੀ ਵਿਗਿਆਨ	Plantoscienco
+ਦੇਨੀ ਦਿਦਰੋ	Denis Diderot
+ਅਮਨ	Paco
+ਇਨਸਾਈਕਲੋਪੀਡੀਆ ਬ੍ਰਿਟੈਨਿਕਾ	Encyclopaedia Britannica
+ਲਿਓਂ	Liono
+ਯੂਰਪੀ ਸੰਘ	Eŭropa Unio
+ਇੰਟਰਨੈੱਟ ਅਰਕਾਈਵ	Internet Archive
+ਰੋਨ-ਆਲਪ	Rodano-Alpoj
+ਵਰਲਡ ਵਾਈਡ ਵੈੱਬ	TTT
+ਔਰਤ	Virino
+ਸੋਫ਼ੀਆ	Sofio
+ਦੌਨ ਕੀਖ਼ੋਤੇ	Kiĥoto
+ਕਵਿਤਾ	Poezio
+ਆਰਥਰ ਰਿੰਬੋ	Arthur Rimbaud
+ਨਿੰਬੂ	Citrono
+ਸ਼ਾਰਲ ਬੌਦੇਲੈਰ	Charles Baudelaire
+ਸਤੇਂਦਾਲ	Stendhal
+ਐਮਿਲ ਜ਼ੋਲਾ	Émile Zola
+ਮਾਊਂਟ ਐਵਰੈਸਟ	Ĉomolungmo
+ਅੰਗ ਵਿਗਿਆਨ	Anatomio
+ਸ਼ਹਿਰ	Urbo
+ਨਪੋਲੀਅਨ	Napoleono Bonaparte
+ਤਾਰਾ	Stelo
+ਸੂਰਜ	Suno
+ਅਕਾਸ਼	Ĉielo
+ਪ੍ਰਕਾਸ਼-ਸਾਲ	Lumjaro
+ਪਿੰਡ	Vilaĝo
+ਵਿਕਤੋਰ ਊਗੋ	Victor Hugo
+ਓਸ਼ੇਨੀਆ	Oceanio
+ਜੂਜ਼ੈੱਪੇ ਗਾਰੀਬਾਲਦੀ	Giuseppe Garibaldi
+ਅਥਲੈਟਿਕਸ	Atletiko
+ਸੂਰਜ ਮੰਡਲ	Sunsistemo
+ਬਾਲਟਿਕ ਸਮੁੰਦਰ	Balta Maro
+ਸ਼ਾਂਜ਼-ਏਲੀਜ਼ੇ	Avenuo de la Elizeaj Kampoj
+ਹਾਈਡਰੋਜਨ	Hidrogeno
+ਹੀਲੀਅਮ	Heliumo
+ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼	Vikimedia Komunejo
+ਐਂਜਿਲਾ ਮੇਰਕਲ	Angela Merkel
+ਲਿਥੀਅਮ	Litio
+ਬੇਰਿਲੀਅਮ	Berilio
+ਕਿਤਾਬ	Libro
+ਦਿਨ	Tago
+ਪੂਰਬੀ ਤਿਮੋਰ	Orienta Timoro
+ਰਾਤ	Nokto
+ਸਾਲ	Jaro
+ਸਦੀ	Jarcento
+ਰਾਈਨ ਦਰਿਆ	Rejno
+ਓਸਲੋ	Oslo
+ਬੌਨ	Bonn
+ਬਲੈਕ ਹੋਲ	Nigra truo
+ਲਿਸਬਨ	Lisbono
+ਰੋਨ ਦਰਿਆ	Rodano
+ਦੁਬਈ	Dubajo
+ਲਿਓਨਲ ਮੈਸੀ	Lionel Messi
+ਬੋਰਾਨ	Boro
+ਕਾਰਬਨ	Karbono
+ਵੋਲਗਾ ਦਰਿਆ	Volgo
+ਨਾਈਟਰੋਜਨ	Nitrogeno
+ਆਕਸੀਜਨ	Oksigeno
+ਇੰਟਰ ਮਿਲਣ	Inter Milano
+ਗ੍ਰਹਿ	Planedo
+ਸੰਗੀਤ	Muziko
+ਵੈਨਿਸ	Venecio
+ਲੀਲ	Lille
+ਮਾਸਕੋ	Moskvo
+ਫ਼ਲੋਰੀਨ	Fluoro
+ਇਤਾਲਵੀ ਭਾਸ਼ਾ	Itala lingvo
+ਨੀਆਨ	Neono
+ਚੀਵਾਵਾ (ਰਾਜ)	Chihuahua
+ਸੇਂਟ ਪੀਟਰਸਬਰਗ	Sankt-Peterburgo
+ਚਾਡ	Ĉado
+ਸੋਡੀਅਮ	Natrio
+ਉੱਤਰ	Nordo
+ਮੈਗਨੀਸ਼ੀਅਮ	Magnezio
+ਐਲਮੀਨੀਅਮ	Aluminio
+ਨਿਊਜ਼ੀਲੈਂਡ	Nov-Zelando
+ਦੱਖਣ	Sudo
+ਭਾਰਤ	Barato
+ਸਿਲੀਕਾਨ	Silicio
+ਫ਼ਰਾਂਸੀਅਮ	Franciumo
+ਤੁਵਾਲੂ	Tuvalo
+ਫ਼ਾਸਫ਼ੋਰਸ	Fosforo
+ਲੋਹਾ	Fero
+ਟੋਂਗਾ	Tongo
+ਪੱਛਮ	Okcidento
+ਗੰਧਕ	Sulfuro
+ਸਮੋਆ	Samoo
+ਪੂਰਬ	Oriento
+ਸੋਲੋਮਨ ਟਾਪੂ	Salomonoj
+ਵਨੁਆਤੂ	Vanuatuo
+ਮੋਲੀਏਰ	Molière
+ਕਲੋਰੀਨ	Kloro
+ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ	Papuo-Nov-Gvineo
+ਵਿਲੀਅਮ ਸ਼ੇਕਸਪੀਅਰ	William Shakespeare
+ਪਲਾਊ	Palaŭo
+ਆਰਗਾਨ	Argono
+ਨਾਉਰੂ	Nauro
+ਫ਼ਾਇਰਫ਼ੌਕਸ	Mozilla Firefox
+ਪਰੀ ਕਥਾ	Fabelo
+ਮਾਈਕ੍ਰੋਨੇਸ਼ੀਆ ਦੇ ਸੰਘੀ ਰਾਜ	Federacio de Mikronezio
+ਪੋਟਾਸ਼ੀਅਮ	Kalio
+ਕੈਲਸ਼ੀਅਮ	Kalcio
+ਸਿੱਕਾ	Plumbo
+ਮਾਰਸ਼ਲ ਟਾਪੂ	Marŝala Insularo
+ਕਿਰੀਬਾਸ	Kiribato
+ਮੰਗੋਲੀਆ	Mongolio
+ਫ਼ਿਜੀ	Fiĝioj
+ਸਕੈਂਡੀਅਮ	Skandio
+ਟਾਈਟੇਨੀਅਮ	Titano (elemento)
+ਵੈਨੇਜ਼ੁਐਲਾ	Venezuelo
+ਸ਼ਤਰੰਜ	Ŝako
+ਚੰਗੇਜ਼ ਖ਼ਾਨ	Ĝingis-Ĥano
+ਵੈਨੇਡੀਅਮ	Vanado
+ਮੇਨ	Majno
+ਕਰੋਮੀਅਮ	Kromo
+ਘੋੜਾ	Ĉevalo
+ਅਮਸਤੱਰਦਮ	Amsterdamo
+ਹਥਿਆਰ	Armilo
+ਜੰਤੂ	Bestoj
+ਸੂਰੀਨਾਮ	Surinamo
+ਮੈਂਗਨੀਜ਼	Mangano
+ਪੈਰਾਗੁਏ	Paragvajo
+ਗੁਇਆਨਾ	Gujano
+ਕਲਾ	Arto
+ਏਕੁਆਦੋਰ	Ekvadoro
+ਰੀਨੀਅਮ	Renio
+ਕੋਲੰਬੀਆ	Kolombio
+ਕੋਬਾਲਟ	Kobalto
+ਟੰਗਸਟਨ	Volframo
+ਨਿਕਲ	Nikelo
+ਬੁੱਧ ਧਰਮ	Budhismo
+ਬੋਲੀਵੀਆ	Bolivio
+ਓਸਮੀਅਮ	Osmio
+ਤਾਂਬਾ	Kupro
+ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਤੋਬਾਗੋ	Trinidado kaj Tobago
+ਬੂਟਾ	Plantoj
+ਸੇਂਟ ਵਿਨਸੈਂਟ ਅਤੇ ਗ੍ਰੇਨਾਡੀਨਜ਼	Sankta Vincento kaj Grenadinoj
+ਜਿਸਤ	Zinko
+ਨਿਊ ਹੈਂਪਸ਼ਰ	Nov-Hampŝiro
+ਸੇਂਟ ਲੂਸੀਆ	Sankta Lucio
+ਲਿਓਨਾਰਦੋ ਦਾ ਵਿੰਚੀ	Leonardo da Vinci
+ਸੇਂਟ ਕਿਟਸ ਅਤੇ ਨੇਵਿਸ	Sankta-Kito kaj Neviso
+ਉੱਲੀ	Fungoj
+ਦਾਰੀਓ ਫ਼ੋ	Dario Fo
+ਜਮੈਕਾ	Jamajko
+ਗ੍ਰੇਨਾਡਾ	Grenado (lando)
+ਮੈਸਾਚੂਸਟਸ	Masaĉuseco
+ਗੁਆਤੇਮਾਲਾ	Gvatemalo
+ਬਹਾਮਾਸ	Bahamoj
+ਕਨੈਟੀਕਟ	Konektikuto
+ਐਂਟੀਗੁਆ ਅਤੇ ਬਰਬੂਡਾ	Antigvo-Barbudo
+ਹਵਾਈ	Havajo
+ਹਾਂਡੂਰਾਸ	Honduro
+ਡੋਮਿਨਿਕਾ	Dominiko
+ਜਰਸੀ	Ĵersejo
+ਡੋਮਿਨਿਕਾਈ ਗਣਰਾਜ	Domingo
+ਆਰਕਟਿਕ ਮਹਾਂਸਾਗਰ	Arkta Oceano
+ਹੈਤੀ	Haitio
+ਸਾਲਵਾਦੋਰ	Salvadoro
+ਇਰਾਨ	Irano
+ਇਰਾਕ	Irako
+ਅਲਾਸਕਾ	Alasko
+ਸਿਆਣਪ	Saĝo
+ਕੋਸਤਾ ਰੀਕਾ	Kostariko
+ਇਜ਼ਰਾਇਲ	Israelo
+ਪਨਾਮਾ	Panamo
+ਯਮਨ	Jemeno
+ਵਿਸ਼ਾਣੂ	Viruso (biologio)
+ਪੋਲਿਸ਼ ਭਾਸ਼ਾ	Pola lingvo
+ਜਾਰਡਨ	Jordanio
+ਨਿਕਾਰਾਗੁਆ	Nikaragvo
+ਫ਼ਲੌਰਿਡਾ	Florido
+ਕਿਰਗਿਜ਼ਸਤਾਨ	Kirgizio
+ਐਰੀਜ਼ੋਨਾ	Arizono
+ਕੁਵੈਤ	Kuvajto
+ਲਾਉਸ	Laoso
+ਲਿਬਨਾਨ	Libano
+ਔਰੇਗਨ	Oregono
+ਮਾਲਦੀਵ	Maldivoj
+ਅਮਰੀਕਾ (ਮਹਾਂ-ਮਹਾਂਦੀਪ)	Ameriko
+ਯੂਟਾ	Utaho
+ਮਲੇਸ਼ੀਆ	Malajzio
+ਮਿਖਾਇਲ ਬੁਲਗਾਕੋਵ	Miĥail Bulgakov
+ਮਿਆਂਮਾਰ	Birmo
+ਨੇਪਾਲ	Nepalo
+ਉਮਾਨ	Omano
+ਪਾਕਿਸਤਾਨ	Pakistano
+ਕਤਰ	Kataro
+ਗੇਂਦ-ਛਿੱਕਾ	Teniso
+ਸਾਊਦੀ ਅਰਬ	Sauda Arabio
+ਸ੍ਰੀਲੰਕਾ	Sri-Lanko
+ਜੋਸਿਫ਼ ਸਟਾਲਿਨ	Josif Stalin
+ਸੀਰੀਆ	Sirio
+ਅਫਲਾਤੂਨ	Platono
+ਗੈਲੀਅਮ	Galiumo
+ਤਾਜਿਕਸਤਾਨ	Taĝikio
+ਤਾਇਵਾਨ	Respubliko Ĉinio
+ਯੂਟਿਊਬ	YouTube
+ਜਰਮੇਨੀਅਮ	Germaniumo
+ਅਰਸਤੂ	Aristotelo
+ਥਾਈਲੈਂਡ	Tajlando
+ਸੰਖੀਆ	Arseno
+ਮੇਰਿਲ ਸਟਰੀਪ	Meryl Streep
+ਤੁਰਕਮੇਨਸਤਾਨ	Turkmenio
+ਅਬਾਕਾਨ	Abakan
+ਸਿਲੀਨੀਅਮ	Seleno
+ਇਰੀਡੀਅਮ	Iridio
+ਸੰਯੁਕਤ ਅਰਬ ਇਮਰਾਤ	Unuiĝintaj Arabaj Emirlandoj
+ਬ੍ਰੋਮੀਨ	Bromo
+ਪਲੈਟੀਨਮ	Plateno
+ਵੀਅਤਨਾਮ	Vjetnamio
+ਚਾਰਲੀ ਚੈਪਲਿਨ	Charlie Chaplin
+ਦੱਖਣੀ ਕੋਰੀਆ	Sud-Koreio
+ਕ੍ਰਿਪਟਾਨ	Kriptono
+ਅਫਗਾਨਿਸਤਾਨ	Afganio
+ਗੰਗਨਮ ਸਟਾਈਲ	Gangnam Style
+ਰੁਬੀਡੀਅਮ	Rubidio
+ਸੋਨਾ	Oro
+ਸੁਏਸ ਨਹਿਰ	Sueza Kanalo
+ਵਿਗਿਆਨੀ	Sciencisto
+ਬੰਗਲਾਦੇਸ਼	Bangladeŝo
+ਫ਼ਰੈਂਜ਼ ਕਾਫ਼ਕਾ	Franz Kafka
+ਹੋਰਹੇ ਲੂਈਸ ਬੋਰਗੇਸ	Jorge Luis Borges
+ਮਾਲੀ	Malio
+ਸੁਕਰਾਤ	Sokrato
+ਵੋਲਗਾਗਰਾਡ	Volgogrado
+ਅੰਗੋਲਾ	Angolo
+ਭੂਟਾਨ	Butano
+ਟਵਿਟਰ	Twitter
+ਬਰੂਨਾਈ	Brunejo
+ਤਨਜ਼ਾਨੀਆ	Tanzanio
+ਪਾਰਾ	Hidrargo
+ਫਿਲੀਪੀਨਜ਼	Filipinoj
+ਮੱਧ ਅਫਰੀਕੀ ਗਣਰਾਜ	Centr-Afrika Respubliko
+ਥੈਲੀਅਮ	Taliumo
+ਆਇਜ਼ਕ ਨਿਊਟਨ	Isaac Newton
+ਅਲਬਰਟ ਆਈਨਸਟਾਈਨ	Albert Einstein
+ਸਟਰੌਂਸ਼ਮ	Stroncio
+ਬਿਸਮਥ	Bismuto
+ਪੀਲ਼ਾ (ਰੰਗ)	Flava
+ਮਿਕਦਾਰ ਮਕੈਨਕੀ	Kvantuma mekaniko
+ਟੋਗੋ	Togolando
+ਤੁਨੀਸੀਆ	Tunizio
+ਜ਼ਾਂਬੀਆ	Zambio
+ਜ਼ਿੰਬਾਬਵੇ	Zimbabvo
+ਬੀਜਿੰਗ	Pekino
+ਦੱਖਣੀ ਸੁਡਾਨ	Sud-Sudano
+ਬੇਨਿਨ	Benino
+ਬੋਤਸਵਾਨਾ	Bocvano
+ਬੁਰਕੀਨਾ ਫ਼ਾਸੋ	Burkino
+ਬੁਰੂੰਡੀ	Burundo
+ਕਾਮਾਰੋਸ	Komoroj
+ਕਾਂਗੋ ਗਣਰਾਜ	Respubliko Kongo
+ਓਬ ਦਰਿਆ	Obo
+ਕਾਂਗੋ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ	Demokratia Respubliko Kongo
+ਸਾਨ ਆਂਤੋਨੀਓ	San Antonio (Teksaso)
+ਜਿਬੂਤੀ	Ĝibutio
+ਮੀਮ	Memeo
+ਪੋਲੋਨੀਅਮ	Polonio
+ਬਾਈਆਨ	Bavario
+ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ	Ekvatora Gvineo
+ਬਾਡਨ-ਵਰਟਮਬਰਕ	Baden-Virtembergo
+ਇਰੀਤਰੀਆ	Eritreo
+ਨਵੀਂ ਦਿੱਲੀ	Nov-Delhio
+ਫ਼ਿਓਦਰ ਦਾਸਤੋਵਸਕੀ	Fjodor Dostojevskij
+ਤਬੀਲਿਸੀ	Tbiliso
+ਐਸਟਾਟੀਨ	Astato
+ਗਬਾਨ	Gabono
+ਮੋਹਨਦਾਸ ਕਰਮਚੰਦ ਗਾਂਧੀ	Mohandas Karamchand Gandhi
+ਕੌਮਿਕਸ	Bildliteraturo
+ਗਾਂਬੀਆ	Gambio
+ਗਿਨੀ	Gvineo
+ਗਿਨੀ-ਬਿਸਾਊ	Gvineo Bisaŭa
+ਦੰਦ ਖੰਡ ਤਟ	Ebur-Bordo
+ਕੈਮਰੂਨ	Kameruno
+ਕੇਪ ਵਰਦੇ	Kaboverdo
+ਲਿਸੋਥੋ	Lesoto
+ਲਾਈਬੇਰੀਆ	Liberio
+ਲੀਬੀਆ	Libio
+ਮਾਦਾਗਾਸਕਰ	Madagaskaro
+ਮਲਾਵੀ	Malavio
+ਸ਼ਟੁੱਟਗਾਟ	Stutgarto
+ਮੌਰੀਤਾਨੀਆ	Maŭritanio
+ਮਾਰੀਸ਼ਸ	Maŭricio
+ਮੋਰਾਕੋ	Maroko
+ਮੋਜ਼ੈਂਬੀਕ	Mozambiko
+ਨਮੀਬੀਆ	Namibio
+ਨਾਈਜਰ	Niĝero
+ਨਾਈਜੀਰੀਆ	Niĝerio
+ਚਾਰਲਸ ਡਾਰਵਿਨ	Charles Darwin
+ਯੁਗਾਂਡਾ	Ugando
+ਰਵਾਂਡਾ	Ruando
+ਜ਼ਰਕੋਨੀਅਮ	Zirkonio
+ਸਾਓ ਤੋਮੇ ਅਤੇ ਪ੍ਰਿੰਸੀਪੀ	Sao-Tomeo kaj Principeo
+ਸੇਨੇਗਲ	Senegalo
+ਸੇਸ਼ੈਲ	Sejŝeloj
+ਕਾਰਲ ਲੀਨੀਅਸ	Karolo Lineo
+ਸਿਏਰਾ ਲਿਓਨ	Siera-Leono
+ਸੋਮਾਲੀਆ	Somalio
+ਨਿਓਬੀਅਮ	Niobio
+ਜਵਾਹਰ ਲਾਲ ਨਹਿਰੂ	Jawaharlal Nehru
+ਜੂਲੀਅਸ ਸੀਜ਼ਰ	Julio Cezaro
+ਸੁਡਾਨ	Sudano
+ਸਵਾਜ਼ੀਲੈਂਡ	Svazilando
+ਸਤਰੰਗੀ ਪੀਂਘ	Ĉielarko
+ਮੋਲਿਬਡੇਨਮ	Molibdeno
+ਟੈਕਨੀਸ਼ੀਅਮ	Teknecio
+ਹਾਮਬੁਰਕ	Hamburgo
+ਨਰਿੰਦਰ ਮੋਦੀ	Narendra Modi
+ਇਮਿਊਨ ਸਿਸਟਮ	Imuna sistemo
+ਗੁਜਰਾਤ	Guĝaratio
+ਓਂਟਾਰੀਓ ਝੀਲ	Ontario (lago)
+ਵਿਕਾਸਵਾਦ	Evoluismo
+ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ	Unuiĝintaj Nacioj
+ਸੁਪੀਰੀਅਰ ਝੀਲ	Supra Lago
+ਦਾਂਤੇ ਆਲੀਗੀਏਰੀ	Dante Alighieri
+ਭੂਗਰਭ ਵਿਗਿਆਨ	Geologio
+ਅਹਿਮਦਾਬਾਦ	Ahmadabado
+ਭੂਗੋਲ	Geografio
+ਦਿਲ	Koro
+ਦਿਮਾਗ਼	Cerbo
+ਰੰਗ	Koloro
+ਬਰੇਕਿੰਗ ਬੈਡ	Breaking Bad
+ਨਾਂਵ	Substantivo
+ਪ੍ਰਾਗ	Prago
+ਰ੍ਹੋਡੀਅਮ	Rodio
+ਨੀਲਾ	Blua
+ਪੈਲੇਡੀਅਮ	Paladio
+ਚਾਂਦੀ	Arĝento
+ਕੈਡਮੀਅਮ	Kadmio
+ਇੰਡੀਅਮ	Indio
+ਟੀਨ	Stano
+ਯੂਰੇਨੀਅਮ	Uranio
+ਐਂਟੀਮਨੀ	Antimono
+ਟੈਲੂਰੀਅਮ	Teluro
+ਪਲੂਟੋਨੀਅਮ	Plutonio
+ਆਇਓਡੀਨ	Jodo
+ਜ਼ੀਨਾਨ	Ksenono
+﻿ਐਨੀਮੇ	Animeo
+ਸੀਜ਼ੀਅਮ	Cezio
+ਬਿਜਲਈ ਚਾਰਜ	Elektra ŝargo
+ਬੇਰੀਅਮ	Bario
+ਹਾਫ਼ਨੀਅਮ	Hafnio
+ਟੈਂਟਲਮ	Tantalo
+ਰੇਡੀਅਮ	Radiumo
+ਰੇਡਾਨ	Radono
+ਲੋਰੈਨ	Loreno
+ਅਲਸਾਸ	Alzaco
+ਇੰਦਰਾ ਗਾਂਧੀ	Indira Gandhi
+ਮਰਕਰੀ	Merkuro (dio)
+ਓਵੈਰਨੀ	Aŭvernjo
+ਮੁੰਬਈ	Mumbajo
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਅਥਲੈਟਿਕਸ ਸੰਘ ਪ੍ਰੀਸ਼ਦ	Internacia Asocio de Atletikaj Federacioj
+ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼	Andra-Pradeŝo
+ਅਰੁਨਾਚਲ ਪ੍ਰਦੇਸ਼	Arunaĉal-Pradeŝo
+ਅਸਾਮ	Asamo
+ਬਿਹਾਰ	Biharo
+ਮਿਸ਼ੀਗਨ	Miĉigano
+ਛੱਤੀਸਗੜ੍ਹ	Ĉhatisgaro
+ਮਿਸ਼ੀਗਨ ਝੀਲ	Miĉigano (lago)
+ਗੋਆ	Goao
+ਬਰਗੰਡੀ	Burgonjo
+ਹਰਿਆਣਾ	Harjano
+ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼	Himaĉal-Pradeŝo
+ਆਕੀਤੈਨ	Akvitanio
+ਜੰਮੂ ਅਤੇ ਕਸ਼ਮੀਰ	Ĝamuo kaj Kaŝmiro
+ਪੁਇਰਤੋ ਰੀਕੋ	Porto-Riko
+ਝਾਰਖੰਡ	Ĝharkhando
+ਕਰਨਾਟਕ	Karnatako
+ਕੇਰਲਾ	Keralao
+ਮੱਧ ਪ੍ਰਦੇਸ਼	Madhja-Pradeŝo
+ਉਸੈਨ ਬੋਲਟ	Usain Bolt
+ਲਿਮੂਜ਼ੈਂ	Limoĝio
+ਮਹਾਂਰਾਸ਼ਟਰ	Maharaŝtro
+ਮਨੀਪੁਰ	Manipuro
+ਮੇਘਾਲਿਆ	Meghalajo
+ਉੱਤਰੀ ਰਾਈਨ-ਪੱਛਮੀ ਫ਼ਾਲਨ	Nordrejn-Vestfalio
+ਹੈੱਸਨ	Hesio
+ਜ਼ਾਰਲਾਂਡ	Sarlando
+ਜ਼ਾਕਸਨ	Saksio
+ਜਾਨ ਲੈਨਨ	John Lennon
+ਇਲੀਨਾਏ	Ilinojso
+ਉੱਤਰੀ ਡਕੋਟਾ	Norda Dakoto
+ਬ੍ਰਾਂਡਨਬੁਰਕ	Brandenburgio
+ਬਰੇਮਨ (ਰਾਜ)	Libera hansa urbo Bremeno
+ਲੋਂਬਾਰਦੀਆ	Lombardujo
+ਦੱਖਣੀ ਡਕੋਟਾ	Suda Dakoto
+ਮੋਂਟਾਨਾ	Montano
+ਵਾਇਓਮਿੰਗ	Vajomingo
+ਪੀਏਮੋਂਤੇ	Piemonto
+ਜੇਰੂਸਲਮ	Jerusalemo
+ਆਇਡਾਹੋ	Idaho
+ਆਓਸਤਾ ਘਾਟੀ	Aosta Valo
+ਵਾਸ਼ਿੰਗਟਨ (ਰਾਜ)	Vaŝingtonio
+ਰੂਥੇਨੀਅਮ	Ruterfordio
+ਨਵਾਡਾ	Nevado
+ਡਾਨ (ਦਰਿਆ)	Don (rivero)
+ਹਿੰਦ ਮਹਾਂਸਾਗਰ	Hinda Oceano
+ਵੈਨੇਤੋ	Veneto
+ਕੋਸੋਵੋ ਗਣਰਾਜ	Kosovo
+ਕਰੀਬੀਆਈ ਸਮੁੰਦਰ	Kariba Maro
+ਕੋਫ਼ੀ ਅੰਨਾਨ	Kofi Annan
+ਲਿਗੂਰੀਆ	Ligurio
+ਕੋਲੋਰਾਡੋ	Koloradio
+ਏਮੀਲੀਆ-ਰੋਮਾਞਾ	Emilio-Romanjo
+ਕੋਲੋਰਾਡੋ ਦਰਿਆ	Kolorado (rivero)
+ਫਰਾਦਾਰੀਕ ਸ਼ੋਪੁਹ	Frédéric Chopin
+ਤੋਸਕਾਨਾ	Toskanio
+ਮਾਰਕੇ	Markio (Italio)
+ਅੰਬਰੀਆ	Umbrio
+ਲਾਤਸੀਓ	Latio
+ਆਬਰੂਤਸੋ	Abruco
+ਐਪਨਾਈਨ ਪਹਾੜ	Apeninoj
+ਐਲਪ	Alpoj
+ਕਾਰਪਾਤੀ ਪਹਾੜ	Karpatoj
+ਬਲੇਸ ਪਾਸਕਾਲ	Blaise Pascal
+ਸ਼ਿਕਾਗੋ	Ĉikago
+ਦ ਬੀਟਲਜ਼	The Beatles
+ਸਿਆਲ	Vintro
+ਸਦਾਮ ਹੁਸੈਨ	Saddam Hussein
+ਸਪੇਨੀ ਭਾਸ਼ਾ	Hispana lingvo
+ਮੋਂਤੇਵੀਦਿਓ	Montevideo
+ਯੋਹਾਨ ਸੇਬਾਸਤੀਅਨ ਬਾਖ਼	Johann Sebastian Bach
+ਪਿਟਸਬਰਗ	Pittsburgh (Pensilvanio)
+ਓਪੇਰਾ	Opero
+ਫ਼ਿਲਾਡੈਲਫ਼ੀਆ	Filadelfio (Pensilvanio)
+ਕੋਲਕਾਤਾ	Kolkato
+ਚੇਨਈ	Ĉenajo
+ਦਿੱਲੀ	Delhio
+ਢਾਕਾ	Dako
+ਬੰਗਲੌਰ	Bengaluro
+ਪੱਛਮੀ ਬੰਗਾਲ	Okcident-Bengalo
+ਮੱਕੜੀ	Araneuloj
+ਆਰਥਰੋਪੋਡ	Artropodoj
+ਹੈਦਰਾਬਾਦ, ਭਾਰਤ	Hajderabado
+ਇਸਲਾਮਾਬਾਦ	Islamabado
+ਤ੍ਰਿਪੁਰਾ	Tripuro
+ਫਲ	Frukto
+ਮੁਦਰਾ	Mono
+ਵਰਜਿਨੀਆ	Virginio (ŝtato)
+ਪੱਛਮੀ ਵਰਜਿਨੀਆ	Okcidenta Virginio
+ਹਿਊਰਾਨ ਝੀਲ	Lago Hurono
+ਨਿਊ ਯਾਰਕ	Nov-Jorkio
+ਰੋਡ ਟਾਪੂ	Rod-Insulo
+ਮੈਰੀਲੈਂਡ	Marilando
+ਡੇਲਾਵੇਅਰ	Delavaro
+ਵਲਾਦੀਮੀਰ ਲੈਨਿਨ	Lenin
+ਯੂਰਪੀਅਮ	Eŭropio
+ਓਹਾਇਓ	Ohio
+ਵਰਜਿਲ	Vergilio
+ਨਿਕੋਲੋ ਮੈਕਿਆਵੇਲੀ	Makiavelo
+ਪੈੱਨਸਿਲਵੇਨੀਆ	Pensilvanio
+ਜਿਓਵਾਨੀ ਬੋਕਾਸੀਓ	Giovanni Boccaccio
+ਲੁਈਗੀ ਪਿਰਾਂਦੋਲੋ	Luigi Pirandello
+ਆਗਸਟਸ ਕੈਸਰ	Aŭgusto Cezaro
+ਨਿਊ ਜਰਸੀ	Nov-Ĵerzejo
+ਜਿਬਰਾਲਟਰ	Ĝibraltaro
+ਫ਼ਿਨੀ ਭਾਸ਼ਾ	Finna lingvo
+ਇੰਡੀਆਨਾ	Indianio
+ਨੋਕੀਆ	Nokia (kompanio)
+ਕਾਰ	Aŭtomobilo
+ਜੁਵੇਂਟਸ ਫੁੱਟਬਾਲ ਕਲੱਬ	Juventus Football Club
+ਤਰਾਜਾਨ	Trajano
+ਰਾਜਰ ਫੈਡਰਰ	Roger Federer
+ਜਾਰਜੀਆ (ਅਮਰੀਕੀ ਰਾਜ)	Georgio
+ਜ਼ਾਗਰਬ	Zagrebo
+ਰਾਜਸਥਾਨ	Raĝastano
+ਕਾਂਪਾਨੀਆ	Kampanio
+ਟੈਕਸਸ	Teksaso
+ਤਾਮਿਲ ਨਾਡੂ	Tamilnado
+ਪੂਲੀਆ	Apulio
+ਬਾਜ਼ਿਲੀਕਾਤਾ	Basilikato
+ਉੱਤਰੀ ਕੈਰੋਲੀਨਾ	Norda Karolino
+ਦੱਖਣੀ ਕੈਰੋਲੀਨਾ	Suda Karolino
+ਯੂ. ਸੀ. ਸੰਪਦੋਰੀਆ	Sampdoria Genova
+ਕਾਲਾਬਰੀਆ	Kalabrio
+ਸਿਚੀਲੀਆ	Sicilio
+ਮਨੀਲਾ	Manilo
+ਸਾਰਦੇਞਾ	Sardio
+ਲੁਆਰ ਦਰਿਆ	Luaro
+ਸੈਨ ਦਰਿਆ	Sejno
+ਬੋਰਦੋ	Bordeaux
+ਬੁਏਨਸ ਆਇਰਸ	Bonaero
+ਮੈਕਸੀਕੋ ਸ਼ਹਿਰ	Meksik-urbo
+ਟੋਕੀਓ	Tokio
+ਲਾ ਪਾਸ	La-Pazo
+ਬਾਰਸੀਲੋਨਾ	Barcelono
+ਮਿਸੀਸਿੱਪੀ	Misisipio
+ਮਿੱਸੀਸਿੱਪੀ ਦਰਿਆ	Misisipo (rivero)
+ਉੱਤਰ ਪ੍ਰਦੇਸ਼	Utar-Pradeŝo
+ਉੱਤਰਾਖੰਡ	Utarakando
+ਮਿਜ਼ੋਰਮ	Mizoramo
+ਸਿੱਕਮ	Sikimo
+ਟੈਨੇਸੀ	Tenesio
+ਰਾਬਰਟ ਲੂਈ ਸਟੀਵਨਸਨ	Robert Louis Stevenson
+ਨਾਗਪੁਰ	Nagpur
+ਅਬੀਜਾਨ	Abiĝano
+ਅਬੂ ਧਾਬੀ	Abu-Dabio
+ਅਸਤਾਨਾ	Astano
+ਨਿਊ ਮੈਕਸੀਕੋ	Nov-Meksiko
+ਐਥਨਜ਼	Ateno
+ਮਿਨੇਸੋਟਾ	Minesoto
+ਬਗ਼ਦਾਦ	Bagdado
+ਕਾਰਾਕਾਸ	Karakaso
+ਵਿਸਕਾਂਸਨ	Viskonsino
+ਪੁਣੇ	Puneo
+ਏ.ਸੀ. ਮਿਲਣ	A.C. Milan
+ਆਇਓਵਾ	Iovao
+ਨਬਰਾਸਕਾ	Nebrasko
+ਗੁਆਤੇਮਾਲਾ ਸ਼ਹਿਰ	Gvatemalurbo
+ਕਾਂਸਸ	Kansaso
+ਹਵਾਨਾ	Havano
+ਤਮਾਕੂ	Tabako
+ਹਿੰਦੀ ਭਾਸ਼ਾ	Hindia lingvo
+ਮਰਾਠੀ ਭਾਸ਼ਾ	Marata lingvo
+ਗਣੇਸ਼	Ganeŝo
+ਮਿਜ਼ੂਰੀ	Misurio
+ਲੂਈਜ਼ੀਆਨਾ	Luiziano
+ਲੂਗੀ ਗੇਲਵੈਨੀ	Luigi Galvani
+ਨਾਗਾਲੈਂਡ	Nagalando
+ਕਿੰਟਕੀ	Kentukio
+ਆਰਕੰਸਾ	Arkansaso
+ਨੀਲ ਆਰਮਸਟਰਾਂਗ	Neil Armstrong
+ਉਰਦੂ ਭਾਸ਼ਾ	Urduo
+ਏਦੀਥ ਪੀਆਫ	Édith Piaf
+ਓਕਲਾਹੋਮਾ	Oklahomo
+ਦਨੂਬ ਦਰਿਆ	Danubo
+ਰੂਆ ਦਰਿਆ	Ruhr
+ਉੱਤਰੀ ਸਮੁੰਦਰ	Norda Maro
+ਹੈਨੋਫ਼ਾ	Hanovro
+ਮਿਊਨਿਖ	Munkeno
+ਵਾਲੀਬਾਲ	Flugpilkado
+ਵਿਆਨਾ	Vieno
+ਕੋਪਨਹੈਗਨ	Kopenhago
+ਸਟਾਕਹੋਮ	Stokholmo
+ਹੈਲਸਿੰਕੀ	Helsinko
+ਡਬਲਿਨ	Dublino
+ਰੇਕੀਆਵਿਕ	Rejkjaviko
+ਤਾਲਿਨ	Talino
+ਰੀਗਾ	Rigo
+ਲੁਈਸ ਆਰਮਸਟਰਾਂਗ	Louis Armstrong
+ਬ੍ਰਾਤਿਸਲਾਵਾ	Bratislavo
+ਬੁਦਾਪੈਸਤ	Budapeŝto
+ਫ਼ਰਾਂਕਫ਼ੁਰਟ	Frankfurto ĉe Majno
+ਲਕਸਮਬਰਗ (ਸ਼ਹਿਰ)	Luksemburgo
+ਫ਼ਾਦੁਤਸ	Vaduzo
+ਬਾਈਬਲ	Biblio
+ਪਨਾਮ ਪੈਨ	Pnom-Peno
+ਹੋ ਚੀ ਮਿਨ ਸ਼ਹਿਰ	Ho-Ĉi-Min-urbo
+ਇਟਰੀਅਮ	Iterbio
+ਲੁਟੀਸ਼ੀਅਮ	Lutecio
+ਹਨੋਈ	Hanojo
+ਟਰੂ ਜੀਸਸ ਚਰਚ	Vera Eklezio de Jesuo
+ਅੰਗਰੇਜ਼ੀ ਭਾਸ਼ਾ	Angla lingvo
+ਬੈਂਕਾਕ	Bankoko
+ਅੰਡੋਰਾ ਲਾ ਵੇਲਾ	Andoro Malnova
+ਕੁਆਲਾ ਲੁੰਪੁਰ	Kuala-Lumpuro
+ਤਾਈਪੇ	Tajpeo
+ਕਾਂਸੇਪਸਿਉਂ	Koncepciono
+ਬਰਕੀਲੀਅਮ	Berkelio
+ਕੀਵ	Kievo
+ਓਂਟਾਰੀਓ	Ontario
+ਓਟਾਵਾ	Otavo
+ਜੂਬਾ	Ĵubo
+ਮਾਨੀਟੋਬਾ	Manitobo
+ਐਲਬਰਟਾ	Alberto
+ਨੋਵਾ ਸਕੋਸ਼ਾ	Nov-Skotio
+ਯੇਰਵਾਨ	Erevano
+ਕਞ੍ਸ੍ਕਵਲਾ	Końskowola
+ਦਾਰ ਅਸ ਸਲਾਮ	Daresalamo
+ਖ਼ਰਤੂਮ	Ĥartumo
+ਨਿਊ ਬਰੰਸਵਿਕ	Nov-Brunsviko
+ਫ਼ਾਰਮੂਲਾ ਵਨ	Formulo 1
+ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ	Brita Kolumbio
+ਪ੍ਰਿੰਸ ਐਡਵਰਡ ਟਾਪੂ	Insulo de Princo Eduardo
+2000	2000
+2003	2003
+੨੦੦੨	2002
+2001	2001
+ਸਸਕਾਚਵਾਨ	Saskaĉevano
+੨੦੧੨	2012
+੨੦੧੧	2011
+੨੦੧੦	2010
+੨੦੦੯	2009
+ਕਾਰਬਨ ਡਾਈਆਕਸਾਈਡ	Karbona dioksido
+੨੦੧੫	2015
+ਨਿਊਫ਼ੰਡਲੈਂਡ ਅਤੇ ਲਾਬਰਾਡੋਰ	Novlando kaj Labradoro
+੨੦੦੮	2008
+ਉੱਤਰ-ਪੱਛਮੀ ਰਾਜਖੇਤਰ	Nordokcidentaj Teritorioj
+ਯੂਕੋਨ	Jukonio
+੨੦੦੪	2004
+੨੦੦੫	2005
+੨੦੦੬	2006
+ਨੂਨਾਵੁਤ	Nunavuto
+੨੦੦੭	2007
+੧੯੦੦	1900
+੧੯੦੧	1901
+੧੯੦੨	1902
+੧੯੦੩	1903
+੧੯੦੪	1904
+1905	1905
+1907	1907
+੧੯੦੬	1906
+1908	1908
+੧੯੦੯	1909
+1992	1992
+੧੯੯੧	1991
+1990	1990
+੧੯੯੩	1993
+ਐੱਸਨ	Essen
+1994	1994
+੧੯੯੫	1995
+1996	1996
+1910	1910
+1911	1911
+1912	1912
+ਲਾਈਪਸਿਸ਼	Leipzig
+੧੯੧੩	1913
+੧੯੧੪	1914
+1915	1915
+੧੯੧੬	1916
+੧੯੯੭	1997
+1998	1998
+੧੯੯੯	1999
+1917	1917
+੧੯੧੮	1918
+ਭੋਜਨ	Manĝaĵo
+ਐਡਮੰਟਨ	Edmontono
+ਸੱਪ	Serpento
+ਰਿਜਾਇਨਾ	Regina
+ਸ਼ਾਰਲਟਟਾਊਨ	Ĉarlotaŭno
+ਵਿਕਟੋਰੀਆ, ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ	Viktorio
+ਵਿਨੀਪੈਗ	Vinipego
+ਹੈਲੀਫ਼ੈਕਸ, ਨੋਵਾ ਸਕੋਸ਼ਾ	Halifakso
+ਕੇਬੈਕ ਸ਼ਹਿਰ	Kebeko
+੧ ਜਨਵਰੀ	1-a de januaro
+੨ ਜਨਵਰੀ	2-a de januaro
+ਸੁਭਾਸ਼ ਚੰਦਰ ਬੋਸ	Subhas Chandra Bose
+੧੯੨੦	1920
+3 ਜਨਵਰੀ	3-a de januaro
+1919	1919
+੧੯੨੧	1921
+1922	1922
+੪ ਜਨਵਰੀ	4-a de januaro
+1923	1923
+1924	1924
+ਲੈਨਿਨਗ੍ਰਾਦ ਓਬਲਾਸਤ	Leningrada provinco
+5 ਜਨਵਰੀ	5-a de januaro
+ਆਰੀਕਾ	Arica (Ĉilia urbo)
+੬ ਜਨਵਰੀ	6-a de januaro
+ਬਿਜਲਾਣੂ	Elektrono
+7 ਜਨਵਰੀ	7-a de januaro
+੮ ਜਨਵਰੀ	8-a de januaro
+੯ ਜਨਵਰੀ	9-a de januaro
+੧੦ ਜਨਵਰੀ	10-a de januaro
+੧੧ ਜਨਵਰੀ	11-a de januaro
+12 ਜਨਵਰੀ	12-a de januaro
+੧੩ ਜਨਵਰੀ	13-a de januaro
+ਬਰਮਿੰਘਮ	Birmingham
+੧੪ ਜਨਵਰੀ	14-a de januaro
+15 ਜਨਵਰੀ	15-a de januaro
+16 ਜਨਵਰੀ	16-a de januaro
+17 ਜਨਵਰੀ	17-a de januaro
+18 ਜਨਵਰੀ	18-a de januaro
+੧੯ ਜਨਵਰੀ	19-a de januaro
+੨੦ ਜਨਵਰੀ	20-a de januaro
+ਸਨਅਤੀ ਇਨਕਲਾਬ	Industria revolucio
+ਬੈਨਜ਼ੀਨ	Benzeno
+21 ਜਨਵਰੀ	21-a de januaro
+੨੨ ਜਨਵਰੀ	22-a de januaro
+੨੩ ਜਨਵਰੀ	23-a de januaro
+ਰੋਮਨ ਸਮਰਾਜ	Romia Imperio
+੨੪ ਜਨਵਰੀ	24-a de januaro
+25 ਜਨਵਰੀ	25-a de januaro
+ਮਿੰਸਕ	Minsko
+26 ਜਨਵਰੀ	26-a de januaro
+੨੭ ਜਨਵਰੀ	27-a de januaro
+੨੮ ਜਨਵਰੀ	28-a de januaro
+੨੯ ਜਨਵਰੀ	29-a de januaro
+੩੦ ਜਨਵਰੀ	30-a de januaro
+੩੧ ਜਨਵਰੀ	31-a de januaro
+ਪ੍ਰੋਟਾਨ	Protono
+2 ਦਸੰਬਰ	2-a de decembro
+੧ ਦਸੰਬਰ	1-a de decembro
+੩ ਦਸੰਬਰ	3-a de decembro
+੭ ਦਸੰਬਰ	7-a de decembro
+5 ਦਸੰਬਰ	5-a de decembro
+8 ਦਸੰਬਰ	8-a de decembro
+੧੦ ਦਸੰਬਰ	10-a de decembro
+6 ਦਸੰਬਰ	6-a de decembro
+੯ ਦਸੰਬਰ	9-a de decembro
+੪ ਦਸੰਬਰ	4-a de decembro
+੧ ਫ਼ਰਵਰੀ	1-a de februaro
+੨ ਫ਼ਰਵਰੀ	2-a de februaro
+੩ ਫ਼ਰਵਰੀ	3-a de februaro
+ਕੂਰੋਫ	Kurów
+੪ ਫ਼ਰਵਰੀ	4-a de februaro
+੫ ਫ਼ਰਵਰੀ	5-a de februaro
+6 ਫ਼ਰਵਰੀ	6-a de februaro
+7 ਫ਼ਰਵਰੀ	7-a de februaro
+8 ਫ਼ਰਵਰੀ	8-a de februaro
+੯ ਫ਼ਰਵਰੀ	9-a de februaro
+੧੦ ਫ਼ਰਵਰੀ	10-a de februaro
+ਰਸਾਇਣ ਵਿਗਿਆਨ	Kemio
+14 ਫ਼ਰਵਰੀ	14-a de februaro
+13 ਫ਼ਰਵਰੀ	13-a de februaro
+੧੫ ਫ਼ਰਵਰੀ	15-a de februaro
+11 ਫ਼ਰਵਰੀ	11-a de februaro
+12 ਫ਼ਰਵਰੀ	12-a de februaro
+ਰੋਬਿਨ ਵੈਨ ਪਰਸੀ	Robin van Persie
+੧੯ ਫ਼ਰਵਰੀ	19-a de februaro
+੧੭ ਫ਼ਰਵਰੀ	17-a de februaro
+੧੬ ਫ਼ਰਵਰੀ	16-a de februaro
+18 ਫ਼ਰਵਰੀ	18-a de februaro
+੨੦ ਫ਼ਰਵਰੀ	20-a de februaro
+ਅਬਿਜਲਕਣ	Neŭtrono
+੨੧ ਫ਼ਰਵਰੀ	21-a de februaro
+੨੨ ਫ਼ਰਵਰੀ	22-a de februaro
+੨੩ ਫ਼ਰਵਰੀ	23-a de februaro
+੨੪ ਫ਼ਰਵਰੀ	24-a de februaro
+25 ਫ਼ਰਵਰੀ	25-a de februaro
+੨੬ ਫ਼ਰਵਰੀ	26-a de februaro
+੨੭ ਫ਼ਰਵਰੀ	27-a de februaro
+੨੮ ਫ਼ਰਵਰੀ	28-a de februaro
+੧੧ ਦਸੰਬਰ	11-a de decembro
+੨੯ ਫ਼ਰਵਰੀ	29-a de februaro
+੧੨ ਦਸੰਬਰ	12-a de decembro
+੧੩ ਦਸੰਬਰ	13-a de decembro
+14 ਦਸੰਬਰ	14-a de decembro
+੧੫ ਦਸੰਬਰ	15-a de decembro
+2 ਮਾਰਚ	2-a de marto
+3 ਮਾਰਚ	3-a de marto
+5 ਮਾਰਚ	5-a de marto
+1 ਮਾਰਚ	1-a de marto
+7 ਮਾਰਚ	7-a de marto
+੮ ਮਾਰਚ	8-a de marto
+4 ਮਾਰਚ	4-a de marto
+੧੦ ਮਾਰਚ	10-a de marto
+੧੧ ਮਾਰਚ	11-a de marto
+6 ਮਾਰਚ	6-a de marto
+੧੩ ਮਾਰਚ	13-a de marto
+9 ਮਾਰਚ	9-a de marto
+੧੨ ਮਾਰਚ	12-a de marto
+੧੫ ਮਾਰਚ	15-a de marto
+੧੪ ਮਾਰਚ	14-a de marto
+ਸੀ++	C++
+ਲੂਣ ਦਾ ਤਿਜ਼ਾਬ	Klorida acido
+੧੬ ਦਸੰਬਰ	16-a de decembro
+੧੭ ਦਸੰਬਰ	17-a de decembro
+16 ਮਾਰਚ	16-a de marto
+੧੭ ਮਾਰਚ	17-a de marto
+੧੮ ਮਾਰਚ	18-a de marto
+੧੯ ਮਾਰਚ	19-a de marto
+1989	1989
+1988	1988
+੨੦ ਮਾਰਚ	20-a de marto
+੧੯੮੭	1987
+੧੯੮੬	1986
+੧੯੮੫	1985
+1984	1984
+੨੧ ਮਾਰਚ	21-a de marto
+੧੯੮੩	1983
+੨੨ ਮਾਰਚ	22-a de marto
+1982	1982
+੧੯੮੧	1981
+੧੮ ਦਸੰਬਰ	18-a de decembro
+੧੯੮੦	1980
+੨੩ ਮਾਰਚ	23-a de marto
+ਮਕਦੀਸ਼ੂ	Mogadiŝo
+19 ਦਸੰਬਰ	19-a de decembro
+੨੪ ਮਾਰਚ	24-a de marto
+੨੫ ਮਾਰਚ	25-a de marto
+੨੦ ਦਸੰਬਰ	20-a de decembro
+੨੬ ਮਾਰਚ	26-a de marto
+੨੭ ਮਾਰਚ	27-a de marto
+੨੮ ਮਾਰਚ	28-a de marto
+੨੯ ਮਾਰਚ	29-a de marto
+੩੦ ਮਾਰਚ	30-a de marto
+੩੧ ਮਾਰਚ	31-a de marto
+ਨਸਾਊ	Nasaŭo (Bahamoj)
+ਸਨਾ	Sanao
+੧੯੭੦	1970
+1971	1971
+1972	1972
+1973	1973
+1974	1974
+1975	1975
+1976	1976
+੧੯੭੭	1977
+੧੯੭੮	1978
+੧੯੭੯	1979
+੧੯੬੯	1969
+ਤੀਹ-ਸਾਲਾ ਜੰਗ	Tridekjara milito
+ਸਰਪਿਲ ਆਕਾਸ਼ਗੰਗਾ	Spirala galaksio
+15 ਅਪਰੈਲ	15-a de aprilo
+੧੩ ਅਪ੍ਰੈਲ	13-a de aprilo
+12 ਅਪ੍ਰੈਲ	12-a de aprilo
+14 ਅਪ੍ਰੈਲ	14-a de aprilo
+11 ਅਪ੍ਰੈਲ	11-a de aprilo
+੧੦ ਅਪ੍ਰੈਲ	10-a de aprilo
+੮ ਅਪਰੈਲ	8-a de aprilo
+9 ਅਪ੍ਰੈਲ	9-a de aprilo
+੭ ਅਪ੍ਰੈਲ	7-a de aprilo
+੬ ਅਪ੍ਰੈਲ	6-a de aprilo
+੫ ਅਪ੍ਰੈਲ	5-a de aprilo
+4 ਅਪ੍ਰੈਲ	4-a de aprilo
+੩ ਅਪ੍ਰੈਲ	3-a de aprilo
+1 ਅਪ੍ਰੈਲ	1-a de aprilo
+੨ ਅਪ੍ਰੈਲ	2-a de aprilo
+16 ਅਪ੍ਰੈਲ	16-a de aprilo
+17 ਅਪ੍ਰੈਲ	17-a de aprilo
+18 ਅਪ੍ਰੈਲ	18-a de aprilo
+19 ਅਪ੍ਰੈਲ	19-a de aprilo
+20 ਅਪ੍ਰੈਲ	20-a de aprilo
+੨੧ ਅਪ੍ਰੈਲ	21-a de aprilo
+੨੨ ਅਪ੍ਰੈਲ	22-a de aprilo
+੨੩ ਅਪ੍ਰੈਲ	23-a de aprilo
+੨੪ ਅਪ੍ਰੈਲ	24-a de aprilo
+25 ਅਪ੍ਰੈਲ	25-a de aprilo
+੨੬ ਅਪ੍ਰੈਲ	26-a de aprilo
+੨੭ ਅਪ੍ਰੈਲ	27-a de aprilo
+28 ਅਪ੍ਰੈਲ	28-a de aprilo
+29 ਅਪਰੈਲ	29-a de aprilo
+੩੦ ਅਪ੍ਰੈਲ	30-a de aprilo
+ਕੁਦਰਤੀ ਉਪਗ੍ਰਹਿ	Natura satelito
+1 ਮਈ	1-a de majo
+੨ ਮਈ	2-a de majo
+3 ਮਈ	3-a de majo
+4 ਮਈ	4-a de majo
+5 ਮਈ	5-a de majo
+6 ਮਈ	6-a de majo
+੭ ਮਈ	7-a de majo
+੮ ਮਈ	8-a de majo
+9 ਮਈ	9-a de majo
+10 ਮਈ	10-a de majo
+11 ਮਈ	11-a de majo
+12 ਮਈ	12-a de majo
+੧੩ ਮਈ	13-a de majo
+14 ਮਈ	14-a de majo
+੧੫ ਮਈ	15-a de majo
+੧੬ ਮਈ	16-a de majo
+੧੭ ਮਈ	17-a de majo
+੧੮ ਮਈ	18-a de majo
+੧੯ ਮਈ	19-a de majo
+੨੦ ਮਈ	20-a de majo
+੨੧ ਮਈ	21-a de majo
+੨੨ ਮਈ	22-a de majo
+੨੩ ਮਈ	23-a de majo
+੨੪ ਮਈ	24-a de majo
+25 ਮਈ	25-a de majo
+26 ਮਈ	26-a de majo
+੨੭ ਮਈ	27-a de majo
+28 ਮਈ	28-a de majo
+੨੯ ਮਈ	29-a de majo
+੩੦ ਮਈ	30-a de majo
+31 ਮਈ	31-a de majo
+੨੧ ਦਸੰਬਰ	21-a de decembro
+ਐੱਸ. ਐੱਸ. ਲੇਜ਼ੀਓ	Società Sportiva Lazio
+੧੪ ਜੂਨ	14-a de junio
+੧੫ ਜੂਨ	15-a de junio
+13 ਜੂਨ	13-a de junio
+੧੦ ਜੂਨ	10-a de junio
+7 ਜੂਨ	7-a de junio
+11 ਜੂਨ	11-a de junio
+9 ਜੂਨ	9-a de junio
+12 ਜੂਨ	12-a de junio
+੬ ਜੂਨ	6-a de junio
+8 ਜੂਨ	8-a de junio
+੫ ਜੂਨ	5-a de junio
+੩ ਜੂਨ	3-a de junio
+2 ਜੂਨ	2-a de junio
+1 ਜੂਨ	1-a de junio
+4 ਜੂਨ	4-a de junio
+੨੨ ਦਸੰਬਰ	22-a de decembro
+ਐੱਸ. ਐੱਸ. ਸੀ. ਨਪੋਲੀ	SSC Napoli
+1968	1968
+੧੯੬੭	1967
+੧੯੬੬	1966
+1965	1965
+੧੯੬੪	1964
+੧੬ ਜੂਨ	16-a de junio
+ਪਾਲੇਰਮੋ	Palermo
+30 ਜੂਨ	30-a de junio
+੨੯ ਜੂਨ	29-a de junio
+28 ਜੂਨ	28-a de junio
+੨੬ ਜੂਨ	26-a de junio
+੨੫ ਜੂਨ	25-a de junio
+੨੨ ਜੂਨ	22-a de junio
+੨੭ ਜੂਨ	27-a de junio
+24 ਜੂਨ	24-a de junio
+੨੦ ਜੂਨ	20-a de junio
+੨੩ ਜੂਨ	23-a de junio
+੧੯ ਜੂਨ	19-a de junio
+੧੮ ਜੂਨ	18-a de junio
+੨੧ ਜੂਨ	21-a de junio
+੧੭ ਜੂਨ	17-a de junio
+੨੩ ਦਸੰਬਰ	23-a de decembro
+15 ਜੁਲਾਈ	15-a de julio
+13 ਜੁਲਾਈ	13-a de julio
+੧੨ ਜੁਲਾਈ	12-a de julio
+10 ਜੁਲਾਈ	10-a de julio
+੯ ਜੁਲਾਈ	9-a de julio
+੧੪ ਜੁਲਾਈ	14-a de julio
+੮ ਜੁਲਾਈ	8-a de julio
+ਪਰਮਾ ਫੁੱਟਬਾਲ ਕਲੱਬ	Parma FC
+7 ਜੁਲਾਈ	7-a de julio
+੬ ਜੁਲਾਈ	6-a de julio
+੫ ਜੁਲਾਈ	5-a de julio
+2 ਜੁਲਾਈ	2-a de julio
+੪ ਜੁਲਾਈ	4-a de julio
+੩ ਜੁਲਾਈ	3-a de julio
+1 ਜੁਲਾਈ	1-a de julio
+11 ਜੁਲਾਈ	11-a de julio
+੨੪ ਦਸੰਬਰ	24-a de decembro
+੩੧ ਜੁਲਾਈ	31-a de julio
+੩੦ ਜੁਲਾਈ	30-a de julio
+੨੯ ਜੁਲਾਈ	29-a de julio
+੨੮ ਜੁਲਾਈ	28-a de julio
+੨੭ ਜੁਲਾਈ	27-a de julio
+੨੫ ਜੁਲਾਈ	25-a de julio
+24 ਜੁਲਾਈ	24-a de julio
+੨੩ ਜੁਲਾਈ	23-a de julio
+੨੬ ਜੁਲਾਈ	26-a de julio
+੨੨ ਜੁਲਾਈ	22-a de julio
+19 ਜੁਲਾਈ	19-a de julio
+੨੧ ਜੁਲਾਈ	21-a de julio
+੨੦ ਜੁਲਾਈ	20-a de julio
+17 ਜੁਲਾਈ	17-a de julio
+18 ਜੁਲਾਈ	18-a de julio
+੧੬ ਜੁਲਾਈ	16-a de julio
+ਫੁਟਬਾਲ	Futbalo
+ਏ. ਐੱਸ. ਰੋਮਾ	AS Roma
+25 ਦਸੰਬਰ	25-a de decembro
+1963	1963
+26 ਦਸੰਬਰ	26-a de decembro
+ਯਹੂਦੀ ਘੱਲੂਘਾਰਾ	Holokaŭsto
+1962	1962
+ਆਈਫੋਨ	IPhone
+ਟੋਰਿਨੋ ਫੁੱਟਬਾਲ ਕਲੱਬ	Torino FC
+੧੪ ਅਗਸਤ	14-a de aŭgusto
+੧੫ ਅਗਸਤ	15-a de aŭgusto
+13 ਅਗਸਤ	13-a de aŭgusto
+12 ਅਗਸਤ	12-a de aŭgusto
+11 ਅਗਸਤ	11-a de aŭgusto
+10 ਅਗਸਤ	10-a de aŭgusto
+੮ ਅਗਸਤ	8-a de aŭgusto
+੭ ਅਗਸਤ	7-a de aŭgusto
+੯ ਅਗਸਤ	9-a de aŭgusto
+੫ ਅਗਸਤ	5-a de aŭgusto
+੪ ਅਗਸਤ	4-a de aŭgusto
+੨ ਅਗਸਤ	2-a de aŭgusto
+੩ ਅਗਸਤ	3-a de aŭgusto
+੬ ਅਗਸਤ	6-a de aŭgusto
+1 ਅਗਸਤ	1-a de aŭgusto
+27 ਦਸੰਬਰ	27-a de decembro
+ਮਾਦਰੀਦ	Madrido
+16 ਅਗਸਤ	16-a de aŭgusto
+ਕੋਕਾ ਕੋਲਾ	Koka-kolao
+29 ਅਗਸਤ	29-a de aŭgusto
+੨੮ ਅਗਸਤ	28-a de aŭgusto
+30 ਅਗਸਤ	30-a de aŭgusto
+25 ਅਗਸਤ	25-a de aŭgusto
+੨੬ ਅਗਸਤ	26-a de aŭgusto
+23 ਅਗਸਤ	23-a de aŭgusto
+੨੭ ਅਗਸਤ	27-a de aŭgusto
+੨੧ ਅਗਸਤ	21-a de aŭgusto
+੨੦ ਅਗਸਤ	20-a de aŭgusto
+24 ਅਗਸਤ	24-a de aŭgusto
+18 ਅਗਸਤ	18-a de aŭgusto
+੧੭ ਅਗਸਤ	17-a de aŭgusto
+੨੨ ਅਗਸਤ	22-a de aŭgusto
+19 ਅਗਸਤ	19-a de aŭgusto
+੩੧ ਅਗਸਤ	31-a de aŭgusto
+ਮਾਈਕਲ ਜੈਕਸਨ	Michael Jackson
+੨੮ ਦਸੰਬਰ	28-a de decembro
+ਬੋਗੋਤਾ	Bogoto
+ਬ੍ਰਾਜ਼ੀਲੀਆ	Braziljo
+ਗਾਂਜਾ	Mariĥuano
+੧੫ ਸਤੰਬਰ	15-a de septembro
+੧੪ ਸਤੰਬਰ	14-a de septembro
+13 ਸਤੰਬਰ	13-a de septembro
+12 ਸਤੰਬਰ	12-a de septembro
+8 ਸਤੰਬਰ	8-a de septembro
+੧੧ ਸਤੰਬਰ	11-a de septembro
+7 ਸਤੰਬਰ	7-a de septembro
+੧੦ ਸਤੰਬਰ	10-a de septembro
+੫ ਸਤੰਬਰ	5-a de septembro
+੪ ਸਤੰਬਰ	4-a de septembro
+੯ ਸਤੰਬਰ	9-a de septembro
+੨ ਸਤੰਬਰ	2-a de septembro
+6 ਸਤੰਬਰ	6-a de septembro
+੧ ਸਤੰਬਰ	1-a de septembro
+੩ ਸਤੰਬਰ	3-a de septembro
+29 ਦਸੰਬਰ	29-a de decembro
+ਲੀਮਾ	Limo
+ਕੈਨੇਡਾ ਦੇ ਸੂਬੇ ਅਤੇ ਰਾਜਖੇਤਰ	Provincoj kaj teritorioj de Kanado
+੩੦ ਸਤੰਬਰ	30-a de septembro
+੨੯ ਸਤੰਬਰ	29-a de septembro
+28 ਸਤੰਬਰ	28-a de septembro
+27 ਸਤੰਬਰ	27-a de septembro
+੨੬ ਸਤੰਬਰ	26-a de septembro
+੨੫ ਸਤੰਬਰ	25-a de septembro
+ਸਾਂਤੀਆਗੋ	Santiago de Ĉilio
+੨੩ ਸਤੰਬਰ	23-a de septembro
+22 ਸਤੰਬਰ	22-a de septembro
+੨੪ ਸਤੰਬਰ	24-a de septembro
+21 ਸਤੰਬਰ	21-a de septembro
+20 ਸਤੰਬਰ	20-a de septembro
+੧੮ ਸਤੰਬਰ	18-a de septembro
+੧੭ ਸਤੰਬਰ	17-a de septembro
+19 ਸਤੰਬਰ	19-a de septembro
+੧੬ ਸਤੰਬਰ	16-a de septembro
+ਕੀਤੋ	Kito
+੩੦ ਦਸੰਬਰ	30-a de decembro
+ਸੂਕਰੇ	Sukro
+੩੧ ਦਸੰਬਰ	31-a de decembro
+੧ ਅਕਤੂਬਰ	1-a de oktobro
+੧੫ ਅਕਤੂਬਰ	15-a de oktobro
+12 ਅਕਤੂਬਰ	12-a de oktobro
+10 ਅਕਤੂਬਰ	10-a de oktobro
+14 ਅਕਤੂਬਰ	14-a de oktobro
+9 ਅਕਤੂਬਰ	9-a de oktobro
+8 ਅਕਤੂਬਰ	8-a de oktobro
+੧੩ ਅਕਤੂਬਰ	13-a de oktobro
+7 ਅਕਤੂਬਰ	7-a de oktobro
+੧੧ ਅਕਤੂਬਰ	11-a de oktobro
+੬ ਅਕਤੂਬਰ	6-a de oktobro
+੪ ਅਕਤੂਬਰ	4-a de oktobro
+੫ ਅਕਤੂਬਰ	5-a de oktobro
+੩ ਅਕਤੂਬਰ	3-a de oktobro
+੨ ਅਕਤੂਬਰ	2-a de oktobro
+ਅਸੂੰਸੀਓਨ	Asunciono
+ਬੱਕਰੀ	Hejma kapro
+ਸਿਸਟੀਨ ਚੈਪਲ	Siksta Kapelo
+੩੧ ਅਕਤੂਬਰ	31-a de oktobro
+੩੦ ਅਕਤੂਬਰ	30-a de oktobro
+੨੯ ਅਕਤੂਬਰ	29-a de oktobro
+੨੮ ਅਕਤੂਬਰ	28-a de oktobro
+੨੬ ਅਕਤੂਬਰ	26-a de oktobro
+25 ਅਕਤੂਬਰ	25-a de oktobro
+24 ਅਕਤੂਬਰ	24-a de oktobro
+27 ਅਕਤੂਬਰ	27-a de oktobro
+22 ਅਕਤੂਬਰ	22-a de oktobro
+੨੩ ਅਕਤੂਬਰ	23-a de oktobro
+20 ਅਕਤੂਬਰ	20-a de oktobro
+੨੧ ਅਕਤੂਬਰ	21-a de oktobro
+੧੯ ਅਕਤੂਬਰ	19-a de oktobro
+17 ਅਕਤੂਬਰ	17-a de oktobro
+੧੬ ਅਕਤੂਬਰ	16-a de oktobro
+੧੮ ਅਕਤੂਬਰ	18-a de oktobro
+੧੫ ਨਵੰਬਰ	15-a de novembro
+14 ਨਵੰਬਰ	14-a de novembro
+੧੩ ਨਵੰਬਰ	13-a de novembro
+੧੨ ਨਵੰਬਰ	12-a de novembro
+੧੧ ਨਵੰਬਰ	11-a de novembro
+੧੦ ਨਵੰਬਰ	10-a de novembro
+7 ਨਵੰਬਰ	7-a de novembro
+8 ਨਵੰਬਰ	8-a de novembro
+9 ਨਵੰਬਰ	9-a de novembro
+6 ਨਵੰਬਰ	6-a de novembro
+੫ ਨਵੰਬਰ	5-a de novembro
+੪ ਨਵੰਬਰ	4-a de novembro
+੩ ਨਵੰਬਰ	3-a de novembro
+2 ਨਵੰਬਰ	2-a de novembro
+੧ ਨਵੰਬਰ	1-a de novembro
+ਪਾਰਾਮਾਰੀਬੋ	Paramaribo
+30 ਨਵੰਬਰ	30-a de novembro
+੨੯ ਨਵੰਬਰ	29-a de novembro
+੨੮ ਨਵੰਬਰ	28-a de novembro
+੨੭ ਨਵੰਬਰ	27-a de novembro
+26 ਨਵੰਬਰ	26-a de novembro
+੨੫ ਨਵੰਬਰ	25-a de novembro
+੨੩ ਨਵੰਬਰ	23-a de novembro
+੨੪ ਨਵੰਬਰ	24-a de novembro
+੨੧ ਨਵੰਬਰ	21-a de novembro
+20 ਨਵੰਬਰ	20-a de novembro
+੨੨ ਨਵੰਬਰ	22-a de novembro
+19 ਨਵੰਬਰ	19-a de novembro
+੧੮ ਨਵੰਬਰ	18-a de novembro
+੧੭ ਨਵੰਬਰ	17-a de novembro
+੧੬ ਨਵੰਬਰ	16-a de novembro
+ਕੁੜੀ	Knabino
+ਕਠਮੰਡੂ	Katmanduo
+ਬੈਲਮੋਪਾਨ	Belmopano
+ਸਾਨ ਹੋਸੇ	San-Joseo (Kostariko)
+ਸਾਨ ਸਾਲਵਾਦੋਰ	San-Salvadoro
+ਕੈਨਬਰਾ	Kanbero
+ਸਿਡਨੀ	Sidnejo
+ਹਰਾ	Verdo
+ਤਖ਼ੀਆ	Treviro
+ਮੈਲਬਰਨ	Melburno
+ਲਾਲ	Ruĝa
+ਯੂਰੋਪਾ (ਚੰਨ)	Eŭropo (luno)
+ਪਰਥ	Perto
+ਅੱਗ	Fajro
+ਪੱਛਮੀ ਆਸਟਰੇਲੀਆ	Okcidenta Aŭstralio
+ਨਿਊ ਸਾਊਥ ਵੇਲਜ਼	Novsudkimrio
+ਹਵਾ	Atmosfero (tero)
+ਉੱਤਰੀ ਰਾਜਖੇਤਰ	Norda Teritorio
+ਤੇਗੂਸੀਗਾਲਪਾ	Tegucigalpo
+ਆਸਟ੍ਰੇਲੀਆਈ ਰਾਜਧਾਨੀ ਰਾਜਖੇਤਰ	Aŭstralia Ĉefurba Teritorio
+ਮਾਨਾਗੁਆ	Managvo
+ਪਨਾਮਾ ਸ਼ਹਿਰ	Panamurbo
+ਜਾਰਜ ਆਰਵੈੱਲ	George Orwell
+ਨੀਲ ਨਦੀ	Nilo
+ਸ਼ਿਕਾਰੀ ਤਾਰਾ	Siriuso
+ਮਕੈਂਜ਼ੀ ਦਰਿਆ	Makenzio
+ਜਿੰਨ	Ĝino (spirito)
+ਕਾਂਗੋ ਦਰਿਆ	Kongo (rivero)
+ਨਾਈਜਰ ਦਰਿਆ	Niĝero (rivero)
+ਰਬਾਤ	Rabato
+ਅਲ-ਜਜ਼ਾਇਰ	Alĝero
+ਤੂਨਿਸ	Tunizo
+ਤਰਾਬਲਸ	Tripolo
+ਜਿਬੂਤੀ (ਸ਼ਹਿਰ)	Ĝibuto
+ਸਾਈਕਲ ਦੌੜ	Voja bicikla konkurso
+ਤਹਿਰਾਨ	Teherano
+ਆਦਿਸ ਆਬਬਾ	Adis-Abebo
+ਜਕਾਰਤਾ	Ĝakarto
+ਅੰਕਾਰਾ	Ankaro
+ਅਸਮਾਰਾ	Asmaro
+ਨਿਜਾਮੀਨਾ	Nĵameno
+ਨਿਆਮੀ	Niameo
+ਨੁਆਕਚੋਤ	Nuakŝoto
+ਰਿਆਧ	Riado
+੧੯੬੧	1961
+ਬਮਾਕੋ	Bamako
+ਬੈਲਗ੍ਰਾਦ	Beogrado
+ਡਾਕਾਰ	Dakaro
+ਬੰਜੁਲ	Banĵulo
+ਕੋਨਾਕਰੀ	Konakrio
+ਬਿਸਾਊ	Bisaŭo
+ਮੋਨਰੋਵੀਆ	Monrovio
+ਪ੍ਰਾਈਆ	Prajo
+1960	1960
+ਜਾਵਾ ਟਾਪੂ	Javo
+ਅਕਰਾ	Akrao
+ਦਮਸ਼ਕ	Damasko
+ਯਾਮੂਸੂਕਰੋ	Jamusukro
+ਫ਼ਰਾਂਸੀਸੀ ਗੁਈਆਨਾ	Franca Gviano
+ਵਾਗਾਦੁਗੂ	Uagaduguo
+ਫ਼ਰੀਟਾਊਨ	Fritaŭno
+ਐਮਾਜ਼ਾਨ ਦਰਿਆ	Amazono (rivero)
+ਅਬੁਜਾ	Abuĝo
+ਲੋਮੇ	Lomeo
+ਪੋਰਤੋ-ਨੋਵੋ	Porto-Novo
+ਅਮਾਨ	Amano
+ਯਾਊਂਦੇ	Jaundeo
+ਮਲਾਬੋ	Malabo
+ਬੈਰੂਤ	Bejruto
+ਲਿਬਰਵਿਲ	Librevilo
+ਮਸਕਟ	Maskato
+ਬਾਂਗੀ	Bango
+ਕਿਨਸ਼ਾਸਾ	Kinŝaso
+ਬ੍ਰਾਜ਼ਾਵਿਲ	Brazavilo
+ਬੁਜੁੰਬੁਰਾ	Buĵumburo
+ਨਿਕੋਸੀਆ	Nikozio
+ਕਿਗਾਲੀ	Kigalo
+ਦੋਹਾ	Doho
+ਦੋਦੋਮਾ	Dodomao
+ਨੈਰੋਬੀ	Najrobo
+ਲਿਲਾਂਗਵੇ	Lilongvo
+ਲੁਸਾਕਾ	Lusako
+ਮਨਾਮਾ	Manamo
+ਸੂਰਜ ਗ੍ਰਹਿਣ	Suna eklipso
+ਮਾਪੂਤੋ	Maputo
+ਕੰਪਾਲਾ	Kampalo
+ਲੁਆਂਦਾ	Luando
+ਮੋਰੋਨੀ	Moronio
+ਅੰਬਾਬਾਨੇ	Mbabano
+ਮਸੇਰੂ	Maseruo
+ਅੰਤਾਨਾਨਾਰੀਵੋ	Antananarivo
+ਯੂਨੀਵਰਸਿਟੀ	Universitato
+ਗਾਬੋਰੋਨੀ	Gaberono
+ਹਰਾਰੇ	Harareo
+ਪ੍ਰਿਟੋਰੀਆ	Pretorio
+ਪੋਰਟ ਲੂਈ	Port-Luiso
+ਸਾਓ ਤੋਮੇ	Sao-Tomeo
+ਵਿੰਟਹੁਕ	Vindhuko
+ਸੁਪਰਨੋਵਾ	Supernovao
+ਵਿਕੀਪੀਡੀਆ:ਕੱਚਾ ਖਾਕਾ	Vikipedio:Provejo
+ਵਿਕਟੋਰੀਆ, ਸੇਸ਼ੈਲ	Viktorio (Sejŝeloj)
+ਸਥਾਨਕ ਸਮੂਹ	Loka Grupo
+ਮਕਾਨ	Domo
+ਆਸਟਰੇਲੀਆ (ਮਹਾਂਦੀਪ)	Aŭstralia kontinento
+ਲੈਪਟਾਪ	Tekokomputilo
+ਅਲਜਬਰਾ	Algebro
+ਮਨੁੱਖੀ ਸਰੀਰ	Homa anatomio
+ਨਕਸ਼ਾ	Mapo
+ਦਰਿਆ	Rivero
+ਫ਼ੁਜੈਰਾ	Fuĵajro
+ਗਲਾਸਗੋ	Glasgovo
+ਗੰਧਕ ਦਾ ਤਿਜ਼ਾਬ	Sulfata acido
+ਲਿਓਨ ਦੇ ਵਿਦਰੋਹ	Ribelo de la Kanusoj
+ਲੂਈ ਆਰਾਗੋਂ	Louis Aragon
+ਪੰਧ (ਤਾਰਾ ਵਿਗਿਆਨ)	Orbito
+ਡੋਂਗ ਹੋਈ ਹਵਾਈ ਅੱਡਾ	Flughaveno Dong Hoi
+ਪੁਲਾੜ	Ekstertero
+ਸਵੈਜੀਵਨੀ	Aŭtobiografio
+ਕਾਲਾ ਜੰਗਲ	Nigra Arbaro
+ਰੇਡੀਓ ਛੱਲ	Radioondo
+ਮਦਰਬੋਰਡ	Ĉeftabulo
+ਕੁਰੀਤੀਬਾ	Kuritibo
+ਪੈਂਜੀਆ	Pangeo
+ਪੱਛਮੀ ਅਫ਼ਰੀਕਾ	Okcidentafriko
+ਐਮਿਲੀ ਡਿਕਨਸਨ	Emily Dickinson
+ਪੰਜਾਬ, ਪਾਕਿਸਤਾਨ	Panĝabo (Pakistano)
+ਕੋਟਾਇਕ	Kotajko
+ਫ਼ਾਓ. ਐੱਫ਼. ਬੇ. ਸ਼ਟੁੱਟਗਾਟ	VfB Stuttgart
+ਪੱਛਮੀ ਘਾਟ	Okcidentaj Ghatoj
+ਅਖਾਣਾਂ ਦੀ ਕਿਤਾਬ	Sentencoj de Salomono
+ਆਨਾ ਫ਼ਰਾਂਕ	Anne Frank
+ਰਾਜੀਵ ਗਾਂਧੀ	Rajiv Gandhi
+ਸ੍ਰੀਲੰਕਾਈ ਰੁਪਿਆ	Srilanka rupio
+ਕਨਫ਼ੂਸ਼ੀਅਸ	Konfuceo
+ਸਾਰਾ ਬਰਨਹਾਰਟ	Sarah Bernhardt
+ਜਾਰਜੀਆਈ ਲਾਰੀ	Lario
+ਮਾਰਲੀਨ ਡੀਟਰਿਚ	Marlene Dietrich
+ਮਰਲਿਨ ਮੁਨਰੋ	Marilyn Monroe
+ਸ਼੍ਰੇਣੀ:ਹਿਸਾਬ	Kategorio:Matematiko
+ਫ਼ਰੋ ਟਾਪੂ	Ferooj
+ਸੂਰਤ	Surat
+ਮੁਹੰਮਦ ਮੁਰਸੀ	Mohamed Mursi
+ਜੁਪੀਟਰ (ਮਿਥਿਹਾਸ)	Jupitero (dio)
+ਸ਼ਰਲੌਕ ਹੋਮਜ਼	Sherlock Holmes
+ਮੁੜ-ਸੁਰਜੀਤੀ	Renesanco
+ਹਾਂਡੂਰਾਸੀ ਲੈਂਪੀਰਾ	Hondura lempiro
+ਲ ਕਾਰਬੂਜ਼ੀਏ	Le Corbusier
+ਮੈਕਸੀਕੀ ਪੇਸੋ	Meksika peso
+ਪੁਸ਼ਕਿਨ ਮਿਊਜ਼ੀਅਮ	Ŝtata Muzeo de Belartoj Puŝkin
+ਯੂਰੋ	Eŭro
+ਸੰਯੁਕਤ ਰਾਜ ਡਾਲਰ	Usona dolaro
+ਭੂ-ਮੱਧ ਸਮੁੰਦਰ	Mediteraneo
+ਹਾਂਙਚੋ	Hangĝoŭo
+ਹਰਮਨ ਮੈਲਵਿਲ	Herman Melville
+ਕਿਊਪਿਡ	Amoro (dio)
+ਇਸਾਈ ਧਰਮ	Kristanismo
+ਬਰਲਿਨ ਦੀ ਕੰਧ	Berlina muro
+ਗੰਗਾ ਦਰਿਆ	Gango
+ਚਾਵਲ	Rizo
+ਬਾਲਟੀਮੋਰ	Baltimore (Marilando)
+ਮਹਾਂਦੀਪ	Kontinento
+ਐਡਲੇਡ	Adelajdo
+ਪੰਛੀ	Birdoj
+ਰਾਜਧਾਨੀ	Ĉefurbo
+ਫਰਮਾ:ਇਸਲਾਮ	Ŝablono:Islamo
+ਗੁਜਰਾਤੀ ਭਾਸ਼ਾ	Guĝarata lingvo
+ਪੁਰਤਗਾਲੀ ਭਾਸ਼ਾ	Portugala lingvo
+ਮਹੀਨਾ	Monato
+ਮੁਸਤਫ਼ਾ ਕਮਾਲ ਅਤਾਤੁਰਕ	Mustafa Kemal Atatürk
+1948	1948
+ਚੈਚਨੀਆ	Ĉeĉenio
+1949	1949
+੧੯੫੬	1956
+1941	1941
+1945	1945
+੧੯੫੮	1958
+੧੯੨੬	1926
+1947	1947
+ਹਿਪੋਕਰਾਤਿਸ	Hipokrato
+੧੯੪੪	1944
+1952	1952
+ਹੀਰਾ	Diamanto
+ਬਿਲ ਗੇਟਸ	Bill Gates
+ਜਪਾਨੀ ਭਾਸ਼ਾ	Japana lingvo
+ਵਿਸ਼ਵਕੋਸ਼	Enciklopedio
+ਰੈਂਡਮ-ਐਕਸੈਸ ਮੈਮਰੀ	Ĉefmemoro
+ਮੁੱਖ ਸਫ਼ਾ	Vikipedio:Ĉefpaĝo
+1959	1959
+1957	1957
+ਸੰਧਾਰਿਤਰ	Kondensilo
+ਟਰਾਂਜਿਸਟਰ	Transistoro
+ਬੇਸਬਾਲ	Basbalo
+ਬਾਸਕਟਬਾਲ	Korbopilkado
+ਕ੍ਰਿਕਟ	Kriketo
+ਯੂਰੇਸ਼ੀਆ	Eŭrazio
+ਯਾਂਗਤਸੀ ਦਰਿਆ	Jangzio
+੧੨੩੪	1234
+ਸਾਈਬੇਰੀਆ	Siberio
+ਫਰਾਂਸਿਸਕੋ ਗੋਯਾ	Francisco de Goya
+ਅਨੀਮੀਆ	Anemio
+ਹਿਮਾਲਿਆ	Himalajo
+ਐਂਡੀਜ਼	Andoj
+ਰੌਕੀ ਪਹਾੜ	Roka Montaro
+ਕੇਪਟਾਊਨ	Kaburbo
+ਡਰਬਨ	Durbano
+ਕਰਾਕੁਰਮ	Karakorumo
+ਹਿੰਦੂ ਕੁਸ਼	Hindukuŝo
+ਕੋਹ ਕਾਫ਼	Kaŭkazo
+ਕੈਸਪੀਅਨ ਸਮੁੰਦਰ	Kaspio
+ਈਰੀ ਝੀਲ	Eria Lago
+ਵਿਕਟੋਰੀਆ ਝੀਲ	Viktoria lago
+ਟਾਂਗਾਨੀਕਾ ਝੀਲ	Tanganjiko
+ਬਾਈਕਾਲ ਝੀਲ	Bajkalo
+ਮਲਾਵੀ ਝੀਲ	Malavia Lago
+ਸਾਲਵਾਦੋਰ ਦਾਲੀ	Salvador Dalí
+ਆਲਬਰੈਖਤ ਡਿਉਰਰ	Albrecht Dürer
+ਵਿਨਸੰਟ ਵੈਨ ਗਾਗ	Vincent van Gogh
+ਕਾਤਸੁਸ਼ੀਕਾ ਹੋਕੁਸਾਈ	Katsushika Hokusai
+ਫਰੀਡਾ ਕਾਹਲੋ	Frida Kahlo
+ਹੈਨਰੀ ਮਾਤੀਸ	Henri Matisse
+ਮੀਕੇਲਾਂਜਲੋ	Mikelanĝelo
+ਪਾਬਲੋ ਪਿਕਾਸੋ	Pablo Picasso
+ਰਾਫੇਲ	Rafaelo
+ਰੈਮਬਰਾਂ	Rembrandt Harmenszoon van Rijn
+ਪੀਟਰ ਪਾਲ ਰੂਬੇਨਸ	Petro Paŭlo Rubens
+ਮਿਮਾਰ ਸਿਨਾਨ	Sinan
+ਐਂਡੀ ਵਾਰਹੋਲ	Andy Warhol
+ਫਰੈਂਕ ਲਾਇਡ ਰਾਇਟ	Frank Lloyd Wright
+ਐਮੀਨੈਮ	Eminem
+ਅਬੂ ਨੁਵਾਸ	Abu Nuŭas
+ਹਾਂਸ ਕ੍ਰਿਸਚਨ ਆਂਡਰਸਨ	Hans Christian Andersen
+ਮਾਤਸੂਓ ਬਾਸ਼ੋ	Matsuo Basho
+ਲਾਰਡ ਬਾਇਰਨ	George Byron
+ਮੀਗੇਲ ਦੇ ਸਿਰਵਾਂਤਿਸ	Miguel de Cervantes
+ਚੌਸਰ	Geoffrey Chaucer
+ਬੇਬੀਲੋਨ	Babilono
+ਐਂਤਨ ਚੈਖਵ	Anton Ĉeĥov
+ਚਾਰਲਸ ਡਿਕਨਜ਼	Charles Dickens
+ਓਲਾਂਦ ਟਾਪੂ	Alando
+ਸਪਾਰਟਾ	Sparto
+ਕਾਤਾਲੋਨੀਆ	Katalunio
+ਬਸ਼ਕੋਰਤੋਸਤਾਨ	Baŝkirio
+ਮਨਫ਼	Memfiso (Egiptio)
+ਮੋਹਿੰਜੋਦੜੋ	Mohenĝo-daro
+ਪੀਟਰ ਕਰੋਪੋਤਕਿਨ	Petro Kropotkin
+ਸਮਰਕੰਦ	Samarkando
+ਬੁਖਾਰਾ	Buĥaro
+ਕੇਮਨ ਟਾਪੂ	Kajmana Insularo
+ਐਵਰਟਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Everton FC
+ਮੱਕਾ	Mekko
+ਚੀ ਗਵੇਰਾ	Che Guevara
+ਨੋਵਾਕ ਜੋਕੋਵਿਕ	Novak Đoković
+ਮਾਓ ਤਸੇ-ਤੁੰਗ	Mao Zedong
+ਜ਼ੀਆਨ	Ŝjiano
+ਤੋਲੇਦੋ, ਸਪੇਨ	Toledo
+ਕਾਬੁਲ	Kabulo
+ਲਾਸਾ	Lasao
+ਗੈਬਰੀਅਲ ਗਾਰਸੀਆ ਮਾਰਕੇਜ਼	Gabriel García Márquez
+ਯੋਹਾਨ ਵੁਲਫਗੰਗ ਫਾਨ ਗੇਟੇ	Johann Wolfgang von Goethe
+ਯੋਨੀ	Vagino
+ਤਮਿਲ਼ ਭਾਸ਼ਾ	Tamila lingvo
+ਵੀ ਫ਼ਾਰ ਵੈਨਡੈੱਟਾ (ਫ਼ਿਲਮ)	V for Vendetta (filmo)
+ਦਰਸ਼ਨ	Filozofio
+ਵੈਸਟਮਿੰਸਟਰ ਐਬੇ	Abatejo Westminster
+ਸ਼੍ਰੇਣੀ:ਛੇਤੀ ਮਿਟਾਉਣਯੋਗ ਸਫ਼ੇ	Kategorio:Tujforigendaj artikoloj
+ਪਿਆਨੋ	Piano
+ਰੈਪ ਗਾਇਕੀ	Repo
+੧੩੪੫	1345
+ਚਾਹ	Teo
+ਕਮਿਊਨਿਜ਼ਮ	Komunismo
+ਹੋਰੇਸ	Horacio
+ਪੂੰਜੀਵਾਦ	Kapitalismo
+ਉਦਾਰਵਾਦ	Liberalismo
+ਫਾਸ਼ੀਵਾਦ	Faŝismo
+ਕੌਮਪ੍ਰਸਤੀ	Naciismo
+ਹਾਫ਼ਿਜ਼ ਸ਼ੀਰਾਜ਼ੀ	Hafizo
+ਪੱਛਮੀ ਸਹਾਰਾ	Okcidenta Saharo
+ਦੇਸ਼	Lando
+ਕੌਮ	Nacio
+ਹਿਲੇਰੀ ਕਲਿੰਟਨ	Hillary Rodham Clinton
+ਇੰਡੀਆਨਾਪੋਲਿਸ	Indianapolis
+ਬ੍ਰਿਟਿਸ਼ ਮਿਊਜ਼ੀਅਮ	Brita Muzeo
+ਯੂਲੀਸਸ (ਨਾਵਲ)	Uliso (Joyce)
+ਸ਼ਾਨ ਕੀਅਰਗੇਗੌਦ	Søren Kierkegaard
+ਰੂਸੋ	Jean-Jacques Rousseau
+ਸਤਾਨੀਸਲਾਵ ਲੈੱਮ	Stanisław Lem
+ਫ਼ਰਾਂਸੀਸੀ ਇਨਕਲਾਬ	Franca revolucio de 1789
+ਗੁੰਟਰ ਗਰਾਸ	Günter Grass
+ਸਹਾਰਾ ਮਾਰੂਥਲ	Saharo
+ਸਟਰਾਸਬਰਗ	Strasburgo
+ਗਿਟਾਰ	Gitaro
+ਸਮਲਿੰਗੀ	Samseksemo
+ਰੈਨੋ	Renault
+ਹੋਮਰ	Homero
+ਐਲਨ ਗਿਨਜ਼ਬਰਗ	Allen Ginsberg
+ਐਡਵਰਡ ਟੈਲਰ	Edward Teller
+ਫ਼ਰਾਂਸ ਵਿੱਚ ਮਈ 1968 ਦੀਆਂ ਘਟਨਾਵਾਂ	Majo de 1968 (Francio)
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਖਗੋਲੀ ਸੰਘ	Internacia Astronomia Unio
+੧੮੦੦	1800
+1801	1801
+ਜੇਮਜ਼ ਜੋਆਇਸ	James Joyce
+੧੮੦੨	1802
+੧੮੦੩	1803
+21ਵੀਂ ਸਦੀ	21-a jarcento
+੧੮੧੯	1819
+੧੮੨੩	1823
+ਖਗੋਲੀ ਚੀਜ਼	Astro
+ਕਾਲੀਦਾਸ	Kalidaso
+ਕਾਤਾਲਾਨ ਭਾਸ਼ਾ	Kataluna lingvo
+ਨਾਸਤਿਕਤਾ	Ateismo
+ਲੀ ਬਾਈ	Li Bai
+ਲਾਇਬ੍ਰੇਰੀ	Librarejo
+ਪਦਾਰਥਵਾਦ	Materialismo
+ਨੀਲਜ਼ ਬੋਰ	Niels Bohr
+ਸੋਝੀ	Konscio
+ਜੀਵ ਟੈਕਨਾਲੋਜੀ	Biotekniko
+ਕੋਸ਼ਾਣੂ ਵਿਗਿਆਨ	Ĉelbiologio
+ਵਾਤਾਵਰਨ ਵਿਗਿਆਨ	Ekologio
+ਫੁੱਟਬਾਲ ਕਲੱਬ ਬਾਰਸੀਲੋਨਾ	Futbala Klubo de Barcelono
+ਸਿਆਸਤ	Politiko
+ਬਸਤੀਵਾਦ	Koloniismo
+ਰੂੜ੍ਹੀਵਾਦ	Konservismo
+ਅਰਬ ਲੀਗ	Ligo de Arabaj Ŝtatoj
+ਲੋਕਰਾਜ	Demokratio
+ਨਜੀਬ ਮਹਿਫ਼ੂਜ਼	Naguib Mahfouz
+ਰੈੱਡ ਕਰਾਸ	Ruĝa Kruco
+ਸੰਸਾਰੀਕਰਨ	Tutmondiĝo
+ਨਾਟੋ	NATO
+ਮੈਰੀ ਕਿਊਰੀ	Marie Curie
+ਜੀਨ	Geno
+ਨੋਬਲ ਇਨਾਮ	Nobel-premio
+ਸਿਮੋਨ ਦ ਬੋਵੁਆਰ	Simone de Beauvoir
+ਓਵਿਦ	Ovidio
+ਮਾਰਸੇਲ ਪਰੁਸਤ	Marcel Proust
+ਅਲੈਗਜ਼ੈਂਡਰ ਪੁਸ਼ਕਿਨ	Aleksandr Puŝkin
+ਮੱਧ ਪੂਰਬ	Mezoriento
+ਰੋਜ਼ਾ ਲਕਸਮਬਰਗ	Roza Luksemburg
+ਸੋਫੋਕਲੀਜ਼	Sofoklo
+ਪ੍ਰਾਣੀ	Organismo
+ਰਬਿੰਦਰ ਨਾਥ ਟੈਗੋਰ	Rabindranath Tagore
+ਸੁੰਦਰਤਾ	Belo
+ਲਿਉ ਤਾਲਸਤਾਏ	Lev Tolstoj
+ਮਾਰਕ ਟਵੇਨ	Mark Twain
+ਇਕਸਿੰਗਾ	Unukornulo
+ਨਾਰੀਵਾਦ	Feminismo
+ਵਿਚਾਰਧਾਰਾ	Ideologio
+ਐਡਾ ਲਵਲੇਸ	Ada Lovelace
+ਸਾਮਰਾਜਵਾਦ	Imperiismo
+ਮਾਰਕਸਵਾਦ	Marksismo
+ਬਾਦਸ਼ਾਹੀ	Monarkio
+ਗਣਰਾਜ	Respubliko
+ਸਮਾਜਵਾਦ	Socialismo
+ਸਿਆਸੀ ਦਲ	Partio (politiko)
+ਚਿੜੀ-ਛਿੱਕਾ	Badmintono
+ਯੋਹਾਨਸ ਬਰਾਮਸ	Johannes Brahms
+ਨਾਜ਼ੀਵਾਦ	Naziismo
+ਪਿਓਤਰ ਇਲੀਚ ਚੈਕੋਵਸਕੀ	Pjotr Iljiĉ Ĉajkovskij
+ਨਾਜ਼ੀ ਜਰਮਨੀ	Nazia Germanio
+ਨਾਜ਼ੀ ਪਾਰਟੀ	Nacisocialisma Germana Laborista Partio
+ਕ੍ਰਿਸਟੋਫ਼ਰ ਕੋਲੰਬਸ	Kristoforo Kolumbo
+ਯਹੂਦੀ	Judoj
+ਵਾਸਕੋ ਦਾ ਗਾਮਾ	Vasco da Gama
+ਇਬਨ ਬਤੂਤਾ	Ibn Batuta
+ਆਉਸ਼ਵਿਤਸ ਤਸੀਹਾ ਕੈਂਪ	Aŭŝvico (koncentreja komplekso)
+ਮਹਾਨ ਝੀਲਾਂ	Grandaj Lagoj (Nordameriko)
+ਸਿੰਧ ਦਰਿਆ	Induso
+ਪਨਾਮਾ ਨਹਿਰ	Panama kanalo
+ਦੱਖਣੀ ਮਹਾਂਸਾਗਰ	Suda Oceano
+ਹਵਾਂਗ ਹੋ	Flava Rivero
+ਕੰਨ	Orelo
+ਨੱਕ	Nazo (organo)
+ਅੱਖ	Okulo
+ਪੱਠਾ	Muskolo
+ਗੀਤ	Kanto
+ਮੱਛਰ	Moskito
+ਭੇਡ	Ŝafo
+ਊਠ	Kamelo
+ਥਣਧਾਰੀ	Mamuloj
+ਹਾਥੀ	Elefanto
+ਆਗੂ ਮਾਨਸ	Primatoj
+ਕੀੜੀ	Formiko
+ਭੌਰਾ	Abelo
+ਡੱਚ ਭਾਸ਼ਾ	Nederlanda lingvo
+ਮਾਰਗਰੈੱਟ ਥੈਚਰ	Margaret Thatcher
+ਡੀ.ਐੱਨ.ਏ.	DNA
+ਰਿਚਰਡ ਸਟਾਲਮਨ	Richard Stallman
+ਇੰਗਮਾਰ ਬਰਗਮਾਨ	Ingmar Bergman
+ਅਨੁਵਾਦ	Traduko
+ਮਾਂ	Patrino
+ਪਿਤਾ	Patro
+1828	1828
+ਢੋਆ-ਢੁਆਈ	Transporto
+ਡੈਬੀਅਨ	Debiano
+1863	1863
+ਅਗਸਤ ਸਟਰਿੰਡਬਰਗ	August Strindberg
+ਆਥਣ	Vespero
+ਮਿੰਟ	Minuto
+ਗੋਤਾਖੋਰੀ (ਖੇਡ)	Plonĝado
+ਰੂਸੀ ਭਾਸ਼ਾ	Rusa lingvo
+ਘਰ	Hejmo (loĝejo)
+ਵਲਾਦੀਮੀਰ ਪੂਤਿਨ	Vladimir Putin
+ਕਨੂੰਨ	Leĝo (jura)
+ਸੰਵਿਧਾਨ	Konstitucio
+ਆਸੀਆਨ	ASEAN
+ਸਾਖਾਲਿਨ	Saĥaleno
+ਯੂਨਾਨ ਦਾ ਇਤਿਹਾਸ	Historio de Grekio
+ਓਪੈੱਕ	OPEL
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਅਦਾਲਤ	Internacia Kortumo
+ਕੌਮਾਂਤਰੀ ਮਾਲੀ ਪੂੰਜੀ	Internacia Monunua Fonduso
+੧੮੮੦	1880
+ਯੂਨੈਸਕੋ	Unesko
+ਵਿਸ਼ਵ ਸਿਹਤ ਸੰਗਠਨ	Monda Organizaĵo pri Sano
+ਡਬਲਿਊ ਟੀ ਓ	Monda Organizaĵo pri Komerco
+ਕ੍ਰੀਮੀਆ	Krimeo
+ਸਵਾਹਿਲੀ ਭਾਸ਼ਾ	Svahila lingvo
+1897	1897
+ਚੀਨੀ ਭਾਸ਼ਾ	Ĉina lingvaro
+ਪਖਾਨਾ	Necesejo
+ਸਾਈਕੈਟਰੀ	Psikiatrio
+ਕੋਸ਼ਾਣੂ	Ĉelo (biologio)
+ਲਹੂ	Sango
+ਟੁਲੂਜ਼	Tuluzo
+ਪਿੰਜਰ	Skeleto
+ਫੇਫੜਾ	Pulmo
+ਪੀਣ ਵਾਲਾ ਪਾਣੀ	Trinkakvo
+ਕਾਸਾਬਲਾਂਕਾ	Kazablanko
+ਬਲਗਾਰੀ	Bulgara lingvo
+ਸਿੱਖਿਆ ਸ਼ਾਸਤਰ	Pedagogio
+ਮੀਂਹ	Pluvo
+ਪੌਣਪਾਣੀ	Klimato
+ਅਲ ਨੀਨੋ	El-Ninjo
+ਸੰਸਾਰਕ ਤਾਪ	Tutmonda varmiĝo
+ਭੁਚਾਲ	Tertremo
+ਜ਼ੈੱਨ	Zeno
+ਅਮਰੀਕੀ ਅੰਗਰੇਜ਼ੀ	Usona varianto de la angla lingvo
+ਅਨਾਦਿਰ	Anadir
+ਬਰਤਾਨਵੀ ਅੰਗਰੇਜ਼ੀ	Brita angla lingvo
+ਮਾਊਸ	Komputila muso
+ਲਾਪਤੇਵ ਸਮੁੰਦਰ	Lapteva Maro
+ਕੁਦਰਤੀ ਵਿਗਿਆਨ	Naturscienco
+ਸਰਗੇਈ ਆਈਜ਼ੇਂਸਤਾਈਨ	Sergej Miĥajloviĉ Ejzenŝtejn
+ਅਕੀਰਾ ਕੁਰੋਸਾਵਾ	Kurosawa Akira
+ਫ਼ਰੈਂਕਲਿਨ ਡੀ ਰੂਜ਼ਵੈਲਟ	Franklin D. Roosevelt
+ਇਬਨ ਸਿਨਾ	Aviceno
+ਵਿੰਸਟਨ ਚਰਚਿਲ	Winston Churchill
+ਨੈਲਸਨ ਮੰਡੇਲਾ	Nelson Mandela
+ਮਾਰਟਿਨ ਲੂਥਰ ਕਿੰਗ, ਜੂਨੀਅਰ	Martin Luther King
+ਗਿੰਪ	GIMP
+ਪਾਚਕ ਰਸ	Enzimo
+ਪ੍ਰੋਟੀਨ	Proteino
+ਰੋਮਾ (ਲੋਕ)	Ciganoj
+ਕੁਦਰਤੀ ਤਬਾਹੀ	Naturkatastrofo
+ਅਮੀਨੋ ਤਿਜ਼ਾਬ	Aminoacido
+ਹੜ੍ਹ	Inundo
+ਸੁਨਾਮੀ	Cunamo
+ਜੁਆਲਾਮੁਖੀ	Vulkano
+ਬੱਦਲ	Nubo
+ਤਰਕ ਸ਼ਾਸਤਰ	Logiko
+ਤਿਕੋਣਮਿਤੀ	Trigonometrio
+ਰੇਖਕੀ	Geometrio
+ਵਿਆਕਰਨ	Gramatiko
+ਤੇਲੁਗੂ ਭਾਸ਼ਾ	Telugua lingvo
+ਵਾਯੂਮੰਡਲ	Atmosfero (astro)
+ਜਾਰਜੀਆਈ ਭਾਸ਼ਾ	Kartvela lingvo
+ਅਰਥਸ਼ਾਸਤਰ	Ekonomiko
+ਜਪਾਨੀ ਯੈੱਨ	Japana eno
+ਭਾਸ਼ਾ ਵਿਗਿਆਨ	Lingvoscienco
+ਸ਼ਬਦ	Vorto
+ਧੁਨੀਮ	Fonemo
+ਉਚਾਰਖੰਡ	Silabo
+ਲਿਪੀ	Skribsistemo
+ਅਰਬੀ ਵਰਣਮਾਲਾ	Araba alfabeto
+ਸਿਰਿਲਿਕ ਲਿਪੀ	Cirila alfabeto
+ਹਾਂਗਗੁਲ	Korea alfabeto
+ਲਾਤੀਨੀ ਲਿਪੀ	Latina alfabeto
+ਸਾਹਿਤ	Literaturo
+ਸ਼੍ਰੇਣੀ:ਫ੍ਰਾਂਸ	Kategorio:Francio
+ਗਲਪ	Fikcio
+ਸ਼੍ਰੇਣੀ:ਸੰਗੀਤ	Kategorio:Muziko
+ਆਲਿਫ਼ ਲੈਲਾ	Mil kaj unu noktoj
+ਨਾਵਲ	Romano
+ਗੇਂਜੀ ਦੀ ਕਹਾਣੀ	Genĵi monogatari
+ਗਿਲਗਾਮੇਸ਼	Eposo pri Gilgameŝ
+ਮਾਂਗਾ	Mangao
+ਇਲੀਆਡ	Iliado
+ਮਹਾਂਭਾਰਤ	Mahabharato
+ਸ਼ਾਹਨਾਮਾ	Ŝahnameo
+ਲੂੰਬੜੀ	Vulpo
+ਹੈਰੀ ਪੌਟਰ	Harry Potter
+ਵਾਇਲਿਨ	Violono
+.ac	.ac
+ਸਿਕੰਦਰ ਮਹਾਨ	Aleksandro la Granda
+ਸਮਾਜ	Socio
+ਸੱਭਿਅਤਾ	Civilizo
+ਸਿੱਖਿਆ	Eduko
+ਟੱਬਰ	Familio
+ਹੂਗੋ ਚਾਵੇਜ਼	Hugo Chávez
+ਵਿਆਹ	Geedzeco
+ਫ਼ਰਾਂਸੀਸੀ ਵਿਕੀਪੀਡੀਆ	Franclingva Vikipedio
+ਗਰਭਪਾਤ	Aborto
+ਮੌਤ ਦੀ ਸਜ਼ਾ	Mortpuno
+ਮਨੁੱਖੀ ਹੱਕ	Homaj rajtoj
+ਨਸਲਵਾਦ	Rasismo
+ਗ਼ੁਲਾਮੀ	Sklaveco
+ਖ਼ਾਨਾਜੰਗੀ	Interna milito
+ਆਮੂ ਦਰਿਆ	Amudarjo
+ਪਹਾੜ	Monto
+2008 ਓਲੰਪਿਕ ਖੇਡਾਂ	Somera Olimpiko 2008
+ਸੁਨ ਯਾਤ ਸਨ	Sun Jatsen
+ਅਸ਼ੋਕ	Aŝoko
+ਅਕਬਰ	Jalaluddin Muhammad Akbar
+ਸਿਮੋਨ ਬੋਲੀਵਰ	Simón Bolívar
+ਹਾਂਗਕਾਂਗ	Honkongo
+ਕਰਾਚੀ	Karaĉio
+ਅਰਬ-ਇਜ਼ਰਾਇਲੀ ਟਾਕਰਾ	Araba-israela konflikto
+ਲਾਗੋਸ	Lagoso
+ਰਿਓ ਡੀ ਜਨੇਰੋ	Rio-de-Ĵanejro
+ਬਰਤਾਨਵੀ ਸਾਮਰਾਜ	Brita imperio
+ਰਿਆਲ ਮਾਦਰੀਦ ਫੁੱਟਬਾਲ ਕਲੱਬ	Real Madrid
+ਠੰਢੀ ਜੰਗ	Malvarma milito
+ਸਿਓਲ	Seulo
+ਸ਼ੰਘਾਈ	Ŝanhajo
+ਅਥਲੇਟਿਕ ਕਲੱਬ ਬਿਲਬੂ	Athletic Bilbao
+ਸੱਭਿਆਚਾਰਕ ਇਨਕਲਾਬ	Kultura Revolucio
+ਆਰਥਿਕ ਮੰਦਵਾੜਾ	Granda depresio
+ਅਥਲੇਟਿਕੋ ਮਾਦਰੀਦ	Atlético Madrid
+ਵਾਲਟ ਡਿਜ਼ਨੀ	Walt Disney
+ਇਸ਼ਬੀਲੀਆ	Sevilo
+ਰੂਸੀ ਇਨਕਲਾਬ	Rusia revolucio de 1917
+ਵਰਸਾਏ ਦੀ ਸੰਧੀ	Traktato de Versajlo
+ਆਰਕੀਮਿਡੀਜ਼	Arkimedo
+ਵੀਅਤਨਾਮ ਜੰਗ	Vjetnama milito
+ਥਾਮਸ ਐਡੀਸਨ	Thomas Alva Edison
+ਅਲਬਾਨੀਆਈ ਭਾਸ਼ਾ	Albana lingvo
+ਮਾਈਕਲ ਫ਼ੈਰਾਡੇ	Michael Faraday
+ਆਰਮੇਨੀਆਈ ਭਾਸ਼ਾ	Armena lingvo
+ਯੂਕਰੇਨੀ ਭਾਸ਼ਾ	Ukraina lingvo
+ਗਰਾਨਾਦਾ	Granado
+ਐਚਃ ਟੀਃ ਐਮਃ ਐਲਃ	HTML
+ਵਾਲੈਂਸੀਆ	Valencio
+ਕੰਨਿਆ ਤਾਰਾਮੰਡਲ	Virgo (konstelacio)
+ਨਰਤੁਰੰਗ ਤਾਰਾਮੰਡਲ	Centaŭro (konstelacio)
+ਕਰਕ ਤਾਰਾਮੰਡਲ	Kankro (konstelacio)
+ਮਾਲਾਗਾ	Malago
+ਪਰਣਿਨ ਘੋੜਾ ਤਾਰਾਮੰਡਲ	Pegazo (konstelacio)
+ਸੱਤਿਆਜੀਤ ਰਾਏ	Satyajit Ray
+ਸਟੀਵਨ ਸਪੀਲਬਰਗ	Steven Spielberg
+ਸਪਤਰਿਸ਼ੀ	Granda Ursino (konstelacio)
+ਮਾਰੀਓਂ ਕੋਤੀਯਾਰ	Marion Cotillard
+ਮੋ ਯਾਨ	Mo Yan
+ਮਾਕਸ ਪਲਾਂਕ	Max Planck
+ਗੁਆਦਾਲਾਹਾਰਾ	Gvadalaharo
+ਸਵੀਡਿਸ਼ ਭਾਸ਼ਾ	Sveda lingvo
+ਡੈਨਿਸ਼ ਭਾਸ਼ਾ	Dana lingvo
+ਨਿਕੋਲਾ ਟੈਸਲਾ	Nikola Tesla
+ਮੁਹੰਮਦ ਇਬਨ ਮੂਸਾ ਅਲ-ਖ਼ਵਾਰਿਜ਼ਮੀ	Al-Ĥorazmi
+ਨਾਰਵੇਜੀਆਈ ਭਾਸ਼ਾ	Norvega lingvo
+ਚਾਣਕਿਆ	Ĉanakja
+ਨੌਮ ਚੌਮਸਕੀ	Noam Chomsky
+ਲਕਸਮਬਰਗੀ ਭਾਸ਼ਾ	Luksemburga lingvo
+ਚੈੱਕ ਭਾਸ਼ਾ	Ĉeĥa lingvo
+ਸਲੋਵਾਕ ਭਾਸ਼ਾ	Slovaka lingvo
+ਕਾਰਲ ਮਾਰਕਸ	Karl Marx
+ਮਗਿਆਰ ਭਾਸ਼ਾ	Hungara lingvo
+ਵੋਲਟੇਅਰ	Voltaire
+ਏਸਟੋਨਿਆਈ ਭਾਸ਼ਾ	Estona lingvo
+ਮੂਸਾ	Moseo
+ਗਿਆਨ	Scio
+ਹਿੰਦੂ ਧਰਮ	Hinduismo
+ਬੇਲਾਰੂਸੀ ਭਾਸ਼ਾ	Belorusa lingvo
+ਖੋਸੇ ਮੂਖੀਕਾ	José Mujica
+ਤਾਬਾਰੇ ਵਾਸਕੇਸ	Tabaré Vázquez
+ਦਮੀਤਰੀ ਮੈਂਡਲੀਵ	Dmitrij Mendelejev
+ਪਰਮਾਣੂ	Atomo
+ਅਰਨਸਟ ਰਦਰਫ਼ੋਰਡ	Ernest Rutherford
+ਪ੍ਰਕਾਸ਼	Lumo
+ਯੂਨਾਨੀ ਭਾਸ਼ਾ	Greka lingvo
+ਮਿੱਥ ਵਿਗਿਆਨ	Mitologio
+ਆਪਰੇਟਿੰਗ ਸਿਸਟਮ	Operaciumo
+ਤਾਜ ਮਹਿਲ	Taĝ-Mahalo
+ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ	Programlingvo
+ਈ-ਮੇਲ	Retpoŝto
+ਇੱਕ ਈਸ਼ਵਰਵਾਦ	Monoteismo
+ਜੋਸਿਪ ਬਰੋਜ਼ ਟੀਟੋ	Josip Broz Tito
+ਆਤਮਾ	Animo
+ਮਾਲਟਾਈ ਭਾਸ਼ਾ	Malta lingvo
+ਫ਼ਾਰਸੀ ਭਾਸ਼ਾ	Persa lingvo
+ਧਰਮ	Religio
+ਕੋਰੀਅਨ ਭਾਸ਼ਾ	Korea lingvo
+ਅਬਰਾਹਮ	Abraham
+ਜਣਨ ਦੀ ਕਿਤਾਬ	Genezo
+ਰੇਨੇ ਦੇਕਾਰਤ	René Descartes
+ਮੰਦਾਰਿਨ ਭਾਸ਼ਾ	Nordĉina dialektaro
+ਵੀਅਤਨਾਮੀ ਭਾਸ਼ਾ	Vjetnama lingvo
+ਸਟੈਚੂ ਆਫ਼ ਲਿਬਰਟੀ	Statuo de Libereco
+ਖਮੇਰ ਭਾਸ਼ਾ	Kmera lingvo
+ਲੁੰਬਿਨੀ	Lumbini
+ਸਿਗਮੰਡ ਫ਼ਰਾਇਡ	Sigmund Freud
+ਥਾਈ ਭਾਸ਼ਾ	Siama lingvo
+ਬਰਮੀ ਭਾਸ਼ਾ	Birma lingvo
+ਜੈਨ ਧਰਮ	Ĝajnismo
+ਗਿਓਕ ਵਿਲਹੈਲਮ ਫ਼ਰੀਡਰਿਸ਼ ਹੇਗਲ	Hegelo
+ਮੰਗੋਲ ਭਾਸ਼ਾ	Mongola lingvo
+ਬਾਕੂ	Bakuo
+ਕਜ਼ਾਖ ਭਾਸ਼ਾ	Kazaĥa lingvo
+ਕਿਰਗੀਜ਼ ਭਾਸ਼ਾ	Kirgiza lingvo
+ਵਿਸ਼ਵ ਵਿਰਾਸਤ ਟਿਕਾਣਾ	Monda heredaĵo de Unesko
+ਉਜ਼ਬੇਕ ਭਾਸ਼ਾ	Uzbeka lingvo
+ਯਹੂਦੀ ਧਰਮ	Judismo
+ਥਿੰਫੂ	Timbuo
+ਬੰਦਰ ਸੇਰੀ ਬੇਗਵਾਨ	Bandar-Seri-Begavano
+ਹਿਬਰੂ ਭਾਸ਼ਾ	Hebrea lingvo
+ਅਜ਼ੇਰੀ ਭਾਸ਼ਾ	Azerbajĝana lingvo
+ਸਰਬੀਆਈ ਭਾਸ਼ਾ	Serba lingvo
+ਦੀਲੀ	Dilo
+ਇਮੈਨੂਅਲ ਕਾਂਤ	Immanuel Kant
+ਸਿੱਖੀ	Sikismo
+ਜਾਨ ਮੇਨਾਰਡ ਕੇਨਜ਼	John Maynard Keynes
+ਵਿਆਂਗ ਚਾਨ	Vjentiano
+ਮੋਪਾਸਾਂ	Guy de Maupassant
+ਮਾਲੇ	Maleo (Maldivoj)
+ਯੋਗਾਸਣ	Jogo
+ਜਾਨ ਲਾਕ	John Locke
+ਫ਼ਰੀਡਰਿਸ਼ ਨੀਤਸ਼ੇ	Friedrich Wilhelm Nietzsche
+ਬਿਸ਼ਕੇਕ	Biŝkeko
+ਯਾਂ ਪਾਲ ਸਾਰਤਰ	Jean-Paul Sartre
+ਦੁਸ਼ਾਂਬੇ	Duŝanbeo
+ਕਾਲਜਾ	Hepato
+ਗੁਰਦਾ	Reno
+ਐਡਮ ਸਮਿਥ	Adam Smith
+ਮੈਕਸ ਵੈਬਰ	Max Weber
+ਲੁਡਵਿਗ ਵਿਟਗਨਸਟਾਈਨ	Ludwig Wittgenstein
+ਖਰਗੋਸ਼	Kuniklo
+ਨਿੰਜਾ	Ninĵo
+ਵਲਵਲਾ	Emocio
+ਮਨੋਵਿਗਿਆਨ	Psikologio
+ਤਿੰਬਕਤੂ	Timbuktuo
+ਮਹਾਂਸਾਗਰ	Oceano
+﻿ਮਲਿਕਾ ਵਿਕਟੋਰੀਆ	Viktoria (Britio)
+ਗੌਤਮ ਬੁੱਧ	Sidarto Gotamo
+ਲੋਥਲ	Lothal
+ਵਿਰੋਧਵਿਕਾਸ	Dialektiko
+ਵੱਲਭਭਾਈ ਪਟੇਲ	Vallabhbhai Patel
+ਮੁਹੰਮਦ	Mohamedo
+ਨੀਤੀ ਵਿਗਿਆਨ	Etiko
+ਗਿਆਨ ਮੀਮਾਂਸਾ	Sciteorio
+ਕਾਟੋ	Sciuredoj
+ਯਥਾਰਥ	Realo
+ਏ ਪੀ ਜੇ ਅਬਦੁਲ ਕਲਾਮ	Abdul Kalam
+ਬੀਬੀਸੀ	BBC
+ਸ਼ਾਹਰੁਖ ਖਾਨ	Shahrukh Khan
+ਅਲ-ਗ਼ਜ਼ਾਲੀ	Algazelo
+ਮਾਰਟਿਨ ਲੂਥਰ	Marteno Lutero
+ਅਮਿਤਾਭ ਬੱਚਨ	Amitabh Bachchan
+ਸ਼ੀਆ ਇਸਲਾਮ	Ŝijaismo
+ਕੈਥੋਲਿਕ ਗਿਰਜਾਘਰ	Katolika Eklezio
+ਤਾਓਵਾਦ	Taoismo
+ਪਾਰਸੀ ਧਰਮ	Zaratuŝtrismo
+ਸੂਫ਼ੀਵਾਦ	Sufiismo
+ਸ਼ਿਰਾ	Vejno
+ਬੰਗਾਲੀ ਭਾਸ਼ਾ	Bengala lingvo
+ਚੈਲਸੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Chelsea F.C.
+ਆਰਸਨਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Arsenal F.C.
+ਘੰਡੀ	Laringo
+ਜੋੜ (ਸਰੀਰੀ ਬਣਤਰ)	Artiko
+ਹਿੱਕ	Brusto
+ਫ਼ਾਕਲੈਂਡ ਟਾਪੂ	Insuloj Falklandoj
+ਧਮਣੀ	Arterio
+A	A
+ਕਰਨਲ (ਆਪਰੇਟਿੰਗ ਸਿਸਟਮ)	Kerno (operaciumo)
+ਮਾਈਕਲ ਸ਼ੂਮਾਕਰ	Michael Schumacher
+ਲੂਇਸ ਹੈਮਿਲਟਨ	Lewis Hamilton
+ਮੈਨ ਟਾਪੂ	Manksinsulo
+ਨਿਊਯਾਰਕ ਟਾਈਮਜ਼	The New York Times
+ਜੇ ਐੱਫ਼ ਕੈਨੇਡੀ	John F. Kennedy
+B	B
+ਆਨਰੇ ਦੇ ਬਾਲਜ਼ਾਕ	Honoré de Balzac
+G	G
+U	U
+Z	Z
+ਫ਼ਲੇਮੇਂਕੋ	Flamenko
+F	F
+J	J
+ਵਰਨਮਾਲਾ	Alfabeto
+ਅੱਖਰ	Litero
+ਰੇਗੇ	Regeo
+T	T
+C	C
+R	R
+D	D
+ਕੋਇੰਬਟੂਰ	Koimbatore
+ਅਲਫ਼ਾ	Alfo
+ਓਮੇਗਾ	Omego
+I	I
+ਮਿਊ (ਅੱਖਰ)	Muo (litero)
+E	E
+H	H
+K	K
+L	L
+M	M
+N	N
+O	O
+P	P
+Q	Q
+S	S
+V	V
+W	W
+X	X
+Y	Y
+ਡੱਚ ਵਿਕੀਪੀਡੀਆ	Nederlandlingva Vikipedio
+ਫਾਈ	Fio (litero)
+ਨੀਲਗਿਰੀ ਦੀਆਂ ਪਹਾੜੀਆਂ	Nilgirio
+ਭਾਰਤੀ ਰਾਸ਼ਟਰੀ ਕਾਂਗਰਸ	Barata Nacia Kongreso
+ਭਾਰਤੀ ਜਨਤਾ ਪਾਰਟੀ	Partio de la Popolo de Barato
+ਦਿਵਾਲੀ	Divali
+ਪਲਾਜ਼ਮਾ	Plasmo
+ਪਾਈਥਾਗੋਰਸ	Pitagoro
+ਕੁੰਭ ਮੇਲਾ	Kumbhamela
+ਕੋਲੋਸੀਅਮ	Koloseo
+ਤਾਰਾਗੋਤਾ	Zaragozo
+ਵਾਲੈਂਸੀਆ ਕਲੱਬ ਦੀ ਫੁੱਟਬਾਲ	Valencia CF
+ਉੱਤਰਕਿਰੀਟ ਤਾਰਾਮੰਡਲ	Norda Krono (konstelacio)
+ਕਬੂਤਰ ਤਾਰਾਮੰਡਲ	Kolombo (konstelacio)
+ਇਕਊਲੀਅਸ	Ĉevaleto (konstelacio)
+ਫੀਨਿਕਸ ਤਾਰਾਮੰਡਲ	Fenikso (konstelacio)
+ਖ਼ਰਗੋਸ਼ ਤਾਰਾਮੰਡਲ	Leporo (konstelacio)
+ਕਰਾਇਨਾ ਤਾਰਾਮੰਡਲ	Kareno (konstelacio)
+ਐਂਤਲਿਆ ਤਾਰਾਮੰਡਲ	Pumpilo (konstelacio)
+ਡੇਵਿਡ ਬੈਕਮ	David Beckham
+ਵ੍ਰਸ਼ ਤਾਰਾਮੰਡਲ	Taŭro (konstelacio)
+ਕਾਰਡਿਫ਼	Cardiff
+ਮਿਆਦੀ ਪਹਾੜਾ	Perioda tabelo
+ਥੋਸ਼ਾਊਨ	Tórshavn
+ਜਾਰਜਟਾਊਨ, ਗੁਇਆਨਾ	Ĝorĝtaŭno (Gujano)
+ਖ਼ੁਦਕੁਸ਼ੀ	Sinmortigo
+ਕੁਤਰਦੰਦੀ ਜੀਵ	Ronĝuloj
+ਕਬੂਤਰ	Kolombedoj
+ਬੈਕਟੀਰੀਆ	Bakterioj
+ਰੁੱਖ	Arbo
+ਲੈਮਡਾ	Lambdo
+ਇਨਕਲਾਬ	Revolucio
+ਪਨੀਰ	Fromaĝo
+ਟਾਈਗਰ ਵੁਡਜ਼	Tiger Woods
+ਆਲੂ	Terpomo
+ਸ਼ੱਕਰ	Sukero
+ਸਬਜੀ	Legomo
+ਰੋਬੋਟ	Roboto
+ਟੈਕਨਾਲੋਜੀ	Teknologio
+ਪੇਚ	Ŝraŭbo
+ਇੰਜੀਨੀਅਰੀ	Inĝenierarto
+ਜਾਣਕਾਰੀ	Informo
+ਸੱਭਿਆਚਾਰ	Kulturo
+ਹਿੰਦੁਸਤਾਨੀ ਭਾਸ਼ਾ	Hindustana lingvo
+ਸੰਸਕ੍ਰਿਤ ਭਾਸ਼ਾ	Sanskrito
+ਅਲਜ਼ਾਈਮਰ ਰੋਗ	Alzheimer-malsano
+ਪਾਰਕਿਨਸਨ ਰੋਗ	Parkinsona malsano
+ਇਬਨ ਅਲ-ਹੀਸ਼ਮ	Alhazen
+ਦ ਗਾਰਡੀਅਨ	The Guardian
+ਤਿਜ਼ਾਬ	Acido
+ਰਸਾਇਣਕ ਯੋਗ	Kemia kombinaĵo
+ਔਸ਼ਧੀ ਵਿਗਿਆਨ	Medicino
+ਖ਼ਾਰ	Bazo (kemio)
+ਸਾਰਾਯੇਵੋ	Sarajevo
+ਲਘੂਗਣਕ	Logaritmo
+ਵਿਧਾਨ ਸਭਾ	Leĝdona povo
+ਗਿਣਤੀ	Aritmetiko
+ਸੰਵਿਧਾਨਕ ਕਨੂੰਨ	Konstitucia juro
+ਪੈਂਟਾਗਨ	Pentagono (Usono)
+ਗੁਣਕ ਪ੍ਰਬੰਧ	Koordinatsistemo
+ਲੂਣ	Salo
+ਫ਼ੀਦੇਲ ਕਾਸਤਰੋ	Fidel Castro
+ਮਾਈਕਰੋਸਾਫਟ ਵਰਡ	Microsoft Word
+ਕਿਊਬਾ ਦਾ ਇਨਕਲਾਬ	Kastrisma revolucio
+ਮੈਨਹੈਟਨ	Manhatano
+ਰਸਾਇਣਕ ਤੱਤ	Kemia elemento
+ਸਮੀਕਰਨ	Ekvacio
+ਫੰਕਸ਼ਨ (ਹਿਸਾਬ)	Funkcio (matematiko)
+ਕਾਰਬਨੀ ਰਸਾਇਣ ਵਿਗਿਆਨ	Organika kemio
+ਕੋਣ	Angulo
+ਕਾਰਬੋਹਾਈਡਰੇਟ	Karbonhidrato
+ਹਾਰਮੋਨ	Hormono
+ਅਣੂ	Molekulo
+ਪ੍ਰਵੇਗ	Akcelo
+ਸ਼ਿਵ	Ŝivao
+ਊਰਜਾ	Energio
+ਵਿਸ਼ਨੂੰ	Viŝnuo
+ਮੁਕਾਮੀ ਇਲਾਕਾ ਜਾਲ	Loka reto
+ਬਿਜਲਚੁੰਬਕੀ ਕਿਰਨ	Elektromagneta ondo
+ਲਾਲਹੇਠ ਕਿਰਨ	Infraruĝa radiado
+ਪਰਾਬੈਂਗਣੀ ਕਿਰਨਾਂ	Ultraviola radiado
+ਘਰੋਗੀਕਰਨ	Aldomigo
+ਟਕਸਾਲੀ ਮਕੈਨਕੀ	Klasika mekaniko
+ਜੀਵ ਵਿਗਿਆਨਕ ਵਰਗੀਕਰਨ	Biologia klasado
+ਜ਼ੋਰ	Forto
+ਚੁੰਬਕੀ ਖੇਤਰ	Magneta kampo
+ਨਸਲੀ ਵਿਤਕਰਾ	Apartismo
+ਗੁਰੂਤਾ ਖਿੱਚ	Gravito
+ਤਕੜਾ ਮੇਲ-ਜੋਲ	Forta nuklea forto
+ਜੰਗੀ ਕਲਾ	Luktoarto
+ਮਾੜਾ ਮੇਲ-ਜੋਲ	Malforta nuklea forto
+ਕਰਾਟੇ	Karateo
+ਜੂਡੋ (ਖੇਡ)	Ĵudo
+ਚੁੰਬਕ	Magneto
+ਪੁੰਜ	Maso
+ਫ਼ਿਲਮ	Filmo
+ਧਾਤ	Metalo (fiziko)
+ਨਿਊਕਲੀ ਫੱਟ	Fisio
+ਫੂ	Gaso
+ਤਰਲ	Likvo
+ਠੋਸ	Solido
+ਸਮੁੰਦਰੀ ਜਹਾਜ਼	Ŝipo
+ਖੇਤੀਬਾੜੀ	Agrikulturo
+ਕਪਾਹ	Kotono
+ਪਹਿਰਾਵਾ	Vesto
+ਹਲ	Plugilo
+ਵੇਗ	Vektora rapido
+ਤਾਪਮਾਨ	Temperaturo
+ਨੈਨੋਤਕਨਾਲੋਜੀ	Nanoteknologio
+ਸਮਾਂ	Tempo
+ਕਾਗ਼ਜ਼	Papero
+ਪਲਾਸਟਿਕ	Plasto
+ਖ਼ਲਾਅ	Vakuo
+ਖੇਤਰਫਲ	Areo
+ਪਾਈਥਾਗੋਰਸ ਥਿਊਰਮ	Teoremo de Pitagoro
+ਗਾਮਾ ਕਿਰਨ	Gama-radiado
+ਅੰਕ	Nombro
+ਕੰਪਲੈਕਸ ਨੰਬਰ	Kompleksa nombro
+ਡਾਰਵਿਨ, ਉੱਤਰੀ ਰਾਜਖੇਤਰ	Darvino
+ਕ੍ਰਿਸਟੀਆਨੋ ਰੋਨਾਲਡੋ	Cristiano Ronaldo
+ਮੀਟਰ	Metro
+ਸਕਿੰਟ	Sekundo
+ਮੱਕੀ	Maizo
+ਜੌਂ	Ordinara hordeo
+ਕੈਲਵਿਨ	Kelvino
+ਚਿੱਤਰਕਾਰੀ	Pentrado
+ਰੰਗ-ਮੰਚ	Teatro
+ਬਿਜਲਾਣੂ ਤਕਨਾਲੋਜੀ	Elektroniko
+ਚਲੰਤ ਬਿਜਲੀ	Elektra kurento
+ਵਾਰਵਾਰਤਾ	Frekvenco
+ਡਾਇਓਡ	Diodo
+ਬਣਾਉਟੀ ਮਸ਼ੀਨੀ ਬੁੱਧੀ	Artefarita inteligenteco
+ਮੌਸਮ	Vetero
+ਮਾਰੀਆ ਸ਼ਾਰਾਪੋਵਾ	Marija Ŝarapova
+ਵਾਲ ਸਟਰੀਟ	Wall Street
+ਸੰਯੁਕਤ ਰਾਜ ਵਰਜਿਨ ਟਾਪੂ	Usonaj Virgulininsuloj
+ਦੱਖਣ-ਪੂਰਬੀ ਏਸ਼ੀਆ	Sud-Orienta Azio
+ਲੋਧੀ ਖ਼ਾਨਦਾਨ	Lodi-dinastio
+ਸ਼ੇਨਯਾਂਗ	Ŝenjango
+ਚੌਂਗਕਿੰਗ	Ĉongĉingo
+ਥਿਆਨਚਿਨ	Tjanĝino
+ਲਹੌਰ	Lahore
+ਵੂਖ਼ਨ	Vuhano
+ਦੇਸ਼ਾਂ ਦੀ ਸੂਚੀ	Listo de sendependaj ŝtatoj
+ਲੁਦਵਿਕ ਜ਼ਾਮੇਨਹੋਫ	L. L. Zamenhof
+ਪੱਥਰ ਯੁੱਗ	Ŝtonepoko
+ਕਾਂਸੀ ਯੁੱਗ	Bronzepoko
+ਲੋਹਾ ਯੁੱਗ	Ferepoko
+ਮੈਸੋਪੋਟਾਮੀਆ	Mezopotamio
+ਪ੍ਰਾਚੀਨ ਮਿਸਰ	Antikva Egiptio
+ਬੇਰਿੰਗ ਪਣਜੋੜ	Beringa Markolo
+ਪ੍ਰਾਚੀਨ ਯੂਨਾਨ	Antikva Grekio
+ਗੁਪਤ ਸਲਤਨਤ	Gupta imperio
+ਜਾਨ ਐਡਮਜ਼	John Adams
+ਥਾਮਸ ਜੈਫ਼ਰਸਨ	Thomas Jefferson
+ਅਲਬਰੂਨੀ	Al-Biruni
+ਸਿੰਡਰੇਲਾ	Cindrulino
+ਪੀ. ਏਸ. ਵੀ. ਏਇਂਧੋਵੇਨ	PSV Eindhoven
+ਪ੍ਰਕਾਸ਼ ਸੰਸਲੇਸ਼ਣ	Fotosintezo
+ਪ੍ਰਜਨਨ	Reproduktado
+ਸ਼ਾਹਬਲੂਤ	Kverko
+ਤਹਿਰੀਰ ਚੌਕ	Tahrir
+ਰਾਜਫੋੜਾ	Kancero
+ਜੀਨ ਹੈਨਰੀ ਡੁਨਾਂਟ	Henri Dunant
+ਤਲਵਾਰਬਾਜ਼ੀ	Skermo
+ਕਣਕ	Tritiko
+ਆਦਰਾ	Betelĝuzo
+ਜੁਕਾਮ	Malvarmumo
+ਜੰਤਰੀ	Kalendaro
+ਬੋਲਾਪਣ	Surdeco
+ਮਨੋਵਿਕਾਰ	Psika malsano
+ਰੋਗ	Malsano
+ਗ੍ਰੈਗੋਰੀਅਨ ਕਲੰਡਰ	Gregoria kalendaro
+ਸਮਾਂ ਖੇਤਰ	Horzono
+ਸਿਹਤ	Sano
+ਦਿਲ ਦਾ ਦੌਰਾ	Korinfarkto
+ਤੂਤਨਖ਼ਾਮੁਨ	Tutanĥamono
+ਮਲੇਰੀਆ	Malario
+ਰੋਹੀਣੀ ਤਾਰਾ	Aldebarano
+ਮੁਟਾਪਾ	Trodikiĝo
+ਮਿੱਤਰ ਤਾਰਾ	Alfa Centaŭro
+ਬੈਕਟੀਰੀਆ-ਵਿਰੋਧੀ ਦਵਾਈ	Antibiotiko
+ਕੈਨੋਪਸ	Alfo Karena
+ਨੌਂਤ	Nanto (Francio)
+ਏਡਜ਼	Aidoso
+ਟੀਬੀ	Tuberkulozo
+ਸ਼ੱਕਰ ਰੋਗ	Diabeto
+ਚੇਚਕ	Variolo
+ਕੁਰਦ ਲੋਕ	Kurdoj
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਆਈਸਲੈਂਡ	Ŝablono:Situo sur mapo Islando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਵੀਡਨ	Ŝablono:Situo sur mapo Svedio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਫ਼ਿਨਲੈਂਡ	Ŝablono:Situo sur mapo Finnlando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਸਤੋਨੀਆ	Ŝablono:Situo sur mapo Estonio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਆਇਰਲੈਂਡ	Ŝablono:Situo sur mapo Irlando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੰਯੁਕਤ ਬਾਦਸ਼ਾਹੀ	Ŝablono:Situo sur mapo Britio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਫ਼ਰਾਂਸ	Ŝablono:Situo sur mapo Francio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅੰਡੋਰਾ	Ŝablono:Situo sur mapo Andoro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਪੇਨ	Ŝablono:Situo sur mapo Hispanio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਟਲੀ	Ŝablono:Situo sur mapo Italio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਵਿਟਜ਼ਰਲੈਂਡ	Ŝablono:Situo sur mapo Svislando
+ਉਸਾਰੀ ਕਲਾ	Arkitekturo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਲੋਵਾਕੀਆ	Ŝablono:Situo sur mapo Slovakio
+ਪੁਲ	Ponto
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਹੰਗਰੀ	Ŝablono:Situo sur mapo Hungario
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਲੋਵੇਨੀਆ	Ŝablono:Situo sur mapo Slovenio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕ੍ਰੋਏਸ਼ੀਆ	Ŝablono:Situo sur mapo Kroatio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੋਸੋਵੋ ਗਣਰਾਜ	Ŝablono:Situo sur mapo Kosovo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੋਂਟੇਨੇਗਰੋ	Ŝablono:Situo sur mapo Montenegro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮਕਦੂਨੀਆ ਗਣਰਾਜ	Ŝablono:Situo sur mapo Makedonio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅਲਬਾਨੀਆ	Ŝablono:Situo sur mapo Albanio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੁਲਗਾਰੀਆ	Ŝablono:Situo sur mapo Bulgario
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਰੋਮਾਨੀਆ	Ŝablono:Situo sur mapo Rumanio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੋਲਦੋਵਾ	Ŝablono:Situo sur mapo Moldavio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਯੂਕਰੇਨ	Ŝablono:Situo sur mapo Ukrainio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੈਲਾਰੂਸ	Ŝablono:Situo sur mapo Belorusio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜਾਰਜੀਆ	Ŝablono:Situo sur mapo Kartvelio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਤੁਰਕਮੇਨਿਸਤਾਨ	Ŝablono:Situo sur mapo Turkmenio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਉਜ਼ਬੇਕਿਸਤਾਨ	Ŝablono:Situo sur mapo Uzbekio
+ਬੰਨ੍ਹ	Akvobaraĵo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਿਰਗਿਜ਼ਸਤਾਨ	Ŝablono:Situo sur mapo Kirgizio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਤਾਜਿਕਿਸਤਾਨ	Ŝablono:Situo sur mapo Taĝikio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਾਈਪ੍ਰਸ	Ŝablono:Situo sur mapo Kipro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੀਰੀਆ	Ŝablono:Situo sur mapo Sirio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਲਿਬਨਾਨ	Ŝablono:Situo sur mapo Libano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਜ਼ਰਾਈਲ	Ŝablono:Situo sur mapo Israelo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜਾਰਡਨ	Ŝablono:Situo sur mapo Jordanio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਰਾਨ	Ŝablono:Situo sur mapo Irano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੁਵੈਤ	Ŝablono:Situo sur mapo Kuvajto
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਾਊਦੀ ਅਰਬ	Ŝablono:Situo sur mapo Sauda Arabio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬਹਿਰੀਨ	Ŝablono:Situo sur mapo Barejno
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਤਰ	Ŝablono:Situo sur mapo Kataro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੰਯੁਕਤ ਅਰਬ ਅਮੀਰਾਤ	Ŝablono:Situo sur mapo Unuiĝintaj Arabaj Emiratoj
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਓਮਾਨ	Ŝablono:Situo sur mapo Omano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਯਮਨ	Ŝablono:Situo sur mapo Jemeno
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪਾਕਿਸਤਾਨ	Ŝablono:Situo sur mapo Pakistano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭਾਰਤ	Ŝablono:Situo sur mapo Barato
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭੂਟਾਨ	Ŝablono:Situo sur mapo Butano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬਰਮਾ	Ŝablono:Situo sur mapo Birmo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੰਗੋਲੀਆ	Ŝablono:Situo sur mapo Mongolio
+ਲੂਣ (ਰਸਾਇਣ ਵਿਗਿਆਨ)	Salo (kemio)
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਚੀਨ	Ŝablono:Situo sur mapo Ĉinio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਉੱਤਰੀ ਕੋਰੀਆ	Ŝablono:Situo sur mapo Norda Koreio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਦੱਖਣੀ ਕੋਰੀਆ	Ŝablono:Situo sur mapo Suda Koreio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜਪਾਨ	Ŝablono:Situo sur mapo Japanio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਫ਼ਿਲਪੀਨਜ਼	Ŝablono:Situo sur mapo Filipinoj
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਵੀਅਤਨਾਮ	Ŝablono:Situo sur mapo Vjetnamio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਲਾਓਸ	Ŝablono:Situo sur mapo Laoso
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੰਬੋਡੀਆ	Ŝablono:Situo sur mapo Kamboĝo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਥਾਈਲੈਂਡ	Ŝablono:Situo sur mapo Tajlando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬਰੂਨਾਏ	Ŝablono:Situo sur mapo Brunejo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇੰਡੋਨੇਸ਼ੀਆ	Ŝablono:Situo sur mapo Indonezio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪੂਰਬੀ ਤਿਮੋਰ	Ŝablono:Situo sur mapo Orienta Timoro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਆਸਟਰੇਲੀਆ	Ŝablono:Situo sur mapo Aŭstralio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਨਿਊਜ਼ੀਲੈਂਡ	Ŝablono:Situo sur mapo Nov-Zelando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ	Ŝablono:Situo sur mapo Papuo-Nov-Gvineo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਵਨੁਆਤੂ	Ŝablono:Situo sur mapo Vanuatuo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਮੋਆ	Ŝablono:Situo sur mapo Samoo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੂਰੀਨਾਮ	Ŝablono:Situo sur mapo Surinamo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗੁਇਆਨਾ	Ŝablono:Situo sur mapo Gujano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਵੈਨੇਜ਼ੁਏਲਾ	Ŝablono:Situo sur mapo Venezuelo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੋਲੰਬੀਆ	Ŝablono:Situo sur mapo Kolombio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਏਕੁਆਡੋਰ	Ŝablono:Situo sur mapo Ekvadoro
+ਮੋਨਾ ਲੀਜ਼ਾ	La Gioconda
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪੇਰੂ	Ŝablono:Situo sur mapo Peruo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੋਲੀਵੀਆ	Ŝablono:Situo sur mapo Bolivio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਚਿਲੇ	Ŝablono:Situo sur mapo Ĉilio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅਰਜਨਟੀਨਾ	Ŝablono:Situo sur mapo Argentino
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪੈਰਾਗੁਏ	Ŝablono:Situo sur mapo Paragvajo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਉਰੂਗੁਏ	Ŝablono:Situo sur mapo Urugvajo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬ੍ਰਾਜ਼ੀਲ	Ŝablono:Situo sur mapo Brazilo
+ਪੀਰੇਨੇ	Pireneoj
+ਡਿਟਰਾਇਟ, ਮਿਸ਼ੀਗਨ	Detrojto
+ਕੌਮਾਂਤਰੀ ਇਕਾਈ ਢਾਂਚਾ	Internacia sistemo de unuoj
+ਬੁਰਜ ਖ਼ਲੀਫ਼ਾ	Burĝ Ĥalifa
+ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ	Granda Ĉina Muro
+ਪੂਰਨ ਸੰਖਿਆ	Entjero
+ਆਈਆ ਸੋਫ਼ੀਆ	Hagia Sofia
+ਪਿਰਾਮਿਡ	Piramido
+ਬਿਜ਼ਾਨਤਿਨ ਸਲਤਨਤ	Bizanca imperio
+ਸਲੀਬੀ ਜੰਗਾਂ	Krucmilitoj
+ਮੰਗੋਲ ਸਾਮਰਾਜ	Mongola Imperio
+ਸਲਤਨਤ ਉਸਮਾਨੀਆ	Otomana Imperio
+ਪ੍ਰੋਟੈਸਟੈਂਟ ਪੁਨਰਗਠਨ	Reformacio
+ਲਾਤੀਨੀ ਅਮਰੀਕਾ	Latin-Ameriko
+ਮੈਕਸੀਕੋ ਦੀ ਖਾੜੀ	Meksika Golfo
+ਕੁੱਲ ਘਰੇਲੂ ਪੈਦਾਵਾਰ	Malneta enlanda produkto
+ਕੈਲੀਗ੍ਰਾਫੀ	Skribadarto
+ਮੈਕਸਿਮ ਗੋਰਕੀ	Maksim Gorkij
+ਬਿਜਲੀ	Elektro
+ਪਥਰਾਟੀ ਬਾਲਣ	Fosilia brulaĵo
+ਭਾਫ਼ ਦਾ ਇੰਜਣ	Vapormaŝino
+ਨਿਊਕਲੀ ਬੰਬ	Atombombo
+ਅਬੈਕਸ	Abako (meĥanika kalkulilo)
+ਉਮਬੇਰਤੋ ਈਕੋ	Umberto Eco
+ਇਬੇਰੀਆਈ ਟਾਪੂਨੁਮਾ	Iberio
+ਪਾਉਲੋ ਕੋਇਲੋ	Paulo Coelho
+ਪੇਲੇ (ਖਿਡਾਰੀ)	Pelé
+ਮਾਜੁਰੋ	Majuro
+ਮਾਰੀਨ ਲ ਪੈਨ	Marine Le Pen
+ਸਵਾਤੀ ਤਾਰਾ	Arkturo
+ਵਿਨੋਬਾ ਭਾਵੇ	Vinoba Bhave
+ਨਿਊਕਲੀ ਮੇਲ	Fuzio
+ਖੋਪੜੀ	Kranio
+ਮਾਸਕੋ ਸਟੇਟ ਯੂਨੀਵਰਸਿਟੀ	Moskva Ŝtata Universitato
+ਮੁਨੱਕਾ	Sekvinbero
+ਨਾਰੀਅਲ	Kokoso
+ਅਨਾਰ	Granatujo
+ਆੜੂ	Persiko
+ਸੰਤਰਾ	Oranĝo (frukto)
+ਰੋਮਾਨੀ ਭਾਸ਼ਾ	Cigana lingvo
+ਕੋਸਾ ਭਾਸ਼ਾ	Kosa lingvo
+ਫਰਦੀਨਾ ਦ ਸੌਸਿਊਰ	Ferdinand de Saussure
+ਆਈਸ ਕਰੀਮ	Glaciaĵo
+ਉਇਗ਼ੁਰ ਭਾਸ਼ਾ	Ujgura lingvo
+ਸਿੰਹਾਲਾ ਭਾਸ਼ਾ	Sinhala lingvo
+ਕੇਕ	Kuko
+ਮਾਂਟਸਰਾਤ	Moncerato
+ਹਾਰਵਰਡ ਯੂਨੀਵਰਸਿਟੀ	Universitato Harvard
+ਬਸ਼ਕੀਰ ਭਾਸ਼ਾ	Baŝkira lingvo
+ਓਨੀਗਿਰੀ	Onigiri
+ਕ੍ਰਿਤੀਕਾ	Plejadoj
+ਅਲ ਜਜ਼ੀਰਾ	Al-Ĝazira
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗਰੀਨਲੈਂਡ	Ŝablono:Situo sur mapo Gronlando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੈਨੇਡਾ	Ŝablono:Situo sur mapo Kanado
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੈਕਸੀਕੋ	Ŝablono:Situo sur mapo Meksiko
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੇਲੀਜ਼	Ŝablono:Situo sur mapo Belizo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗੁਆਤੇਮਾਲਾ	Ŝablono:Situo sur mapo Gvatemalo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਾਲਵਾਦੋਰ	Ŝablono:Situo sur mapo Salvadoro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਹਾਂਡੂਰਾਸ	Ŝablono:Situo sur mapo Honduro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਨਿਕਾਰਾਗੁਆ	Ŝablono:Situo sur mapo Nikaragvo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੋਸਤਾ ਰੀਕਾ	Ŝablono:Situo sur mapo Kostariko
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪਨਾਮਾ	Ŝablono:Situo sur mapo Panamo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬਹਾਮਾਸ	Ŝablono:Situo sur mapo Bahamoj
+ਫਰਮਾ:ਨਕਸ਼ਾ ਸਥਿਤੀ ਕਿਊਬਾ	Ŝablono:Situo sur mapo Kubo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜਮੈਕਾ	Ŝablono:Situo sur mapo Jamajko
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਐਂਟੀਗੁਆ ਅਤੇ ਬਰਬੂਡਾ	Ŝablono:Situo sur mapo Antigvo-Barbudo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬਾਰਬਾਡੋਸ	Ŝablono:Situo sur mapo Barbado
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਹਿੰਦ ਮਹਾਂਸਾਗਰ	Ŝablono:Situo sur mapo Hinda oceano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪ੍ਰਸ਼ਾਂਤ ਮਹਾਂਸਾਗਰ	Ŝablono:Situo sur mapo Pacifika oceano
+ਐਂਜਲੀਨਾ ਜੋਲੀ	Angelina Jolie
+ਈਲ-ਡ-ਫ਼ਰਾਂਸ	Francilio
+ਏਡਰੀਆਟਿਕ ਸਮੁੰਦਰ	Adriatiko
+ਸੌਂਤਰ	Centro-Valo de Luaro
+ਪਿਕਾਰਡੀ	Pikardio
+ਅਰਬੀ ਭਾਸ਼ਾ	Araba lingvo
+ਸ਼ਾਂਪੇਨ-ਆਰਦਨ	Ĉampanjo-Ardenoj
+ਕਾਰਸਿਕਾ	Korsiko
+OS X	OS X
+ਅਫ਼ਰੀਕਾਂਸ ਭਾਸ਼ਾ	Afrikansa lingvo
+ਸਾਂਤੀਆਗੋ ਦੇ ਕੋਮਪੋਸਤੇਲਾ	Santiago de Compostela
+ਓਬੀਐਦੋ	Oviedo
+ਬੀਟਾ	Beto (litero)
+ਗਾਮਾ	Gamo (litero)
+ਡੈਲਟਾ (ਅੱਖਰ)	Delto (litero)
+ਐਪਸੀਲੋਨ	Epsilono
+ਜ਼ੀਟਾ	Zeto
+ਈਟਾ	Eto (litero)
+ਥੀਟਾ	Teto
+ਆਓਟਾ	Joto
+ਕਾਪਾ	Kapo (litero)
+ਨਿਊ (ਅੱਖਰ)	Nuo (litero)
+ਕਸੀ (ਅੱਖਰ)	Ksio
+ਜ਼ੁਰਿਕ ਝੀਲ	Lago de Zuriko
+ਓਮੀਕ੍ਰੋਨ	Omikrono
+ਰੋ	Roto (litero)
+ਸਿਗਮਾ	Sigmo
+ਟਾਓ	Taŭo (litero)
+ਉਪਸੀਲੋਨ	Upsilono
+ਕਾਈ	Ĥio (litero)
+ਸਾਈ (ਅੱਖਰ)	Psio (litero)
+ਈਸਟਰ ਟਾਪੂ	Paskinsulo
+ਥੋਹਰ	Kakto
+ਪ੍ਰਕਾਸ਼ ਵਿਗਿਆਨ	Optiko
+ਘਰੇਲੂ ਚਿੜੀ	Dompasero
+ਫ਼ਿਨਲੈਂਡ ਦੀ ਖਾੜੀ	Finna golfo
+ਫ਼ਰਨੀਚਰ	Meblo
+ਮੇਜ਼	Tablo
+ਮਕਾਉ	Makao
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੋਰਾਕੋ	Ŝablono:Situo sur mapo Maroko
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅਲਜੀਰੀਆ	Ŝablono:Situo sur mapo Alĝerio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਤੁਨੀਸੀਆ	Ŝablono:Situo sur mapo Tunizio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਲੀਬੀਆ	Ŝablono:Situo sur mapo Libio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮਿਸਰ	Ŝablono:Situo sur mapo Egiptio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮਾਲੀ	Ŝablono:Situo sur mapo Malio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਨਾਈਜਰ	Ŝablono:Situo sur mapo Niĝero
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਚਾਡ	Ŝablono:Situo sur mapo Ĉado
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੁਡਾਨ	Ŝablono:Situo sur mapo Sudano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਦੱਖਣੀ ਸੁਡਾਨ	Ŝablono:Situo sur mapo Sud-Sudano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਰੀਤਰੀਆ	Ŝablono:Situo sur mapo Eritreo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਥੋਪੀਆ	Ŝablono:Geokesto lokumilo Etiopio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜਿਬੂਤੀ	Ŝablono:Situo sur mapo Ĝibutio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੋਮਾਲੀਆ	Ŝablono:Situo sur mapo Somalio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੇਪ ਵਰਡ	Ŝablono:Situo sur mapo Kabo-Verdo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੇਨੇਗਲ	Ŝablono:Situo sur mapo Senegalo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗਾਂਬੀਆ	Ŝablono:Situo sur mapo Gambio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗਿਨੀ	Ŝablono:Situo sur mapo Gvineo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਲਾਈਬੇਰੀਆ	Ŝablono:Situo sur mapo Liberio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਦੰਦ ਖੰਡ ਤਟ	Ŝablono:Situo sur mapo Ebur-Bordo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੁਰਕੀਨਾ ਫ਼ਾਸੋ	Ŝablono:Situo sur mapo Burkino
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਘਾਨਾ	Ŝablono:Situo sur mapo Ganao
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਟੋਗੋ	Ŝablono:Situo sur mapo Togolando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੇਨਿਨ	Ŝablono:Situo sur mapo Benino
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਨਾਈਜੀਰੀਆ	Ŝablono:Situo sur mapo Niĝerio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੈਮਰੂਨ	Ŝablono:Situo sur mapo Kameruno
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੱਧ ਅਫ਼ਰੀਕੀ ਗਣਰਾਜ	Ŝablono:Situo sur mapo Centr-Afrika Respubliko
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ	Ŝablono:Situo sur mapo Ekvatora Gvineo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗਬਾਨ	Ŝablono:Situo sur mapo Gabono
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਾਂਗੋ ਗਣਰਾਜ	Ŝablono:Situo sur mapo Respubliko Kongo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਾਂਗੋ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ	Ŝablono:Situo sur mapo Demokratia Respubliko Kongo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਯੁਗਾਂਡਾ	Ŝablono:Situo sur mapo Ugando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੀਨੀਆ	Ŝablono:Situo sur mapo Kenjo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਰਵਾਂਡਾ	Ŝablono:Situo sur mapo Ruando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੁਰੂੰਡੀ	Ŝablono:Situo sur mapo Burundo
+ਫਰਮਾ:Location map ਤਨਜ਼ਾਨੀਆ	Ŝablono:Situo sur mapo Tanzanio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੋਜ਼ੈਂਬੀਕ	Ŝablono:Situo sur mapo Mozambiko
+ਫਰਮਾ:Location map ਮਲਾਵੀ	Ŝablono:Situo sur mapo Malavio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜ਼ਾਂਬੀਆ	Ŝablono:Situo sur mapo Zambio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅੰਗੋਲਾ	Ŝablono:Situo sur mapo Angolo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੋਤਸਵਾਨਾ	Ŝablono:Situo sur mapo Bocvano
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜ਼ਿੰਬਾਬਵੇ	Ŝablono:Situo sur mapo Zimbabvo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਦੱਖਣੀ ਅਫਰੀਕਾ	Ŝablono:Situo sur mapo Sud-Afriko
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਵਾਜ਼ੀਲੈਂਡ	Ŝablono:Situo sur mapo Svazilando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਾਮਾਰੋਸ	Ŝablono:Situo sur mapo Komoroj
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮਾਦਾਗਾਸਕਰ	Ŝablono:Situo sur mapo Madagaskaro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੇਸ਼ੈਲ	Ŝablono:Situo sur mapo Sejŝeloj
+ਕੁਰਸੀ	Seĝo
+ਅੰਤਰਾਸ਼ਟਰੀ ਮਿਆਰੀਕਰਣ ਸੰਘ	Internacia Organizaĵo por Normigado
+ਸ਼ੀ ਚਿਨਪਿੰਙ	Xi Jinping
+ਜਿਰਾਫ਼	Ĝirafo (specio)
+ਕੁਐਂਕਾ	Kvenko (Hispanio)
+ਪ੍ਰੋਵਾਂਸ-ਆਲਪ-ਅਸਮਾਨੀ ਤਟ	Provenco-Alpoj-Bordo Lazura
+ਸ਼ੈਨਜ਼ੈਨ	Ŝenĵeno
+ਸੋਵੀਅਤ ਯੂਨੀਅਨ	Sovetunio
+ਤਿਰੂਨੇਲਵੇਲੀ ਜ਼ਿਲਾ	Distrikto Tirunelveli
+ਪੇਪੜੀ (ਭੋਂ ਵਿਗਿਆਨ)	Terkrusto
+ਪਿਘਲਣ ਦਰਜਾ	Fandopunkto
+ਕੈਮਰਾ	Fotilo
+ਕਡੱਪਾ ਜ਼ਿਲਾ	Distrikto Kadapa
+ਕਾਥੇਰੇਸ, ਸਪੇਨ	Cáceres
+ਸੇਗੋਵੀਆ	Segovio
+ਆਵੀਲਾ, ਸਪੇਨ	Avilo
+ਸਾਲਾਮਾਨਕਾ	Salamanko
+ਅਨਾਪਾ	Anapa
+ਅਬਿੰਸਕ	Abinsk
+ਸੀ (ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ)	C (programlingvo)
+ਬਾਈਆਨ ਮੁਨਸ਼ਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	FC Bayern München
+ਪੈਰ	Piedo
+ਏਮੀਲ ਦੁਰਖਿਮ	Émile Durkheim
+ਮੋਨਤੈਸਕੀਉ	Charles Montesquieu
+ਬੇ (ਸਿਰਿਲਿਕ)	Be (cirila alfabeto)
+ਆ (ਸਿਰਿਲਿਕ)	A (cirila alfabeto)
+ਗੇ (ਸਿਰਿਲਿਕ)	Ge (cirila alfabeto)
+ਡੇ (ਸਿਰਿਲਿਕ)	De (cirila alfabeto)
+ਵੇ (ਸਿਰਿਲਿਕ)	Ve (cirila alfabeto)
+ਉੱਪਰ ਨੂੰ ਮੁੜਿਆ ਗੇ (ਸਿਰਿਲਿਕ)	Ge ukraina
+ਮਿਦੀ-ਪੀਰੇਨੇ	Sudo-Pireneoj
+ਫ਼ਰਾਂਸ਼-ਕੋਂਤੇ	Franĉkonteo
+ਬਰੂਸ-ਲੀ	Bruce Lee
+ਫਰਮਾ:Link FA	Ŝablono:LigoElstara
+ਬੂਸਾਨ	Pusano
+ਵਰਮਾਂਟ	Vermonto
+ਸਾਨ ਦੀਏਗੋ	San-Diego
+ਸਾਨ ਹੋਜ਼ੇ, ਕੈਲੀਫ਼ੋਰਨੀਆ	San Jose (Kalifornio)
+ਡੈਨਵਰ	Denvero (Koloradio)
+ਹੂਸਟਨ	Houston (Teksaso)
+ਫ਼ੀਨਿਕਸ	Fenikso (Arizono)
+ਡਾਲਸ	Dallas (Teksaso)
+ਫ਼ੋਰਟ ਵਰਥ	Fort Worth
+ਆਸਟਿਨ, ਟੈਕਸਸ	Aŭstino
+ਸ਼ਾਰਲਟ, ਉੱਤਰੀ ਕੈਰੋਲੀਨਾ	Charlotte
+ਕਲੰਬਸ, ਓਹਾਇਓ	Columbus (Ohio)
+ਜੈਕਸਨਵਿਲ, ਫ਼ਲੌਰਿਡਾ	Jacksonville (Florido)
+ਗੁਆਂਗਜ਼ੂ	Kantono (Ĉinio)
+ਗੁਆਮ	Gvamo
+ਅਮਰੀਕੀ ਸਮੋਆ	Usona Samoo
+ਉੱਤਰੀ ਮਰੀਆਨਾ ਟਾਪੂ	Nord-Marianoj
+ਨਾਨਜਿੰਗ	Nankingo
+ਐਡਗਰ ਐਲਨ ਪੋ	Edgar Allan Poe
+ਕੁਸਤੁਨਤੁਨੀਆ	Konstantinopolo
+ਹਸਪਤਾਲ	Malsanulejo
+ਹੇਠਲੀ ਨੋਰਮਾਂਦੀ	Malsupra Normandio
+ਉਰੂਮਕੀ	Urumĉio
+ਉਤਲੀ ਨੋਰਮਾਂਦੀ	Supra Normandio
+ਗਿਰਜਾ	Kirko
+ਉੱਤਰ-ਕਾਲੇ ਦਾ ਪਣਜੋੜ	Nordo-Kaleza Markolo
+ਪੇ ਡ ਲਾ ਲੁਆਰ	Luarlandoj
+ਲਾਂਗਡੋਕ-ਰੂਸੀਓਨ	Langvedoko-Rusiljono
+ਪੋਆਤੂ-ਸ਼ਾਰੌਂਤ	Puatuo-Ĉarentoj
+ਗੁਆਡਲੂਪ	Gvadelupo
+ਮਾਰਟੀਨੀਕ	Martiniko
+ਮੈਯੋਤ	Majoto
+ਰੇਊਨੀਓਂ	Reunio
+ਬਾਰਸੀਲੋਨਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Barcelono
+ਰੋਮਨ ਗਣਤੰਤਰ	Romia Respubliko
+ਜਿਓਵਾਨੀ ਬੇਲੀਨੀ	Giovanni Bellini
+ਫ਼ਿਲਪੀਨੀ ਪੀਸੋ	Filipina peso
+ਚੱਕਰ	Cirklo
+14ਵੇਂ ਦਲਾਈ ਲਾਮਾ	Tenzin Gyatso
+ਚੀਨ ਦੀ ਕਮਿਊਨਿਸਟ ਪਾਰਟੀ	Komunista Partio de Ĉinio
+ਮੋਬਾਈਲ ਫ਼ੋਨ	Poŝtelefono
+ਸਟੀਵਨ ਹਾਕਿੰਗ	Stephen Hawking
+ਸਿਧਾਂਤ	Teorio
+ਅਰਾਗਤਸੋਤਨ	Aragacotno
+ਸੈਕਰਾਮੈਂਟੋ, ਕੈਲੀਫ਼ੋਰਨੀਆ	Sakramento (Kalifornio)
+੧੯੨੫	1925
+੧੯੨੭	1927
+ਮਾਨਚੈਸਟਰ	Manchester
+ਤੁਰਕ ਅਤੇ ਕੇਕੋਸ ਟਾਪੂ	Turkoj kaj Kajkoj
+ਵਿਟਾਮਿਨ ਏ	Vitamino A
+ਫੈਲਾਉ	Radiado
+ਮਿਆਰੀ ਨਮੂਨਾ	Norma modelo
+ਸਿਧਾਂਤਕ ਭੌਤਿਕ ਵਿਗਿਆਨ	Teoria fiziko
+ਨਿਊ ਇੰਗਲੈਂਡ	Nov-Anglio
+ਬਰਥਾ ਵੌਨ ਸੁੱਟਨਰ	Bertha von Suttner
+ਬਘਿਆੜ	Lupo
+ਰੂਪਕ-ਕਥਾ	Alegorio
+ਖਿੱਦੋ	Pilko
+ਡਗਲਸ, ਮੈਨ ਟਾਪੂ	Douglas (Mankso)
+1955	1955
+1954	1954
+੧੯੫੩	1953
+੧੯੫੧	1951
+੧੯੫੦	1950
+੧੯੪੬	1946
+1943	1943
+1942	1942
+1940	1940
+1939	1939
+1938	1938
+1937	1937
+੧੯੩੬	1936
+ਮੈਨਚੈਸਟਰ ਯੂਨਾਈਟਡ ਫੁੱਟਬਾਲ ਕਲੱਬ	Manchester United
+੧੯੩੫	1935
+ਸਵਾਨਜ਼ੀ ਸਿਟੀ ਐਸੋਸੀਏਸ਼ਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Swansea City
+ਐਸਟਨ ਵਿਲਾ ਫੁੱਟਬਾਲ ਕਲੱਬ	Aston Villa
+1934	1934
+੧੯੩੩	1933
+ਟੌਟਨਹਮ ਹੌਟਸਪਰ ਫੁੱਟਬਾਲ ਕਲੱਬ	Tottenham Hotspur
+1932	1932
+ਵੈਸਟ ਬਰੌਮਿਚ ਐਲਬੀਅਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	West Bromwich Albion
+1931	1931
+੧੯੩੦	1930
+1929	1929
+ਪਿਓਂਗਯਾਂਗ	Pjongjango
+ਅਨਾਤੋਲੀ ਲੂਨਾਚਾਰਸਕੀ	Anatolo Lunaĉarskij
+ਜੀ ਪੀ ਐੱਸ	Tutmonda loktrova sistemo
+ਕਾਕਸ	Kaŭkazio
+ਅਕਾਦਮੀ ਇਨਾਮ	Oskar-premio
+ਅਕੇਂਦਰੀ ਜੀਵ	Prokariotoj
+ਸੁਕੇਂਦਰੀ ਜੀਵ	Eŭkariotoj
+ਬਿੱਛੂ	Skorpio
+ਜਾਰਜ ਬਰਨਾਰਡ ਸ਼ਾ	George Bernard Shaw
+ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ	Futbala Mondpokalo
+ਹਲ਼ ਸਿਟੀ ਐਸੋਸੀਏਸ਼ਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Hull City A.F.C.
+ਗੋਰੀ	Gori
+ਧਾਤਨੁਮਾ	Metaloido
+ਅਧਾਤ	Nemetalo
+ਐਫ. ਸੀ. ਤਵੇਨਤੇ	FC Twente
+ਨੋਬਲ ਗੈਸ	Nobla gaso
+੫	5
+੪	4
+3	3
+੨	2
+ਬੁਖ਼ਾਰੈਸਟ	Bukareŝto
+ਅਲ ਗੋਰ	Al Gore
+ਲੂਵਰ ਅਜਾਇਬਘਰ	Luvro
+ਥੇਮਜ਼ ਦਰਿਆ	Tamizo
+ਤਿਰਾਨਾ	Tirano
+੧੯੨੮	1928
+ਜੀ-20	Grupo de la 20 (industriaj kaj sojlaj landoj)
+ਪੁਰਾਣਾ ਨੇਮ	Malnova testamento
+ਕ੍ਰਿਸਮਸ	Kristnasko
+ਰੋਮਾਂਸ ਭਾਸ਼ਾਵਾਂ	Latinida lingvaro
+ਤਿਕੋਨ	Triangulo
+ਲੀਪ ਸਾਲ	Superjaro
+ਸਟੀਵ ਜੌਬਜ਼	Steve Jobs
+ਲੇਡੀ ਗਾਗਾ	Lady Gaga
+ਹਿੰਦ-ਯੂਰਪੀ ਭਾਸ਼ਾ-ਪਰਵਾਰ	Hindeŭropa lingvaro
+ਗੋਦੋ ਦੀ ਉਡੀਕ	Atendante Godot
+ਮੁਆਮਰ ਗੱਦਾਫ਼ੀ	Muamar Kadafi
+ਸ਼ੇਰ	Tigro
+ਨੀਸਾਨ	Nissan
+ਇਨਚਨ	Inĉono
+ਸਕੈਂਡੀਨੇਵੀਆ	Skandinavio
+ਕਿਸ਼ਨਾਓ	Kiŝinevo
+ਸਮਾਜ ਵਿਗਿਆਨ	Sociologio
+ਅਰੂਬਾ	Arubo
+ਕੌਮਾਂਤਰੀ ਧੁਨਾਤਮਕ ਵਰਨਮਾਲਾ	Internacia Fonetika Alfabeto
+ਓਡੀਸ਼ਾ	Odiŝo
+ਪੰਜਾਬ, ਭਾਰਤ	Panĝabo (Barato)
+ਯਹੂਦੀ-ਵਿਰੋਧ	Kontraŭjudismo
+ਕੱਚਾ ਤੇਲ	Nafto
+ਭੂਗੋਲਕ ਗੁਣਕ ਪ੍ਰਬੰਧ	Geografia koordinata sistemo
+ਬਹਾਈ ਧਰਮ	Bahaa Kredo
+ਬੈਂਕ	Banko
+ਬੋਲਣ ਦੀ ਆਜ਼ਾਦੀ	Parollibereco
+ਮਰੂਆ	Majorano
+ਪਾਰਕ	Parko
+ਗੁਫ਼ਾ ਦਾ ਰੂਪਕ	Parabolo de la kaverno
+ਨੌਟਿੰਘਮਸ਼ਰ	Nottinghamshire
+੧	1
+ਲੂ ਸ਼ੁਨ	Lu Xun
+ਬਰਿਸਟਲ	Bristolo
+ਅਬਖ਼ਾਜ਼ੀਆ	Abĥazio
+ਸਾਲਟ ਲੇਕ ਸਿਟੀ	Sallaga Urbo
+ਅੱਠ	8 (nombro)
+ਬਰਫ਼	Glacio
+ਝੀਲ	Lago
+ਲਸਣ	Ajlo
+ਲਾਲ ਸਮੁੰਦਰ	Ruĝa Maro
+ਖੀਰਾ	Kukumo
+ਦੱਖਣੀ ਓਸੈਤੀਆ	Sud-Osetio
+ਉਲਾਨ ਬਤੋਰ	Ulaanbaataro
+ਅਰਨੈਸਟ ਹੈਮਿੰਗਵੇ	Ernest Hemingway
+ਐਡਿਨਬਰਾ	Edinburgo
+ਅਸ਼ਗ਼ਾਬਾਤ	Aŝgabato
+ਟਾਪੂ	Insulo
+ਚਿੱਟਾ	Blanko
+੪੭੬	476
+ਮਾਰਸੇਈ	Marsejlo
+ਟਮਾਟਰ	Tomato
+ਬਾਲਕਨ	Balkana duoninsulo
+ਸਲਾਵੀ ਭਾਸ਼ਾਵਾਂ	Slava lingvaro
+ਭੂ-ਮੱਧ ਰੇਖਾ	Ekvatoro
+ਸੇਲੇਨ	Selena
+ਨਾਸਾ	NASA
+ਬੇਨੀਤੋ ਮੁਸੋਲੀਨੀ	Benito Mussolini
+ਪਾਡਗੋਰਿਤਸਾ	Podgorico
+ਗੇਮ ਆਫ਼ ਥਰੋਨਜ਼	Game of Thrones
+500	500
+੧੫੦	150
+ਸ਼ਬਦਕੋਸ਼	Vortaro
+ਐੱਚ.ਬੀ.ਓ.	Home Box Office
+ਬਰਮੂਡਾ	Bermudo
+ਸਿਰ	Kapo
+ਵੈਲਿੰਗਟਨ	Velingtono
+ਉੱਤਰੀ ਸਾਈਪ੍ਰਸ	Turka Respubliko Norda Kipro
+੧੨੦	120
+ਕੌਮੀ ਗੀਤ	Nacia himno
+ਰੋਵਨ ਐਟਕਿਨਸਨ	Rowan Atkinson
+ਲਾਸ ਵੇਗਸ	Lasvegaso
+ਫ਼ਲਸਤੀਨੀ ਇਲਾਕੇ	Palestino
+ਵਲੈਟਾ	La-Valeto
+ਪਰਮਾਣੂ ਸੰਖਿਆ	Atomnumero
+ਅਲਫ਼ਰੈਡ ਨੋਬਲ	Alfred Nobel
+੨੦੦	200
+ਜਾਰਜ ਤੀਮੋਥੀ ਕਲੂਨੀ	George Clooney
+127	127
+੧੦੪	104
+102	102
+100	100
+ਮੁਰਦਾ ਸਮੁੰਦਰ	Morta Maro
+ਚੀਤਾ	Gepardo
+੧੨੬	126
+੧੦੧	101
+੧੦੫	105
+੧੦੮	108
+117	117
+੧੧੫	115
+ਕੋਲਾ	Terkarbo
+153	153
+156	156
+ਵੈਨਕੂਵਰ	Vankuvero
+੩੦੧	301
+116	116
+੩੩੦	330
+੧੬੫	165
+੨੦੩	203
+222	222
+੧੬੦	160
+ਲਿਵਰਪੂਲ	Liverpool
+੪੭੭	477
+ਲਘੂ ਫ਼ਿਲਮ	Mallonga filmo
+ਬਰੇਮਨ	Bremeno
+ਕਿਰਿਆ	Verbo
+168	168
+੧੧੨	112
+ਵੂਡੀ ਐਲਨ	Woody Allen
+ਸੱਤਾ (ਸਮਾਜਿਕ ਅਤੇ ਰਾਜਨੀਤਕ)	Potenco (filozofio)
+ਬੂਕਮਾਲ	Bokmål
+ਟਾਈਟੈਨਿਕ	RMS Titanic
+166	166
+ਪਾਊਂਡ ਸਟਰਲਿੰਗ	Brita pundo
+ਐਂਗੁਈਲਾ	Angvilo
+ਗਰਨਜ਼ੇ	Guernsey
+ਘੰਟਾ	Horo
+ਕੰਗਰੋੜਧਾਰੀ	Vertebruloj
+ਚੱਕੀ ਰੋਹਾ	Upupedoj
+ਸੈਲਸੀਅਸ	Grado celsia
+ਜੂਲ	Ĵulo
+ਪ੍ਰਿਸ਼ਤੀਨਾ	Priŝtino
+ਕੌਮਾਂਤਰੀ ਪੁਲਾੜ ਅੱਡਾ	Internacia Kosmostacio
+ਆਈ ਐੱਸ ਓ 3166-1	ISO 3166-1
+ਆਈਸੋਟੋਪ	Izotopo
+ਕੁਰਾਸਾਓ	Curaçao
+ਤਤਾਰ ਭਾਸ਼ਾ	Tatara lingvo
+ਭਾਰ	Pezo
+ਭਾਸ਼ਾ ਪਰਵਾਰ	Lingva familio
+ਵਾਸ਼ਿੰਗਟਨ	Washington
+ਬਰਤਾਨਵੀ ਵਰਜਿਨ ਟਾਪੂ	Britaj Virgulininsuloj
+ਫੁੱਲਦਾਰ ਬੂਟਾ	Angiospermoj
+ਆਰਕਟਿਕ	Arkto
+ਅੰਤੌਨੀ ਗਾਊਦੀ	Antoni Gaudí
+ਸਵਿੱਸ ਫ਼ਰਾਂਕ	Svisa franko
+ਨਵਾਸ ਟਾਪੂ	Navasa Insulo
+ਸਾਰਸ (ਪੰਛੀ)	Gruo (birdo)
+ਡਰਾਮਾ	Dramo (verko)
+ਅਟਲਾਂਟਿਸ	Atlantido
+ਬੋਨੇਅਰ	Bonaire
+ਡੈੱਨਮਾਰਕੀ ਕਰੋਨਾ	Dana krono
+ਹੇਠਲੀ ਜਰਮਨ ਭਾਸ਼ਾ	Platgermana lingvo
+ਕੇਸਰ	Safrano
+ਸਾਬਾ	Saba
+ਊਮਿਓ	Umeå
+੪੦੦	400
+ਲਿਥੁਆਨੀਆਈ ਲਿਤਾਸ	Litova lido
+300	300
+ਦਰੱਖਤੀ ਚਿੜੀ	Kampopasero
+ਹਰਮਨ ਹੈੱਸ	Hermann Hesse
+ਕੁਸ਼ਾਨ ਸਲਤਨਤ	Kuŝana imperio
+ਨਿਲੰਬਨ	Suspensio
+ਸਿੰਟ ਯੂਸਟੇਸ਼ਸ	Sint-Eustatius
+ਸਿੰਟ ਮਾਰਟਨ	Sint-Maarten
+ਕ੍ਰੋਏਸ਼ੀਆਈ ਕੂਨਾ	Kroata kunao
+ਪੂਰਬੀ ਕੈਰੀਬੀਆਈ ਡਾਲਰ	Orientkaribia dolaro
+ਬੁੱਢਾ ਅਤੇ ਸਮੁੰਦਰ	La oldulo kaj la maro
+ਪੁਲਾੜ ਟਟੋਲ	Kosmosondilo
+ਉਪਗ੍ਰਹਿ	Artefarita satelito
+ਫ਼ਲਸਤੀਨ ਮੁਕਤੀ ਸੰਗਠਨ	Organizaĵo por Liberigo de Palestino
+ਸੋਏ	Aneto
+ਹੀਰੋਡਾਟਸ	Herodoto
+ਉਥੈਲੋ	Otelo
+ਸਾਨ ਆਂਦਰੇਸ, ਪ੍ਰੋਵੀਦੈਂਸੀਆ ਅਤੇ ਸਾਂਤਾ ਕਾਤਾਲੀਨਾ ਟਾਪੂ-ਸਮੂਹ	Sankta Andreo kaj Providenco
+ਟੇਲਰ ਸਵਿਫ਼ਟ	Taylor Swift
+ਲਕਸ਼ਦੀਪ	Lakŝadivoj
+ਕੁੱਕ ਟਾਪੂ	Kukinsuloj
+ਜਪਾਨ ਸਮੁੰਦਰ	Japana Maro
+ਨਾੜੀਦਾਰ ਬੂਟਾ	Vaskulaj plantoj
+ਪੂਰਬੀ ਏਸ਼ੀਆ	Orienta Azio
+ਕੇਂਦਰੀ ਏਸ਼ੀਆ	Centra Azio
+ਪੱਛਮੀ ਏਸ਼ੀਆ	Okcidenta Azio
+ਉੱਤਰੀ ਏਸ਼ੀਆ	Norda Azio
+ਡੇਨਟਿਸਟ	Dentisto
+ਐਂਗਲੋ-ਅਮਰੀਕਾ	Anglosaksa Ameriko
+ਉੱਤਰੀ ਅਫ਼ਰੀਕਾ	Nord-Afriko
+ਪੂਰਬੀ ਅਫ਼ਰੀਕਾ	Orientafriko
+ਕੇਂਦਰੀ ਅਫ਼ਰੀਕਾ	Centra Afriko
+ਦੱਖਣੀ ਯੂਰਪ	Suda Eŭropo
+ਪੂਰਬੀ ਯੂਰਪ	Orienta Eŭropo
+ਉੱਤਰੀ ਯੂਰਪ	Norda Eŭropo
+ਪੱਛਮੀ ਯੂਰਪ	Okcidenta Eŭropo
+ਕੇਂਦਰੀ ਯੂਰਪ	Mezeŭropo
+ਐਫ਼ਰੋ-ਯੂਰੇਸ਼ੀਆ	Afrik-Eŭrazio
+ਕੈਰੀਬੀਆਈ ਨੀਦਰਲੈਂਡ	Kariba Nederlando
+ਕੇਂਦਰੀ ਅਮਰੀਕਾ	Centra Ameriko
+ਮਿਖਾਇਲ ਬਾਕੂਨਿਨ	Miĥail Bakunin
+ਸ਼ਾਕਾ ਜ਼ੁਲੂ	Ŝaka
+ਕ੍ਰਿਸਟਾਡੈਲਫੀਅਨ	Kristadelfianoj
+ਗਾਇਕੀ	Kantado
+ਪੀਚੋ ਬੱਕਰੀ	Marelo
+ਦਾਲਚੀਨੀ	Cinamo
+ਮਗ਼ਰਿਬ	Magrebo
+ਅਮਹਾਰੀ ਭਾਸ਼ਾ	Amhara lingvo
+ਡਿਗਰੀ (ਕੋਣ)	Grado
+ਏਲ ਏਸਕੋਰਲ	Monaĥejo de El Escorial
+ਮਾਇਆ ਸੱਭਿਅਤਾ	Majaoj
+ਇੰਕਾ ਸਾਮਰਾਜ	Inkaa imperio
+ਡਰੇਕੋ (ਵਿਧਾਇਕ)	Drakono
+ਧੰਦਾ	Profesio
+ਕੱਪੜਾ	Tekstila
+ਫ਼ੀਲਡਜ਼ ਤਗਮਾ	Medalo Fields
+ਸ਼ੈਲੀ ਵਿਗਿਆਨ	Stilistiko
+ਇਸਲਾਮੀ ਕਲੰਡਰ	Islama kalendaro
+ਕ੍ਰਿਸਟੋਫਰ ਮਾਰਲੋਵ	Christopher Marlowe
+ਸਮੂਹਿਕ ਅਵਚੇਤਨ	Kolektiva nekonscio
+ਮਾਰਟੀ ਆਹਤੀਸਾਰੀ	Martti Ahtisaari
+ਆਸਾਮੀ ਭਾਸ਼ਾ	Asama lingvo
+ਪਿਤਾ ਅਤੇ ਪੁੱਤਰ (ਨਾਵਲ)	Patroj kaj Filoj
+ਨਰਗਸ (ਬੂਟਾ)	Narciso (floro)
+ਕਾਅਬਾ	Kaaba
+ਕੁਦਰਤੀ ਕਾਨੂੰਨ	Jurnaturalismo
+ਸੰਘਣਾਪਣ	Denso
+ਅਵਾਰ ਭਾਸ਼ਾ	Avara lingvo
+ਸ਼ੈਵਰੋਲੇ	Chevrolet
+ਵਾਈ-ਫ਼ਾਈ	Wi-Fi
+ਮਿਸਰੀ ਅਰਬੀ	Egipt-araba lingvo
+੨੦੫	205
+੧੫੯	159
+੧੦੭	107
+੧੬੨	162
+੧੦੩	103
+੧੧੯	119
+ਚੇਂਗਦੂ	Ĉengduo
+੧੧੮	118
+ਏਬੀ ਭਾਸ਼ਾ	Evea lingvo
+੧੫੨	152
+240	240
+੨੧੮	218
+496	496
+238	238
+੧੯੭	197
+੪੫੧	451
+489	489
+੪੦੮	408
+464	464
+੪੧੦	410
+੪੫੩	453
+੧੬੧	161
+169	169
+੪੮੧	481
+੧੫੧	151
+੧੫੫	155
+੧੨੮	128
+੧੨੯	129
+੪੬੩	463
+੧੯੩	193
+251	251
+੩੩੭	337
+260	260
+491	491
+੨੨੧	221
+230	230
+੪੮੦	480
+੨੦੯	209
+੨੦੨	202
+੧੯੨	192
+ਚੰਙਚੋ	Ĝengĝoŭo
+੧੭੩	173
+੧੬੩	163
+੧੫੪	154
+੨੦੧	201
+੪੫੬	456
+190	190
+੧੦੯	109
+270	270
+452	452
+465	465
+੪੦੪	404
+ਰਾਸ਼ਟਰਪਤੀ	Prezidanto
+੪੦੧	401
+੨੬੪	264
+ਮਿਖਾਇਲ ਗੋਰਬਾਚੇਵ	Miĥail Gorbaĉov
+੪੧੫	415
+483	483
+469	469
+462	462
+੪੫੯	459
+੪੬੬	466
+੪੦੨	402
+੩੫੦	350
+ਮਦਰ ਟਰੇਸਾ	Patrino Teresa
+੨੧੧	211
+232	232
+204	204
+੧੮੮	188
+੧੧੦	110
+111	111
+੧੩੭	137
+138	138
+੧੨੨	122
+140	140
+੧੬੭	167
+੪੩੨	432
+੨੩੧	231
+੨੩੭	237
+੨੩੯	239
+੧੩੦	130
+੨੨੬	226
+੨੦੭	207
+475	475
+੪੫੪	454
+੪੯੫	495
+206	206
+੪੬੮	468
+461	461
+੪੬੦	460
+194	194
+210	210
+225	225
+੩੧੧	311
+੨੨੦	220
+ਔਸਕਰ ਵਾਈਲਡ	Oscar Wilde
+੩੧੩	313
+੧੮੦	180
+੪੯੭	497
+੪੨੮	428
+੪੨੨	422
+457	457
+੪੭੮	478
+੨੫੩	253
+੪੬੭	467
+੪੫੮	458
+158	158
+੧੫੭	157
+੧੬੪	164
+124	124
+113	113
+121	121
+106	106
+੪੯੪	494
+320	320
+੨੪੨	242
+ਡੇਂਗੂ ਬੁਖਾਰ	Dengo
+ਯੋ (ਸਿਰਿਲਿਕ)	Jo (cirila alfabeto)
+੨੯੧	291
+ਫ਼ਰਾਂਸੀਸੀ ਪਾਲੀਨੇਸ਼ੀਆ	Franca Polinezio
+੪੭੪	474
+੪੮੪	484
+੪੯੩	493
+੪੭੯	479
+੨੮੭	287
+407	407
+੪੮੫	485
+ਹਾਂਗਕਾਂਗ ਡਾਲਰ	Honkonga dolaro
+ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ	Jareno
+ਨਾਰਫ਼ੋਕ ਟਾਪੂ	Norfolkinsulo
+ਕ੍ਰਿਸਮਸ ਟਾਪੂ	Kristnaskinsulo
+੪੪੬	446
+651	651
+652	652
+੪੩੫	435
+੪੩੭	437
+੪੩੩	433
+426	426
+425	425
+੪੨੯	429
+੪੨੩	423
+੨੩੫	235
+233	233
+੨੨੩	223
+224	224
+216	216
+੨੧੯	219
+254	254
+੨੭੨	272
+੨੦੮	208
+੧੭੫	175
+170	170
+171	171
+੧੭੨	172
+੧੩੯	139
+114	114
+੧੩੪	134
+੧੩੫	135
+179	179
+੧੪੨	142
+੧੮੧	181
+146	146
+੧੪੫	145
+੧੮੩	183
+੧੮੨	182
+੧੮੪	184
+੩੨੪	324
+ਤੋਤਾ	Papagoformaj
+੩੨੯	329
+੧੩੩	133
+੪੧੩	413
+258	258
+ਯੋਸਾ ਬੂਸੋਨ	Yosa Buson
+259	259
+196	196
+੨੩੬	236
+੩੩੨	332
+ਕਪਾਨ	Kapan
+੪੮੭	487
+ਹਰਾਜਦਾਨ	Hrazdan
+473	473
+੧੭੬	176
+੧੪੩	143
+ਜਫ਼ਰ ਪਨਾਹੀ	Ĵafar Panahi
+215	215
+੧੪੮	148
+247	247
+424	424
+492	492
+੨੫੬	256
+੪੪੧	441
+੧੩੧	131
+੧੯੧	191
+450	450
+੪੮੮	488
+282	282
+੪੭੨	472
+੪੭੧	471
+੪੯੦	490
+੩੧੬	316
+ਰਾਜਹੀਣਤਾ	Anarkio
+295	295
+ਅਰਬੀ ਪਰਾਇਦੀਪ	Arabio
+303	303
+250	250
+੪੧੮	418
+੩੩੩	333
+294	294
+217	217
+੨੭੭	277
+੩੧੨	312
+੨੮੪	284
+੨੮੩	283
+੨੪੧	241
+੨੪੩	243
+262	262
+੪੯੮	498
+336	336
+੩੩੪	334
+੨੬੬	266
+ਮੁੱਕੇਬਾਜ਼ੀ	Boksado
+੨੬੧	261
+470	470
+੩੪੯	349
+੨੭੧	271
+੨੭੫	275
+292	292
+੨੯੬	296
+੩੪੫	345
+431	431
+304	304
+229	229
+੨੬੫	265
+੨੬੩	263
+੪੨੦	420
+੨੮੦	280
+੩੦੨	302
+੩੦੯	309
+੩੫੩	353
+੩੩੫	335
+367	367
+344	344
+੨੪੫	245
+੨੯੦	290
+449	449
+੩੦੮	308
+255	255
+੪੩੯	439
+੩੧੯	319
+੩੧੮	318
+੨੯੯	299
+੪੧੯	419
+416	416
+੩੩੮	338
+੩੧੦	310
+315	315
+੩੫੯	359
+੩੬੦	360
+੨੭੩	273
+੨੮੬	286
+ਸ਼ਾਲਕਾ ੦੪ ਫੁੱਟਬਾਲ ਕਲੱਬ	FC Schalke 04
+੨੮੮	288
+278	278
+੪੫੫	455
+ਜੈਨੀਫ਼ਰ ਐਨਿਸਟਨ	Jennifer Aniston
+੪੮੨	482
+੪੮੬	486
+567	567
+੩੨੮	328
+੩੨੫	325
+317	317
+੨੪੯	249
+੩੪੮	348
+੪੪੨	442
+੪੪੩	443
+267	267
+੨੪੪	244
+੨੪੮	248
+343	343
+417)	417
+੨੬੮	268
+੨੬੯	269
+੪੯੯	499
+ਡੋਗਰੀ ਭਾਸ਼ਾ	Dogra lingvo
+ਮਲਾਲਾ ਯੂਸਫ਼ਜ਼ਈ	Malala Yousafzai
+੪੦੯	409
+405	405
+406	406
+੪੦੩	403
+੪੧੪	414
+411	411
+412	412
+ਜੈਬਰਾ	Zebro
+੨੭੬	276
+ਮਸਜਿਦ	Moskeo
+੩੧੪	314
+323	323
+੩੬੬	366
+੩੬੨	362
+214	214
+੨੧੩	213
+212	212
+ਮੁਹੰਮਦ ਬਿਨ ਕਾਸਿਮ	Muhammad bin Kasim
+੨੨੮	228
+227	227
+149	149
+174	174
+ਬਲੋਚੀ ਭਾਸ਼ਾ	Baluĉa lingvo
+੧੮੯	189
+੧੯੯	199
+੧੪੧	141
+੧੩੨	132
+125	125
+123	123
+੧੪੭	147
+144	144
+੧੯੮	198
+178	178
+੧੭੭	177
+ਭਰੂਣ	Embrio
+ਸਟਰਿੰਗ ਥਿਊਰੀ	Kordoteorio
+ਕੋਰਦੋਬਾ ਦੀ ਮਸਜਿਦ-ਗਿਰਜਾ	Moskeo-Katedralo de Kordovo
+੧੮੭	187
+੧੯੫	195
+੧੮੬	186
+ਬੋਡੋ ਭਾਸ਼ਾ	Bodoa lingvo
+ਨਾਦੀਆ ਕੋਮਾਨੇਚੀ	Nadia Comăneci
+੩੪੭	347
+ਤਸਮਾਨ ਸਮੁੰਦਰ	Tasmana Maro
+ਫੋਨ ਭਾਸ਼ਾ	Fonua lingvo
+ਮੁਗਲ ਸਲਤਨਤ	Mogola Imperio
+੪੩੬	436
+੪੩੪	434
+੨੯੩	293
+੪੨੭	427
+185	185
+੩੨੧	321
+ਹੋੱਕਾ ਭਾਸ਼ਾ	Hakaa lingvo
+ਜਲੰਧਰ	Ĝalanĝar
+੩੨੭	327
+ਉਪਭਾਸ਼ਾ	Dialekto
+੪੩੦	430
+ਲਿਓਨ ਟਰਾਟਸਕੀ	Lev Trockij
+447	447
+੪੪੪	444
+ਕੌਮਾਂਤਰੀ ਸ਼ੁੱਧ ਅਤੇ ਵਿਹਾਰਕ ਰਸਾਇਣ ਵਿਗਿਆਨ ਸੰਘ	IUPAK
+ਆਦਰਸ਼ਵਾਦ	Ideismo
+ਇਲਾਚੀ	Kardamomo
+ਅਜਾਇਬਘਰ	Muzeo
+੨੭੪	274
+ਹਿੰਦ-ਇਰਾਨੀ ਭਾਸ਼ਾ ਪਰਵਾਰ	Hindirana lingvaro
+ਈਰਾਨੀ ਭਾਸ਼ਾਵਾਂ	Irana lingvaro
+੨੮੧	281
+੩੦੬	306
+438	438
+ਜਾਵਾਨੀ ਬੋਲੀ	Java lingvo
+ਕਸ਼ਮੀਰੀ ਭਾਸ਼ਾ	Kaŝmira lingvo
+੨੯੭	297
+੪੨੧	421
+੨੯੮	298
+੩੫੧	351
+ਹਿੰਦ-ਆਰੀਆ ਭਾਸ਼ਾਵਾਂ	Hindarja lingvaro
+ਇਗਬੋ ਭਾਸ਼ਾ	Igba lingvo
+੩੫੨	352
+ਕਿਕਿਊ ਭਾਸ਼ਾ	Kikuja lingvo
+੩੫੫	355
+ਕਾਰਾ ਸਮੁੰਦਰ	Karaa Maro
+448	448
+੪੪੫	445
+੩੦੫	305
+੨੩੪	234
+ਕੰਨੜ ਭਾਸ਼ਾ	Kannada lingvo
+੩੮੧	381
+ਰੇਡੀਅਨ	Radiano
+੩੮੫	385
+307	307
+346	346
+੨੫੭	257
+ਆਸਮਾਨੀ ਬਿਜਲੀ	Fulmo
+੨੮੫	285
+ਹੈਨੋਫ਼ਾ ੯੬	Hannover 96
+੨੮੯	289
+ਬਰਟਰੈਂਡ ਰਸਲ	Bertrand Russell
+ਅਰਬ ਬਹਾਰ	Araba printempo
+ਤੂ ਫ਼ੂ	Du Fu
+ਨਿਊ ਕੈਲੇਡੋਨੀਆ	Nov-Kaledonio
+੨੫੨	252
+ਉੜੀਆ ਭਾਸ਼ਾ	Odia lingvo
+ਏਡਮੰਡ ਹਿਲਾਰੀ	Edmund Hillary
+ਨੇਪਾਲੀ ਭਾਸ਼ਾ	Nepala lingvo
+ਵੱਸੋਂ	Loĝantaro
+246	246
+ਓਰੋਮ ਭਾਸ਼ਾ	Oroma lingvo
+ਥਿਓਡੋਰ ਰੂਜ਼ਵੈਲਟ	Theodore Roosevelt
+ਟੂਰ ਡ ਫ਼ਰਾਂਸ	Tour de France
+357	357
+ਉਲੁਰੂ	Uluru
+ਚੈਕੋਸਲਵਾਕੀਆ	Ĉeĥoslovakio
+ਨੀਸ	Nico
+ਸੰਥਾਲੀ ਭਾਸ਼ਾ	Santala lingvo
+ਯੂਲ ਵਰਨ	Jules Verne
+ਨੇਪਾਲ ਭਾਸ਼ਾ	Nevara lingvo
+ਬਾਲਪਰਾਈਸੋ	Valparaiso
+ਸਿੰਧੀ ਭਾਸ਼ਾ	Sinda lingvo
+ਅਦਾਕਾਰ	Aktoro
+ਨਿਊਏ	Niuo
+ਝਰਨਾ	Akvofalo
+ਸਾਮੀ ਭਾਸ਼ਾਵਾਂ	Semida lingvaro
+੩੨੬	326
+੩੪੧	341
+322	322
+ਜਸਟਿਨ ਬੀਬਰ	Justin Bieber
+ਹੋਸਨੀ ਮੁਬਾਰਕ	Hosni Mubarak
+ਯੂਰਾਲੀ ਭਾਸ਼ਾ-ਪਰਿਵਾਰ	Urala lingvaro
+੩੮੬	386
+ਟਿਗਰੀਨਿਆ ਬੋਲੀ	Tigraja lingvo
+ਫ਼ੁਨਾਫ਼ੁਤੀ	Funafutio
+374	374
+੩੮੦	380
+ਮੱਖਣ	Butero
+ਪਾਬਲੋ ਨੇਰੂਦਾ	Pablo Neruda
+ਹੈਨਰੀ ਫ਼ੀਲਡਿੰਗ	Henry Fielding
+ਜ਼ਿਊਸ	Zeŭso
+ਯਾਸਿਰ ਅਰਾਫ਼ਾਤ	Jaser Arafat
+ਆਕਸਫ਼ੋਰਡ	Oksfordo
+ਨਿਆਗਰਾ ਝਰਨਾ	Niagara Akvofalaro
+ਸੈਨਤ ਭਾਸ਼ਾ	Signolingvo
+136	136
+ਕੋਂਕਣੀ ਭਾਸ਼ਾ	Konkana lingvo
+ਲੀਨਸ ਤੂਰਵਲਦਸ	Linus Torvalds
+ਅਕੇਵਾਂ	Enuo
+ਪੋਰਤ-ਓ-ਪ੍ਰੈਂਸ	Portoprinco
+ਰੂਸੀ ਸਲਤਨਤ	Rusia Imperio
+ਤਿੱਬਤੀ ਭਾਸ਼ਾ	Tibeta lingvo
+ਵੁੱਡਰੋਅ ਵਿਲਸਨ	Woodrow Wilson
+ਡਾਕਟਰ ਹੂ	Doctor Who
+ਤਸਮਾਨੀਆ	Tasmanio
+ਸਾਜ਼	Muzika instrumento
+ਸਾਬਣ	Sapo
+ਬੇਨਜ਼ੀਰ ਭੁੱਟੋ	Benazir Bhutto
+ਸ਼ਕੀਰਾ	Shakira
+ਆਕਸਫ਼ੋਰਡ ਯੂਨੀਵਰਸਿਟੀ	Universitato de Oksfordo
+ਸੜਕ	Vojo
+ਅਲੈਗਜ਼ੈਂਡਰ ਸੋਲਜ਼ੇਨਿਤਸਿਨ	Aleksandr Solĵenicin
+ਹੈਲੀਕਾਪਟਰ	Helikoptero
+ਮੋਟਰਸਾਈਕਲ	Motorciklo
+੩੮੨	382
+੩੪੨	342
+੩੭੩	373
+ਲਾ ਲਾਗੂਨਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Sankta Kristoforo de La Laguna
+372	372
+ਈਜੀਅਨ ਸਮੁੰਦਰ	Egea Maro
+ਫ਼ਰਾਤ	Eŭfrato
+ਕਿਓਤੋ	Kioto
+ਸੇਂਟ ਪੀਏਰ ਅਤੇ ਮੀਕਲੋਂ	Sankta-Piero kaj Mikelono
+ਗੁਸਤਾਵ ਕੋਰਬੇ	Gustave Courbet
+ਸਿਨਾਗੌਗ	Sinagogo
+ਜੋਹਾਨਿਸਬਰਗ	Johanesburgo
+ਜੇ. ਕੇ. ਰਾਓਲਿੰਗ	J. K. Rowling
+ਹੀਰੋਸ਼ੀਮਾ	Hiroŝimo
+ਅਲਬੇਰ ਕਾਮੂ	Albert Camus
+ਫ਼ਾਰਸੀ ਖਾੜੀ	Persa Golfo
+ਗੁਲਾਬ	Rozo
+ਕਿੰਗਸਟਨ, ਜਮੈਕਾ	Kingstono
+ਚਿੱਤਰਾ	Leopardo
+ਗੈਂਡਾ	Rinoceredoj
+ਜਿਨਸ (ਜੀਵ-ਵਿਗਿਆਨ)	Genro (biologio)
+ਰੂਡਿਆਰਡ ਕਿਪਲਿੰਗ	Rudyard Kipling
+ਸੋਮਾਲੀਲੈਂਡ	Somalilando
+ਟਾਪੂਨੁਮਾ	Duoninsulo
+ਐਕਸ ਕਿਰਨ	Ikso-radioj
+ਫ਼ਰੀਡਰਿਸ਼ ਐਂਗਲਸ	Friedrich Engels
+ਸ਼ਿਨਚਿਆਂਙ	Ŝinĝjango
+ਅਲਬੂਕਰਕੀ, ਨਿਊ ਮੈਕਸੀਕੋ	Albuquerque (Nov-Meksiko)
+ਨਵਾਂ ਸਾਲ	Novjaro
+ਸਾਂਤੋ ਦੋਮਿੰਗੋ	Sankta Domingo
+ਪਪੀਤਾ	Papajo
+੩੭੫	375
+ਤਿੰਨ-ਪਸਾਰੀ ਖ਼ਲਾਅ	Tri-dimensia spaco
+ਬ੍ਰਿਜ਼ਬਨ	Brisbano
+ਏਰਿਕ ਹਾਬਸਬਾਮ	Eric Hobsbawm
+ਕਲੌਡੀਅਸ ਟੋਲੇਮੀ	Ptolemeo
+ਵਿਟਾਮਿਨ	Vitamino
+ਬੈਂਜਾਮਿਨ ਫ਼ਰੈਂਕਲਿਨ	Benjamin Franklin
+ਡੀ.ਐਚ. ਲਾਰੰਸ	D. H. Lawrence
+ਆਈਜ਼ੈਕ ਐਸੀਮੋਵ	Isaac Asimov
+ਤੌਰਾ	Leĝo de Moseo
+ਅਜ਼ੋਵ ਸਮੁੰਦਰ	Azova Maro
+ਏਗਥਾ ਕਰਿਸਟੀ	Agatha Christie
+ਦੱਖਣੀ ਜਾਰਜੀਆ ਅਤੇ ਦੱਖਣੀ ਸੈਂਡਵਿਚ ਟਾਪੂ	Sud-Georgio kaj Sud-Sandviĉinsuloj
+ਕੌਮੀ ਰਾਜਧਾਨੀਆਂ ਦੀ ਸੂਚੀ	Listo de ĉefurboj
+ਕਹਾਵਤਾਂ	Proverbo
+ਵਿਲਹੈਲਮ ਰੋਂਟਗਨ	Wilhelm Conrad Röntgen
+ਓਡੇਸੀ	Odiseado
+ਕੁਵੈਤ ਸ਼ਹਿਰ	Kuvajturbo
+ਸ਼ੈਤਾਨ	Satano
+ਕੂਗਰ	Pumo
+ਤੱਤ-ਮੀਮਾਂਸਾ	Metafiziko
+੩੮੭	387
+ਨਿਕੀਤਾ ਖਰੁਸ਼ਚੇਵ	Nikita Ĥruŝĉov
+ਅਰਬ ਲੋਕ	Araboj
+ਸੂਮਰ	Sumero
+ਕੋਲੰਬੋ	Kolombo (urbo)
+ਧੁਨੀ ਵਿਗਿਆਨ	Fonetiko
+ਮਦੀਨਾ	Medino
+ਪੁਰਾਤਨ ਯੂਨਾਨੀ	Antikva greka lingvo
+ਐਫਰੋਡਾਇਟੀ	Afrodito (diino)
+ਵਾਈਟ ਹਾਊਸ	Blanka Domo (Vaŝingtono)
+ਵਾਲਿਸ ਅਤੇ ਫ਼ੁਤੂਨਾ	Valiso kaj Futuno
+ਤਾਤਾਰ	Tataroj
+ਦਜਲਾ ਦਰਿਆ	Tigriso
+ਯੂਰਾਲ ਪਰਬਤ	Uralo
+ਸਰ ਆਰਥਰ ਕਾਨਨ ਡੌਇਲ	Arthur Conan Doyle
+ਨੋਬਲ ਸ਼ਾਂਤੀ ਇਨਾਮ	Nobel-premio pri paco
+ਗਲੇਸ਼ੀਅਰ	Glaĉero
+ਪਿਟਕੇਰਨ ਟਾਪੂ	Pitkarna insularo
+ਸੰਖਿਆ ਰੇਖਾ	Nombra akso
+ਸਾਊਥ ਆਸਟਰੇਲੀਆ	Suda Aŭstralio
+ਪਦਾਰਥ	Materio
+ਓਸਾਕਾ	Osako
+ਕੈਂਬਰਿਜ ਯੂਨੀਵਰਸਿਟੀ	Universitato de Kembriĝo
+ਸਪਿਨੋਜ਼ਾ	Baruĥ Spinozo
+ਖੰਘ	Tuso
+ਰਾਇਟ ਭਰਾ	Fratoj Wright
+ਪਲਾਤਾ ਦਰਿਆ	Plata-Rivero
+ਦਮਾ	Astmo
+ਕਿਰਗਿਜ਼ਸਤਾਨੀ ਸੋਮ	Kirgiza somo
+ਅਰਾਲ ਸਮੁੰਦਰ	Aralo
+ਲਾਂਬੋਰਗੀਨੀ	Lamborghini
+ਉਮਰ ਖ਼ਯਾਮ	Omar Ĥajam
+ਬਾਂਸ	Bambuo
+ਇੰਟਰ ਲਿੰਗੂਆ	Interlingvao
+ਇਲੋਕਾਨੋ ਭਾਸ਼ਾ	Iloka lingvo
+ਪਾਲੀਨੇਸ਼ੀਆ	Polinezio
+ਸੁਹਜ ਸ਼ਾਸਤਰ	Estetiko
+ਇਜ਼ਮਿਰ	Izmiro
+ਕੋਕੋਸ (ਕੀਲਿੰਗ) ਟਾਪੂ	Kokosinsuloj
+ਹੋ ਚੀ ਮਿਨ੍ਹ	Ho Chi Minh
+ਕਵੀਨਜ਼ਲੈਂਡ	Kvinslando
+ਕਨੂਰੀ ਭਾਸ਼ਾ	Kanura lingvo
+ਮੈਥਿਲੀ ਭਾਸ਼ਾ	Maitila lingvo
+ਜਿਬਰਾਲਟਰ ਪਣਜੋੜ	Ĝibraltara Markolo
+ਬ੍ਰਿੱਜਟਾਊਨ	Briĝurbo
+ਲਿਖਾਰੀ	Verkisto
+ਲੋਕਧਾਰਾ	Folkloro
+ਮਾਰਕ ਜ਼ਕਰਬਰਗ	Mark Zuckerberg
+ਮਲਿਆਲਮ ਭਾਸ਼ਾ	Malajala lingvo
+ਸਵਰ	Vokalo
+ਲੰਬਾਈ	Longo
+ਆਪੀਆ	Apio
+ਸੇਂਟ ਜਾਨ	Sankta Johano (Antigvo-Barbudo)
+ਜੀਵਨੀ	Biografio
+ਰੋਜ਼ੋ	Roseo
+ਰੇਸ਼ਮ ਮਾਰਗ	Silka Vojo
+ਥੇਲਜ਼	Taleso de Mileto
+ਕੈਲਗਰੀ	Kalgario
+ਜੇਨ ਆਸਟਨ	Jane Austen
+ਜੋਰਦਾਨੋ ਬਰੂਨੋ	Giordano Bruno
+ਕੁਰਦੀ ਭਾਸ਼ਾਵਾਂ	Kurda lingvo
+ਪੋਰਤੋ	Porto
+ਬਹੁਕੋਸ਼ੀ ਜੀਵ	Metazoo
+ਇੱਕ-ਕੋਸ਼ੀ ਜੀਵ	Unuĉelulo
+ਆਇਨ	Jono
+ਪੋਰਟ ਮੋਰੈਸਬੀ	Port-Moresbo
+ਰਸਾਇਣਕ ਕਿਰਿਆ	Kemia reakcio
+ਵਲਾਦੀਮੀਰ ਨਾਬੋਕੋਵ	Vladimir Nabokov
+ਹੇਗ	Hago
+ਟੈਕੋ ਬਰਾਹੇ	Tycho Brahe
+ਵੇਸਵਾਗਮਨੀ	Prostituo
+ਹੈਨਰਿਕ ਇਬਸਨ	Henrik Ibsen
+ਪੱਛਮੀ ਕੰਢਾ	Cisjordanio
+ਵਿਕਟੋਰੀਆ (ਆਸਟ੍ਰੇਲੀਆ)	Viktorio (Aŭstralio)
+ਯੂਗੋਸਲਾਵੀਆ	Jugoslavio
+ਪਾਲੀ ਭਾਸ਼ਾ	Palia lingvo
+ਜਗਤ (ਜੀਵ-ਵਿਗਿਆਨ)	Regno (biologio)
+ਔਂਗ ਸੈਨ ਸੂ ਚੀ	Aung San Suu Kyi
+ਸੀਨਾਈ ਟਾਪੂਨੁਮਾ	Sinajo
+ਫ਼ਰਾਂਸ ਦੇ ਖੇਤਰ	Regionoj de Francio
+ਅਬਦ ਅਲ-ਮਾਲਿਕ ਬਿਨ ਮਰਬਾਨ	Abd al-Malik ibn Marwan
+ਬੂਹਾ	Pordo
+ਚੁਬਾਹੀਆ	Kvarlatero
+ਸਲੋਵੀਓ	Slovio
+ਤੋਕਲੌ	Tokelao
+ਸਵਾਈਨ ਇਨਫ਼ਲੂਐਨਜ਼ਾ	Porka gripo
+ਮਾਂ ਬੋਲੀ	Gepatra lingvo
+ਸ਼ਿਕਾਰ	Ĉasado
+ਜੈਕੀ ਚੈਨ	Jackie Chan
+ਸਰਬੀਆ ਅਤੇ ਮੋਂਟੇਨਏਗਰੋ	Serbujo kaj Montenegro
+ਟਾਮਸ﻿ ਮਾਨ	Thomas Mann
+ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ	Reklamo
+ਬੈਫ਼ਿਨ ਖਾੜੀ	Bafina Golfo
+ਅਲੈਗਜ਼ੈਂਡਰ ਫ਼ਲੈਮਿੰਗ	Alexander Fleming
+ਰੋਮਾਂਸਵਾਦ	Romantikismo
+ਪੌਪ ਸੰਗੀਤ	Pop-muziko
+ਮੇਖ਼	Najlo
+ਜੈਤੂਨ	Olivarbo
+ਸੁਲੇਮਾਨ	Salomono
+ਯਾਹੂ!	Yahoo!
+ਆਕਲੈਂਡ	Auckland
+ਫ਼ਿਰਔਨ	Faraono
+ਏ ਕੇ-47	AK-47
+੩੩੧	331
+ਅਥੀਨਾ	Atena
+ਮੀਥੇਨ	Metano
+੩੬੫	365
+ਪਰਮਾਣੂ ਨਾਭ	Atomkerno
+379	379
+ਆਈ ਬੀ ਐਮ	IBM
+ਛੱਲ	Ondo
+ਜੌਨੀ ਡੈੱਪ	Johnny Depp
+ਖ਼ੁਫ਼ੂ ਦਾ ਮਹਾਨ ਪਿਰਾਮਿਡ	Piramido de Keopso
+ਸਿੰਧ	Sindo
+ਫ਼ਿਓਦਰ ਤਿਊਤਚੇਵ	Fjodor Tjutĉev
+ਲਿਖਾਈ	Skribo
+ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ 2006	Futbala Mondpokalo 2006
+ਰਾਮਾਇਣ	Ramajano
+ਇੰਟਰਨੈੱਟ ਮੂਵੀ ਡੈਟਾਬੇਸ	Interreta filma datumbazo
+ਸੈਮੂਅਲ ਬੈਕਟ	Samuel Beckett
+ਅਪੋਲੋ	Apolono
+ਅਕਰੋਤਿਰੀ ਅਤੇ ਧਕੇਲੀਆ	Akrotiri kaj Dekelia
+ਫ਼ਰਾਂਸਿਸ ਬੇਕਨ	Francis Bacon
+.af	.af
+ਆਈ ਐਸ ਓ 4217	ISO 4217
+ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ ਸੁਰੱਖਿਆ ਕੌਂਸਲ	Konsilio de Sekureco de Unuiĝintaj Nacioj
+ਕੋਹਰਾ	Nebulo
+ਇਓਨੀਓ ਸਮੁੰਦਰ	Ionia Maro
+ਗੁਲੂਕੋਸ	Glukozo
+.cz	.cz
+ਬਹੁਬਾਹੀਆ	Plurlatero
+ਦੋਨਾਤੇਲੋ	Donatello
+ਜਾਨ ਕੈਲਵਿਨ	Kalvino
+ਵੈਲਨਟਾਈਨ ਡੇ	Sankt-Valentena tago
+ਮੰਡੀ (ਅਰਥਸ਼ਾਸਤਰ)	Merkato
+ਦੱਖਣੀ ਚੀਨ ਸਮੁੰਦਰ	Sudĉina Maro
+ਡੂਰੇਸ ਜ਼ਿਲਾ	Distrikto Durrës
+ਰੇਸ਼ਮ	Silko
+ਗਿਰਗਿਟ	Ĥameleono
+ਬਲੂਮਫੋਂਟੈਨ	Bloemfontein
+ਹਾਇਕੂ	Hajko
+ਜਗੀਰਦਾਰੀ	Feŭdismo
+ਟੀ ਐਸ ਈਲੀਅਟ	T. S. Eliot
+ਪੋਰਟ ਵਿਲਾ	Portvilao
+ਅਲਤਾਈ ਭਾਸ਼ਾਵਾਂ	Altaja lingvaro
+ਬਾਰੋਕ	Baroko
+.us	.us
+ਸਾਹਿਤ ਲਈ ਨੋਬਲ ਇਨਾਮ	Nobel-premio pri literaturo
+ਪੀਲ਼ਾ ਸਮੁੰਦਰ	Flava Maro
+ਰੰਗੂਨ	Jangono
+ਹੇਅਰਾ	Hera
+ਹੇਰਤਾ ਮੁਲਰ	Herta Müller
+ਹੋਂਦਵਾਦ	Ekzistadismo
+ਲੂਈਸ ਕੈਰਲ	Lewis Carroll
+ਲਿਓਨਾਰਦੋ ਦੀਕੈਪਰੀਓ	Leonardo DiCaprio
+ਸੈਮੂਰਾਈ	Samurajo
+ਹੈਲਨ ਕੈਲਰ	Helen Keller
+ਏਨਟ੍ਰਾਛਟ ਫ਼ਰਾਂਕਫ਼ੁਰਟ	Eintracht Frankfurt
+ਯੋਕੋਹਾਮਾ	Jokohamo
+ਵਿਲੀਅਮ ਫਾਕਨਰ	William Faulkner
+ਡੀਜ਼ਲ	Dizeloleo
+ਨਿਊਟਨ ਦੇ ਗਤੀ ਦੇ ਨਿਯਮ	Leĝoj de Newton pri movo
+ਦੇਵਨਾਗਰੀ ਲਿੱਪੀ	Nagario
+ਹਦਵਾਣਾ	Akvomelono
+ਬੰਗਾਲ ਦੀ ਖਾੜੀ	Bengala Golfo
+ਬਰਤੋਲਤ ਬ੍ਰੈਖਤ	Bertolt Brecht
+ਸਤਾਲਿਨਗਰਾਦ ਦੀ ਲੜਾਈ	Batalo ĉe Stalingrado
+ਹਮਾਸ	Hamas
+ਸੂਵਾ	Suvo
+ਰੂਹੁੱਲਾ ਖ਼ੁਮੈਨੀ	Ruhollah Ĥomejni
+ਨੁਕੂ ਅਲੋਫ਼ਾ	Nukualofo
+﻿ਨਿਆਜ਼ਬੋ	Bazilio
+ਲੇਜ਼ਰ	Lasero
+ਪ੍ਰੌਇਸਨ	Prusio
+ਓਲਿੰਪੀਆ	Olimpio
+ਬੁਖ਼ਾਰ	Febro
+ਕੌਮਾਂਤਰੀ ਇਸਤਰੀ ਦਿਹਾੜਾ	Internacia tago de virinoj
+ਮਨੁੱਖੀ ਵਿਕਾਸ ਸੂਚਕ	Indico de homa disvolviĝo
+ਪੀਸਾ ਦੀ ਮੀਨਾਰ	Oblikva turo de Pizo
+ਉੱਤਰੀ ਅਰਧਗੋਲ਼ਾ	Norda duonglobo
+ਰਨਮਿਨਬੀ	Renminbio
+ਪੋਰਟ ਆਫ਼ ਸਪੇਨ	Portospeno
+ਜੌਨ ਸਟਾਈਨਬੈਕ	John Steinbeck
+.in	.in
+ਆਇਤਨ	Volumeno
+ਸੰਤਰੀ (ਰੰਗ)	Oranĝkolora
+ਸੋਚੀ	Soĉi
+ਪੜਯਥਾਰਥਵਾਦ	Superrealismo
+ਟਰੈਕਟਰ	Traktoro
+ਆਰਟੇਮਿਸ	Artemiso
+ਅਰਾਰਤ	Ararato (urbo)
+ਅਸ਼ਤਾਰਕ	Aŝtarako
+ਬਲੂਟੁੱਥ	Bludento
+ਯੇਗੇਗਨਾਦਜੋਰ	Yeghegnadzor
+ਸੰਦ	Laborilo
+ਪਟਰੋਲ	Benzino
+ਅਰਤਾਸ਼ਤ	Artaŝato
+ਮਾਈਟੋਕੌਂਡਰੀਆ	Mitokondrio
+ਖਾੜੀ	Golfo
+ਅਲੀ	Ali ibn Abi Talib
+ਡਾਕਟਰ	Kuracisto
+ਅਰਥ-ਵਿਗਿਆਨ	Semantiko
+ਪੇਨੇਲੋਪੇ ਕਰੂਥ	Penélope Cruz
+ਸਟੋਨਹੈਂਜ	Stonehenge
+ਮੈਕਰੋ ਅਰਥਸ਼ਾਸਤਰ	Makroekonomiko
+ਚਾਨਣ ਮੁਨਾਰਾ	Lumturo
+ਗਾਜ਼ਾ ਪੱਟੀ	Gaza Sektoro
+ਇੰਸੂਲਿਨ	Insulino
+ਮਾਰੀਓ ਵਾਰਗਾਸ ਯੋਸਾ	Mario Vargas Llosa
+ਮਰਦਮਸ਼ੁਮਾਰੀ	Popolnombrado
+ਸਟੀਫ਼ਨ ਕਿੰਗ	Stephen King
+ਸੂਖ਼ਮ ਜੀਵ	Mikroorganismo
+ਰੇਡੀਓ ਸਟੂਡਿਓ 54 ਨੂੰ ਨੈੱਟਵਰਕ	Radio Studio 54 Network
+ਵੇਦ	Vedoj
+ਕੈਨ	Cannes
+ਸੂਰਜੀ ਊਰਜਾ	Sunenergio
+ਜਾਰਡਨ ਦਰਿਆ	Jordano
+ਵਿਲ ਸਮਿਥ	Will Smith
+ਆਕਟੋਪਸ	Polpo
+ਲਾਵਾ	Lafo
+ਨਿਐਂਡਰਥਲ ਮਨੁੱਖ	Neandertala homo
+ਦੀਵੀਨਾ ਕੋਮੇਦੀਆ	La Divina Commedia
+ਹੋਬਾਰਟ	Hobarto
+ਵਿਲੀਅਮ ਬਟਲਰ ਯੇਟਸ	William Butler Yeats
+ਚੋਣ	Voĉdono
+ਅੰਤਾਲਿਆ ਸੂਬਾ	Provinco Antalya
+ਗੁਡ ਫਰਾਈਡੇ	Granda vendredo
+ਸਹਿਰਾਵੀ ਅਰਬ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ	Araba Demokratia Sahara Respubliko
+ਪੁਲੰਦਾ (ਜੀਵ ਵਿਗਿਆਨ)	Histo
+ਪ੍ਰਭਾਵਵਾਦ	Impresionismo
+ਪਰਵੇਜ਼ ਮੁਸ਼ੱਰਫ਼	Pervez Muŝaraf
+ਅਦਾਨਾ ਸੂਬਾ	Provinco Adana
+ਅਫ਼ਰੀਕਾ ਦਾ ਸਿੰਗ	Korno de Afriko
+ਕਮਿਊਨਿਸਟ ਮੈਨੀਫੈਸਟੋ	Manifesto de la Komunista Partio
+ਲਾਰਜ ਹੈਡਰਾਨ ਕੋਲਾਈਡਰ	Granda Koliziigilo de Hadronoj
+ਪਥਰਾਟ	Fosilio
+ਕਰਿਸਟੀਨਾ ਫਰਨਾਂਡੀਜ ਡੀ ਕਿਰਚਨੇਰ	Cristina Fernández de Kirchner
+ਜਿਉਮਾ ਹੂਸੈਫ਼	Dilma Rousseff
+ਡੇਮੀਟਰ	Demetra
+ਗਾਡ ਸੇਵ ਦ ਕਵੀਨ	God Save the Queen
+ਸੁਖ਼ੂਮੀ	Suĥumo
+ਬਨਗ਼ਾਜ਼ੀ	Bengazi
+ਕੁਦਰਤੀ ਗੈਸ	Tergaso
+ਮਾਰਬਲ	Marmoro
+ਜ਼ਹਿਰ	Veneno
+ਡੋਰਿਸ ਲੈਸਿੰਗ	Doris Lessing
+ਅੰਡੇਮਾਨ ਅਤੇ ਨਿਕੋਬਾਰ ਟਾਪੂ	Andamanoj kaj Nikobaroj
+ਨਾਨਸੀ	Nancio
+ਏਰੀਸ	Areso
+ਵਰਨਰ ਆਈਜਨਬਰਗ	Werner Heisenberg
+ਵਰਜੀਨੀਆ ਵੁਲਫ	Virginia Woolf
+ਹੋਨੀਆਰਾ	Honiaro
+ਪਿਸ਼ਾਬ	Urino
+ਪੀ.ਐੱਚ. (ਹਾਈਡਰੋਜਨ ਸ਼ਕਤੀ)	PH (kemia parametro)
+ਐਸਕਲੀਅਸ	Esĥilo
+ਡੈਨੀਅਲ ਡੈਫੋ	Daniel Defoe
+ਅਮਰੀਕੀ ਇਨਕਲਾਬੀ ਜੰਗ	Usona Milito de Sendependeco
+ਰੂਸੀ ਰੂਬਲ	Rusia rublo
+ਹਿਜ਼ਬੁੱਲਾ	Hizbulaho
+ਆਤਸ਼ਕ	Sifiliso
+ਤਰੇਲ	Roso
+ਦੁਫਾੜ ਮਾਨਸਿਕਤਾ	Skizofrenio
+ਲਾਲ ਚੌਕ	Ruĝa Placo (Moskvo)
+ਕਿਮ ਇਲ-ਸੁੰਙ	Kim Il-sung
+ਈਟਾਨਗਰ	Itanagaro
+ਸੇਂਟ ਜੇਮਜ਼ ਦਾ ਰਾਹ	Jakoba Vojo
+ਸਮਚੁਬਾਹੀਆ	Rombo
+ਜੋਨਾਥਨ ਸਵਿਫ਼ਟ	Jonathan Swift
+ਬੇਰੁਜ਼ਗਾਰੀ	Senlaboreco
+ਇਮਾਰਤ	Konstruaĵo
+ਗਰੇਨਾਈਟ	Granito
+ਮਿਕਾਂਗ ਦਰਿਆ	Mekongo
+ਲਾ ਮਾਰਸੇਯੈਜ਼	Marseljezo
+ਹਲਬ	Alepo
+ਸਾਨ ਹੁਆਨ, ਪੁਏਰਤੋ ਰੀਕੋ	San-Juano (Porto-Riko)
+ਮਕੈਨਕੀ	Mekaniko
+ਬੋਰਿਸ ਪਾਸਤਰਨਾਕ	Boris Pasternak
+ਦੱਖਣੀ ਅਰਧਗੋਲ਼ਾ	Suda duonglobo
+ਆਪੇਰਾ ਵੇਬ ਬਰਾਉਜਰ	Opera (retumilo)
+ਗ੍ਰੈਮੀ ਪੁਰਸਕਾਰ	Grammy Award
+ਸੰਵੇਗ	Movokvanto
+ਰਾਕਟ	Raketo (fajraĵo)
+ਸਿਰਕਾ	Vinagro
+ਛੱਲ-ਲੰਬਾਈ	Ondolongo
+ਕੁਰਟ ਗੋਡਲ	Kurt Gödel
+ਨਸਲਕੁਸ਼ੀ	Genocido
+ਫੇਦੇਰੀਕੋ ਗਾਰਸੀਆ ਲੋਰਕਾ	Federico García Lorca
+ਹੇਡੀਸ	Hadeso
+ਹੇਸਟੀਆ	Hestia
+ਬੌਖ਼ੂਸੀਆ ਡੌਰਟਮੁੰਟ	Borussia Dortmund
+ਬੈਲੇ	Baleto
+ਜਿਬਰਾਲਟਰ ਪਾਊਂਡ	Ĝibraltara pundo
+ਗਿਨੀ ਦੀ ਖਾੜੀ	Gvinea Golfo
+ਕੁਰਦਿਸਤਾਨ	Kurdio
+ਕਿੰਗਸਟਾਊਨ	Kingstaŭno
+ਬਵਾਸੀਰ	Hemoroido
+ਲੋਥ-ਪੜਤਾਲ	Sekco (anatomio)
+ਦ ਗੁੱਡ, ਦ ਬੈਡ ਐਂਡ ਦ ਅਗਲੀ (੧੯੬੬)	Il buono, il brutto, il cattivo.
+ਹਰਮੀ	Hermeso
+ਬੋਲੇ ਸੋਇੰਕਾ	Wole Soyinka
+ਮੋਲ (ਇਕਾਈ)	Molo
+ਵਿਲੀਅਮ ਬਲੇਕ	William Blake
+ਵਿੰਬਲਡਨ ਟੂਰਨਾਮੈਂਟ	Wimbledon (turniro)
+ਪਲੂਟਾਰਕ	Plutarko
+ਕਾਰਲ ਜੁੰਗ	Carl Gustav Jung
+ਸੇਂਟ ਜਾਰਜ, ਗ੍ਰੇਨਾਡਾ	Sankta Georgo (Grenado)
+ਹੈਮਲਟ	Hamleto
+ਬਿਸਕੇ ਦੀ ਖਾੜੀ	Biskaja Golfo
+ਅਲਕੇਨ	Alkano
+ਇੰਡੋਨੇਸ਼ੀਆਈ ਰੁਪੀਆ	Indonezia rupio
+ਅਖ਼ੋਤਸਕ ਸਮੁੰਦਰ	Oĥotska maro
+ਧਨੀਆ	Kultiva koriandro
+ਸੰਵਿਧਾਨਕ ਬਾਦਸ਼ਾਹੀ	Konstitucia monarkio
+ਮਨੋਵਿਸ਼ਲੇਸ਼ਣ	Psikoanalizo
+ਫੋਨੀਸ਼ੀਆ	Fenicio
+ਰਮਜ਼ਾਨ	Ramadano
+ਭਾਰਤ ਦਾ ਝੰਡਾ	Flago de Barato
+ਗਿਨੀਜ਼ ਵਰਲਡ ਰਿਕਾਰਡਜ਼	Guinness-libro de rekordoj
+ਡੀਓਨਾਇਸਸ	Dionizo
+ਸੁਨਹਿਰੀ ਅਨੁਪਾਤ	Ora proporcio
+ਕੈਦੀ ਦੀ ਦੁਬਿਧਾ	Prizonula Dilemo
+ਕਾਸਤਰੀਸ	Kastrizo
+ਕੌਮੀਅਤ	Etno
+ਮਨੌਤ	Hipotezo
+ਆਇਰਲੈਂਡੀ ਸਮੁੰਦਰ	Irlanda Maro
+ਅਖ਼ੀਲੀਅਸ	Aĥilo
+ਜੋਜ਼ਫ਼ ਗੋਇਬਲਜ਼	Joseph Goebbels
+ਅਦਨ ਦੀ ਖਾੜੀ	Adena Golfo
+ਮਨਮੋਹਨ ਸਿੰਘ	Manmohan Singh
+ਰੋਜ਼ਾ ਪਾਰਕਸ	Rosa Parks
+ਸ੍ਰੀ ਜੈਵਰਦਨਪੁਰਾ ਕੋਟੇ	Sri Jayawardenapura Kotte
+ਮੈਟੋਨਮੀ	Metonimio
+ਮੰਗੋਲ	Mongoloj
+ਡੈਮੋਕਰੀਤਸ	Demokrito de Abdero
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਪਰਮਾਣੁ ਊਰਜਾ ਅਦਾਰਾ	Internacia Atomenergia Organizo
+ਮਿਓਜ਼ ਦਰਿਆ	Mozo
+ਖ਼ੁਦਮੁਖ਼ਤਿਆਰੀ	Suvereneco
+ਆਤਸ਼ੀ ਚਟਾਨ	Magmorokaĵo
+ਇਸਫ਼ਹਾਨ	Esfahano
+ਹਿਊਨ ਸਾਂਗ	Xuanzang
+ਗੋਬੀ ਮਾਰੂਥਲ	Gobio
+ਟੋਮਾਸ ਟ੍ਰਾਂਸਟ੍ਰਾਮਰ	Tomas Tranströmer
+ਆਨਰੀ ਬਰਗਸਾਂ	Henri Bergson
+ਕੰਮ (ਭੌਤਿਕ ਵਿਗਿਆਨ)	Laboro (fiziko)
+ਪਿਨਯਿਨ	Hanyu Pinyin
+ਦੁਰਾਡਾ ਪੂਰਬ	Fora Oriento
+ਯੂਰਪੀ ਪੁਲਾੜ ਏਜੰਸੀ	Eŭropa Kosma Agentejo
+ਮੈਗਮਾ	Magmo
+ਫ਼ਾਰਨਹਾਈਟ	Grado farenhejta
+ਖਾਰਕੀਵ	Ĥarkovo
+ਉੱਨ	Lano
+ਕਾਨ ਫ਼ਿਲਮ ਫੈਸਟੀਵਲ	Festivalo de Cannes
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਾਂ ਬੋਲੀ ਦਿਹਾੜਾ	Internacia Tago de la denaska lingvo
+ਮਿਖਾਇਲ ਸ਼ੋਲੋਖੋਵ	Miĥail Ŝoloĥov
+ਅੰਗਰੇਜ਼	Angloj
+ਏਬੋ ਮੋਰਾਲਿਸ	Evo Morales
+ਤਾਲੇਬਾਨ	Talibano
+﻿ਅਨਾਤੋਲੇ ਫ਼ਰਾਂਸ	Anatole France
+ਆਦਰਸ਼ ਵਾਕ	Moto
+ਕੁਸ਼ਤੀ	Lukto
+ਕੇਟੀ ਪੈਰੀ	Katy Perry
+ਐੱਚ ਜੀ ਵੈੱਲਜ਼	Herbert Wells
+ਗੋਲ ਮੂੰਗਾ	Atolo
+ਕੀਅਰਾ ਨਾਈਟਲੀ	Keira Knightley
+ਕੂਹਣੀ	Kubuto
+ਪਾਦਰੀ	Pastro
+ਸੂਜ਼ੂ	Suĝoŭo
+ਵੁਕਸੀ	Vuŝio
+ਹਾਈਨਰਿਸ਼ ਬਲ	Heinrich Böll
+ਪਾਲੀਕਰ	Palikiro
+ਬੈਲੋ ਓਰੀਜ਼ੋਂਚੇ	Bel-Horizonto
+ਲਿਗੂਰੀ ਸਮੁੰਦਰ	Ligura maro
+ਇਵਾਨ ਤੁਰਗਨੇਵ	Ivan Turgenev
+ਕ੍ਰਿਸ਼ਨ	Kriŝno
+ਹਾਨਜ਼ਾ	Hansa ligo
+ਮਿਊਟੇਸ਼ਨ	Mutacio
+ਨਿਰਵਾਣ	Nirvano
+ਘਣਵਾਦ	Kubismo
+ਆਗਰਾ	Agra
+ਹਾਰਬਿਨ	Harbino
+ਮਾਨਸੂਨ	Musono
+ਐਮਨੈਸਟੀ ਇੰਟਰਨੈਸ਼ਨਲ	Amnestio Internacia
+ਆਰਕੀਟੈਕਟ	Arkitekturistoj
+ਅਕਤੂਬਰ ਇਨਕਲਾਬ	Oktobra Revolucio
+ਅਲਰਜੀ	Alergio
+ਇਵਾਨ ਪਾਵਲੋਵ	Ivan Pavlov
+ਗੋਲਡਾ ਮਾਇਰ	Golda Meir
+ਕਾਪੀ	Notlibro
+ਬਿਜਲਈ ਇੰਜੀਨੀਅਰਿੰਗ	Elektrotekniko
+ਕਸ਼ਮੀਰ	Kaŝmiro
+ਜ਼ੰਬੇਜ਼ੀ ਦਰਿਆ	Zambezi
+ਮੁੱਢਲਾ ਕਣ	Elementa partiklo
+ਦਰਿਆਈ ਡੈਲਟਾ	Riverdelto
+ਕਲਿੰਟ ਈਸਟਵੁੱਡ	Clint Eastwood
+ਐਪੀਕਿਊਰਸ	Epikuro
+ਮਾਰਫੀਮ	Vortero
+ਸੋਫ਼ੀਆ ਲਾਰੇਨ	Sophia Loren
+ਦੁਮੇਲ	Horizonto
+ਵਿਕਟੋਰੀਆ ਝਰਨਾ	Viktoria Akvofalo
+ਤਲਮੂਦ	Talmudo
+ਵੇਕ ਟਾਪੂ	Vejkinsulo
+ਟਾਈਮ	Time
+ਪੌਣ ਊਰਜਾ	Ventoenergio
+ਪੋਂਪੇਈ	Pompejo
+ਰੂਮੀ	Ĝalal-ed-din Mohammad Rumi
+ਅਰਿਸਤੋਫਾਨੇਸ	Aristofano
+ਪਲੀਮਥ	Plymouth
+ਏਦਿਰਨੇ	Edirne
+ਬਾਰਾਂ ਰਸੂਲ	Apostolo
+ਕੀਆਨੂ ਰੀਵਸ	Keanu Reeves
+ਈਸਪ	Ezopo
+ਚੰਡੀਗੜ੍ਹ	Ĉandigaro
+ਮੋਤੀ	Perlo (globeto)
+ਜੋਸ਼ੂਏ ਕਾਰਦੂਚੀ	Giosuè Carducci
+ਗੁਸਤਾਵ ਫਲੌਬੈਰ	Gustave Flaubert
+ਬਰਤਾਨਵੀ ਹਿੰਦ ਮਹਾਂਸਾਗਰ ਰਾਜਖੇਤਰ	Brita Hindoceana Teritorio
+ਜਿਮਨਾਸਟਿਕ	Gimnastiko
+ਫ਼ਿਰਦੌਸੀ	Abol-Gasem Ferdoŭsio
+ਅੰਗਕੋਰਵਾਟ ਮੰਦਰ	Angkor Ŭat
+ਡਰਬੀ	Derby
+ਕੁਦਰਤੀ ਛਾਂਟ	Natura selektado
+ਬਾਜ਼	Falko
+ਗੁਆਇਆਕੀਲ	Guayaquil
+ਮੇਥੀ	Ordinara fenkolo
+ਕੇ ਟੂ	K2
+ਸਾਪੇਖਤਾ ਸਿਧਾਂਤ	Teorio de la relativeco
+ਬਲੌਰ	Kristalo
+ਕੋਤੋਨੂ	Kotonuo
+ਹਾਈਡਰੋਕਾਰਬਨ	Hidrokarbido
+ਥੋਮਸ ਮੂਲਰ	Thomas Müller
+ਸੰਘ	Federacio
+ਬਰਮੂਡਾ ਤਿਕੋਣ	Bermuda triangulo
+ਨਿਕੋਲਾਈ ਗੋਗੋਲ	Nikolaj Gogol
+ਨਖ਼ਲਿਸਤਾਨ	Oazo
+ਆਰਤਵਿਨ ਸੂਬਾ	Provinco Artvin
+ਅਦਿਅਮਾਨ ਪ੍ਰਾਂਤ	Provinco Adıyaman
+ਵਿਲੀਅਮ ਔਕਮ	Vilhelmo el Okam
+ਯੂਰੀ ਆਂਦਰੋਪੋਵ	Jurij Andropov
+ਚਿੱਟਾ ਸਮੁੰਦਰ	Blanka Maro
+ਬਰਾਂਪਟਨ	Bramptono
+ਮਿਸ਼ੇਲ ਫੂਕੋ	Michel Foucault
+ਜਿਮ ਮੋਰੀਸਨ	Jim Morrison
+ਮਾਰਕ ਵਿਲੀਅਮ ਕਾਲਾਵੇਅ	Mark Calaway
+ਸਲਮਾਨ ਰਸ਼ਦੀ	Salman Rushdie
+ਮੈਟ੍ਰਿਕਸ	Matrico
+ਹੇਫ਼ੇਸਟਸ	Hefesto
+ਕੈਯਨ	Kajeno
+ਹਾਈਨਰਿਸ਼ ਹਾਈਨੇ	Heinrich Heine
+ਧਰਮਰਾਜ	Teokratio
+ਰਸਾਇਣਕ ਜੋੜ	Kemia ligo
+ਗੇਮ ਥਿਊਰੀ	Ludoteorio
+ਰਿਚਰਡ ਡੋਕਿਨਜ਼	Richard Dawkins
+ਐਨੀ ਬਰੌਂਟੀ	Anne Brontë
+ਮੰਦਰ	Templo
+ਏਦੋਆਰਦੋ ਗਾਲੇਆਨੋ	Eduardo Galeano
+ਵੀ ਐਸ ਨੈਪਾਲ	Vidiadhar Surajprasad Naipaul
+ਆਦਮਖੋਰੀ	Kanibalismo
+ਡਰ	Timo
+ਬੈਰਿੰਗ ਸਮੁੰਦਰ	Beringa Maro
+ਛੋਟੀ ਮਾਤਾ	Varioleto
+ਅਨਿਸ਼ਚਿਤਤਾ ਸਿਧਾਂਤ	Necerteca principo de Heisenberg
+ਤੂਤ	Moruso
+ਬਿੰਦੀ ( ਰੇਖਾਗਣਿਤ)	Punkto (matematiko)
+ਅਲਸੀ	Ordinara lino
+ਅਫ਼ਿਓਨਕਾਰਾਹਿਸਾਰ ਪ੍ਰਾਂਤ	Provinco Afyonkarahisar
+ਆਸਟਰੇਲੇਸ਼ੀਆ	Aŭstralazio
+ਤਰਾਬਜੋਨ	Trabzon
+ਹੇਰਾਤ	Herato
+ਪੂਰਬੀ ਚੀਨ ਸਮੁੰਦਰ	Orientĉina Maro
+ਬ੍ਰਹਮਪੁੱਤਰ ਦਰਿਆ	Bramaputro
+ਖ਼ਮੀਰ	Gisto
+ਭੂਤ	Fantomo
+ਵਿਲੀਅਮ ਵਰਡਜ਼ਵਰਥ	William Wordsworth
+ਤਾਰਿਆਂ ਭਰੀ ਰਾਤ	Stela nokto
+ਕੰਧਾਰ	Kandaharo
+ਵਿਸ਼ਵਨਾਥਨ ਅਨੰਦ	Viswanathan Anand
+ਕਟਹਲ	Jakvo
+ਜੈਕ ਲੰਡਨ	Jack London
+ਫ਼ਿਓਰਡ	Fjordo
+ਦਾਜ	Doto
+ਹੂਣ	Hunoj
+ਬਰੰਟਸ ਸਮੁੰਦਰ	Barenca Maro
+ਅੰਗਾਣੂ	Organeto
+ਲਾਲ ਕਿਲਾ	Ruĝa fortikaĵo
+ਰਹੱਸਵਾਦ	Mistikismo
+ਦਾਦਰ ਅਤੇ ਨਗਰ ਹਵੇਲੀ	Dadro kaj Nagar-Havelio
+ਕੌਮੀ ਪਾਰਕ	Nacia parko
+ਬਿਜਲੀ ਖੇਤਰ	Elektra kampo
+ਗਤਿਜ ਊਰਜਾ	Kineta energio
+ਰੋਜ਼ੇਸੀ	Rozacoj
+ਚੋਣ ਮੈਨੀਫੈਸਟੋ	Manifesto
+ਕੁਆਂਟਮ	Kvantumo
+ਇਬਨ ਅਲ-ਅਰਬੀ	Ibn Arabi
+ਸੋਨੋਰਾ	Sonora
+ਅਫੀਮ	Opio
+ਪੁਲਿਤਜ਼ਰ ਇਨਾਮ	Premio Pulitzer
+ਮਿਖਾਇਲ ਲਰਮਨਤੋਵ	Miĥail Lermontov
+ਇਵਾਨ ਬੂਨਿਨ	Ivan Bunin
+ਚਾਰਲਜ਼ ਬੈਬਿਜ	Charles Babbage
+ਓਜ਼ੈਨ ਇਓਨੈਸਕੋ	Eugène Ionesco
+ਅਮੀਬਾ	Amebo
+ਦਾਰਫ਼ੂਰ	Darfuro
+ਓਕਤਾਵੀਓ ਪਾਜ਼	Octavio Paz
+ਵੰਗਾਰੀ ਮਥਾਈ	Wangari Maathai
+ਭਗਵਦ ਗੀਤਾ	Bagavadgito
+ਲੇਨਾ ਦਰਿਆ	Leno (rivero)
+ਵਿਗਿਆਨਕ ਤਰੀਕਾ	Scienca metodo
+ਤਿੱਬਤੀ ਲਿਪੀ	Tibeta skribo
+ਸ਼ਾਨਸ਼ੀ	Ŝanŝio
+ਅਲਕਾਲਾ ਦੇ ਏਨਾਰਿਸ	Alcalá de Henares
+ਤੁਨੀਸੀਆ ਇਨਕਲਾਬ	Tunizia ribelo en 2010-2011
+ਗੱਲ੍ਹ	Vango
+ਬੁਝਾਰਤ	Ŝarado
+ਐਸ਼ਵਰਿਆ ਰਾਏ ਬੱਚਨ	Aishwarya Rai
+ਓਹਮ	Omo
+ਜਬਰ-ਜਨਾਹ	Seksatenco
+ਬਾਲਿਕੇਸਿਰ	Provinco Balıkesir
+ਐਨਰੀਕੇ ਇਗਲੇਸੀਆਸ	Enrique Iglesias
+ਆਤਾਕਾਮਾ ਮਾਰੂਥਲ	Atakama-Dezerto
+ਰੋਮਾਂ ਰੋਲਾਂ	Romain Rolland
+ਹੰਗਰੀਆਈ ਫ਼ੋਰਿੰਟ	Hungara forinto
+ਕਾਮਸੂਤਰ	Kamasutro
+ਮਿਲਟਨ ਫ਼ਰੀਡਮੈਨ	Milton Friedman
+ਅਲਾਮਬਰਾ	Alhambro
+ਸਵਾਮੀ ਵਿਵੇਕਾਨੰਦ	Vivekananda
+ਪੌਲ ਡੀਰੈਕ	Paul Dirac
+ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	Gaza-urbo
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਜ਼ਦੂਰ ਦਿਵਸ	Tago de la Laboro
+ਮਾਂ ਦਿਵਸ	Tago de patrinoj
+ਨਾਰਵੇਈ ਸਮੁੰਦਰ	Norvega maro
+ਬਰਫ਼-ਤੋਦਾ	Glacimonto
+ਫ਼ੀਬੋਨਾਚੀ ਤਰਤੀਬ	Fibonaĉi-nombro
+ਨਦੀਨ ਗੋਰਡੀਮਰ	Nadine Gordimer
+ਅੰਡੇਮਾਨ ਸਮੁੰਦਰ	Andamana Maro
+ਵੀਨਸ	Venuso (diino)
+ਲਹੂ ਦੀਆਂ ਕਿਸਮਾਂ	Sangogrupo
+ਕਾਲਾਹਾਰੀ ਮਾਰੂਥਲ	Kalaharo
+ਦ ਗੌਡਫ਼ਾਦਰ	The Godfather
+ਬਰੋਕਲੀ	Brokolo
+ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ 2002	Futbala Mondpokalo 2002
+ਖ਼ਲੀਲ ਜਿਬਰਾਨ	Ĝibran Ĥalil Ĝibran
+ਜੁਆਂਗਜ਼ੀ	Ĝuangzio
+ਮੁਸਲਮਾਨ	Islamano
+ਉੱਤਰਆਧੁਨਿਕਤਾਵਾਦ	Postmodernismo
+ਕਸਾਕ	Kozakoj
+ਪ੍ਰਤਿਭਾ ਪਾਟਿਲ	Pratibha Patil
+ਪੁਦੀਨਾ	Mento
+339	339
+੩੪੦	340
+ਲਖਨਊ	Laknaŭo
+354	354
+੩੫੬	356
+੩੫੮	358
+੩੬੧	361
+363	363
+364	364
+368	368
+੩੬੯	369
+370	370
+੩੭੧	371
+ਫਰਮਾ:ਕਾਮਨਜ਼ ਸ਼੍ਰੇਣੀ	Ŝablono:Commonscat
+੩੭੬	376
+੩੭੭	377
+੩੭੮	378
+383	383
+੩੮੪	384
+੩੮੮	388
+389	389
+੩੯੦	390
+੩੯੧	391
+392	392
+੩੯੩	393
+੩੯੪	394
+੩੯੫	395
+੩੯੬	396
+397	397
+੩੯੮	398
+399	399
+ਜਰਮਨ ਵਿਕੀਪੀਡੀਆ	Germanlingva Vikipedio
+ਬਸਰਾ	Basra
+ਰਾਲਫ ਵਾਲਡੋ ਐਮਰਸਨ	Ralph Waldo Emerson
+ਅਰਨਸਟ ਹੈੱਕਲ	Ernst Haeckel
+ਕੌਮਾਂਤਰੀ ਕੁਦਰਤ ਸੰਭਾਲ਼ ਸੰਘ	Internacia Unio por la Konservo de Naturo
+ਮੇਦੇਯੀਨ	Medeĝino
+ਮਾਰਟਿਨ ਹੈਡੇਗਰ	Martin Heidegger
+ਯੁਰੀਪਿਡੀਜ਼	Eŭripido
+ਯੂਰੀਆ	Ureo
+ਸਦਾਚਾਰ	Moralo
+ਮਾਰੀਆਹਾਮ	Mariehamn
+ਹੀਰਾਗਾਨਾ	Rondaj kanaoj
+ਮੌਰਗਨ ਫ਼ਰੀਮੈਨ	Morgan Freeman
+ਸਲਤਨਤ	Imperio
+ਮਲੱਕਾ ਪਣਜੋੜ	Malaka Markolo
+ਮਹਾਯਾਨ	Mahajano
+ਅੰਮ੍ਰਿਤਸਰ	Amritsar
+ਲੋਥ	Kadavro
+ਸਗਰਾਦਾ ਫ਼ਮੀਲੀਆ	Templo Sankta Familio
+ਸੌਰ ਵਿਆਸ	Suna radiuso
+ਕੁਕਨੂਸ (ਮਿਥਹਾਸ)	Fenikso (birdo)
+ਕਿਊਰੀਆਸਿਟੀ ਬੱਘੀ	Curiosity
+ਅਫ਼ਰੀਕੀ-ਅਮਰੀਕੀ ਨਾਗਰਿਕ ਅਧਿਕਾਰ ਅੰਦੋਲਨ (1954–68)	Afrikusona Civilrajta Movado
+ਰੋਜ਼ੈਟਾ ਪੱਥਰ	Rozeta ŝtono
+ਅਫਾਨਾਸਈ ਨਿਕਿਤੀਨ	Afanasij Nikitin
+ਪੱਛਮੀ ਟਾਪੂ, ਕੋਕੋਸ (ਕੀਲਿੰਗ) ਟਾਪੂ	Okcidenta Insulo (Kokosinsuloj)
+ਛੇ-ਦਿਨਾ ਜੰਗ	Sestaga milito
+ਕਰਿਸਟੋਫਰ ਹਿਚਨਜ਼	Christopher Hitchens
+ਨਿੱਕੀ ਕਹਾਣੀ	Novelo
+ਕੋਲੰਬੀਆ ਯੂਨੀਵਰਸਿਟੀ	Universitato Kolumbio
+279	279
+੪੪੦	440
+ਔਸਕਾਰ ਆਰੀਆਸ	Óscar Arias
+ਜਾਵਾ ਸਾਗਰ	Java Maro
+ਹਿਮ ਯੁੱਗ	Glaciepoko
+ਸੈਰ-ਸਪਾਟਾ	Turismo
+ਕੋਂਸਸਤਾਂਤਿਨ ਸਤਾਨਿਸਲਾਵਸਕੀ	Konstantin Sergejeviĉ Stanislavski
+ਯਾਂ ਦ ਲਾ ਫੋਂਤੈਨ	Jean de La Fontaine
+ਰੂਸੀ ਲੋਕ	Rusoj
+ਇੰਤਰਨਾਸਿਓਨਾਲ	La Internacio (himno)
+ਸਮਾਜਕ ਅੰਦੋਲਨ	Socia movado
+ਫ਼ੌਜੀ ਤਾਨਾਸ਼ਾਹੀ	Militreĝimo
+ਦ ਟਾਈਮਜ਼	The Times
+ਜਾਨ ਸਟੁਅਰਟ ਮਿੱਲ	John Stuart Mill
+ਲਾ ਕੌਮੇਦੀ ਉਮੇਨ	La Homa Komedio
+ਮੈਨਚੈਸਟਰ ਸਿਟੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Manchester City F.C.
+ਕਲਾ ਦਾ ਇਤਿਹਾਸ	Historio de arto
+ਇਤਿਹਾਸਕਾਰੀ	Historiografio
+ਆਕਸਾਈਡ	Oksido
+ਦੋ ਘਾਤੀ ਫੰਕਸ਼ਨ	Kvadrata funkcio
+ਮਿਸੀਸਾਗਾ	Misisogo (Ontario)
+ਯੇਵਗੇਨੀ ਓਨੇਗਿਨ	Eŭgeno Onegin
+ਐਨਟੋਨੀਓ ਸਲੇਰੀ	Antonio Salieri
+ਸਾਂਤਿਆਗੋ ਦੇ ਕਾਲੀ	Santiago de Cali
+ਚੰਦਰਸ਼ੇਖਰ ਸੀਮਾ	Limigo de Chandrasekhar
+ਰਿਚਰਡ ਐਟਨਬਰੋ	Richard Attenborough
+ਅਨਾਤੋਲੀਆ	Anatolio
+ਪਰਬਤ-ਪ੍ਰਵਚਨ	Surmonta Parolado
+ਹਾਮਬੁਰਗਾ ਐੱਸ.ਫ਼ਾਓ.	Hamburger SV
+ਐੱਸ.ਫ਼ਾਓ. ਵੈਰਦਾ ਬਰੇਮਨ	Werder Bremen
+ਇਬੋਲਾ ਵਿਸ਼ਾਣੂ ਰੋਗ	Ebola malsano
+ਗਲੇਸ਼ੀਅਰ ਵਿਗਿਆਨ	Glaciologio
+ਸ਼ੇਖ ਹਸੀਨਾ	Hasina Oaĝed
+ਸ਼੍ਰੇਣੀ:ਹਾਈਡਰੋਕਾਰਬਨ	Kategorio:Hidrokarbidoj
+ਸ਼੍ਰੇਣੀ:ਅਲਕੀਨਾਂ	Kategorio:Alkenoj
+ਫਰਮਾ:ਤੱਤਡੱਬਾ	Ŝablono:Informkesto kemia elemento
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਖਣਿਜ	Ŝablono:Informkesto mineralo
+ਫਰਮਾ:Taxobox	Ŝablono:Taksonomio
+ਏਮਿਲ ਜਤੋਪੇਕ	Emil Zátopek
+ਅਬੇਬੇ ਬਿਕਿਲਾ	Abebe Bikila
+ਇਬੀਸਾ	Ibizo
+ਜੈਸੀ ਓਵਨਜ਼	Jesse Owens
+ਈਥੇਨ	Etano
+ਜਾਂ ਲੁਕ ਗੋਦਾਰ	Jean-Luc Godard
+ਵਿਤੋਰੀਓ ਦੇ ਸੀਕਾ	Vittorio De Sica
+ਟੋਇਓਟਾ	Toyota
+ਖ਼ੂਨ ਦਾਨ	Sangodonaco
+ਡੱਡੂ	Anuro
+ਸ਼੍ਰੇਣੀ:ਸਰਕਾਰ ਦੇ ਰੂਪ	Kategorio:Reĝimoj
+ਕੌਮਾਂਤਰੀ ਮਜ਼ਦੂਰ ਜੱਥੇਬੰਦੀ	Internacia Organizaĵo de Laboro
+ਜਨਰਲ ਇਲੈੱਕਟਰਿਕ	General Electric
+ਕੁਆਂਟਮ ਫੀਲਡ ਥਿਊਰੀ	Kvantuma kampa teorio
+ਬਾਲੈਂਸੀਆ	Valencio (Venezuelo)
+ਸਾਨ ਕ੍ਰਿਸਤੋਬਾਲ ਦੇ ਲਾ ਲਾਗੁਨਾ	La Laguna
+ਸੇਰਗੇਈ ਬੋਂਦਾਰਚੁਕ	Sergej Bondarĉuk
+ਅੱਬਾਸ ਕਿਆਰੋਸਤਾਮੀ	Abbas Kiarostami
+ਜ਼੍ਹੇ (ਸਿਰਿਲਿਕ)	Ĵe (cirila alfabeto)
+ਓਪਰਾ ਵਿਨਫਰੇ	Oprah Winfrey
+ਬੁੰਦੇਲੀ ਭਾਸ਼ਾ	Bundela lingvo
+ਹੌਸਾ ਭਾਸ਼ਾ	Haŭsa lingvo
+ਜੈਕਬ ਜੂਮਾ	Jacob Zuma
+ਅਬਦੁੱਲਾ, ਸਾਊਦੀ ਅਰਬ	Abdulah bin Abdul-Aziz Al Saud
+ਨੂਰੀ ਅਲ-ਮਲੀਕੀ	Nuri al-Maliki
+ਮਾਰਕ ਰੁੱਟ	Mark Rutte
+ਸ਼ੀਜ਼ੀਆਜ਼ੂਆਂਗ	Ŝiĝjaĝŭango
+ਤਾਂਗਸ਼ਾਨ	Tangŝano
+ਐਡਮੰਡ ਹਸਰਲ	Edmund Husserl
+ਪੰਜਾਬੀ ਭਾਸ਼ਾ	Panĝaba lingvo
+ਪਸ਼ਤੋ ਭਾਸ਼ਾ	Paŝtoa lingvo
+ਅਰਬ ਸਮੁੰਦਰ	Araba Maro
+ਬਾਖ਼ਾ ਕਾਲੀਫ਼ੋਰਨੀਆ	Baja California
+ਪ੍ਰਣਾਲੀ	Sistemo
+ਸਰਮਾਇਆ (ਕਿਤਾਬ)	La Kapitalo
+ਸਰਸਵਤੀ ਦੇਵੀ	Sarasvati
+ਸਾਹਿਤ ਆਲੋਚਨਾ	Literatura kritiko
+ਕੋਰਟਨੀ ਕੌਕਸ	Courteney Cox
+ਖੱਸੀਕਰਨ	Kastro
+ਪੈਰਾਗੁਏਵੀ ਜੰਗ	Milito de la Trilanda Alianco
+ਚਰਖਾ	Radŝpinilo
+ਚਿੰਤਕ	Intelektulo
+ਮੈਕਸ ਬੌਰਨ	Max Born
+ਵਿਗਿਆਨ ਦਾ ਦਰਸ਼ਨ	Filozofio de scienco
+ਖੋਰਛੇ ਗੀਯੈਨ	Jorge Guillén
+ਗੁਲਦਾਊਦੀਆਂ ਦਾ ਮੰਡੀਕਰਨ	Krizantemo
+ਹਰਬਰਟ ਮਾਰਕਿਊਜ਼	Herbert Marcuse
+ਫਰੈਡਰਿਕ ਮੈਕਸ ਮੂਲਰ	Max Müller
+ਬੇਰਾਕਰੂਸ	Veracruz
+ਭਾਰਤੀ ਉਪਮਹਾਂਦੀਪ	Hinda subkontinento
+ਹੈਰੋਇਨ	Heroino
+ਯੁਕਾਤਾਨ	Jukatanio
+ਉਲਕਾ ਪਿੰਡ	Meteorŝtono
+ਚਿਹਨ-ਵਿਗਿਆਨ	Semiotiko
+ਚੰਦਰਸ਼ੇਖਰ ਵੈਂਕਟ ਰਾਮਨ	Chandrasekhara Venkata Raman
+ਧਰੁਵੀ ਖੇਤਰ	Polusa regiono
+ਖਵਾਜਾ ਗ਼ੁਲਾਮ ਫ਼ਰੀਦ	Ĥavaja Farid
+ਵਾਲਟਰ ਬੈਂਜਾਮਿਨ	Walter Benjamin
+ਸੋਫੀ ਦੀ ਦੁਨੀਆਂ	La Mondo de Sofia
+ਏਲੀਨੋਰ ਮਾਰਕਸ	Eleanor Marx
+ਚਰਬੀਲਾ ਤਿਜ਼ਾਬ	Grasacido
+ਕੁਰੱਤੁਲਐਨ ਹੈਦਰ	Qurratulain Hyder
+ਇਜੇਵਾਨ	Iĝevano
+ਪੈਲੇਸ ਆਫ਼ ਵੈਸਟਮਿੰਸਟਰ	Palaco de Westminster
+ਯਿਨ ਅਤੇ ਯਾਂਗ	Jino kaj Jango
+ਬਾਰਾਂਕੀਆ	Barankilo
+ਏ ਕ੍ਰਿਸਮਸ ਕੈਰੋਲ	Kristnaska kanto (Dickens)
+ਕਾਰਟੇਜ਼ੀ ਗੁਣਕ ਪ੍ਰਬੰਧ	Kartezia koordinato
+ਲਚਕ (ਭੌਤਿਕ ਵਿਗਿਆਨ)	Elasteco (meĥaniko)
+ਮੌਰੀਆ ਰਾਜਪਾਟ	Maŭrja imperio
+ਦਰਾਮਦ	Importo
+ਆਬਾਦਾਨ	Abadano
+ਬਿਜਲੀ-ਨਿਖੇੜ	Elektrolizo
+ਬਰੂਨੋ ਆਪਿਜ਼	Bruno Apitz
+ਥਿਓਰਮ	Teoremo
+ਖ਼ਲੀਫ਼ਾ	Kalifo
+ਡੌਇੱਚ ਬੈਂਕ	Deutsche Bank
+ਮੋਰੇਲੋਸ	Morelos
+ਜੈਪੁਰ	Ĝajpuro
+ਕਾਨਪੁਰ	Kanpur
+ਇੰਦੌਰ	Indaur
+ਦਮਨ ਅਤੇ ਦਿਉ	Damano kaj Diuo
+ਪਾਂਡੀਚਰੀ	Pondiĉero
+ਫ਼ੂਚੋ	Fuĝoŭo
+ਨੈਥੇਨੀਏਲ ਹਥਾਰਨ	Nathaniel Hawthorne
+ਸਾਇਬੇਰੀਆਈ ਟਾਈਗਰ	Siberia tigro
+ਏਅਰ ਇੰਡੀਆ	Air India
+ਆਦਮ	Adamo (Biblio)
+ਅਪਵਰਤਨ (ਪ੍ਰਕਾਸ਼)	Refrakto
+ਟੋਨੀ ਮੋਰੀਸਨ	Toni Morrison
+ਇਲੀਆ ਕਜ਼ਾਨ	Elia Kazan
+ਤਾਈਯੂਆਨ	Tajuano
+ਡਾਲੀਆਨ	Dalian
+ਅਨਸ਼ਾਨ	Anŝano
+ਫ਼ੁਸ਼ੁਨ	Fuŝuno
+ਪੱਬੀ	Altebenaĵo
+ਪੀਐਰ ਦ ਫ਼ੈਰਮਾ	Pierre de Fermat
+ਐੱਸ. ਸੀ. ਬ੍ਰਾਗਾ	SC Braga
+ਸਪੋਰਤਿੰਗ ਕਲੂਬੇ ਡੀ ਪੁਰਤਗਾਲ	Sporting Clube de Portugal
+ਕਲਾਰਾ ਜ਼ੈਟਕਿਨ	Clara Zetkin
+ਪ੍ਰਤੱਖ ਪ੍ਰਕਾਸ਼	Videbla spektro
+ਚਾਰਲਸ ਬੂਕੋਵਸਕੀ	Charles Bukowski
+ਲੁਡਵਿਗ ਫ਼ਿਊਰਬਾਖ	Ludwig Feuerbach
+ਡਾਪਲਰ ਪ੍ਰਭਾਵ	Efiko de Doppler
+ਕਾਰਲ ਯਾਸਪਸ	Karl Jaspers
+ਈ ਐਫ ਸ਼ੂਮੈਕਰ	Ernst Friedrich Schumacher
+ਸ਼ਤਰੰਜ ਕੇ ਖਿਲਾੜੀ (ਫ਼ਿਲਮ)	Shatranj ke Khilari
+ਅਹਿੰਸਾ	Senperforto
+ਆਰਨਲਡ ਸੌਮਰਫ਼ੈਲਡ	Arnold Sommerfeld
+ਆਲਫ਼ਰਡ ਹਰਮਾਨ ਫ਼੍ਰੀਡ	Alfred Hermann Fried
+ਸ਼ਟੇਫ਼ਾਨ ਸਵਾਈਕ	Stefan Zweig
+ਸਪਾਈਡਰ-ਮੈਨ	Spider-Man
+ਐਂਟੀਬਾਡੀ	Antikorpo
+ਰਸਾਇਣਕ ਪਦਾਰਥ	Kemiaĵo
+ਸਮੁੰਦਰੀ ਵਾਵਰੋਲ਼ਾ	Ciklono
+ਮੋਮਬੱਤੀ	Kandelo
+ਜੁੰਡੀਰਾਜ	Oligarkio
+ਜਾਹਨ ਮਿਲਟਨ	John Milton
+ਗਤੀ (ਭੌਤਿਕ ਵਿਗਿਆਨ)	Movado (fiziko)
+ਫਰੈਂਡਜ਼	Friends
+ਖਸਰਾ	Morbilo
+ਅਰਦਹਾਨ ਸੂਬਾ	Provinco Ardahan
+ਸਾਊਥਹੈਂਪਟਨ	Southampton
+ਸੂਰਜੀ ਪੰਧ	Ekliptiko
+ਸੋਵੀਅਤ ਯੂਨੀਅਨ ਦੀ ਕਮਿਊਨਿਸਟ ਪਾਰਟੀ	Komunista Partio de Sovetunio
+ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ 2014	Futbala Mondpokalo 2014
+ਸਖ਼ਿਨਵਾਲੀ	Cĥinval
+ਗ਼ੁੱਸਾ	Kolero
+ਈਸਿਸ	Iziso
+ਬਰੇਲ	Brajlo
+ਸਾਇਟੋਪਲਾਜ਼ਮ	Citoplasmo
+ਜੇ ਡੀ ਸੇਲਿੰਗਰ	Jerome David Salinger
+ਗ਼ੈਰ-ਸਰਕਾਰੀ ਜੱਥੇਬੰਦੀ	Ne-registara organizaĵo
+ਨਾਈਆਰੀਤ	Nayarit
+ਪੁਐਬਲਾ	Puebla
+ਗੂੜ੍ਹ ਪਦਾਰਥ	Malluma materio
+ਓਮਾਨ ਦੀ ਖਾੜੀ	Golfo de Omano
+ਆਗਵਾਸਕਾਲੀਐਂਤੇਸ	Aguascalientes
+ਮੁਕਤੀਦਾਤਾ ਈਸਾ (ਬੁੱਤ)	Statuo de Kristo Savinto (Rio de Janeiro)
+ਐਮਾ ਗੋਲਡਮਨ	Emma Goldman
+ਵਾਰਾਣਸੀ	Varanasio
+ਈਥਰਨੈੱਟ	Eterreto
+ਅਮਾਸਿਆ ਸੂਬਾ	Provinco Amasya
+ਪ੍ਰਿਜ਼ਨ ਬਰੇਕ	Prison Break
+ਆਗਰੀ ਸੂਬਾ	Provinco Ağrı
+ਤਬਰੀਜ਼	Tabrizo
+ਪ੍ਰਤੀਕ	Simbolo
+ਕੁਆਰ ਗੰਦਲ	Aloo vera
+ਅਭਿਵਿਅੰਜਨਾਵਾਦ	Ekspresionismo
+ਐਮਿਲੀ ਬਰੌਂਟੀ	Emily Brontë
+ਚਿੰਪੈਂਜ਼ੀ	Ĉimpanza genro
+ਇਮਲੀ	Tamarindo (arbo)
+ਉਰਾਲ ਦਰਿਆ	Uralo (rivero)
+ਸਾਕਾਤੇਕਾਸ	Zacatecas
+ਸੈਲੂਲੋਜ਼	Celulozo
+ਏਂਜਲ ਝਰਨਾ	Salto Ángel
+ਲਿਬਰੇਸ਼ਨ ਟਾਈਗਰਜ਼ ਆਫ਼ ਤਾਮਿਲ ਈਲਮ	Tamilaj tigroj
+ਬੰਗਾਲ	Bengalio
+ਬਾਤਮਾਨ ਸੂਬਾ	Provinco Batman
+ਨੈਲੀ ਫਰਟਾਡੋ	Nelly Furtado
+ਅੱਨਾ ਅਖਮਾਤੋਵਾ	Anna Aĥmatova
+ਮੀਰੋਸਲਾਵ ਕਲੋਜ਼	Miroslav Klose
+ਨਿਓਲਾ	Mungotedoj
+ਪਟਨਾ	Patnao
+ਭਾਰਤੀ ਰੁਪਈਆ	Barata rupio
+ਵਾਨ	Provinco Van
+ਆਰਥਰ ਮਿਲਰ	Arthur Miller
+ਸਪੇਨੀ ਸਾਮਰਾਜ	Hispana Imperio
+ਸਪੂਤਨਿਕ-1	Sputnik 1
+ਏਕੀਕ੍ਰਿਤ ਸਰਕਟ	Integra cirkvito
+ਨਿਊਕਲੀ ਭੱਠੀ	Nuklea reakciujo
+ਪਰਲ ਐੱਸ. ਬੱਕ	Pearl S. Buck
+ਤਰਾਸਦੀ	Tragedio
+ਐਪਰਲ ਫੂਲ ਡੇ	Ŝercotago
+ਨਹਿਲਵਾਦ	Neniismo
+ਫ਼ਾਸ	Fez
+ਭੋਪਾਲ	Bhopalo
+ਵਖਿਆਨ-ਕਲਾ	Retoriko
+ਮੋਂਤੇਰੇਈ	Monterejo
+ਜਲ ਚੱਕਰ	Akvocirkulado
+ਹੋਮੀਓਪੈਥੀ	Homeopatio
+ਇੰਜੀਨੀਅਰ	Inĝeniero
+ਉੱਤਰ ਪੱਛਮੀ ਸਮੁੰਦਰੀ ਰਾਹ	Nordokcidenta pasejo
+ਪਾਲੀਮਰ	Polimero
+ਮਾਰਫ਼ੀਨ	Morfino
+ਗੋਹ	Varano
+ਏ. ਟੀ. ਐੱਮ.	Bankaŭtomato
+ਕਾਰਲ ਪੌਪਰ	Karl Popper
+ਇਸ਼ਾਰੀਆ	Dekuma sistemo
+ਫ੍ਰੈਕਟਲ	Fraktalo
+ਅਲਕੀਨ	Alkeno
+ਮੇਜਦੂਨਾਰੋਦਨੀ ਯਾਜ਼ਿਕ	Unua Libro
+ਵਾਲਟ ਵਿਟਮੈਨ	Walt Whitman
+ਐਲਡਸ ਹਕਸਲੇ	Aldous Huxley
+ਸ਼ਾਮ (ਇਲਾਕਾ)	Levantenio
+ਅਕਾਬਾ ਦੀ ਖਾੜੀ	Akaba Golfo
+ਦਾ ਵਿੰਚੀ ਕੋਡ	The Da Vinci Code (romano)
+ਆਜੜੀ	Ŝafisto
+ਮੂਰਾਸਾਕੀ ਸ਼ੀਕੀਬੂ	Murasaki Shikibu
+ਜੀਜ਼ਾ	Gizo
+ਇਖ਼ਨਾਤੁਨ	Aĥnaton
+ਏ. ਐਫ. ਸੀ. ਅਜਾਕਸ	AFC Ajax
+ਯੂਕਰੇਨੀ ਹਰੀਵਨਾ	Ukraina hrivno
+ਜਿਬਰੀਲ	Ĉefanĝelo Gabrielo
+ਚੰਬੇਲੀ	Jasmeno
+ਜੌਨ ਕੀਟਸ	John Keats
+ਜਾਹਨ ਗਾਲਜ਼ਵਰਦੀ	John Galsworthy
+ਕਾ (ਸਿਰਿਲਿਕ)	Ka (cirila alfabeto)
+ਸੈਮੂਅਲ ਟੇਲਰ ਕਾਲਰਿਜ	Samuel Taylor Coleridge
+ਪੇ (ਸਿਰਿਲਿਕ)	Pe (cirila alfabeto)
+ਰਗੜ	Frotado
+ਈ (ਸਿਰਿਲਿਕ)	I (cirila alfabeto)
+ਲਹੂ ਦਾ ਦਬਾਅ	Sangopremo
+ਖੜੀਆ ਮਿੱਟੀ	Gipsoŝtono
+ਇਰਾਨ-ਇਰਾਕ ਯੁੱਧ	Iraka-irana milito
+ਰਿਡਾਕਸ	Redoksa reakcio
+ਠੋਡੀ	Mentono
+ਜੋਜ਼ਿਫ ਕੋਨਰਾਡ	Joseph Conrad
+ਕੋਰਲ ਸਾਗਰ	Korala Maro
+ਸੇਂਟ ਸਾਈਮਨ	Henri de Saint-Simon
+ਕਾਤਾਕਾਨਾ	Strekaj kanaoj
+ਸਿਆਸਤਦਾਨ	Politikisto
+ਹਿੰਦਸਾ	Cifero
+ਆਂਤੋਨੀਓ ਗਰਾਮਸ਼ੀ	Antonio Gramsci
+ਜਨ ਗਣ ਮਨ	Ĝana Gana Mana
+ਤਾਈਪੇ ੧੦੧	Taipei 101
+ਰਸਾਇਣਕ ਫ਼ਾਰਮੂਲਾ	Kemia formulo
+ਪ੍ਰੋਮੀਥੀਅਸ	Prometeo
+ਅਫ਼ਰੀਕੀ ਨੈਸ਼ਨਲ ਕਾਂਗਰਸ	Afrika Nacia Kongreso
+ਸ਼ਰੀਨਿਵਾਸ ਰਾਮਾਨੁਜਨ ਆਇੰਗਰ	Srinivasa Aiyangar Ramanujan
+ਈਸਟ ਇੰਡੀਆ ਕੰਪਨੀ	Brita Orienthinda Kompanio
+ਜਾਇਫਲ	Muskato
+ਜਲਮੰਡਲ	Hidrosfero
+ਰੋਮੀਓ ਜੂਲੀਅਟ	Romeo kaj Julieta
+ਕੈਂਡੇਲਾ	Kandelo (mezurunuo)
+ਜੁਰਮ	Krimo
+ਹਤਾਏ	Provinco Hatay
+ਮੋਸਲ	Mosulo
+ਸ਼ੋਰੇ ਦਾ ਤਿਜ਼ਾਬ	Nitrata acido
+ਗੁਰੂ ਨਾਨਕ ਦੇਵ	Guru Nanak
+ਪਾਮੇਲਾ ਐਂਡਰਸਨ	Pamela Anderson
+ਲੂਈ ਡ ਬਰੌਈ	Louis de Broglie
+ਰੋਬਿਨ ਵਿਲੀਅਮਸ	Robin Williams
+ਬਾਰਤੀਨ ਸੂਬਾ	Provinco Bartın
+ਓਰੀਗਾਮੀ	Origamio
+ਅੰਗੂਠਾ	Dikfingro
+ਸ਼ਾਕਾਹਾਰ	Vegetarismo
+ਐਲੀਨੌਰ ਰੂਜ਼ਵੈਲਟ	Eleanor Roosevelt
+ਸਪਾਰਟਾਕਸ	Spartacus
+ਅਵੈਸਤਾ	Avesto
+ਦ ਮੈਟਰਿਕਸ (ਫਿਲਮ)	The Matrix
+ਬੁੱਧੀ	Intelekto
+ਇਜ਼ਾਬੇਲ ਅਲੈਂਦੇ	Isabel Allende
+ਸਿੱਖ ਸਲਤਨਤ	Sika Imperio
+ਸ਼ਾਹ ਜਹਾਂ	Ŝaho Jahano
+ਸ਼ਿਮਲਾ	Ŝimla
+ਅਲਕਸਬਾ ਆਲਮੇਰੀਆ	Alkazabo de Almerio
+ਅੱਲ੍ਹਾ ਦੇ ਨਾਮ	La Nomoj de Dio en Islamo
+﻿ਸਾਸਾਨੀ ਸਲਤਨਤ	Sasanidoj
+ਫ਼ਰਿਟਜੋਫ਼ ਕਾਪਰਾ	Fritjof Capra
+ਹੱਥਲਿਖਤ	Manuskripto
+ਅਫ਼ਰੀਕੀ ਮਹਾਨ ਝੀਲਾਂ	Afrikaj Grandaj Lagoj
+ਸ਼ਟੈਫ਼ਾਨ ਹੈੱਲ	Stefan Hell
+ਚਾਂਗਚੁਨ	Ĉangĉuno
+ਜਿਲਿਨ	Ĝilino
+ਫਰਮਾ:Cite book	Ŝablono:Citaĵo el libro
+ਐਲਿਸਜ਼ ਅਡਵੈਂਚਰਜ ਇਨ ਵੰਡਰਲੈਂਡ	La aventuroj de Alicio en Mirlando
+ਸੁਭਾਸ਼ ਕਾਕ	Subhash Kak
+ਮਿਲਾਨ ਕੁੰਦਰਾ	Milan Kundera
+ਗਾਇਆ (ਮਿਥਹਾਸ)	Geo
+ਸਲੋਕੀ ਸਲਤਨਤ	Seleŭkio
+ਲੂਈ ਬਰੇਲ	Louis Braille
+ਆਂਡਾ	Kokina ovo
+ਤਲਾਕ	Eksgeedziĝo
+ਗੁਲ ਲਾਲਾ	Tulipo
+ਰਾਵਲਪਿੰਡੀ	Rawalpindi
+ਗਜਿਆਂਤੇਪ	Gaziantep
+ਪਰਸੀ ਬਿਸ਼ ਸ਼ੈਲੇ	Percy Bysshe Shelley
+ਸੇਮਸ ਜਸਟਿਨ ਹੇਨੀ	Seamus Heaney
+ਕ੍ਰਿਸਟੋਫ਼ਰ ਪਾਓਲਿਨੀ	Christopher Paolini
+ਤੀਆਨਾਨਮੇਨ ਚੌਕ ਹੱਤਿਆਕਾਂਡ	Protestoj sur placo Tian An Men
+ਸੁਖੈਨ ਮੌਤ	Eŭtanazio
+ਪਰਿਭਾਸ਼ਾ	Difino
+ਪ੍ਰੋਟੋਜ਼ੋਆ	Protozoo
+ਰਾਸਤਾਫਾਰੀ ਲਹਿਰ	Rastafaria movado
+ਐਸਟਰ	Estero
+ਐਲਡੀਹਾਈਡ	Aldehido
+ਮਰਾਕਿਸ਼	Marakeŝo
+ਮੇਰੀ ਵੁਲਸਟਨਕਰਾਫ਼ਟ	Mary Wollstonecraft
+ਨਦੀਨ	Trudherbo
+ਪਾਵੋ ਨੂਰਮੀ	Paavo Nurmi
+ਬੌਖ਼ੂਸੀਆ ਮੋਨਛੇਨਗਲਾਡਬਾਛ	Borussia Mönchengladbach
+ਅਪਾਚੀ	Apaĉoj
+ਨਿਊਕਲੀਆਨ	Nukleono
+ਵਗਣਹਾਰ	Fluaĵo
+ਅਬਾਜ਼ਾ	Abaza
+ਰਸਾਇਣਕ ਸੰਕੇਤ	Kemia simbolo
+ਹੈਰੀਅਟ ਬੀਚਰ ਸਟੋ	Harriet Beecher Stowe
+ਆਡੀਗੇਸਕ	Adigejsk
+ਅਲੇਸਕ	Alejsk
+ਦੋ-ਅੱਖੀ ਦੂਰਬੀਨ	Binoklo
+ਅਬਦੂਲੀਨੋ	Abdulino
+ਹੈਰਤਾ ਬਰਲਿਨ	Hertha BSC
+ਆਗੀਡੇਲ	Agidel
+ਆਗ੍ਰੀਜ਼	Agriz
+ਰੱਸਾਕਸ਼ੀ	Ŝnurtira lukto
+ਮਧੂ ਮੱਖੀ	Mielabelo
+ਐਵਾਂ ਗਾਰਦ	Avangardo
+ਮੀਸ਼ੇਲ ਵੇਲਬੇਕ	Michel Houellebecq
+ਅਕ-ਡੋਵੂਰਾਕ	Ak-Dovurak
+ਅਕਸੈ	Aksaj
+ਸਾਰਸ (ਰੋਗ)	Netipa pneŭmonio
+ਅਲਾਗਿਰ	Alagir
+ਅਲਾਪਾਏਵਸਕ	Alapajevsk
+ਈਥਰ	Etero (kemio)
+ਅਲਾਟਿਰ	Alatir (urbo)
+ਅਲਦਾਨ	Aldan (urbo)
+ਖ਼ੋਸੇ ਮਾਰਤੀ	José Martí
+ਜੈਨੀਫ਼ਰ ਕੌਨਲੀ	Jennifer Connelly
+ਭੌਂ-ਗੁਲਾਮੀ	Servuteco
+ਅਲੈਗਜ਼ੈਂਡਰੋਵ	Aleksandrov
+ਐਲੈਗਜ਼ੈਂਡ੍ਰੋਵਸਕ	Aleksandrovsk
+ਐਲੈਗਜ਼ੈਂਡ੍ਰੋਵਸਕ-ਸਾਖਾਲਿੰਸਕੀ	Aleksandrovsk-Saĥalinskij
+ਅਲੈਗਜ਼ੈਵਕਾ, ਬੈਲਗੋਰੋਡ	Aleksejevka
+ਅਲੇਕਸਿਨ	Aleksin
+ਅਲਜ਼ਾਮੇ	Alzamaj
+2001: ਅ ਸਪੇਸ ਓਡੀਸੀ (ਫ਼ਿਲਮ)	2001: A Space Odyssey
+ਅਲੇਮੇਤਯੇਵਸਕ	Almetjevsk
+ਅਮੁਰਸਕ	Amursko
+ਅੰਗਾਰਸਕ	Angarsk
+ਐਂਡ੍ਰੀਪੋਲ	Andreapol
+ਪੰਡਿਤ ਰਵੀ ਸ਼ੰਕਰ	Ravi Shankar
+ਮੂਲ ਨਿਵਾਸੀ	Indiĝenaj popoloj
+ਅਖਤੂਬਿੰਸਕ	Aĥtubinsk
+ਅਕਿੰਸਕ	Aĉinsk
+ਯੂਕੋਨ ਦਰਿਆ	Jukono
+ਪੂਰਨਮਾਸ਼ੀ	Plenluno
+ਬਾਈਆ ਲੇਵਾਕੂਜ਼ਨ	Bayer 04 Leverkusen
+੧. ਫੁੱਟਬਾਲ ਕਲੱਬ ਕਲਨ	1. FC Köln
+ਪ੍ਰਕਾਸ਼ ਤੀਬਰਤਾ	Lumintenso
+ਮੁੱਢਲਾ ਮੇਲ-ਜੋਲ	Fundamenta forto
+ਹੁੱਕਾ	Nargileo
+ਬਾਇਰ ਨਾਮ	Nomaro de Bayer
+ਲੇਡੀ ਗੌਡੀਵਾ	Godiva (Damo)
+ਉੱਤਰੀ ਕੋਰੀਆਈ ਵੌਨ	Nordkoreia ŭono
+ਮਾਂਗਨਸ ਕਾਸਨ	Magnus Carlsen
+ਯੂਰੇਨੀਅਮ-ਪਾਰ ਤੱਤ	Transuraniaj elementoj
+ਪਟਸਨ	Juto
+ਅਧਰੰਗ	Paralizo
+ਸੂਬਾ	Subŝtato
+ਭੌਤਿਕ ਮਾਤਰਾ	Fizika grando
+ਵਾਲਮੀਰਾ	Valmiera
+ਕੁੰਦੂਜ਼	Kunduz
+ਸਪਾਰਟਾਕਸ (ਫ਼ਿਲਮ)	Spartacus (filmo)
+ਤੀਰਅੰਦਾਜ਼ੀ	Arkpafado
+ਦ ਗ੍ਰੇਟ ਡਿਕਟੇਟਰ	The Great Dictator
+ਦੋਗਾਣਾ	Dueto
+ਟਾਪੂ ਦੇਸ਼	Landinsulo
+ਹੁਸੈਨ	Ĥusejn ibn Ali
+ਮੈਕਸੀਕੋ ਦੇ ਪ੍ਰਬੰਧਕੀ ਵਿਭਾਗ	Subŝtatoj de Meksiko
+ਰਾਧਾ	Radhao
+ਹਜ਼ਾਰਾ ਲੋਕ	Hazaroj
+ਹੋਪੀ	Hopioj
+ਮਾਦੀਰਾ ਦਰਿਆ	Rivero Madeira
+ਮੌਤ ਦੀ ਘਾਟੀ	Valo de Morto
+ਕਾਲਾ ਦਰਿਆ (ਐਮਾਜ਼ਾਨ)	Río Negro (Amazonio)
+ਹਾਵਰਡ ਜਿਨ	Howard Zinn
+ਗੈਸਟ੍ਰੋਐਂਟਰਾਲੋਜੀ	Gastroenterologio
+ਪੇਰਮੇਤ ਜਿਲਾ	Distrikto Përmet
+ਬਲਖ਼ ਸੂਬਾ	Provinco Balĥ
+ਮਸ਼ਹਦ	Maŝhado
+ਨਰਸਿੰਗ	Flegado
+ਬੁਨਿਆਦੀ ਢਾਂਚਾ	Substrukturo
+ਪ੍ਰੋਫੈਸਰ	Profesoro
+ਸਹਿਜੀਵਨ	Simbiozo
+ਫ਼ਰਾਂਸੀਸੀ ਲੋਕ	Francoj
+ਈਰੋਸ	Eroso
+ਖੁਲੀਓ ਈਗਲੇਸੀਆਸ	Julio Iglesias
+ਰੋਬਿਨ ਹੁੱਡ	Robin Hood
+ਜ਼ਾਈਲਮ	Ksilemo
+ਸਵੀਡਨੀ ਕਰੋਨਾ	Sveda krono
+ਫ਼ੈਲਿਕਸ ਬਲੋਕ	Felix Bloch
+ਹੁਲਦਰਿਚ ਜ਼ਵਿੰਗਲੀ	Zvinglo
+ਮੁਹੰਮਦ ਮੁਸੱਦਕ	Mohamed Mosadek
+ਗਿੱਧ	Vulturo
+ਜੌਂ ਪੀਆਜੇ	Jean Piaget
+ਪੋਲੈਂਡੀ ਜ਼ਵੋਤੀ	Zloto
+ਫਰਾਂਸਿਸ ਕ੍ਰਿਕ	Francis Crick
+ਕੂਕੇਸ ਜ਼ਿਲਾ	Distrikto Kukës
+ਕੁਲੀਨਰਾਜ	Aristokratio
+ਕਾਢ	Invento
+ਕੂਰਬਿਨ ਜ਼ਿਲਾ	Distrikto Kurbin
+ਤਰੋਪੋਜੇ ਜ਼ਿਲਾ	Distrikto Tropojë
+ਐਮੀ ਇਨਾਮ	Premio Emmy
+ਮੁਗਲਾ ਸੂਬਾ	Provinco Muğla
+ਸਟੈੱਪ	Stepo
+ਸਾਪੇਖ ਕਾਂਤੀਮਾਨ	Ŝajna magnitudo
+ਗੰਡੋਇਆ ਖਾਦ	Tervermo
+ਧਰਤੀ ਦਿਵਸ	Tera Tago
+ਹਿੰਸਾ	Violento
+ਤੀਖ਼ਵਾਨਾ	Tijuana
+ਸਲੰਮਡਾਗ ਮਿਲਿਓਨੀਅਰ	Slumdog Millionaire
+ਵਿਕਤੋਰ ਖਾਰਾ	Víctor Jara
+ਐਡਵਰਡ ਝੀਲ	Eduardo (lago)
+ਪੁਐਬਲਾ, ਪੁਐਬਲਾ	Heroica Puebla de Zaragoza
+ਇਗਦੀਰ ਸੂਬਾ	Provinco Iğdır
+ਗਿੱਦੜ	Ŝakalo
+ਐਲਬਰਟ ਝੀਲ (ਅਫ਼ਰੀਕਾ)	Albertlago
+ਕੀਵੂ ਝੀਲ	Kivuo
+ਪੌਣਪਾਣੀ ਤਬਦੀਲੀ	Klimata ŝanĝo
+ਅਲਬਾਨੀਆਈ ਲੇਕ	Albana leko
+ਪੈਂਡਾ	Distanco
+ਇਰਾਨੀ ਇਨਕਲਾਬ	Irana revolucio
+ਵੁਲਵਰਹੈਂਪਟਨ	Wolverhampton
+ਥਾਮਸ ਪੇਨ	Thomas Paine
+ਵਿਸ਼ਵ ਬੈਡਮਿੰਟਨ ਫੈਡਰੇਸ਼ਨ	Monda Federacio de Badmintono
+ਮਿਨਰਵਾ	Minerva
+ਕਾਰਸ	Kars
+ਕੈ	Vomado
+ਲੋਲਿਤਾ	Lolita (romano)
+ਫ਼ਰੈਂਕ ਜ਼ਾਪਾ	Frank Zappa
+ਸ਼ਾਰਲਟ ਬਰੌਂਟੇ	Charlotte Brontë
+ਸਿਆਹੀ	Inko
+ਆਲੀਆਂਸ ਆਰੇਨਾ	Allianz Arena
+ਵੈਕਿਊਲ	Vakuolo
+ਮੋਤੀਆਬਿੰਦ	Katarakto
+ਅਮਰੀਕਾ ਦੀ ਆਜ਼ਾਦੀ ਦੀ ਘੋਸ਼ਣਾ	Usona Deklaro de Sendependeco
+ਆਤਿਸ਼ਬਾਜ਼ੀ	Artfajraĵo
+ਸੂਖਮ ਛੱਲ	Mikroondoj
+ਜਿਓਰਜਿਓ ਵਾਸਾਰੀ	Giorgio Vasari
+ਅਮੂਰਤ ਕਲਾ	Abstraktismo
+ਲੇਵੀ ਸਤਰੋਸ	Claude Lévi-Strauss
+ਸਰਬ ਅਧਿਕਾਰਵਾਦ	Totalismo
+ਕਿਊਬਾਈ ਮਿਜ਼ਾਈਲ ਸੰਕਟ	Kariba krizo
+ਅਗਾਮੈਮਨੌਨ	Agamemno
+ਮੁਹੰਮਦ ਰਜ਼ਾ ਪਹਿਲਵੀ	Mohamed Reza Pahlavi
+ਐੱਫ਼. ਸੀ. ਪੋਰਤੋ	FC Porto
+ਛਾਰਲ ਪੇਰੋ	Charles Perrault
+ਗ੍ਰਾਹਮ ਗ੍ਰੀਨ	Graham Greene (verkisto)
+ਛਾਤੀ ਦਾ ਕੈਂਸਰ	Mama kancero
+ਲੇਸ	Viskozeco
+ਵਿਅੰਗ	Satiro
+ਸਟਾਨਿਸਲਾਓ ਕੈਨਿਜਾਰੋ	Stanislao Cannizzaro
+ਅਰਾਫ਼ੁਰਾ ਸਮੁੰਦਰ	Arafura Maro
+ਦੇਲੀ ਬਲਿੰਦ	Daley Blind
+ਬਾਇਓ ਬਾਲਣ	Biobrulaĵo
+ਭੁਪਾਲ ਗੈਸ ਕਾਂਡ	Bhopala tragedio
+ਭਾਰਤ ਦੀ ਵੰਡ	Dispartigo de Hindio
+ਲਾਰਵਾ	Larvo
+ਬਰਤਾਨਵੀ ਰਾਜ	Brita Hindio
+ਹੀਊ ਜੈਕਮੈਨ	Hugh Jackman
+ਭਾਰਤ ਦਾ ਪਹਿਲਾ ਆਜ਼ਾਦੀ ਸੰਗਰਾਮ	Ribelo de sipajoj
+ਅਤਲਸ ਪਹਾੜ	Atlasa Montaro
+ਲੰਡਨ ਬ੍ਰਿਜ	Ponto de Londono
+ਮੈਕਬਥ	Makbeto
+ਬਾਰਟੋਲੋਮੀਉ ਡਿਆਸ	Bartolomeu Dias
+ਮਜ਼ਾਰ-ਏ-ਸ਼ਰੀਫ਼	Mazar-i Ŝarif
+ਅਰਮੀਨੀਆਈ ਦਰਾਮ	Armena dramo
+ਲਕਸਰ	Luksoro
+ਹੀਅਰੋਨੀਮਸ ਬੌਸ਼	Hieronymus Bosch
+ਜਾਕ ਦੇਰੀਦਾ	Jacques Derrida
+ਬੀਂਡਾ	Cikadedoj
+ਡੀਜੇ	Diskĵokeo
+ਮਾਨਾਕੇਮ ਬੇਗਿਨ	Menaĥem Begin
+ਈਡੀਪਸ	Edipo
+ਗਲਫ਼ ਸਟ੍ਰੀਮ	Golfa Marfluo
+ਡੇਲੀਆ	Dalio
+ਓਕੈਮ ਦਾ ਪਤੱਰਾ	Razilo de Ockham
+ਪ੍ਰਤੱਖਵਾਦ	Pozitivismo
+ਚੈੱਕ ਕੋਰੂਨਾ	Ĉeĥa krono
+ਪਾਲ ਕਰੂਗਮੈਨ	Paul Krugman
+ਐਨਾ ਕੋਰਨੀਕੋਵਾ	Anna Kurnikova
+ਹੈਨਰੀ ਡੇਵਿਡ ਥੋਰੋ	Henry David Thoreau
+ਵੈਲਡਿੰਗ	Veldado
+ਕੈਬਰੇ	Kabaredo
+ਪ੍ਰੋਪੇਨ	Propano
+ਹਰਡ ਟਾਪੂ ਅਤੇ ਮੈਕਡਾਨਲਡ ਟਾਪੂ	Insulo Herdo kaj insuloj Makdonaldaj
+ਪਾਏਦਾਰ ਵਿਕਾਸ	Daŭripova disvolviĝo
+ਥਾਈਲੈਂਡ ਦੀ ਖਾੜੀ	Golfo de Tajlando
+ਦੱਖਣੀ ਤਰਾਵਾ	Bairikio
+ਕਾਰਲ ਲੂਈਸ	Carl Lewis
+ਸ਼ਿਕਾਗੋ ਯੂਨੀਵਰਸਿਟੀ	Universitato de Ĉikago
+ਬੌਧਿਕ ਸੰਪਤੀ	Intelekta propraĵo
+ਬੋਫ਼ੋਰ ਸਮੁੰਦਰ	Beaufort-maro
+ਰਵਾਂਡਾਈ ਨਸਲਕੁਸ਼ੀ	Ruanda genocido
+ਹਿਮਸ	Homs
+ਇਜ਼ਰਾਇਲੀ ਨਵਾਂ ਸ਼ੇਕਲ	Nova israela siklo
+ਜਾਰਜ ਐਲੀਅਟ	George Eliot
+ਪੰਡੋਰਾ	Pandora
+ਨਿਸ਼ਾਪੁਰ	Nejŝaburo
+ਨਮੀਬ ਮਾਰੂਥਲ	Namibo
+ਮੁਸ ਪ੍ਰਾਂਤ	Provinco Muş
+ਸੰਵਾਦ	Dialogo
+ਖ਼ਿਲਾਫ਼ਤ	Kalifujo
+ਤਿਮੋਰ ਸਮੁੰਦਰ	Timora Maro
+ਆਈਸਲੈਂਡੀ ਕਰੋਨਾ	Islanda krono
+ਸਿਰਨਾਕ	Şırnak
+ਐੱਸ. ਐੱਲ. ਬੇਨਫ਼ੀਕਾ	SL Benfica
+ਕਿਸਾਨ	Terkultivisto
+ਬਾਲ ਸਾਹਿਤ	Porinfana literaturo
+ਭਾਰਤੀ ਸੂਬੇ ਅਤੇ ਕੇਂਦਰੀ ਸ਼ਾਸ਼ਤ ਪ੍ਰਦੇਸ	Ŝtatoj de Barato
+ਸੁਲ੍ਹਾਨਾਮਾ	Traktato
+ਰੋਮਾਨੀਆਈ ਲਿਊ	Rumana leo
+ਧਨਾਢਰਾਜ	Plutokratio
+ਦ ਪ੍ਰਿੰਸ	La Princo
+ਬਿਟਕੌਇਨ	Bitmono
+ਹੈਪਾਟਾਈਟਸ	Hepatito
+ਮਹੱਤਮ ਸਾਂਝਾ ਭਾਜਕ	Plej granda komuna divizoro
+ਚੀਨੀ ਨਵਾਂ ਸਾਲ	Ĉina novjara festo
+ਵਹਿਰਾਨ	Orano
+ਵਿਚਾਰ	Ideo
+ਆਸਟਰੀਆਈ ਸਲਤਨਤ	Aŭstra imperio
+ਚਾਬੀ	Ŝlosilo
+ਕਾਲ਼ੀ ਮਾਤਾ	Kalio (diino)
+ਮਨੋਕਥਾ	Fantasto
+ਆਯੁਰਵੇਦ	Ajurvedo
+ਵਿਕਸਿਤ ਦੇਸ਼	Industrilando
+ਫਰਮਾ ਦੀ ਆਖਰੀ ਥਿਓਰਮ	Lasta teoremo de Fermat
+ਅਮਰਤਿਆ ਸੇਨ	Amartya Sen
+ਪਰੋਲਤਾਰੀਆ	Proleto
+ਜੀਰਾ	Kumino
+ਨਾਰਵੇਈ ਕਰੋਨਾ	Norvega krono
+ਬਾਖ਼ਤਰ	Baktrio
+ਜਮਨਾ ਦਰਿਆ	Jamuna
+ਅਰਬੀਲ	Arbil
+ਥਾਮਸ ਹਾਰਡੀ	Thomas Hardy
+ਕੈਲੀਫ਼ੋਰਨੀਆ ਦੀ ਖਾੜੀ	Kalifornia Golfo
+ਦੌਆਲਾ	Dualao
+ਗਰੀਨਲੈਂਡ ਸਮੁੰਦਰ	Gronlanda Maro
+ਓਲੰਪੀਕ ਡ ਮਾਰਸੇਈ	Olympique de Marseille
+ਬੁਸ਼ਹਿਰ ਸੂਬਾ	Provinco Buŝehr
+ਤਕਲਾਮਕਾਨ ਮਾਰੂਥਲ	Taklamakano
+ਉਪ-ਸਹਾਰਵੀ ਅਫ਼ਰੀਕਾ	Afriko sude de Saharo
+ਵਲਾਦੀਮੀਰ ਮਾਇਕੋਵਸਕੀ	Vladimir Majakovskij
+ਸ਼ੋਥਾ ਰੁਸਥਾਵੇਲੀ	Ŝota Rustaveli
+ਯੋਮ ਕੀਪੂਰ	Jom Kippur
+ਡਾਇਆਸਪੋਰਾ	Diasporo
+ਲਾਤਵੀਆਈ ਲਾਤਸ	Latva lato
+ਸਿਲਵੀਆ ਪਲੈਥ	Sylvia Plath
+ਲੱਤ	Kruro
+ਪੈਰਿਸ ਕਮਿਊਨ	Pariza Komunumo (1871)
+ਭਾਰਤ ਦਾ ਇਤਿਹਾਸ	Historio de Barato
+ਵਹਿਮ-ਭਰਮ	Superstiĉo
+ਸਕੁਐਸ਼ (ਖੇਡ)	Skvaŝo
+ਮੁਸਲਿਮ ਬ੍ਰਦਰਹੁੱਡ	Islama Frataro
+ਢੂੰਹੀ	Dorso
+ਕਬੀਲਾ	Tribo
+ਸ਼ੈਤਾਨੀ ਧਰਮ	Satanismo
+ਸੇਪੂਕੂ	Seppuku
+ਰਾਬਾਈ	Rabeno
+ਅਲਤਾਮਿਰਾ ਦੇ ਗੁਫਾ	Kaverno Altamira
+ਨੰਗਬੀਜੀ ਬੂਟਾ	Nudsemplantoj
+ਪਲੇਗ (ਰੋਗ)	Pesto
+ਧਰਤ-ਗੋਲ਼ਾ	Globuso
+ਸ਼ਾਹਮੁਖੀ ਲਿਪੀ	Ŝahmuĥi-ortografio
+ਪੌਪ ਕਲਾ	Poparto
+ਬਿਊਟੇਨ	Butano (kemio)
+ਪੋਲੋ	Poloo
+ਵਰਗ ਮੂਲ	Kvadrata radiko
+ਫੇਨੂਰਡ	Feyenoord
+ਕੁਰਦਿਸਤਾਨ ਸੂਬਾ	Provinco Kurdistan
+ਮਰਕਜ਼ੀ ਸੂਬਾ	Provinco Markazi
+ਬੋਰ ਸਈਦ	Port Said
+ਲਿਪਾਂਤਰਨ	Transliterumo
+ਸੇਂਟ ਲਾਰੰਸ ਦਰਿਆ	Sankt-Laŭrenco (rivero)
+ਪਿਤਾ ਦਿਵਸ	Tago de patro
+ਕਾਰਬੌਕਸਿਲੀ ਤਿਜ਼ਾਬ	Karboksilata acido
+ਸ਼ੈਮਪੇਨ	Ĉampano
+ਖਾਵੀਏਰ ਬਾਰਦੇਮ	Javier Bardem
+ਤਾਰਾਸ ਸ਼ੇਵਚੈਨਕੋ	Taras Ŝevĉenko
+ਭਾਰਤ ਦੀਆਂ ਬੋਲੀਆਂ	Lingvoj de Barato
+ਏਰਜਿੰਕਾਨ	Erzincan
+ਜਰਮੀਨਲ (ਨਾਵਲ)	Germinal
+ਬੋਲਸ਼ੋਈ ਥੀਏਟਰ ਮਾਸਕੋ	Bolŝoj-Teatro
+ਜੌਨ ਡਨ	John Donne
+ਕਾਚੀਨ ਸੂਬਾ	Kaĉino
+ਅਲੈਕਸੀ ਦ ਤੋਕੂਵੀਲ	Alexis de Tocqueville
+ਐਡਵਰਡ ਬੀ ਟਾਇਲਰ	Edward Tylor
+ਖੁੱਲ੍ਹੀ ਕਵਿਤਾ	Libera verso
+ਜੁਲੀਅਸ ਫਿਊਚਕ	Julius Fučík (ĵurnalisto)
+ਅਰਬ ਜਗਤ	Araba mondo
+ਰੱਬ ਦਾ ਰਾਜ ਤੁਹਾਡੇ ਅੰਦਰ ਹੈ	La Regno de Dio estas ene de vi
+ਛਾਪਾਖ਼ਾਨਾ	Presmaŝino
+ਕਪਤਾਨ ਦੀ ਧੀ	La filino de la kapitano
+ਮਹਾਨ ਵਿਕਟੋਰੀਆ ਮਾਰੂਥਲ	Granda Viktoria-Dezerto
+ਸਾਰਕ	Sud-Azia Unuiĝo por Regiona Kunlaboro
+ਮੀਰੀਆਮ ਮਾਕੇਬਾ	Miriam Makeba
+ਡੋਮੇਨ (ਜੀਵ-ਵਿਗਿਆਨ)	Domajno (biologio)
+ਅਪਰਾਧਿਕ ਕਾਨੂੰਨ	Puna juro
+ਜ਼ਨਜਾਨ ਸੂਬਾ	Provinco Zanĝan
+ਕੁਬਤੀ ਲੋਕ	Koptoj
+ਸਹਿ ਧੁਨੀ	Alofono
+ਮਨਿਸਾ	Manisa
+ਕਾਜੋਲ	Kajol
+ਸ਼ੰਖਪੁਸ਼ਪੀ	Konvolvulo
+ਜਾਦੂਈ ਯਥਾਰਥਵਾਦ	Magia realismo
+ਬੋਧ ਵਿਗਿਆਨ	Kognoscienco
+ਲਿਵਰ ਸਿਰੋਸਿਸ	Cirozo
+ਅੰਨਾ ਕਾਰੇਨੀਨਾ	Anna Karenina
+ਜ਼ਾਰੀਆ	Zaria
+ਸੁਬਰਾਮਨੀਅਮ ਚੰਦਰਸ਼ੇਖਰ	Subrahmanyan Chandrasekhar
+ਓਸ਼ੋ	Oŝo
+ਲਾਜਵੰਤੀ	Sensitivo
+ਰਾਜਾ ਈਡੀਪਸ	Reĝo Edipo
+ਜ਼ਿਲ੍ਹਾ	Distrikto
+ਕੈਲਕੂਲਸ	Kalkulo
+ਬਾਕਸਰ ਬਗ਼ਾਵਤ	Boksista ribelo
+ਫ਼ਲੋਰਸ ਸਾਗਰ	Floresa Maro
+ਜ਼ੀਲੈਂਡੀਆ (ਮਹਾਂਦੀਪ)	Zelandio
+ਅਲੈਗਜ਼ੈਂਡਰ ਦੁਬਚੇਕ	Alexander Dubček
+ਫਰੈਂਕਨਸਟਾਇਨ	Frankenŝtejno
+ਜਾਨ ਬੋਨ ਜੋਵੀ	Jon Bon Jovi
+ਆਂਦਰੇ ਮਾਲਰੋ	André Malraux
+ਸਫਿੰਕਸ	Sfinkso (greka mitologio)
+ਗਿਉਰਗੀ ਲੂਕਾਚ	György Lukács
+ਸੰਕਲਪ	Koncepto
+ਰੂਆ	Ruhr-regiono
+ਡੈੱਨਮਾਰਕ ਪਣਜੋੜ	Dania Markolo
+ਹੰਬੋਲਟ ਬਰਲਿਨ ਯੂਨੀਵਰਸਿਟੀ	Humboldt-Universitato en Berlino
+ਪਾਲ ਇਲਯਾਰ	Paul Éluard
+ਬੈਟਲਸ਼ਿਪ ਪੋਤੇਮਕਿਨ	Kirasŝipo Potjomkin
+ਜੋਆਨ ਮੀਰੋ	Joan Miró
+ਅਲਫਰੈਡ ਐਡਲਰ	Alfred Adler
+ਪਾਕੋ ਦੇ ਲੂਸੀਆ	Paco de Lucía
+ਮਾਰਟਿਨ ਨੀਮੋਲਰ	Martin Niemöller
+ਆਲੂ ਖਾਣੇ	La terpommanĝantoj
+ਲੀਓਪੋਲਡ ਸੈਨਘੋਰ	Léopold Sédar Senghor
+ਕਾਰਲੋਸ ਫਿਊਨਤੇਸ	Carlos Fuentes
+ਲੈਨਿਨਵਾਦ	Leninismo
+ਰੋਹਤਾਸ ਕਿਲ੍ਹਾ	Fortikaĵo de Rothas
+ਕੁਲਡਿਗਾ	Kuldīga
+ਕਾਰਲ ਚਾਪੇਕ	Karel Čapek
+ਜਾਰਜ ਫ੍ਰਾਸਟ ਕੇਨੰਨ	George F. Kennan
+ਤਕਸ਼ਿਲਾ	Taksila
+ਰੋਮਨ ਜੈਕਬਸਨ	Roman Jakobson
+ਕਥਾਰਸਿਸ	Katarso
+ਧਰਤੀ ਦਾ ਇਤਿਹਾਸ	Terhistorio
+ਕਾਰਨ ਵਿਗਿਆਨ	Etiologio
+ਚੁਲਾਈ	Amaranto
+ਸਰਵੇਪੱਲੀ ਰਾਧਾਕ੍ਰਿਸ਼ਣਨ	Sarvepalli Radhakrishnan
+ਕਲੀਸ਼ੇ	Kliŝo
+ਸਆਦਤ ਹਸਨ ਮੰਟੋ	Saadat Hasan Manto
+ਤਾਰਾਮੀਰਾ	Kultiva eruko
+ਟੀਕ	Granda tektono
+ਸੈਮੂਅਲ ਹੈਨੇਮੈਨ	Samuel Hahnemann
+ਨਿਕੋਬਾਰ ਟਾਪੂ	Nikobaroj
+ਸ਼ਗਨ	Fianĉiĝo
+ਸੂਰਜਮੁਖੀ ਦੇ ਫੁੱਲ (ਪੇਂਟਿੰਗ ਸੀਰੀਜ਼)	La sunfloroj
+ਜ਼ਿਗਮੁੰਤ ਬਾਓਮਨ	Zygmunt Bauman
+ਦੇਜਾ ਵੂ	Déjà vu
+ਗਵਾਲੀਅਰ	Gvalior
+ਵਲੋਰੇ ਜ਼ਿਲਾ	Distrikto Vlorë
+ਅਫ਼ਗ਼ਾਨਿਸਤਾਨ ਦੇ ਸੂਬੇ	Provincoj de Afganio
+ਸਪੋਟੇਸੀ	Sapotacoj
+ਫ਼ਿਲਪੀਨ ਸਾਗਰ	Filipina Maro
+ਅਲਕਾਈਨ	Alkino
+ਜਣਨ ਇੰਜੀਨੀਅਰੀ	Gentekniko
+ਚੁਕਚੀ ਸਮੁੰਦਰ	Ĉukĉa Maro
+ਸੋਸ਼ਲਿਸਟ ਇੰਟਰਨੈਸ਼ਨਲ	Socialista Internacio
+ਖੁਰਾਕ ਲੜੀ	Manĝoĉeno
+ਅਜਮਾਨ	Aĵmano
+ਪਾਨ	Betelo
+ਸਾਜ਼ਿਸ਼ ਪ੍ਰਸਤਾਵ	Konspira teorio
+ਅੰਨਪੂਰਨਾ	Anapurno
+ਪੂਰਨ ਚਮਕ	Absoluta magnitudo
+ਕਾਲਾ ਮੋਤੀਆ	Glaŭkomo
+ਮੌਨਾ ਲੋਆ	Mauna Loa
+ਅਰਥਚਾਰਾ	Ekonomio
+ਉਲੰਪਿਕ ਖੇਡਾਂ	Someraj Olimpikoj
+ਕਾਮ ਨੋਊ	Camp Nou
+ਫ਼ਤਿਹ ਕੁਸਤੁਨਤੁਨੀਆ	Sieĝo de Konstantinopolo
+ਮੈਨ ਬੁੱਕਰ ਇਨਾਮ	Premio Booker
+ਮੈਦਾਨ	Ebenaĵo
+ਪਰਾਦੋ ਅਜਾਇਬ-ਘਰ	Prado-Muzeo
+ਬਾਲ ਪੈੱਨ	Globkrajono
+ਧਰਤ ਘੰਟਾ	Horo por la Tero
+ਡੇਵਿਡ ਰਿਕਾਰਡੋ	David Ricardo
+ਦਮਾਮ	Dammam
+ਬੋਧ	Percepto
+ਮੁਹੰਮਦ ਅਲੀ ਜਿੰਨਾਹ	Muhammad Ali Jinnah
+ਰੋਜ਼ੇ ਗਾਰੋਦੀ	Roger Garaudy
+ਲੰਡਨ ਆਈ	Londona Okulo
+ਬੈਲਾਰੂਸੀ ਰੂਬਲ	Belarusa rublo
+ਸ਼ਹਿਰੀਕਰਨ	Urbanizado
+ਦਾਰਦਿਕ ਭਾਸ਼ਾਵਾਂ	Darda lingvaro
+ਪਛਾਣ-ਸ਼ਬਦ	Pasvorto
+ਸਮਾਜਕ ਮਨੋਵਿਗਿਆਨ	Socia psikologio
+ਜਿਬਗਨਿਉ ਹਰਬਰਟ	Zbigniew Herbert
+ਕ੍ਰੈਡਿਟ ਕਾਰਡ	Kreditkarto
+ਟੂੰਮਾਂ	Juvelarto
+ਜੰਗ ਤੇ ਅਮਨ	Milito kaj paco
+ਪੈਤਰਿਸ ਲਮੂੰਬਾ	Patrice Lumumba
+ਪਾਮੀਰ ਪਹਾੜ	Pamiro
+ਐਡਵਰਡ ਗਿਬਨ	Edward Gibbon
+ਗਰੇਟ ਬ੍ਰਿਟੇਨ ਦੀ ਸੰਯੁਕਤ ਰਾਜਸ਼ਾਹੀ	Reĝlando de Granda Britio
+ਡੇਕ	Bida melio
+ਅਲਾਹਾਬਾਦ	Allahabad
+ਦੇਹਰਾ	Maŭzoleo
+ਮਾਸਾਈ ਲੋਕ	Masajoj
+ਪ੍ਰਸਰਣ (ਵਿਗਿਆਨ)	Difuzo
+ਸੋਨੀਆ ਗਾਂਧੀ	Sonia Gandhi
+ਬਲੋਚਿਸਤਾਨ (ਪਾਕਿਸਤਾਨ)	Baluĉistano (Pakistano)
+ਅਜਨਬੀ (ਨਾਵਲ)	La fremdulo
+ਐਜ਼ਰਾ ਪਾਊਂਡ	Ezra Pound
+ਪੂਰਬੀ ਸਾਈਬੇਰੀਆਈ ਸਮੁੰਦਰ	Orientsiberia Maro
+ਡੀ.ਡੀ.ਟੀ.	DDT
+ਮਲੇਸ਼ੀਆਈ ਰਿਙਿਤ	Malajzia ringito
+ਜੂਜੁਤਸੂ	Ĵuĵicuo
+ਸਿਲੀਕਾਨ ਘਾਟੀ	Silicon Valley
+ਦ ਡਾਰਕ ਨਾਈਟ	The Dark Knight
+ਕਮਿਊਨਿਸਟ ਇੰਟਰਨੈਸ਼ਨਲ	Tria Internacio
+ਅਲੈਗਜ਼ੈਂਡਰ ਪੋਪ	Alexander Pope
+ਤੀਆਨਾਨਮੇਨ ਚੌਕ	Placo Tian An Men
+ਅ ਬਿਊਟੀਫ਼ੁਲ ਮਾਈਂਡ	A Beautiful Mind (filmo)
+ਫ਼ੰਕ	Funko
+ਖੱਬੇ-ਪੱਖੀ ਰਾਜਨੀਤੀ	Politika maldekstro
+ਦ ਵਾਲ ਸਟਰੀਟ ਜਰਨਲ	The Wall Street Journal
+ਅਲੈਗਜ਼ੈਂਡਰ ਬਲੋਕ	Aleksandro Blok
+ਪਾਓਲੋ ਫਰੇਰੇ	Paulo Freire
+ਓਲੀਵਰ ਟਵਿਸਟ	Oliver Twist
+ਕਾਰਲ ਸ਼ਪਿਟਸਵੇਕ	Carl Spitzweg
+ਬੈਕਟੀਰਿਓਫੇਜ਼	Bakteriofago
+ਗ੍ਰੀਨਹਾਊਸ	Forcejo
+ਮੋਜ਼ੈਂਬੀਕ ਨਹਿਰ	Mozambika Kanalo
+ਯੂਕਾਤਾਨ	Mérida (Meksiko)
+ਯਾਕ ਪਰੇਵੈਰ	Jacques Prévert
+ਅਪਰਾਧ ਅਤੇ ਦੰਡ	Krimo kaj puno
+ਕਾਗਜ਼ੀ ਨਿੰਬੂ	Limeujo
+ਬਾਈਕੋਨੂਰ	Bajkonur
+ਧੌਲਾਗਿਰੀ	Dhaulagiri
+ਤਿਕਰੀਤ	Tikrit
+ਅਜ਼ਾਨ	Azano
+ਜੈਵਿਕ ਖੇਤੀ	Ekologia agrikulturo
+ਬਰਤਾਨਵੀ ਅੰਟਾਰਕਟਿਕ ਰਾਜਖੇਤਰ	Brita Antarkta Teritorio
+ਸੇਵਿੰਗ ਪ੍ਰਾਈਵੇਟ ਰਾਇਨ	Saving Private Ryan
+ਰੰਗਾਵਲ	Prismo (optiko)
+ਦ ਵਾਸ਼ਿੰਗਟਨ ਪੋਸਟ	The Washington Post
+ਵਿਸ਼ਵ ਪੁਸਤਕ ਦਿਵਸ	Monda Tago de la Libro
+ਕਾਮੀਲੋ ਬੈਨਸੋ, ਕਾਵੂਰ ਦਾ ਕਾਊਂਟ	Camillo Benso di Cavour
+ਘੜਮੱਸ ਸਿਧਾਂਤ	Teorio de kaoso
+ਡੋਪਿੰਗ (ਖੇਡਾਂ)	Dopado
+ਅਮੀਰ (ਪਦਵੀ)	Emiro
+ਡੇਲਵਾਇਨ ਜ਼ਿਲਾ	Distrikto Delvinë
+ਸ਼ਤ ਅਲ-ਅਰਬ	Ŝatt al-Arab
+ਜ਼ਾਗਰਸ ਪਹਾੜ	Zagros-montaro
+ਬਾਰਬੀ	Pupo Barbie
+ਨੂਰਿਸਤਾਨ ਸੂਬਾ	Provinco Nuristano
+ਵਿਜੈਨਗਰ ਸਾਮਰਾਜ	Viĝajanagara imperio
+ਤੀਰੂਵੰਥਪੁਰਮ	Thiruvananthapuram
+ਵਿਲੀਅਮ ਮੇਕਪੀਸ ਥੈਕਰੇ	William Makepeace Thackeray
+ਆਰਥੋਪਟੇਰਾ	Ortopteroj
+ਬੁਰਕਾ	Burĥo
+ਗਿੱਟਾ	Maleolo
+ਸਵੇਜ਼ ਦੀ ਖਾੜੀ	Sueza Golfo
+ਡੱਡੀ	Ranido
+ਹਰਜੀਸਾ	Hargejso
+ਗੁੱਡੀ	Pupo (ludilo)
+ਰੌਬਰਟ ਫ਼ਰੌਸਟ	Robert Frost
+ਕੈਲੀਫ਼ੋਰਨੀਆ ਯੂਨੀਵਰਸਿਟੀ, ਬਰਕਲੇ	Universitato de Kalifornio ĉe Berkeley
+ਇਸਕੀ ਸ਼ਹਿਰ	Eskişehir
+ਪੰਜਾਬ ਖੇਤਰ	Panĝabio
+ਵਿਤਕਰਾ	Diskriminacio
+ਮੂਰ	Maŭroj
+ਹਾਈਡਰੋਜਨ ਜੋੜ	Hidrogena ligo
+ਰਲਾਵਟ	Miksaĵo
+ਮਾਇਲੇੱਟਸ	Mileto (Malgrandazio)
+ਸੇਂਟ ਲਾਰੰਸ ਦੀ ਖਾੜੀ	Sankt-Laŭrenca Golfo
+ਯਾਕ ਲਾਕਾਂ	Jacques Lacan
+ਦੱਖਣੀ ਪਠਾਰ	Dekkana Altebenaĵo
+ਦਾਰਜੀਲਿੰਗ	Darĝiling
+ਗਣਿਤਕ ਲੜੀ	Aritmetika vico
+ਰਾਸ ਅਲ-ਖ਼ੈਮਾ	Ras-al-Ĥajmo
+ਸ੍ਰੀਨਗਰ	Srinagaro
+ਮਹਾਂਸੰਘ	Konfederacio
+ਟਰਾਈਨਾਈਟਰੋਟੌਲਵੀਨ	TNT
+ਬੋਰਿਸ ਗੋਦੂਨੋਵ	Boris Godunov
+ਅਬਸਿਨਤੀਨ	Absinttrinkaĵo
+ਟਾਰਜ਼ਨ	Tarzano
+ਚੀਨਾਨ	Ĝinano
+ਸ਼ੇਖ ਸਾਦੀ	Mosleh-od-din Sadio
+ਜਲਗਾਹਾਂ	Malsekejo
+ਕਿੰਗਦਾਓ	Cindao
+ਸਰੈਬਰੇਨੀਤਸਾ ਕਤਲਾਮ	Masakro de Srebrenico
+ਅਹਵਾਜ਼	Ahvazo
+ਲੈਅ	Ritmo (muziko)
+ਕਿਰਿਆਸ਼ੀਲ ਸਮੂਹ	Funkcia grupo
+ਬਾਲਕਨ ਪਹਾੜ	Balkana montaro
+ਸ਼ਿਕਾਰਖ਼ੋਰੀ	Predado
+ਐਦਿਨ	Aydın
+ਨਿੰਮ	Hinda azadiraĥto
+ਪੈਰੋਡੀ	Parodio
+ਯਜ਼ਦ ਸੂਬਾ	Provinco Jazd
+ਕੋਲਾਜ	Kolaĝo
+ਸਿਰਜਣਸ਼ੀਲਤਾ	Krepovo
+ਸਾਂਤਾ ਕਰੂਸ, ਬੋਲੀਵੀਆ	Santa Cruz de la Sierra
+ਕੀਟੋਨ	Ketono
+ਕਰਾਮਾਤ	Miraklo
+ਆਇਰਿਸ਼ ਲੋਕ	Irlandanoj
+ਦੇਨਿਜਲੀ	Denizli
+ਆਬਲਿਸਕ	Obelisko
+ਗਠੀਆ	Artrito
+ਨਿੱਜੀ ਤੰਤ੍ਰਿਕਾ ਪ੍ਰਣਾਲੀ	Aŭtonoma nerva sistemo
+ਬਾਇਓ ਗੈਸ	Biogaso
+ਪ੍ਰਤੱਖ ਲੋਕਰਾਜ	Rekta demokratio
+ਵਰਜਣ	Tabuo
+ਨਾਗਾਰਜੁਨ (ਦਾਰਸ਼ਨਿਕ)	Nagarĝunao
+ਸੰਯੋਜਕਤਾ	Valento (kemio)
+ਸੂਰਜਮੁਖੀ	Sunfloro
+ਮਾਦਰੀਦ ਦਾ ਸ਼ਾਹੀ ਮਹਿਲ	Reĝa Palaco de Madrido
+ਹਾਦਸਾ	Akcidento
+ਮਾਰਾਕਾਈਬੋ	Marakajbo
+ਸਤਲੁਜ ਦਰਿਆ	Satleĝo
+ਅਹਿਮਦੀਆ	Ahmadismo
+ਭੁਬਨੇਸ਼ਵਰ	Bhubanesvar
+ਆਗਰੇ ਦਾ ਕ਼ਿਲਾ	Fortikaĵo Agra
+ਹਾਈਡਰੋਜਨ ਪਰਆਕਸਾਈਡ	Hidrogena peroksido
+ਧਰਮ ਦੀ ਆਜ਼ਾਦੀ	Religia libereco
+ਨਾਨਛਾਂਙ	Nanĉano
+ਲੁਕਣ ਮੀਚੀ	Kaŝludo
+ਅਲੈਗਜ਼ੈਂਡਰ ਓਸਤਰੋਵਸਕੀ	Aleksandr N. Ostrovskij
+ਐਲ (ਸਿਰਿਲਿਕ)	El (cirila alfabeto)
+ਕੋਰਲ ਸਾਗਰ ਟਾਪੂ	Koralmaraj Insuloj
+ਦ ਸ਼ੌਸ਼ੈਂਕ ਰਿਡੈਂਪਸ਼ਨ	The Shawshank Redemption
+ਸਰਬੀਆਈ ਦਿਨਾਰ	Serba dinaro
+ਬੁਲਗਾਰੀਆਈ ਲੇਵ	Bulgara levo
+ਝਾੜ-ਫੂਕ	Ekzorcismo
+ਐਲੇਸਟਰ ਕ੍ਰੌਲੀ	Aleister Crowley
+ਥਾਰ ਮਾਰੂਥਲ	Dezerto Tar
+ਓ ਹੈਨਰੀ	O. Henry
+ਸਾੜੀ	Sario
+ਦਾ ਨੇਮ ਆਫ਼ ਦਾ ਰੋਜ਼	Il nome della rosa
+ਮਨਸੂਰ	Al-Hallaĝ
+ਤੁਰਕੀ ਲੀਰਾ	Turka liro
+ਸਾਹ-ਨਾਲ਼ੀ ਦੀ ਸੋਜ	Bronkito
+ਗਲਾਸਨੋਸਤ	Glasnost
+ਬ੍ਰਾਜ਼ੀਲੀ ਰਿਆਲ	Brazila realo
+ਤਾਮਿਲ ਲੋਕ	Tamiloj
+ਮਾਰਵਲ ਕੌਮਿਕਸ	Marvel Comics
+ਖਾਣਜੋਗ ਸਮਾਨ ਦੀ ਹਿਫਾਜ਼ਤ	Konservado
+ਰੇਖਕੀ ਲੜੀ	Geometria vico
+ਗਜ਼ਨੀ	Gazni
+ਕਜ਼ਾਖ਼ਸਤਾਨੀ ਤੇਂਗੇ	Kazaĥa tengo
+ਕਾਪੀਸਾ	Provinco Kapisa
+ਰੇਡੀਅਸ	Radiuso
+ਹੇਲਮੰਦ ਸੂਬਾ	Provinco Helmand
+ਅਲਫ਼ਰੈਡ ਟੈਨੀਸਨ	Alfred, Lord Tennyson
+ਚੇ (ਸਿਰਿਲਿਕ)	Ĉe (cirila alfabeto)
+ਸ਼ਾ (ਸਿਰਿਲਿਕ)	Ŝa (cirila alfabeto)
+ਫ਼ੈਸਲਾਬਾਦ	Fajsalabad
+ਏਲਾਜਿਗ	Elazığ
+ਐਂਨ (ਸਿਰਿਲਿਕ)	Н (cirila alfabeto)
+ਛਾਂਙਸ਼ਾ	Ĉangŝa
+ਪ੍ਰੇਮਚੰਦ	Munshi Premchand
+ਗ੍ਰੇਟ ਬ੍ਰਿਟੇਨ ਅਤੇ ਆਇਰਲੈਂਡ ਦੀ ਸੰਯੁਕਤ ਬਾਦਸ਼ਾਹੀ	Unuiĝinta Reĝlando de Granda Britio kaj Irlando
+ਕਾਰਬਨੀ ਯੋਗ	Organika kombinaĵo
+ਐਫ (ਸਿਰਿਲਿਕ)	Ef (cirila alfabeto)
+ਰਾਂਚੀ	Ranĉi
+ਤੌਹੀਦ	Tawhid
+ਮੋਬੀ ਡਿੱਕ	Moby-Dick
+ਆਸਟਰੇਲੀਆ ਦਾ ਇਤਿਹਾਸ	Historio de Aŭstralio
+ਦੁੱਧ ਚੁੰਘਾਉਣਾ	Mamnutrado
+ਉਮ ਅਲ-ਕਿਵੇਨ	Um-al-Kajvajno
+ਗੁਰਨੀਕਾ	Gerniko (pentraĵo)
+ਵਿਟਾਮਿਨ ਡੀ	Vitamino D
+ਲਿਓਨ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Leono
+ਪੂਰਬੀ ਅਜ਼ਰਬਾਈਜਾਨ ਸੂਬਾ	Orienta Azerbajĝano
+ਥੀਸੈਨ-ਬੋਰਨੇਮੀਸਾ ਅਜਾਇਬਘਰ	Muzeo Thyssen-Bornemisza
+2010 ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ	Futbala Mondpokalo 2010
+ਵਿਕਾਸਸ਼ੀਲ ਦੇਸ਼	Evolulando
+ਮਨੁੱਖੀ ਪਰਵਾਸ	Migrado
+ਭਾਈਚਾਰਾ	Homa komunumo
+ਰੋਗ-ਪਛਾਣ	Diagnozo (medicino)
+ਲੋਰੈਂਸੋ ਦੇ ਮੇਦੀਚੀ	Lorenzo de Mediĉo
+ਤੀਹਰਾ ਸਮਝੌਤਾ	Triopa Entento
+ਮਕਦੂਨੀਆਈ ਦਿਨਾਰ	Makedona denaro
+ਥਾਈ ਬਾਤ	Tajlanda bahto
+ਯੋਗਤਾਰਾਜ	Meritokratio
+ਓ (ਸਿਰਿਲਿਕ)	O (cirila alfabeto)
+ਸਪੇਨੀ ਫਲੂ	Hispana gripo
+ਰਾਸ਼ਟਰਮੰਡਲ ਖੇਡਾਂ	Ludoj de la Komunumo de Nacioj
+ਮੁਹੰਮਦ ਫ਼ਜ਼ੂਲੀ	Fuzuli
+ਦਰੀ ਫ਼ਾਰਸੀ	Daria lingvo
+ਨੰਗਰਹਾਰ ਸੂਬਾ	Provinco Nangarhar
+ਬਾਖ਼ਾ ਕੈਲੀਫ਼ੋਰਨੀਆ ਪਰਾਇਦੀਪ	Kalifornia Duoninsulo
+ਜੂਰਾ ਪਹਾੜ	Ĵuraso (montaro)
+ਮਿੱਤਾਨੀ ਸਾਮਰਾਜ	Mitano
+ਆਸਟਰੇਲੀਆ ਦੇ ਰਾਜ ਅਤੇ ਰਾਜਖੇਤਰ	Aŭstraliaj ŝtatoj kaj teritorioj
+ਅਦਵੈਤਵਾਦ	Monismo
+ਕੌਮਾਂਤਰੀ ਵਪਾਰ	Internacia komerco
+ਸੀਰੀਆਈ ਖ਼ਾਨਾਜੰਗੀ	Siria enlanda milito
+ਸੌ ਸਾਲ ਦਾ ਇਕਲਾਪਾ	Cent jaroj da soleco
+ਦੇਵਤਾ	Diaĵo
+ਖਜੁਰਾਹੋ	Khaĝuraho
+ਆਸਟਰੇਲੀਆਈ ਅੰਟਾਰਕਟਿਕ ਰਾਜਖੇਤਰ	Antarkta Teritorio pretendata de Aŭstralio
+ਦ ਐਲਕਮਿਸਟ (ਨਾਵਲ)	La alkemiisto
+ਫ਼ਰਾਂਸੀਸੀ ਬਸਤੀਵਾਦੀ ਸਾਮਰਾਜ	Franca kolonia imperio
+ਲੀਸਾ ਕੂਡਰੋ	Lisa Kudrow
+ਫ਼ਤਿਹਪੁਰ ਸੀਕਰੀ	Fatehpur Sikri
+ਸੱਟਾ ਬਜ਼ਾਰ	Borso
+ਰੋਲਾਂ ਬਾਰਥ	Roland Barthes
+ਜੌਨ ਰਸਕਿਨ	John Ruskin
+ਰੂਸੀ ਸਾਹਿਤ	Ruslingva literaturo
+ਬਣਤਰਵਾਦ	Strukturismo
+ਗੂਗਨਹਾਈਮ ਅਜਾਇਬ-ਘਰ ਬੀਲਬਾਓ	Muzeo Guggenheim Bilbao
+ਮਸਦਰ (ਵਿਆਕਰਨ)	Infinitivo
+ਜਿੱਦੂ ਕ੍ਰਿਸ਼ਨਾਮੂਰਤੀ	Jiddu Krishnamurti
+ਜਿਓਵਾਨੀ ਪਾਲਿਸਤਰੀਨਾ	Giovanni Pierluigi da Palestrina
+ਕਾਰਨਤਾ	Kaŭzeco
+ਧੱਕੇਸ਼ਾਹੀ	Despotismo
+ਰਾਬਰਟ ਓਵਨ	Robert Owen
+ਅਲੈਗਜ਼ਾਂਦਰਾ ਕੋਲੋਨਤਾਈ	Aleksandra Miĥailovna Kolontaj
+ਅਟਾਹੁਆਲਪਾ	Ataŭalpo
+ਤਾਰਿਆਂ ਦੀ ਸ਼੍ਰੇਣੀਆਂ	Klasigo de steloj
+ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵੀਨਾ ਵਟਾਂਦਰਾਯੋਗ ਮਾਰਕ	Konvertebla marko
+ਐਮ (ਸਿਰਿਲਿਕ)	Em (cirila alfabeto)
+ਇਲਾਜ	Terapio
+ਕੌਮੀ ਰਾਜ	Nacio-ŝtato
+ਥੀਸਾਰਸ ਕੋਸ਼	Tezaŭro
+ਰਾਜਨੀਤਕ ਦਰਸ਼ਨ	Politika filozofio
+ਤਿੱਬਤੀ ਪਠਾਰ	Tibeta Altebenaĵo
+ਅਫ਼ਰੀਕਾ ਲਈ ਧੱਕਾ-ਮੁੱਕੀ	Disdivido de Afriko
+ਟਸੇ (ਸਿਰਿਲਿਕ)	Ce (cirila alfabeto)
+ਖਾ (ਸਿਰਿਲਿਕ)	Ĥa (cirila alfabeto)
+ਊ (ਸਿਰਿਲਿਕ)	U (cirila alfabeto)
+ਐਸ (ਸਿਰਿਲਿਕ)	Es (cirila alfabeto)
+ਰੇਤ ਘੜੀ	Sablohorloĝo
+ਕਾਕਾਪੋ	Kakapo
+ਉੱਤਰੀ ਖ਼ੁਰਾਸਾਨ ਸੂਬਾ	Provinco Norda Ĥorasano
+ਮਾਰਗਰੈੱਟ ਮੀਡ	Margaret Mead
+ਰੀਜਿਕਨ	Rēzekne
+ਗਜ਼ਨੀ ਸੂਬਾ	Provinco Gazni
+ਹਰਿਮੰਦਰ ਸਾਹਿਬ	Harmandir Sahib
+ਅਨਖ	Ansa kruco
+ਗੋਦ ਲੈਣਾ	Adopto
+ਅਲਾਸਕਾ ਦੀ ਖਾੜੀ	Alaska Golfo
+ਬੱਦੂ ਲੋਕ	Beduenoj
+ਕਾਰਪੈਂਟਰੀਆ ਦੀ ਖਾੜੀ	Karpentaria Golfo
+ਸੌਰ ਪੁੰਜ	Suna maso
+ਅਮ ਦਰਮਾਨ	Omdurman
+ਆਦਿ ਸ਼ੰਕਰਾਚਾਰੀਆ	Adi Ŝankara
+ਜੇਨ ਐਡਮਜ਼	Jane Addams
+ਪ੍ਰਤੀ ਹਜ਼ਾਰ	Elmilo
+ਲਿਟਲ ਬੁਆਏ	Little Boy
+ਬਲੋਚਿਸਤਾਨ (ਖੇਤਰ)	Baluĉio
+ਮੋਲਦੋਵੀ ਲਿਊ	Moldava leo
+ਵੀਗਨਿਜ਼ਮ	Veganismo
+ਐਰ (ਸਿਰਿਲਿਕ)	Er (cirila alfabeto)
+ਡਾਰਲਿੰਗ ਦਰਿਆ	Darling (rivero)
+ਗੁਲੀਵਰਸ ਟਰੈਵਲਜ਼	La vojaĝoj de Gulivero
+ਕਾਓਸੀਅੰਗ	Kaoŝiung
+ਕਿੰਗ ਲੀਅਰ	La Tragedio de Reĝo Lear
+ਵਾਸ਼ਿੰਗਟਨ ਇਰਵਿੰਗ	Washington Irving
+ਜਾਰਜ ਰ. ਰ. ਮਾਰਟਿਨ	George R. R. Martin
+ਕਾਰਬੋਨੇਟ	Karbonato
+ਘਟਨਾ ਖਤਿਜ	Eventa horizonto
+ਦਬਾਅ (ਭਾਸ਼ਾ ਵਿਗਿਆਨ)	Akcento
+ਕੋਲਾਇਡ	Koloido
+ਫ਼ੰਡੀ ਦੀ ਖਾੜੀ	Golfo de Fundy
+ਅਕਸਾਰਾਏ	Aksaray
+ਚੌਧਰ	Hegemonio
+ਕੁਮਾਸੀ	Kumasi
+ਕਮਿਊਨਿਜਮ-ਵਿਰੋਧ	Antikomunismo
+ਸਮਾਂ ਸਫ਼ਰ	Tempovojaĝado
+ਜਨੇਊ ਰੋਗ	Zostero (medicino)
+ਬੇਨਿਸਤਾਰਾਵਾਦ	Iredentismo
+ਸ਼ਚਾ (ਸਿਰਿਲਿਕ)	Ŝĉa (cirila alfabeto)
+ਏਸ਼ੀਆਈ ਸ਼ੇਰ	Azia leono
+ਪੁੱਤਰਜੈ	Putraĝajo
+ਤੇ (ਸਿਰਿਲਿਕ)	Te (cirila alfabeto)
+ਸਰੇ ਪੋਲ	Provinco Sar-i Pul
+ਪਕਤੀਆ	Provinco Paktia
+ਅਲੰਕਾਰ (ਸਾਹਿਤ)	Vortfiguroj
+ਸ਼ਰਲੀ ਟੈਂਪਲ	Shirley Temple
+ਤਾਇਫ਼	Taif
+ਖ਼ਵਾਰਜ਼ਮ	Ĥorazmo
+ਹਾਰਪਰ ਲੀ	Harper Lee
+ਵਿਰੋਧੀ ਕਣ	Antipartiklo
+ਬਰਾਮਦ	Eksporto
+ਕਨਮਿੰਗ	Kunmingo
+ਅਣਵੀ ਭਾਰ	Molekula maso
+ਕੁੱਲ ਕੌਮੀ ਪੈਦਾਵਾਰ	Malneta Nacia Produkto
+ਖਿੰਡਾਅ (ਪ੍ਰਕਾਸ਼)	Varianco (optiko)
+ਜੀ ਵੀ ਪਲੈਖ਼ਾਨੋਵ	Georgij Pleĥanov
+ਜੇਨ ਆਇਰ	Jane Eyre
+ਕਾਨੋ	Kano (urbo)
+ਸਮੰਗਾਨ ਸੂਬਾ	Provinco Samangan
+ਉਰੁਜ਼ਗਾਨ ਸੂਬਾ	Provinco Uruzgan
+ਜੁਜ਼ਜਾਨ ਸੂਬ	Provinco Ĝuzĝan
+ਵਾਰਦਾਕ	Provinco Vardak
+ਮਰੀ ਦਰਿਆ	Murray (rivero)
+ਰਾਮਕ੍ਰਿਸ਼ਨ ਪਰਮਹੰਸ	Ramakriŝna
+ਬਰਦਰਜ਼ ਕਾਰਾਮਾਜੋਵ	La fratoj Karamazov
+ਸੈਮੂਅਲ ਜਾਨਸਨ	Samuel Johnson
+ਇਬਾਦਾਨ	Ibadano
+ਜਲਾਲਾਬਾਦ (ਅਫਗਾਨਿਸਤਾਨ)	Ĝalalabado
+ਖ਼ੈਬਰ ਪਖ਼ਤੁਨਖ਼ਵਾ	Ĥajber-Paŝtulando
+ਤਾਨਾਸ਼ਾਹ	Diktatoro
+ਵਸਿਲੀ ਜ਼ਾਇਤਸੇਵ	Vasilij Zajcev
+ਮੰਗੋਲੀਆਈ ਤੋਗਰੋਗ	Mongola tugriko
+ਲਾਨਜ਼ੂ	Lanĝoŭo
+ਪ੍ਰਾਵਦਾ	Pravda (rusa gazeto)
+ਦ ਕੈਚਰ ਇਨ ਦ ਰਾਈ	La Gardisto en la Sekalo
+ਲੂਈ ਅਲਥੂਜ਼ਰ	Louis Althusser
+ਲਾਬਰਾਡੋਰ ਸਮੁੰਦਰ	Labradora Maro
+ਸੁਰਖੀ	Lipoŝminko
+ਜੀਲ ਦੇਲੂਜ਼	Gilles Deleuze
+ਸ਼ਾਹ	Ŝaho
+ਮੋਹਾਵੇ ਮਾਰੂਥਲ	Mojave-Dezerto
+ਪੰਪਾਸ	Pampo
+ਆਇਤਉਲਾ	Ajatolo
+ਅਜੰਤਾ ਗੁਫਾਵਾਂ	Aĝanto
+ਕੋਸ਼ਕਾਰੀ	Leksikografio
+ਸੋਫੀਆ ਕੋਵਾਲਸਕਾਇਆ	Sofja Kovalevskaja
+ਨਿਰੋਲ ਬਾਦਸ਼ਾਹੀ	Absoluta monarkio
+ਜ਼ਹਿਰੀਲਾ ਮਾਦਾ	Toksino
+ਸੂਚਨਾ-ਸਮਾਜ	Informa socio
+ਮੈਟਾਮੌਰਫਸਿਸ (ਮਹਾਂਕਾਵਿ)	Metamorfozoj
+ਸਲਾਵੋਏ ਜੀਜੇਕ	Slavoj Žižek
+ਪਾਸ਼ਾ	Paŝao
+ਇੰਟਰਨੈੱਟ ਰੇਡੀਓ	Interreta radio
+ਪਨੀਰ ਦਾ ਪਾਣੀ	Selakto
+ਅਬਜਦ	Abjad
+ਫ਼ਲੋਅਮ	Floemo
+ਮਹਾਨ ਤਾਕਤ	Mondpotenco
+ਸ਼ੇਖ਼	Ŝejko
+ਦਾਈ	Akuŝistino
+ਮਿਖਾਇਲ ਬਾਖ਼ਤਿਨ	Miĥail Baĥtin
+ਵੋਟ ਦਾ ਹੱਕ	Balotrajto
+ਲਗਮਾਨ	Provinco Lagman
+ਮੁਲਤਾਨ	Multano
+ਕੋਇਟਾ	Kveta
+ਹੜੱਪਾ	Harapo
+ਪਕਤੀਕਾ	Provinco Paktika
+ਰੂੜੀ	Stala sterko
+ਲੋਕ ਭਲਾਈ	Filantropo
+ਅਰਜੁਨ	Arĵuno
+ਇਸਾਕ ਆਲਬੇਨੀਸ	Isaac Albéniz
+ਮੁਫ਼ਤੀ	Muftio
+ਅਯੋਧਿਆ	Ajodhjo
+ਹਰਾ ਇਨਕਲਾਬ	Verda revolucio
+ਰੂਸ ਦੀ ਜ਼ਾਰਸ਼ਾਹੀ	Rusa carlando
+ਗੰਗਟੋਕ	Gangtok
+ਕੂਫ਼ਾ	Kufa
+ਯੁ (ਸਿਰਿਲਿਕ)	Ju (cirila alfabeto)
+ਤਖਾਰ ਸੂਬਾ	Provinco Taĥar
+ਅਲਮਾਟੀ ਸੂਬਾ	Provinco Almato
+ਹਾਚੀਕੋ	Haĉiko
+ਪਰਜੀਵੀਪੁਣਾ	Parazito
+ਅੰਗਰੇਜ਼ੀ ਸਾਹਿਤ	Anglalingva literaturo
+ਤਜਰਬਾ ਪੱਤਰੀ	Kariertabelo
+ਨਿਕੋਲਾਈ ਬੁਖਾਰਿਨ	Nikolaj Buĥarin
+ਕਚਿਆਣ	Vomemo
+ਖੁਣਾਈ	Akvaforto
+ਬਾਬਾ ਯਾਗਾ	Baba Jaga
+ਅਭਿਸ਼ੇਕ ਬੱਚਨ	Abhishek Bachchan
+﻿ਮੇਫ਼ਲਾਵਰ	Mayflower
+ਆਂਤੋਨਾਂ ਆਰਤੋ	Antonin Artaud
+ਤੱਟੀ ਝੀਲ	Laguno
+ਤਿਤਲੀ ਪ੍ਰਭਾਵ	Papilia efiko
+ਸਾਮਾਜਕ ਵਰਗ	Socia klaso
+ਲੂਬੁਮਬਾਸ਼ੀ	Lubumbashi
+ਅਰਸ਼ੀ ਮੱਧ ਰੇਖਾ	Ĉiela ekvatoro
+ਮਹਾਨ ਦਹਿਸ਼ਤ	Granda purigo
+ਫਿਨੌਲਪਥਾਲੀਨ	Fenolftaleino
+ਮਾਰ ਖੋਰ	Markoro
+ਵਾਕੰਸ਼	Frazo (gramatiko)
+ਲੂਣੀ ਝੀਲ	Salakva lago
+ਅਰਥਸ਼ਾਸਤਰੀ	Ekonomikisto
+ਕੁਨੜ ਸੂਬਾ	Provinco Kunar
+ਪਰਵਾਨ	Provinco Parvan
+ਪਾਕਿਸਤਾਨੀ ਰੁਪਈਆ	Pakistana rupio
+ਟਾਟਾ ਮੋਟਰਜ਼	Tata Motors
+ਚੰਦਰਗੁਪਤ ਮੋਰੀਆ	Ĉandragupto Maŭrjo
+ਤੱਥ	Fakto
+ਇਰਾਨੀ ਰਿਆਲ	Irana rialo
+ਹਨੂਮਾਨ	Hanumano
+ਲੂਕਾਨਸ	Lukano (romia poeto)
+ਜਪਾਨੀ ਸਾਮਰਾਜ	Japana Imperio
+ਯਾ (ਸਿਰਿਲਿਕ)	Ja (cirila alfabeto)
+ਡੇਵਿਡ ਸ਼ਵੀਮਰ	David Schwimmer
+ਸ਼ਾਰਜਾ (ਇਮਰਾਤ)	Ŝarĵo
+ਅਧਿਆਪਕ ਦਿਵਸ	Tago de instruisto
+ਕਾਉਂਟਰ ਕਲਚਰ	Kontraŭkulturo
+ਕਾਲਜ	Kolegio
+ਈ ਐਮ ਫੋਰਸਟਰ	E. M. Forster
+ਉਸ਼ਾਕ	Uşak
+ਡੇਵਿਸ ਪਣਜੋੜ	Davisa Markolo
+ਬੇਰਾਤ ਕਾਉਂਟੀ	Provinco Berat
+ਫਿਸਤੁਲਾ	Fistulo
+ਦ ਜੰਗਲ ਬੁੱਕ	La libroj de ĝangaloj
+ਖ਼ੁਰਾਕੀ ਤੱਤ	Oligoelemento
+ਇਲੋਰਾ ਗੁਫਾਵਾਂ	Ellora
+ਹੁਮਾਯੂੰ ਦਾ ਮਕਬਰਾ	Tombo de Humajun
+ਇਵਾਨ ਗੋਂਚਾਰੇਵ	Ivan Gonĉarov
+ਕਾਰਾਬੁਕ	Karabük
+ਪਾਣਿਨੀ	Panini
+ਇਸਲਾਮੀਅਤ	Islamismo
+ਆਰਥਿਕ ਵਾਧਾ	Ekonomia kresko
+ਇਮਰਾਤ	Emirlando
+ਸੁਪਰ-ਉੱਚ ਵਾਰਵਾਰਤਾ	Centimetra ondo
+ਵੈਸਟਮਿੰਸਟਰ	Westminster
+ਇਨੂਇਤ	Inuitoj
+ਫ਼ਾਈਟ ਕਲੱਬ	Fight Club
+ਹਾਰਰ	Harar
+ਰੇਚਲ ਮਿਕੈਡਮਸ	Rachel McAdams
+ਬੌਣੀ ਆਕਾਸ਼ਗੰਗਾ	Nana galaksio
+ਅਮਰਵੇਲ	Kuskuto
+ਨਵਬਸਤੀਵਾਦ	Novkoloniismo
+ਦਾਰਫ਼ੂਰ ਦੀ ਜੰਗ	Milito en Darfuro
+ਤੁਰਕੀ ਦਾ ਇਤਿਹਾਸ	Historio de Turkio
+ਹੈਨਰੀ ਲਾ ਫ਼ੌਂਟੇਨ	Henri La Fontaine
+ਸਿੰਘਾਪੁਰੀ ਡਾਲਰ	Singapura dolaro
+ਊਦ	Al-Udo
+ਅੰਗੂਰ	Vito
+ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ ਦੇ ਸੂਬੇ	Provincoj de Sud-Afriko
+ਜੀਕਾਬਪਿਲਸ	Jēkabpils
+ਫ਼ਲੂਜਾ	Faluĝa
+ਏ. ਜ਼ੈਡ. ਅਲਕਮਾਰ	Alkmaar Zaanstreek
+ਦ ਸਟੈਨਿਕ ਵਰਸਿਜ਼	La satanaj versoj
+ਸੁਰ (ਭਾਸ਼ਾ ਵਿਗਿਆਨ)	Tonlingvo
+ਓਰਨੀਥਿਸਕੀਆ	Ornitiskioj
+ਮੈਲੋਡਰਾਮਾ	Melodramo
+ਕੋਰਸੇ ਜ਼ਿਲਾ	Distrikto Korçë
+ਅਲੌਹ ਅਇਸਕ	Fererco
+ਕੈਂਟਰਬਰੀ ਕਹਾਣੀਆਂ	The Canterbury Tales
+ਕੂੰਜ	Fraŭlingruo
+ਨਬਜ਼	Pulso
+ਖਮੇਰ ਰੂਜ	Ruĝaj Kmeroj
+ਬੁਲਕੀਜ ਜ਼ਿਲਾ	Distrikto Bulqizë
+ਬ੍ਰੇਵ ਨਿਊ ਵਰਲਡ	Mirinda Nova Mondo
+ਜਾਦੂਈ ਵਰਗ	Magia kvadrato
+ਵੀਅਤਨਾਮੀ ਦੋਙ	Vjetnama dongo
+ਡਿਬਰ ਜ਼ਿਲਾ	Distrikto Dibër
+ਦੇਵੋਲ ਜ਼ਿਲਾ	Distrikto Devoll
+ਧੁੰਦ	Brumo
+ਸ਼੍ਰੀ ਅਰਬਿੰਦੋ	Sri Aŭrobindo
+ਗੁਈਯਾਂਗ	Gŭijango
+ਆਈ ਹੈਵ ਏ ਡਰੀਮ	Revon havas mi
+ਤਾਇਪਿੰਙ ਬਗ਼ਾਵਤ	Tajpinga ribelo
+ਵੋਲਟਾ ਦਰਿਆ	Voltao (rivero)
+ਧਤੂਰਾ	Daturo
+ਹੂਤੂ	Hutuoj
+ਕਾਜ਼ੀਰੰਗਾ ਕੌਮੀ ਪਾਰਕ	Nacia Parko Kaziranga
+ਅਮਰੀਕੀ ਇਨਕਲਾਬ	Usona milito
+ਗੌਥਿਕ ਗਲਪ	Gotika literaturo
+ਡੂਰੇਸ ਕਾਉਂਟੀ	Provinco Durrës
+ਡਿਬਰ ਕਾਉਂਟੀ	Provinco Dibër
+ਜਮ ਮੀਨਾਰ	Minareto de Ĝam
+ਤੁਤਸੀ	Tucioj
+ਇਰਾਕੀ ਦਿਨਾਰ	Iraka dinaro
+ਕੁਵੈਤੀ ਦਿਨਾਰ	Kuvajta dinaro
+ਬੁਣਾਈ	Trikado
+ਜੌਂ-ਫ਼ਰਾਂਸੁਆ ਲਿਓਤਾਰ	Jean-François Lyotard
+ਰੂਹ	Spirito
+ਖਗੋਲੀ ਧੂਲ	Kosma polvo
+ਮਾਦਾਮ ਬੋਵਾਰੀ	Madame Bovary
+ਮੈਤਰਿਆ	Majtrejo
+ਸਾਵੂ ਸਾਗਰ	Savua Maro
+ਜ਼ਮੀਰ	Morala konscienco
+ਕਾਰਲ ਸੈਂਡਬਰਗ	Carl Sandburg
+ਫ੍ਰਾਂਜ਼ ਫੈਨਨ	Frantz Fanon
+ਇੰਡੀਆਨਾਪੋਲਿਸ ਕੋਲਟਜ਼	Indianapolis Colts
+ਬੈਨ ਜਾਨਸਨ	Ben Jonson
+ਫਰੀਦਉੱਦੀਨ ਅੱਤਾਰ	Farid-ud-din Attar
+ਸ਼ਕੋਦਰ ਜ਼ਿਲਾ	Distrikto Shkodër
+ਕੋਲੋਂਜੇ ਜ਼ਿਲਾ	Distrikto Kolonjë
+ਕਾਵਾਜੇ ਜ਼ਿਲਾ	Distrikto Kavajë
+ਲੇਝੇ ਜ਼ਿਲਾ	Distrikto Lezhë
+ਵੱਖਵਾਦ	Separismo
+ਸੱਤਿਆਗ੍ਰਹਿ	Satyagraha
+ਗੈਟ	Ĝenerala Interkonsento pri Tarifoj kaj Komerco
+ਬਹਾਮਾਸੀ ਡਾਲਰ	Bahama dolaro
+ਬਾਰਬਾਡੋਸੀ ਡਾਲਰ	Barbada dolaro
+ਸਕਰਾਪਰ ਜ਼ਿਲਾ	Distrikto Skrapar
+ਕਾਰਾ ਪਣਜੋੜ	Kara markolo
+ਬੰਗਲਾਦੇਸ਼ੀ ਟਕਾ	Bangladeŝa tako
+ਕੌਮਾਂਤਰੀ ਸੰਸਕ੍ਰਿਤ ਲਿਪੀਅੰਤਰਨ ਵਰਨਮਾਲਾ	IAST
+ਰੈਚਲ ਕੋਰੀ	Rachel Corrie
+ਅਲੀਗੜ੍ਹ ਮੁਸਲਿਮ ਯੂਨੀਵਰਸਿਟੀ	Universitato de Aligarh
+ਡਾ. ਰਾਜੇਂਦਰ ਪ੍ਰਸਾਦ	Rajendra Prasad
+ਮਿਸਰੀ ਪਾਊਂਡ	Egipta pundo
+ਅਫ਼ਗ਼ਾਨ ਅਫ਼ਗ਼ਾਨੀ	Afgana afganio
+ਸੋਲੋਮਨ ਸਾਗਰ	Salomona Maro
+ਦੇਹਰਾਦੂਨ	Dehradun
+ਅਰਜਨਟੀਨੀ ਪੇਸੋ	Argentina peso
+ਗੁਹਾਟੀ	Guvahati
+ਵਿਸ਼ਵ ਵਾਤਾਵਰਣ ਦਿਵਸ	Monda Tago de Medio
+ਚਾਨਕਲੇ	Çanakkale
+ਇੰਜ ਜ਼ਾਰਥੁਸਤਰਾ ਬੋਲਿਆ	Tiele parolis Zaratuŝtra
+ਸਾਊਦੀ ਰਿਆਲ	Sauda rialo
+ਤਾਜਿਕਿਸਤਾਨੀ ਸੋਮੋਨੀ	Taĝika somonio
+ਕਰਬਲਾ	Karbalo
+ਜੋਧਪੁਰ	Ĝodhpur
+ਹੈਮਿਲਟਨ, ਨਿਊਜ਼ੀਲੈਂਡ	Hamilton
+ਅਜਮੇਰ	Aĝmer
+ਚਿਲੀਆਈ ਪੇਸੋ	Ĉilia peso
+ਲਾਓ ਕਿਪ	Laosa kipo
+ਲੁਧਿਆਣਾ	Ludhiana
+ਵਾਇਓਤ ਜੋਰ ਸੂਬਾ	Vajoco-Dzoro
+ਅਜ਼ਾਦ ਕਸ਼ਮੀਰ	Azad Kaŝmiro
+ਮੇਰਠ	Merath
+ਮਹਾਂਨਗਰ	Metropolo
+ਪਾਰਸੀ	Parsioj
+ਸੰਯੁਕਤ ਅਰਬ ਇਮਰਾਤੀ ਦਿਰਹਾਮ	UAE-dirhamo
+ਦੁਨੀਆ ਦਾ ਇਤਿਹਾਸ	Historio de la mondo
+ਅੰਗੋਲਨ ਕਵਾਂਜ਼ਾ	Angola kvanzo
+ਉਦੈਪੁਰ	Udaipur
+ਲੋਰੀ ਪ੍ਰਾਂਤ	Lori
+ਈਸ਼ਨਿੰਦਾ	Blasfemo
+ਲਦਾਖ਼	Ladako
+ਗਿਲਗਿਤ-ਬਾਲਤਿਸਤਾਨ	Gilgit-Baltilando
+ਬੀਕਾਨੇਰ	Bikaner
+ਬੋਲੀਵੀਆਈ ਬੋਲੀਵੀਆਨੋ	Bolivia bolivjano
+ਯਜ਼ੀਦੀ	Jezidoj
+ਹੈ ਕਿਸਨੂੰ ਮੌਤ ਦਾ ਸੱਦਾ	For Whom the Bell Tolls
+ਟਰਾਂਸਨਿਸਤੀਰੀਆਈ ਰੂਬਲ	Ĉednestria rublo
+ਲੋਕ-ਨਾਚ	Popola danco
+ਸ਼ਿਰਾਕ	Ŝirako
+ਤੀਰਾਨਾ ਜ਼ਿਲਾ	Distrikto Tirano
+ਤਵੂਸ਼	Tavuŝo
+ਅਰਮਾਵੀਰ ਸੂਬਾ	Armaviro (provinco)
+ਅਲੈਗਜ਼ੈਂਡਰ ਹਰਜਨ	Aleksander Herzen
+ਆਸਕਰ ਪਿਸਟੋਰੀਅਸ	Oscar Pistorius
+ਤਾਰਪੀਨ	Terebintino
+ਕਾਰਬੋਨਿਲ	Karbonila grupo
+ਕਿਊਬਾਈ ਪੇਸੋ	Kuba peso
+ਐਡਵਰਡ ਸਈਦ	Edward Said
+ਬ੍ਰੇਸਲੈਟ	Brakringo
+ਮੌਤ ਦੀਆਂ ਰਸਮਾਂ	Funebro
+ਝੁੱਗੀ-ਝੌਂਪੜੀ	Ladurbo
+ਇਤਿਹਾਸਕਾਰ	Historiisto
+ਭੂਟਾਨੀ ਙੂਲਤਰੂਮ	Butana ngultrumo
+ਅਲੀਗੜ	Aligarh
+ਨਮਰੂਦ	Nimrod
+ਬਹਿਰੀਨੀ ਦਿਨਾਰ	Barejna dinaro
+ਲਿਬਨਾਨੀ ਪਾਊਂਡ	Libana liro
+ਨਿਸ਼ਾਨਚੀ	Kaŝpafisto
+ਸੂਰੀਨਾਮੀ ਡਾਲਰ	Surinama dolaro
+ਦੱਖਣੀ ਕੋਰੀਆਈ ਵੌਨ	Sudkoreia ŭono
+ਧੁਨੀ (ਭਾਸ਼ਾ ਵਿਗਿਆਨ)	Parolsono
+ਥੋਮਸ ਸਾਨਕਾਰਾ	Thomas Sankara
+ਪੋਗਰਾਡੇਕ ਜ਼ਿਲਾ	Distrikto Pogradec
+ਚੰਡੋਲ	Spektoradego
+ਪੀਕਿਨ ਜ਼ਿਲਾ	Distrikto Peqin
+ਤੇਪੇਲੀਨ ਜ਼ਿਲਾ	Distrikto Tepelenë
+ਮੱਟ ਜ਼ਿਲਾ	Distrikto Mat
+ਗੈਜ਼ਪਾਖੋ	Gazpaĉo
+ਨੇਪਾਲੀ ਰੁਪਈਆ	Nepala rupio
+ਬ੍ਰਹਮਗੁਪਤ	Brahmagupta
+ਵੁਦਰਿੰਗ ਹਾਈਟਸ	Wuthering Heights
+ਬੇਰਾਤ ਜ਼ਿਲਾ	Distrikto Berat
+ਅਫ਼ਰੀਕੀ ਟ੍ਰੀਪੈਨੋਸੋਮਾਇਆਸਿਸ	Dormomalsano
+ਪਲਾਸੀ ਦੀ ਲੜਾਈ	Batalo de Palaŝi
+ਮੈਡਲ ਆਫ਼ ਆਨਰ	Medal of Honor
+ਗੁਸਤਾਵੋ ਆਦੋਲਫੋ ਬੈਕੈਰ	Gustavo Adolfo Bécquer
+ਜਾਰਡਨੀ ਦਿਨਾਰ	Jordania dinaro
+ਵੈਨੇਜ਼ੁਏਲਾਈ ਬੋਲੀਵਾਰ	Venezuela bolivaro
+ਹੈਤੀਆਈ ਗੂਰਦ	Haitia gurdo
+ਸ਼ੇਰ ਦੀ ਖੱਲ ਵਾਲਾ ਯੋਧਾ	La kavaliro en panterfelo
+ਪੇਰੂਵੀ ਨਵਾਂ ਸੋਲ	Perua nova suno
+ਕੰਬੋਡੀਆਈ ਰਿਆਲ	Kamboĝa rielo
+ਰੂਸੀ ਸੋਸ਼ਲ ਡੈਮੋਕਰੈਟਿਕ ਲੇਬਰ ਪਾਰਟੀ	Rusia Socialdemokrata Partio
+ਸਾਂਤੀਆਗੋ ਦੇ ਕੋਮਪੋਸਤੇਲਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Santiago de Compostela
+ਇਲਬਾਸਨ ਜ਼ਿਲਾ	Distrikto Elbasan
+ਕਰੂਜੇ ਜ਼ਿਲਾ	Distrikto Krujë
+ਬਰੂਨਾਏ ਡਾਲਰ	Bruneja dolaro
+ਬਾਹਰਮੁਖਤਾ (ਦਰਸ਼ਨ)	Objektivismo (filozofio)
+ਕਤਰੀ ਰਿਆਲ	Katara rialo
+ਵੀਨਸ ਦਾ ਸੌਦਾਗਰ	La venecia komercisto
+ਮਾਲਦੀਵੀ ਰੁਫ਼ੀਆ	Maldiva rufijao
+ਹੱਕਾਰੀ	Hakkâri
+ਕੋਰੁਮ	Çorum
+ਕਿਰਕਲਾਲੇਰੀ	Kırklareli
+ਨਿਸ਼ਾਨੇਬਾਜ਼ੀ	Pafada sporto
+ਲੂਸ਼ੰਜੇ ਜ਼ਿਲਾ	Distrikto Lushnjë
+ਪੂਕੇ ਜ਼ਿਲਾ	Distrikto Pukë
+ਲਿਬਰਾਝਡ ਜ਼ਿਲਾ	Distrikto Librazhd
+ਹਸ ਜ਼ਿਲਾ	Distrikto Has
+ਤੰਤੂ ਵਿਗਿਆਨ	Neŭroscienco
+ਜੜ੍ਹੀ-ਬੂਟੀ	Spicherbo
+ਨਿਕਾਰਾਗੁਆਈ ਕੋਰਦੋਬਾ	Nikaragva kordovo
+ਹੁਆਂਬੋ	Huambo
+ਕਟਕ	Kataka
+ਗੁਆਤੇਮਾਲਾਈ ਕੇਤਸਾਲ	Gvatemala kecalo
+ਮੱਲਾਕਾਸਤਰ ਜ਼ਿਲਾ	Distrikto Mallakastër
+ਪੈਰਾਗੁਏਵੀ ਗੁਆਰਾਨੀ	Paragvaja gvaranio
+ਕਾਸਾ ਮੀਲਾ	Casa Milà
+ਸਿਆਲ ਸੰਗਰਾਂਦ	Vintra solstico
+ਡਜ਼ੇ (ਸਿਰਿਲਿਕ)	Dzelo
+ਨਿਕੋਲਾਈ ਨੇਕਰਾਸੋਵ	Nikolaj Nekrasov
+ਜੇਰਾ	Kuraĝo
+ਪਟਿਆਲਾ	Patiala
+ਚਮਚਾਰਾਜ	Marioneta ŝtato
+ਅਰਬੀ ਮਾਰੂਥਲ	Araba dezerto
+ਕਾਦੂਨਾ	Kaduno
+ਹਿੰਡੋਲਾ	Karuselo
+ਜੰਗਬੰਦੀ	Batalhalto
+ਕਰੋਸ਼ੀਆ	Kroĉetado
+ਨਾਈਨਟੀਨ ਏਟੀ-ਫ਼ੋਰ	1984 (romano)
+ਤਸਲੀਮਾ ਨਸਰੀਨ	Taslima Nasrin
+ਬਿੰਗੋਲ	Bingol
+ਨਵਾਂ ਤਾਇਵਾਨੀ ਡਾਲਰ	Nova tajvana dolaro
+ਪ੍ਰਤੀਕ-ਕਥਾ	Parabolo (retoriko)
+ਭਾਰਤ-ਚੀਨ ਜੰਗ	Ĉin-barata Milito
+ਉਚਾਈ	Alto
+ਜਲ੍ਹਿਆਂਵਾਲਾ ਬਾਗ ਹੱਤਿਆਕਾਂਡ	Masakro de Amritsar
+ਨਿਕੋਲਾਈ ਰੋਰਿਕ	Nikolao Roerich
+ਫੀਏਰ ਜ਼ਿਲਾ	Distrikto Fier
+ਤੋਲੂਕਾ	Toluca (komunumo)
+ਵਿਲੀਅਮ ਪੈੱਨ	William Penn
+ਉਰੂਗੁਏਵੀ ਪੇਸੋ	Urugvaja peso
+ਇੰਸਟਾਗਰਾਮ	Instagram
+ਸੰਗੀਤ ਇਲਾਜ	Muzikoterapio
+ਜਿਰੋਕਾਸਤਰ ਜ਼ਿਲਾ	Distrikto Gjirokastër
+ਜਮੈਕੀ ਡਾਲਰ	Jamajka dolaro
+ਗਰਾੰਸ਼ ਜ਼ਿਲਾ	Distrikto Gramsh
+ਫਾਸ਼ੀਵਾਦ-ਵਿਰੋਧ	Kontraŭfaŝismo
+ਵੈਨੇਜ਼ੁਏਲਾ ਦੀ ਖਾੜੀ	Golfo de Venezuelo
+ਦਾਨ ਖ਼ੁਆਨ	Don Juan (literaturo)
+ਪਨਾਮਾਈ ਬਾਲਬੋਆ	Panama balboo
+ਬਰਮੂਡਾਈ ਡਾਲਰ	Bermuda dolaro
+ਉੱਚ-ਪੱਧਰੀ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ	Altnivela programlingvo
+ਮਿਖੇਲ ਸਲਤੀਕੋਵ-ਸ਼ਚੇਦਰਿਨ	Miĥail Saltikov-Ŝĉedrin
+ਬੇਬੁਰਤ	Bayburt
+ਕੂਸੋਵੇ ਜ਼ਿਲਾ	Distrikto Kuçovë
+ਦੰਡਾਣੁ	Bacilo
+ਬੋਕੋ ਹਰਾਮ	Boko Haram
+ਮਹਾਂਨਗਰੀ ਫ਼ਰਾਂਸ	Ĉeflanda Francio
+ਨਤਾਸ਼ਾ ਰਿਚਰਡਸਨ	Natasha Richardson
+ਕੋਹਿਨੂਰ	Koh-i-noor
+ਅਰੁੰਧਤੀ ਰਾਏ	Arundhati Roy
+ਮਨੋਵਿਗਿਆਨੀ	Psikologo
+ਗੁਇਆਨਵੀ ਡਾਲਰ	Gujana dolaro
+ਗੈਰ-ਗਲਪ	Nefikcio
+ਬੀ ਐਫ ਸਕਿਨਰ	Burrhus Frederic Skinner
+ਜਾਨ ਡਰਾਈਡਨ	John Dryden
+ਕੁਦਰਤੀ ਇਲਾਜ	Naturkuracado
+ਟੇਡੀ ਬੇਅਰ	Pluŝa urso
+ਹੈਨੋਈ ਦਾ ਸਤੰਭ	Turoj de Hanojo
+ਸਾਇਲੋਰ ਅਨਾਜ ਭੰਡਾਰਣ ਪ੍ਰਣਾਲੀ	Turstokejo
+ਊਬੁੰਟੂ (ਫ਼ਲਸਫ਼ਾ)	Ubuntu (filozofio)
+ਪਾਲ ਵਾਕਰ	Paul Walker
+ਅਮਾਨੀਟਾ	Amanito
+ਹੇ ਮਾਰਕੀਟ ਕਾਂਡ	Tumulto de Haymarket Square
+ਤੇਲ-ਸੋਧਕ ਕਾਰਖ਼ਾਨਾ	Naftorafinado
+ਨਿਕੋਸ ਕਜ਼ਾਨਜ਼ਾਕਸ	Nikos Kazantzakis
+ਨਾਟਕਕਾਰ	Dramaturgo
+ਵੈਦਿਕ ਕਾਲ	Veda Civilizo
+ਹੱਕਲਬਰੀ ਫ਼ਿਨ ਦੇ ਕਾਰਨਾਮੇ	La Aventuroj de Huckleberry Finn
+ਨਾਦੇਜ਼ਦਾ ਕਰੁਪਸਕਾਇਆ	Nadeĵda Krupskaja
+ਹਿੰਦ-ਯੂਨਾਨੀ ਰਾਜ	Hinda-Greka Regno
+ਜੂਲੀਅਸ ਸੀਜ਼ਰ (ਨਾਟਕ)	Julio Cezaro (literaturo)
+ਕਾਂਦੀਦ	Kandid aŭ la optimismo
+ਮੁੱਖ ਪਾਤਰ	Ĉefrolulo
+ਅਪਟਨ ਸਿੰਕਲੇਅਰ	Upton Sinclair
+ਸ਼ਹਿਰਜ਼ਾਦ	Ŝehrazad
+ਕਾਜ਼ੀ	Kadio
+ਸ਼ਾਹਰਾਹ ਕਰਾਕੁਰਮ	Karakoruma Ŝoseo
+ਖਾੜੀ ਦੇ ਅਰਬ ਦੇਸ਼ਾਂ ਦੀ ਸਹਿਕਾਰਤਾ ਪ੍ਰੀਸ਼ਦ	Golfa Koopera Konsilo
+ਵਸਨੀਕੀ ਨਾਂ	Laŭloka nomo
+ਜਾਰਜ ਗੁਰਜੀਏਫ	Georgij Gurĝijev
+ਓਕੇ	Okej
+ਛੱਬੀ ਜੁਲਾਈ ਅੰਦੋਲਨ	Movado 26-a de Julio
+ਮੋਰਾਰਜੀ ਦੇਸਾਈ	Morarji Desai
+ਸਰੀਰਕ ਕਸਰਤ	Korpekzercado
+ਪੋਂਜ਼ੀ ਸਕੀਮ	Skemo Ponzi
+ਪਾਏਦਾਰੀ	Daŭripovo
+ਗੁਲਾਬ ਇਨਕਲਾਬ	Revolucio de la rozoj
+ਦਲਿਤ	Dalito
+ਗ੍ਰੇਟ ਐਕਸਪੈਕਟੇਸ਼ਨਜ਼	Grandaj Anticipoj
+ਵਿਕਟੋਰੀਆ ਕਰੌਸ	Viktoria kruco
+ਲਲਿਤ ਕਲਾ	Belartoj
+ਜੋਂਗੁਲਡਕ ਪ੍ਰਾਂਤ	Provinco Zonguldak
+ਥਾਇਓਲ	Merkaptanoj
+ਅਫ਼ੀਮੀ ਜੰਗਾਂ	Opia milito
+ਚਾਤ੍ਰਿਕ	Akcipitra kukolo
+ਥਿਓਡੋਰ ਕਚੀਨਸਕੀ	Theodore Kaczynski
+ਤੱਤੇ ਖੱਬਿਆਂ ਦੀ ਕੋਲੀਸ਼ਨ	Koalicio de la Radikala Maldekstro
+ਪੈਤਰਿਕ ਮੋਦੀਆਨੋ	Patrick Modiano
+ਔਰਤਾਂ ਦੇ ਹੱਕ	Virinaj rajtoj
+ਬਹੁ-ਪਾਰਟੀ ਪ੍ਰਨਾਲੀ	Multpartia sistemo
+ਆਲ ਇੰਡੀਆ ਮੁਸਲਿਮ ਲੀਗ	Tuthindia Islama Ligo
+ਸਮੋਵਾਰ	Samovaro
+ਸ਼ੋਵੇਨਿਜ਼ਮ	Ŝovinismo
+ਸਿਜ਼ੇਰੀਅਨ	Cezara sekco
+ਮਦੁਰਈ	Maduraj
+ਕਲ ਯੁੱਗ	Kali Juga
+ਇਸਰੋ	Barata Organizo pri Kosmo Esplorado
+ਕੈਲਾਸ਼ ਪਰਬਤ	Kajlaŝ
+ਲੋਕ ਸਭਾ	Lok Sabha
+ਮਾਛੇਤੇ	Maĉeto
+ਸਕਾਟਲੈਂਡ ਦੀ ਰਾਜਸ਼ਾਹੀ	Reĝlando Skotlando
+ਅਕਸਾਈ ਚਿਨ	Akesajĉino
+ਅੰਨਾ ਹਜ਼ਾਰੇ	Anna Hazare
+ਸੀਵੀਆ ਗਿਰਜਾਘਰ	Katedralo de Sevilo
+ਭੀਮ ਰਾਓ ਅੰਬੇਡਕਰ	Bhimrao Ramji Ambedkar
+ਅਰੂਬਾਈ ਫ਼ਲੋਰਿਨ	Aruba guldeno
+ਰਾਬਟ ਬ੍ਰਾਉਨਿੰਗ	Robert Browning
+ਅਟਲ ਬਿਹਾਰੀ ਬਾਜਪਾਈ	Atal Bihari Vajpayee
+ਦ ਵੈਲਥ ਆਫ਼ ਨੇਸ਼ਨਜ	La Riĉo de Nacioj
+ਮਾਨਸਰੋਵਰ ਝੀਲ	Lago Manasarovar
+ਪੰਚਤੰਤਰ	Panĉatantra
+ਨਰਮਦਾ ਦਰਿਆ	Narmado
+ਕਕੜ	Muntjako
+ਮੱਕਾ ਸੂਬਾ	Emirlando Mekko
+ਸੁਹਾਂਜਣਾ	Moringa oleifera
+﻿ਹਦੀਸ	Hadito
+ਪਾਠ (ਸਾਹਿਤ ਸਿਧਾਂਤ)	Teksto
+ਗੱਡਾ	Ĉaro
+ਅੱਲਾਹ	Alaho
+ਐਲਿਸ ਮੁਨਰੋ	Alice Munro
+ਨਮਾਜ਼	Salat
+ਹੱਜ	Haĝo
+ਵੰਦਨਾ ਸ਼ਿਵਾ	Vandana Shiva
+ਦੱਖਣੀ ਕੋਨ	Suda Konuso
+ਓਲੀਵਰ ਗੋਲਡਸਮਿਥ	Oliver Goldsmith
+ਕ੍ਰਿਸਟੀਨਾ ਰੋਸੇਟੀ	Christina Rossetti
+ਨੈਓਮੀ ਕਲੇਨ	Naomi Klein
+ਰਿਚਮੰਡ	Richmond (Brita Kolumbio)
+ਮਾਲੇਸਿ ਈ ਮਾਧੇ ਜ਼ਿਲਾ	Distrikto Malësi e Madhe
+ਮਿਰਦਿਤ ਜ਼ਿਲਾ	Distrikto Mirditë
+ਬੁਰੂੰਡੀ ਫ਼੍ਰੈਂਕ	Burunda franko
+ਜੈਨੀ ਵਾਨ ਵੇਸਟਫਾਲੇਨ	Jenny Marx
+ਮਾਂਗਿਸਤੌ	Provinco Mangistau
+ਲੂਣ ਸੱਤਿਆਗ੍ਰਹਿ	Salomarŝo
+ਸ਼ਿਵਾ ਜੀ	Ŝivaĝi
+ਸੀਰੀਆਈ ਪਾਊਂਡ	Siria pundo
+ਜਿਲਦਬੰਦੀ	Librobindado
+ਯਮਨੀ ਰਿਆਲ	Jemena rialo
+ਬੁਢਾ ਗੋਰੀਓ	Patro Goriot
+ਗਾਇਤਰੀ ਸਪੀਵਾਕ	Gayatri Chakravorty Spivak
+ਐਂਮਾ ਲਾਜ਼ਰ	Emma Lazarus
+ਬਸਟ (ਮੂਰਤੀ)	Busto
+ਖੁਜਿਸਤਾਨ ਰਿਆਸਤ	Ĥuzestano
+ਮਕਾਉਈ ਪਤਾਕਾ	Makaa patako
+ਓਰਹਾਨ ਪਾਮੁਕ	Orhan Pamuk
+ਟੋਰਾਂਟੋ ਪੀਅਰਸਨ ਕੌਮਾਂਤਰੀ ਹਵਾਈ ਅੱਡਾ	Internacia Flughaveno Toronto Pearson
+ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਤੋਬਾਗੋ ਡਾਲਰ	Trinidada dolaro
+ਕੋਸਟਾ ਰੀਕਾਈ ਕੋਲੋਨ	Kostarika kolumbo
+ਡੋਮਿਨਿਕਾਈ ਪੇਸੋ	Dominga peso
+ਗੁਜਰਾਂਵਾਲਾ	Guĝranvalo
+ਸੋਮਾਲੀ ਖ਼ਾਨਾਜੰਗੀ	Somalia enlanda milito
+ਬਰਿਕਸ	BRICS
+ਹਾਇਲ ਰਿਆਸਤ	Emirlando Hail
+ਆਵਾਜਾਈ ਦੀ ਖੜੋਤ	Trafikŝtopiĝo
+ਗੋਰਖਪੁਰ	Gorakhpur
+ਪੀਟ ਸੀਗਰ	Pete Seeger
+ਕੋਲੰਬੀਆਈ ਪੇਸੋ	Kolombia peso
+ਨਵਾਂ ਤਾਈਪਈ ਸ਼ਹਿਰ	Novtajpeo
+ਸੇਗੋਵੀਆ ਦਾ ਜਲ-ਮਾਰਗ	Akvedukto de Segovio
+ਹਰਕੂਲੀਜ਼ ਮੀਨਾਰ	Turo de Herkulo
+ਵਿਸ਼ਲੇਸ਼ਣੀ ਮਨੋਵਿਗਿਆਨ	Analiza psikologio
+ਖੇਤਰਫਲ ਪੱਖੋਂ ਮਾਰੂਥਲਾਂ ਦੀ ਸੂਚੀ	Listo de dezertoj laŭ areo
+ਰੁਬਾਈ	Robajo
+ਲਾਲ ਫੌਜ	Ruĝa Armeo
+ਹੈਲੋਵੀਨ	Halloween
+ਫੀਫਾ	FIFA
+ਕਰੀਮੀਆਈ ਜੰਗ	Krimea milito
+ਜੰਮੂ (ਸ਼ਹਿਰ)	Ĝamu
+ਰਾਬਿਆ ਬਸਰੀ	Rabia (sufisma poetino)
+ਵਿਸ਼ਵ ਸਾਹਿਤ	Tutmonda literaturo
+ਬੁਰੈਦਾ	Burajda
+ਬੋਨ ਜੋਵੀ	Bon Jovi
+ਲੌਰਾ ਮਾਰਕਸ	Laura Marx
+ਅਨੁਸ਼ਕਾ ਸ਼ੰਕਰ	Anoushka Shankar
+ਆਸਟ੍ਰੇਲੀਆਈ ਡਾਲਰ	Aŭstralia dolaro
+ਜਾਦੂ-ਟੂਣਾ	Sorĉado
+ਐਮੀ ਮੌਲਿੰਜ਼	Aimee Mullins
+ਬਹੁ-ਸੁਘੜਤਾ ਸਿਧਾਂਤ	Teorio pri multoblaj inteligentoj
+ਉੜਾਊ ਪੁੱਤਰ ਦੀ ਵਾਪਸੀ	Parabolo de la erarinta filo
+ਮੇਤੀ ਲੋਕ (ਕੈਨੇਡਾ)	Metisoj
+ਕਾਰਮਾਨ	Karaman
+ਦੱਖਣ-ਪੂਰਬੀ ਯੂਰਪ	Sudorienta Eŭropo
+ਚੌਧਰੀ ਰਹਿਮਤ ਅਲੀ	Choudhry Rahmat Ali
+ਮਾਇਆਵਤੀ	Mayawati Kumari
+ਟਿਮ ਕੁਕ	Tim Cook
+ਹੱਡੀ	Osto
+ਜਿਆਕੋਮੋ ਮਾਤਿਓਤੀ	Giacomo Matteotti
+ਇਸਪਾਰਤਾ ਸੂਬਾ	Provinco Isparta
+ਅਮਰਾਵਤੀ	Amravati
+ਸ਼ਬਰਾ ਅਲ-ਖ਼ੇਮਾ	Ŝubra al Ĥejma
+ਅਲ ਹਦੀਦਾ	Al-Hudaida
+ਕੈਥਰੀਨ ਮੈਂਸਫੀਲਡ	Katherine Mansfield
+ਜਰਸੀ ਪਾਊਂਡ	Ĵerseja pundo
+ਗਿੱਦੜ ਪੀੜ੍ਹੀ	Sigelvaksa fungo
+ਵਿੰਧਿਆ	Vindhya-Montaro
+ਅਲੈਗਜ਼ੈਂਡਰ ਕੂਪਰਿਨ	Aleksandr Kuprin
+ਬਿਰਿਆਨੀ	Birjano
+ਨਿਕੋਲਾਈ ਓਸਤਰੋਵਸਕੀ	Nikolaj Ostrovskij
+ਲਾਰਡ ਕਰਜਨ	George Curzon
+ਦਿਸਪੁਰ	Dispur
+ਟੈੱਡ ਹਿਊਜ਼	Ted Hughes
+ਓਮਾਨੀ ਰਿਆਲ	Omana rialo
+ਹਰਿਦੁਆਰ	Haridwar
+ਸੋਨੇ ਲਈ ਦੌੜ	Orimpetego
+ਪਾਲ ਰਾਬਸਨ	Paul Robeson
+ਵਿਲੀਅਮ ਜੋਨਜ਼ (ਭਾਸ਼ਾ ਸ਼ਾਸਤਰੀ )	William Jones
+ਅਜ਼ਰਬਾਈਜਾਨ (ਇਰਾਨ)	Azerbajĝano (Irano)
+ਬੇਲੀਜ਼ੀ ਡਾਲਰ	Beliza dolaro
+ਏਡਿਥ ਵਾਰਟਨ	Edith Wharton
+ਅਮੇਰੀਕਨ ਫੁਟਬਾਲ ਕਾਨਫਰੰਸ	American Football Conference
+ਬਾਲੀ ਸਮੁੰਦਰ	Balia Maro
+ਗ਼ਜ਼ਲ	Gazalo
+ਓਸਮਾਨੀਏ	Provinco Osmaniye
+ਹਿੰਦੂਤਵ	Hindutvo
+ਚੈੱਕ ਸਾਹਿਤ	Ĉeĥlingva literaturo
+ਸ਼ਹਾਬ ਉੱਦ ਦੀਨ ਸੁਹਰਾਵਰਦੀ	Sohraŭardi
+ਰਾਮਦੇਵ	Ramakiŝano Jadav
+ਰਾਮਨ ਮਹਾਰਿਸ਼ੀ	Ramana Maharŝi
+ਉਰਦੂ ਸ਼ਾਇਰੀ	Urdua poezio
+ਅਬੋਧਵਾਦ	Agnostikismo
+ਅਲੁਕਸਨ	Alūksne
+ਜੈਨੀਸ ਰਿਤਸੋਸ	Giannis Ritsos
+ਇਪੋਲਾਈਤ ਤੇਨ	Hippolyte Taine
+ਯੇਵਗੇਨੀ ਯੇਵਤੁਸ਼ੇਂਕੋ	Jevgenij Jevtuŝenko
+ਮੁਕੇਸ਼ ਅੰਬਾਨੀ	Mukeŝ Ambani
+ਡੈੱਨਮਾਰਕੀ ਬਸਤੀਵਾਦੀ ਸਾਮਰਾਜ	Dana kolonia imperio
+ਨਗੂਗੀ ਵਾ ਥਿਉਂਗੋ	Ngugi wa Thiong'o
+ਦੱਖਣੀ ਅਫ਼ਰੀਕੀ ਕਮਿਊਨਿਸਟ ਪਾਰਟੀ	Sudafrika Komunista Partio
+ਧੀ	Filino
+ਅਬਜਦ ਗਿਣਤੀ	Abjad-numeraloj
+ਏ ਟੇਲ ਆਫ਼ ਟੂ ਸਿਟੀਜ਼	Rakonto pri Du Urboj
+ਯਾਂ ਜਿਰਾਦੂ	Jean Giraudoux
+ਔਲਾ (ਪੌਦਾ)	Embliko
+ਬਹਿਰੀ ਖ਼ਰਤੂਮ	Norda Ĥartumo
+ਜਾਹਨ ਰੀਡ (ਪੱਤਰਕਾਰ)	John Reed
+ਸਾਕੀ	Saki
+ਐਲਫ਼ਰਡ ਲੂਈਸ ਕਰੋਬਰ	Alfred Kroeber
+ਅਲੈਕਸਿਸ ਤਸੀਪਰਾਸ	Aleksis Tsipras
+ਜਾਮੀ	Ĝami
+ਕੋਬਾਯਾਸ਼ੀ ਇੱਸਾ	Kobayashi Issa
+ਮਿਰਜ਼ਾ ਗ਼ੁਲਾਮ ਅਹਿਮਦ	Mirza Ghulam Ahmad
+ਖਾਨ ਅਬਦੁਲ ਗਫਾਰ ਖਾਨ	Khan Abdul Ghaffar Khan
+ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ	Gobind Singh
+ਅਲਗਿਰਦਾਸ ਜੂਲੀਅਨ ਗ੍ਰੇਮਾਸ	Algirdas Julius Greimas
+ਆਰਨੋਲਡ ਬੈਨੇਟ	Arnold Bennett
+ਜਗਦੀਸ਼ ਚੰਦਰ ਬੋਸ	Jagadish Chandra Bose
+ਸਲਮਾਨ ਤਾਸੀਰ	Salmaan Taseer
+ਤਾਰਿਕ ਅਲੀ	Tariq Ali
+ਮਾਸਾਓਕਾ ਸ਼ਿਕੀ	Masaoka Shiki
+ਸਰਗੇਈ ਅਕਸਾਕੋਵ	Sergio Aksakov
+ਇਰਵਿਨ ਸ਼ਾਅ	Irwin Shaw
+ਵਿਲੀਅਮ ਕੂਪਰ	William Cowper
+ਸੈਂਟਾ ਕਲਾਜ਼	Kristnaska Viro
+ਏਦਿ ਰਾਮਾ	Edi Rama
+ਗੁਲਜ਼ਾਰੀ ਲਾਲ ਨੰਦਾ	Gulzarilal Nanda
+ਬਹਾਵਲਪੁਰ	Bahavalpur
+ਕੇਮਨ ਟਾਪੂ ਡਾਲਰ	Kajmana dolaro
+ਅਮਰੂਦ	Gujavo
+ਬੇਨਿਨ ਸ਼ਹਿਰ	Beninurbo
+ਬੋਧੀ ਰੁੱਖ	Pipalo
+ਘਿਉ	Gio
+ਆਯਾਪਾਨੇਕੋ	Ajapaneka lingvo
+ਵਾਲਕਾ	Valka
+ਫਰਾਂਸੀਸੀ ਰਾਸ਼ਟਰੀ ਦਿਵਸ	Nacia tago de Francio
+ਟਾਮ ਸਾਇਅਰ ਦੇ ਕਾਰਨਾਮੇ	La Aventuroj de Tom Sawyer
+ਸਥਿਰ ਅਨੁਪਾਤ ਦਾ ਨਿਯਮ	Leĝo de la difinitaj proporcioj
+ਬੇਰੀ	Ziziphus mauritiana
+ਉਬੇਦਾ	Úbeda
+ਫ਼ਾਕਲੈਂਡ ਟਾਪੂ ਪਾਊਂਡ	Falklanda pundo
+ਬਿਆਸ (ਰਿਸ਼ੀ)	Vjaso
+ਕੋਟਾ	Kota (Raĝastano)
+ਮੋਰਾਦਾਬਾਦ	Moradabad
+ਬਾਦਸ਼ਾਹੀ ਮਸਜਿਦ	Moskeo Badŝahi
+ਮੂਡ (ਮਨੋਵਿਗਿਆਨ)	Humoro
+ਵਿਜ਼ਕਾਇਆ ਪੁੱਲ	Ponto de Biskajo
+ਰੱਬ	Lordo
+ਵਾਧੂ ਮੁੱਲ	Plusvaloro
+ਗ੍ਰੋਤੋਵਸਕੀ	Jerzy Grotowski
+ਸੀਆਚਿਨ ਗਲੇਸ਼ੀਅਰ	Siaĉen
+ਸਰੋਗੇਸੀ	Lupatrino
+ਕਾਜ਼ੀ ਨਜ਼ਰੁਲ ਇਸਲਾਮ	Kazi Nazrul Islam
+ਮਾਸਾਨੋਬੂ ਫੁਕੂਓਕਾ	Fukuoka Masanobu
+ਲਾਰਡ ਵੈਲਜਲੀ	Richard Wellesley
+ਅਬੂਗੀਦਾ	Abugido
+ਸਲੋ ਫੂਡ	Slow Food
+ਸੀਰੀਆਈ ਮਾਰੂਥਲ	Siria Dezerto
+ਹਿੱਪੀ	Hipio
+ਕੂਕਾਬਰਾ	Kukabaraoj
+ਹਰਿਸਤੋ ਬੋਤੇਵ	Ĥristo Botev
+ਹਸਨ ਰੂਹਾਨੀ	Hasan Ruhani
+ਘਰੇਲੂ ਰਸੋਈ ਗੈਸ	LPG
+ਐਲਨ ਵਿਲਸਨ ਵਾਟਸ	Alan Watts
+ਜਰਨੈਲ ਸਿੰਘ ਭਿੰਡਰਾਂਵਾਲਾ	Jarnail Singh Bhindranwale
+ਤੀਨੋ ਰੋਸੀ	Tino Rossi
+ਮਾਰੇਕ ਗਰੇਹੂਤਾ	Marek Grechuta
+ਬਾਰਿਸ ਨਿਮਤਸੋਫ਼	Boris Nemcov
+ਫ਼ਾਰਸੀ ਸਾਹਿਤ	Perslingva literaturo
+ਅਹਿਮਦ ਸ਼ਾਮਲੂ	Ahmad Ŝamlu
+ਕਿਊਬਾ ਦੀ ਕਮਿਊਨਿਸਟ ਪਾਰਟੀ	Kuba Komunisma Partio
+ਰਾਇਪੁਰ	Rajpuro
+ਦ ਕਿੱਡ (1921ਫਿਲਮ)	The Kid (filmo de 1921)
+ਜੱਦਾ	Ĝido
+ਤਾਰਪੂੰਝਾ	Dratvosta hirundo
+ਏਰਜੁਰਮ	Provinco Erzurum
+ਰੈਗਿਸ ਡੈਬਰੇ	Régis Debray
+ਸੈਰਾ ਦੇ ਤਰਾਮੁਨਤਾਨਾ	Serra de Tramuntana
+ਬਿਸਮਿੱਲਾਹ ਖ਼ਾਨ	Bismillah Ĥan
+ਕਿਰਿਆ-ਵਿਸ਼ੇਸ਼ਣ	Adverbo
+ਮੋਤੀਲਾਲ ਨਹਿਰੂ	Motilal Nehru
+ਫ਼ੈਜ਼ ਅਹਿਮਦ ਫ਼ੈਜ਼	Faiz Ahmed Faiz
+ਏਰੋਜੈੱਲ	Aeroĝelo
+ਟੰਬਲਰ	Tumblr
+ਅਹਲ ਅਲਬੈਤ	Ahl al-Bajt
+ਓਤੋਮੋ ਨੋ ਯਾਕਾਮੋਚੀ	Otomo-no Jakamoti
+ਡਾਕਟਰ ਫ਼ੌਸਟਸ	Doktor Faustus
+ਕੁਰੁਕਸ਼ੇਤਰ ਯੁਧ	Milito de Kurukŝetro
+ਵਾਰਵਾਰੀ ਇਸ਼ਾਰੀਆ	Pozicia frakcio
+ਸਾਂਤਾ ਮਾਰੀਆ ਲਾ ਰਿਆਲ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Pamplono
+ਆਗੁੰਤਕ	Agantuk
+ਸਰ੍ਹੀ, ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ	Surrey (Brita Kolumbio)
+ਪ੍ਰੋਟੈਸਟੈਂਟ ਇਖਲਾਕ ਅਤੇ ਪੂੰਜੀਵਾਦ ਦੀ ਰੂਹ	Protestanta etiko kaj la spirito de kapitalismo
+ਅਘੋਰ ਪੰਥ	Aghori
+ਅਗਨੀ	Agni
+ਇਵਾਨ ਇਲੀਅਚ ਦੀ ਮੌਤ	La Morto de Ivan Iljiĉ
+ਓਵਰਕੋਟ	Palto (novelo)
+ਹਰਾ ਮੱਖੀ-ਖਾਣਾ	Hindia abelmanĝulo
+ਖ਼ਾਇਨ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Ĥaeno
+ਬੈਂਗਣੀ (ਰੰਗ)	Viola
+ਨਵਸੇਹਰ	Provinco Nevşehir
+ਦੁਜ਼ਗੇ	Provinco Düzce
+ਮਿੰਬਰ	Minbaro
+ਪੋਪ ਫ਼ਰਾਂਸਿਸ	Francisko (papo)
+ਅਮਰਨਾਥ	Amarnath
+ਏ ਓ ਹਿਊਮ	Allan Octavian Hume
+ਸਿਧਾਰਥ (ਨਾਵਲ)	Sidarto (romano)
+ਉਲਹਾਸਨਗਰ	Ulhasnagar
+ਰੇਈਨਾ ਸੋਫ਼ੀਆ ਕੌਮੀ ਕਲਾ ਕੇਂਦਰ ਅਜਾਇਬਘਰ	Muzeo Reĝino Sofia
+ਬਾਰ ਬੀ ਕਿਊ	Kradrostado
+ਪੈਰਿਸ ਕਲੱਬ	Klubo de Parizo
+ਦੋਨਿਆਨਾ ਕੌਮੀ ਪਾਰਕ	Doñana
+﻿ਚਾਦਰ	Ĉadoro
+ਜੀਵ ਵੰਨ-ਸੁਵੰਨਤਾ ਦਿਹਾੜਾ	Monda Biodiverseca Tago
+ਐਨੀ ਬੇਸੈਂਟ	Annie Besant
+ਫ਼ਾਰੂਕ ਫ਼ਰੂਖ਼ਜ਼ਾਦ	Forug Farroĥ-Zad
+ਈਦ ਉਲ-ਫ਼ਿਤਰ	Eid ul-Fitr
+ਮੁਖ਼ਤਾਰ ਮਾਈ	Mukhtaran Bibi
+ਗਾਰਾਖ਼ੋਨਾਈ ਕੌਮੀ ਪਾਰਕ	Nacia Parko Garajonay
+ਨੂਰ ਇਨਾਇਤ ਖ਼ਾਨ	Noor Inayat Khan
+ਪੂਰਬੀ ਘਾਟ	Orientaj Ghatoj
+ਅਲਮਾਦੇਨ	Almadén
+ਏ ਪੋਰਟਰੇਟ ਆਫ਼ ਦੀ ਦ ਆਰਟਿਸਟ ਐਜ ਏ ਯੰਗਮੈਨ	A Portrait of the Artist as a Young Man
+ਬੋਹੜ	Banjano
+ਤਈਜ਼	Taiz
+ਅਮਰੀਕੀ ਮਨੋਵਿਗਿਆਨਕ ਸਭਾ	Usona Asocio pri Psikologio
+ਸਿਮੀਨ ਬੇਹਬਹਾਨੀ	Simin Behbahani
+ਅਸ਼ੁਰ ਦਾਨ ੨	Aŝur-dan la 2-a
+ਉਸਤਾਦ ਅਲੀ ਅਕਬਰ ਖ਼ਾਨ	Ali Akbar Khan
+ਇੰਸਪੈਕਟਰ ਜਨਰਲ (ਨਾਟਕ)	La Revizoro
+ਜੌਨ ਮੇਸਫ਼ੀਲਡ	John Masefield
+ਢਿਲਕ (ਭੌਤਿਕ ਵਿਗਿਆਨ)	Plasta aliformiĝo
+ਸੀਤਾਫਲ	Reteta anono
+ਉਰੁਗੇਂਚ	Urgenĉo
+ਕੈਪ੍ਰੀਵੀ	Caprivi-regiono
+ਕੈਮਲੂਪਸ	Kamloops (Brita Kolumbio)
+ਨਮਾਗਾਨ ਵਿਲੋਇਤੀ	Provinco Namangano
+ਸੰਘੀ ਜ਼ਿਲ੍ਹਾ	Federacia Distrikto
+ਭਾਰਤੀ ਸੰਵਿਧਾਨ	Konstitucio de Barato
+ਖਰਬੂਜਾ	Kantalupo
+ਸ਼ਰੀਆ	Ŝario
+ਪਾਰੀ ਸਾਂ-ਜਰਮਾਂ ਫੁੱਟਬਾਲ ਕਲੱਬ	Paris SG
+ਸਾਮਸੂਨ ਸੂਬਾ	Provinco Samsun
+ਬੇਬੁਰਤ ਸੂਬਾ	Provinco Bayburt
+ਓਰਦੂ	Provinco Ordu
+ਕਾਸਤਾਮੋਨੋ ਸੂਬਾ	Provinco Kastamonu
+ਵਰਤਾਰਾ	Fenomeno
+ਵਿਧਾ	Ĝenro
+ਕਾਇਸੇਰੀ	Provinco Kayseri
+ਕਲਾਕਾਰ	Artisto
+ਆਈਸਾਡੋਰਾ ਡੰਕਨ	Isadora Duncan
+ਸੁੰਨੀ ਇਸਲਾਮ	Sunaismo
+ਅਜ਼ਰਬਾਈਜਾਨੀ ਮਨਾਤ	Azerbajĝana manato
+ਸ਼ਿੰਡਲਰਜ਼ ਲਿਸਟ	Schindler's List
+ਡ੍ਰੋਨ ਜਹਾਜ	Senhoma aviadilo
+ਮੁਹੰਮਦ ਇਕਬਾਲ	Muhammad Ikbal
+ਆਕਸੀਕਰਨ ਸੰਖਿਆ	Oksidiĝa nombro
+ਫ਼ਿਕਾ	Fikho
+ਅਨੁਪਰਾਸ ਅਲੰਕਾਰ	Aliteracio
+ਵੈਂਟਵਰਦ ਮਿੱਲਰ	Wentworth Miller
+ਕਾਰਾਗੰਡੀ	Karagando
+ਭਾਸ਼ਾ ਦਾ ਦਰਸ਼ਨ	Filozofio de lingvo
+ਉੱਤਰੀ ਕਜ਼ਾਖ਼ਿਸਤਾਨ ਸੂਬਾ	Provinco Norda Kazaĥio
+ਔਰੰਗਜ਼ੇਬ	Aŭrangzebo
+ਰਾਣੀ ਮੁਖਰਜੀ	Rani Mukerji
+ਕੋਸਤਾਨਾਏ ਸੂਬਾ	Provinco Kostanajo
+ਪਾਵਲੋਦਰ (ਪ੍ਰਾਂਤ)	Provinco Pavlodaro
+ਪਾਵਲੋਦਰ	Pavlodar
+ਇਸਲਾਮੋਫ਼ੋਬੀਆ	Islamofobio
+ਤੁਰਕਮੇਨਿਸਤਾਨੀ ਮਨਦ	Turkmena manato
+ਇਡ, ਈਗੋ ਅਤੇ ਸੁਪਰ-ਈਗੋ	Mio, Supermio, kaj Ĝio
+ਬੁਖਾਰਾ ਪ੍ਰਾਂਤ	Provinco Buĥaro
+ਅੰਦੀਜਾਨ ਪ੍ਰਾਂਤ	Provinco Andiĝono
+ਸੁਰਖਾਨਦਰਿਆ ਸੂਬਾ	Provinco Surĥandarjo
+ਸਿਰਦਾਰਿਓ ਸੂਬਾ	Provinco Sirdarjo
+ਖੋਰੇਜਮ ਸੂਬਾ	Provinco Ĥorazmo
+ਨਵੋਈ ਵਿਲੋਇਤੀ	Provinco Navojo
+ਕਸ਼ਕਾਦਰਯੋ ਵਿਲੋਇਤੀ	Provinco Kaŝkadarjo
+ਤਾਸ਼ਕੇਂਤ ਸੂਬਾ	Provinco Taŝkento
+ਅੰਦਿਜਨ	Andiĝono
+ਉਜ਼ਬੇਕਿਸਤਾਨੀ ਸੋਮ	Uzbeka somo
+ਬਾਏਸਾ	Baeza
+ਜਿਜ਼ਾਖ ਸੂਬਾ	Provinco Ĝizaĥo
+ਅਲੀ ਬਾਬਾ	Ali Babo kaj kvardek rabistoj
+ਸਮੋਸਾ	Samoso (manĝaĵo)
+ਨਮਾਗਾਨ	Namangano
+ਵਿਧੀ ਵਿਗਿਆਨ	Jurmedicino
+ਕਾਇਨ	Kajino
+ਲਵ ਇਨ ਦਾ ਟਾਈਮ ਆਫ਼ ਕੋਲਰਾ	Amo en la tempoj de ĥolero
+ਸ਼ਾਲਾਮਾਰ ਬਾਗ਼	Ĝardenoj de Ŝalimar
+ਨੰਗੀ ਅੱਖ	Nuda okulo
+ਰਾਜ ਅਤੇ ਇਨਕਲਾਬ	Ŝtato kaj Revolucio
+ਬੁਰਗੋ ਦੇ ਓਸਮਾ ਗਿਰਜਾਘਰ	Katedralo de Burgo de Osma
+ਰੋਮਾਂ ਆ ਕਲੇ	Ŝlosilromano
+ਤੈਰੂਅਲ ਗਿਰਜਾਘਰ	Katedralo de Teruelo
+ਸਮਭਾਰਿਕ (ਵਿਗਿਆਨ)	Sammasnumera izotopo
+ਨੀਦਰਲੈਂਡ ਐਂਟੀਲੀਆਈ ਗਿਲਡਰ	Nederlandantila guldeno
+ਅਰੀਫ਼ ਦੀ ਜੰਨਤ	Ĝeneralifo
+ਮਿਲੋਸ਼ ਮਾਤਸੋਉਰੇਕ	Miloš Macourek
+ਹੋਲੋਗ੍ਰਾਮ	Holografio
+ਤੋਤਲਾਪਣ	Lispado
+ਅਲ-ਅਨਫਾਲ ਮੁਹਿੰਮ	Operaco Anfal
+ਆਰਾਨਖ਼ੁਇਸ ਦਾ ਸ਼ਾਹੀ ਮਹਿਲ	Reĝa Palaco de Aranjuez
+ਇਸਤਾਂਬੁਲ ਸੂਬਾ	Provinco İstanbul
+ਦੱਖਣੀ ਭਾਰਤ	Suda Barato
+ਲਕਸ਼ਦੀਪ ਸਮੁੰਦਰ	Lakediva Maro
+ਸਿਉਂਕ	Termito
+ਸੇਗੋਵੀਆ ਦਾ ਕਿਲਾ	Alkazaro de Segovio
+ਭਰਤਪੁਰ	Bharatpur (Barato)
+ਬਾਓਟੂ	Baŭtoŭo
+ਹੱਦੋਂ ਵੱਧ ਵਾਰਵਾਰਤਾ	Milimetra ondo
+ਜੰਗੀ ਯਾਦਗਾਰ	Memormonumento pri militmortintoj
+ਇਫ਼ਤਾਰ	Iftar
+ਚੋਣ ਪੇਟੀ	Balotilujo
+ਪੁਐਂਤੇ ਦੇ ਆਲਕਾਨਤਾਰਾ	Ponto de Alkantaro (Toledo)
+ਯੌਡਜਾ ਦੇ ਲਾ ਸੇਦਾ	Varborso de la Silko
+ਲੈਕਚਰ	Lekcio
+ਗ਼ੈਰ-ਬਟੇਨੁਮਾ ਸੰਖਿਆ	Neracionala nombro
+ਸ਼ਾਹੀ ਕਿਲਾ	Fortikaĵo de Lahore
+ਬੁਰਸ਼	Broso
+ਭਾਰਤੀ ਸਾਹਿਤ	Hindia literaturo
+ਏ ਪੈਸੇਜ ਟੂ ਇੰਡੀਆ	A Passage to India
+ਨਾਈਟ ਕਲੱਬ	Noktoklubo
+ਸਵੈ-ਹਾਨੀ	Memvundanta konduto
+ਦਹੀ	Kazeo
+ਨੁਮਾਨਸੀਆ	Numanco
+ਪਵੇਲ ਕੋਲੋਬਕੋਵ	Pavel Kolobkov
+ਹਿੰਦ ਅਧਿਐਨ	Hindologio
+ਅਰਾਵਲੀ	Aravali-Montaro
+ਸੈਂਟਰੀਫ਼ਿਊਗਲ ਪੰਪ	Centrifuga pumpilo
+ਪਾਰਲੀ ਵਾਰਵਾਰਤਾ	Decimetra ondo
+ਰੱਖ (ਸਦਾਚਾਰ)	Naturprotekto
+ਸਾਂਚੋ ਪਾਂਜਾ	Sanĉo Panzo
+ਕਾਮਰੇਡ	Kamarado
+ਸ਼ਖ਼ਸੀਅਤ	Personeco
+ਪੋਬਲੈੱਤ ਮੱਠ	Monaĥejo de Poblet
+ਕਾਦਿਜ਼ ਗਿਰਜ਼ਾਘਰ	Katedralo de Kadizo
+ਬਹੀਰਾ ਸਮੁੰਦਰ	Maro de la Finna Insularo
+ਗੁਇਆਨੀ ਮੁਲਕ	Gujanoj
+ਸ਼ੁੰਗ ਰਾਜਵੰਸ਼	Sunga imperio
+ਕਾਇਆਹ ਰਾਜ	Kajaho
+ਸਪੇਨੀ ਅਮਰੀਕਾ	Hispanameriko
+ਖੰਭਾਤ ਦੀ ਖਾੜੀ	Kambej-Golfo
+ਰੰਗ ਦ੍ਰਿਸ਼	Spektro
+ਸਾਧ-ਸੰਤ	Sadhuo
+ਰੁਜ਼ਗਾਰ	Dungito
+ਦਾ ਫਾਲਟ ਇਨ ਆਵਰ ਸਟਾਰਸ (ਨਾਵਲ)	The Fault in Our Stars
+ਸਾਮਬਾਸਾ-ਮੁਨਦੀਆਲੈਕਤ	Sambahsa-mundialect
+ਕੈਰੀਬੀਆ	Karibio
+ਵੈਸਟ ਇੰਡੀਜ਼	Okcidentaj Indioj
+ਨੋ ਐਗਜਿਟ	Sen Eliro
+ਲੈਲਾ ਮਜਨੂੰ	Lejla kaj Maĝnun
+ਮਾਚੂ ਪਿਕਚੂ	Maĉupikĉuo
+ਤੇਲੰਗਾਨਾ	Telangano
+ਹੈਤੀ ਇਨਕ਼ਲਾਬ	Haitia revolucio
+ਗੁਰਮੁਖੀ ਲਿਪੀ	Gurumuĥi-ortografio
+ਦ ਰਾਈਮ ਆਫ਼ ਦੀ ਏਨਸੀਐਂਟ ਮੇਰੀਨਰ	The Rime of the Ancient Mariner
+ਅੰਗ (ਸਰੀਰੀ ਬਣਤਰ)	Organo
+ਦੁਨੀਆਂ ਦੇ ਨਵੇਂ ਸੱਤ ਅਜੂਬੇ	Novaj sep mirindaĵoj de la mondo
+ਤੇਈਦੇ ਕੌਮੀ ਪਾਰਕ	Nacia Parko de Teide
+ਵਾਲਮੀਕ	Valmikio
+ਫ਼ੌਜੀ ਕਨੂੰਨ	Militjuro
+ਬੇਗਾਡਾਨ	Bégadan
+ਸ਼ਿਕਰਾ	Ŝikro
+ਹਿੰਦੀ ਵਿਕੀਪੀਡੀਆ	Hindilingva Vikipedio
+ਯੂ ਆਰ ਅਨੰਤਮੂਰਤੀ	U R Ananthamurthy
+ਲਾਰਡ ਜਿਮ	Lord Jim
+ਰਿਗਵੇਦ	Rigvedo
+ਹਾਇਬਨ	Hajbuno
+ਫੁਮਲਹੌਤ ਬੀ	Fomalhaut b
+ਕਿਊਬਾਈ ਵਟਾਂਦਰਾਯੋਗ ਪੇਸੋ	Konvertebla kuba peso
+ਓਗਰੇ, ਲਾਤਵੀਆ	Ogre
+ਡੈਵਿਡ ਲੈਕ	David Lack
+ਦਾਰਸ਼ਨਕ ਯਥਾਰਥਵਾਦ	Realismo
+ਯੂਨੀਸੈਫ਼	UNICEF
+ਫ਼ਾਰਸੀ ਲਿਪੀ	Araba-persa alfabeto
+ਸਾਲਦੁਸ	Saldus
+ਬੁਰਗੋਸ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Burgoso
+ਕਾਸਾ ਵਿਸੇਂਸ	Domo Vicens
+ਬ੍ਰਹਮ	Brahmano
+ਸਾਰਾਂਦੇ ਜ਼ਿਲਾ	Distrikto Sarandë
+ਯਾਸਨਾਇਆ ਪੋਲੀਆਨਾ	Jasnaja Polana
+ਚਾਰ ਮਹਾਨ ਕਲਾਸੀਕਲ ਨਾਵਲ	Kvar famaj klasikaj romanoj
+ਵਿਸ਼ਵ ਸ਼ਰਨਾਰਥੀ ਦਿਵਸ	Monda Tago de Rifuĝinto
+ਦੱਖਣੀ ਏਸ਼ੀਆ	Suda Azio
+ਛਾਂਦੋਗਯ ਉਪਨਿਸ਼ਦ	Ĉandogja upaniŝado
+ਚਾਹਤ	Avido
+ਅਸੀਰ ਰਿਆਸਤ	Emirlando Asiro
+ਵਿਅਕਤੀ	Individuo
+ਬਾਬਰ	Babur
+ਏਸ਼ੀਆਈ ਕੋਇਲ	Azia koelo
+ਬਹਰਾਮ ਬੇਜ਼ਾਈ	Bahram Bejzai
+ਸੁਨਹਿਰੀ ਤਿਕੋਣ (ਦੱਖਣ-ਪੂਰਬੀ ਏਸ਼ੀਆ)	Ora Triangulo (Sudorienta Azio)
+ਸਲਵਾਰ ਕਮੀਜ਼	Ŝaravaro
+ਤਕਨੀਕੀ ਸਿੱਖਿਆ	Metia Instruado
+ਆਤਮ (ਦਰਸ਼ਨ)	Subjekto
+ਹੱਵਾ	Eva
+ਕਾਵਿ ਸ਼ਾਸਤਰ	Poetiko
+ਏਪੇ	Spado
+ਪੱਛਮੀ ਦਰਸ਼ਨ	Okcidenta filozofio
+ਅਬਾਦੀ ਪੱਖੋਂ ਢੁਕਵੇਂ ਸ਼ਹਿਰਾਂ ਦੀ ਸੂਚੀ	Listo de milionurboj
+ਕੁੰਤੀ	Kunti
+ਦੱਖਣੀ ਕੈਲੀਫ਼ੋਰਨੀਆ	Suda Kalifornio
+ਕੱਛ ਦੀ ਖਾੜੀ	Kutĉ-Golfo
+ਚੇਪੀ	Glumarko
+ਮਹਾਜਨਪਦ	Mahajanapado
+ਅਲਮੂਦੇਨਾ ਗਿਰਜਾਘਰ	Katedralo La Almudeno
+ਬਿਜਲਚੁੰਬਕਤਾ	Elektromagneta forto
+ਅਲਬਾਹਾ ਸੂਬਾ	Emirlando Bahao
+ਨੰਦੇੜ	Nanded
+ਚਿਵਾਵਾ ਮਾਰੂਥਲ	Ĉiuaŭa Dezerto
+ਸਰਗੋਧਾ	Sargodha
+ਸੰਸਾਰ ਰੇਖਾ	Monda linio
+ਰੁਮਾਂਸ ਨਾਵਲ	Kortezama novelo
+ਘਣ	Kubo (algebro)
+ਬੰਨ੍ਹਵੀਂ ਖ਼ੁਰਾਕ	Dietado
+ਵਿਸ਼ਵ ਅਧਿਆਪਕ ਦਿਵਸ	Internacia tago de instruistoj
+ਈਸਪ ਦੀਆਂ ਕਹਾਣੀਆਂ	Fabloj de Ezopo
+ਖ਼ੋਆਨ ਮੀਰੋ ਸੰਸਥਾ	Fondaĵo Joan Miró
+ਸੰਸਾਰ ਇਨਕਲਾਬ	Tutmonda revolucio
+ਇਤਿਹਾਸ ਅਜਾਇਬ-ਘਰ ਮਾਦਰੀਦ	Muzeo pri Historio de Madrido
+ਮੇਨ ਦੀ ਖਾੜੀ	Golfo de Majno
+ਮਾਇਆ ਦੇਵੀ	Reĝino Maja
+ਆਧੁਨਿਕਤਾਵਾਦ	Modernismo
+੨੦੦੭-੨੦੦੮ ਦਾ ਮਾਲੀ ਸੰਕਟ	Financa krizo de 2008
+ਆਲਤਾਮੀਰਾ ਦੀ ਗੁਫ਼ਾ	Kaverno Altamira kaj paleolitika kaverna arto de norda Hispanio
+ਚੋਣ ਪਰਚੀ	Balotilo
+ਟਰਾਂਸਨਿਸਤਰੀਆ	Ĉednestrio
+ਨਕਸਲੀ	Naksalitoj
+ਮਦਦ:ਵਿਸ਼ਾ-ਵਸਤੂ	Helpo:Enhavo
+ਵਧਾਈ ਪੱਤਰ	Salutkarto
+ਗਿਆਨਪੀਠ ਇਨਾਮ	Gjanpith
+ਟੁਟਪੂੰਜੀਆਪਣ	Filistro (socio)
+ਹਰਭਜਨ ਸਿੰਘ ਯੋਗੀ	Yogi Bhajan
+ਸਨਤਨਦਿਰ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Santandero
+ਆਤਾਪੁਐਰਕਾ ਪਹਾੜ	Atapuerca
+ਇਤਾਲਵੀ ਸਾਮਰਾਜ	Itala Imperio
+﻿ਸਜਦਾ	Saĝdeo
+ਫ਼ੋਨਸੇਕਾ ਦੀ ਖਾੜੀ	Golfo de Fonseca
+ਨੁਏਸਤਰਾ ਸੇਨਿਓਰਾ ਦੇ ਲਾ ਆਸੁਨਸੀਓਨ ਦਾ ਗਿਰਜਾ (ਵਾਲਦੇਮੋਰੋ)	Paroka Preĝejo Nia Sinjorino de la Ĉieliro
+ਕਰਾਨੀਕਲ ਆਫ਼ ਏ ਡੈਥ ਫ਼ੋਰਟੋਲਡ	Crónica de una muerte anunciada
+ਝਰਨਿਆਂ ਦੀ ਸੂਚੀ	Listo de mondaj akvofaloj laŭ landoj
+ਪੰਡੋਰਾ ਦਾ ਡੱਬਾ	Skatolo de Pandora
+ਕੇਸੂ	Butea monosperma
+ਦੱਖਣ-ਪੱਛਮੀ ਅਫ਼ਰੀਕਾ	Sudokcidenta Afriko
+ਸਾਂਤਾ ਬਾਰਬਰਾ	Santa Barbara
+ਅਰਜਨਟੀਨੀ ਸਮੁੰਦਰ	Argentina Maro
+ਕੀਮੋਥੇਰੇਪੀ	Kemiterapio
+ਯੁਧਿਸ਼ਟਰ	Judiŝtiro
+ਸ਼ੇਖ ਅਬਦੁੱਲਾ	Mohammed Abdullah
+ਲਹੂ ਨਾੜ	Sanga vaskulo
+ਚੋਣਵੀਂ ਨਸਲਕਸ਼ੀ	Selekta bredado
+ਸ਼ਿਰੋਮਣੀ (ਦਰਸ਼ਨ)	Sublimo
+ਉਬਾਲ ਦਰਜਾ	Bolpunkto
+ਫ਼ਾਰਸ ਸੂਬਾ	Provinco Fars
+ਗੋਲਡਨ ਗਲੋਬ ਇਨਾਮ	Premio Ora Globo
+ਸਹੀ ਅਲ ਬੁਖ਼ਾਰੀ	Sahih Buĥari
+ਕੁਰਸਿਆਂਗ	Kurseong
+ਸ਼ਾਂਤੀ ਨਿਕੇਤਨ	Shantiniketan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸ੍ਰੀਲੰਕਾ	Ŝablono:Situo sur mapo Sri-Lanko
+ਹਾਈਪੋਥਰਮੀਆ	Hipotermio
+ਫ਼ੀਲੇ (ਪੁਲਾੜੀ ਜਹਾਜ਼)	Philae (alterigilo)
+ਸ਼ਾਰਲੀ ਐਬਦੋ	Charlie Hebdo
+ਇਸਲਾਮੀ ਦਾਵਾ ਪਾਰਟੀ	Islama Daŭa-Partio
+ਵਟਸਐਪ	WhatsApp
+ਥੀਮ (ਬਿਰਤਾਂਤ)	Literatura temo
+ਗੈਲਾਡੈੱਟ ਯੂਨੀਵਰਸਿਟੀ	Universitato Gallaudet
+ਦ ਕਾਈਟ ਰਨਰ (ਫ਼ਿਲਮ)	La kajtanto
+ਪਾਤਾਗੋਨੀਆ ਮਾਰੂਥਲ	Patagona Stepo
+ਚਣਾ ਮਸਾਲਾ	Ĉanamasalo
+ਕੁਰੁ	Kuruoj
+ਇੱਕ ਕੁੱਤੇ ਦੀ ਜ਼ਿੰਦਗੀ (ਫਿਲਮ)	A Dog's Life
+ਚਿਪਕੋ ਅੰਦੋਲਨ	Ĉipko
+ਮਿਸਰ ਦੇ ਆਰਮਡ ਫੋਰਸਿਜ਼	Egiptaj Armitaj Fortoj
+ਕੀਗੋ	Kigo
+ਕੈਨੇਡੀਆਈ ਡਾਲਰ	Kanada dolaro
+ਅਲ-ਕਸੀਮ ਸੂਬਾ	Emirlando Kasim
+ਸਾਨ ਰੋਮਾਨ ਗਿਰਜਾਘਰ	Preĝejo de Sankta Romano (Toledo)
+ਪੇਸ਼ਾਵਰ	Peŝavaro
+ਤੋਲੇਦੋ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Toledo
+ਸਬਜੀਆਂ ਦੀ ਸੂਚੀ	Listo de legomoj
+ਖੁੱਲ੍ਹਾ-ਸਰੋਤ ਸਾਫ਼ਟਵੇਅਰ	Malfermkoda programaro
+ਲਿਵਰਪੂਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Liverpool FC
+ਨਸਤਾਲੀਕ ਲਿਪੀ	Persa belskribo
+ਤਰਾਈ ਖੇਤਰ	Terajo
+ਧੋਥੜ	Dhothar
+ਗਣਤੰਤਰ ਦਿਵਸ (ਭਾਰਤ)	Tago de Respubliko en Barato
+ਵਾਬੀ-ਸਾਬੀ	Ŭabi-sabi
+ਸੰਘਣੀ ਖੇਤੀ	Intensa agrikulturo
+ਰਾਖਵਾਂ ਸ਼ਬਦ	Rezervita vorto
+ਫ਼ਾਰਮ (ਮੀਰੋ)	La Farmo (Miró)
+ਪੈਗੰਬਰ (ਕਿਤਾਬ)	La Profeto
+ਮੱਖੀਆਂ (ਨਾਟਕ)	La Muŝoj
+ਸੇਂਟ ਜਾਨ (ਨਾਟਕ)	Sankta Johana (dramo)
+ਜਰਮਨੀ ਦੇ ਰਾਜ	Federacia lando (Germanio)
+ਓਪੇਰਾ (ਗੁੰਝਲ ਖੋਲ੍ਹ)	Opera
+ਬਟੇਨੁਮਾ ਸੰਖਿਆ	Racionala nombro
+ਹਵਾਈ ਅੱਡਾ	Flughaveno
+ਰਾ	Reo
+ਗੁਆਚੀ ਭੇਡ ਦਾ ਦ੍ਰਿਸ਼ਟਾਂਤ	Parabolo de la perdita ŝafo
+ਸਿਸਟਰ ਕੈਰੀ	Fratino Karinjo
+ਮੁੰਡਾ	Mundaoj
+ਓਕੂ ਨੋ ਹੋਸੋਮੀਚੀ	Oku no Hosomichi
+ਪਾਲਮਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	La Seu
+ਕੰਪਿਊਟਰੀ ਜਾਲ	Komputila reto
+ਤੁਰਕਿਸਤਾਨ	Turkestano
+ਤਬੂਕ ਸੂਬਾ	Emirlando Tabuko
+ਬਿਰਤਾਂਤ	Rakonto
+ਤ੍ਰਿਪਿਟਕ	Tripitako
+ਸਮਾਜਿਕ ਸਮਝੌਤਾ	Socia kontrakto
+ਸਪੇਨ ਦਾ ਕੌਮੀ ਪੁਰਾਤੱਤਵ ਅਜਾਇਬ-ਘਰ	Nacia Arkeologia Muzeo de Hispanio
+ਅਲਖ਼ਾਫ਼ੇਰੀਆ	Aljaferio
+ਓਰੈਂਸੇ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Orenso
+ਲਾਸ ਪਾਲਮਾਸ ਵੱਡਾ-ਗਿਰਜਾਘਰ	Katedralo de Kanarioj
+ਸ਼ੰਕਾਵਾਦ	Metodologia Dubo
+ਸ਼ਾਹ ਅਬਦੁਲ ਲਤੀਫ ਭਟਾਈ	Ŝaho Abdul Latif
+ਐਨੀਮਲ ਫ਼ਾਰਮ	La Besto-Farmo
+ਸਾਲਵਾਦੋਰ ਦੇ ਆਵੀਲਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Avilo
+ਸ਼੍ਰੇਣੀ:ਇਟਲੀ	Kategorio:Italio
+ਸ਼੍ਰੇਣੀ:ਰੂਸ	Kategorio:Rusio
+ਸ਼੍ਰੇਣੀ:ਕੈਨੇਡਾ	Kategorio:Kanado
+ਸ਼੍ਰੇਣੀ:ਸਪੇਨ	Kategorio:Hispanio
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤ	Kategorio:Barato
+ਭਾਰਤ ਦੇ ਵਿੱਤ ਮੰਤਰੀ	Ministro de Financoj (Barato)
+ਗਾਂਧੀ-ਨਹਿਰੂ ਪਰਿਵਾਰ	Familio Nehru-Gandhi
+ਸ਼੍ਰੇਣੀ:ਅਫਗਾਨਿਸਤਾਨ	Kategorio:Afganio
+ਸ਼੍ਰੇਣੀ:ਪਾਕਿਸਤਾਨ	Kategorio:Pakistano
+ਸ਼੍ਰੇਣੀ:ਰਸਾਇਣ ਵਿਗਿਆਨ	Kategorio:Kemio
+ਸ਼੍ਰੇਣੀ:ਇਤਿਹਾਸ	Kategorio:Historio
+ਸ਼੍ਰੇਣੀ:ਭੂਗੋਲ	Kategorio:Geografio
+ਸ਼੍ਰੇਣੀ:ਸਮਾਜ	Kategorio:Socio
+ਸ਼੍ਰੇਣੀ:ਧਰਮ	Kategorio:Religio
+ਸ਼੍ਰੇਣੀ:ਵਿਗਿਆਨ	Kategorio:Scienco
+ਸ਼੍ਰੇਣੀ:ਧਰਤੀ	Kategorio:Tero
+ਸਕਾਟਲੈਂਡ ਦੀ ਆਜ਼ਾਦੀ ਬਾਰੇ ਰਾਏਸ਼ੁਮਾਰੀ, 2014	Referendumo pri sendependeco de Skotlando
+ਬਾਲੈਂਸੀਆ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Valencio
+ਜੌਫ਼ ਸੂਬਾ	Emirlando Ĝaŭfo
+ਸੇਗੋਵੀਆ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Segovio
+ਆਮਦਨ	Rento
+ਓਵੀਏਦੋ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Oviedo
+ਸਾਂਤਾ ਮਾਰੀਆ ਲਾ ਰਿਆਲ ਦੇ ਲਾਸ ਹੁਏਲਗਸ	Abatejo Las Huelgas
+ਤੇਜ਼ਾਬ ਸੁੱਟਣਾ	Acida atenco
+ਗਰੀਗੋਰੀਓ ਫ਼ੁਐਂਤੇ	Gregorio Fuentes
+ਵਸੀਲਾ	Resurso
+ਮਲਾਗਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Malago
+ਹਾਕੀ	Hokeo
+ਹੈਦਰਾਬਾਦ, ਸਿੰਧ	Hajderabado (Pakistano)
+ਅੰਮ੍ਰਿਤਾ ਪ੍ਰੀਤਮ	Amrita Pritam
+ਪਤੰਗਾ	Noktopapilio
+ਵਰਗ ਸੰਘਰਸ਼	Klasbatalo
+ਪ੍ਰਾਚੀਨ ਰੋਮ	Romio
+ਫਰਮਾ:ਡੱਬਾ-ਪਗਨੋਟ	Portalo:Box-footer
+ਸਾਨ ਮੀਯਾਨ ਦੇ ਯੂਸੋ ਮੱਠ	Monaĥejo de Yuso
+ਮਾਦਰੀਦ ਦਾ ਰੀਆਲ ਬਨਸਪਤੀ ਬਾਗ	Reĝa Botanika Ĝardeno de Madrido
+ਸ੍ਰੀਹਰੀਕੋਟਾ	Sriharikoto
+ਅਨੀਂਦਰਾ	Sendormeco
+ਛੋਟਾ ਨਾਗਪੁਰ ਪਠਾਰ	Ĉotanagpur-Altebenaĵo
+ਪੱਤਰਕਾਰ	Ĵurnalisto
+ਪ੍ਰਤਿਭਾ ਰਾਏ	Pratibha Ray
+ਦਾ ਇੰਡੀਅਨ ਐਕਸਪ੍ਰੈਸ	The Indian Express
+ਸ਼ਾਂਤਨੂ	Ŝantano
+ਬੰਗਾਲੀ ਭਾਸ਼ਾ ਅੰਦੋਲਨ	Movado por bengala lingvo
+ਇੰਦਰਪ੍ਰਸਥ	Indraprasto
+ਵਡੇਰਾ ਮੱਧ ਪੂਰਬ	Granda Mezoriento
+ਸ਼੍ਰੇਣੀ:ਇਸਾਈ ਧਰਮ	Kategorio:Kristanismo
+ਸ਼੍ਰੇਣੀ:ਹਿੰਦੂ ਧਰਮ	Kategorio:Hinduismo
+ਸ਼੍ਰੇਣੀ:ਇਸਲਾਮ	Kategorio:Islamo
+ਸ਼੍ਰੇਣੀ:ਯਹੂਦੀ ਧਰਮ	Kategorio:Judismo
+ਡਰਨਾ	Birdotimigilo
+ਨਾਰੰਗੀ (ਗੁੰਝਲ ਖੋਲ੍ਹ ਸਫ਼ਾ)	Oranĝo
+ਪਰੀਕਸ਼ਿਤ	Parikŝito
+ਚਿਲਕਾ ਝੀਲ	Ĉiliko
+ਹਾਜੀ ਮੁਰਾਦ	Haĝi Murat (novelo)
+ਵਿਸ਼ਵ ਰੰਗਮੰਚ ਦਿਵਸ	Monda Tago pri Teatro
+ਉਕਾਬ	Aglo
+ਭਾਰਤ ਵਿੱਚ ਘਰੇਲੂ ਹਿੰਸਾ	Hejma perforto en Barato
+ਮੰਗਲ ਉਪਗ੍ਰਹਿ ਮਿਸ਼ਨ	Mangaljano
+ਆਗਰਾ ਅਤੇ ਅਵਧ ਸੰਯੁਕਤ ਪ੍ਰਾਂਤ	Unuiĝintaj Provincoj de Agra kaj Oudh
+ਲਾ ਸਾਲਵਾਦੋਰ ਗਿਰਜਾਘਰ	Katedralo de Zaragozo
+ਸੰਗਿਆਨ	Kogno
+ਮਾਮੋਨੀ ਰਾਇਸਮ ਗੋਸਵਾਮੀ	Indira Goswami
+ਗਿਰੋਨਾ ਗਿਰਜਾਘਰ	Katedralo de Ĝirono
+ਸਬਾਲਟਰਨ ਅਧਿਐਨ	Subalternaj Studoj
+ਨਾਗ	Kobro
+ਸਾਂਤੀਆਗੋ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Bilbao
+ਨਨਕਾਣਾ ਸਾਹਿਬ	Nankana Sahib
+ਮੁਰਸੀਆ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Murcio
+ਗੈਡਫਲਾਈ	Ojstro (romano)
+ਇਰਾਕ ਅਤੇ ਅਲ ਸ਼ਾਮ ਵਿੱਚ ਇਸਲਾਮੀ ਰਾਜ	Islama Ŝtato de Irako kaj Sirio
+ਅਖਰੋਟ (ਰੁੱਖ)	Juglando (genro)
+ਸਾਲਾਮਾਂਕਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Nova Katedralo de Salamanko
+ਦ ਆਇਰਨ ਹੀਲ	La Fera Kalkanumo
+ਵੇਦਾਂਤ	Vedanto
+ਫਿਲਮ ਨਿਰਦੇਸ਼ਕ	Reĝisoro
+ਆਬਿਦਾ ਪਰਵੀਨ	Abida Parvin
+ਲਿਪਾਂਕ	Grafemo
+ਗਰੈਵਿਟੀ	Gravito (filmo)
+ਲੀਨਾਰੇਸ ਮਹਿਲ	Palaco Linares
+ਕੇਸ	Keŝ
+ਅਣਖ ਖ਼ਾਤਰ ਕਤਲ	Honormurdo
+ਸਾਰਾਸੀਨ	Sarrasine
+ਮੇਰੇ ਸਚ ਨਾਲ ਤਜਰਬੇ	Miaj eksperimentoj kun la vero
+ਰਾਜਿੰਦਰ ਸ਼ਾਹ	Rajendra Keshavlal Shah
+ਰਾਜਮਾਂਹ	Ruĝa renfazeolo
+ਰਾਵਣ ਹੱਥਾ	Ravanastro
+ਤਿਲ	Hindia sezamo
+ਸੇਗੋਵੀਆ ਪੁੱਲ	Ponto Segovio (Madrido)
+ਸੁਕਰਾਤ ਸਮੱਸਿਆ	Sokrata problemo
+ਸਾਨ ਪੇਦਰੋ ਗਿਰਜਾਘਰ (ਸੋਰੀਆ)	Kunkatedralo de Sorio
+ਅਸਤੋਰਗਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Astorgo
+ਕੁਐਂਕਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Kvenko
+ਪਾਲੇਨਸੀਆ ਗਿਰਜਾਘਰ	Katedralo de Palencio
+ਇਬੀਸਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Ibizo
+ਬਾਦਾਖ਼ੋਸ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Badajoz
+ਕਾਲਾਓਰਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Calahorra
+ਖ਼ੇਰੇਸ ਦੇ ਲਾ ਫ਼ਰੌਂਤੇਰਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Jerez de la Frontera
+ਉਐਸਕਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Huesko
+ਲੂਗੋ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Lugo
+ਸਿਗੁਇੰਥਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Sigvenco
+ਸਾਮੋਰਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Zamoro
+ਸਾਨ ਸਿਬਾਸਤੀਆਨ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Donostio
+ਸ਼੍ਰੇਣੀ:ਅਧਾਰ	Kategorio:Ĝermo
+ਸ਼੍ਰੇਣੀ:ਸੱਭਿਆਚਾਰ	Kategorio:Kulturo
+ਸ਼੍ਰੇਣੀ:ਸਾਲ	Kategorio:Jaroj
+ਫ਼ਰਾਂਸ ਵਿੱਚ ਖ਼ਾਨਾਜੰਗੀ	La interna milito en Francio
+ਪੁਰਾਣਾ ਵੱਡਾ ਗਿਰਜਾਘਰ, ਸਾਲਾਮਾਂਕਾ	Malnova Katedralo de Salamanko
+ਆਵੀਲਾ ਦੀਆਂ ਕੰਧਾਂ	Murego de Avilo
+ਅਲਕਸਬਾ ਮਾਲਾਗਾ	Alkazabo de Malago
+ਹਾਇਗਾ	Hajgao
+ਕੋਲਿੰਦਾ ਗਰਾਬਾਰ-ਕਿਤਾਰੋਵਿਚ	Kolinda Grabar-Kitarović
+ਫਰਮਾ:ਸੂਰਜ ਮੰਡਲ	Ŝablono:Sunsistemo
+ਸ਼ੁਕੰਤਲਾ ਦੇਵੀ	Shakuntala Devi
+ਰੇਜ਼ਰ	Sendanĝera razilo
+ਸਮਾਜਿਕ ਮੇਲ-ਜੋਲ ਸੇਵਾ	Interkona retejo
+ਫਾਟਕ:ਭੂਗੋਲ	Portalo:Geografio
+ਫ਼ਿਲਮ ਨਿਰਮਾਤਾ	Produktoro (kinematografio)
+ਚੁੰਬਕਤਾ	Magnetismo
+ਸਰਿੰਦਰਨਾਥ ਬੈਨਰਜੀ	Surendranath Banerjee
+ਬੁੱਲ੍ਹੇ ਸ਼ਾਹ	Bulleh Ŝaho
+ਮਾਈਕ੍ਰੋਨੇਸ਼ੀਆ	Mikronezio
+ਵਿਸ	Ĉasveneno
+ਵਿਕੀਪੀਡੀਆ:HotCat	Vikipedio:VarmaKato
+ਕੈਲਾਸ਼ ਸਤਿਆਰਥੀ	Kailash Satyarthi
+ਕੁਨਾਨ ਪੋਸ਼ਪੋਰਾ ਵਾਕਿਆ	Kunan-Poŝpora Okazo
+ਗਿਰੀਸ਼ ਕਰਨਾਡ	Girish Karnad
+ਭਾਰਤ ਦੀ ਖੋਜ	Malkovro de Barato
+ਰਹਿਮਾਨ ਰਾਹੀ	Rahman Rahi
+ਸਿਰਮੌਰ ਰਾਜ	Suverena ŝtato
+ਗੋਪੀਨਾਥ ਕਵੀਰਾਜ	Gopinath Kaviraj
+ਕਮਲਾ ਨਹਿਰੂ	Kamala Nehru
+ਚਿਹਨ	Signo (semiotiko)
+ਚਾਲ	Rapido
+ਬਤਖ਼	Anaso
+ਮਿਰਜ਼ਾ ਹਾਦੀ ਰੁਸਵਾ	Mirza Hadi Ruswa
+ਪਰਮਾਣਵੀ ਭਾਰ	Atomomaso
+ਤੋਲੇਦੋ ਪੁਲ (ਮਾਦਰੀਦ)	Ponto Toledo (Madrido)
+ਹੋਕੂ	Hokko
+ਵਿਕੀਪੀਡੀਆ:ਪੁੱਛ-ਗਿੱਛ/ਸਿਰਲੇਖ	Vikipedio:Informo
+ਸ਼ਲਗਮ	Rapo
+ਫਰਮਾ:Cquote	Ŝablono:Citaĵo
+ਫਰਮਾ:Chess diagram	Ŝablono:Ŝakdiagramo
+ਸ਼੍ਰੇਣੀ:ਯੂਰਪ ਦੇ ਦਰਿਆ	Kategorio:Riveroj en Eŭropo
+ਫਰਮਾ:Tl	Ŝablono:Ŝ
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਕਾਟਲੈਂਡ	Ŝablono:Situo sur mapo Skotlando
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇੰਗਲੈਂਡ	Ŝablono:Situo sur mapo Anglio
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਵੇਲਜ਼	Ŝablono:Situo sur mapo Kimrio
+ਫਰਮਾ:ਮੁੱਖ ਸਫ਼ੇ ਦੀਆਂ ਖ਼ਬਰਾਂ	Ŝablono:ĈefPaĝoMondAktualaĵo
+ਸ਼੍ਰੇਣੀ:ਲੋਕ	Kategorio:Personoj
+ਵਿਕੀਪੀਡੀਆ:ਐਡਮਿਨ ਬਣਨ ਲਈ ਬੇਨਤੀਆਂ	Vikipedio:Administrantoj/kandidatoj
+ਸ਼੍ਰੇਣੀ:ਸਮਾਂ	Kategorio:Tempo
+ਸ਼੍ਰੇਣੀ:ਕੁਦਰਤ	Kategorio:Naturo
+ਸ਼੍ਰੇਣੀ:ਬਨਸਪਤੀ ਵਿਗਿਆਨ	Kategorio:Botaniko
+ਵਿਕੀਪੀਡੀਆ:ਅਤੀਜ਼ਰੂਰੀ ਲੇਖ/ਪੱਧਰ 2	Vikipedio:Listo de 100 plej havendaj artikoloj
+ਵਿਕੀਪੀਡੀਆ:ਆਟੋਵਿਕੀਬਰਾਉਜ਼ਰ	Vikipedio:AutoWikiBrowser
+ਮਦਦ:ਅੰਤਰਭਾਸ਼ਾਈ ਕੜੀਆਂ	Helpo:Interlingva ligilo
+ਮਿਸਰ	Egiptujo
+ਵਿਕੀਪੀਡੀਆ:ਕਠਪੁਤਲੀ	Vikipedio:Gantopupo
+ਰਵਿੰਦਰ ਪ੍ਰਭਾਤ	Ravindra Prabhat
+ਵਿਕੀਪੀਡੀਆ:ਵਿਕੀਪ੍ਰੋਜੈਕਟ	Vikipedio:Projektoj
+ਫਰਮਾ:ਬੋਟ	Ŝablono:Bot
+ਆਵਾਜਾਈ	Trafiko
+ਕੈਨੇਡਾ	Kanado
+ਤੂਫਾਨੀ ਬਾਜ਼ ਦਾ ਗੀਤ	La kanto de la ŝtormopetrelo
+ਸ਼੍ਰੇਣੀ:ਆਈਸਲੈਂਡ	Kategorio:Islando
+ਕੌਮਾਂਤਰੀ ਕਨੂੰਨ	Internacia juro
+ਪਸਾਰ	Dimensio
+ਫਰਮਾ:Documentation	Ŝablono:Dok
+ਸ਼੍ਰੇਣੀ:ਬਬੇਲ - ਭਾਸ਼ਾ ਮੁਤਾਬਕ ਯੂਜ਼ਰ	Kategorio:Vikipediistoj laŭ lingvo
+ਵਿਕੀਪੀਡੀਆ:ਪੰਜ ਥੰਮ੍ਹ	Vikipedio:Kvin principoj
+ਵਿਕੀਪੀਡੀਆ:ਨਿਰਪੱਖ ਨਜ਼ਰੀਆ	Vikipedio:Neŭtrala vidpunkto
+ਵਿਕੀਪੀਡੀਆ:ਫਾਟਕ	Vikipedio:Portaloj
+ਸ਼ੰਙ ਜਏਗੀ	Sung Jae-gi
+ਫਰਮਾ:Softredirect	Ŝablono:Intervikia plusendilo
+ਫਰਮਾ:ਮਿਟਾਓ	Ŝablono:Forigu tuj
+ਫੌਂਟ	Tiparo
+ਸ਼੍ਰੇਣੀ:ਸ਼ਿਲਪ ਵਿਗਿਆਨ	Kategorio:Teknologio
+ਸ਼੍ਰੇਣੀ:ਭਾਸ਼ਾਵਾਂ	Kategorio:Lingvoj
+ਦਾਰਸ਼ਨਿਕ	Filozofo
+ਵਿਕੀਪੀਡੀਆ:General disclaimer	Vikipedio:Malgarantio
+ਸ਼੍ਰੇਣੀ:Pages with broken file links	Kategorio:Paĝoj kun eraraj dosierligiloj
+ਸਮਾਰਕ	Monumento
+ਕਿਰੇਜੀ	Kireĵio
+ਫਰਮਾ:Navbox	Ŝablono:Navigilo2
+ਰਿਓਕਾਨ (ਸ਼ਾਇਰ)	Ryokan
+ਫਰਮਾ:!	Ŝablono:!
+ਫਰਮਾ:!-	Ŝablono:!-
+ਫਰਮਾ:=	Ŝablono:=
+ਫਰਮਾ:Tnavbar	Ŝablono:Tnavbar
+ਫਰਮਾ:Unicode	Ŝablono:Unicode
+ਫਰਮਾ:E	Ŝablono:X10
+ਫਰਮਾ:Color	Ŝablono:Kolorteksto
+ਫਰਮਾ:Nowrap	Ŝablono:Nrsp
+ਫਰਮਾ:Abbr	Ŝablono:Diskreta mallongigo
+ਫਰਮਾ:Anchor	Ŝablono:Ankro
+ਗਰਾਨਾਦਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralo de Granado
+ਵਿਕੀਪੀਡੀਆ:ਕੁਝ ਜ਼ਰੂਰੀ ਲੇਖ ਜੋ ਹਰ ਭਾਸ਼ਾ ਦੇ ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ	Vikipedio:Listo de havendaj artikoloj
+ਸ਼੍ਰੇਣੀ:ਅਫ਼ਰੀਕਾ	Kategorio:Afriko
+ਸ਼੍ਰੇਣੀ:ਜੁਲਾਈ	Kategorio:Julio
+ਸ਼੍ਰੇਣੀ:ਅੰਕ	Kategorio:Nombroj
+ਸ਼੍ਰੇਣੀ:ਜੂਨ	Kategorio:Junio
+ਸ਼੍ਰੇਣੀ:ਮਹੀਨੇ	Kategorio:Monatoj
+ਫਰਮਾ:Babel	Ŝablono:Babelejo
+ਫਰਮਾ:Link GA	Ŝablono:LigoLeginda
+ਫਰਮਾ:ਹਵਾਲੇ	Ŝablono:Referencoj
+ਫਰਮਾ:ਅਧਾਰ	Ŝablono:Ĝermo
+ਫਰਮਾ:User af-1	Ŝablono:Vikipediisto af-1
+ਫਰਮਾ:User ar-1	Ŝablono:Vikipediisto ar-1
+ਫਰਮਾ:User bar-1	Ŝablono:Vikipediisto bar-1
+ਫਰਮਾ:User eo-1	Ŝablono:Vikipediisto eo-1
+ਫਰਮਾ:See also	Ŝablono:Vidu ankaŭ
+ਫਰਮਾ:User da-2	Ŝablono:Vikipediisto da-2
+ਫਰਮਾ:User da	Ŝablono:Vikipediisto da
+ਫਰਮਾ:User ca-1	Ŝablono:Vikipediisto ca-1
+ਫਰਮਾ:User ca-4	Ŝablono:Vikipediisto ca-4
+ਫਰਮਾ:User be-2	Ŝablono:Vikipediisto be-2
+ਫਰਮਾ:User da-1	Ŝablono:Vikipediisto da-1
+ਫਰਮਾ:User cs-1	Ŝablono:Vikipediisto cs-1
+ਫਰਮਾ:User bg-1	Ŝablono:Vikipediisto bg-1
+ਫਰਮਾ:User eo-3	Ŝablono:Vikipediisto eo-3
+ਫਰਮਾ:User de	Ŝablono:Vikipediisto de
+ਫਰਮਾ:ਮੈਂਬਰ ਜਰਮਨ-੧	Ŝablono:Vikipediisto de-1
+ਫਰਮਾ:User el	Ŝablono:Vikipediisto el
+ਫਰਮਾ:User es	Ŝablono:Vikipediisto es
+ਫਰਮਾ:User de-3	Ŝablono:Vikipediisto de-3
+ਫਰਮਾ:User en-3	Ŝablono:Vikipediisto en-3
+ਫਰਮਾ:User el-1	Ŝablono:Vikipediisto el-1
+ਫਰਮਾ:User en-1	Ŝablono:Vikipediisto en-1
+ਫਰਮਾ:ਮੈਂਬਰ ਅੰਗਰੇਜ਼ੀ-੨	Ŝablono:Vikipediisto en-2
+ਫਰਮਾ:ਮੈਂਬਰ ਫ਼ਾਰਸੀ-੧	Ŝablono:Vikipediisto fa-1
+ਫਰਮਾ:User eo-2	Ŝablono:Vikipediisto eo-2
+ਫਰਮਾ:User en-4	Ŝablono:Vikipediisto en-4
+ਫਰਮਾ:User fi	Ŝablono:Vikipediisto fi-D
+ਫਰਮਾ:User en-0	Ŝablono:Vikipediisto en-0
+ਫਰਮਾ:ਵਰਤੋਂਕਾਰ en	Ŝablono:Vikipediisto en
+ਫਰਮਾ:User de-2	Ŝablono:Vikipediisto de-2
+ਫਰਮਾ:User es-1	Ŝablono:Vikipediisto es-1
+ਫਰਮਾ:User fa	Ŝablono:Vikipediisto fa
+ਫਰਮਾ:User fr-1	Ŝablono:Vikipediisto fr-1
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਪੇਨ ਕਾਤਾਲੋਨੀਆ	Ŝablono:Situo sur mapo Hispanio Katalunio
+ਫਰਮਾ:User ia-2	Ŝablono:Vikipediisto ia-2
+ਫਰਮਾ:User hr	Ŝablono:Vikipediisto hr
+ਫਰਮਾ:User id-3	Ŝablono:Vikipediisto id-3
+ਫਰਮਾ:User io-3	Ŝablono:Vikipediisto io-3
+ਫਰਮਾ:ਮੈਂਬਰ ਇਤਾਲਵੀ-੩	Ŝablono:Vikipediisto it-3
+ਫਰਮਾ:User ja-4	Ŝablono:Vikipediisto ja-4
+ਫਰਮਾ:User tr-2	Ŝablono:Vikipediisto tr-2
+ਫਰਮਾ:User ja	Ŝablono:Vikipediisto ja
+ਫਰਮਾ:User ja-1	Ŝablono:Vikipediisto ja-1
+ਫਰਮਾ:User it-1	Ŝablono:Vikipediisto it-1
+ਫਰਮਾ:User hr-1	Ŝablono:Vikipediisto hr-1
+ਫਰਮਾ:User fr	Ŝablono:Vikipediisto fr
+ਫਰਮਾ:User gsw-1	Ŝablono:Vikipediisto gsw-1
+ਸ਼੍ਰੇਣੀ:ਫ਼ਰਵਰੀ	Kategorio:Februaro
+ਸ਼੍ਰੇਣੀ:ਏਸ਼ੀਆ	Kategorio:Azio
+ਸ਼੍ਰੇਣੀ:ਚਿਲੇ	Kategorio:Ĉilio
+ਸ਼੍ਰੇਣੀ:21ਵੀਂ ਸਦੀ	Kategorio:21-a jarcento
+ਸ਼੍ਰੇਣੀ:੧੯੫੪	Kategorio:1954
+ਫਰਮਾ:Mod	Ŝablono:Mod
+ਫਰਮਾ:Infobox Language/codelist	Ŝablono:ISO639-3 ligilo
+ਫਰਮਾ:User it	Ŝablono:Vikipediisto it
+ਫਰਮਾ:User uk	Ŝablono:Vikipediisto uk
+ਫਰਮਾ:User es-2	Ŝablono:Vikipediisto es-2
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਫੁੱਟਬਾਲ ਕਲੱਬ	Ŝablono:Informkesto futbalteamo
+ਫਰਮਾ:ਜੀ ਆਇਆਂ ਨੂੰ	Ŝablono:Bonvenon
+ਫਰਮਾ:Month header	Ŝablono:MonatEnkonduko
+ਸ਼੍ਰੇਣੀ:ਭਾਸ਼ਾ ਵਿਗਿਆਨ	Kategorio:Lingvoscienco
+ਫਰਮਾ:Football kit	Ŝablono:Ĉemizo
+ਫਰਮਾ:Image label	Ŝablono:Marko sur bildo
+ਫਰਮਾ:ਦਫ਼ਤਰੀ ਵੈੱਬਸਾਈਟ	Ŝablono:Oficiala retejo
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਲਿਖਾਰੀ	Ŝablono:Informkesto verkisto
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸੰਗੀਤ ਕਲਾਕਾਰ	Ŝablono:Informkesto muzika artisto
+ਫਰਮਾ:ਸੰਯੁਕਤ ਰਾਜ ਦੇ ਰਾਜਸੀ ਵਿਭਾਗ	Ŝablono:Usonaj ŝtatoj
+ਫਰਮਾ:Collapsible list	Ŝablono:Kaŝebla listo
+ਫਰਮਾ:Ambox	Ŝablono:ArtikolaMesaĝokesto
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਗੀਤ	Ŝablono:Informkesto nacia himno
+ਫਰਮਾ:Userboxbottom	Ŝablono:Uzantoskatolaro/fino
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਦੇਸ਼	Ŝablono:Informkesto lando
+ਫਰਮਾ:Max	Ŝablono:Max
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸਾਫ਼ਟਵੇਅਰ	Ŝablono:Informkesto programaro
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਫ਼ੌਜੀ ਟੱਕਰ	Ŝablono:Informkesto milito
+ਫਰਮਾ:Pagelist	Ŝablono:MultParametroj-Ligilo
+ਫਰਮਾ:Infobox political party	Ŝablono:Informkesto politika partio
+ਫਰਮਾ:Navbox with columns	Ŝablono:Navigilo kun kolumnoj
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਫ਼ਿਰਔਨ	Ŝablono:Informkesto Faraono
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਵੀਡੀਓ ਖੇਡ	Ŝablono:Informkesto komputila kaj videoludo
+ਫਰਮਾ:Nom	Ŝablono:Nomumita
+ਫਰਮਾ:ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੀ ਮੈਡਲ ਲਿਸਟ	Ŝablono:NavigacioEnMedalaKlasifiko
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਕੈਨੇਡੀਆਈ ਸੂਬਾ ਜਾਂ ਰਾਜਖੇਤਰ	Ŝablono:Informkesto kanada provinco-teritorio
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਵਿਗਿਆਨੀ	Ŝablono:Informkesto sciencisto
+ਫਰਮਾ:ਵਿਕੀਬੁਕਸ	Ŝablono:Vikilibroj
+ਸ਼੍ਰੇਣੀ:ਤੁਰਕੀ ਕਵੀ	Kategorio:Turkaj poetoj
+ਫਰਮਾ:Lang-ar	Ŝablono:Lang-ar
+ਫਰਮਾ:ਖ਼ਬਰ ਦਾ ਹਵਾਲਾ	Ŝablono:Citaĵo el novaĵo
+ਫਰਮਾ:Featured article	Ŝablono:Elstara
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ	Ŝablono:Informkesto
+ਫਰਮਾ:ਇਰਾਨ ਦੇ ਸੂਬੇ	Ŝablono:Provincoj de Irano
+ਫਰਮਾ:Main other	Ŝablono:Ĉu artikolo
+ਫਰਮਾ:RankedMedalTable	Ŝablono:TabeloDeMedalaKlasifiko
+ਫਰਮਾ:User zh	Ŝablono:Vikipediisto zh
+ਫਰਮਾ:Template other	Ŝablono:Ĉu ŝablono
+ਫਰਮਾ:ਜਰਮਨ ਸੰਘੀ ਰਾਜ	Ŝablono:Federaciaj landoj sur mapo de Germanio
+ਫਰਮਾ:Infobox writing system	Ŝablono:Informkesto skribo
+ਫਰਮਾ:Lx	Ŝablono:Lx
+ਫਰਮਾ:User ru-4	Ŝablono:Vikipediisto ru-4
+ਫਰਮਾ:Pp-template	Ŝablono:Pp-ŝablono
+ਫਰਮਾ:User nl-1	Ŝablono:Vikipediisto nl-1
+ਫਰਮਾ:ਵਿਕਸ਼ਨਰੀ	Ŝablono:Vikivortaro
+ਫਰਮਾ:User nl-2	Ŝablono:Vikipediisto nl-2
+ਫਰਮਾ:Wikibreak	Ŝablono:Vikipaŭzo
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤੀ ਫ਼ਿਲਮਾਂ	Kategorio:Barataj filmoj
+ਫਰਮਾ:ਦੁਨੀਆਂ ਦੇ ਪ੍ਰਾਚੀਨ ਸੱਤ ਅਜੂਬੇ	Ŝablono:Sep mirindaĵoj
+ਫਰਮਾ:User ru	Ŝablono:Vikipediisto ru
+ਸ਼੍ਰੇਣੀ:20ਵੀਂ ਸਦੀ	Kategorio:20-a jarcento
+ਫਰਮਾ:IPA	Ŝablono:IFA
+ਫਰਮਾ:ਬਾਰੇ	Ŝablono:TemasPri
+ਫਰਮਾ:Rellink	Ŝablono:RilataLigilo
+ਫਰਮਾ:ਕੀ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ	Ŝablono:ĈefPaĝo/ĈuViSciasKe
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਟੀਵੀ ਚੈਨਲ	Ŝablono:Informkesto televida kanalo
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਨਸਲੀ ਵਰਗ	Ŝablono:Informkesto etnaj grupoj
+ਫਰਮਾ:MONTHNAME	Ŝablono:Nomo de monato
+ਫਰਮਾ:Infobox officeholder	Ŝablono:Informkesto politikisto
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸੁਰੱਖਿਅਤ ਇਲਾਕਾ	Ŝablono:Informkesto protektita tereno
+ਫਰਮਾ:MONTHNUMBER	Ŝablono:Nombro de monato
+ਫਰਮਾ:Namespace detect	Ŝablono:Determinas nomspacon
+ਫਰਮਾ:Logo fur	Ŝablono:Informkesto emblemo
+ਫਰਮਾ:ਓਸ਼ੇਨੀਆ ਦੇ ਦੇਸ਼	Ŝablono:Landoj kaj teritorioj de Oceanio
+ਸ਼੍ਰੇਣੀ:ਲੇਖਕ	Kategorio:Verkistoj
+ਫਰਮਾ:ਜਰਮਨੀ ਦੇ ਰਾਜ	Ŝablono:Federaciaj landoj de Germanio
+ਫਰਮਾ:Infobox election	Ŝablono:Informkesto Baloto
+ਫਰਮਾ:Lang-he	Ŝablono:Lang-he
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਕਿਤਾਬ	Ŝablono:Informkesto libro
+ਫਰਮਾ:User pt-1	Ŝablono:Vikipediisto pt-1
+ਸ਼੍ਰੇਣੀ:ਜਨਵਰੀ	Kategorio:Januaro
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਨਾਗਰਿਕ ਹੱਲਾ	Ŝablono:Informkesto terorisma atako
+ਫਰਮਾ:User oc-4	Ŝablono:Vikipediisto oc-4
+ਫਰਮਾ:User pl	Ŝablono:Vikipediisto pl
+ਫਰਮਾ:User nl	Ŝablono:Vikipediisto nl
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਵੈੱਬਸਾਈਟ	Ŝablono:Informkesto retejo
+ਫਰਮਾ:User no-2	Ŝablono:Vikipediisto no-2
+ਫਰਮਾ:ਲੁਕਵੀਂਸ਼੍ਰੇਣੀ	Ŝablono:Kaŝita kategorio
+ਫਰਮਾ:Documentation subpage	Ŝablono:Ŝablona navigado
+ਫਰਮਾ:ਆਸਟਰੇਲੀਆ ਦੇ ਰਾਜ ਅਤੇ ਰਾਜਖੇਤਰ	Ŝablono:Aŭstraliaj ŝtatoj kaj teritorioj
+ਫਰਮਾ:ਭਾਰਤ ਦੇ ਰਾਜ	Ŝablono:Ŝtatoj de Barato
+ਫਰਮਾ:CcTLD	Ŝablono:Naciaj domajnoj de plej alta nivelo
+ਫਰਮਾ:Tlx	Ŝablono:Tlx
+ਫਰਮਾ:ਮੈਕਸੀਕੋ ਦੇ ਰਾਜ	Ŝablono:Mx
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਖੇਡ	Ŝablono:Informkesto Sporta disciplino
+ਫਰਮਾ:Lang-de	Ŝablono:Lang-de
+ਫਰਮਾ:Lang-la	Ŝablono:Lang-la
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ	Ŝablono:Situo sur mapo Usono
+ਫਰਮਾ:Goal	Ŝablono:Golo
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਜਰਮਨ ਟਿਕਾਣਾ	Ŝablono:Informkesto germania komunumo
+ਫਰਮਾ:Infobox church	Ŝablono:Informkesto preĝejo
+ਫਰਮਾ:ਉੱਤਰੀ ਅਮਰੀਕੀ ਦੇਸ਼ਾਂ ਦੀਆਂ ਰਾਜਧਾਨੀਆਂ	Ŝablono:Nordamerikaj ĉefurboj
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਇਸਾਈ ਆਗੂ	Ŝablono:Informkesto papo
+ਫਰਮਾ:ਸਪਸ਼ਟੀਕਰਨ	Ŝablono:Klarigu
+ਫਰਮਾ:Football box	Ŝablono:Tabelo futbalo
+ਫਰਮਾ:Emergency-bot-shutoff	Ŝablono:Butono por forbari robotojn
+ਫਰਮਾ:User pl-1	Ŝablono:Vikipediisto pl-1
+ਫਰਮਾ:User fr-3	Ŝablono:Vikipediisto fr-3
+ਸ਼੍ਰੇਣੀ:ਜਣਨ ਦੀ ਕਿਤਾਬ	Kategorio:Genezo
+ਫਰਮਾ:Pp-meta	Ŝablono:Pp-meta
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸਟੇਡੀਅਮ	Ŝablono:Informkesto stadiono
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸਾਬਕਾ ਦੇਸ਼	Ŝablono:Informkesto pereinta ŝtato
+ਫਰਮਾ:JPN	Ŝablono:JPN
+ਫਰਮਾ:ਗਿਆਨਸੰਦੂਕ ਅੰਤਰਰਾਸ਼ਟਰੀ ਫੁੱਟਬਾਲ ਮੁਕਾਬਲਾ	Ŝablono:Informkesto futbala turniro
+ਫਰਮਾ:User lt	Ŝablono:Vikipediisto lt
+ਫਰਮਾ:User nds-1	Ŝablono:Vikipediisto nds-1
+ਫਰਮਾ:La icon	Ŝablono:La
+ਫਰਮਾ:Infobox artwork	Ŝablono:Informkesto Pentraĵo
+ਫਰਮਾ:ਗੁਣਕ/ਕੜੀ	Ŝablono:Koord/ligilo
+ਫਰਮਾ:Lt	Ŝablono:Lt
+ਬਟੇਰ	Koturno
+ਫਰਮਾ:Infobox Continent	Ŝablono:Informkesto kontinento
+ਫਰਮਾ:User is-1	Ŝablono:Vikipediisto is-1
+ਫਰਮਾ:User SUL	Ŝablono:Uzanto SUL
+ਫਰਮਾ:ਹਫ਼ਤੇ ਦੇ ਦਿਨ	Ŝablono:Tagoj de la semajno
+ਉਪਨਿਸ਼ਦ	Upaniŝadoj
+ਫਰਮਾ:Multicol-break	Ŝablono:Kolumnorompo
+ਸ਼੍ਰੇਣੀ:ਹੇਠਲਾ ਜ਼ਾਕਸਨ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Malsupra Saksio
+ਫਰਮਾ:Infobox game	Ŝablono:Informkesto ludo
+ਫਰਮਾ:Lang-ru	Ŝablono:Lang-ru
+ਫਰਮਾ:Sort	Ŝablono:SortKey
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸੰਤ	Ŝablono:Informkesto sanktulo
+ਫਰਮਾ:ਗੁੰਝਲ ਖੋਲ੍ਹ	Ŝablono:Apartigilo
+ਫਰਮਾ:Tick	Ŝablono:Hoko
+ਫਰਮਾ:Penmiss	Ŝablono:Misa punŝoto
+ਫਰਮਾ:ਬਸਤੀਵਾਦੀ ਸਾਮਰਾਜ	Ŝablono:Koloniaj potencoj
+ਫਰਮਾ:User yi-2	Ŝablono:Vikipediisto yi-2
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਇਤਾਲਵੀ ਖੇਤਰ	Ŝablono:Informkesto italia regiono
+ਫਰਮਾ:Para	Ŝablono:Parametro
+ਫਰਮਾ:Fb	Ŝablono:Fb
+ਫਰਮਾ:Partial	Ŝablono:Parte
+ਫਰਮਾ:User ksh	Ŝablono:Vikipediisto ksh
+ਫਰਮਾ:User no	Ŝablono:Vikipediisto no
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਫ਼ਿਲਮ	Ŝablono:Informkesto filmo
+ਫਰਮਾ:ਅੰਗਰੇਜ਼ੀ	Ŝablono:Lang-en
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਖ਼ੁਰਾਕੀ ਗੁਣ	Ŝablono:Nutravaloro
+ਖੁਰਾਸਾਨ	Ĥorasano
+ਸ਼੍ਰੇਣੀ:ਫ਼ਲੌਰਿਡਾ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Florido
+ਫਰਮਾ:High-risk	Ŝablono:Ofte uzata
+ਫਰਮਾ:Lang-uk	Ŝablono:Lang-uk
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਜੱਥੇਬੰਦੀ	Ŝablono:Informkesto organizaĵo
+ਫਰਮਾ:User sv-2	Ŝablono:Vikipediisto sv-2
+ਫਰਮਾ:Infobox museum	Ŝablono:Informkesto Muzeo
+ਫਰਮਾ:ਦੱਖਣੀ ਅਮਰੀਕੀ ਦੇਸ਼ਾਂ ਦੀਆਂ ਰਾਜਧਾਨੀਆਂ	Ŝablono:Sudamerikaj ĉefurboj
+ਫਰਮਾ:FRA	Ŝablono:FRA
+ਫਰਮਾ:ਉਮਰ	Ŝablono:Aĝo
+ਫਰਮਾ:IPNI	Ŝablono:IPNI
+ਫਰਮਾ:Harvard citation no brackets	Ŝablono:Harvnb
+ਫਰਮਾ:Infobox person	Ŝablono:Informkesto homoj
+ਫਰਮਾ:?	Ŝablono:?
+ਸ਼੍ਰੇਣੀ:ਮੰਗੋਲੀਆ	Kategorio:Mongolio
+ਫਰਮਾ:Nts	Ŝablono:Smn
+ਫਰਮਾ:ਯੂਰਪੀ ਦੇਸ਼ਾਂ ਦੀਆਂ ਰਾਜਧਾਨੀਆਂ	Ŝablono:Eŭropaj ĉefurboj
+ਫਰਮਾ:ਦੁਨੀਆਂ ਦੇ ਮਹਾਂਦੀਪ	Ŝablono:Kontinentoj
+ਫਰਮਾ:ਵਾਧੂ ਸੰਗੀਤਕ ਨਮੂਨਾ	Ŝablono:Muzika ekzemplo
+ਫਰਮਾ:Convert	Ŝablono:Convert
+ਫਰਮਾ:Infobox rail line	Ŝablono:Informkesto fervojlinio
+ਫਰਮਾ:ਗੁਣਕ	Ŝablono:Koord
+ਫਰਮਾ:ਏਨ ਏਫ ਏਲ	Ŝablono:NFL
+ਫਰਮਾ:User lb-1	Ŝablono:Vikipediisto lb-1
+ਫਰਮਾ:ਮਿਆਦੀ ਪਹਾੜਾ	Ŝablono:PeriodaTabelo
+ਫਰਮਾ:Dated maintenance category	Ŝablono:Datita prizorga kategorio
+ਫਰਮਾ:User fr-4	Ŝablono:Vikipediisto fr-4
+ਫਰਮਾ:User la-1	Ŝablono:Vikipediisto la-1
+ਫਰਮਾ:Country flag IOC alias DEN	Ŝablono:Lando flago IOK DEN
+ਫਰਮਾ:Country flag IOC alias MRI	Ŝablono:Lando flago IOK MRI
+ਫਰਮਾ:Country flag IOC alias DOM	Ŝablono:Lando flago IOK DOM
+ਫਰਮਾ:Country flag IOC alias MAS	Ŝablono:Lando flago IOK MAS
+ਫਰਮਾ:Country flag IOC alias SAM	Ŝablono:Lando flago IOK SAM
+ਫਰਮਾ:Country flag IOC alias ARG	Ŝablono:Lando flago IOK ARG
+ਫਰਮਾ:Country flag IOC alias MKD	Ŝablono:Lando flago IOK MKD
+ਫਰਮਾ:ਯੂਰਪ ਦੇ ਦੇਸ਼	Ŝablono:Ŝtatoj en Eŭropo
+ਸ਼੍ਰੇਣੀ:ਲਿਪੀਆਂ	Kategorio:Skribsistemoj
+ਫਰਮਾ:Beta	Ŝablono:Beta
+ਫਰਮਾ:UF-hcard-person	Ŝablono:UF-hcard-persono
+ਫਰਮਾ:Country flag IOC alias BAH	Ŝablono:Lando flago IOK BAH
+ਫਰਮਾ:N/a	Ŝablono:N/a
+ਸ਼੍ਰੇਣੀ:ਉੱਤਰੀ ਰਾਈਨ-ਪੱਛਮੀ ਫ਼ਾਲਨ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Nordrejn-Vestfalio
+ਫਰਮਾ:User la-3	Ŝablono:Vikipediisto la-3
+ਆਲੋਚਕ	Kritikisto
+ਫਰਮਾ:Multiple image	Ŝablono:Pluraj bildoj
+ਫਰਮਾ:Legend0	Ŝablono:Priskribo0
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਰੋਗ	Ŝablono:Informkesto Malsano
+ਵਿਕੀਪੀਡੀਆ:ਚੁਣਿਆ ਹੋਇਆ ਲੇਖ	Vikipedio:Premioj
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਮੁੱਦਰਾ	Ŝablono:Informkesto valuto
+ਫਰਮਾ:ਓਸ਼ੇਨੀਆਈ ਦੇਸ਼ਾਂ ਦੀਆਂ ਰਾਜਧਾਨੀਆਂ	Ŝablono:Oceaniaj ĉefurboj
+ਫਰਮਾ:Lang-vi	Ŝablono:Lang-vi
+ਫਰਮਾ:ਵੱਖਰਾ	Ŝablono:Ne konfuzu
+ਸ਼੍ਰੇਣੀ:ਖੇਤੀਬਾੜੀ ਦੀ ਮਸ਼ੀਨਰੀ	Kategorio:Agrikulturaj maŝinoj
+ਸ਼੍ਰੇਣੀ:ਇਰਾਨ ਦੇ ਸੂਬੇ	Kategorio:Provincoj de Irano
+ਫਰਮਾ:Unix commands	Ŝablono:Uniksaj komandoj
+ਸ਼੍ਰੇਣੀ:ਨਵੰਬਰ	Kategorio:Novembro
+ਫਰਮਾ:Country flag IOC alias POL	Ŝablono:Lando flago IOK POL
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਕਿੱਤਾ	Ŝablono:Informkesto metio
+ਫਰਮਾ:TOC limit	Ŝablono:LimigitaIndekso
+ਫਰਮਾ:Country flag IOC alias HUN	Ŝablono:Lando flago IOK HUN
+ਫਰਮਾ:Country flag IOC alias BLR	Ŝablono:Lando flago IOK BLR
+ਫਰਮਾ:User sv-1	Ŝablono:Vikipediisto sv-1
+ਸ਼੍ਰੇਣੀ:ਰਸਾਇਣਕ ਯੋਗ	Kategorio:Kemiaj kombinaĵoj
+ਸ਼੍ਰੇਣੀ:ਮਾਰਚ	Kategorio:Marto
+ਫਰਮਾ:Country flag IOC alias BRA	Ŝablono:Lando flago IOK BRA
+ਸ਼੍ਰੇਣੀ:ਸਤੰਬਰ	Kategorio:Septembro
+ਸ਼੍ਰੇਣੀ:ਅਕਤੂਬਰ	Kategorio:Oktobro
+ਸ਼੍ਰੇਣੀ:ਦਸੰਬਰ	Kategorio:Decembro
+ਸ਼੍ਰੇਣੀ:ਅਗਸਤ	Kategorio:Aŭgusto
+ਸ਼੍ਰੇਣੀ:ਮਈ	Kategorio:Majo
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਨਹਿਰ	Ŝablono:Informkesto kanalo
+ਸ਼੍ਰੇਣੀ:ਅਪ੍ਰੈਲ	Kategorio:Aprilo
+ਫਰਮਾ:Rh	Ŝablono:Rh
+ਫਰਮਾ:Lang-ko	Ŝablono:Lang-ko
+ਸ਼੍ਰੇਣੀ:ਸੂਰਜ ਮੰਡਲ	Kategorio:Sunsistemo
+ਫਰਮਾ:Coord/dms2dec	Ŝablono:Koord/gmsaldek
+ਫਰਮਾ:User oc-1	Ŝablono:Vikipediisto oc-1
+ਸ਼੍ਰੇਣੀ:ਪਾਣੀ	Kategorio:Akvo
+ਈਰਖਾ	Ĵaluzo
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਗਲੇਸ਼ੀਅਰ	Ŝablono:Informkesto glaĉero
+ਫਰਮਾ:User sw-1	Ŝablono:Vikipediisto sw-1
+ਮਸਨਵੀ	Masnavio
+ਫਰਮਾ:ਕੈਨੇਡਾ ਦੇ ਸੂਬੇ ਅਤੇ ਰਾਜਖੇਤਰ	Ŝablono:Provincoj de Kanado
+ਫਰਮਾ:Country flag IOC alias ALG	Ŝablono:Lando flago IOK ALG
+ਫਰਮਾ:Country flag IOC alias AUT	Ŝablono:Lando flago IOK AUT
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਧਾਰਮਿਕ ਟੋਲੀ	Ŝablono:Informkesto religia grupo
+ਫਰਮਾ:User ru-2	Ŝablono:Vikipediisto ru-2
+ਫਰਮਾ:User es-3	Ŝablono:Vikipediisto es-3
+ਫਰਮਾ:User ko-3	Ŝablono:Vikipediisto ko-3
+ਫਰਮਾ:Match report templates	Ŝablono:Ŝablonoj por futbalaj matĉoj
+ਸ਼੍ਰੇਣੀ:ਸਾਹਿਤ ਆਲੋਚਕ	Kategorio:Literaturkritikistoj
+ਫਰਮਾ:Infobox prepared food	Ŝablono:Informkesto plado
+ਫਰਮਾ:User ro-1	Ŝablono:Vikipediisto ro-1
+ਸ਼੍ਰੇਣੀ:੧੮੫੯ ਵਿਚ ਜਨਮੇ	Kategorio:Naskiĝintoj en 1859
+ਸ਼੍ਰੇਣੀ:ਕੈਲੀਫ਼ੋਰਨੀਆ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Kalifornio
+ਸ਼੍ਰੇਣੀ:ਤੀਸਰੀ ਸਦੀ	Kategorio:3-a jarcento
+ਸ਼੍ਰੇਣੀ:11ਵੀਂ ਸਦੀ	Kategorio:11-a jarcento
+ਸ਼੍ਰੇਣੀ:17ਵੀਂ ਸਦੀ	Kategorio:17-a jarcento
+ਸ਼੍ਰੇਣੀ:10ਵੀਂ ਸਦੀ	Kategorio:10-a jarcento
+ਸ਼੍ਰੇਣੀ:7ਵੀਂ ਸਦੀ	Kategorio:7-a jarcento
+ਫਰਮਾ:Any	Ŝablono:Io
+ਫਰਮਾ:BLACK	Ŝablono:NIGRA
+ਫਰਮਾ:User sv-3	Ŝablono:Vikipediisto sv-3
+ਮਨਪ੍ਰੀਤ ਸਿੰਘ ਬਾਦਲ	Manpreet Singh Badal
+ਸ਼੍ਰੇਣੀ:ਵਿਟਾਮਿਨ	Kategorio:Vitaminoj
+ਫਰਮਾ:Non-free media	Ŝablono:Nelibera dosiero/dokumentado
+ਫਰਮਾ:Coord/dec2dms/dm	Ŝablono:Koord/dekalgms/gm
+ਸ਼੍ਰੇਣੀ:ਕਾਰਬਨੀ ਰਸਾਇਣਕ ਯੋਗ	Kategorio:Organikaj kombinaĵoj
+ਮੀਆਂ ਮੁਹੰਮਦ ਬਖ਼ਸ਼	Mian Muhammad Baĥŝ
+ਸ਼੍ਰੇਣੀ:ਕਜਾਖਸਤਾਨ ਦੇ ਰਾਜ	Kategorio:Provincoj de Kazaĥio
+ਸ਼੍ਰੇਣੀ:ਰੂਸੀ ਲੇਖਕ	Kategorio:Rusiaj verkistoj
+ਸ਼੍ਰੇਣੀ:ਅਮਰੀਕੀ ਲੇਖਕ	Kategorio:Usonaj verkistoj
+ਸ਼੍ਰੇਣੀ:ਨਾਮੀਬੀਆ	Kategorio:Namibio
+ਫਰਮਾ:Side box	Ŝablono:Flanka kesto
+ਫਰਮਾ:Citation	Ŝablono:Cito
+ਫਰਮਾ:ਫ਼ਰਾਂਸ ਦੇ ਖੇਤਰ	Ŝablono:Ligiltabelo Regionoj kaj teritorioj de Francio
+ਸ਼੍ਰੇਣੀ:੨੦੦੨	Kategorio:2002
+ਫਰਮਾ:Country flag IOC alias AFG	Ŝablono:Lando flago IOK AFG
+ਫਰਮਾ:Infobox Language/family-color	Ŝablono:Informkesto lingvo/Koloro
+ਫਰਮਾ:User ca-3	Ŝablono:Vikipediisto ca-3
+ਫਰਮਾ:User cs-3	Ŝablono:Vikipediisto cs-3
+ਫਰਮਾ:User li-1	Ŝablono:Vikipediisto li-1
+ਫਰਮਾ:User mk-1	Ŝablono:Vikipediisto mk-1
+ਫਰਮਾ:User nn-2	Ŝablono:Vikipediisto nn-2
+ਫਰਮਾ:User no-1	Ŝablono:Vikipediisto no-1
+ਫਰਮਾ:User pt	Ŝablono:Vikipediisto pt
+ਫਰਮਾ:User ro-2	Ŝablono:Vikipediisto ro-2
+ਫਰਮਾ:User ru-1	Ŝablono:Vikipediisto ru-1
+ਫਰਮਾ:User sk-1	Ŝablono:Vikipediisto sk-1
+ਫਰਮਾ:User sk-2	Ŝablono:Vikipediisto sk-2
+ਫਰਮਾ:User sr-1	Ŝablono:Vikipediisto sr-1
+ਫਰਮਾ:User uk-4	Ŝablono:Vikipediisto uk-4
+ਫਰਮਾ:User zh-1	Ŝablono:Vikipediisto zh-1
+ਫਰਮਾ:User zh-2	Ŝablono:Vikipediisto zh-2
+ਸ਼੍ਰੇਣੀ:ਅੰਗਰੇਜ਼ੀ ਕਵੀ	Kategorio:Anglaj poetoj
+ਸ਼੍ਰੇਣੀ:ਅਮਰੀਕੀ ਕਵੀ	Kategorio:Usonaj poetoj
+ਸ਼੍ਰੇਣੀ:ਕੌਮਾਂਤਰੀ ਵਪਾਰ	Kategorio:Internacia komerco
+ਸ਼੍ਰੇਣੀ:ਦੂਰਦਰਸ਼ਨ	Kategorio:Televido
+ਸ਼੍ਰੇਣੀ:ਫਰਾਂਸੀਸੀ ਕਵੀ	Kategorio:Francaj poetoj
+ਸ਼੍ਰੇਣੀ:ਪਹਿਲੀ ਸਦੀ	Kategorio:1-a jarcento
+ਸ਼੍ਰੇਣੀ:14ਵੀਂ ਸਦੀ	Kategorio:14-a jarcento
+ਸ਼੍ਰੇਣੀ:13ਵੀਂ ਸਦੀ	Kategorio:13-a jarcento
+ਸ਼੍ਰੇਣੀ:16ਵੀਂ ਸਦੀ	Kategorio:16-a jarcento
+ਸ਼੍ਰੇਣੀ:12ਵੀਂ ਸਦੀ	Kategorio:12-a jarcento
+ਸ਼੍ਰੇਣੀ:ਦੂਸਰੀ ਸਦੀ	Kategorio:2-a jarcento
+ਸ਼੍ਰੇਣੀ:ਚੌਥੀ ਸਦੀ	Kategorio:4-a jarcento
+ਸ਼੍ਰੇਣੀ:5ਵੀਂ ਸਦੀ	Kategorio:5-a jarcento
+ਸ਼੍ਰੇਣੀ:18ਵੀਂ ਸਦੀ	Kategorio:18-a jarcento
+ਸ਼੍ਰੇਣੀ:6ਵੀਂ ਸਦੀ	Kategorio:6-a jarcento
+ਸ਼੍ਰੇਣੀ:8ਵੀਂ ਸਦੀ	Kategorio:8-a jarcento
+ਸ਼੍ਰੇਣੀ:ਸਿਆਸੀ ਸ਼ਬਦਾਵਲੀ	Kategorio:Politikaj esprimoj
+ਸ਼੍ਰੇਣੀ:ਅੰਗਰੇਜ਼ੀ ਨਾਵਲ	Kategorio:Anglaj romanoj
+ਸ਼੍ਰੇਣੀ:ਰੂਸੀ ਨਾਵਲ	Kategorio:Ruslingvaj romanoj
+ਸ਼੍ਰੇਣੀ:ਅਫਗਾਨਿਸਤਾਨ ਦੇ ਸੂਬੇ	Kategorio:Provincoj de Afganio
+ਸ਼੍ਰੇਣੀ:ਬਿਰਤਾਂਤ-ਸ਼ਾਸਤਰ	Kategorio:Rakont-arto
+ਸ਼੍ਰੇਣੀ:ਤਿਕੋਣਮਿਤੀ	Kategorio:Trigonometrio
+ਸ਼੍ਰੇਣੀ:ਹਵਾਈ ਅੱਡੇ	Kategorio:Flughavenoj
+ਸ਼੍ਰੇਣੀ:ਰਸਾਇਣਕ ਤੱਤ	Kategorio:Kemiaj elementoj
+ਫਰਮਾ:User pfl-1	Ŝablono:Vikipediisto pfl-1
+ਸ਼੍ਰੇਣੀ:15ਵੀਂ ਸਦੀ	Kategorio:15-a jarcento
+ਸ਼੍ਰੇਣੀ:ਨੇਪਾਲ	Kategorio:Nepalo
+ਸ਼੍ਰੇਣੀ:ਸ੍ਰੀਲੰਕਾ	Kategorio:Sri-Lanko
+ਸ਼੍ਰੇਣੀ:9ਵੀਂ ਸਦੀ	Kategorio:9-a jarcento
+ਸ਼੍ਰੇਣੀ:ਵਾਯੂਮੰਡਲ	Kategorio:Atmosfero
+ਸ਼੍ਰੇਣੀ:ਬੈਲੇ	Kategorio:Baletoj
+ਸ਼੍ਰੇਣੀ:ਅਲਬੇਨੀਆ	Kategorio:Albanio
+ਸ਼੍ਰੇਣੀ:ਸਬਜੀ	Kategorio:Legomoj
+ਸ਼੍ਰੇਣੀ:ਫਲ	Kategorio:Fruktoj
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤੀ ਮੁਸਲਮਾਨ	Kategorio:Barataj islamanoj
+ਸ਼੍ਰੇਣੀ:ਮੈਕਸੀਕੋ ਦੇ ਰਾਜ	Kategorio:Provincoj de Meksiko
+ਸ਼੍ਰੇਣੀ:ਪੰਜਾਬ, ਭਾਰਤ	Kategorio:Panĝabo (Barato)
+ਸ਼੍ਰੇਣੀ:ਜੈਨ ਧਰਮ	Kategorio:Ĝajnismo
+ਸ਼੍ਰੇਣੀ:ਜਪਾਨੀ ਜੰਗੀ ਕਲਾਵਾਂ	Kategorio:Japanaj batalartoj
+ਸ਼੍ਰੇਣੀ:ਪਾਰਸੀ ਧਰਮ	Kategorio:Zaratuŝtrismo
+ਸ਼੍ਰੇਣੀ:ਅੰਗਰੇਜ਼ੀ ਨਾਟਕ	Kategorio:Anglaj teatraĵoj
+ਸ਼੍ਰੇਣੀ:ਕਿਰਿਆਸ਼ੀਲ ਸਮੂਹ	Kategorio:Funkcia grupo
+ਸ਼੍ਰੇਣੀ:ਅੰਗਾਣੂ	Kategorio:Organetoj
+ਫਰਮਾ:ਗੋਲਡ-ਬੁੱਕ-ਹਵਾਲਾ	Ŝablono:GoldBookRef
+ਸ਼੍ਰੇਣੀ:ਪ੍ਰੋਟੀਨ	Kategorio:Proteinoj
+ਸ਼੍ਰੇਣੀ:ਮਹਾਨ ਝੀਲਾਂ	Kategorio:Grandaj Lagoj
+ਸ਼੍ਰੇਣੀ:ਜੀਵ ਟੈਕਨਾਲੋਜੀ	Kategorio:Biotekniko
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Barato
+ਸ਼੍ਰੇਣੀ:ਇੰਡੀਆਨਾ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Indianio
+ਸ਼੍ਰੇਣੀ:ਐਰੀਜ਼ੋਨਾ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Arizono
+ਸ਼੍ਰੇਣੀ:ਓਲੰਪਿਕ ਖੇਡਾਂ	Kategorio:Someraj Olimpikoj
+ਸ਼੍ਰੇਣੀ:੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ	Kategorio:Somera Olimpiko 2008
+ਫਰਮਾ:Infobox language	Ŝablono:Informkesto lingvo
+ਫਰਮਾ:Country flag IOC alias SUD	Ŝablono:Lando flago IOK SUD
+ਫਰਮਾ:Country flag IOC alias MEX	Ŝablono:Lando flago IOK MEX
+ਸ਼੍ਰੇਣੀ:ਚੀਨ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Ĉinio
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤੀ ਫ਼ਿਲਮ ਨਿਰਦੇਸ਼ਕ	Kategorio:Barataj reĝisoroj
+ਗਾਜਰ	Karoto
+ਭਾਰਤ ਵਿੱਚ ਵਰਣ ਵਿਵਸਥਾ	Varno
+ਫਰਮਾ:ਅਲਬੇਨੀਆ ਦੀਆਂ ਕਾਉਂਟੀਆਂ	Ŝablono:Provincoj de Albanio
+ਸ਼੍ਰੇਣੀ:ਆਦਮ ਅਤੇ ਹੱਵਾ	Kategorio:Adamo kaj Evo
+ਮਦਦ:ਵਿਕੀ ਨਿਸ਼ਾਨ	Helpo:Kiel redakti paĝon por spertuloj
+ਫਰਮਾ:Country flag IOC alias IRI	Ŝablono:Lando flago IOK IRI
+ਫਰਮਾ:ਜਰਮਨੀ ਦੇ ਸ਼ਹਿਰ	Ŝablono:Urboj en Germanio
+ਫਰਮਾ:US patent	Ŝablono:Usona patento
+ਫਰਮਾ:ਉਰਦੂ	Ŝablono:Lang-ur
+ਫਰਮਾ:Country flag IOC alias LAT	Ŝablono:Lando flago IOK LAT
+ਫਰਮਾ:Fb-rt	Ŝablono:Fb-rt
+ਫਰਮਾ:User sl-1	Ŝablono:Vikipediisto sl-1
+ਸੋਉਕੋਉ ਪਿਨਇਨ	Sōugǒu Pīnyīn
+ਫਰਮਾ:Lang-nds	Ŝablono:Lang-nds
+ਫਰਮਾ:Pad	Ŝablono:Pad
+ਫਰਮਾ:Country flag IOC alias AZE	Ŝablono:Lando flago IOK AZE
+ਫਰਮਾ:Country flag IOC alias BEL	Ŝablono:Lando flago IOK BEL
+ਫਰਮਾ:Country flag IOC alias BRN	Ŝablono:Lando flago IOK BRN
+ਫਰਮਾ:Country flag IOC alias BUL	Ŝablono:Lando flago IOK BUL
+ਫਰਮਾ:Country flag IOC alias CUB	Ŝablono:Lando flago IOK CUB
+ਫਰਮਾ:Country flag IOC alias CZE	Ŝablono:Lando flago IOK CZE
+ਫਰਮਾ:Country flag IOC alias ESA	Ŝablono:Lando flago IOK ESA
+ਫਰਮਾ:Country flag IOC alias EST	Ŝablono:Lando flago IOK EST
+ਫਰਮਾ:Country flag IOC alias GBS	Ŝablono:Lando flago IOK GBS
+ਫਰਮਾ:Country flag IOC alias GEO	Ŝablono:Lando flago IOK GEO
+ਫਰਮਾ:Country flag IOC alias HKG	Ŝablono:Lando flago IOK HKG
+ਫਰਮਾ:Country flag IOC alias INA	Ŝablono:Lando flago IOK INA
+ਫਰਮਾ:Country flag IOC alias IND	Ŝablono:Lando flago IOK IND
+ਫਰਮਾ:Country flag IOC alias ISR	Ŝablono:Lando flago IOK ISR
+ਫਰਮਾ:Country flag IOC alias KAZ	Ŝablono:Lando flago IOK KAZ
+ਫਰਮਾ:Country flag IOC alias KEN	Ŝablono:Lando flago IOK KEN
+ਫਰਮਾ:Lang-pl	Ŝablono:Lang-pl
+ਚੀਨ	Ĉinio (apartigilo)
+ਫਰਮਾ:Country flag IOC alias KGZ	Ŝablono:Lando flago IOK KGZ
+ਫਰਮਾ:Country flag IOC alias KOR	Ŝablono:Lando flago IOK KOR
+ਫਰਮਾ:Country flag IOC alias LTU	Ŝablono:Lando flago IOK LTU
+ਫਰਮਾ:Country flag IOC alias MAR	Ŝablono:Lando flago IOK MAR
+ਫਰਮਾ:Country flag IOC alias MDA	Ŝablono:Lando flago IOK MDA
+ਫਰਮਾ:Country flag IOC alias MYA	Ŝablono:Lando flago IOK MYA
+ਫਰਮਾ:Country flag IOC alias PAN	Ŝablono:Lando flago IOK PAN
+ਫਰਮਾ:Country flag IOC alias PER	Ŝablono:Lando flago IOK PER
+ਫਰਮਾ:Country flag IOC alias PHI	Ŝablono:Lando flago IOK PHI
+ਫਰਮਾ:Country flag IOC alias PLW	Ŝablono:Lando flago IOK PLW
+ਫਰਮਾ:Country flag IOC alias PRK	Ŝablono:Lando flago IOK PRK
+ਫਰਮਾ:Country flag IOC alias QAT	Ŝablono:Lando flago IOK QAT
+ਫਰਮਾ:Country flag IOC alias RSA	Ŝablono:Lando flago IOK RSA
+ਫਰਮਾ:Country flag IOC alias SEN	Ŝablono:Lando flago IOK SEN
+ਫਰਮਾ:Country flag IOC alias RUS	Ŝablono:Lando flago IOK RUS
+ਫਰਮਾ:Country flag IOC alias SIN	Ŝablono:Lando flago IOK SIN
+ਫਰਮਾ:Country flag IOC alias SRB	Ŝablono:Lando flago IOK SRB
+ਫਰਮਾ:Country flag IOC alias SVK	Ŝablono:Lando flago IOK SVK
+ਫਰਮਾ:Country flag IOC alias THA	Ŝablono:Lando flago IOK THA
+ਫਰਮਾ:ਏਸ਼ੀਆ ਦੀਆਂ ਮੁਦਰਾਵਾਂ	Ŝablono:Valutoj de Azio
+ਫਾਟਕ:ਹਿਸਾਬ	Portalo:Matematiko
+ਸ਼੍ਰੇਣੀ:ਸਪੇਨ ਦੇ ਗਿਰਜਾਘਰ	Kategorio:Katedraloj en Hispanio
+ਫਰਮਾ:Infobox Country Olympics	Ŝablono:Informkesto lando Olimpikoj
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ ਬਿਓਕੋ	Ŝablono:Situo sur mapo Ekvatora Gvineo Bioko
+ਫਰਮਾ:Lang-ro	Ŝablono:Lang-ro
+ਫਰਮਾ:Lang-oc	Ŝablono:Lang-oc
+ਫਰਮਾ:Lang-hu	Ŝablono:Lang-hu
+ਫਰਮਾ:Infobox top level domain	Ŝablono:Domajno de plej alta nivelo
+ਫਰਮਾ:Communism sidebar	Ŝablono:Skatolo komunismo
+ਸ਼੍ਰੇਣੀ:ਨਵਾਡਾ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Nevado
+ਸ਼੍ਰੇਣੀ:ਉੱਤਰੀ ਕੈਰੋਲੀਨਾ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Norda Karolino
+ਫਰਮਾ:Lang-am	Ŝablono:Lang-am
+ਸ਼੍ਰੇਣੀ:ਹਿੰਦੂ ਦੇਵੀਆਂ	Kategorio:Hinduaj diinoj
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਛੁੱਟੀ	Ŝablono:Informkesto festo
+ਸ਼੍ਰੇਣੀ:ਸਾਮੀ ਭਾਸ਼ਾਵਾਂ	Kategorio:Semida lingvaro
+ਸ਼੍ਰੇਣੀ:ਕਹਾਣੀਆਂ	Kategorio:Rakontoj
+ਸ਼੍ਰੇਣੀ:ਸਿੱਖੀ	Kategorio:Sikismo
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਭੌਤਿਕ ਮਾਪ	Ŝablono:Informkesto fizika grando
+ਸ਼੍ਰੇਣੀ:ਐਲਡੀਹਾਈਡ	Kategorio:Aldehidoj
+ਸ਼੍ਰੇਣੀ:ਉਰਦੂ ਕਵੀ	Kategorio:Urduaj poetoj
+ਸ਼੍ਰੇਣੀ:ਚੀਨ ਦੇ ਸੂਬੇ	Kategorio:Provincoj de Ĉinio
+ਫਰਮਾ:Bg icon	Ŝablono:Bg
+ਤਰਾਖ਼ੇ ਅਜਾਇਬ-ਘਰ	Muzeo de la Kostumo
+ਸ਼੍ਰੇਣੀ:ਇਲੀਨਾਏ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Ilinojo
+ਸ਼੍ਰੇਣੀ:ਮਿਸ਼ੀਗਨ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Miĉigano
+ਸ਼੍ਰੇਣੀ:ਓਹਾਇਓ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Ohio
+ਸ਼੍ਰੇਣੀ:ਪੈੱਨਸਿਲਵੇਨੀਆ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Pensilvanio
+ਫਰਮਾ:ਗਿਆਨਸੰਦੂਕ ਪਾਤਰ	Ŝablono:Informkesto rolulo
+ਭਰਿੰਡ	Vespo
+ਫਰਮਾ:User nn-3	Ŝablono:Vikipediisto nn-3
+ਸ਼੍ਰੇਣੀ:User da-N	Kategorio:Vikipediisto da-D
+ਸ਼੍ਰੇਣੀ:ਜਰਮਨੀ ਦੇ ਸ਼ਹਿਰ	Kategorio:Urboj de Germanio
+ਫਰਮਾ:User vls-1	Ŝablono:Vikipediisto vls-1
+ਇਬੋਲਾ ਵਾਇਰਸ	Ebolo (viruso)
+ਫਰਮਾ:Country flag IOC alias GRE	Ŝablono:Lando flago IOK GRE
+ਫਰਮਾ:Country flag IOC alias SUI	Ŝablono:Lando flago IOK SUI
+ਫਰਮਾ:Country flag IOC alias CAN	Ŝablono:Lando flago IOK CAN
+ਫਰਮਾ:Country flag IOC alias NED	Ŝablono:Lando flago IOK NED
+ਫਰਮਾ:Country flag IOC alias NOR	Ŝablono:Lando flago IOK NOR
+ਫਰਮਾ:Country flag IOC alias SRI	Ŝablono:Lando flago IOK SRI
+ਫਰਮਾ:Userbox-level	Ŝablono:Userbox-level
+ਫਰਮਾ:Country flag IOC alias IRL	Ŝablono:Lando flago IOK IRL
+ਫਰਮਾ:Country flag IOC alias TUR	Ŝablono:Lando flago IOK TUR
+ਫਰਮਾ:Country flag IOC alias COL	Ŝablono:Lando flago IOK COL
+ਫਰਮਾ:Country flag IOC alias ARM	Ŝablono:Lando flago IOK ARM
+ਫਰਮਾ:Country flag IOC alias CRO	Ŝablono:Lando flago IOK CRO
+ਫਰਮਾ:Country flag IOC alias ISL	Ŝablono:Lando flago IOK ISL
+ਫਰਮਾ:Country flag IOC alias ESP	Ŝablono:Lando flago IOK ESP
+ਫਰਮਾ:Country flag IOC alias NZL	Ŝablono:Lando flago IOK NZL
+ਫਰਮਾ:Country flag IOC alias SLO	Ŝablono:Lando flago IOK SLO
+ਫਰਮਾ:Country flag IOC alias FIN	Ŝablono:Lando flago IOK FIN
+ਫਰਮਾ:Country flag IOC alias UKR	Ŝablono:Lando flago IOK UKR
+ਫਰਮਾ:Country flag IOC alias GUM	Ŝablono:Lando flago IOK GUM
+ਫਰਮਾ:Country flag IOC alias SEY	Ŝablono:Lando flago IOK SEY
+ਫਰਮਾ:Country flag IOC alias GUA	Ŝablono:Lando flago IOK GUA
+ਫਰਮਾ:Country flag IOC alias MGL	Ŝablono:Lando flago IOK MGL
+ਫਰਮਾ:Country flag IOC alias EGY	Ŝablono:Lando flago IOK EGY
+ਫਰਮਾ:Country flag IOC alias POR	Ŝablono:Lando flago IOK POR
+ਫਰਮਾ:Country flag IOC alias CYP	Ŝablono:Lando flago IOK CYP
+ਫਰਮਾ:Terminated	Ŝablono:Finita
+ਫਰਮਾ:Dropped	Ŝablono:Lasita
+ਫਰਮਾ:Country flag IOC alias CMR	Ŝablono:Lando flago IOK CMR
+ਫਰਮਾ:Free	Ŝablono:Libera
+ਫਰਮਾ:User nn	Ŝablono:Vikipediisto nn
+ਫਰਮਾ:Nonfree	Ŝablono:Nelibera
+ਫਰਮਾ:Table-experimental	Ŝablono:Tabela-eksperimenta
+ਫਰਮਾ:Country flag IOC alias NGR	Ŝablono:Lando flago IOK NGR
+ਫਰਮਾ:User sh-2	Ŝablono:Vikipediisto sh-2
+ਫਰਮਾ:Country flag IOC alias CHN	Ŝablono:Lando flago IOK CHN
+ਫਰਮਾ:Incorrect	Ŝablono:Malkorekta
+ਫਰਮਾ:Country flag IOC alias ECU	Ŝablono:Lando flago IOK ECU
+ਫਰਮਾ:Country flag IOC alias JAM	Ŝablono:Lando flago IOK JAM
+ਫਰਮਾ:Country flag IOC alias ETH	Ŝablono:Lando flago IOK ETH
+ਫਰਮਾ:Country flag IOC alias BHU	Ŝablono:Lando flago IOK BHU
+ਫਰਮਾ:Country flag IOC alias ROU	Ŝablono:Lando flago IOK ROU
+ਫਰਮਾ:Country flag IOC alias ALB	Ŝablono:Lando flago IOK ALB
+ਫਰਮਾ:No result	Ŝablono:Neniu rezulto
+ਫਰਮਾ:Country flag IOC alias CHI	Ŝablono:Lando flago IOK CHI
+ਫਰਮਾ:Harvcoltxt	Ŝablono:Harvcoltxt
+ਅੱਸੂ	Assu
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਕਦੀਮੀ ਟਿਕਾਣਾ	Ŝablono:Informkesto arkeologia situo
+ਤਿਤਲੀ	Rhopalocera
+ਸੈਲਫ਼ੀ	Memfoto
+ਸਲਾਹਕਾਰੀ ਮਨੋਵਿਗਿਆਨ	Psikologia konsultado
+ਕੇਦਾਰਨਾਥ ਸਿੰਘ	Kedarnath Singh
+ਫਰਮਾ:Style/ril	Ŝablono:Style/ril
+ਐਡਵਰਡ ਸਨੋਡੇਨ	Edward Snowden
+ਫਰਮਾ:Style/yid	Ŝablono:Style/yid
+Module:Yesno	Modulo:Yesno
+ਖ਼ਾਸ:ਹਾਲੀਆ ਤਬਦੀਲੀਆਂ	Specialaĵo:Lastaj ŝanĝoj
+Module:HtmlBuilder	Modulo:HtmlBuilder
+ਹੁਸੈਨ ਸ਼ਹਾਬੀ	Hossein Shahabi
+2014 ਬਦਖ਼ਸ਼ਾਂ ਭੌਂ-ਖਿਸਕਾਅ	Terglito en Afganio (2014)
+ਸ਼੍ਰੇਣੀ:ਸਾਹਿਤਕ ਸ਼ਬਦਾਵਲੀ	Kategorio:Literaturaj konceptoj
+ਹਾਂਗਕਾਂਗ ਵਿੱਚ ਰੋਸ-ਲਹਿਰ 2014	Protestoj en Honkongo 2014
+ਪੇਗਿਡਾ	PEGIDA

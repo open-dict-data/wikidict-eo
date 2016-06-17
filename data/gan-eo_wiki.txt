@@ -1,0 +1,7513 @@
+非洲	Afriko
+日本	Japanio
+南美洲	Sudameriko
+挪威	Norvegio
+愛爾蘭	Irlando
+西班牙	Hispanio
+美國	Usono
+地球	Tero
+過世	Morto
+人	Homo
+幸福	Feliĉo
+喬治·華盛頓	George Washington
+芬蘭	Finnlando
+瑞典	Svedio
+丹麥	Danio
+波蘭	Pollando
+意大利	Italio
+希臘	Grekio
+土耳其	Turkio
+啤酒	Biero
+歐洲	Eŭropo
+亞洲	Azio
+北美洲	Nordameriko
+南極洲	Antarkto
+維基百科	Vikipedio
+荷蘭	Nederlando
+卵	Peniso
+紐約市	Novjorko
+華盛頓哥倫比亞特區	Vaŝingtono
+舊金山	San-Francisko
+柏林	Berlino
+洛杉磯	Los-Anĝeleso
+電腦	Komputilo
+互聯網	Interreto
+奧巴馬	Barack Obama
+倫敦	Londono
+蘋果	Pomo
+巴黎	Parizo
+亞伯拉罕·林肯	Abraham Lincoln
+Google	Google
+墨西哥	Meksiko
+大西洋	Atlantika Oceano
+太平洋	Pacifika Oceano
+加利福尼亞州	Kalifornio
+波士頓	Bostono
+禮拜一	Lundo
+一月	Januaro
+二月	Februaro
+三月	Marto
+火星	Marso
+埃塞俄比亞	Etiopio
+4月	Aprilo
+5月	Majo
+六月	Junio
+七月	Julio
+八月	Aŭgusto
+九月	Septembro
+十月	Oktobro
+十一月	Novembro
+十二月	Decembro
+禮拜二	Mardo
+禮拜三	Merkredo
+禮拜四	Ĵaŭdo
+禮拜五	Vendredo
+禮拜六	Sabato
+禮拜天	Dimanĉo
+法國	Francio
+狗	Hundo
+英國	Unuiĝinta Reĝlando
+貓	Hejma kato
+中華人民共和國	Ĉina Popola Respubliko
+法語	Franca lingvo
+魚	Fiŝoj
+酒	Alkoholaĵo
+巴西	Brazilo
+俄羅斯	Rusio
+方形	Kvadrato (geometrio)
+海	Maro
+黑海	Nigra Maro
+圓周率	Pi (nombro)
+阿拉巴馬州	Alabamo
+聖保羅	San-Paŭlo (urbo)
+德國	Germanio
+德語	Germana lingvo
+土星	Saturno (planedo)
+飛行器	Aviadilo
+打仗	Milito
+1	1 (nombro)
+2	2 (nombro)
+3	3 (nombro)
+4	4 (nombro)
+5	5 (nombro)
+無限	Senfineco
+烏克蘭	Ukrainio
+羅馬	Romo
+克罗地亚	Kroatio
+古巴	Kubo
+印度尼西亞	Indonezio
+莫扎特	Wolfgang Amadeus Mozart
+貝多芬	Ludwig van Beethoven
+南非	Sud-Afriko
+維基文庫	Vikifontaro
+葡萄酒	Vino
+水	Akvo
+木	Ligno
+電視	Televido
+冰島語	Islanda lingvo
+摩內	Claude Monet
+韋拿克	Diego Velázquez
+智利	Ĉilio
+耶穌	Jesuo Kristo
+貓王	Elvis Presley
+伽利略	Galilejo
+水星	Merkuro (planedo)
+歷史	Historio
+金星	Venuso (planedo)
+語言	Lingvo
+愛	Amo
+木星	Jupitero (planedo)
+天王星	Urano (planedo)
+海王星	Neptuno (planedo)
+天文學	Astronomio
+新加坡	Singapuro
+科學	Scienco
+運動	Sporto
+希特勒	Adolf Hitler
+Facebook	Facebook
+第一次世界大戰	Unua mondmilito
+第二次世界大戰	Dua mondmilito
+鐘	Horloĝo
+數學	Matematiko
+拉丁語	Latina lingvo
+月光	Luno
+伊斯坦布爾	Istanbulo
+澳大利亞	Aŭstralio
+物理學	Fiziko
+阿根廷	Argentino
+電信	Telekomunikado
+朝鮮民主主義人民共和國	Nord-Koreio
+柬埔寨	Kamboĝo
+恐龍	Dinosaŭro
+駄	Rado
+狄德羅	Denis Diderot
+心智	Menso
+萬維網	TTT
+女人	Virino
+詩	Poezio
+脇胛	Akselo
+檸檬	Citrono
+香蕉	Banano
+666年	666
+花	Floro
+珠穆朗瑪峰	Ĉomolungmo
+城市	Urbo
+拿破崙	Napoleono Bonaparte
+太陽	Suno
+光年	Lumjaro
+雨果	Victor Hugo
+大洋洲	Oceanio
+田徑	Atletiko
+太陽系	Sunsistemo
+地獄	Infero
+書	Libro
+日	Tago
+年	Jaro
+哥白尼	Koperniko
+可利俄捌拿七世	Kleopatra
+音樂	Muziko
+莫斯科	Moskvo
+意大利語	Itala lingvo
+北	Nordo
+南	Sudo
+印度	Barato
+散文	Prozo
+鐵	Fero
+西	Okcidento
+東	Oriento
+莫里哀	Molière
+莎士比亞	William Shakespeare
+國際象棋	Ŝako
+成吉思汗	Ĝingis-Ĥano
+馬	Ĉevalo
+武器	Armilo
+動物	Bestoj
+藝術	Arto
+哥倫比亞	Kolombio
+佛教	Budhismo
+植物	Plantoj
+達芬奇	Leonardo da Vinci
+雞	Koko
+北冰洋	Arkta Oceano
+伊朗	Irano
+伊拉克	Irako
+阿拉斯加州	Alasko
+以色列	Israelo
+亞利桑那州	Arizono
+老撾	Laoso
+美洲	Ameriko
+馬來西亞	Malajzio
+緬甸	Birmo
+巴基斯坦	Pakistano
+網球	Teniso
+沙特阿拉伯	Sauda Arabio
+斯大林	Josif Stalin
+柏拉圖	Platono
+中華民國	Respubliko Ĉinio
+亞里斯多德	Aristotelo
+泰國	Tajlando
+火車	Trajno
+無線電	Radiofonio
+越南	Vjetnamio
+韓國	Sud-Koreio
+金	Oro
+蘇伊士運河	Sueza Kanalo
+孟加拉	Bangladeŝo
+卡夫卡	Franz Kafka
+蘇格拉底	Sokrato
+羅德·阿門森	Roald Amundsen
+菲律賓	Filipinoj
+南極點	Suda poluso
+北極點	Norda poluso
+牛頓	Isaac Newton
+愛因斯坦	Albert Einstein
+黃	Flava
+北京	Pekino
+剛果民主共和國	Demokratia Respubliko Kongo
+聖安東尼奧 (德克薩斯州)	San Antonio (Teksaso)
+多托頁夫斯基	Fjodor Dostojevskij
+毛伢子	Bebo
+甘地	Mohandas Karamchand Gandhi
+人骨子頭畫	Bildliteraturo
+尼日利亞	Niĝerio
+達爾文	Charles Darwin
+卡爾·林奈	Karolo Lineo
+凱撒大帝	Julio Cezaro
+聯合國	Unuiĝintaj Nacioj
+但丁	Dante Alighieri
+地理學	Geografio
+色	Koloro
+藍	Blua
+銀	Arĝento
+電	Elektra ŝargo
+耶路撒冷	Jerusalemo
+印度洋	Hinda Oceano
+科索沃	Kosovo
+蕭邦	Frédéric Chopin
+分類:總類	Kategorio:Ĉio
+阿爾卑斯山	Alpoj
+帕斯卡	Blaise Pascal
+西洋跳棋	Damludo
+芝加哥	Ĉikago
+披頭士	The Beatles
+西班牙語	Hispana lingvo
+巴赫	Johann Sebastian Bach
+歌劇	Opero
+費城	Filadelfio (Pensilvanio)
+德里	Delhio
+水果	Frukto
+錢	Mono
+列寧	Lenin
+衛吉	Vergilio
+屋大維	Aŭgusto Cezaro
+汽車	Aŭtomobilo
+東京	Tokio
+麥哲倫	Fernão de Magalhães
+華格納	Richard Wagner
+雅典	Ateno
+世界標準時間	UTC
+印地語	Hindia lingvo
+阿肯色州	Arkansaso
+韻文	Verso
+瑪當娜	Madonna
+路易·暗式將	Louis Armstrong
+法蘭克福	Frankfurto ĉe Majno
+聖經	Biblio
+胡志明市	Ho-Ĉi-Min-urbo
+真耶穌教會	Vera Eklezio de Jesuo
+英語	Angla lingvo
+同海市	Dong Hoi
+孔斯科沃拉	Końskowola
+2000年	2000
+2003年	2003
+2002年	2002
+2001年	2001
+2012年	2012
+2011年	2011
+2010年	2010
+2009年	2009
+2013年	2013
+2014年	2014
+2015年	2015
+2008年	2008
+2004年	2004
+2005年	2005
+2006年	2006
+2007年	2007
+1900年	1900
+1901年	1901
+戴高樂	Charles de Gaulle
+1902年	1902
+1903年	1903
+1904年	1904
+1905年	1905
+1907年	1907
+1906年	1906
+1908年	1908
+1909年	1909
+1992年	1992
+1991年	1991
+1990年	1990
+1993年	1993
+1994年	1994
+1995年	1995
+1996年	1996
+1910年	1910
+1911年	1911
+1912年	1912
+1913年	1913
+1914年	1914
+1915年	1915
+1916年	1916
+1997年	1997
+1998年	1998
+1999年	1999
+1917年	1917
+1918年	1918
+喫嗰	Manĝaĵo
+1月1號	1-a de januaro
+1月2號	2-a de januaro
+1920年	1920
+1月3號	3-a de januaro
+1919年	1919
+1921年	1921
+1922年	1922
+1月4號	4-a de januaro
+1923年	1923
+1924年	1924
+1月5號	5-a de januaro
+1月6號	6-a de januaro
+1月7號	7-a de januaro
+1月8號	8-a de januaro
+1月9號	9-a de januaro
+1月10號	10-a de januaro
+1月11號	11-a de januaro
+1月12號	12-a de januaro
+1月13號	13-a de januaro
+1月14號	14-a de januaro
+1月15號	15-a de januaro
+1月16號	16-a de januaro
+1月17號	17-a de januaro
+1月18號	18-a de januaro
+1月19號	19-a de januaro
+1月20號	20-a de januaro
+工業革命	Industria revolucio
+1月21號	21-a de januaro
+1月22號	22-a de januaro
+1月23號	23-a de januaro
+羅馬帝國	Romia Imperio
+1月24號	24-a de januaro
+1月25號	25-a de januaro
+1月26號	26-a de januaro
+微軟	Microsoft
+1月27號	27-a de januaro
+1月28號	28-a de januaro
+1月29號	29-a de januaro
+1月30號	30-a de januaro
+1月31號	31-a de januaro
+12月2號	2-a de decembro
+12月1號	1-a de decembro
+12月3號	3-a de decembro
+12月7號	7-a de decembro
+12月5號	5-a de decembro
+12月8號	8-a de decembro
+12月10號	10-a de decembro
+12月6號	6-a de decembro
+12月9號	9-a de decembro
+12月4號	4-a de decembro
+2月1號	1-a de februaro
+2月2號	2-a de februaro
+2月3號	3-a de februaro
+庫魯夫市	Kurów
+2月4號	4-a de februaro
+2月5號	5-a de februaro
+2月6號	6-a de februaro
+2月7號	7-a de februaro
+2月8號	8-a de februaro
+2月9號	9-a de februaro
+2月10號	10-a de februaro
+化學	Kemio
+2月14號	14-a de februaro
+2月13號	13-a de februaro
+2月15號	15-a de februaro
+2月11號	11-a de februaro
+2月12號	12-a de februaro
+2月19號	19-a de februaro
+2月17號	17-a de februaro
+2月16號	16-a de februaro
+2月18號	18-a de februaro
+2月20號	20-a de februaro
+2月21號	21-a de februaro
+2月22號	22-a de februaro
+2月23號	23-a de februaro
+2月24號	24-a de februaro
+2月25號	25-a de februaro
+2月26號	26-a de februaro
+27年	27
+2月27號	27-a de februaro
+2月28號	28-a de februaro
+12月11號	11-a de decembro
+2月29號	29-a de februaro
+12月12號	12-a de decembro
+12月13號	13-a de decembro
+12月14號	14-a de decembro
+12月15號	15-a de decembro
+3月2號	2-a de marto
+3月3號	3-a de marto
+3月5號	5-a de marto
+3月1號	1-a de marto
+3月7號	7-a de marto
+3月8號	8-a de marto
+3月4號	4-a de marto
+3月10號	10-a de marto
+3月11號	11-a de marto
+3月6號	6-a de marto
+3月13號	13-a de marto
+3月9號	9-a de marto
+3月12號	12-a de marto
+3月15號	15-a de marto
+3月14號	14-a de marto
+C++	C++
+12月16號	16-a de decembro
+12月17號	17-a de decembro
+3月16號	16-a de marto
+3月17號	17-a de marto
+3月18號	18-a de marto
+3月19號	19-a de marto
+1989年	1989
+1988年	1988
+3月20號	20-a de marto
+1987年	1987
+1986年	1986
+1985年	1985
+1984年	1984
+3月21號	21-a de marto
+1983年	1983
+3月22號	22-a de marto
+1982年	1982
+1981年	1981
+12月18號	18-a de decembro
+1980年	1980
+3月23號	23-a de marto
+12月19號	19-a de decembro
+3月24號	24-a de marto
+3月25號	25-a de marto
+12月20號	20-a de decembro
+3月26號	26-a de marto
+3月27號	27-a de marto
+3月28號	28-a de marto
+3月29號	29-a de marto
+3月30號	30-a de marto
+3月31號	31-a de marto
+1970年	1970
+1971年	1971
+1972年	1972
+1973年	1973
+1974年	1974
+1975年	1975
+1976年	1976
+1977年	1977
+1978年	1978
+1979年	1979
+1969年	1969
+4月15號	15-a de aprilo
+4月13號	13-a de aprilo
+4月12號	12-a de aprilo
+4月14號	14-a de aprilo
+4月11號	11-a de aprilo
+4月10號	10-a de aprilo
+4月8號	8-a de aprilo
+4月9號	9-a de aprilo
+4月7號	7-a de aprilo
+4月6號	6-a de aprilo
+4月5號	5-a de aprilo
+4月4號	4-a de aprilo
+4月3號	3-a de aprilo
+4月1號	1-a de aprilo
+4月2號	2-a de aprilo
+夏寶太空望遠鏡	Kosmoteleskopo Hubble
+4月16號	16-a de aprilo
+4月17號	17-a de aprilo
+4月18號	18-a de aprilo
+4月19號	19-a de aprilo
+4月20號	20-a de aprilo
+4月21號	21-a de aprilo
+4月22號	22-a de aprilo
+4月23號	23-a de aprilo
+4月24號	24-a de aprilo
+4月25號	25-a de aprilo
+4月26號	26-a de aprilo
+4月27號	27-a de aprilo
+4月28號	28-a de aprilo
+4月29號	29-a de aprilo
+4月30號	30-a de aprilo
+天然衛星	Natura satelito
+5月1號	1-a de majo
+5月2號	2-a de majo
+5月3號	3-a de majo
+5月4號	4-a de majo
+5月5號	5-a de majo
+5月6號	6-a de majo
+5月7號	7-a de majo
+5月8號	8-a de majo
+5月9號	9-a de majo
+5月10號	10-a de majo
+5月11號	11-a de majo
+5月12號	12-a de majo
+5月13號	13-a de majo
+5月14號	14-a de majo
+5月15號	15-a de majo
+5月16號	16-a de majo
+5月17號	17-a de majo
+5月18號	18-a de majo
+5月19號	19-a de majo
+5月20號	20-a de majo
+5月21號	21-a de majo
+5月22號	22-a de majo
+5月23號	23-a de majo
+5月24號	24-a de majo
+5月25號	25-a de majo
+5月26號	26-a de majo
+5月27號	27-a de majo
+5月28號	28-a de majo
+5月29號	29-a de majo
+5月30號	30-a de majo
+5月31號	31-a de majo
+12月21號	21-a de decembro
+6月14號	14-a de junio
+6月15號	15-a de junio
+6月13號	13-a de junio
+6月10號	10-a de junio
+6月7號	7-a de junio
+6月11號	11-a de junio
+6月9號	9-a de junio
+6月12號	12-a de junio
+6月6號	6-a de junio
+6月8號	8-a de junio
+6月5號	5-a de junio
+6月3號	3-a de junio
+6月2號	2-a de junio
+6月1號	1-a de junio
+6月4號	4-a de junio
+12月22號	22-a de decembro
+1968年	1968
+1967年	1967
+1966年	1966
+1965年	1965
+1964年	1964
+6月16號	16-a de junio
+6月30號	30-a de junio
+6月29號	29-a de junio
+6月28號	28-a de junio
+6月26號	26-a de junio
+6月25號	25-a de junio
+6月22號	22-a de junio
+6月27號	27-a de junio
+6月24號	24-a de junio
+6月20號	20-a de junio
+6月23號	23-a de junio
+6月19號	19-a de junio
+6月18號	18-a de junio
+6月21號	21-a de junio
+6月17號	17-a de junio
+12月23號	23-a de decembro
+7月15號	15-a de julio
+7月13號	13-a de julio
+7月12號	12-a de julio
+7月10號	10-a de julio
+7月9號	9-a de julio
+7月14號	14-a de julio
+7月8號	8-a de julio
+7月7號	7-a de julio
+7月6號	6-a de julio
+7月5號	5-a de julio
+7月2號	2-a de julio
+7月4號	4-a de julio
+7月3號	3-a de julio
+7月1號	1-a de julio
+7月11號	11-a de julio
+12月24號	24-a de decembro
+7月31號	31-a de julio
+7月30號	30-a de julio
+7月29號	29-a de julio
+7月28號	28-a de julio
+7月27號	27-a de julio
+7月25號	25-a de julio
+7月24號	24-a de julio
+7月23號	23-a de julio
+7月26號	26-a de julio
+7月22號	22-a de julio
+7月19號	19-a de julio
+7月21號	21-a de julio
+7月20號	20-a de julio
+7月17號	17-a de julio
+7月18號	18-a de julio
+7月16號	16-a de julio
+腳球	Futbalo
+音樂劇	Muzikalo
+12月25號	25-a de decembro
+1963年	1963
+12月26號	26-a de decembro
+1962年	1962
+8月14號	14-a de aŭgusto
+8月15號	15-a de aŭgusto
+8月13號	13-a de aŭgusto
+8月12號	12-a de aŭgusto
+8月11號	11-a de aŭgusto
+8月10號	10-a de aŭgusto
+8月8號	8-a de aŭgusto
+8月7號	7-a de aŭgusto
+8月9號	9-a de aŭgusto
+8月5號	5-a de aŭgusto
+8月4號	4-a de aŭgusto
+8月2號	2-a de aŭgusto
+8月3號	3-a de aŭgusto
+8月6號	6-a de aŭgusto
+8月1號	1-a de aŭgusto
+12月27號	27-a de decembro
+潛水艇	Submarŝipo
+8月16號	16-a de aŭgusto
+8月29號	29-a de aŭgusto
+8月28號	28-a de aŭgusto
+8月30號	30-a de aŭgusto
+8月25號	25-a de aŭgusto
+8月26號	26-a de aŭgusto
+8月23號	23-a de aŭgusto
+8月27號	27-a de aŭgusto
+8月21號	21-a de aŭgusto
+8月20號	20-a de aŭgusto
+8月24號	24-a de aŭgusto
+8月18號	18-a de aŭgusto
+8月17號	17-a de aŭgusto
+8月22號	22-a de aŭgusto
+8月19號	19-a de aŭgusto
+8月31號	31-a de aŭgusto
+麥可·傑克遜	Michael Jackson
+12月28號	28-a de decembro
+9月15號	15-a de septembro
+9月14號	14-a de septembro
+9月13號	13-a de septembro
+9月12號	12-a de septembro
+9月8號	8-a de septembro
+9月11號	11-a de septembro
+9月7號	7-a de septembro
+9月10號	10-a de septembro
+9月5號	5-a de septembro
+9月4號	4-a de septembro
+9月9號	9-a de septembro
+9月2號	2-a de septembro
+9月6號	6-a de septembro
+9月1號	1-a de septembro
+9月3號	3-a de septembro
+12月29號	29-a de decembro
+9月30號	30-a de septembro
+9月29號	29-a de septembro
+9月28號	28-a de septembro
+9月27號	27-a de septembro
+9月26號	26-a de septembro
+9月25號	25-a de septembro
+9月23號	23-a de septembro
+9月22號	22-a de septembro
+9月24號	24-a de septembro
+9月21號	21-a de septembro
+9月20號	20-a de septembro
+9月18號	18-a de septembro
+9月17號	17-a de septembro
+9月19號	19-a de septembro
+9月16號	16-a de septembro
+12月30號	30-a de decembro
+12月31號	31-a de decembro
+10月1號	1-a de oktobro
+10月15號	15-a de oktobro
+10月12號	12-a de oktobro
+10月10號	10-a de oktobro
+10月14號	14-a de oktobro
+10月9號	9-a de oktobro
+10月8號	8-a de oktobro
+10月13號	13-a de oktobro
+10月7號	7-a de oktobro
+10月11號	11-a de oktobro
+10月6號	6-a de oktobro
+10月4號	4-a de oktobro
+10月5號	5-a de oktobro
+10月3號	3-a de oktobro
+10月2號	2-a de oktobro
+10月31號	31-a de oktobro
+10月30號	30-a de oktobro
+10月29號	29-a de oktobro
+10月28號	28-a de oktobro
+10月26號	26-a de oktobro
+10月25號	25-a de oktobro
+10月24號	24-a de oktobro
+10月27號	27-a de oktobro
+10月22號	22-a de oktobro
+10月23號	23-a de oktobro
+10月20號	20-a de oktobro
+10月21號	21-a de oktobro
+10月19號	19-a de oktobro
+10月17號	17-a de oktobro
+10月16號	16-a de oktobro
+10月18號	18-a de oktobro
+11月15號	15-a de novembro
+11月14號	14-a de novembro
+11月13號	13-a de novembro
+11月12號	12-a de novembro
+11月11號	11-a de novembro
+11月10號	10-a de novembro
+11月7號	7-a de novembro
+11月8號	8-a de novembro
+11月9號	9-a de novembro
+11月6號	6-a de novembro
+11月5號	5-a de novembro
+11月4號	4-a de novembro
+11月3號	3-a de novembro
+11月2號	2-a de novembro
+11月1號	1-a de novembro
+男仔子	Knabo
+11月30號	30-a de novembro
+11月29號	29-a de novembro
+11月28號	28-a de novembro
+11月27號	27-a de novembro
+11月26號	26-a de novembro
+11月25號	25-a de novembro
+11月23號	23-a de novembro
+11月24號	24-a de novembro
+11月21號	21-a de novembro
+11月20號	20-a de novembro
+11月22號	22-a de novembro
+11月19號	19-a de novembro
+11月18號	18-a de novembro
+11月17號	17-a de novembro
+11月16號	16-a de novembro
+女仔子	Knabino
+沙利門大帝	Karolo la Granda
+紅色	Ruĝa
+火	Fajro
+尼羅河	Nilo
+1961年	1961
+1960年	1960
+亞馬孫河	Amazono (rivero)
+天狗喫日頭	Suna eklipso
+大學	Universitato
+Wikipedia:沙盤	Vikipedio:Provejo
+屋	Domo
+代數	Algebro
+地圖	Mapo
+江	Rivero
+俄舍斯科	Osasco (San-Paŭlo)
+同海機場	Flughaveno Dong Hoi
+太空	Ekstertero
+望遠鏡	Teleskopo
+森林	Arbaro
+分類:1888年	Kategorio:1888
+濟酋余化盧	Zichyújfalu
+分類:1481年過世	Kategorio:Mortintoj en 1481
+分類:1421年出世	Kategorio:Naskiĝintoj en 1421
+分類:1421年	Kategorio:1421
+分類:1481年	Kategorio:1481
+孔子	Konfuceo
+科賓·布魯	Corbin Bleu
+分類:數學	Kategorio:Matematiko
+分類:1888年出世	Kategorio:Naskiĝintoj en 1888
+1488年	1488
+歐元	Eŭro
+美金	Usona dolaro
+地中海	Mediteraneo
+基督教	Kristanismo
+1004年	1004
+西雅圖	Seattle
+禾	Rizo
+大洲	Kontinento
+葡萄牙語	Portugala lingvo
+慕斯他化·克麥·阿塔突	Mustafa Kemal Atatürk
+1948年	1948
+1949年	1949
+黄现璠	Huang Senfan
+1956年	1956
+1200年	1200
+1201年	1201
+1202年	1202
+1203年	1203
+1204年	1204
+1205年	1205
+1206年	1206
+1941年	1941
+1207年	1207
+1208年	1208
+1945年	1945
+1209年	1209
+1210年	1210
+1211年	1211
+1958年	1958
+1212年	1212
+1926年	1926
+1213年	1213
+1947年	1947
+1944年	1944
+1952年	1952
+日语	Japana lingvo
+百科全書	Enciklopedio
+封面	Vikipedio:Ĉefpaĝo
+1959年	1959
+1957年	1957
+電容	Kondensilo
+晶體管	Transistoro
+1214年	1214
+1215年	1215
+1216年	1216
+1217年	1217
+1218年	1218
+1219年	1219
+1220年	1220
+1221年	1221
+1222年	1222
+1223年	1223
+1224年	1224
+1225年	1225
+1226年	1226
+1227年	1227
+1228年	1228
+1229年	1229
+1230年	1230
+長江	Jangzio
+1231年	1231
+1232年	1232
+1233年	1233
+1234年	1234
+1235年	1235
+1236年	1236
+1237年	1237
+1238年	1238
+1239年	1239
+1240年	1240
+1241年	1241
+1242年	1242
+1243年	1243
+1244年	1244
+1245年	1245
+1246年	1246
+喜馬拉雅山脈	Himalajo
+安底斯山脈	Andoj
+1247年	1247
+1248年	1248
+裡海	Kaspio
+1249年	1249
+1250年	1250
+1251年	1251
+1252年	1252
+1254年	1254
+1255年	1255
+1256年	1256
+1257年	1257
+1258年	1258
+1259年	1259
+1260年	1260
+1261年	1261
+1262年	1262
+1263年	1263
+1264年	1264
+1265年	1265
+1266年	1266
+1267年	1267
+1268年	1268
+1269年	1269
+1270年	1270
+1271年	1271
+1272年	1272
+1273年	1273
+1274年	1274
+1275年	1275
+1276年	1276
+1277年	1277
+1278年	1278
+1279年	1279
+1280年	1280
+1281年	1281
+1282年	1282
+1283年	1283
+1284年	1284
+1285年	1285
+1286年	1286
+1287年	1287
+1288年	1288
+1289年	1289
+1290年	1290
+1291年	1291
+1292年	1292
+1293年	1293
+1294年	1294
+1295年	1295
+1296年	1296
+1297年	1297
+1298年	1298
+1299年	1299
+答利	Salvador Dalí
+梵高	Vincent van Gogh
+葛飾北齋	Katsushika Hokusai
+米開朗琪羅	Mikelanĝelo
+畢加索	Pablo Picasso
+藍郎特	Rembrandt Harmenszoon van Rijn
+1300年	1300
+1301年	1301
+1302年	1302
+1303年	1303
+1304年	1304
+1305年	1305
+安徒生	Hans Christian Andersen
+拜倫	George Byron
+塞萬提斯	Miguel de Cervantes
+1306年	1306
+1307年	1307
+1308年	1308
+1309年	1309
+1310年	1310
+1311年	1311
+1312年	1312
+1313年	1313
+1314年	1314
+1315年	1315
+1316年	1316
+1317年	1317
+1318年	1318
+1319年	1319
+1320年	1320
+1321年	1321
+1322年	1322
+1323年	1323
+1324年	1324
+1325年	1325
+1326年	1326
+1327年	1327
+1328年	1328
+麥加	Mekko
+毛澤東	Mao Zedong
+西安	Ŝjiano
+被服	Litkovrilo
+歌德	Johann Wolfgang von Goethe
+屄	Vagino
+V·禍·魂得他	V for Vendetta (filmo)
+哲學	Filozofio
+1329年	1329
+分類:快速刪吥	Kategorio:Tujforigendaj artikoloj
+1330年	1330
+1331年	1331
+1332年	1332
+1333年	1333
+1334年	1334
+1335年	1335
+1336年	1336
+1337年	1337
+1338年	1338
+1339年	1339
+1340年	1340
+1341年	1341
+1342年	1342
+1343年	1343
+1344年	1344
+1345年	1345
+1346年	1346
+1347年	1347
+1348年	1348
+1349年	1349
+1350年	1350
+茶	Teo
+馬可·波羅	Marko Polo
+1351年	1351
+波特蘭 (奧勒岡州)	Portlando (Oregono)
+1400年	1400
+1401年	1401
+1352年	1352
+1402年	1402
+1353年	1353
+1403年	1403
+1354年	1354
+1404年	1404
+1355年	1355
+1405年	1405
+1500年	1500
+1406年	1406
+1356年	1356
+1501年	1501
+1407年	1407
+1357年	1357
+1502年	1502
+1408年	1408
+1358年	1358
+1503年	1503
+1359年	1359
+1409年	1409
+1504年	1504
+1360年	1360
+1410年	1410
+1505年	1505
+1506年	1506
+1411年	1411
+1361年	1361
+1507年	1507
+1412年	1412
+1362年	1362
+1413年	1413
+1508年	1508
+1363年	1363
+1509年	1509
+1414年	1414
+1510年	1510
+1415年	1415
+1364年	1364
+共產主義	Komunismo
+1511年	1511
+1416年	1416
+1365年	1365
+1512年	1512
+1417年	1417
+1366年	1366
+1513年	1513
+1418年	1418
+1367年	1367
+1514年	1514
+1419年	1419
+資本主義	Kapitalismo
+1368年	1368
+1515年	1515
+1420年	1420
+1369年	1369
+1516年	1516
+1421年	1421
+1370年	1370
+1371年	1371
+國家	Lando
+1372年	1372
+1373年	1373
+1422年	1422
+1517年	1517
+1423年	1423
+1518年	1518
+1374年	1374
+1424年	1424
+1375年	1375
+1519年	1519
+1376年	1376
+1425年	1425
+1520年	1520
+1521年	1521
+1377年	1377
+1426年	1426
+1522年	1522
+1523年	1523
+1427年	1427
+1378年	1378
+1524年	1524
+1525年	1525
+1428年	1428
+1379年	1379
+1526年	1526
+1429年	1429
+1380年	1380
+1381年	1381
+1382年	1382
+1383年	1383
+1430年	1430
+1431年	1431
+印第安納波利斯	Indianapolis
+1384年	1384
+1432年	1432
+1385年	1385
+1386年	1386
+1433年	1433
+1387年	1387
+1434年	1434
+1435年	1435
+1388年	1388
+1436年	1436
+1389年	1389
+1437年	1437
+1390年	1390
+1438年	1438
+1391年	1391
+1439年	1439
+1392年	1392
+1440年	1440
+1393年	1393
+1394年	1394
+1395年	1395
+1441年	1441
+1396年	1396
+1397年	1397
+1442年	1442
+1527年	1527
+1528年	1528
+1398年	1398
+1443年	1443
+1444年	1444
+1529年	1529
+1399年	1399
+1445年	1445
+1530年	1530
+1446年	1446
+1531年	1531
+1447年	1447
+1532年	1532
+1448年	1448
+蒙彼利埃	Montpellier
+1533年	1533
+1449年	1449
+1534年	1534
+1450年	1450
+1535年	1535
+1451年	1451
+1536年	1536
+1452年	1452
+1537年	1537
+1453年	1453
+1538年	1538
+1454年	1454
+1539年	1539
+1455年	1455
+1540年	1540
+睗著嗰惠尼根	Finnegans Wake
+分類:天文	Kategorio:Astronomio
+尤利西斯	Uliso (Joyce)
+1541年	1541
+1456年	1456
+1457年	1457
+1542年	1542
+1458年	1458
+1543年	1543
+1459年	1459
+1544年	1544
+1460年	1460
+1545年	1545
+1461年	1461
+1546年	1546
+1462年	1462
+1547年	1547
+1463年	1463
+1548年	1548
+1464年	1464
+1549年	1549
+1465年	1465
+1550年	1550
+1466年	1466
+1551年	1551
+1467年	1467
+1468年	1468
+1552年	1552
+1469年	1469
+1553年	1553
+1470年	1470
+1554年	1554
+1471年	1471
+1555年	1555
+撒哈拉沙漠	Saharo
+1472年	1472
+1556年	1556
+1473年	1473
+1557年	1557
+1474年	1474
+1558年	1558
+1475年	1475
+1559年	1559
+1476年	1476
+1560年	1560
+1477年	1477
+1478年	1478
+1561年	1561
+1479年	1479
+1562年	1562
+1480年	1480
+1563年	1563
+1481年	1481
+1564年	1564
+1482年	1482
+1565年	1565
+1483年	1483
+1566年	1566
+1484年	1484
+1567年	1567
+1485年	1485
+1486年	1486
+1568年	1568
+1487年	1487
+1569年	1569
+1570年	1570
+1489年	1489
+1571年	1571
+1490年	1490
+1572年	1572
+1491年	1491
+1573年	1573
+1492年	1492
+1574年	1574
+1493年	1493
+1575年	1575
+荷馬	Homero
+1494年	1494
+1495年	1495
+1496年	1496
+1576年	1576
+1497年	1497
+1577年	1577
+1498年	1498
+1578年	1578
+1499年	1499
+1579年	1579
+1580年	1580
+1581年	1581
+1582年	1582
+1600年	1600
+高斯	Carl Friedrich Gauss
+1601年	1601
+1583年	1583
+1602年	1602
+1584年	1584
+1603年	1603
+1585年	1585
+1604年	1604
+1586年	1586
+1605年	1605
+1587年	1587
+1606年	1606
+1607年	1607
+1588年	1588
+1608年	1608
+1589年	1589
+1609年	1609
+1590年	1590
+1610年	1610
+1591年	1591
+1611年	1611
+1592年	1592
+1612年	1612
+1593年	1593
+1613年	1613
+1594年	1594
+1614年	1614
+1595年	1595
+1615年	1615
+1596年	1596
+1616年	1616
+1597年	1597
+1617年	1617
+1598年	1598
+1618年	1618
+1599年	1599
+1619年	1619
+1620年	1620
+1621年	1621
+1700年	1700
+1701年	1701
+1622年	1622
+1623年	1623
+1702年	1702
+1624年	1624
+1703年	1703
+1704年	1704
+1625年	1625
+1705年	1705
+1626年	1626
+1627年	1627
+1706年	1706
+1628年	1628
+1707年	1707
+1708年	1708
+1629年	1629
+1630年	1630
+1709年	1709
+1631年	1631
+1710年	1710
+1632年	1632
+1711年	1711
+1633年	1633
+1712年	1712
+1634年	1634
+1713年	1713
+1800年	1800
+1801年	1801
+1714年	1714
+1635年	1635
+詹姆斯·喬伊斯	James Joyce
+1802年	1802
+1715年	1715
+1636年	1636
+1803年	1803
+1637年	1637
+1716年	1716
+1638年	1638
+1804年	1804
+1717年	1717
+1639年	1639
+1805年	1805
+1718年	1718
+1640年	1640
+1719年	1719
+1806年	1806
+1641年	1641
+1720年	1720
+1807年	1807
+1642年	1642
+1721年	1721
+1808年	1808
+1643年	1643
+1722年	1722
+1809年	1809
+1644年	1644
+1723年	1723
+1810年	1810
+1645年	1645
+1724年	1724
+20世紀	20-a jarcento
+1811年	1811
+1646年	1646
+1725年	1725
+1812年	1812
+1647年	1647
+1726年	1726
+1813年	1813
+21世紀	21-a jarcento
+1648年	1648
+1727年	1727
+1814年	1814
+1649年	1649
+1728年	1728
+1815年	1815
+1650年	1650
+1729年	1729
+1816年	1816
+19世紀	19-a jarcento
+1651年	1651
+1730年	1730
+1817年	1817
+1652年	1652
+1731年	1731
+1818年	1818
+1653年	1653
+1732年	1732
+1819年	1819
+1654年	1654
+1733年	1733
+1820年	1820
+1655年	1655
+1821年	1821
+1734年	1734
+1656年	1656
+1822年	1822
+1735年	1735
+1657年	1657
+1823年	1823
+1736年	1736
+1658年	1658
+1737年	1737
+1824年	1824
+1659年	1659
+1738年	1738
+1825年	1825
+1660年	1660
+1739年	1739
+1826年	1826
+1661年	1661
+1740年	1740
+1827年	1827
+18世紀	18-a jarcento
+17世紀	17-a jarcento
+16世紀	16-a jarcento
+15世紀	15-a jarcento
+14世紀	14-a jarcento
+13世紀	13-a jarcento
+12世紀	12-a jarcento
+11世紀	11-a jarcento
+享樂主義	Hedonismo
+李白	Li Bai
+圖書館	Librarejo
+唯物主義	Materialismo
+玻爾	Niels Bohr
+意識	Konscio
+生物技術	Biotekniko
+秦	Dinastio Qin
+北大西洋公約組織	NATO
+居里夫人	Marie Curie
+諾貝爾獎	Nobel-premio
+秦始皇	Qin Shihuangdi
+中東	Mezoriento
+伊麗莎白一世	Elizabeto la 1-a (Anglio)
+漢	Dinastio Han
+劉徹	Wu Di
+聖女貞德	Johana de Arko
+所霍利茲	Sofoklo
+托爾斯泰	Lev Tolstoj
+圖靈	Alan Turing
+馬克思主義	Marksismo
+凍嘴	Kiso
+元	Dinastio Yuan
+伊戈·式査溫斯基	Igor Stravinski
+朱澤魄·渥帝	Giuseppe Verdi
+拿可·卡帖	Jacques Cartier
+哥倫布	Kristoforo Kolumbo
+庫克船長	James Cook
+伊本·巴杜他	Ibn Batuta
+鄭和	Ĉeng He
+大堡礁	Granda Barilrifo
+巴拿馬運河	Panama kanalo
+南冰洋	Suda Oceano
+耳刀	Orelo
+鼻公	Nazo (organo)
+眼睛	Okulo
+羊	Ŝafo
+象	Elefanto
+隋	Dinastio Sui
+宋	Dinastio Song
+忽必烈	Kublaj-Ĥano
+娘	Patrino
+雪	Neĝo
+爺	Patro
+細伢子	Infano
+1828年	1828
+1829年	1829
+1741年	1741
+1662年	1662
+1742年	1742
+1830年	1830
+1663年	1663
+1831年	1831
+1743年	1743
+1664年	1664
+1665年	1665
+1744年	1744
+1832年	1832
+1666年	1666
+1745年	1745
+1833年	1833
+1667年	1667
+1746年	1746
+運輸	Transporto
+1834年	1834
+1668年	1668
+1747年	1747
+1835年	1835
+1748年	1748
+1836年	1836
+1669年	1669
+歐拉	Leonhard Euler
+1670年	1670
+1749年	1749
+1837年	1837
+1671年	1671
+1750年	1750
+1838年	1838
+1672年	1672
+1751年	1751
+1839年	1839
+1673年	1673
+1752年	1752
+1840年	1840
+1674年	1674
+1753年	1753
+1841年	1841
+1754年	1754
+1675年	1675
+1842年	1842
+1755年	1755
+1676年	1676
+1843年	1843
+1677年	1677
+1756年	1756
+1844年	1844
+1678年	1678
+1757年	1757
+1845年	1845
+1679年	1679
+1758年	1758
+1846年	1846
+1680年	1680
+1759年	1759
+1847年	1847
+1681年	1681
+1760年	1760
+1848年	1848
+1682年	1682
+1761年	1761
+1849年	1849
+1683年	1683
+1762年	1762
+1850年	1850
+1684年	1684
+1763年	1763
+1851年	1851
+1764年	1764
+1685年	1685
+1852年	1852
+1686年	1686
+1765年	1765
+1853年	1853
+1687年	1687
+1766年	1766
+1854年	1854
+1688年	1688
+1767年	1767
+1855年	1855
+1689年	1689
+1768年	1768
+1856年	1856
+1690年	1690
+1769年	1769
+1857年	1857
+1691年	1691
+1770年	1770
+1858年	1858
+1692年	1692
+1771年	1771
+1859年	1859
+1693年	1693
+1772年	1772
+1860年	1860
+1773年	1773
+1861年	1861
+1694年	1694
+1695年	1695
+1774年	1774
+1862年	1862
+1696年	1696
+1775年	1775
+1863年	1863
+1697年	1697
+1776年	1776
+1864年	1864
+1698年	1698
+1865年	1865
+1777年	1777
+1699年	1699
+1866年	1866
+1778年	1778
+1779年	1779
+1867年	1867
+1780年	1780
+1868年	1868
+1781年	1781
+1869年	1869
+紐約地鐵	Metroo de Novjorko
+俄語	Rusa lingvo
+1782年	1782
+1870年	1870
+屋裡	Hejmo (loĝejo)
+1783年	1783
+1871年	1871
+弗拉基米尔·弗拉基米罗维奇·普京	Vladimir Putin
+1784年	1784
+1872年	1872
+數學分析	Analitiko
+1785年	1785
+1873年	1873
+1786年	1786
+1874年	1874
+1787年	1787
+1875年	1875
+1788年	1788
+1876年	1876
+1789年	1789
+1877年	1877
+1790年	1790
+1878年	1878
+1879年	1879
+1791年	1791
+歐洲嗰歷史	Historio de Eŭropo
+麵包	Pano
+1792年	1792
+1880年	1880
+1793年	1793
+1881年	1881
+1794年	1794
+1882年	1882
+1795年	1795
+1883年	1883
+1796年	1796
+1884年	1884
+1797年	1797
+1885年	1885
+1886年	1886
+1798年	1798
+1887年	1887
+1799年	1799
+1888年	1888
+1889年	1889
+1890年	1890
+1891年	1891
+1892年	1892
+1893年	1893
+1894年	1894
+1895年	1895
+1896年	1896
+1897年	1897
+1898年	1898
+漢語	Ĉina lingvaro
+1899年	1899
+白開水	Trinkakvo
+雨	Pluvo
+地震	Tertremo
+真理	Vero
+伊本·西那	Aviceno
+邱吉爾	Winston Churchill
+馬丁·路德·金	Martin Luther King
+10世紀	10-a jarcento
+水澇	Inundo
+海嘯	Cunamo
+火山	Vulkano
+邏輯學	Logiko
+9世紀	9-a jarcento
+三角學	Trigonometrio
+8世紀	8-a jarcento
+幾何學	Geometrio
+7世紀	7-a jarcento
+6世紀	6-a jarcento
+文法	Gramatiko
+5世紀	5-a jarcento
+4世紀	4-a jarcento
+3世紀	3-a jarcento
+2世紀	2-a jarcento
+1世紀	1-a jarcento
+經濟學	Ekonomiko
+詞	Vorto
+阿拉伯字母	Araba alfabeto
+字	Ĉina skribo
+西里爾字母	Cirila alfabeto
+朝鮮字母	Korea alfabeto
+拉丁字母	Latina alfabeto
+文學	Literaturo
+分類:法國	Kategorio:Francio
+分類:音樂	Kategorio:Muziko
+分類:文學	Kategorio:Literaturo
+長篇小說	Romano
+分類:詩	Kategorio:Poezio
+漫畫	Mangao
+爵士樂	Ĵazo
+亞歷山大大帝	Aleksandro la Granda
+居魯士大帝	Kiro la 2-a
+文明	Civilizo
+家庭	Familio
+男人	Viro
+婚姻	Geedzeco
+蘇萊曼一世	Sulejmano la 1-a
+咖啡	Kafo
+奶	Lakto
+山	Monto
+沙漠	Dezerto
+孫中山	Sun Jatsen
+西曼·卜利滑	Simón Bolívar
+香港	Honkongo
+邁阿密 (佛羅裡達州)	Miamo
+冷戰	Malvarma milito
+首爾	Seulo
+上海	Ŝanhajo
+明治維新	Reformo Mejĝi
+清	Dinastio Qing
+阿基米德	Arkimedo
+愛迪生	Thomas Alva Edison
+歐几里得	Eŭklido
+暗號學	Kriptologio
+瑞典語	Sveda lingvo
+尼哥拉·特斯拉	Nikola Tesla
+哈嗱嗞咪	Al-Ĥorazmi
+臘尼茲	Gottfried Wilhelm Leibniz
+馬克思	Karl Marx
+摩西	Moseo
+知識	Scio
+印度教	Hinduismo
+麦斯韦	James Clerk Maxwell
+門捷列夫	Dmitrij Mendelejev
+光	Lumo
+希臘語	Greka lingvo
+電郵	Retpoŝto
+波斯語	Persa lingvo
+宗教	Religio
+朝鮮話	Korea lingvo
+阿卜拿咸	Abraham
+笛卡兒	René Descartes
+普通話	Nordĉina dialektaro
+聖·保羅	Paŭlo de Tarso
+自由女神像	Statuo de Libereco
+弗洛伊德	Sigmund Freud
+希伯來語	Hebrea lingvo
+伊本·客敦	Ibn-Ĥaldun
+康德	Immanuel Kant
+老子	Laozio
+約翰·洛	John Locke
+尼采	Friedrich Wilhelm Nietzsche
+韋伯	Max Weber
+朱熹	Zhu Xi
+忍者	Ninĵo
+感情	Emocio
+思想	Pensado
+大洋	Oceano
+托馬·阿奎那	Tomaso de Akvino
+釋迦牟尼	Sidarto Gotamo
+穆罕默德	Mohamedo
+倫理學	Etiko
+知識論	Sciteorio
+自由意志	Libera volo
+機率	Probablo
+馬丁·路德	Marteno Lutero
+儒家	Konfuceismo
+道教	Taoismo
+孟加拉語	Bengala lingvo
+舌頭	Lango (anatomio)
+A	A
+唐	Dinastio Tang
+戴安娜王妃	Diana Spencer
+B	B
+古典音樂	Klasika muziko
+G	G
+U	U
+Z	Z
+F	F
+J	J
+字母	Alfabeto
+拼音字	Litero
+T	T
+C	C
+R	R
+D	D
+I	I
+明	Dinastio Ming
+E	E
+H	H
+K	K
+L	L
+M	M
+N	N
+O	O
+P	P
+Q	Q
+S	S
+V	V
+W	W
+X	X
+Y	Y
+畢達哥拉斯	Pitagoro
+1100年	1100
+金正日	Kim Ĝong-il
+元素週期表	Perioda tabelo
+豬	Suo
+九一一事件	Atencoj de la 11-a de septembro 2001
+樹	Arbo
+奶酪	Fromaĝo
+肉	Viando
+土豆	Terpomo
+菜	Legomo
+黃豆	Sojfabo
+機械人	Roboto
+技術	Teknologio
+工學	Inĝenierarto
+報	Gazeto
+印刷	Presarto
+電話	Telefono
+梵語	Sanskrito
+老人痴呆症	Alzheimer-malsano
+對數	Logaritmo
+算術	Aritmetiko
+座標	Koordinatsistemo
+微分方程	Diferenciala ekvacio
+百分率	Procento
+Windows XP	Windows XP
+分類:巴西	Kategorio:Brazilo
+方程	Ekvacio
+函數	Funkcio (matematiko)
+角	Angulo
+搖滾樂	Rok-muziko
+嘻哈音樂	Hiphopo
+力	Forto
+玩具	Ludo
+圍棋	Goo
+賭博	Vetludo
+質量	Maso
+電影	Filmo
+金屬	Metalo (fiziko)
+腳踏車	Biciklo
+船	Ŝipo
+半導體	Duonkonduktaĵo
+衣裳	Vesto
+聲氣	Sono
+冶金學	Metalurgio
+紙	Papero
+塑料	Plasto
+面積	Areo
+數學證明	Matematika pruvo
+數	Nombro
+複數	Kompleksa nombro
+公斤	Kilogramo
+米	Metro
+秒	Sekundo
+粟米	Maizo
+公升	Litro
+畫畫	Pentrado
+拍相	Fotarto
+雕刻	Skulptarto
+表演	Teatro
+舞蹈	Danco
+陶器	Ceramiko
+電子學	Elektroniko
+二極管	Diodo
+人工智能	Artefarita inteligenteco
+IT	Informa teknologio
+美利堅合眾國憲法	Usona Konstitucio
+東南亞	Sud-Orienta Azio
+重慶	Ĉongĉingo
+天津	Tjanĝino
+武汉	Vuhano
+史前時代	Prahistorio
+石器時代	Ŝtonepoko
+青銅器時代	Bronzepoko
+鐵器時代	Ferepoko
+美索不達米亞	Mezopotamio
+古埃及	Antikva Egiptio
+古希臘	Antikva Grekio
+熊	Urso
+1101年	1101
+1102年	1102
+癌	Kancero
+燕麥	Kutima aveno
+小麥	Tritiko
+2040年	2040
+2039年	2039
+穀	Greno
+2038年	2038
+2037年	2037
+2036年	2036
+2035年	2035
+曆法	Kalendaro
+病	Malsano
+艾滋病	Aidoso
+麻將	Maĝango
+建築學	Arkitekturo
+圓拱	Arko (arkitekturo)
+橋	Ponto
+運河	Kanalo (akvovojo)
+壩	Akvobaraĵo
+牛 (單位)	Neŭtono (mezurunuo)
+度量	Mezuro
+國際單位系統	Internacia sistemo de unuoj
+數論	Nombroteorio
+統計學	Statistiko
+1103年	1103
+1104年	1104
+圓頂	Kupolo
+長城	Granda Ĉina Muro
+整數	Entjero
+球面	Sfero
+三峽大壩	Baraĵo Tri Gorĝoj
+金字塔	Piramido
+中世紀	Mezepoko
+拉丁美洲	Latin-Ameriko
+電氣	Elektro
+核能	Nuklea energio
+2034年	2034
+2033年	2033
+2032年	2032
+劍	Glavo
+2031年	2031
+槍	Pafarmilo
+2030年	2030
+機關槍	Maŝinpafilo
+核武器	Atombombo
+2029年	2029
+算盤	Abako (meĥanika kalkulilo)
+2028年	2028
+2027年	2027
+火藥	Nigra pulvo
+炸藥	Eksplodaĵo
+坦克車	Tanko
+實數	Reelo
+1105年	1105
+阿拉伯語	Araba lingvo
+李明博	Ji Mjong-bak
+朴正熙	Park JungHee
+全斗煥	Ĝon Du-hŭan
+磨硌牯子	Ŝtoneto
+家具	Meblo
+檯	Tablo
+澳門	Makao
+校椅	Seĝo
+胡錦濤	Hu Jintao
+習近平	Xi Jinping
+長頸鹿	Ĝirafo (specio)
+廣東	Gŭangdongo
+廣西	Gŭangŝjio
+蘇聯	Sovetunio
+相機	Fotilo
+壁蛇子	Geko
+艾美·環校詩	Amy Winehouse
+肩	Ŝultro
+Wikipedia:全靚文章	Vikipedio:Elstaraj artikoloj
+模板:Link FA	Ŝablono:LigoElstara
+聖地牙哥 (加利福尼亞州)	San-Diego
+聖荷西 (加利福尼亞州)	San Jose (Kalifornio)
+丹佛	Denvero (Koloradio)
+休斯頓	Houston (Teksaso)
+鳳凰城 (亞利桑那州)	Fenikso (Arizono)
+達拉斯	Dallas (Teksaso)
+奧斯汀	Aŭstino
+孟菲斯 (田納西州)	Memphis (Tenesio)
+哥倫布 (俄亥俄州)	Columbus (Ohio)
+廣州	Kantono (Ĉinio)
+蔣中正	Ĉiang Kai-ŝek
+江澤民	Jiang Zemin
+南京	Nankingo
+艾都加·阿蘭·薄	Edgar Allan Poe
+病院	Malsanulejo
+東德	Germana Demokratia Respubliko
+江蘇	Ĝjangsuo
+浙江	Ĝeĝjango
+鄧小平	Deng Xiaoping
+羅馬共和國	Romia Respubliko
+西藏	Tibeto
+圓形	Cirklo
+平面	Ebeno (matematiko)
+丹增嘉措	Tenzin Gyatso
+中國共產黨	Komunista Partio de Ĉinio
+手機	Poŝtelefono
+鴕鳥	Struto
+阿灵顿 (得克萨斯州)	Arlington (Teksaso)
+沙加緬度 (加利福尼亞州)	Sakramento (Kalifornio)
+1925年	1925
+1927年	1927
+高行健	Gao Xingjian
+1000年	1000
+999年	999
+隱喻	Metaforo
+球	Pilko
+1955年	1955
+1954年	1954
+1953年	1953
+1951年	1951
+1950年	1950
+1946年	1946
+1943年	1943
+1942年	1942
+1940年	1940
+1939年	1939
+1938年	1938
+1937年	1937
+1936年	1936
+1935年	1935
+1934年	1934
+1933年	1933
+1932年	1932
+1931年	1931
+1930年	1930
+1929年	1929
+GPS	Tutmonda loktrova sistemo
+奧斯卡金像獎	Oskar-premio
+2010年代	2010-aj jaroj
+9	9 (nombro)
+剪人蟲	Skorpio
+黑龍江	Hejlongĝjango
+馬英九	Ma Ying-jeou
+1001年	1001
+1002年	1002
+1003年	1003
+1005年	1005
+1006年	1006
+1007年	1007
+1008年	1008
+1009年	1009
+1010年	1010
+1011年	1011
+1012年	1012
+1013年	1013
+1014年	1014
+1015年	1015
+1016年	1016
+1017年	1017
+1018年	1018
+1019年	1019
+1020年	1020
+1021年	1021
+1022年	1022
+1023年	1023
+1024年	1024
+1025年	1025
+1026年	1026
+1027年	1027
+1028年	1028
+1029年	1029
+1030年	1030
+1031年	1031
+1032年	1032
+1033年	1033
+1034年	1034
+1035年	1035
+1036年	1036
+1037年	1037
+1038年	1038
+1039年	1039
+1040年	1040
+1041年	1041
+1042年	1042
+1043年	1043
+1044年	1044
+1045年	1045
+1046年	1046
+1047年	1047
+1048年	1048
+1049年	1049
+1050年	1050
+1051年	1051
+1052年	1052
+1053年	1053
+1054年	1054
+1055年	1055
+1056年	1056
+1057年	1057
+1058年	1058
+1059年	1059
+1060年	1060
+1061年	1061
+1062年	1062
+1063年	1063
+1064年	1064
+1065年	1065
+1066年	1066
+1067年	1067
+1068年	1068
+1069年	1069
+1070年	1070
+1071年	1071
+1072年	1072
+1073年	1073
+1074年	1074
+1075年	1075
+1076年	1076
+1077年	1077
+1078年	1078
+1079年	1079
+1080年	1080
+1081年	1081
+1082年	1082
+1083年	1083
+1084年	1084
+1085年	1085
+1086年	1086
+1087年	1087
+1088年	1088
+1089年	1089
+1090年	1090
+1091年	1091
+1092年	1092
+1093年	1093
+1094年	1094
+1095年	1095
+1096年	1096
+1097年	1097
+1098年	1098
+1099年	1099
+1106年	1106
+1107年	1107
+1108年	1108
+1109年	1109
+1110年	1110
+1111年	1111
+1112年	1112
+1113年	1113
+1114年	1114
+1115年	1115
+1116年	1116
+1117年	1117
+1118年	1118
+1119年	1119
+1120年	1120
+1130年	1130
+1131年	1131
+1132年	1132
+1133年	1133
+1134年	1134
+1135年	1135
+1136年	1136
+1137年	1137
+1138年	1138
+1139年	1139
+5年	5
+1140年	1140
+1141年	1141
+1142年	1142
+1143年	1143
+1144年	1144
+4年	4
+1145年	1145
+1146年	1146
+1147年	1147
+1148年	1148
+3年	3
+1149年	1149
+1150年	1150
+1151年	1151
+1152年	1152
+1153年	1153
+2年	2
+1154年	1154
+1155年	1155
+1156年	1156
+1157年	1157
+1158年	1158
+1159年	1159
+1160年	1160
+1161年	1161
+1162年	1162
+1163年	1163
+1164年	1164
+1165年	1165
+1166年	1166
+1167年	1167
+1168年	1168
+1169年	1169
+1170年	1170
+1171年	1171
+1172年	1172
+1173年	1173
+1174年	1174
+1175年	1175
+1176年	1176
+1177年	1177
+1178年	1178
+1179年	1179
+1180年	1180
+1181年	1181
+1182年	1182
+1928年	1928
+1183年	1183
+1184年	1184
+1185年	1185
+1186年	1186
+1187年	1187
+1188年	1188
+1189年	1189
+1190年	1190
+1191年	1191
+1192年	1192
+1193年	1193
+1194年	1194
+1195年	1195
+1196年	1196
+1197年	1197
+1198年	1198
+1199年	1199
+四川	Siĉuano
+6年	6
+三角形	Triangulo
+閏年	Superjaro
+蕾蒂嘉嘉	Lady Gaga
+印歐語系	Hindeŭropa lingvaro
+老虎	Tigro
+倫敦地鐵	Metroo de Londono
+鐘擺	Pendolo
+自然數	Natura nombro
+日耳曼語族	Ĝermana lingvaro
+社會學	Sociologio
+國際音標	Internacia Fonetika Alfabeto
+河北	Hebejo
+臺灣	Tajvano
+紐約	New York
+石油	Nafto
+鐵路	Fervojo
+1年	1
+魯迅	Lu Xun
+10年	10
+20年	20
+30年	30
+40年	40
+9年	9
+7年	7
+8年	8
+7	7 (nombro)
+8	8 (nombro)
+12年	12
+禮拜	Semajno
+湖	Lago
+930年	930
+13年	13
+985年	985
+1122年	1122
+981年	981
+939年	939
+簕瓜	Kukumo
+51年	51
+島	Insulo
+白	Blanko
+烏	Nigro
+814年	814
+678年	678
+950年	950
+679年	679
+996年	996
+680年	680
+37年	37
+980年	980
+900年	900
+1129年	1129
+843年	843
+690年	690
+691年	691
+988年	988
+692年	692
+476年	476
+693年	693
+694年	694
+695年	695
+696年	696
+6	6 (nombro)
+697年	697
+698年	698
+699年	699
+700年	700
+701年	701
+702年	702
+703年	703
+番茄	Tomato
+704年	704
+705年	705
+706年	706
+68年	68
+89年	89
+707年	707
+708年	708
+峰牙己榜國家公園	Nacia Parko Phong Nha-Ke Bang
+709年	709
+11年	11
+710年	710
+711年	711
+712年	712
+713年	713
+714年	714
+715年	715
+716年	716
+717年	717
+廣平省	Provinco Quang Binh
+718年	718
+719年	719
+720年	720
+721年	721
+722年	722
+723年	723
+724年	724
+725年	725
+726年	726
+亞特蘭大	Atlanta (Georgio)
+727年	727
+728年	728
+729年	729
+963年	963
+730年	730
+731年	731
+962年	962
+732年	732
+733年	733
+997年	997
+734年	734
+972年	972
+735年	735
+955年	955
+901年	901
+736年	736
+737年	737
+936年	936
+738年	738
+953年	953
+902年	902
+739年	739
+15年	15
+740年	740
+14年	14
+741年	741
+742年	742
+17年	17
+743年	743
+958年	958
+744年	744
+500年	500
+745年	745
+150年	150
+746年	746
+880年	880
+747年	747
+748年	748
+749年	749
+870年	870
+903年	903
+750年	750
+751年	751
+752年	752
+753年	753
+987年	987
+754年	754
+965年	965
+755年	755
+924年	924
+951年	951
+932年	932
+23年	23
+800年	800
+120年	120
+42年	42
+967年	967
+989年	989
+960年	960
+969年	969
+957年	957
+1124年	1124
+971年	971
+方向	Kompasdirektoj
+937年	937
+992年	992
+990年	990
+899年	899
+975年	975
+942年	942
+966年	966
+1128年	1128
+959年	959
+973年	973
+18年	18
+19年	19
+16年	16
+拉斯維加斯	Lasvegaso
+21年	21
+26年	26
+41年	41
+32年	32
+33年	33
+982年	982
+974年	974
+976年	976
+979年	979
+986年	986
+919年	919
+998年	998
+995年	995
+977年	977
+1125年	1125
+934年	934
+10	10 (nombro)
+200年	200
+876年	876
+875年	875
+810年	810
+929年	929
+882年	882
+1127年	1127
+940年	940
+889年	889
+844年	844
+912年	912
+838年	838
+984年	984
+874年	874
+38年	38
+43年	43
+127年	127
+954年	954
+文身	Homa korpo
+39年	39
+輅䡐	Turbo
+24年	24
+79年	79
+61年	61
+104年	104
+29年	29
+102年	102
+866年	866
+839年	839
+622年	622
+918年	918
+100年	100
+利拉 唐斯	Lila Downs
+961年	961
+570年	570
+632年	632
+946年	946
+835年	835
+884年	884
+859年	859
+832年	832
+849年	849
+877年	877
+878年	878
+861年	861
+869年	869
+968年	968
+983年	983
+964年	964
+1121年	1121
+1123年	1123
+933年	933
+915年	915
+970年	970
+911年	911
+993年	993
+991年	991
+994年	994
+898年	898
+944年	944
+907年	907
+943年	943
+945年	945
+922年	922
+905年	905
+941年	941
+925年	925
+928年	928
+948年	948
+947年	947
+949年	949
+926年	926
+126年	126
+101年	101
+105年	105
+108年	108
+117年	117
+115年	115
+22年	22
+46年	46
+25年	25
+153年	153
+156年	156
+31年	31
+825年	825
+301年	301
+116年	116
+886年	886
+330年	330
+860年	860
+842年	842
+165年	165
+871年	871
+893年	893
+203年	203
+909年	909
+222年	222
+931年	931
+938年	938
+917年	917
+160年	160
+28年	28
+85年	85
+88年	88
+76年	76
+54年	54
+477年	477
+914年	914
+920年	920
+913年	913
+935年	935
+841年	841
+820年	820
+906年	906
+916年	916
+885年	885
+168年	168
+60年	60
+47年	47
+836年	836
+112年	112
+854年	854
+862年	862
+879年	879
+887年	887
+770年	770
+817年	817
+864年	864
+863年	863
+868年	868
+855年	855
+818年	818
+837年	837
+845年	845
+166年	166
+瓦	Vato (mezurunuo)
+2016年	2016
+伏	Volto
+降水	Precipitaĵo
+552年	552
+攝氏	Grado celsia
+國際太空站	Internacia Kosmostacio
+安	Ampero
+2019年	2019
+重量	Pezo
+2017年	2017
+2018年	2018
+甴巴子	Blato
+北極	Arkto
+2020年	2020
+鱷魚	Krokodilulo
+戲	Dramo (verko)
+600年	600
+400年	400
+300年	300
+太空站	Kosmostacio
+1040年代	1040-aj jaroj
+衛星	Artefarita satelito
+日本海	Japana Maro
+東亞	Orienta Azio
+唱歌	Kantado
+琉球國	Rjukju-reĝlando
+度 (角度)	Grado
+簷老鼠	Kiropteroj
+36年	36
+布	Tekstila
+韓非	Han Fei
+朱諾 (阿拉斯加州)	Juneau
+釣魚臺	Senkaku-insuloj
+中國	Ĉinio
+815年	815
+816年	816
+822年	822
+840年	840
+823年	823
+811年	811
+771年	771
+888年	888
+768年	768
+851年	851
+205年	205
+159年	159
+107年	107
+162年	162
+103年	103
+802年	802
+804年	804
+119年	119
+118年	118
+801年	801
+807年	807
+806年	806
+152年	152
+240年	240
+218年	218
+655年	655
+496年	496
+238年	238
+197年	197
+451年	451
+775年	775
+489年	489
+784年	784
+661年	661
+625年	625
+653年	653
+904年	904
+921年	921
+923年	923
+1126年	1126
+668年	668
+636年	636
+408年	408
+464年	464
+410年	410
+956年	956
+952年	952
+658年	658
+650年	650
+518年	518
+70年	70
+81年	81
+69年	69
+87年	87
+65年	65
+66年	66
+67年	67
+55年	55
+34年	34
+44年	44
+35年	35
+64年	64
+504年	504
+453年	453
+161年	161
+169年	169
+481年	481
+151年	151
+155年	155
+128年	128
+129年	129
+463年	463
+193年	193
+674年	674
+687年	687
+251年	251
+337年	337
+786年	786
+660年	660
+50年	50
+260年	260
+501年	501
+45年	45
+491年	491
+49年	49
+978年	978
+221年	221
+543年	543
+536年	536
+230年	230
+762年	762
+610年	610
+787年	787
+480年	480
+209年	209
+202年	202
+192年	192
+681年	681
+819年	819
+173年	173
+867年	867
+865年	865
+827年	827
+824年	824
+847年	847
+883年	883
+829年	829
+813年	813
+910年	910
+850年	850
+808年	808
+853年	853
+872年	872
+873年	873
+856年	856
+858年	858
+831年	831
+857年	857
+828年	828
+826年	826
+833年	833
+848年	848
+834年	834
+881年	881
+852年	852
+163年	163
+154年	154
+201年	201
+803年	803
+805年	805
+52年	52
+532年	532
+82年	82
+84年	84
+73年	73
+72年	72
+62年	62
+71年	71
+75年	75
+74年	74
+83年	83
+78年	78
+77年	77
+90年	90
+80年	80
+627年	627
+456年	456
+91年	91
+190年	190
+109年	109
+53年	53
+270年	270
+688年	688
+452年	452
+795年	795
+465年	465
+778年	778
+846年	846
+830年	830
+404年	404
+總統	Prezidanto
+908年	908
+896年	896
+897年	897
+927年	927
+63年	63
+555年	555
+571年	571
+86年	86
+401年	401
+890年	890
+533年	533
+264年	264
+戈爾巴喬夫	Miĥail Gorbaĉov
+99年	99
+415年	415
+483年	483
+469年	469
+462年	462
+459年	459
+466年	466
+402年	402
+761年	761
+780年	780
+675年	675
+689年	689
+774年	774
+759年	759
+758年	758
+350年	350
+德蘭修女	Patrino Teresa
+782年	782
+760年	760
+785年	785
+783年	783
+767年	767
+766年	766
+211年	211
+232年	232
+204年	204
+188年	188
+98年	98
+894年	894
+891年	891
+602年	602
+628年	628
+892年	892
+601年	601
+672年	672
+682年	682
+821年	821
+648年	648
+686年	686
+664年	664
+677年	677
+640年	640
+110年	110
+111年	111
+137年	137
+138年	138
+122年	122
+140年	140
+809年	809
+167年	167
+665年	665
+776年	776
+763年	763
+769年	769
+667年	667
+529年	529
+777年	777
+788年	788
+671年	671
+772年	772
+432年	432
+231年	231
+237年	237
+239年	239
+130年	130
+226年	226
+207年	207
+475年	475
+454年	454
+495年	495
+206年	206
+468年	468
+461年	461
+460年	460
+194年	194
+210年	210
+225年	225
+311年	311
+220年	220
+541年	541
+642年	642
+313年	313
+180年	180
+794年	794
+587年	587
+530年	530
+609年	609
+497年	497
+540年	540
+428年	428
+548年	548
+422年	422
+549年	549
+457年	457
+478年	478
+253年	253
+467年	467
+458年	458
+158年	158
+157年	157
+164年	164
+124年	124
+113年	113
+121年	121
+106年	106
+551年	551
+494年	494
+320年	320
+242年	242
+291年	291
+48年	48
+97年	97
+56年	56
+93年	93
+57年	57
+503年	503
+510年	510
+509年	509
+474年	474
+484年	484
+576年	576
+493年	493
+479年	479
+287年	287
+407年	407
+485年	485
+547年	547
+546年	546
+544年	544
+537年	537
+535年	535
+502年	502
+527年	527
+508年	508
+525年	525
+613年	613
+618年	618
+617年	617
+608年	608
+645年	645
+621年	621
+606年	606
+623年	623
+604年	604
+603年	603
+626年	626
+619年	619
+634年	634
+630年	630
+614年	614
+505年	505
+446年	446
+791年	791
+557年	557
+電子算數器	Kalkulilo
+656年	656
+657年	657
+659年	659
+651年	651
+676年	676
+670年	670
+652年	652
+673年	673
+654年	654
+647年	647
+中國國民黨	Kuomintango
+812年	812
+669年	669
+792年	792
+649年	649
+93	93 (nombro)
+895年	895
+756年	756
+663年	663
+779年	779
+662年	662
+684年	684
+773年	773
+757年	757
+435年	435
+790年	790
+437年	437
+433年	433
+764年	764
+426年	426
+781年	781
+425年	425
+429年	429
+423年	423
+765年	765
+235年	235
+233年	233
+223年	223
+224年	224
+216年	216
+219年	219
+254年	254
+272年	272
+208年	208
+175年	175
+170年	170
+171年	171
+172年	172
+58年	58
+59年	59
+139年	139
+114年	114
+134年	134
+135年	135
+179年	179
+142年	142
+96年	96
+181年	181
+146年	146
+145年	145
+183年	183
+182年	182
+184年	184
+324年	324
+589年	589
+521年	521
+92年	92
+597年	597
+329年	329
+133年	133
+413年	413
+258年	258
+259年	259
+196年	196
+236年	236
+789年	789
+332年	332
+631年	631
+487年	487
+638年	638
+473年	473
+176年	176
+143年	143
+643年	643
+523年	523
+215年	215
+148年	148
+247年	247
+424年	424
+641年	641
+492年	492
+639年	639
+256年	256
+441年	441
+131年	131
+191年	191
+450年	450
+612年	612
+635年	635
+611年	611
+534年	534
+488年	488
+607年	607
+524年	524
+282年	282
+472年	472
+471年	471
+490年	490
+316年	316
+797年	797
+511年	511
+295年	295
+598年	598
+303年	303
+250年	250
+515年	515
+512年	512
+418年	418
+333年	333
+294年	294
+217年	217
+277年	277
+578年	578
+312年	312
+加法	Adicio
+284年	284
+283年	283
+241年	241
+243年	243
+262年	262
+498年	498
+336年	336
+334年	334
+266年	266
+261年	261
+470年	470
+349年	349
+271年	271
+275年	275
+292年	292
+296年	296
+345年	345
+431年	431
+304年	304
+550年	550
+586年	586
+588年	588
+554年	554
+229年	229
+583年	583
+265年	265
+263年	263
+585年	585
+582年	582
+556年	556
+420年	420
+280年	280
+581年	581
+558年	558
+302年	302
+309年	309
+353年	353
+335年	335
+367年	367
+344年	344
+245年	245
+290年	290
+449年	449
+308年	308
+255年	255
+439年	439
+319年	319
+318年	318
+299年	299
+419年	419
+416年	416
+338年	338
+310年	310
+315年	315
+359年	359
+360年	360
+273年	273
+286年	286
+刀	Tranĉilo
+288年	288
+278年	278
+455年	455
+577年	577
+575年	575
+482年	482
+486年	486
+580年	580
+567年	567
+564年	564
+561年	561
+328年	328
+325年	325
+317年	317
+574年	574
+566年	566
+249年	249
+348年	348
+442年	442
+443年	443
+267年	267
+244年	244
+248年	248
+343年	343
+562年	562
+417年	417
+268年	268
+590年	590
+269年	269
+499年	499
+409年	409
+405年	405
+406年	406
+403年	403
+414年	414
+411年	411
+412年	412
+560年	560
+592年	592
+276年	276
+314年	314
+323年	323
+366年	366
+362年	362
+545年	545
+531年	531
+514年	514
+513年	513
+539年	539
+538年	538
+519年	519
+516年	516
+520年	520
+522年	522
+528年	528
+506年	506
+526年	526
+507年	507
+214年	214
+213年	213
+212年	212
+228年	228
+227年	227
+149年	149
+174年	174
+189年	189
+199年	199
+141年	141
+132年	132
+125年	125
+123年	123
+147年	147
+144年	144
+198年	198
+178年	178
+177年	177
+187年	187
+195年	195
+186年	186
+347年	347
+620年	620
+624年	624
+605年	605
+629年	629
+616年	616
+615年	615
+644年	644
+646年	646
+633年	633
+637年	637
+436年	436
+434年	434
+293年	293
+427年	427
+185年	185
+321年	321
+客家話	Hakaa lingvo
+327年	327
+430年	430
+447年	447
+小石城 (阿肯色州)	Little Rock (Arkansaso)
+569年	569
+568年	568
+444年	444
+唯心主義	Ideismo
+796年	796
+冪	Potenco (matematiko)
+798年	798
+793年	793
+贛語	Gana lingvo
+685年	685
+799年	799
+683年	683
+博物館	Muzeo
+274年	274
+579年	579
+281年	281
+306年	306
+438年	438
+297年	297
+421年	421
+298年	298
+351年	351
+352年	352
+355年	355
+熊貓	Granda pando
+95年	95
+94年	94
+594年	594
+542年	542
+448年	448
+445年	445
+305年	305
+234年	234
+565年	565
+381年	381
+弧度	Radiano
+385年	385
+553年	553
+307年	307
+584年	584
+346年	346
+257年	257
+霍閃	Fulmo
+285年	285
+591年	591
+289年	289
+手	Mano
+杜甫	Du Fu
+563年	563
+252年	252
+595年	595
+246年	246
+596年	596
+593年	593
+357年	357
+573年	573
+559年	559
+599年	599
+326年	326
+341年	341
+322年	322
+386年	386
+374年	374
+380年	380
+帕部羅·尼努達	Pablo Neruda
+136年	136
+吳語	Vua lingvo
+樂器	Muzika instrumento
+直升機	Helikoptero
+摩托車	Motorciklo
+視頻	Video
+382年	382
+342年	342
+373年	373
+372年	372
+指拇頭	Fingro
+1980年代	1980-aj jaroj
+1990年代	1990-aj jaroj
+羅盤	Kompaso
+X光	Ikso-radioj
+新疆	Ŝinĝjango
+375年	375
+1970年代	1970-aj jaroj
+2000年代	2000-aj jaroj
+周	Dinastio Zhou
+形而上學	Metafiziko
+387年	387
+蘇美爾	Sumero
+警察	Polico
+保羅·塞尚	Paul Cézanne
+諾貝爾和平獎	Nobel-premio pri paco
+冰川	Glaĉero
+1930年代	1930-aj jaroj
+1960年代	1960-aj jaroj
+1920年代	1920-aj jaroj
+議會	Parlamento
+左羅阿斯特	Zaratuŝtro
+睏覺	Dormo
+美學	Estetiko
+胡志明	Ho Chi Minh
+集合	Aro (matematiko)
+1950年代	1950-aj jaroj
+眠夢	Sonĝo
+漢謨拉比	Hamurabi
+1940年代	1940-aj jaroj
+1900年代	1900-aj jaroj
+1910年代	1910-aj jaroj
+視覺藝術	Vidaj artoj
+壯人	Ĝŭangoj
+阿第拉	Atilo la Huno
+利婭娜	Rihanna
+指甲	Ungo
+12	12 (nombro)
+三船敏郎	Mifune Toshiro
+面	Vizaĝo
+文言文	Klasika ĉina lingvo
+浪漫主義	Romantikismo
+流行音樂	Pop-muziko
+南丁格爾	Florence Nightingale
+線	Rekto
+331年	331
+11	11 (nombro)
+365年	365
+13	13 (nombro)
+子彈	Kartoĉo
+379年	379
+書寫	Skribo
+達賴喇嘛	Dalai-lamao
+100	100 (nombro)
+胠膝	Genuo
+史詩	Epopeo
+眼鏡	Okulvitro
+南海	Sudĉina Maro
+俳句	Hajko
+奧克蘭文理學校	Auckland Grammar School
+冰櫃	Fridujo
+密爾沃基	Milvokio
+巴洛克式	Baroko
+薯	Batato
+存在主義	Ekzistadismo
+1840年代	1840-aj jaroj
+14	14 (nombro)
+1880年代	1880-aj jaroj
+燶菜	Kuirado
+15	15 (nombro)
+18	18 (nombro)
+重金属音乐	Metalroko
+激光	Lasero
+1890年代	1890-aj jaroj
+皇帝	Imperiestro
+人民幣	Renminbio
+富士山	Fuĵi-Monto
+體積	Volumeno
+1830年代	1830-aj jaroj
+汽油	Benzino
+1800年代	1800-aj jaroj
+昂鐸顏·拉艾節	Antoine Lavoisier
+谷	Valo
+1860年代	1860-aj jaroj
+1870年代	1870-aj jaroj
+19	19 (nombro)
+太陽能	Sunenergio
+17	17 (nombro)
+酸雨	Acida pluvo
+1810年代	1810-aj jaroj
+16	16 (nombro)
+乘法	Multipliko
+20	20 (nombro)
+牢監	Malliberejo
+減法	Subtraho
+喜劇	Komedio
+維吉尼野·烏爾芙	Virginia Woolf
+尿	Urino
+1850年代	1850-aj jaroj
+安徽	Anhujo
+天門	Frunto
+內蒙古	Interna Mongolio
+亞述	Asirio
+Sony	Sony
+零毫子	Monero
+道爾頓	John Dalton
+火箭	Raketo (fajraĵo)
+哥德	Kurt Gödel
+米科·佐登	Michael Jordan
+芭蕾	Baleto
+咸勒	Hamleto
+侯勃	David Hilbert
+芫茜	Kultiva koriandro
+福建	Fuĝjano
+堪薩斯城 (密蘇里州)	Kansasurbo (Misurio)
+轉喻	Metonimio
+戈壁	Gobio
+屁督	Pugo
+海南	Hajnano
+40	40 (nombro)
+錐形	Konuso
+世界母語日	Internacia Tago de la denaska lingvo
+甘肅	Gansuo
+Björk	Björk
+古印度	Induso-civilizacio
+倒踭	Kubuto
+漢人	Hanoj
+鬍子	Barbo
+30	30 (nombro)
+前201年	-201
+前202年	-202
+壁	Muro
+拓撲學	Topologio
+1600年代	1600-aj jaroj
+管弦樂團	Orkestro
+乾旱	Trosekeco
+底厄勒斯	Diokleciano
+前110年	-110
+雲南	Junano
+風力	Ventoenergio
+努眉	Ĝalal-ed-din Mohammad Rumi
+1700年代	1700-aj jaroj
+山東	Ŝandongo
+胛股	Brako
+婁溫學	Antoni van Leeuwenhoek
+河南	Henano
+1740年代	1740-aj jaroj
+1500年代	1500-aj jaroj
+前206年	-206
+前203年	-203
+存在論	Ontologio
+行列	Matrico
+博弈論	Ludoteorio
+著嚇	Timo
+1820年代	1820-aj jaroj
+前209年	-209
+1770年代	1770-aj jaroj
+點	Punkto (matematiko)
+前112年	-112
+餲屑	Rubo
+湖南	Hunano
+水族館	Akvario
+青海	Ĉinghajo
+箭	Sago
+1680年代	1680-aj jaroj
+1610年代	1610-aj jaroj
+人文主義	Humanismo
+1510年代	1510-aj jaroj
+金一葉	Kim Il-yeop
+弓	Arko (armilo)
+打字機	Tajpilo
+前176年	-176
+話筒	Mikrofono
+哥特式	Gotika arto
+湖北	Hubejo
+山西	Ŝanŝio
+令子	Ŝarado
+歐	Omo
+貴州	Gŭiĝoŭo
+紙票子	Monbileto
+河	Rivereto
+雷達	Radaro
+燈泡	Ampolo
+後現代主義	Postmodernismo
+撲克	Ludkarto
+339年	339
+340年	340
+宮城縣	Gubernio Mijagi
+354年	354
+356年	356
+358年	358
+361年	361
+363年	363
+364年	364
+陝西	Ŝenŝjio
+368年	368
+369年	369
+370年	370
+371年	371
+376年	376
+377年	377
+378年	378
+1780年代	1780-aj jaroj
+383年	383
+384年	384
+388年	388
+389年	389
+390年	390
+391年	391
+392年	392
+1730年代	1730-aj jaroj
+393年	393
+394年	394
+395年	395
+396年	396
+397年	397
+398年	398
+399年	399
+1540年代	1540-aj jaroj
+性別	Socia sekso
+岩手县	Gubernio Iŭate
+1750年代	1750-aj jaroj
+1580年代	1580-aj jaroj
+1590年代	1590-aj jaroj
+太空船	Kosmopramo
+質數	Primo
+短篇小說	Novelo
+279年	279
+440年	440
+517年	517
+572年	572
+2026年	2026
+2025年	2025
+2024年	2024
+2023年	2023
+2022年	2022
+2021年	2021
+2041年	2041
+2042年	2042
+2043年	2043
+2044年	2044
+2045年	2045
+2046年	2046
+2047年	2047
+2048年	2048
+2049年	2049
+2050年	2050
+2051年	2051
+2052年	2052
+2053年	2053
+2054年	2054
+2055年	2055
+2056年	2056
+2057年	2057
+2058年	2058
+2059年	2059
+美術史	Historio de arto
+變量	Variablo
+巴黎地鐵	Metroo de Parizo
+模板:Taxobox	Ŝablono:Taksonomio
+蝦蟆	Anuro
+江西	Ĝjangŝio
+叭嘶哣消毒法	Pasteŭrizado
+污染	Poluo
+1150年代	1150-aj jaroj
+1030年代	1030-aj jaroj
+1050年代	1050-aj jaroj
+炮	Artilerio
+分數	Frakcio (matematiko)
+青森縣	Gubernio Aomori
+福岛县	Gubernio Fukuŝima
+1370年代	1370-aj jaroj
+組合數學	Kombinatoriko
+庫勞爹·唽呋	Claudia Schiffer
+三越前站	Stacio Micukoŝimae
+九段下站	Stacio Kudanshita
+蠟燭	Kandelo
+1230年代	1230-aj jaroj
+心電圖	Elektrokardiografio
+930年代	930-aj jaroj
+1390年代	1390-aj jaroj
+著氣	Kolero
+1130年代	1130-aj jaroj
+1360年代	1360-aj jaroj
+1270年代	1270-aj jaroj
+25	25 (nombro)
+24	24 (nombro)
+60	60 (nombro)
+十四行詩	Soneto
+紫禁城	Malpermesita Urbo
+帝拿密	Dinamito
+960年代	960-aj jaroj
+990年代	990-aj jaroj
+890年代	890-aj jaroj
+1190年代	1190-aj jaroj
+本鄉三丁目站	Stacio Hongō-sanchōme
+1180年代	1180-aj jaroj
+日晷	Sunhorloĝo
+集成電路	Integra cirkvito
+悲劇	Tragedio
+虛無主義	Neniismo
+大人	Plenkreskeco
+般加黑	Henri Poincaré
+950年代	950-aj jaroj
+1020年代	1020-aj jaroj
+1060年代	1060-aj jaroj
+丕平三世	Pipino la pli juna
+1210年代	1210-aj jaroj
+1350年代	1350-aj jaroj
+1310年代	1310-aj jaroj
+1260年代	1260-aj jaroj
+1220年代	1220-aj jaroj
+1010年代	1010-aj jaroj
+970年代	970-aj jaroj
+1420年代	1420-aj jaroj
+秋田县	Gubernio Akita
+瓢羹	Kulero
+吉茨	John Keats
+920年代	920-aj jaroj
+1170年代	1170-aj jaroj
+980年代	980-aj jaroj
+1080年代	1080-aj jaroj
+1000年代	1000-aj jaroj
+1300年代	1300-aj jaroj
+1330年代	1330-aj jaroj
+E (數學常數)	E (matematiko)
+線性代數	Lineara algebro
+的士	Taksio
+地門	Mentono
+1090年代	1090-aj jaroj
+1380年代	1380-aj jaroj
+1240年代	1240-aj jaroj
+1290年代	1290-aj jaroj
+中國嗰歷史	Historio de Ĉinio
+數字	Cifero
+1450年代	1450-aj jaroj
+1110年代	1110-aj jaroj
+1160年代	1160-aj jaroj
+940年代	940-aj jaroj
+1250年代	1250-aj jaroj
+26	26 (nombro)
+870年代	870-aj jaroj
+雷	Tondro
+固奴·那那庫·答夫	Guru Nanak
+1340年代	1340-aj jaroj
+880年代	880-aj jaroj
+860年代	860-aj jaroj
+1320年代	1320-aj jaroj
+1070年代	1070-aj jaroj
+1200年代	1200-aj jaroj
+1280年代	1280-aj jaroj
+經驗主義	Empiriismo
+1140年代	1140-aj jaroj
+1440年代	1440-aj jaroj
+蜇蟆蚣子	Lokusto
+模板:Cite book	Ŝablono:Citaĵo el libro
+素描	Desegnaĵo
+記錄片	Dokumenta filmo
+雪利	Percy Bysshe Shelley
+工程學	Mekanika inĝenierarto
+姓氏箋釋	Familia nomo
+屙尿	Urinado
+櫥	Ŝranko
+康特拉科斯塔縣 (加利福尼亞州)	Kantono Contra Costa
+索諾馬縣 (加利福尼亞州)	Kantono Sonoma
+索拉諾縣 (加利福尼亞州)	Kantono Solano
+馬林縣 (加利福尼亞州)	Kantono Marin
+納帕縣 (加利福尼亞州)	Kantono Napa
+聖地牙哥縣 (加利福尼亞州)	Kantono San-Diego
+子句	Propozicio
+世界自然基金會	WWF
+大峽谷	Granda Kanjono
+鄰舍	Kvartalo
+來福槍	Fusilo
+寒螼子	Tervermo
+山形县	Gubernio Jamagata
+太極旗	Flago de Sud-Koreio
+卑武利·希爾茲	Beverly Hills
+焰火	Artfajraĵo
+地熱能源	Geoterma energio
+商	Dinastio Shang
+麥北斯	Makbeto
+日本嗰歷史	Historio de Japanio
+借落子	Cikadedoj
+麻醉	Anestezo
+流行文化	Popola kulturo
+Vim	Vim (programo)
+棋	Tabulludo
+咭嚌	Kiĉo
+後生	Adolesko
+橡膠	Gumo
+電梯	Lifto
+腳	Kruro
+印度嗰歷史	Historio de Barato
+聲納	Sonaro
+黃曆	Ĉina kalendaro
+平方根	Kvadrata radiko
+畫像	Portreto
+貴族	Nobelo
+臺南市	Tajnan
+自由詩	Libera verso
+卡拉·布魯尼	Carla Bruni
+印刷機	Presmaŝino
+潘玉良	Pan Yuliang
+微積分	Kalkulo
+績紹·本詹	Gisele Bündchen
+斯瓦迪士核心詞列表	Listo Swadesh
+呼應	Anaforo (lingvoscienco)
+佐俧俄·阿瑪尼	Giorgio Armani
+基因工程	Gentekniko
+柯里斯殿·帝俄	Christian Dior
+捺扣	Butono
+核磁共振成相	Magneta resonanca bildigo
+翼𦑃	Flugilo
+戲面殼子	Masko
+學士	Bakalaŭro
+華爾街日報	The Wall Street Journal
+100年代	100-aj jaroj
+三稜鏡	Prismo (optiko)
+混沌理論	Teorio de kaoso
+蝦蟆仁子	Ranido
+著火	Incendio
+1100年代	1100-aj jaroj
+水力	Akvoenergio
+級數	Serio (matematiko)
+中國抗日戰爭	Dua japana-ĉina milito
+110年代	110-aj jaroj
+龍樹	Nagarĝunao
+李承晩	Ji Sung-man
+南昌	Nanĉano
+矇矇躲躲	Kaŝludo
+池袋站	Stacio Ikebukuro
+阿披實	Abhisit Vejjajiva
+厘米	Centimetro
+極限	Limeso
+腡	Fingrospuro
+插圖	Ilustraĵo
+甲午戰爭	Unua japana-ĉina milito
+韻	Rimo
+俄打	Odo
+亞歷山德拉·柯倫泰	Aleksandra Miĥailovna Kolontaj
+新宿區	Kvartalo Ŝinĝuku
+塑像	Statuo
+牙骹	Makzelo
+新石器革命	Neolitika revolucio
+曼婁主義	Doktrino de Monroe
+𩭽頭	Kalveco
+高雄市	Kaoŝiung
+艾列則·本曳乎打	Eliezer Ben-Jehuda
+普理鐸廉尼	Pretoriana gvardio
+巴剌	Balado
+簡·愛	Jane Eyre
+碩士	Magistro
+黸	Rusto
+娛樂	Amuzo
+三國	Tri reĝlandoj
+張勉	Chang Myon
+數學常數	Matematika konstanto
+膏子	Kaĉo (manĝaĵo)
+褯片	Vindotuko
+德拿留斯	Denaro
+天皇	Listo de imperiestroj de Japanio
+1400年代	1400-aj jaroj
+壽歲	Vivdaŭro
+1410年代	1410-aj jaroj
+1430年代	1430-aj jaroj
+艾米里俄·阿圭那多	Emilio Aguinaldo
+1460年代	1460-aj jaroj
+引喻	Sinekdoĥo
+港區 (東京都)	Kvartalo Minato-ku (Tokio)
+1470年代	1470-aj jaroj
+1480年代	1480-aj jaroj
+1490年代	1490-aj jaroj
+類韻	Asonanco
+噸	Tuno
+南京大屠殺	Masakro de Nankingo
+尹致昊	Yun Chi-ho
+豆漿	Sojlakto
+1520年代	1520-aj jaroj
+我有一隻夢	Revon havas mi
+手㡤	Naztuko
+1530年代	1530-aj jaroj
+1550年代	1550-aj jaroj
+1560年代	1560-aj jaroj
+澀谷區	Kvartalo Ŝibuja
+1570年代	1570-aj jaroj
+1620年代	1620-aj jaroj
+1630年代	1630-aj jaroj
+1640年代	1640-aj jaroj
+1650年代	1650-aj jaroj
+顯微鏡	Mikroskopo
+1660年代	1660-aj jaroj
+1670年代	1670-aj jaroj
+肋𩩍骨	Ripo
+1690年代	1690-aj jaroj
+中秋餅	Lunkuko
+1710年代	1710-aj jaroj
+1720年代	1720-aj jaroj
+娜娥媚·監孛	Naomi Campbell
+塔	Pagodo
+1760年代	1760-aj jaroj
+壯學	Ĝŭangoscienco
+明喻	Komparo
+土狗	Talpogrilo
+1790年代	1790-aj jaroj
+中醫	Ĉina tradicia medicino
+世界嗰歷史	Historio de la mondo
+珠江	Perlorivero
+咆哮山莊	Wuthering Heights
+灶	Stovo
+叫銛子	Fajfilo
+奧林達 (加利福尼亞州)	Orinda (Kalifornio)
+弱強格	Jambo
+鄱陽湖	Lago Pojang
+正旋舞歌	Strofo
+形	Formo (filozofio)
+色斯特州斯	Sesterco
+作爆	Naŭzo
+鑊	Kurba pato
+強弱格	Trokeo
+焦尼·阿利得	Johnny Hallyday
+楷棏·茉蕬	Kate Moss
+強弱弱格	Daktilo (poetiko)
+中央區 (東京都)	Kvartalo Ĉuo (Tokio)
+文京區	Kvartalo Bunkjo
+足立區	Kvartalo Adaĉi
+千代田區	Kvartalo Ĉijoda
+江戶川區	Kvartalo Edogaŭa
+金奎植	Kim Kyu-sik
+Dolce & Gabbana	Dolce & Gabbana
+江東區 (東京都)	Kvartalo Koto
+金九	Kim Koo
+Chanel	Chanel
+嘉羅希·拿華頁	Galeries Lafayette
+清水寺	Kijomizu-dera (Kioto)
+羅漢 (佛教)	Arahanto
+醬油	Sojsaŭco
+繞口令	Langrompilo
+所利都斯	Solido (monero)
+世田谷區	Kvartalo Setagaja
+荒川區	Kvartalo Arakaŭa
+葛飾區	Kvartalo Kacuŝika
+板橋區 (日本)	Kvartalo Itabaŝi
+台東區	Kvartalo Taito
+共產黨	Komunista partio
+中野區	Kvartalo Nakano
+北區 (東京都)	Kvartalo Kita-ku (Tokio)
+墨田區	Kvartalo Sumida
+豐島區	Kvartalo Toŝima
+牛	Bovo (genro)
+90	90 (nombro)
+58	58 (nombro)
+索馬里内戰	Somalia enlanda milito
+72	72 (nombro)
+臺中市	Tajĉung
+鵝	Bredansero
+衫袖	Maniko
+法隆寺	Horju-ĝi
+70年代	70-aj jaroj
+電池	Pilo
+2010年冰島火山嗰噴發	Erupcioj de Eyjafjallajökull en 2010
+80年代	80-aj jaroj
+外苑前站	Stacio Gaiemmae
+啑呢	Ĉatnio
+900年代	900-aj jaroj
+90年代	90-aj jaroj
+910年代	910-aj jaroj
+溜池山王站	Stacio Tameike-Sannō
+92	92 (nombro)
+84	84 (nombro)
+96	96 (nombro)
+43	43 (nombro)
+東京站	Stacio Tokio
+拉斐特 (加利福尼亞州)	Lafayette (Kalifornio)
+87	87 (nombro)
+語體	Lingvotavolo
+54	54 (nombro)
+美國國家公園管理局	Naciparka Agentejo
+張國榮	Leslie Cheung
+安達斯·波尼斯奧	Andrés Bonifacio
+王維	Wang Wei
+阿波里納里奧·馬比尼	Apolinario Mabini
+徐載弼	Philip Jaisohn
+朴憲永	Park Heon-young
+李瑈	Sejo de Joseon
+王建 (高麗大王)	Wang Geon
+溜溜板	Deglitejo
+丁一權	Chung Il-kwon
+指示	Deikto
+88	88 (nombro)
+虎之門站	Stacio Toranomon
+京橋站	Stacio Kyōbashi (Tokio)
+末廣町站	Stacio Suehiroĉo (Tokio)
+稻荷町站	Stacio Inarichō
+福澤諭吉	Fukuzawa Yukichi
+漆器	Lakaĵo
+腳魚	Molkarapacaj testudoj
+尹善道	Yun Seondo
+張澤相	Chang Taek-sang
+安鐸尼俄·都·納布黎夏	Antonio de Nebrija
+和單	Litotuko
+85	85 (nombro)
+澀谷站	Stacio Shibuya
+27	27 (nombro)
+35	35 (nombro)
+64	64 (nombro)
+99	99 (nombro)
+都柏林人	Dubliners
+申仁善	Sin Saimdang
+金星 (舞者)	Jin Xing
+崇禮門	Namdemun
+技術嗰歷史	Historio de tekniko
+一隻後生藝術家嗰畫像	A Portrait of the Artist as a Young Man
+弱弱強格	Anapesto
+許貞淑	Heo Jong-suk
+羅蕙錫	Na Hyesok
+存在	Ekzisto
+王昭	Gwangjong de Goryeo
+尹致暎	Yun Chi-Yeong
+潘淸簡	Phan Thanh Gian
+河莉秀	Harisu
+理性主義	Raciismo
+聖保羅地鐵	Metroo en San-Paŭlo
+陀螺儀	Giroskopo
+和服	Kimono
+頭韻法	Aliteracio
+兪吉濬	Yu Gil-jun
+古世界嗰七大奇跡	Sep mirindaĵoj de la antikva mondo
+核桃溪 (加利福尼亞州)	Walnut Creek (Kalifornio)
+李光洙	Yi Gwang-su
+朴重陽	Park Jung-yang
+獨立門	Sendependeco Pordego
+馬丁內斯 (加利福尼亞州)	Martinez (Kalifornio)
+日比谷站	Stacio Hibiya
+56	56 (nombro)
+瑪算·迪可算線	Linio Mason-Dixon
+2020年代	2020-aj jaroj
+89	89 (nombro)
+Dior	Christian Dior S.A
+76	76 (nombro)
+29	29 (nombro)
+蒙古	Mongola Altebenaĵo
+2060年代	2060-aj jaroj
+招兵	Deviga militservo
+71	71 (nombro)
+28	28 (nombro)
+2060年	2060
+59	59 (nombro)
+62	62 (nombro)
+莫拉加 (加利福尼亞州)	Moraga (Kalifornio)
+95	95 (nombro)
+38	38 (nombro)
+75	75 (nombro)
+銀座站	Stacio Ginza
+赤坂見附站	Stacio Akasaka-mitsuke
+青山一丁目站	Stacio Aoyama-itchōme
+詞頭音消失	Aferezo
+Wikipedia:捷徑	Vikipedio:Simbola ligilo
+廬山	Luŝan
+李詩姸	Lee Si-yeon
+洪錫天	Hong Seok-cheon
+45	45 (nombro)
+65	65 (nombro)
+音節省略	Elizio
+2050年代	2050-aj jaroj
+2040年代	2040-aj jaroj
+2070年代	2070-aj jaroj
+理茲酒店 (巴黎)	Hotelo Ritz (Parizo)
+68	68 (nombro)
+97	97 (nombro)
+大數	Ĉinaj ciferoj
+94	94 (nombro)
+55	55 (nombro)
+美洲嗰歷史	Historio de Ameriko
+91	91 (nombro)
+望春風	Bāng Chhun-hong
+80	80 (nombro)
+21	21 (nombro)
+22	22 (nombro)
+70	70 (nombro)
+50	50 (nombro)
+41	41 (nombro)
+34	34 (nombro)
+33	33 (nombro)
+47	47 (nombro)
+31	31 (nombro)
+32	32 (nombro)
+44	44 (nombro)
+46	46 (nombro)
+49	49 (nombro)
+48	48 (nombro)
+37	37 (nombro)
+39	39 (nombro)
+36	36 (nombro)
+53	53 (nombro)
+81	81 (nombro)
+66	66 (nombro)
+63	63 (nombro)
+52	52 (nombro)
+69	69 (nombro)
+73	73 (nombro)
+57	57 (nombro)
+74	74 (nombro)
+79	79 (nombro)
+67	67 (nombro)
+77	77 (nombro)
+83	83 (nombro)
+82	82 (nombro)
+86	86 (nombro)
+78	78 (nombro)
+98	98 (nombro)
+2030年代	2030-aj jaroj
+妙淸	Myocheong
+琴	Guĉino
+霞關站	Stacio Kasumigaseki (Tokio)
+Bulgari	Bulgari
+東洋生態區	Orientaliso
+Givenchy	Givenchy
+透鏡	Lenso (optiko)
+61	61 (nombro)
+日本橋站	Stacio Nihombaŝi
+秋葉原站	Stacio Akihabara
+淺草站	Stacio Asakusa
+飯田橋站	Stacio Iidabashi
+神田站	Stacio Kanda (Tokio)
+中野站	Stacio Nakano (Tokio)
+御茶之水站	Stacio Ochanomizu
+新橋站	Stacio Shimbashi
+新宿站	Stacio Shinjuku
+上野站	Stacio Ueno
+四谷站	Stacio Yotsuya
+立方體	Kubo (geometrio)
+42	42 (nombro)
+黑人	Nigrulo
+2061年	2061
+佢俚先頭攻擊…	Unue ili la judojn venigis
+現代主義	Modernismo
+2069年	2069
+2068年	2068
+2067年	2067
+2071年	2071
+2065年	2065
+2066年	2066
+2070年	2070
+51	51 (nombro)
+東京地鐵	Metroo de Tokio
+2064年	2064
+2063年	2063
+2062年	2062
+人名	Individua nomo
+銀座線	Linio Ginza (Tokyo Metro)
+四谷三丁目站	Stacio Yotsuya-sanchōme
+千代田線	Linio Chiyoda (Tokyo Metro)
+茗荷谷站	Stacio Mjogadani
+新大塚站	Stacio Ŝin-Ocuka
+東銀座站	Stacio Higashi-Ginza
+淡路町站	Stacio Awajichō
+新宿御苑前站	Stacio Ŝinĝuku-gjoemmae
+人形町站	Stacio Ningjoĉo
+新宿三丁目站	Stacio Ŝinĝuku-sanĉome
+丸之內線	Linio Marunouchi (Tokyo Metro)
+東西線	Linio Tozaj (Tokjo Metro)
+後樂園站	Stacio Kōrakuen
+上野廣小路站	Stacio Ueno-hirokoĝi
+國會議事堂前站	Stacio Kokkai-gijidō-mae
+田原町站	Stacio Taŭaramaĉi (Tokio)
+日比谷線	Linio Hibiya (Tokyo Metro)
+除法	Divido
+有理數	Racionala nombro
+渥·因·浮羅孌·索達	Voor een verloren soldaat
+60年代	60-aj jaroj
+50年代	50-aj jaroj
+40年代	40-aj jaroj
+30年代	30-aj jaroj
+敘事	Rakonto
+表參道站	Stacio Omotesandō
+大手町站	Stacio Ōtemachi (Tokio)
+漢服	Hanfu
+江南	Jiangnano
+分類:德國	Kategorio:Germanio
+分類:意大利	Kategorio:Italio
+分類:美國	Kategorio:Usono
+分類:俄羅斯	Kategorio:Rusio
+分類:加拿大	Kategorio:Kanado
+分類:英國	Kategorio:Unuiĝinta Reĝlando
+分類:中國	Kategorio:Ĉinio
+分類:日本	Kategorio:Japanio
+分類:澳大利亞	Kategorio:Aŭstralio
+分類:印度	Kategorio:Barato
+分類:沙特阿拉伯	Kategorio:Sauda Arabio
+分類:以色列	Kategorio:Israelo
+分類:土耳其	Kategorio:Turkio
+分類:埃及	Kategorio:Egiptio
+20年代	20-aj jaroj
+1120年代	1120-aj jaroj
+分類:荷蘭	Kategorio:Nederlando
+分類:波蘭	Kategorio:Pollando
+分類:泰國	Kategorio:Tajlando
+分類:越南	Kategorio:Vjetnamio
+分類:植物	Kategorio:Plantoj
+分類:物理學	Kategorio:Fiziko
+分類:生物學	Kategorio:Biologio
+分類:化學	Kategorio:Kemio
+分類:歷史	Kategorio:Historio
+分類:地理	Kategorio:Geografio
+分類:社會	Kategorio:Socio
+分類:宗教	Kategorio:Religio
+分類:科學	Kategorio:Scienco
+分類:地球	Kategorio:Tero
+照應	Kataforo
+韻腳	Piedo (poetiko)
+分類:2012年過世	Kategorio:Mortintoj en 2012
+分類:1072年過世	Kategorio:Mortintoj en 1072
+模板:Box-footer	Portalo:Box-footer
+粘粘蟲	Limako
+分類:奧運會	Kategorio:Olimpikoj
+分類:哲學	Kategorio:Filozofio
+分類:佛教	Kategorio:Budhismo
+分類:伊斯蘭教	Kategorio:Islamo
+分類:猶太教	Kategorio:Judismo
+腐竹	Jubo
+羅斯福推論	Korolario Roosevelt
+工藝	Metiartoj
+譚姓	Tan
+分類:行星	Kategorio:Planedoj
+分類:文化	Kategorio:Kulturo
+分類:洲	Kategorio:Kontinentoj
+世界語言權利宣言	Universala Deklaracio de la Lingvaj Rajtoj
+於于同	Eoudong
+10年代	10-aj jaroj
+汗	Ŝvito
+鴨	Anaso
+Wikipedia:放膽修改	Vikipedio:Redaktu kun kuraĝo
+分類:德國人	Kategorio:Germanoj
+分類:美國人	Kategorio:Usonanoj
+分類:奧地利人	Kategorio:Aŭstroj
+分類:荷蘭人	Kategorio:Nederlandanoj
+分類:英國人	Kategorio:Britoj
+分類:法國人	Kategorio:Francoj
+分類:意大利人	Kategorio:Italoj
+模板:Tl	Ŝablono:Ŝ
+模板:Userbox	Ŝablono:Uzantoskatolo1
+分類:法律	Kategorio:Juro
+分類:國家	Kategorio:Landoj
+分類:經濟	Kategorio:Ekonomiko
+分類:人物	Kategorio:Personoj
+Wikipedia:申請做管理員	Vikipedio:Administrantoj/kandidatoj
+分類:自然	Kategorio:Naturo
+分類:貨幣	Kategorio:Mono
+分類:政治	Kategorio:Politiko
+分類:教育	Kategorio:Edukado
+分類:光學	Kategorio:Optiko
+分類:藝術	Kategorio:Arto
+會計學	Kontado
+埃及	Egiptujo
+分類:2013年	Kategorio:2013
+模板:Bot	Ŝablono:Bot
+加拿大	Kanado
+分類:捷克	Kategorio:Ĉeĥio
+分類:丹麥	Kategorio:Danio
+分類:希臘	Kategorio:Grekio
+分類:瑞典	Kategorio:Svedio
+維度	Dimensio
+分類:歐洲國家	Kategorio:Eŭropaj landoj
+分類:歐洲	Kategorio:Eŭropo
+Wikipedia:新出嗰事	Vikipedio:Aktualaĵoj
+模板:Documentation	Ŝablono:Dok
+博士	Doktoro
+Wikipedia:贛語本字	Vikipedio:Evitu nebulajn vortojn
+成在基	Sung Jae-gi
+模板:Softredirect	Ŝablono:Intervikia plusendilo
+模板:Delete	Ŝablono:Forigu tuj
+分類:技術	Kategorio:Teknologio
+分類:語言	Kategorio:Lingvoj
+分類:維基百科	Kategorio:Vikipedio
+Wikipedia:免責聲明	Vikipedio:Malgarantio
+分類:冇做索引嗰頁面	Kategorio:Neindeksitaj paĝoj
+分類:檔案連結損壞的頁面	Kategorio:Paĝoj kun eraraj dosierligiloj
+Portal:歐洲	Portalo:Eŭropo
+模板:Navbox	Ŝablono:Navigilo2
+模板:Shortcut	Ŝablono:Mallongigo
+模板:!	Ŝablono:!
+模板:Tnavbar	Ŝablono:Tnavbar
+模板:Unicode	Ŝablono:Unicode
+信仰	Fido
+模板:Nowrap	Ŝablono:Nrsp
+模板:Bots	Ŝablono:Bots
+分類:非洲	Kategorio:Afriko
+分類:書	Kategorio:Libroj
+分類:月份	Kategorio:Monatoj
+模板:Wikisource	Ŝablono:Vikifontaro
+模板:Babel	Ŝablono:Babelejo
+模板:Commons	Ŝablono:Commons
+模板:Link GA	Ŝablono:LigoLeginda
+模板:Reflist	Ŝablono:Referencoj
+模板:Stub	Ŝablono:Ĝermo
+模板:User de	Ŝablono:Vikipediisto de
+模板:User en-3	Ŝablono:Vikipediisto en-3
+模板:User en-1	Ŝablono:Vikipediisto en-1
+模板:User en-2	Ŝablono:Vikipediisto en-2
+模板:User en-4	Ŝablono:Vikipediisto en-4
+模板:User ja-1	Ŝablono:Vikipediisto ja-1
+模板:Unsigned	Ŝablono:Subskribo
+分類:1957年	Kategorio:1957
+分類:1949年	Kategorio:1949
+分類:1927年	Kategorio:1927
+分類:1919年	Kategorio:1919
+模板:Location map/Info	Ŝablono:Situo sur mapo/informoj
+分類:昆蟲	Kategorio:Insektoj
+分類:亞洲	Kategorio:Azio
+分類:智利	Kategorio:Ĉilio
+分類:21世紀	Kategorio:21-a jarcento
+分類:南美洲	Kategorio:Sudameriko
+分類:1930年	Kategorio:1930
+分類:1936年	Kategorio:1936
+分類:1947年	Kategorio:1947
+分類:1937年	Kategorio:1937
+分類:1940年	Kategorio:1940
+分類:1934年	Kategorio:1934
+分類:1960年	Kategorio:1960
+分類:1943年	Kategorio:1943
+分類:1951年	Kategorio:1951
+分類:1942年	Kategorio:1942
+分類:1959年	Kategorio:1959
+分類:1938年	Kategorio:1938
+分類:1928年	Kategorio:1928
+分類:1913年	Kategorio:1913
+分類:1918年	Kategorio:1918
+分類:1954年	Kategorio:1954
+分類:1941年	Kategorio:1941
+分類:1955年	Kategorio:1955
+分類:1950年	Kategorio:1950
+分類:1921年	Kategorio:1921
+分類:1977年	Kategorio:1977
+分類:1946年	Kategorio:1946
+分類:1948年	Kategorio:1948
+分類:1932年	Kategorio:1932
+分類:1945年	Kategorio:1945
+模板:Mod	Ŝablono:Mod
+分類:1923年	Kategorio:1923
+分類:1935年	Kategorio:1935
+分類:1910年	Kategorio:1910
+分類:1917年	Kategorio:1917
+分類:1904年	Kategorio:1904
+分類:1926年	Kategorio:1926
+分類:1907年	Kategorio:1907
+分類:1914年	Kategorio:1914
+分類:1929年	Kategorio:1929
+分類:1920年	Kategorio:1920
+分類:1925年	Kategorio:1925
+分類:1905年	Kategorio:1905
+分類:1915年	Kategorio:1915
+分類:1908年	Kategorio:1908
+模板:歡迎	Ŝablono:Bonvenon
+分類:1901年	Kategorio:1901
+分類:1903年	Kategorio:1903
+分類:1902年	Kategorio:1902
+分類:1900年	Kategorio:1900
+分類:1933年	Kategorio:1933
+分類:1912年	Kategorio:1912
+分類:1952年	Kategorio:1952
+模板:USA	Ŝablono:USA
+分類:語言學	Kategorio:Lingvoscienco
+分類:1911年	Kategorio:1911
+分類:1922年	Kategorio:1922
+模板:ITA	Ŝablono:ITA
+分類:1924年	Kategorio:1924
+模板:Click	Ŝablono:Ligo el bildo
+分類:1906年	Kategorio:1906
+模板:Wikiquote	Ŝablono:Vikicitaro
+模板:Image label	Ŝablono:Marko sur bildo
+模板:Es	Ŝablono:Es
+模板:Infobox Music genre	Ŝablono:Informkesto Muzika ĝenro
+模板:Navigational templates	Ŝablono:Navigilaro
+分類:美國嗰歷史	Kategorio:Historio de Usono
+模板:Switch	Ŝablono:Switch
+模板:Infobox Country	Ŝablono:Informkesto lando
+模板:Px	Ŝablono:Px
+模板:Audio	Ŝablono:Aŭdio
+模板:Navbox with columns	Ŝablono:Navigilo kun kolumnoj
+模板:Cite journal	Ŝablono:Citaĵo el gazeto
+模板:Infobox Company	Ŝablono:Informkesto firmao
+模板:S-after	Ŝablono:S-aft
+模板:靚文	Ŝablono:Elstara
+分類:1875年出世	Kategorio:Naskiĝintoj en 1875
+分類:1856年出世	Kategorio:Naskiĝintoj en 1856
+分類:巴黎	Kategorio:Parizo
+模板:Infobox	Ŝablono:Informkesto
+分類:1902年過世	Kategorio:Mortintoj en 1902
+模板:User zh	Ŝablono:Vikipediisto zh
+模板:Legend	Ŝablono:Priskribo
+模板:Cite web	Ŝablono:Citaĵo el la reto
+模板:Infobox Bridge	Ŝablono:Informkesto ponto
+分類:飲食	Kategorio:Kuirarto
+模板:方位	Ŝablono:Kompasdirektoj
+模板:Wiktionary	Ŝablono:Vikivortaro
+模板:Languageicon	Ŝablono:Ref-lang
+分類:總統	Kategorio:Prezidantoj
+分類:20世紀	Kategorio:20-a jarcento
+模板:IPA	Ŝablono:IFA
+分類:政治人物	Kategorio:Politikistoj
+分類:美洲	Kategorio:Ameriko
+分類:漢藏語系	Kategorio:Ĉinotibeta lingvaro
+模板:LangWithName	Ŝablono:LingvoKunNomo
+模板:User language-N	Ŝablono:Babel kadro D
+模板:Archive box	Ŝablono:Arkivo
+模板:Sisterlinks	Ŝablono:Projektoj
+模板:Border	Ŝablono:Bordero
+分類:1879年出世	Kategorio:Naskiĝintoj en 1879
+分類:1955年出世	Kategorio:Naskiĝintoj en 1955
+分類:1823年出世	Kategorio:Naskiĝintoj en 1823
+分類:1963年出世	Kategorio:Naskiĝintoj en 1963
+分類:1884年過世	Kategorio:Mortintoj en 1884
+分類:1875年過世	Kategorio:Mortintoj en 1875
+分類:1868年出世	Kategorio:Naskiĝintoj en 1868
+分類:1812年出世	Kategorio:Naskiĝintoj en 1812
+分類:1817年出世	Kategorio:Naskiĝintoj en 1817
+分類:1837年出世	Kategorio:Naskiĝintoj en 1837
+分類:1863年過世	Kategorio:Mortintoj en 1863
+分類:1829年出世	Kategorio:Naskiĝintoj en 1829
+分類:1998年出世	Kategorio:Naskiĝintoj en 1998
+分類:1802年過世	Kategorio:Mortintoj en 1802
+分類:1801年過世	Kategorio:Mortintoj en 1801
+分類:1718年過世	Kategorio:Mortintoj en 1718
+分類:1492年過世	Kategorio:Mortintoj en 1492
+分類:1834年出世	Kategorio:Naskiĝintoj en 1834
+分類:1729年過世	Kategorio:Mortintoj en 1729
+分類:1498年過世	Kategorio:Mortintoj en 1498
+分類:1433年過世	Kategorio:Mortintoj en 1433
+分類:1457年過世	Kategorio:Mortintoj en 1457
+分類:1435年過世	Kategorio:Mortintoj en 1435
+分類:1461年過世	Kategorio:Mortintoj en 1461
+分類:1720年過世	Kategorio:Mortintoj en 1720
+分類:1408年過世	Kategorio:Mortintoj en 1408
+分類:1497年過世	Kategorio:Mortintoj en 1497
+分類:1429年過世	Kategorio:Mortintoj en 1429
+分類:1430年過世	Kategorio:Mortintoj en 1430
+分類:1508年過世	Kategorio:Mortintoj en 1508
+分類:1165年過世	Kategorio:Mortintoj en 1165
+分類:1499年過世	Kategorio:Mortintoj en 1499
+分類:1455年過世	Kategorio:Mortintoj en 1455
+分類:1156年過世	Kategorio:Mortintoj en 1156
+分類:1417年過世	Kategorio:Mortintoj en 1417
+分類:1490年過世	Kategorio:Mortintoj en 1490
+分類:1080年過世	Kategorio:Mortintoj en 1080
+分類:1764年過世	Kategorio:Mortintoj en 1764
+分類:1434年過世	Kategorio:Mortintoj en 1434
+分類:19世紀	Kategorio:19-a jarcento
+模板:Images	Ŝablono:Galerio
+分類:作家	Kategorio:Verkistoj
+分類:軍事	Kategorio:Armitaj fortoj
+分類:1931年	Kategorio:1931
+分類:1958年	Kategorio:1958
+分類:1956年	Kategorio:1956
+分類:1944年	Kategorio:1944
+分類:1916年	Kategorio:1916
+分類:1939年	Kategorio:1939
+分類:1909年	Kategorio:1909
+分類:1704年出世	Kategorio:Naskiĝintoj en 1704
+分類:1105年過世	Kategorio:Mortintoj en 1105
+分類:2003年出世	Kategorio:Naskiĝintoj en 2003
+分類:1221年過世	Kategorio:Mortintoj en 1221
+模板:Image label end	Ŝablono:Marko sur bildo fino
+分類:1415年出世	Kategorio:Naskiĝintoj en 1415
+分類:1101年出世	Kategorio:Naskiĝintoj en 1101
+分類:81年過世	Kategorio:Mortintoj en 81
+分類:230年過世	Kategorio:Mortintoj en 230
+模板:DNK	Ŝablono:DNK
+模板:DEU	Ŝablono:DEU
+分類:1454年出世	Kategorio:Naskiĝintoj en 1454
+分類:1018年過世	Kategorio:Mortintoj en 1018
+分類:越南機場	Kategorio:Flughavenoj de Vietnamio
+分類:企業	Kategorio:Firmaoj
+模板:Image label small	Ŝablono:Marko sur bildo malgranda
+模板:Th icon	Ŝablono:Th
+模板:S-title	Ŝablono:S-ttl
+模板:JPN	Ŝablono:JPN
+模板:Wikinews	Ŝablono:Vikinovaĵoj
+模板:Infobox public transit	Ŝablono:Informkesto publika transporto
+模板:VAT	Ŝablono:VAT
+模板:S-before	Ŝablono:S-bef
+分類:電腦	Kategorio:Komputilo
+模板:HKG	Ŝablono:HKG
+模板:THA	Ŝablono:THA
+模板:SGP	Ŝablono:SIN
+模板:MAC	Ŝablono:MAC
+模板:User en-5	Ŝablono:Vikipediisto en-5
+模板:禮拜	Ŝablono:Tagoj de la semajno
+分類:1903年出世	Kategorio:Naskiĝintoj en 1903
+分類:1925年出世	Kategorio:Naskiĝintoj en 1925
+分類:1936年出世	Kategorio:Naskiĝintoj en 1936
+分類:1916年出世	Kategorio:Naskiĝintoj en 1916
+分類:1910年出世	Kategorio:Naskiĝintoj en 1910
+分類:1939年出世	Kategorio:Naskiĝintoj en 1939
+模板:Polytonic	Ŝablono:Polytonic
+分類:1320年出世	Kategorio:Naskiĝintoj en 1320
+模板:扤清楚	Ŝablono:Apartigilo
+分類:1962年	Kategorio:1962
+分類:地鐵	Kategorio:Metrooj
+模板:Tick	Ŝablono:Hoko
+分類:642年過世	Kategorio:Mortintoj en 642
+分類:1938年出世	Kategorio:Naskiĝintoj en 1938
+分類:619年過世	Kategorio:Mortintoj en 619
+分類:678年過世	Kategorio:Mortintoj en 678
+分類:674年過世	Kategorio:Mortintoj en 674
+分類:634年過世	Kategorio:Mortintoj en 634
+分類:644年過世	Kategorio:Mortintoj en 644
+模板:GRC	Ŝablono:GRC
+模板:AUS	Ŝablono:AUS
+分類:1663年	Kategorio:1663
+分類:1663年過世	Kategorio:Mortintoj en 1663
+模板:越南嗰行政區劃	Ŝablono:VNM
+模板:NZL	Ŝablono:NZL
+分類:建築	Kategorio:Arkitekturo
+模板:KOR	Ŝablono:KOR
+模板:De	Ŝablono:De
+模板:FRA	Ŝablono:FRA
+分類:640年過世	Kategorio:Mortintoj en 640
+分類:702年過世	Kategorio:Mortintoj en 702
+分類:1627年過世	Kategorio:Mortintoj en 1627
+分類:1953年	Kategorio:1953
+分類:鐵路	Kategorio:Fervojo
+模板:七大洲	Ŝablono:Kontinentoj
+分類:東京地鐵	Kategorio:Fervoja transporto en Tokio
+分類:490年出世	Kategorio:Naskiĝintoj en 490
+分類:600年出世	Kategorio:Naskiĝintoj en 600
+分類:635年出世	Kategorio:Naskiĝintoj en 635
+分類:648年出世	Kategorio:Naskiĝintoj en 648
+模板:Infobox rail line	Ŝablono:Informkesto fervojlinio
+模板:Coord	Ŝablono:Koord
+模板:觀點	Ŝablono:Malneŭtraleco
+分類:1608年出世	Kategorio:Naskiĝintoj en 1608
+分類:1058年出世	Kategorio:Naskiĝintoj en 1058
+分類:1717年出世	Kategorio:Naskiĝintoj en 1717
+分類:1705年出世	Kategorio:Naskiĝintoj en 1705
+分類:1622年過世	Kategorio:Mortintoj en 1622
+模板:歐洲	Ŝablono:Ŝtatoj en Eŭropo
+分類:商業	Kategorio:Negoco
+分類:文字	Kategorio:Skribsistemoj
+分類:803年出世	Kategorio:Naskiĝintoj en 803
+分類:1246年過世	Kategorio:Mortintoj en 1246
+分類:1265年過世	Kategorio:Mortintoj en 1265
+分類:1210年過世	Kategorio:Mortintoj en 1210
+分類:40年過世	Kategorio:Mortintoj en 40
+分類:1377年過世	Kategorio:Mortintoj en 1377
+分類:1179年	Kategorio:1179
+分類:道教	Kategorio:Taoismo
+分類:244年過世	Kategorio:Mortintoj en 244
+分類:225年出世	Kategorio:Naskiĝintoj en 225
+分類:島	Kategorio:Insuloj
+分類:廣平省	Kategorio:Provinco Quang Binh
+分類:User de	Kategorio:Vikipediisto de
+分類:125年出世	Kategorio:Naskiĝintoj en 125
+分類:69年出世	Kategorio:Naskiĝintoj en 69
+分類:1335年過世	Kategorio:Mortintoj en 1335
+分類:1452年	Kategorio:1452
+分類:1499年	Kategorio:1499
+分類:1433年	Kategorio:1433
+分類:1037年出世	Kategorio:Naskiĝintoj en 1037
+分類:1600年過世	Kategorio:Mortintoj en 1600
+分類:1465年	Kategorio:1465
+分類:1400年過世	Kategorio:Mortintoj en 1400
+分類:1472年	Kategorio:1472
+分類:1372年過世	Kategorio:Mortintoj en 1372
+分類:1548年出世	Kategorio:Naskiĝintoj en 1548
+分類:1472年過世	Kategorio:Mortintoj en 1472
+分類:1465年過世	Kategorio:Mortintoj en 1465
+分類:1904年過世	Kategorio:Mortintoj en 1904
+分類:朝鮮話	Kategorio:Korea lingvo
+模板:Multiple image	Ŝablono:Pluraj bildoj
+分類:1793年出世	Kategorio:Naskiĝintoj en 1793
+分類:1852年過世	Kategorio:Mortintoj en 1852
+分類:1880年過世	Kategorio:Mortintoj en 1880
+分類:1812年	Kategorio:1812
+分類:1793年	Kategorio:1793
+分類:幾何學	Kategorio:Geometrio
+分類:1942年過世	Kategorio:Mortintoj en 1942
+分類:1505年	Kategorio:1505
+分類:251年過世	Kategorio:Mortintoj en 251
+分類:720年過世	Kategorio:Mortintoj en 720
+分類:1585年過世	Kategorio:Mortintoj en 1585
+分類:1556年	Kategorio:1556
+分類:1585年	Kategorio:1585
+分類:1596年	Kategorio:1596
+分類:1553年過世	Kategorio:Mortintoj en 1553
+分類:1556年過世	Kategorio:Mortintoj en 1556
+分類:1521年過世	Kategorio:Mortintoj en 1521
+分類:1564年過世	Kategorio:Mortintoj en 1564
+分類:1536年過世	Kategorio:Mortintoj en 1536
+分類:1521年	Kategorio:1521
+分類:1564年	Kategorio:1564
+分類:672年過世	Kategorio:Mortintoj en 672
+分類:1111年過世	Kategorio:Mortintoj en 1111
+分類:1553年	Kategorio:1553
+分類:1576年	Kategorio:1576
+分類:1592年	Kategorio:1592
+分類:1536年	Kategorio:1536
+分類:1560年	Kategorio:1560
+分類:1596年過世	Kategorio:Mortintoj en 1596
+模板:不係	Ŝablono:Ne konfuzu
+分類:66年過世	Kategorio:Mortintoj en 66
+分類:1334年過世	Kategorio:Mortintoj en 1334
+分類:舞者	Kategorio:Dancistoj
+分類:903年過世	Kategorio:Mortintoj en 903
+分類:天氣	Kategorio:Vetero
+分類:1922年過世	Kategorio:Mortintoj en 1922
+模板:BRA	Ŝablono:BRA
+分類:1777年過世	Kategorio:Mortintoj en 1777
+分類:1793年過世	Kategorio:Mortintoj en 1793
+分類:1794年過世	Kategorio:Mortintoj en 1794
+分類:1703年過世	Kategorio:Mortintoj en 1703
+分類:1822年過世	Kategorio:Mortintoj en 1822
+分類:1549年過世	Kategorio:Mortintoj en 1549
+分類:1549年	Kategorio:1549
+分類:1542年過世	Kategorio:Mortintoj en 1542
+分類:1718年	Kategorio:1718
+分類:1931年過世	Kategorio:Mortintoj en 1931
+分類:1827年過世	Kategorio:Mortintoj en 1827
+分類:1798年過世	Kategorio:Mortintoj en 1798
+分類:1829年過世	Kategorio:Mortintoj en 1829
+分類:1826年過世	Kategorio:Mortintoj en 1826
+模板:Expand list	Ŝablono:Malkompleta listo
+分類:1799年過世	Kategorio:Mortintoj en 1799
+分類:1778年過世	Kategorio:Mortintoj en 1778
+分類:1547年過世	Kategorio:Mortintoj en 1547
+分類:1234年過世	Kategorio:Mortintoj en 1234
+分類:1336年出世	Kategorio:Naskiĝintoj en 1336
+分類:890年出世	Kategorio:Naskiĝintoj en 890
+分類:969年過世	Kategorio:Mortintoj en 969
+分類:1687年	Kategorio:1687
+分類:1614年	Kategorio:1614
+分類:1612年	Kategorio:1612
+分類:1653年	Kategorio:1653
+分類:1672年	Kategorio:1672
+分類:1673年	Kategorio:1673
+分類:1612年過世	Kategorio:Mortintoj en 1612
+分類:1680年過世	Kategorio:Mortintoj en 1680
+分類:1691年過世	Kategorio:Mortintoj en 1691
+分類:1691年	Kategorio:1691
+分類:1655年過世	Kategorio:Mortintoj en 1655
+分類:1659年過世	Kategorio:Mortintoj en 1659
+分類:1616年過世	Kategorio:Mortintoj en 1616
+分類:1614年過世	Kategorio:Mortintoj en 1614
+分類:1661年過世	Kategorio:Mortintoj en 1661
+分類:1686年過世	Kategorio:Mortintoj en 1686
+分類:1661年	Kategorio:1661
+分類:1653年過世	Kategorio:Mortintoj en 1653
+分類:880年過世	Kategorio:Mortintoj en 880
+分類:1655年	Kategorio:1655
+分類:1680年	Kategorio:1680
+分類:1684年	Kategorio:1684
+分類:詩人	Kategorio:Poetoj
+模板:User language-2	Ŝablono:Babel kadro 2
+分類:1994年過世	Kategorio:Mortintoj en 1994
+分類:1906年出世	Kategorio:Naskiĝintoj en 1906
+分類:991年過世	Kategorio:Mortintoj en 991
+分類:海洋	Kategorio:Maroj
+分類:同性戀	Kategorio:Samseksemo
+分類:680年過世	Kategorio:Mortintoj en 680
+分類:669年過世	Kategorio:Mortintoj en 669
+分類:芭蕾舞者	Kategorio:Baletistoj
+分類:2009年過世	Kategorio:Mortintoj en 2009
+分類:1161年出世	Kategorio:Naskiĝintoj en 1161
+分類:1148年出世	Kategorio:Naskiĝintoj en 1148
+分類:1216年過世	Kategorio:Mortintoj en 1216
+分類:太陽系	Kategorio:Sunsistemo
+分類:1388年	Kategorio:1388
+分類:1453年	Kategorio:1453
+分類:廣東	Kategorio:Gŭangdongo
+分類:四川	Kategorio:Siĉuano
+分類:陝西	Kategorio:Ŝenŝjio
+分類:安徽	Kategorio:Anhujo
+分類:江西	Kategorio:Jianĝi
+分類:福建	Kategorio:Fuĝjano
+分類:980年出世	Kategorio:Naskiĝintoj en 980
+分類:1037年過世	Kategorio:Mortintoj en 1037
+分類:9年	Kategorio:9
+分類:988年過世	Kategorio:Mortintoj en 988
+分類:17年過世	Kategorio:Mortintoj en 17
+分類:18年出世	Kategorio:Naskiĝintoj en 18
+分類:23年過世	Kategorio:Mortintoj en 23
+分類:27年出世	Kategorio:Naskiĝintoj en 27
+分類:30年出世	Kategorio:Naskiĝintoj en 30
+分類:32年出世	Kategorio:Naskiĝintoj en 32
+分類:33年過世	Kategorio:Mortintoj en 33
+分類:37年出世	Kategorio:Naskiĝintoj en 37
+分類:40年出世	Kategorio:Naskiĝintoj en 40
+分類:41年過世	Kategorio:Mortintoj en 41
+分類:44年過世	Kategorio:Mortintoj en 44
+分類:46年出世	Kategorio:Naskiĝintoj en 46
+分類:50年出世	Kategorio:Naskiĝintoj en 50
+分類:1456年	Kategorio:1456
+分類:51年出世	Kategorio:Naskiĝintoj en 51
+分類:53年出世	Kategorio:Naskiĝintoj en 53
+分類:61年出世	Kategorio:Naskiĝintoj en 61
+分類:61年過世	Kategorio:Mortintoj en 61
+分類:62年過世	Kategorio:Mortintoj en 62
+分類:65年過世	Kategorio:Mortintoj en 65
+分類:67年過世	Kategorio:Mortintoj en 67
+分類:69年過世	Kategorio:Mortintoj en 69
+分類:70年出世	Kategorio:Naskiĝintoj en 70
+分類:86年出世	Kategorio:Naskiĝintoj en 86
+分類:92年出世	Kategorio:Naskiĝintoj en 92
+分類:93年過世	Kategorio:Mortintoj en 93
+分類:96年過世	Kategorio:Mortintoj en 96
+分類:97年過世	Kategorio:Mortintoj en 97
+分類:99年過世	Kategorio:Mortintoj en 99
+分類:100年出世	Kategorio:Naskiĝintoj en 100
+分類:101年過世	Kategorio:Mortintoj en 101
+分類:103年過世	Kategorio:Mortintoj en 103
+分類:106年過世	Kategorio:Mortintoj en 106
+分類:113年過世	Kategorio:Mortintoj en 113
+分類:115年過世	Kategorio:Mortintoj en 115
+分類:117年過世	Kategorio:Mortintoj en 117
+分類:121年出世	Kategorio:Naskiĝintoj en 121
+分類:126年出世	Kategorio:Naskiĝintoj en 126
+分類:130年出世	Kategorio:Naskiĝintoj en 130
+分類:136年過世	Kategorio:Mortintoj en 136
+分類:138年過世	Kategorio:Mortintoj en 138
+分類:146年出世	Kategorio:Naskiĝintoj en 146
+分類:155年過世	Kategorio:Mortintoj en 155
+分類:1588年出世	Kategorio:Naskiĝintoj en 1588
+分類:1063年過世	Kategorio:Mortintoj en 1063
+分類:1679年過世	Kategorio:Mortintoj en 1679
+分類:161年過世	Kategorio:Mortintoj en 161
+分類:1768年過世	Kategorio:Mortintoj en 1768
+分類:1682年過世	Kategorio:Mortintoj en 1682
+分類:1604年出世	Kategorio:Naskiĝintoj en 1604
+分類:1055年過世	Kategorio:Mortintoj en 1055
+分類:1062年過世	Kategorio:Mortintoj en 1062
+分類:164年過世	Kategorio:Mortintoj en 164
+分類:1059年過世	Kategorio:Mortintoj en 1059
+分類:165年出世	Kategorio:Naskiĝintoj en 165
+分類:1604年	Kategorio:1604
+分類:170年出世	Kategorio:Naskiĝintoj en 170
+分類:180年過世	Kategorio:Mortintoj en 180
+分類:185年出世	Kategorio:Naskiĝintoj en 185
+分類:192年過世	Kategorio:Mortintoj en 192
+分類:199年過世	Kategorio:Mortintoj en 199
+分類:200年出世	Kategorio:Naskiĝintoj en 200
+分類:205年出世	Kategorio:Naskiĝintoj en 205
+分類:206年出世	Kategorio:Naskiĝintoj en 206
+分類:207年過世	Kategorio:Mortintoj en 207
+分類:208年出世	Kategorio:Naskiĝintoj en 208
+分類:209年	Kategorio:209
+分類:209年過世	Kategorio:Mortintoj en 209
+分類:211年過世	Kategorio:Mortintoj en 211
+分類:214年出世	Kategorio:Naskiĝintoj en 214
+分類:216年	Kategorio:216
+分類:216年出世	Kategorio:Naskiĝintoj en 216
+分類:217年過世	Kategorio:Mortintoj en 217
+分類:218年過世	Kategorio:Mortintoj en 218
+分類:220年過世	Kategorio:Mortintoj en 220
+分類:222年過世	Kategorio:Mortintoj en 222
+分類:232年出世	Kategorio:Naskiĝintoj en 232
+分類:235年過世	Kategorio:Mortintoj en 235
+分類:1002年	Kategorio:1002
+分類:240年出世	Kategorio:Naskiĝintoj en 240
+分類:240年過世	Kategorio:Mortintoj en 240
+分類:1007年	Kategorio:1007
+分類:253年過世	Kategorio:Mortintoj en 253
+分類:256年出世	Kategorio:Naskiĝintoj en 256
+分類:257年過世	Kategorio:Mortintoj en 257
+分類:259年過世	Kategorio:Mortintoj en 259
+分類:268年過世	Kategorio:Mortintoj en 268
+分類:270年過世	Kategorio:Mortintoj en 270
+分類:275年出世	Kategorio:Naskiĝintoj en 275
+分類:283年過世	Kategorio:Mortintoj en 283
+分類:303年過世	Kategorio:Mortintoj en 303
+分類:305年出世	Kategorio:Naskiĝintoj en 305
+分類:306年過世	Kategorio:Mortintoj en 306
+分類:1375年過世	Kategorio:Mortintoj en 1375
+分類:309年過世	Kategorio:Mortintoj en 309
+分類:311年過世	Kategorio:Mortintoj en 311
+分類:飲料	Kategorio:Trinkaĵoj
+分類:313年過世	Kategorio:Mortintoj en 313
+分類:1127年過世	Kategorio:Mortintoj en 1127
+分類:1321年過世	Kategorio:Mortintoj en 1321
+分類:320年過世	Kategorio:Mortintoj en 320
+分類:328年出世	Kategorio:Naskiĝintoj en 328
+分類:330年出世	Kategorio:Naskiĝintoj en 330
+分類:331年出世	Kategorio:Naskiĝintoj en 331
+分類:335年出世	Kategorio:Naskiĝintoj en 335
+分類:336年過世	Kategorio:Mortintoj en 336
+分類:340年出世	Kategorio:Naskiĝintoj en 340
+分類:345年出世	Kategorio:Naskiĝintoj en 345
+分類:347年出世	Kategorio:Naskiĝintoj en 347
+分類:350年出世	Kategorio:Naskiĝintoj en 350
+分類:352年過世	Kategorio:Mortintoj en 352
+分類:357年過世	Kategorio:Mortintoj en 357
+分類:360年出世	Kategorio:Naskiĝintoj en 360
+分類:363年過世	Kategorio:Mortintoj en 363
+分類:370年出世	Kategorio:Naskiĝintoj en 370
+分類:379年過世	Kategorio:Mortintoj en 379
+分類:383年過世	Kategorio:Mortintoj en 383
+分類:1652年過世	Kategorio:Mortintoj en 1652
+分類:1657年過世	Kategorio:Mortintoj en 1657
+分類:2005年過世	Kategorio:Mortintoj en 2005
+分類:386年出世	Kategorio:Naskiĝintoj en 386
+分類:387年過世	Kategorio:Mortintoj en 387
+分類:389年過世	Kategorio:Mortintoj en 389
+分類:395年過世	Kategorio:Mortintoj en 395
+分類:1983年出世	Kategorio:Naskiĝintoj en 1983
+分類:397年	Kategorio:397
+分類:397年過世	Kategorio:Mortintoj en 397
+分類:1617年出世	Kategorio:Naskiĝintoj en 1617
+分類:399年過世	Kategorio:Mortintoj en 399
+分類:400年出世	Kategorio:Naskiĝintoj en 400
+分類:401年過世	Kategorio:Mortintoj en 401
+分類:406年出世	Kategorio:Naskiĝintoj en 406
+分類:407年過世	Kategorio:Mortintoj en 407
+分類:412年出世	Kategorio:Naskiĝintoj en 412
+分類:1236年過世	Kategorio:Mortintoj en 1236
+分類:417年出世	Kategorio:Naskiĝintoj en 417
+分類:419年出世	Kategorio:Naskiĝintoj en 419
+分類:420年過世	Kategorio:Mortintoj en 420
+分類:547年過世	Kategorio:Mortintoj en 547
+分類:1592年過世	Kategorio:Mortintoj en 1592
+分類:428年過世	Kategorio:Mortintoj en 428
+分類:430年出世	Kategorio:Naskiĝintoj en 430
+分類:431年	Kategorio:431
+分類:432年過世	Kategorio:Mortintoj en 432
+分類:440年過世	Kategorio:Mortintoj en 440
+分類:450年過世	Kategorio:Mortintoj en 450
+分類:461年過世	Kategorio:Mortintoj en 461
+分類:466年出世	Kategorio:Naskiĝintoj en 466
+分類:483年	Kategorio:483
+分類:485年出世	Kategorio:Naskiĝintoj en 485
+分類:486年過世	Kategorio:Mortintoj en 486
+分類:498年出世	Kategorio:Naskiĝintoj en 498
+分類:1991年過世	Kategorio:Mortintoj en 1991
+分類:499年出世	Kategorio:Naskiĝintoj en 499
+分類:1992年過世	Kategorio:Mortintoj en 1992
+分類:502年過世	Kategorio:Mortintoj en 502
+分類:522年過世	Kategorio:Mortintoj en 522
+分類:525年出世	Kategorio:Naskiĝintoj en 525
+分類:526年過世	Kategorio:Mortintoj en 526
+分類:1992年出世	Kategorio:Naskiĝintoj en 1992
+分類:528年過世	Kategorio:Mortintoj en 528
+分類:533年	Kategorio:533
+分類:533年過世	Kategorio:Mortintoj en 533
+分類:534年過世	Kategorio:Mortintoj en 534
+分類:535年過世	Kategorio:Mortintoj en 535
+分類:539年出世	Kategorio:Naskiĝintoj en 539
+分類:544年過世	Kategorio:Mortintoj en 544
+分類:552年過世	Kategorio:Mortintoj en 552
+分類:555年過世	Kategorio:Mortintoj en 555
+分類:559年過世	Kategorio:Mortintoj en 559
+分類:560年出世	Kategorio:Naskiĝintoj en 560
+分類:565年	Kategorio:565
+分類:565年過世	Kategorio:Mortintoj en 565
+分類:570年過世	Kategorio:Mortintoj en 570
+分類:572年	Kategorio:572
+分類:572年過世	Kategorio:Mortintoj en 572
+分類:573年出世	Kategorio:Naskiĝintoj en 573
+分類:574年過世	Kategorio:Mortintoj en 574
+分類:576年出世	Kategorio:Naskiĝintoj en 576
+分類:579年	Kategorio:579
+分類:579年過世	Kategorio:Mortintoj en 579
+分類:581年	Kategorio:581
+分類:582年出世	Kategorio:Naskiĝintoj en 582
+分類:583年	Kategorio:583
+分類:588年過世	Kategorio:Mortintoj en 588
+分類:590年過世	Kategorio:Mortintoj en 590
+分類:591年過世	Kategorio:Mortintoj en 591
+分類:593年過世	Kategorio:Mortintoj en 593
+分類:597年過世	Kategorio:Mortintoj en 597
+分類:606年過世	Kategorio:Mortintoj en 606
+分類:610年過世	Kategorio:Mortintoj en 610
+分類:616年過世	Kategorio:Mortintoj en 616
+分類:624年過世	Kategorio:Mortintoj en 624
+分類:1907年過世	Kategorio:Mortintoj en 1907
+分類:630年出世	Kategorio:Naskiĝintoj en 630
+分類:1970年出世	Kategorio:Naskiĝintoj en 1970
+分類:1980年過世	Kategorio:Mortintoj en 1980
+分類:2008年過世	Kategorio:Mortintoj en 2008
+分類:633年過世	Kategorio:Mortintoj en 633
+分類:1986年過世	Kategorio:Mortintoj en 1986
+分類:1966年過世	Kategorio:Mortintoj en 1966
+分類:634年出世	Kategorio:Naskiĝintoj en 634
+分類:1946年過世	Kategorio:Mortintoj en 1946
+分類:1938年過世	Kategorio:Mortintoj en 1938
+分類:1984年出世	Kategorio:Naskiĝintoj en 1984
+分類:1962年過世	Kategorio:Mortintoj en 1962
+分類:1959年過世	Kategorio:Mortintoj en 1959
+分類:1943年過世	Kategorio:Mortintoj en 1943
+分類:1990年出世	Kategorio:Naskiĝintoj en 1990
+分類:1934年過世	Kategorio:Mortintoj en 1934
+分類:1949年過世	Kategorio:Mortintoj en 1949
+分類:641年過世	Kategorio:Mortintoj en 641
+分類:1974年出世	Kategorio:Naskiĝintoj en 1974
+分類:1947年過世	Kategorio:Mortintoj en 1947
+分類:1911年過世	Kategorio:Mortintoj en 1911
+分類:1903年過世	Kategorio:Mortintoj en 1903
+分類:643年過世	Kategorio:Mortintoj en 643
+分類:2007年過世	Kategorio:Mortintoj en 2007
+分類:646年出世	Kategorio:Naskiĝintoj en 646
+分類:1965年出世	Kategorio:Naskiĝintoj en 1965
+分類:1940年出世	Kategorio:Naskiĝintoj en 1940
+分類:647年過世	Kategorio:Mortintoj en 647
+分類:1898年出世	Kategorio:Naskiĝintoj en 1898
+分類:1863年出世	Kategorio:Naskiĝintoj en 1863
+分類:1867年出世	Kategorio:Naskiĝintoj en 1867
+分類:649年過世	Kategorio:Mortintoj en 649
+分類:1871年出世	Kategorio:Naskiĝintoj en 1871
+分類:1862年出世	Kategorio:Naskiĝintoj en 1862
+分類:1977年出世	Kategorio:Naskiĝintoj en 1977
+分類:651年過世	Kategorio:Mortintoj en 651
+分類:1845年	Kategorio:1845
+分類:1899年出世	Kategorio:Naskiĝintoj en 1899
+分類:1844年	Kategorio:1844
+分類:653年過世	Kategorio:Mortintoj en 653
+分類:654年出世	Kategorio:Naskiĝintoj en 654
+分類:655年過世	Kategorio:Mortintoj en 655
+分類:660年出世	Kategorio:Naskiĝintoj en 660
+分類:1931年出世	Kategorio:Naskiĝintoj en 1931
+分類:1915年出世	Kategorio:Naskiĝintoj en 1915
+分類:1929年出世	Kategorio:Naskiĝintoj en 1929
+分類:664年過世	Kategorio:Mortintoj en 664
+分類:669年出世	Kategorio:Naskiĝintoj en 669
+分類:670年過世	Kategorio:Mortintoj en 670
+分類:673年過世	Kategorio:Mortintoj en 673
+分類:676年過世	Kategorio:Mortintoj en 676
+分類:679年過世	Kategorio:Mortintoj en 679
+分類:686年	Kategorio:686
+分類:686年過世	Kategorio:Mortintoj en 686
+分類:690年過世	Kategorio:Mortintoj en 690
+分類:693年過世	Kategorio:Mortintoj en 693
+分類:695年過世	Kategorio:Mortintoj en 695
+分類:697年過世	Kategorio:Mortintoj en 697
+分類:699年	Kategorio:699
+分類:699年過世	Kategorio:Mortintoj en 699
+分類:700年出世	Kategorio:Naskiĝintoj en 700
+分類:704年過世	Kategorio:Mortintoj en 704
+分類:709年過世	Kategorio:Mortintoj en 709
+分類:711年過世	Kategorio:Mortintoj en 711
+分類:712年出世	Kategorio:Naskiĝintoj en 712
+分類:713年過世	Kategorio:Mortintoj en 713
+分類:714年出世	Kategorio:Naskiĝintoj en 714
+分類:715年過世	Kategorio:Mortintoj en 715
+分類:717年過世	Kategorio:Mortintoj en 717
+分類:721年過世	Kategorio:Mortintoj en 721
+分類:723年過世	Kategorio:Mortintoj en 723
+分類:731年過世	Kategorio:Mortintoj en 731
+分類:735年過世	Kategorio:Mortintoj en 735
+分類:739年過世	Kategorio:Mortintoj en 739
+分類:741年	Kategorio:741
+分類:741年過世	Kategorio:Mortintoj en 741
+分類:742年出世	Kategorio:Naskiĝintoj en 742
+分類:749年過世	Kategorio:Mortintoj en 749
+分類:754年過世	Kategorio:Mortintoj en 754
+分類:756年過世	Kategorio:Mortintoj en 756
+分類:767年	Kategorio:767
+分類:767年過世	Kategorio:Mortintoj en 767
+分類:770年過世	Kategorio:Mortintoj en 770
+分類:778年出世	Kategorio:Naskiĝintoj en 778
+分類:780年出世	Kategorio:Naskiĝintoj en 780
+分類:1363年過世	Kategorio:Mortintoj en 1363
+分類:786年出世	Kategorio:Naskiĝintoj en 786
+分類:787年	Kategorio:787
+分類:788年出世	Kategorio:Naskiĝintoj en 788
+分類:794年過世	Kategorio:Mortintoj en 794
+分類:632年過世	Kategorio:Mortintoj en 632
+分類:796年過世	Kategorio:Mortintoj en 796
+分類:799年過世	Kategorio:Mortintoj en 799
+分類:808年出世	Kategorio:Naskiĝintoj en 808
+分類:809年過世	Kategorio:Mortintoj en 809
+分類:1954年出世	Kategorio:Naskiĝintoj en 1954
+分類:820年出世	Kategorio:Naskiĝintoj en 820
+分類:821年過世	Kategorio:Mortintoj en 821
+分類:825年出世	Kategorio:Naskiĝintoj en 825
+分類:839年出世	Kategorio:Naskiĝintoj en 839
+分類:840年過世	Kategorio:Mortintoj en 840
+分類:841年出世	Kategorio:Naskiĝintoj en 841
+分類:842年	Kategorio:842
+分類:842年過世	Kategorio:Mortintoj en 842
+分類:844年過世	Kategorio:Mortintoj en 844
+分類:845年出世	Kategorio:Naskiĝintoj en 845
+分類:846年過世	Kategorio:Mortintoj en 846
+分類:849年出世	Kategorio:Naskiĝintoj en 849
+分類:850年出世	Kategorio:Naskiĝintoj en 850
+分類:851年過世	Kategorio:Mortintoj en 851
+分類:856年過世	Kategorio:Mortintoj en 856
+分類:858年出世	Kategorio:Naskiĝintoj en 858
+分類:860年出世	Kategorio:Naskiĝintoj en 860
+分類:867年出世	Kategorio:Naskiĝintoj en 867
+分類:1980年代出世	Kategorio:Naskiĝintoj en 1980-1989
+分類:869年出世	Kategorio:Naskiĝintoj en 869
+分類:870年過世	Kategorio:Mortintoj en 870
+分類:獎勵	Kategorio:Premioj
+分類:875年出世	Kategorio:Naskiĝintoj en 875
+分類:876年過世	Kategorio:Mortintoj en 876
+分類:878年出世	Kategorio:Naskiĝintoj en 878
+分類:879年出世	Kategorio:Naskiĝintoj en 879
+分類:2000年代過世	Kategorio:Mortintoj en 2000-2009
+分類:1890年代出世	Kategorio:Naskiĝintoj en 1890-1899
+分類:885年過世	Kategorio:Mortintoj en 885
+分類:888年出世	Kategorio:Naskiĝintoj en 888
+分類:890年過世	Kategorio:Mortintoj en 890
+分類:891年過世	Kategorio:Mortintoj en 891
+分類:893年過世	Kategorio:Mortintoj en 893
+分類:894年出世	Kategorio:Naskiĝintoj en 894
+分類:897年過世	Kategorio:Mortintoj en 897
+分類:898年過世	Kategorio:Mortintoj en 898
+分類:899年過世	Kategorio:Mortintoj en 899
+分類:900年過世	Kategorio:Mortintoj en 900
+分類:905年	Kategorio:905
+分類:905年出世	Kategorio:Naskiĝintoj en 905
+分類:905年過世	Kategorio:Mortintoj en 905
+分類:1960年出世	Kategorio:Naskiĝintoj en 1960
+分類:907年過世	Kategorio:Mortintoj en 907
+分類:910年出世	Kategorio:Naskiĝintoj en 910
+分類:912年出世	Kategorio:Naskiĝintoj en 912
+分類:912年過世	Kategorio:Mortintoj en 912
+分類:915年出世	Kategorio:Naskiĝintoj en 915
+分類:918年過世	Kategorio:Mortintoj en 918
+分類:921年出世	Kategorio:Naskiĝintoj en 921
+分類:921年過世	Kategorio:Mortintoj en 921
+分類:924年過世	Kategorio:Mortintoj en 924
+分類:925年出世	Kategorio:Naskiĝintoj en 925
+分類:929年過世	Kategorio:Mortintoj en 929
+分類:930年過世	Kategorio:Mortintoj en 930
+分類:932年過世	Kategorio:Mortintoj en 932
+分類:935年出世	Kategorio:Naskiĝintoj en 935
+分類:937年	Kategorio:937
+分類:937年出世	Kategorio:Naskiĝintoj en 937
+分類:938年出世	Kategorio:Naskiĝintoj en 938
+分類:939年出世	Kategorio:Naskiĝintoj en 939
+分類:941年出世	Kategorio:Naskiĝintoj en 941
+分類:942年過世	Kategorio:Mortintoj en 942
+分類:945年出世	Kategorio:Naskiĝintoj en 945
+分類:946年	Kategorio:946
+分類:946年過世	Kategorio:Mortintoj en 946
+分類:950年出世	Kategorio:Naskiĝintoj en 950
+分類:952年出世	Kategorio:Naskiĝintoj en 952
+分類:954年出世	Kategorio:Naskiĝintoj en 954
+分類:955年出世	Kategorio:Naskiĝintoj en 955
+分類:956年過世	Kategorio:Mortintoj en 956
+分類:957年出世	Kategorio:Naskiĝintoj en 957
+分類:958年出世	Kategorio:Naskiĝintoj en 958
+分類:959年	Kategorio:959
+分類:959年過世	Kategorio:Mortintoj en 959
+分類:961年出世	Kategorio:Naskiĝintoj en 961
+分類:962年	Kategorio:962
+分類:962年出世	Kategorio:Naskiĝintoj en 962
+分類:965年出世	Kategorio:Naskiĝintoj en 965
+分類:966年出世	Kategorio:Naskiĝintoj en 966
+分類:966年過世	Kategorio:Mortintoj en 966
+分類:969年出世	Kategorio:Naskiĝintoj en 969
+分類:970年出世	Kategorio:Naskiĝintoj en 970
+分類:972年	Kategorio:972
+分類:972年過世	Kategorio:Mortintoj en 972
+分類:973年出世	Kategorio:Naskiĝintoj en 973
+分類:973年過世	Kategorio:Mortintoj en 973
+分類:974年過世	Kategorio:Mortintoj en 974
+分類:977年過世	Kategorio:Mortintoj en 977
+分類:978年	Kategorio:978
+分類:978年過世	Kategorio:Mortintoj en 978
+分類:984年出世	Kategorio:Naskiĝintoj en 984
+分類:987年過世	Kategorio:Mortintoj en 987
+分類:990年出世	Kategorio:Naskiĝintoj en 990
+分類:990年過世	Kategorio:Mortintoj en 990
+分類:992年出世	Kategorio:Naskiĝintoj en 992
+分類:992年過世	Kategorio:Mortintoj en 992
+分類:993年過世	Kategorio:Mortintoj en 993
+分類:997年過世	Kategorio:Mortintoj en 997
+分類:999年出世	Kategorio:Naskiĝintoj en 999
+分類:999年過世	Kategorio:Mortintoj en 999
+分類:1000年過世	Kategorio:Mortintoj en 1000
+分類:1001年過世	Kategorio:Mortintoj en 1001
+分類:1002年出世	Kategorio:Naskiĝintoj en 1002
+分類:1004年出世	Kategorio:Naskiĝintoj en 1004
+分類:1005年出世	Kategorio:Naskiĝintoj en 1005
+分類:1007年出世	Kategorio:Naskiĝintoj en 1007
+分類:1008年出世	Kategorio:Naskiĝintoj en 1008
+分類:1009年出世	Kategorio:Naskiĝintoj en 1009
+分類:1012年過世	Kategorio:Mortintoj en 1012
+分類:1014年過世	Kategorio:Mortintoj en 1014
+分類:1015年出世	Kategorio:Naskiĝintoj en 1015
+分類:1015年過世	Kategorio:Mortintoj en 1015
+分類:1016年過世	Kategorio:Mortintoj en 1016
+分類:1017年過世	Kategorio:Mortintoj en 1017
+分類:1018年	Kategorio:1018
+分類:1018年出世	Kategorio:Naskiĝintoj en 1018
+分類:1021年過世	Kategorio:Mortintoj en 1021
+分類:1022年出世	Kategorio:Naskiĝintoj en 1022
+分類:1024年出世	Kategorio:Naskiĝintoj en 1024
+分類:1024年過世	Kategorio:Mortintoj en 1024
+分類:1025年出世	Kategorio:Naskiĝintoj en 1025
+分類:1025年過世	Kategorio:Mortintoj en 1025
+分類:1026年出世	Kategorio:Naskiĝintoj en 1026
+分類:1026年過世	Kategorio:Mortintoj en 1026
+分類:1027年過世	Kategorio:Mortintoj en 1027
+分類:1028年出世	Kategorio:Naskiĝintoj en 1028
+分類:1030年出世	Kategorio:Naskiĝintoj en 1030
+分類:1031年過世	Kategorio:Mortintoj en 1031
+分類:1032年出世	Kategorio:Naskiĝintoj en 1032
+分類:1032年過世	Kategorio:Mortintoj en 1032
+分類:1033年出世	Kategorio:Naskiĝintoj en 1033
+分類:1033年過世	Kategorio:Mortintoj en 1033
+分類:1036年過世	Kategorio:Mortintoj en 1036
+分類:1038年過世	Kategorio:Mortintoj en 1038
+分類:1040年出世	Kategorio:Naskiĝintoj en 1040
+分類:1040年過世	Kategorio:Mortintoj en 1040
+分類:1041年過世	Kategorio:Mortintoj en 1041
+分類:1042年過世	Kategorio:Mortintoj en 1042
+分類:1043年出世	Kategorio:Naskiĝintoj en 1043
+分類:1045年過世	Kategorio:Mortintoj en 1045
+分類:1046年出世	Kategorio:Naskiĝintoj en 1046
+分類:1048年過世	Kategorio:Mortintoj en 1048
+分類:1050年出世	Kategorio:Naskiĝintoj en 1050
+分類:1050年過世	Kategorio:Mortintoj en 1050
+分類:1051年出世	Kategorio:Naskiĝintoj en 1051
+分類:1051年過世	Kategorio:Mortintoj en 1051
+分類:1052年出世	Kategorio:Naskiĝintoj en 1052
+分類:1053年過世	Kategorio:Mortintoj en 1053
+分類:1054年過世	Kategorio:Mortintoj en 1054
+分類:1056年出世	Kategorio:Naskiĝintoj en 1056
+分類:1057年過世	Kategorio:Mortintoj en 1057
+分類:1058年過世	Kategorio:Mortintoj en 1058
+分類:1060年過世	Kategorio:Mortintoj en 1060
+分類:1061年過世	Kategorio:Mortintoj en 1061
+分類:1064年過世	Kategorio:Mortintoj en 1064
+分類:1065年過世	Kategorio:Mortintoj en 1065
+分類:1066年出世	Kategorio:Naskiĝintoj en 1066
+分類:1067年	Kategorio:1067
+分類:1067年過世	Kategorio:Mortintoj en 1067
+分類:1068年過世	Kategorio:Mortintoj en 1068
+分類:1070年出世	Kategorio:Naskiĝintoj en 1070
+分類:1071年	Kategorio:1071
+分類:1071年出世	Kategorio:Naskiĝintoj en 1071
+分類:1071年過世	Kategorio:Mortintoj en 1071
+分類:1073年出世	Kategorio:Naskiĝintoj en 1073
+分類:1073年過世	Kategorio:Mortintoj en 1073
+分類:1074年過世	Kategorio:Mortintoj en 1074
+分類:1075年過世	Kategorio:Mortintoj en 1075
+分類:1076年過世	Kategorio:Mortintoj en 1076
+分類:1078年過世	Kategorio:Mortintoj en 1078
+分類:1079年	Kategorio:1079
+分類:1079年出世	Kategorio:Naskiĝintoj en 1079
+分類:1079年過世	Kategorio:Mortintoj en 1079
+分類:1080年出世	Kategorio:Naskiĝintoj en 1080
+分類:1081年過世	Kategorio:Mortintoj en 1081
+分類:1083年	Kategorio:1083
+分類:1084年過世	Kategorio:Mortintoj en 1084
+分類:1085年出世	Kategorio:Naskiĝintoj en 1085
+分類:1085年過世	Kategorio:Mortintoj en 1085
+分類:1086年出世	Kategorio:Naskiĝintoj en 1086
+分類:1086年過世	Kategorio:Mortintoj en 1086
+分類:1087年出世	Kategorio:Naskiĝintoj en 1087
+分類:1087年過世	Kategorio:Mortintoj en 1087
+分類:1088年過世	Kategorio:Mortintoj en 1088
+分類:1089年過世	Kategorio:Mortintoj en 1089
+分類:1090年出世	Kategorio:Naskiĝintoj en 1090
+分類:1090年過世	Kategorio:Mortintoj en 1090
+分類:1091年過世	Kategorio:Mortintoj en 1091
+分類:1092年過世	Kategorio:Mortintoj en 1092
+分類:1094年出世	Kategorio:Naskiĝintoj en 1094
+分類:1095年	Kategorio:1095
+分類:1095年出世	Kategorio:Naskiĝintoj en 1095
+分類:1095年過世	Kategorio:Mortintoj en 1095
+分類:1096年出世	Kategorio:Naskiĝintoj en 1096
+分類:1096年過世	Kategorio:Mortintoj en 1096
+分類:1097年過世	Kategorio:Mortintoj en 1097
+分類:1098年出世	Kategorio:Naskiĝintoj en 1098
+分類:1098年過世	Kategorio:Mortintoj en 1098
+分類:1100年出世	Kategorio:Naskiĝintoj en 1100
+分類:1100年過世	Kategorio:Mortintoj en 1100
+分類:1101年過世	Kategorio:Mortintoj en 1101
+分類:1102年出世	Kategorio:Naskiĝintoj en 1102
+分類:1102年過世	Kategorio:Mortintoj en 1102
+分類:1103年過世	Kategorio:Mortintoj en 1103
+分類:1104年過世	Kategorio:Mortintoj en 1104
+分類:1106年過世	Kategorio:Mortintoj en 1106
+分類:1107年過世	Kategorio:Mortintoj en 1107
+分類:1108年過世	Kategorio:Mortintoj en 1108
+分類:1109年過世	Kategorio:Mortintoj en 1109
+分類:1110年出世	Kategorio:Naskiĝintoj en 1110
+分類:1110年過世	Kategorio:Mortintoj en 1110
+分類:1111年出世	Kategorio:Naskiĝintoj en 1111
+分類:1112年過世	Kategorio:Mortintoj en 1112
+分類:1113年出世	Kategorio:Naskiĝintoj en 1113
+分類:1113年過世	Kategorio:Mortintoj en 1113
+分類:1114年過世	Kategorio:Mortintoj en 1114
+分類:1115年過世	Kategorio:Mortintoj en 1115
+分類:1116年過世	Kategorio:Mortintoj en 1116
+分類:1117年過世	Kategorio:Mortintoj en 1117
+分類:1118年出世	Kategorio:Naskiĝintoj en 1118
+分類:1119年	Kategorio:1119
+分類:1119年過世	Kategorio:Mortintoj en 1119
+分類:1120年出世	Kategorio:Naskiĝintoj en 1120
+分類:1120年過世	Kategorio:Mortintoj en 1120
+分類:1121年出世	Kategorio:Naskiĝintoj en 1121
+分類:1121年過世	Kategorio:Mortintoj en 1121
+分類:1122年出世	Kategorio:Naskiĝintoj en 1122
+分類:1122年過世	Kategorio:Mortintoj en 1122
+分類:1124年過世	Kategorio:Mortintoj en 1124
+分類:1125年過世	Kategorio:Mortintoj en 1125
+分類:1126年出世	Kategorio:Naskiĝintoj en 1126
+分類:1126年過世	Kategorio:Mortintoj en 1126
+分類:1128年過世	Kategorio:Mortintoj en 1128
+分類:1129年	Kategorio:1129
+分類:1129年出世	Kategorio:Naskiĝintoj en 1129
+分類:1129年過世	Kategorio:Mortintoj en 1129
+分類:1130年出世	Kategorio:Naskiĝintoj en 1130
+分類:1130年過世	Kategorio:Mortintoj en 1130
+分類:1131年出世	Kategorio:Naskiĝintoj en 1131
+分類:1132年過世	Kategorio:Mortintoj en 1132
+分類:1133年出世	Kategorio:Naskiĝintoj en 1133
+分類:1133年過世	Kategorio:Mortintoj en 1133
+分類:1134年出世	Kategorio:Naskiĝintoj en 1134
+分類:1134年過世	Kategorio:Mortintoj en 1134
+分類:1830年過世	Kategorio:Mortintoj en 1830
+分類:1135年出世	Kategorio:Naskiĝintoj en 1135
+分類:1135年過世	Kategorio:Mortintoj en 1135
+分類:1990年代過世	Kategorio:Mortintoj en 1990-1999
+分類:1136年出世	Kategorio:Naskiĝintoj en 1136
+分類:1136年過世	Kategorio:Mortintoj en 1136
+分類:1137年出世	Kategorio:Naskiĝintoj en 1137
+分類:1137年過世	Kategorio:Mortintoj en 1137
+分類:1138年	Kategorio:1138
+分類:1138年過世	Kategorio:Mortintoj en 1138
+分類:1139年過世	Kategorio:Mortintoj en 1139
+分類:1140年出世	Kategorio:Naskiĝintoj en 1140
+分類:1140年過世	Kategorio:Mortintoj en 1140
+分類:1141年	Kategorio:1141
+分類:1141年過世	Kategorio:Mortintoj en 1141
+分類:1142年過世	Kategorio:Mortintoj en 1142
+分類:1143年	Kategorio:1143
+分類:1144年過世	Kategorio:Mortintoj en 1144
+分類:1980年代過世	Kategorio:Mortintoj en 1980-1989
+分類:1145年出世	Kategorio:Naskiĝintoj en 1145
+分類:1145年過世	Kategorio:Mortintoj en 1145
+分類:1146年出世	Kategorio:Naskiĝintoj en 1146
+分類:1146年過世	Kategorio:Mortintoj en 1146
+分類:1147年	Kategorio:1147
+分類:1147年出世	Kategorio:Naskiĝintoj en 1147
+分類:1147年過世	Kategorio:Mortintoj en 1147
+分類:1148年	Kategorio:1148
+分類:1148年過世	Kategorio:Mortintoj en 1148
+分類:1149年過世	Kategorio:Mortintoj en 1149
+分類:1150年出世	Kategorio:Naskiĝintoj en 1150
+分類:1151年過世	Kategorio:Mortintoj en 1151
+分類:1152年	Kategorio:1152
+分類:1152年過世	Kategorio:Mortintoj en 1152
+分類:1153年過世	Kategorio:Mortintoj en 1153
+分類:1993年過世	Kategorio:Mortintoj en 1993
+分類:1154年出世	Kategorio:Naskiĝintoj en 1154
+分類:1154年過世	Kategorio:Mortintoj en 1154
+分類:1155年出世	Kategorio:Naskiĝintoj en 1155
+分類:1155年過世	Kategorio:Mortintoj en 1155
+分類:1156年出世	Kategorio:Naskiĝintoj en 1156
+分類:1157年過世	Kategorio:Mortintoj en 1157
+分類:1158年出世	Kategorio:Naskiĝintoj en 1158
+分類:1159年過世	Kategorio:Mortintoj en 1159
+分類:1998年過世	Kategorio:Mortintoj en 1998
+分類:1160年出世	Kategorio:Naskiĝintoj en 1160
+分類:1160年過世	Kategorio:Mortintoj en 1160
+分類:1161年過世	Kategorio:Mortintoj en 1161
+分類:1162年	Kategorio:1162
+分類:1162年過世	Kategorio:Mortintoj en 1162
+分類:1163年過世	Kategorio:Mortintoj en 1163
+分類:1165年出世	Kategorio:Naskiĝintoj en 1165
+分類:1166年	Kategorio:1166
+分類:1166年過世	Kategorio:Mortintoj en 1166
+分類:1167年出世	Kategorio:Naskiĝintoj en 1167
+分類:1167年過世	Kategorio:Mortintoj en 1167
+分類:1170年出世	Kategorio:Naskiĝintoj en 1170
+分類:1170年過世	Kategorio:Mortintoj en 1170
+分類:1171年出世	Kategorio:Naskiĝintoj en 1171
+分類:1172年過世	Kategorio:Mortintoj en 1172
+分類:1173年過世	Kategorio:Mortintoj en 1173
+分類:1174年出世	Kategorio:Naskiĝintoj en 1174
+分類:1175年出世	Kategorio:Naskiĝintoj en 1175
+分類:1176年過世	Kategorio:Mortintoj en 1176
+分類:1177年	Kategorio:1177
+分類:1177年出世	Kategorio:Naskiĝintoj en 1177
+分類:1177年過世	Kategorio:Mortintoj en 1177
+分類:1178年出世	Kategorio:Naskiĝintoj en 1178
+分類:1178年過世	Kategorio:Mortintoj en 1178
+分類:1180年出世	Kategorio:Naskiĝintoj en 1180
+分類:1181年	Kategorio:1181
+分類:1181年出世	Kategorio:Naskiĝintoj en 1181
+分類:1181年過世	Kategorio:Mortintoj en 1181
+分類:1182年出世	Kategorio:Naskiĝintoj en 1182
+分類:1184年出世	Kategorio:Naskiĝintoj en 1184
+分類:1184年過世	Kategorio:Mortintoj en 1184
+分類:1185年出世	Kategorio:Naskiĝintoj en 1185
+分類:1185年過世	Kategorio:Mortintoj en 1185
+分類:1186年過世	Kategorio:Mortintoj en 1186
+分類:1187年出世	Kategorio:Naskiĝintoj en 1187
+分類:1188年過世	Kategorio:Mortintoj en 1188
+分類:1189年出世	Kategorio:Naskiĝintoj en 1189
+分類:1189年過世	Kategorio:Mortintoj en 1189
+分類:1190年出世	Kategorio:Naskiĝintoj en 1190
+分類:1191年	Kategorio:1191
+分類:1191年出世	Kategorio:Naskiĝintoj en 1191
+分類:1192年	Kategorio:1192
+分類:1192年出世	Kategorio:Naskiĝintoj en 1192
+分類:1192年過世	Kategorio:Mortintoj en 1192
+分類:1193年過世	Kategorio:Mortintoj en 1193
+分類:1194年出世	Kategorio:Naskiĝintoj en 1194
+分類:1195年過世	Kategorio:Mortintoj en 1195
+分類:1197年過世	Kategorio:Mortintoj en 1197
+分類:1198年過世	Kategorio:Mortintoj en 1198
+分類:1199年出世	Kategorio:Naskiĝintoj en 1199
+分類:1200年過世	Kategorio:Mortintoj en 1200
+分類:1201年	Kategorio:1201
+分類:1201年出世	Kategorio:Naskiĝintoj en 1201
+分類:1201年過世	Kategorio:Mortintoj en 1201
+分類:1203年出世	Kategorio:Naskiĝintoj en 1203
+分類:1203年過世	Kategorio:Mortintoj en 1203
+分類:1204年過世	Kategorio:Mortintoj en 1204
+分類:1205年出世	Kategorio:Naskiĝintoj en 1205
+分類:1206年過世	Kategorio:Mortintoj en 1206
+分類:1207年出世	Kategorio:Naskiĝintoj en 1207
+分類:1208年出世	Kategorio:Naskiĝintoj en 1208
+分類:1208年過世	Kategorio:Mortintoj en 1208
+分類:1209年出世	Kategorio:Naskiĝintoj en 1209
+分類:1210年出世	Kategorio:Naskiĝintoj en 1210
+分類:1211年出世	Kategorio:Naskiĝintoj en 1211
+分類:1212年	Kategorio:1212
+分類:1212年過世	Kategorio:Mortintoj en 1212
+分類:1213年過世	Kategorio:Mortintoj en 1213
+分類:1214年出世	Kategorio:Naskiĝintoj en 1214
+分類:1214年過世	Kategorio:Mortintoj en 1214
+分類:1215年	Kategorio:1215
+分類:1217年出世	Kategorio:Naskiĝintoj en 1217
+分類:1218年過世	Kategorio:Mortintoj en 1218
+分類:1220年出世	Kategorio:Naskiĝintoj en 1220
+分類:1221年出世	Kategorio:Naskiĝintoj en 1221
+分類:1222年過世	Kategorio:Mortintoj en 1222
+分類:1223年出世	Kategorio:Naskiĝintoj en 1223
+分類:1224年出世	Kategorio:Naskiĝintoj en 1224
+分類:1225年出世	Kategorio:Naskiĝintoj en 1225
+分類:1226年	Kategorio:1226
+分類:1226年過世	Kategorio:Mortintoj en 1226
+分類:1227年過世	Kategorio:Mortintoj en 1227
+分類:1230年出世	Kategorio:Naskiĝintoj en 1230
+分類:1951年出世	Kategorio:Naskiĝintoj en 1951
+分類:1231年過世	Kategorio:Mortintoj en 1231
+分類:1235年出世	Kategorio:Naskiĝintoj en 1235
+分類:1235年過世	Kategorio:Mortintoj en 1235
+分類:1236年出世	Kategorio:Naskiĝintoj en 1236
+分類:1237年出世	Kategorio:Naskiĝintoj en 1237
+分類:1238年過世	Kategorio:Mortintoj en 1238
+分類:1239年出世	Kategorio:Naskiĝintoj en 1239
+分類:1240年出世	Kategorio:Naskiĝintoj en 1240
+分類:1242年	Kategorio:1242
+分類:1242年出世	Kategorio:Naskiĝintoj en 1242
+分類:1243年出世	Kategorio:Naskiĝintoj en 1243
+分類:1244年	Kategorio:1244
+分類:1205年過世	Kategorio:Mortintoj en 1205
+分類:1246年出世	Kategorio:Naskiĝintoj en 1246
+分類:1247年出世	Kategorio:Naskiĝintoj en 1247
+分類:1248年過世	Kategorio:Mortintoj en 1248
+分類:1249年	Kategorio:1249
+分類:1249年出世	Kategorio:Naskiĝintoj en 1249
+分類:1250年出世	Kategorio:Naskiĝintoj en 1250
+分類:1250年過世	Kategorio:Mortintoj en 1250
+分類:1253年出世	Kategorio:Naskiĝintoj en 1253
+分類:1253年過世	Kategorio:Mortintoj en 1253
+分類:1254年出世	Kategorio:Naskiĝintoj en 1254
+分類:1254年過世	Kategorio:Mortintoj en 1254
+分類:1255年出世	Kategorio:Naskiĝintoj en 1255
+分類:1881年過世	Kategorio:Mortintoj en 1881
+分類:1882年過世	Kategorio:Mortintoj en 1882
+分類:1259年出世	Kategorio:Naskiĝintoj en 1259
+分類:1260年出世	Kategorio:Naskiĝintoj en 1260
+分類:1260年過世	Kategorio:Mortintoj en 1260
+分類:1261年出世	Kategorio:Naskiĝintoj en 1261
+分類:1883年過世	Kategorio:Mortintoj en 1883
+分類:1261年過世	Kategorio:Mortintoj en 1261
+分類:1263年過世	Kategorio:Mortintoj en 1263
+分類:1265年出世	Kategorio:Naskiĝintoj en 1265
+分類:1266年	Kategorio:1266
+分類:1266年出世	Kategorio:Naskiĝintoj en 1266
+分類:1266年過世	Kategorio:Mortintoj en 1266
+分類:1268年出世	Kategorio:Naskiĝintoj en 1268
+分類:1268年過世	Kategorio:Mortintoj en 1268
+分類:1270年過世	Kategorio:Mortintoj en 1270
+分類:1271年過世	Kategorio:Mortintoj en 1271
+分類:1272年出世	Kategorio:Naskiĝintoj en 1272
+分類:1272年過世	Kategorio:Mortintoj en 1272
+分類:1273年過世	Kategorio:Mortintoj en 1273
+分類:1274年出世	Kategorio:Naskiĝintoj en 1274
+分類:1274年過世	Kategorio:Mortintoj en 1274
+分類:1276年過世	Kategorio:Mortintoj en 1276
+分類:1277年出世	Kategorio:Naskiĝintoj en 1277
+分類:1277年過世	Kategorio:Mortintoj en 1277
+分類:1278年出世	Kategorio:Naskiĝintoj en 1278
+分類:1278年過世	Kategorio:Mortintoj en 1278
+分類:1280年過世	Kategorio:Mortintoj en 1280
+分類:1281年	Kategorio:1281
+分類:1281年出世	Kategorio:Naskiĝintoj en 1281
+分類:1282年出世	Kategorio:Naskiĝintoj en 1282
+分類:1283年出世	Kategorio:Naskiĝintoj en 1283
+分類:1284年出世	Kategorio:Naskiĝintoj en 1284
+分類:1285年過世	Kategorio:Mortintoj en 1285
+分類:1286年出世	Kategorio:Naskiĝintoj en 1286
+分類:1286年過世	Kategorio:Mortintoj en 1286
+分類:1288年出世	Kategorio:Naskiĝintoj en 1288
+分類:1289年出世	Kategorio:Naskiĝintoj en 1289
+分類:1290年過世	Kategorio:Mortintoj en 1290
+分類:1291年出世	Kategorio:Naskiĝintoj en 1291
+分類:1292年過世	Kategorio:Mortintoj en 1292
+分類:1293年出世	Kategorio:Naskiĝintoj en 1293
+分類:1294年出世	Kategorio:Naskiĝintoj en 1294
+分類:1294年過世	Kategorio:Mortintoj en 1294
+分類:1296年出世	Kategorio:Naskiĝintoj en 1296
+分類:1296年過世	Kategorio:Mortintoj en 1296
+分類:1297年出世	Kategorio:Naskiĝintoj en 1297
+分類:1298年	Kategorio:1298
+分類:1298年過世	Kategorio:Mortintoj en 1298
+分類:1300年出世	Kategorio:Naskiĝintoj en 1300
+分類:1910年代	Kategorio:1910-1919
+分類:1920年代	Kategorio:1920-1929
+分類:1301年過世	Kategorio:Mortintoj en 1301
+分類:1302年出世	Kategorio:Naskiĝintoj en 1302
+分類:1950年代	Kategorio:1950-1959
+分類:1303年	Kategorio:1303
+分類:1303年過世	Kategorio:Mortintoj en 1303
+分類:1304年出世	Kategorio:Naskiĝintoj en 1304
+分類:1990年代	Kategorio:1990-1999
+分類:2000年代	Kategorio:2000-aj jaroj
+分類:1305年出世	Kategorio:Naskiĝintoj en 1305
+分類:2010年代	Kategorio:2010-aj jaroj
+分類:1305年過世	Kategorio:Mortintoj en 1305
+分類:2020年代	Kategorio:2020-aj jaroj
+分類:1308年出世	Kategorio:Naskiĝintoj en 1308
+分類:1309年過世	Kategorio:Mortintoj en 1309
+分類:1310年過世	Kategorio:Mortintoj en 1310
+分類:1311年	Kategorio:1311
+分類:1311年過世	Kategorio:Mortintoj en 1311
+分類:1312年出世	Kategorio:Naskiĝintoj en 1312
+分類:1313年過世	Kategorio:Mortintoj en 1313
+分類:1314年過世	Kategorio:Mortintoj en 1314
+分類:1315年過世	Kategorio:Mortintoj en 1315
+分類:1316年出世	Kategorio:Naskiĝintoj en 1316
+分類:1316年過世	Kategorio:Mortintoj en 1316
+分類:1317年過世	Kategorio:Mortintoj en 1317
+分類:1318年出世	Kategorio:Naskiĝintoj en 1318
+分類:1318年過世	Kategorio:Mortintoj en 1318
+分類:1319年過世	Kategorio:Mortintoj en 1319
+分類:1320年過世	Kategorio:Mortintoj en 1320
+分類:1322年過世	Kategorio:Mortintoj en 1322
+分類:1323年過世	Kategorio:Mortintoj en 1323
+分類:1325年出世	Kategorio:Naskiĝintoj en 1325
+分類:1325年過世	Kategorio:Mortintoj en 1325
+分類:1326年出世	Kategorio:Naskiĝintoj en 1326
+分類:1327年出世	Kategorio:Naskiĝintoj en 1327
+分類:1329年過世	Kategorio:Mortintoj en 1329
+分類:1330年出世	Kategorio:Naskiĝintoj en 1330
+分類:1330年過世	Kategorio:Mortintoj en 1330
+分類:1331年過世	Kategorio:Mortintoj en 1331
+分類:1332年過世	Kategorio:Mortintoj en 1332
+分類:1333年出世	Kategorio:Naskiĝintoj en 1333
+分類:1333年過世	Kategorio:Mortintoj en 1333
+分類:1334年出世	Kategorio:Naskiĝintoj en 1334
+分類:1336年過世	Kategorio:Mortintoj en 1336
+分類:1338年出世	Kategorio:Naskiĝintoj en 1338
+分類:1338年過世	Kategorio:Mortintoj en 1338
+分類:1339年出世	Kategorio:Naskiĝintoj en 1339
+分類:1339年過世	Kategorio:Mortintoj en 1339
+分類:1340年出世	Kategorio:Naskiĝintoj en 1340
+分類:1340年過世	Kategorio:Mortintoj en 1340
+分類:1341年過世	Kategorio:Mortintoj en 1341
+分類:764年過世	Kategorio:Mortintoj en 764
+分類:1342年過世	Kategorio:Mortintoj en 1342
+分類:1343年過世	Kategorio:Mortintoj en 1343
+分類:1344年過世	Kategorio:Mortintoj en 1344
+分類:1345年出世	Kategorio:Naskiĝintoj en 1345
+分類:1345年過世	Kategorio:Mortintoj en 1345
+分類:1346年過世	Kategorio:Mortintoj en 1346
+分類:1347年出世	Kategorio:Naskiĝintoj en 1347
+分類:1347年過世	Kategorio:Mortintoj en 1347
+分類:1348年過世	Kategorio:Mortintoj en 1348
+分類:1349年過世	Kategorio:Mortintoj en 1349
+分類:1350年過世	Kategorio:Mortintoj en 1350
+分類:1351年出世	Kategorio:Naskiĝintoj en 1351
+分類:1351年過世	Kategorio:Mortintoj en 1351
+分類:1352年出世	Kategorio:Naskiĝintoj en 1352
+分類:1352年過世	Kategorio:Mortintoj en 1352
+分類:1353年出世	Kategorio:Naskiĝintoj en 1353
+分類:1354年過世	Kategorio:Mortintoj en 1354
+分類:1355年出世	Kategorio:Naskiĝintoj en 1355
+分類:1356年出世	Kategorio:Naskiĝintoj en 1356
+分類:1356年過世	Kategorio:Mortintoj en 1356
+分類:1358年過世	Kategorio:Mortintoj en 1358
+分類:1359年出世	Kategorio:Naskiĝintoj en 1359
+分類:1359年過世	Kategorio:Mortintoj en 1359
+分類:1360年出世	Kategorio:Naskiĝintoj en 1360
+分類:1361年出世	Kategorio:Naskiĝintoj en 1361
+分類:1361年過世	Kategorio:Mortintoj en 1361
+分類:1362年出世	Kategorio:Naskiĝintoj en 1362
+分類:1362年過世	Kategorio:Mortintoj en 1362
+分類:1363年出世	Kategorio:Naskiĝintoj en 1363
+分類:1364年	Kategorio:1364
+分類:1364年過世	Kategorio:Mortintoj en 1364
+分類:1365年過世	Kategorio:Mortintoj en 1365
+分類:1366年	Kategorio:1366
+分類:1366年出世	Kategorio:Naskiĝintoj en 1366
+分類:1367年過世	Kategorio:Mortintoj en 1367
+分類:1368年出世	Kategorio:Naskiĝintoj en 1368
+分類:1368年過世	Kategorio:Mortintoj en 1368
+分類:1369年過世	Kategorio:Mortintoj en 1369
+分類:1370年過世	Kategorio:Mortintoj en 1370
+分類:1371年出世	Kategorio:Naskiĝintoj en 1371
+分類:1371年過世	Kategorio:Mortintoj en 1371
+分類:1372年出世	Kategorio:Naskiĝintoj en 1372
+分類:1373年過世	Kategorio:Mortintoj en 1373
+分類:1374年出世	Kategorio:Naskiĝintoj en 1374
+分類:1374年過世	Kategorio:Mortintoj en 1374
+分類:1375年	Kategorio:1375
+分類:1376年出世	Kategorio:Naskiĝintoj en 1376
+分類:1377年出世	Kategorio:Naskiĝintoj en 1377
+分類:1378年過世	Kategorio:Mortintoj en 1378
+分類:1379年過世	Kategorio:Mortintoj en 1379
+分類:1380年出世	Kategorio:Naskiĝintoj en 1380
+分類:1380年過世	Kategorio:Mortintoj en 1380
+分類:1381年過世	Kategorio:Mortintoj en 1381
+分類:1382年出世	Kategorio:Naskiĝintoj en 1382
+分類:1383年過世	Kategorio:Mortintoj en 1383
+分類:1385年過世	Kategorio:Mortintoj en 1385
+分類:1386年	Kategorio:1386
+分類:1386年出世	Kategorio:Naskiĝintoj en 1386
+分類:1386年過世	Kategorio:Mortintoj en 1386
+分類:1387年出世	Kategorio:Naskiĝintoj en 1387
+分類:1387年過世	Kategorio:Mortintoj en 1387
+分類:1388年出世	Kategorio:Naskiĝintoj en 1388
+分類:1388年過世	Kategorio:Mortintoj en 1388
+分類:1389年過世	Kategorio:Mortintoj en 1389
+分類:1390年出世	Kategorio:Naskiĝintoj en 1390
+分類:1391年出世	Kategorio:Naskiĝintoj en 1391
+分類:1391年過世	Kategorio:Mortintoj en 1391
+分類:1503年	Kategorio:1503
+分類:1392年過世	Kategorio:Mortintoj en 1392
+分類:1394年出世	Kategorio:Naskiĝintoj en 1394
+分類:1394年過世	Kategorio:Mortintoj en 1394
+分類:1395年出世	Kategorio:Naskiĝintoj en 1395
+分類:1529年	Kategorio:1529
+分類:1396年出世	Kategorio:Naskiĝintoj en 1396
+分類:1397年出世	Kategorio:Naskiĝintoj en 1397
+分類:1397年過世	Kategorio:Mortintoj en 1397
+分類:1398年出世	Kategorio:Naskiĝintoj en 1398
+分類:1398年過世	Kategorio:Mortintoj en 1398
+分類:1399年過世	Kategorio:Mortintoj en 1399
+分類:1400年出世	Kategorio:Naskiĝintoj en 1400
+分類:1528年	Kategorio:1528
+分類:1401年	Kategorio:1401
+分類:1523年	Kategorio:1523
+分類:1401年出世	Kategorio:Naskiĝintoj en 1401
+分類:1401年過世	Kategorio:Mortintoj en 1401
+分類:1402年出世	Kategorio:Naskiĝintoj en 1402
+分類:1402年過世	Kategorio:Mortintoj en 1402
+分類:1403年出世	Kategorio:Naskiĝintoj en 1403
+分類:1403年過世	Kategorio:Mortintoj en 1403
+分類:1404年	Kategorio:1404
+分類:1404年出世	Kategorio:Naskiĝintoj en 1404
+分類:1405年	Kategorio:1405
+分類:1405年出世	Kategorio:Naskiĝintoj en 1405
+分類:1406年	Kategorio:1406
+分類:1406年過世	Kategorio:Mortintoj en 1406
+分類:1407年過世	Kategorio:Mortintoj en 1407
+分類:1408年	Kategorio:1408
+分類:1408年出世	Kategorio:Naskiĝintoj en 1408
+分類:1516年	Kategorio:1516
+分類:1409年出世	Kategorio:Naskiĝintoj en 1409
+分類:1409年過世	Kategorio:Mortintoj en 1409
+分類:1410年過世	Kategorio:Mortintoj en 1410
+分類:1411年出世	Kategorio:Naskiĝintoj en 1411
+分類:1411年過世	Kategorio:Mortintoj en 1411
+分類:1412年出世	Kategorio:Naskiĝintoj en 1412
+分類:1413年	Kategorio:1413
+分類:1413年出世	Kategorio:Naskiĝintoj en 1413
+分類:1414年	Kategorio:1414
+分類:1414年出世	Kategorio:Naskiĝintoj en 1414
+分類:1414年過世	Kategorio:Mortintoj en 1414
+分類:1530年	Kategorio:1530
+分類:1415年過世	Kategorio:Mortintoj en 1415
+分類:1522年	Kategorio:1522
+分類:1416年出世	Kategorio:Naskiĝintoj en 1416
+分類:1525年	Kategorio:1525
+分類:1417年	Kategorio:1417
+分類:1417年出世	Kategorio:Naskiĝintoj en 1417
+分類:1531年	Kategorio:1531
+分類:1418年	Kategorio:1418
+分類:1418年出世	Kategorio:Naskiĝintoj en 1418
+分類:1419年	Kategorio:1419
+分類:1419年過世	Kategorio:Mortintoj en 1419
+分類:1420年出世	Kategorio:Naskiĝintoj en 1420
+分類:1421年過世	Kategorio:Mortintoj en 1421
+分類:1422年	Kategorio:1422
+分類:1527年	Kategorio:1527
+分類:1422年過世	Kategorio:Mortintoj en 1422
+分類:1513年	Kategorio:1513
+分類:1423年出世	Kategorio:Naskiĝintoj en 1423
+分類:1449年	Kategorio:1449
+分類:1424年	Kategorio:1424
+分類:1508年	Kategorio:1508
+分類:1424年過世	Kategorio:Mortintoj en 1424
+分類:1504年	Kategorio:1504
+分類:1425年出世	Kategorio:Naskiĝintoj en 1425
+分類:1509年	Kategorio:1509
+分類:1426年	Kategorio:1426
+分類:1426年過世	Kategorio:Mortintoj en 1426
+分類:1506年	Kategorio:1506
+分類:1427年出世	Kategorio:Naskiĝintoj en 1427
+分類:1519年	Kategorio:1519
+分類:1428年	Kategorio:1428
+分類:1428年出世	Kategorio:Naskiĝintoj en 1428
+分類:1429年	Kategorio:1429
+分類:1430年	Kategorio:1430
+分類:1430年出世	Kategorio:Naskiĝintoj en 1430
+分類:1431年	Kategorio:1431
+分類:1431年過世	Kategorio:Mortintoj en 1431
+分類:1432年出世	Kategorio:Naskiĝintoj en 1432
+分類:1510年	Kategorio:1510
+分類:1433年出世	Kategorio:Naskiĝintoj en 1433
+分類:1434年	Kategorio:1434
+分類:1512年	Kategorio:1512
+分類:1434年出世	Kategorio:Naskiĝintoj en 1434
+分類:1435年	Kategorio:1435
+分類:1524年	Kategorio:1524
+分類:1436年	Kategorio:1436
+分類:1436年過世	Kategorio:Mortintoj en 1436
+分類:1437年	Kategorio:1437
+分類:1437年過世	Kategorio:Mortintoj en 1437
+分類:1438年出世	Kategorio:Naskiĝintoj en 1438
+分類:1439年	Kategorio:1439
+分類:1439年出世	Kategorio:Naskiĝintoj en 1439
+分類:1440年	Kategorio:1440
+分類:1440年過世	Kategorio:Mortintoj en 1440
+分類:1441年出世	Kategorio:Naskiĝintoj en 1441
+分類:1441年過世	Kategorio:Mortintoj en 1441
+分類:1442年出世	Kategorio:Naskiĝintoj en 1442
+分類:1443年	Kategorio:1443
+分類:1443年過世	Kategorio:Mortintoj en 1443
+分類:1444年出世	Kategorio:Naskiĝintoj en 1444
+分類:1444年過世	Kategorio:Mortintoj en 1444
+分類:1445年	Kategorio:1445
+分類:1445年過世	Kategorio:Mortintoj en 1445
+分類:1446年出世	Kategorio:Naskiĝintoj en 1446
+分類:1447年	Kategorio:1447
+分類:1447年過世	Kategorio:Mortintoj en 1447
+分類:1448年出世	Kategorio:Naskiĝintoj en 1448
+分類:1449年出世	Kategorio:Naskiĝintoj en 1449
+分類:1450年	Kategorio:1450
+分類:1450年過世	Kategorio:Mortintoj en 1450
+分類:1451年出世	Kategorio:Naskiĝintoj en 1451
+分類:1452年出世	Kategorio:Naskiĝintoj en 1452
+分類:1453年出世	Kategorio:Naskiĝintoj en 1453
+分類:1453年過世	Kategorio:Mortintoj en 1453
+分類:1454年過世	Kategorio:Mortintoj en 1454
+分類:1455年出世	Kategorio:Naskiĝintoj en 1455
+分類:1456年出世	Kategorio:Naskiĝintoj en 1456
+分類:1457年	Kategorio:1457
+分類:1458年	Kategorio:1458
+分類:1458年過世	Kategorio:Mortintoj en 1458
+分類:1459年出世	Kategorio:Naskiĝintoj en 1459
+分類:1460年	Kategorio:1460
+分類:1460年過世	Kategorio:Mortintoj en 1460
+分類:1461年出世	Kategorio:Naskiĝintoj en 1461
+分類:1462年	Kategorio:1462
+分類:1463年	Kategorio:1463
+分類:1463年出世	Kategorio:Naskiĝintoj en 1463
+分類:1464年	Kategorio:1464
+分類:1464年出世	Kategorio:Naskiĝintoj en 1464
+分類:1465年出世	Kategorio:Naskiĝintoj en 1465
+分類:1466年	Kategorio:1466
+分類:1466年過世	Kategorio:Mortintoj en 1466
+分類:1467年	Kategorio:1467
+分類:1467年過世	Kategorio:Mortintoj en 1467
+分類:1468年	Kategorio:1468
+分類:1468年出世	Kategorio:Naskiĝintoj en 1468
+分類:1468年過世	Kategorio:Mortintoj en 1468
+分類:1469年出世	Kategorio:Naskiĝintoj en 1469
+分類:1469年過世	Kategorio:Mortintoj en 1469
+分類:1470年	Kategorio:1470
+分類:1470年過世	Kategorio:Mortintoj en 1470
+分類:1471年	Kategorio:1471
+分類:1471年出世	Kategorio:Naskiĝintoj en 1471
+分類:1471年過世	Kategorio:Mortintoj en 1471
+分類:1473年	Kategorio:1473
+分類:1473年出世	Kategorio:Naskiĝintoj en 1473
+分類:1474年	Kategorio:1474
+分類:1474年出世	Kategorio:Naskiĝintoj en 1474
+分類:1475年	Kategorio:1475
+分類:1475年出世	Kategorio:Naskiĝintoj en 1475
+分類:1476年	Kategorio:1476
+分類:1476年過世	Kategorio:Mortintoj en 1476
+分類:1477年出世	Kategorio:Naskiĝintoj en 1477
+分類:1478年	Kategorio:1478
+分類:1478年出世	Kategorio:Naskiĝintoj en 1478
+分類:1479年	Kategorio:1479
+分類:1479年出世	Kategorio:Naskiĝintoj en 1479
+分類:1479年過世	Kategorio:Mortintoj en 1479
+分類:1480年出世	Kategorio:Naskiĝintoj en 1480
+分類:1480年過世	Kategorio:Mortintoj en 1480
+分類:1481年出世	Kategorio:Naskiĝintoj en 1481
+分類:1482年	Kategorio:1482
+分類:1482年出世	Kategorio:Naskiĝintoj en 1482
+分類:1483年	Kategorio:1483
+分類:1483年過世	Kategorio:Mortintoj en 1483
+分類:1484年出世	Kategorio:Naskiĝintoj en 1484
+分類:1484年過世	Kategorio:Mortintoj en 1484
+分類:1485年出世	Kategorio:Naskiĝintoj en 1485
+分類:1486年出世	Kategorio:Naskiĝintoj en 1486
+分類:1486年過世	Kategorio:Mortintoj en 1486
+分類:1487年出世	Kategorio:Naskiĝintoj en 1487
+分類:1487年過世	Kategorio:Mortintoj en 1487
+分類:1488年出世	Kategorio:Naskiĝintoj en 1488
+分類:1488年過世	Kategorio:Mortintoj en 1488
+分類:1489年出世	Kategorio:Naskiĝintoj en 1489
+分類:1490年	Kategorio:1490
+分類:1491年	Kategorio:1491
+分類:1491年過世	Kategorio:Mortintoj en 1491
+分類:1492年出世	Kategorio:Naskiĝintoj en 1492
+分類:1493年	Kategorio:1493
+分類:1493年出世	Kategorio:Naskiĝintoj en 1493
+分類:1494年	Kategorio:1494
+分類:1494年出世	Kategorio:Naskiĝintoj en 1494
+分類:1494年過世	Kategorio:Mortintoj en 1494
+分類:1495年出世	Kategorio:Naskiĝintoj en 1495
+分類:1496年	Kategorio:1496
+分類:1496年過世	Kategorio:Mortintoj en 1496
+分類:1497年	Kategorio:1497
+分類:1497年出世	Kategorio:Naskiĝintoj en 1497
+分類:1498年	Kategorio:1498
+分類:1499年出世	Kategorio:Naskiĝintoj en 1499
+分類:1500年	Kategorio:1500
+分類:1500年過世	Kategorio:Mortintoj en 1500
+分類:1501年	Kategorio:1501
+分類:1501年出世	Kategorio:Naskiĝintoj en 1501
+分類:1501年過世	Kategorio:Mortintoj en 1501
+分類:1502年出世	Kategorio:Naskiĝintoj en 1502
+分類:1502年過世	Kategorio:Mortintoj en 1502
+分類:1503年出世	Kategorio:Naskiĝintoj en 1503
+分類:1504年出世	Kategorio:Naskiĝintoj en 1504
+分類:1504年過世	Kategorio:Mortintoj en 1504
+分類:1505年出世	Kategorio:Naskiĝintoj en 1505
+分類:1506年出世	Kategorio:Naskiĝintoj en 1506
+分類:1507年	Kategorio:1507
+分類:1507年過世	Kategorio:Mortintoj en 1507
+分類:1508年出世	Kategorio:Naskiĝintoj en 1508
+分類:1509年出世	Kategorio:Naskiĝintoj en 1509
+分類:1510年出世	Kategorio:Naskiĝintoj en 1510
+分類:1511年	Kategorio:1511
+分類:1511年過世	Kategorio:Mortintoj en 1511
+分類:1512年出世	Kategorio:Naskiĝintoj en 1512
+分類:1513年出世	Kategorio:Naskiĝintoj en 1513
+分類:1514年	Kategorio:1514
+分類:1514年過世	Kategorio:Mortintoj en 1514
+分類:1515年出世	Kategorio:Naskiĝintoj en 1515
+分類:1516年出世	Kategorio:Naskiĝintoj en 1516
+分類:1517年	Kategorio:1517
+分類:1517年過世	Kategorio:Mortintoj en 1517
+分類:1518年出世	Kategorio:Naskiĝintoj en 1518
+分類:1519年出世	Kategorio:Naskiĝintoj en 1519
+分類:1519年過世	Kategorio:Mortintoj en 1519
+分類:1520年	Kategorio:1520
+分類:1520年過世	Kategorio:Mortintoj en 1520
+分類:1521年出世	Kategorio:Naskiĝintoj en 1521
+分類:1522年出世	Kategorio:Naskiĝintoj en 1522
+分類:1523年出世	Kategorio:Naskiĝintoj en 1523
+分類:1524年出世	Kategorio:Naskiĝintoj en 1524
+分類:1524年過世	Kategorio:Mortintoj en 1524
+分類:1525年出世	Kategorio:Naskiĝintoj en 1525
+分類:1526年	Kategorio:1526
+分類:1526年過世	Kategorio:Mortintoj en 1526
+分類:1527年出世	Kategorio:Naskiĝintoj en 1527
+分類:1528年出世	Kategorio:Naskiĝintoj en 1528
+分類:1529年過世	Kategorio:Mortintoj en 1529
+分類:1530年出世	Kategorio:Naskiĝintoj en 1530
+分類:1531年出世	Kategorio:Naskiĝintoj en 1531
+分類:1532年	Kategorio:1532
+分類:1532年出世	Kategorio:Naskiĝintoj en 1532
+分類:1532年過世	Kategorio:Mortintoj en 1532
+分類:1533年出世	Kategorio:Naskiĝintoj en 1533
+分類:1534年	Kategorio:1534
+分類:1534年過世	Kategorio:Mortintoj en 1534
+分類:1535年過世	Kategorio:Mortintoj en 1535
+分類:1536年出世	Kategorio:Naskiĝintoj en 1536
+分類:1537年出世	Kategorio:Naskiĝintoj en 1537
+分類:1538年	Kategorio:1538
+分類:1538年出世	Kategorio:Naskiĝintoj en 1538
+分類:1538年過世	Kategorio:Mortintoj en 1538
+分類:1539年出世	Kategorio:Naskiĝintoj en 1539
+分類:1539年過世	Kategorio:Mortintoj en 1539
+分類:1540年出世	Kategorio:Naskiĝintoj en 1540
+分類:1541年	Kategorio:1541
+分類:1541年出世	Kategorio:Naskiĝintoj en 1541
+分類:1542年	Kategorio:1542
+分類:1543年	Kategorio:1543
+分類:1543年出世	Kategorio:Naskiĝintoj en 1543
+分類:1544年	Kategorio:1544
+分類:1544年出世	Kategorio:Naskiĝintoj en 1544
+分類:1544年過世	Kategorio:Mortintoj en 1544
+分類:1545年	Kategorio:1545
+分類:1545年過世	Kategorio:Mortintoj en 1545
+分類:1546年出世	Kategorio:Naskiĝintoj en 1546
+分類:1547年	Kategorio:1547
+分類:1548年	Kategorio:1548
+分類:1548年過世	Kategorio:Mortintoj en 1548
+分類:1549年出世	Kategorio:Naskiĝintoj en 1549
+分類:1550年	Kategorio:1550
+分類:1550年過世	Kategorio:Mortintoj en 1550
+分類:1551年出世	Kategorio:Naskiĝintoj en 1551
+分類:1551年過世	Kategorio:Mortintoj en 1551
+分類:1552年出世	Kategorio:Naskiĝintoj en 1552
+分類:1553年出世	Kategorio:Naskiĝintoj en 1553
+分類:1554年	Kategorio:1554
+分類:1554年過世	Kategorio:Mortintoj en 1554
+分類:1555年出世	Kategorio:Naskiĝintoj en 1555
+分類:1556年出世	Kategorio:Naskiĝintoj en 1556
+分類:1557年	Kategorio:1557
+分類:1557年過世	Kategorio:Mortintoj en 1557
+分類:1558年	Kategorio:1558
+分類:1558年過世	Kategorio:Mortintoj en 1558
+分類:1559年	Kategorio:1559
+分類:1559年出世	Kategorio:Naskiĝintoj en 1559
+分類:1560年出世	Kategorio:Naskiĝintoj en 1560
+分類:1560年過世	Kategorio:Mortintoj en 1560
+分類:1561年出世	Kategorio:Naskiĝintoj en 1561
+分類:1561年過世	Kategorio:Mortintoj en 1561
+分類:1562年	Kategorio:1562
+分類:1562年過世	Kategorio:Mortintoj en 1562
+分類:1563年出世	Kategorio:Naskiĝintoj en 1563
+分類:1564年出世	Kategorio:Naskiĝintoj en 1564
+分類:1565年	Kategorio:1565
+分類:1565年過世	Kategorio:Mortintoj en 1565
+分類:1566年出世	Kategorio:Naskiĝintoj en 1566
+分類:1567年	Kategorio:1567
+分類:1567年過世	Kategorio:Mortintoj en 1567
+分類:1568年	Kategorio:1568
+分類:1568年過世	Kategorio:Mortintoj en 1568
+分類:1569年出世	Kategorio:Naskiĝintoj en 1569
+分類:1570年	Kategorio:1570
+分類:1570年出世	Kategorio:Naskiĝintoj en 1570
+分類:1570年過世	Kategorio:Mortintoj en 1570
+分類:1571年	Kategorio:1571
+分類:1571年過世	Kategorio:Mortintoj en 1571
+分類:1572年出世	Kategorio:Naskiĝintoj en 1572
+分類:1573年	Kategorio:1573
+分類:1573年出世	Kategorio:Naskiĝintoj en 1573
+分類:1574年	Kategorio:1574
+分類:1574年過世	Kategorio:Mortintoj en 1574
+分類:1575年出世	Kategorio:Naskiĝintoj en 1575
+分類:1576年出世	Kategorio:Naskiĝintoj en 1576
+分類:1577年	Kategorio:1577
+分類:1577年過世	Kategorio:Mortintoj en 1577
+分類:1578年出世	Kategorio:Naskiĝintoj en 1578
+分類:1579年	Kategorio:1579
+分類:1579年過世	Kategorio:Mortintoj en 1579
+分類:1580年出世	Kategorio:Naskiĝintoj en 1580
+分類:1581年	Kategorio:1581
+分類:1581年過世	Kategorio:Mortintoj en 1581
+分類:1582年出世	Kategorio:Naskiĝintoj en 1582
+分類:1583年	Kategorio:1583
+分類:1583年過世	Kategorio:Mortintoj en 1583
+分類:1585年出世	Kategorio:Naskiĝintoj en 1585
+分類:1586年	Kategorio:1586
+分類:1586年過世	Kategorio:Mortintoj en 1586
+分類:1587年出世	Kategorio:Naskiĝintoj en 1587
+分類:1588年	Kategorio:1588
+分類:1588年過世	Kategorio:Mortintoj en 1588
+分類:1589年過世	Kategorio:Mortintoj en 1589
+分類:1590年出世	Kategorio:Naskiĝintoj en 1590
+分類:1591年	Kategorio:1591
+分類:1591年過世	Kategorio:Mortintoj en 1591
+分類:1592年出世	Kategorio:Naskiĝintoj en 1592
+分類:1593年	Kategorio:1593
+分類:1593年過世	Kategorio:Mortintoj en 1593
+分類:1594年	Kategorio:1594
+分類:1594年過世	Kategorio:Mortintoj en 1594
+分類:1595年出世	Kategorio:Naskiĝintoj en 1595
+分類:1596年出世	Kategorio:Naskiĝintoj en 1596
+分類:1597年	Kategorio:1597
+分類:1598年	Kategorio:1598
+分類:1598年過世	Kategorio:Mortintoj en 1598
+分類:1599年出世	Kategorio:Naskiĝintoj en 1599
+分類:1600年	Kategorio:1600
+分類:1601年	Kategorio:1601
+分類:1601年過世	Kategorio:Mortintoj en 1601
+分類:1602年出世	Kategorio:Naskiĝintoj en 1602
+分類:1603年	Kategorio:1603
+分類:1603年過世	Kategorio:Mortintoj en 1603
+分類:1604年過世	Kategorio:Mortintoj en 1604
+分類:1605年出世	Kategorio:Naskiĝintoj en 1605
+分類:1606年	Kategorio:1606
+分類:1606年過世	Kategorio:Mortintoj en 1606
+分類:1607年出世	Kategorio:Naskiĝintoj en 1607
+分類:1608年	Kategorio:1608
+分類:1608年過世	Kategorio:Mortintoj en 1608
+分類:1609年出世	Kategorio:Naskiĝintoj en 1609
+分類:1610年出世	Kategorio:Naskiĝintoj en 1610
+分類:1612年出世	Kategorio:Naskiĝintoj en 1612
+分類:1613年出世	Kategorio:Naskiĝintoj en 1613
+分類:1614年出世	Kategorio:Naskiĝintoj en 1614
+分類:1615年出世	Kategorio:Naskiĝintoj en 1615
+分類:1616年	Kategorio:1616
+分類:1617年	Kategorio:1617
+分類:1617年過世	Kategorio:Mortintoj en 1617
+分類:1618年出世	Kategorio:Naskiĝintoj en 1618
+分類:1619年	Kategorio:1619
+分類:1619年過世	Kategorio:Mortintoj en 1619
+分類:1620年出世	Kategorio:Naskiĝintoj en 1620
+分類:1621年	Kategorio:1621
+分類:1621年過世	Kategorio:Mortintoj en 1621
+分類:1622年出世	Kategorio:Naskiĝintoj en 1622
+分類:1623年	Kategorio:1623
+分類:1623年過世	Kategorio:Mortintoj en 1623
+分類:1624年出世	Kategorio:Naskiĝintoj en 1624
+分類:1625年	Kategorio:1625
+分類:1625年過世	Kategorio:Mortintoj en 1625
+分類:1626年出世	Kategorio:Naskiĝintoj en 1626
+分類:1627年	Kategorio:1627
+分類:1628年	Kategorio:1628
+分類:1628年過世	Kategorio:Mortintoj en 1628
+分類:1629年出世	Kategorio:Naskiĝintoj en 1629
+分類:1630年	Kategorio:1630
+分類:1630年過世	Kategorio:Mortintoj en 1630
+分類:1631年出世	Kategorio:Naskiĝintoj en 1631
+分類:1632年	Kategorio:1632
+分類:1632年過世	Kategorio:Mortintoj en 1632
+分類:1633年出世	Kategorio:Naskiĝintoj en 1633
+分類:1634年	Kategorio:1634
+分類:1634年過世	Kategorio:Mortintoj en 1634
+分類:1635年出世	Kategorio:Naskiĝintoj en 1635
+分類:1636年	Kategorio:1636
+分類:1636年過世	Kategorio:Mortintoj en 1636
+分類:1637年出世	Kategorio:Naskiĝintoj en 1637
+分類:1638年	Kategorio:1638
+分類:1639年	Kategorio:1639
+分類:1639年過世	Kategorio:Mortintoj en 1639
+分類:1640年出世	Kategorio:Naskiĝintoj en 1640
+分類:1641年	Kategorio:1641
+分類:1641年過世	Kategorio:Mortintoj en 1641
+分類:1642年出世	Kategorio:Naskiĝintoj en 1642
+分類:1643年	Kategorio:1643
+分類:1643年過世	Kategorio:Mortintoj en 1643
+分類:1644年出世	Kategorio:Naskiĝintoj en 1644
+分類:1645年	Kategorio:1645
+分類:1645年過世	Kategorio:Mortintoj en 1645
+分類:1646年	Kategorio:1646
+分類:1646年過世	Kategorio:Mortintoj en 1646
+分類:1647年出世	Kategorio:Naskiĝintoj en 1647
+分類:1648年	Kategorio:1648
+分類:1648年過世	Kategorio:Mortintoj en 1648
+分類:1649年出世	Kategorio:Naskiĝintoj en 1649
+分類:1650年	Kategorio:1650
+分類:1650年過世	Kategorio:Mortintoj en 1650
+分類:1651年	Kategorio:1651
+分類:1651年過世	Kategorio:Mortintoj en 1651
+分類:1652年出世	Kategorio:Naskiĝintoj en 1652
+分類:1653年出世	Kategorio:Naskiĝintoj en 1653
+分類:1654年	Kategorio:1654
+分類:1654年出世	Kategorio:Naskiĝintoj en 1654
+分類:1654年過世	Kategorio:Mortintoj en 1654
+分類:1655年出世	Kategorio:Naskiĝintoj en 1655
+分類:1656年	Kategorio:1656
+分類:1656年過世	Kategorio:Mortintoj en 1656
+分類:1657年出世	Kategorio:Naskiĝintoj en 1657
+分類:1658年	Kategorio:1658
+分類:1658年過世	Kategorio:Mortintoj en 1658
+分類:1660年	Kategorio:1660
+分類:1660年出世	Kategorio:Naskiĝintoj en 1660
+分類:1661年出世	Kategorio:Naskiĝintoj en 1661
+分類:1662年	Kategorio:1662
+分類:1662年過世	Kategorio:Mortintoj en 1662
+分類:1663年出世	Kategorio:Naskiĝintoj en 1663
+分類:1664年	Kategorio:1664
+分類:1664年過世	Kategorio:Mortintoj en 1664
+分類:1665年出世	Kategorio:Naskiĝintoj en 1665
+分類:1666年出世	Kategorio:Naskiĝintoj en 1666
+分類:1667年	Kategorio:1667
+分類:1667年過世	Kategorio:Mortintoj en 1667
+分類:1668年過世	Kategorio:Mortintoj en 1668
+分類:1669年出世	Kategorio:Naskiĝintoj en 1669
+分類:1670年	Kategorio:1670
+分類:1670年過世	Kategorio:Mortintoj en 1670
+分類:1671年出世	Kategorio:Naskiĝintoj en 1671
+分類:1672年出世	Kategorio:Naskiĝintoj en 1672
+分類:1673年出世	Kategorio:Naskiĝintoj en 1673
+分類:1674年出世	Kategorio:Naskiĝintoj en 1674
+分類:1675年	Kategorio:1675
+分類:1675年過世	Kategorio:Mortintoj en 1675
+分類:1676年出世	Kategorio:Naskiĝintoj en 1676
+分類:1677年	Kategorio:1677
+分類:1677年過世	Kategorio:Mortintoj en 1677
+分類:1678年出世	Kategorio:Naskiĝintoj en 1678
+分類:1679年	Kategorio:1679
+分類:1680年出世	Kategorio:Naskiĝintoj en 1680
+分類:1681年	Kategorio:1681
+分類:1681年過世	Kategorio:Mortintoj en 1681
+分類:1682年	Kategorio:1682
+分類:1683年	Kategorio:1683
+分類:1683年過世	Kategorio:Mortintoj en 1683
+分類:1684年出世	Kategorio:Naskiĝintoj en 1684
+分類:1685年	Kategorio:1685
+分類:1685年過世	Kategorio:Mortintoj en 1685
+分類:1686年出世	Kategorio:Naskiĝintoj en 1686
+分類:1687年出世	Kategorio:Naskiĝintoj en 1687
+分類:1688年	Kategorio:1688
+分類:1688年過世	Kategorio:Mortintoj en 1688
+分類:1689年出世	Kategorio:Naskiĝintoj en 1689
+分類:1690年	Kategorio:1690
+分類:1690年過世	Kategorio:Mortintoj en 1690
+分類:1692年	Kategorio:1692
+分類:1692年過世	Kategorio:Mortintoj en 1692
+模板:En	Ŝablono:En
+分類:1693年出世	Kategorio:Naskiĝintoj en 1693
+分類:1694年	Kategorio:1694
+分類:1695年	Kategorio:1695
+分類:1695年過世	Kategorio:Mortintoj en 1695
+分類:1696年出世	Kategorio:Naskiĝintoj en 1696
+分類:1697年	Kategorio:1697
+分類:1698年	Kategorio:1698
+分類:1698年過世	Kategorio:Mortintoj en 1698
+分類:1699年出世	Kategorio:Naskiĝintoj en 1699
+分類:1700年	Kategorio:1700
+分類:1700年過世	Kategorio:Mortintoj en 1700
+分類:1701年出世	Kategorio:Naskiĝintoj en 1701
+分類:1702年出世	Kategorio:Naskiĝintoj en 1702
+分類:1703年	Kategorio:1703
+分類:1704年	Kategorio:1704
+分類:1704年過世	Kategorio:Mortintoj en 1704
+分類:1705年過世	Kategorio:Mortintoj en 1705
+分類:1706年出世	Kategorio:Naskiĝintoj en 1706
+分類:1707年	Kategorio:1707
+分類:1707年過世	Kategorio:Mortintoj en 1707
+分類:1708年出世	Kategorio:Naskiĝintoj en 1708
+分類:1709年	Kategorio:1709
+分類:1709年出世	Kategorio:Naskiĝintoj en 1709
+分類:1710年	Kategorio:1710
+分類:1710年過世	Kategorio:Mortintoj en 1710
+分類:1711年出世	Kategorio:Naskiĝintoj en 1711
+分類:1712年	Kategorio:1712
+分類:1712年過世	Kategorio:Mortintoj en 1712
+分類:1713年出世	Kategorio:Naskiĝintoj en 1713
+分類:1714年	Kategorio:1714
+分類:1714年過世	Kategorio:Mortintoj en 1714
+分類:1715年出世	Kategorio:Naskiĝintoj en 1715
+分類:1716年	Kategorio:1716
+分類:1717年	Kategorio:1717
+分類:1717年過世	Kategorio:Mortintoj en 1717
+分類:1718年出世	Kategorio:Naskiĝintoj en 1718
+分類:1719年	Kategorio:1719
+分類:1719年過世	Kategorio:Mortintoj en 1719
+分類:1720年出世	Kategorio:Naskiĝintoj en 1720
+分類:1721年	Kategorio:1721
+分類:1721年過世	Kategorio:Mortintoj en 1721
+分類:1722年出世	Kategorio:Naskiĝintoj en 1722
+分類:1723年	Kategorio:1723
+分類:1723年過世	Kategorio:Mortintoj en 1723
+分類:1724年出世	Kategorio:Naskiĝintoj en 1724
+分類:1725年	Kategorio:1725
+分類:1725年過世	Kategorio:Mortintoj en 1725
+分類:山東	Kategorio:Ŝandongo
+分類:雲南	Kategorio:Junano
+分類:青海	Kategorio:Ĉinghajo
+分類:河南	Kategorio:Henano
+分類:湖南	Kategorio:Hunano
+分類:12年出世	Kategorio:Naskiĝintoj en 12
+分類:15年出世	Kategorio:Naskiĝintoj en 15
+分類:18年過世	Kategorio:Mortintoj en 18
+分類:22年過世	Kategorio:Mortintoj en 22
+分類:23年出世	Kategorio:Naskiĝintoj en 23
+分類:27年	Kategorio:27
+分類:30年過世	Kategorio:Mortintoj en 30
+分類:35年出世	Kategorio:Naskiĝintoj en 35
+分類:37年過世	Kategorio:Mortintoj en 37
+分類:40年	Kategorio:40
+分類:54年過世	Kategorio:Mortintoj en 54
+分類:55年出世	Kategorio:Naskiĝintoj en 55
+分類:68年過世	Kategorio:Mortintoj en 68
+分類:70年過世	Kategorio:Mortintoj en 70
+分類:76年出世	Kategorio:Naskiĝintoj en 76
+分類:87年出世	Kategorio:Naskiĝintoj en 87
+分類:98年過世	Kategorio:Mortintoj en 98
+分類:100年過世	Kategorio:Mortintoj en 100
+分類:107年過世	Kategorio:Mortintoj en 107
+分類:121年	Kategorio:121
+分類:121年過世	Kategorio:Mortintoj en 121
+分類:129年出世	Kategorio:Naskiĝintoj en 129
+分類:130年過世	Kategorio:Mortintoj en 130
+分類:135年過世	Kategorio:Mortintoj en 135
+模板:Lang	Ŝablono:Lang
+分類:150年過世	Kategorio:Mortintoj en 150
+分類:154年過世	Kategorio:Mortintoj en 154
+分類:155年出世	Kategorio:Naskiĝintoj en 155
+分類:159年出世	Kategorio:Naskiĝintoj en 159
+分類:161年出世	Kategorio:Naskiĝintoj en 161
+分類:173年出世	Kategorio:Naskiĝintoj en 173
+分類:174年過世	Kategorio:Mortintoj en 174
+分類:1969年過世	Kategorio:Mortintoj en 1969
+分類:1881年出世	Kategorio:Naskiĝintoj en 1881
+分類:186年出世	Kategorio:Naskiĝintoj en 186
+分類:189年過世	Kategorio:Mortintoj en 189
+分類:192年出世	Kategorio:Naskiĝintoj en 192
+分類:193年過世	Kategorio:Mortintoj en 193
+分類:198年過世	Kategorio:Mortintoj en 198
+分類:200年過世	Kategorio:Mortintoj en 200
+分類:202年過世	Kategorio:Mortintoj en 202
+分類:203年過世	Kategorio:Mortintoj en 203
+分類:204年出世	Kategorio:Naskiĝintoj en 204
+分類:218年出世	Kategorio:Naskiĝintoj en 218
+分類:230年	Kategorio:230
+分類:232年過世	Kategorio:Mortintoj en 232
+分類:236年過世	Kategorio:Mortintoj en 236
+分類:250年出世	Kategorio:Naskiĝintoj en 250
+分類:254年過世	Kategorio:Mortintoj en 254
+分類:257年出世	Kategorio:Naskiĝintoj en 257
+分類:258年過世	Kategorio:Mortintoj en 258
+分類:272年出世	Kategorio:Naskiĝintoj en 272
+分類:275年過世	Kategorio:Mortintoj en 275
+分類:277年	Kategorio:277
+分類:277年過世	Kategorio:Mortintoj en 277
+分類:282年過世	Kategorio:Mortintoj en 282
+分類:296年過世	Kategorio:Mortintoj en 296
+分類:301年過世	Kategorio:Mortintoj en 301
+分類:304年過世	Kategorio:Mortintoj en 304
+分類:305年過世	Kategorio:Mortintoj en 305
+分類:314年過世	Kategorio:Mortintoj en 314
+分類:316年過世	Kategorio:Mortintoj en 316
+分類:317年出世	Kategorio:Naskiĝintoj en 317
+分類:325年過世	Kategorio:Mortintoj en 325
+分類:329年出世	Kategorio:Naskiĝintoj en 329
+分類:330年過世	Kategorio:Mortintoj en 330
+分類:335年過世	Kategorio:Mortintoj en 335
+分類:337年過世	Kategorio:Mortintoj en 337
+分類:349年出世	Kategorio:Naskiĝintoj en 349
+分類:354年出世	Kategorio:Naskiĝintoj en 354
+分類:356年過世	Kategorio:Mortintoj en 356
+分類:361年過世	Kategorio:Mortintoj en 361
+分類:362年過世	Kategorio:Mortintoj en 362
+分類:371年出世	Kategorio:Naskiĝintoj en 371
+分類:373年過世	Kategorio:Mortintoj en 373
+分類:378年過世	Kategorio:Mortintoj en 378
+分類:381年	Kategorio:381
+分類:381年過世	Kategorio:Mortintoj en 381
+分類:385年出世	Kategorio:Naskiĝintoj en 385
+分類:388年過世	Kategorio:Mortintoj en 388
+分類:390年過世	Kategorio:Mortintoj en 390
+分類:392年過世	Kategorio:Mortintoj en 392
+分類:408年過世	Kategorio:Mortintoj en 408
+分類:410年過世	Kategorio:Mortintoj en 410
+分類:412年過世	Kategorio:Mortintoj en 412
+分類:415年過世	Kategorio:Mortintoj en 415
+分類:417年	Kategorio:417
+分類:417年過世	Kategorio:Mortintoj en 417
+分類:430年過世	Kategorio:Mortintoj en 430
+分類:437年	Kategorio:437
+分類:440年出世	Kategorio:Naskiĝintoj en 440
+分類:449年過世	Kategorio:Mortintoj en 449
+分類:451年	Kategorio:451
+分類:453年過世	Kategorio:Mortintoj en 453
+分類:455年過世	Kategorio:Mortintoj en 455
+分類:468年過世	Kategorio:Mortintoj en 468
+分類:得諾貝爾獎嗰人	Kategorio:Nobel-premiitoj laŭ fako
+分類:480年出世	Kategorio:Naskiĝintoj en 480
+分類:483年出世	Kategorio:Naskiĝintoj en 483
+分類:485年過世	Kategorio:Mortintoj en 485
+分類:492年過世	Kategorio:Mortintoj en 492
+分類:498年過世	Kategorio:Mortintoj en 498
+分類:500年出世	Kategorio:Naskiĝintoj en 500
+分類:507年	Kategorio:507
+分類:507年過世	Kategorio:Mortintoj en 507
+分類:1944年出世	Kategorio:Naskiĝintoj en 1944
+分類:511年過世	Kategorio:Mortintoj en 511
+分類:516年出世	Kategorio:Naskiĝintoj en 516
+分類:521年出世	Kategorio:Naskiĝintoj en 521
+分類:530年過世	Kategorio:Mortintoj en 530
+分類:532年過世	Kategorio:Mortintoj en 532
+分類:540年出世	Kategorio:Naskiĝintoj en 540
+分類:1932年出世	Kategorio:Naskiĝintoj en 1932
+分類:550年出世	Kategorio:Naskiĝintoj en 550
+分類:1934年出世	Kategorio:Naskiĝintoj en 1934
+分類:553年	Kategorio:553
+分類:1935年出世	Kategorio:Naskiĝintoj en 1935
+分類:340年代出世	Kategorio:Naskiĝintoj en 340-349
+分類:437年出世	Kategorio:Naskiĝintoj en 437
+分類:560年過世	Kategorio:Mortintoj en 560
+分類:570年出世	Kategorio:Naskiĝintoj en 570
+分類:575年出世	Kategorio:Naskiĝintoj en 575
+分類:581年出世	Kategorio:Naskiĝintoj en 581
+分類:583年出世	Kategorio:Naskiĝintoj en 583
+分類:602年出世	Kategorio:Naskiĝintoj en 602
+分類:603年出世	Kategorio:Naskiĝintoj en 603
+分類:606年出世	Kategorio:Naskiĝintoj en 606
+分類:610年出世	Kategorio:Naskiĝintoj en 610
+分類:614年出世	Kategorio:Naskiĝintoj en 614
+分類:624年出世	Kategorio:Naskiĝintoj en 624
+分類:564年過世	Kategorio:Mortintoj en 564
+分類:626年出世	Kategorio:Naskiĝintoj en 626
+分類:640年代出世	Kategorio:Naskiĝintoj en 640-649
+分類:1941年出世	Kategorio:Naskiĝintoj en 1941
+分類:686年出世	Kategorio:Naskiĝintoj en 686
+分類:690年代出世	Kategorio:Naskiĝintoj en 690-699
+分類:699年出世	Kategorio:Naskiĝintoj en 699
+分類:700年代出世	Kategorio:Naskiĝintoj en 700-709
+分類:701年出世	Kategorio:Naskiĝintoj en 701
+分類:735年出世	Kategorio:Naskiĝintoj en 735
+分類:751年出世	Kategorio:Naskiĝintoj en 751
+分類:760年出世	Kategorio:Naskiĝintoj en 760
+分類:763年出世	Kategorio:Naskiĝintoj en 763
+分類:772年出世	Kategorio:Naskiĝintoj en 772
+分類:815年出世	Kategorio:Naskiĝintoj en 815
+分類:816年出世	Kategorio:Naskiĝintoj en 816
+分類:823年出世	Kategorio:Naskiĝintoj en 823
+分類:826年出世	Kategorio:Naskiĝintoj en 826
+分類:830年出世	Kategorio:Naskiĝintoj en 830
+分類:846年出世	Kategorio:Naskiĝintoj en 846
+分類:865年出世	Kategorio:Naskiĝintoj en 865
+分類:885年出世	Kategorio:Naskiĝintoj en 885
+分類:578年過世	Kategorio:Mortintoj en 578
+分類:889年出世	Kategorio:Naskiĝintoj en 889
+分類:893年出世	Kategorio:Naskiĝintoj en 893
+分類:940年出世	Kategorio:Naskiĝintoj en 940
+分類:960年出世	Kategorio:Naskiĝintoj en 960
+分類:967年出世	Kategorio:Naskiĝintoj en 967
+分類:968年出世	Kategorio:Naskiĝintoj en 968
+分類:972年出世	Kategorio:Naskiĝintoj en 972
+分類:582年	Kategorio:582
+分類:997年出世	Kategorio:Naskiĝintoj en 997
+分類:1020年出世	Kategorio:Naskiĝintoj en 1020
+分類:1027年出世	Kategorio:Naskiĝintoj en 1027
+分類:1031年出世	Kategorio:Naskiĝintoj en 1031
+分類:1042年出世	Kategorio:Naskiĝintoj en 1042
+分類:1045年出世	Kategorio:Naskiĝintoj en 1045
+分類:1048年出世	Kategorio:Naskiĝintoj en 1048
+分類:1053年出世	Kategorio:Naskiĝintoj en 1053
+分類:1060年出世	Kategorio:Naskiĝintoj en 1060
+分類:1067年出世	Kategorio:Naskiĝintoj en 1067
+分類:1070年代出世	Kategorio:Naskiĝintoj en 1070-1079
+分類:1081年出世	Kategorio:Naskiĝintoj en 1081
+分類:1103年出世	Kategorio:Naskiĝintoj en 1103
+分類:585年過世	Kategorio:Mortintoj en 585
+分類:1109年出世	Kategorio:Naskiĝintoj en 1109
+分類:1119年出世	Kategorio:Naskiĝintoj en 1119
+分類:1125年出世	Kategorio:Naskiĝintoj en 1125
+分類:1138年出世	Kategorio:Naskiĝintoj en 1138
+分類:1157年出世	Kategorio:Naskiĝintoj en 1157
+分類:1162年出世	Kategorio:Naskiĝintoj en 1162
+分類:1166年出世	Kategorio:Naskiĝintoj en 1166
+分類:1188年出世	Kategorio:Naskiĝintoj en 1188
+分類:1193年出世	Kategorio:Naskiĝintoj en 1193
+分類:1195年出世	Kategorio:Naskiĝintoj en 1195
+分類:1198年出世	Kategorio:Naskiĝintoj en 1198
+分類:1200年出世	Kategorio:Naskiĝintoj en 1200
+分類:1215年出世	Kategorio:Naskiĝintoj en 1215
+分類:1218年出世	Kategorio:Naskiĝintoj en 1218
+分類:1222年出世	Kategorio:Naskiĝintoj en 1222
+分類:1232年出世	Kategorio:Naskiĝintoj en 1232
+分類:1245年出世	Kategorio:Naskiĝintoj en 1245
+分類:1258年出世	Kategorio:Naskiĝintoj en 1258
+分類:1262年出世	Kategorio:Naskiĝintoj en 1262
+分類:1267年出世	Kategorio:Naskiĝintoj en 1267
+分類:1270年出世	Kategorio:Naskiĝintoj en 1270
+分類:1271年出世	Kategorio:Naskiĝintoj en 1271
+分類:1273年出世	Kategorio:Naskiĝintoj en 1273
+分類:1280年出世	Kategorio:Naskiĝintoj en 1280
+分類:1285年出世	Kategorio:Naskiĝintoj en 1285
+分類:1287年出世	Kategorio:Naskiĝintoj en 1287
+分類:1290年出世	Kategorio:Naskiĝintoj en 1290
+分類:1292年出世	Kategorio:Naskiĝintoj en 1292
+分類:1295年出世	Kategorio:Naskiĝintoj en 1295
+分類:1303年出世	Kategorio:Naskiĝintoj en 1303
+分類:1310年出世	Kategorio:Naskiĝintoj en 1310
+分類:594年過世	Kategorio:Mortintoj en 594
+分類:1313年出世	Kategorio:Naskiĝintoj en 1313
+分類:1319年出世	Kategorio:Naskiĝintoj en 1319
+分類:1329年出世	Kategorio:Naskiĝintoj en 1329
+分類:1331年出世	Kategorio:Naskiĝintoj en 1331
+分類:1332年出世	Kategorio:Naskiĝintoj en 1332
+分類:1342年出世	Kategorio:Naskiĝintoj en 1342
+分類:1343年出世	Kategorio:Naskiĝintoj en 1343
+分類:1346年出世	Kategorio:Naskiĝintoj en 1346
+分類:1350年出世	Kategorio:Naskiĝintoj en 1350
+模板:IRL	Ŝablono:IRL
+分類:1364年出世	Kategorio:Naskiĝintoj en 1364
+模板:Infobox river	Ŝablono:Riveroj
+分類:1369年出世	Kategorio:Naskiĝintoj en 1369
+分類:1370年出世	Kategorio:Naskiĝintoj en 1370
+分類:1375年出世	Kategorio:Naskiĝintoj en 1375
+分類:1378年出世	Kategorio:Naskiĝintoj en 1378
+分類:1379年出世	Kategorio:Naskiĝintoj en 1379
+分類:1383年出世	Kategorio:Naskiĝintoj en 1383
+分類:1389年出世	Kategorio:Naskiĝintoj en 1389
+分類:1393年出世	Kategorio:Naskiĝintoj en 1393
+分類:1399年出世	Kategorio:Naskiĝintoj en 1399
+分類:1406年出世	Kategorio:Naskiĝintoj en 1406
+分類:1410年出世	Kategorio:Naskiĝintoj en 1410
+分類:1419年出世	Kategorio:Naskiĝintoj en 1419
+分類:1422年出世	Kategorio:Naskiĝintoj en 1422
+分類:1424年出世	Kategorio:Naskiĝintoj en 1424
+分類:1426年出世	Kategorio:Naskiĝintoj en 1426
+分類:1429年出世	Kategorio:Naskiĝintoj en 1429
+分類:1431年出世	Kategorio:Naskiĝintoj en 1431
+分類:1435年出世	Kategorio:Naskiĝintoj en 1435
+分類:1436年出世	Kategorio:Naskiĝintoj en 1436
+分類:1437年出世	Kategorio:Naskiĝintoj en 1437
+分類:1440年出世	Kategorio:Naskiĝintoj en 1440
+分類:1443年出世	Kategorio:Naskiĝintoj en 1443
+分類:1445年出世	Kategorio:Naskiĝintoj en 1445
+分類:1447年出世	Kategorio:Naskiĝintoj en 1447
+分類:1450年出世	Kategorio:Naskiĝintoj en 1450
+分類:1457年出世	Kategorio:Naskiĝintoj en 1457
+分類:1458年出世	Kategorio:Naskiĝintoj en 1458
+分類:1460年出世	Kategorio:Naskiĝintoj en 1460
+分類:601年過世	Kategorio:Mortintoj en 601
+分類:1462年出世	Kategorio:Naskiĝintoj en 1462
+分類:1466年出世	Kategorio:Naskiĝintoj en 1466
+分類:1467年出世	Kategorio:Naskiĝintoj en 1467
+分類:1470年出世	Kategorio:Naskiĝintoj en 1470
+分類:1472年出世	Kategorio:Naskiĝintoj en 1472
+分類:1476年出世	Kategorio:Naskiĝintoj en 1476
+分類:1483年出世	Kategorio:Naskiĝintoj en 1483
+分類:1490年出世	Kategorio:Naskiĝintoj en 1490
+分類:1491年出世	Kategorio:Naskiĝintoj en 1491
+分類:1496年出世	Kategorio:Naskiĝintoj en 1496
+分類:1498年出世	Kategorio:Naskiĝintoj en 1498
+分類:1500年出世	Kategorio:Naskiĝintoj en 1500
+分類:1507年出世	Kategorio:Naskiĝintoj en 1507
+分類:1511年出世	Kategorio:Naskiĝintoj en 1511
+分類:1514年出世	Kategorio:Naskiĝintoj en 1514
+分類:1517年出世	Kategorio:Naskiĝintoj en 1517
+分類:1520年出世	Kategorio:Naskiĝintoj en 1520
+分類:604年過世	Kategorio:Mortintoj en 604
+分類:1526年出世	Kategorio:Naskiĝintoj en 1526
+分類:1534年出世	Kategorio:Naskiĝintoj en 1534
+分類:1535年出世	Kategorio:Naskiĝintoj en 1535
+分類:1542年出世	Kategorio:Naskiĝintoj en 1542
+分類:1545年出世	Kategorio:Naskiĝintoj en 1545
+分類:1547年出世	Kategorio:Naskiĝintoj en 1547
+分類:1550年出世	Kategorio:Naskiĝintoj en 1550
+分類:1554年出世	Kategorio:Naskiĝintoj en 1554
+分類:1557年出世	Kategorio:Naskiĝintoj en 1557
+分類:1558年出世	Kategorio:Naskiĝintoj en 1558
+分類:1562年出世	Kategorio:Naskiĝintoj en 1562
+分類:1565年出世	Kategorio:Naskiĝintoj en 1565
+分類:1567年出世	Kategorio:Naskiĝintoj en 1567
+分類:1568年出世	Kategorio:Naskiĝintoj en 1568
+分類:1574年出世	Kategorio:Naskiĝintoj en 1574
+分類:607年過世	Kategorio:Mortintoj en 607
+分類:1577年出世	Kategorio:Naskiĝintoj en 1577
+分類:1579年出世	Kategorio:Naskiĝintoj en 1579
+分類:1581年出世	Kategorio:Naskiĝintoj en 1581
+分類:1583年出世	Kategorio:Naskiĝintoj en 1583
+分類:1584年出世	Kategorio:Naskiĝintoj en 1584
+分類:1586年出世	Kategorio:Naskiĝintoj en 1586
+分類:1589年出世	Kategorio:Naskiĝintoj en 1589
+分類:1591年出世	Kategorio:Naskiĝintoj en 1591
+分類:1593年出世	Kategorio:Naskiĝintoj en 1593
+分類:1594年出世	Kategorio:Naskiĝintoj en 1594
+分類:1597年出世	Kategorio:Naskiĝintoj en 1597
+分類:1598年出世	Kategorio:Naskiĝintoj en 1598
+分類:1600年出世	Kategorio:Naskiĝintoj en 1600
+分類:1601年出世	Kategorio:Naskiĝintoj en 1601
+分類:1603年出世	Kategorio:Naskiĝintoj en 1603
+分類:1606年出世	Kategorio:Naskiĝintoj en 1606
+分類:1611年出世	Kategorio:Naskiĝintoj en 1611
+分類:1616年出世	Kategorio:Naskiĝintoj en 1616
+分類:1619年出世	Kategorio:Naskiĝintoj en 1619
+分類:1621年出世	Kategorio:Naskiĝintoj en 1621
+分類:1623年出世	Kategorio:Naskiĝintoj en 1623
+分類:1625年出世	Kategorio:Naskiĝintoj en 1625
+分類:1627年出世	Kategorio:Naskiĝintoj en 1627
+分類:1628年出世	Kategorio:Naskiĝintoj en 1628
+分類:1630年出世	Kategorio:Naskiĝintoj en 1630
+分類:611年過世	Kategorio:Mortintoj en 611
+分類:1632年出世	Kategorio:Naskiĝintoj en 1632
+分類:1634年出世	Kategorio:Naskiĝintoj en 1634
+分類:1636年出世	Kategorio:Naskiĝintoj en 1636
+分類:1638年出世	Kategorio:Naskiĝintoj en 1638
+分類:1639年出世	Kategorio:Naskiĝintoj en 1639
+分類:1641年出世	Kategorio:Naskiĝintoj en 1641
+分類:1643年出世	Kategorio:Naskiĝintoj en 1643
+分類:1645年出世	Kategorio:Naskiĝintoj en 1645
+分類:1646年出世	Kategorio:Naskiĝintoj en 1646
+分類:1648年出世	Kategorio:Naskiĝintoj en 1648
+分類:1650年出世	Kategorio:Naskiĝintoj en 1650
+分類:1651年出世	Kategorio:Naskiĝintoj en 1651
+分類:1656年出世	Kategorio:Naskiĝintoj en 1656
+分類:1658年出世	Kategorio:Naskiĝintoj en 1658
+分類:1659年出世	Kategorio:Naskiĝintoj en 1659
+分類:1662年出世	Kategorio:Naskiĝintoj en 1662
+分類:1664年出世	Kategorio:Naskiĝintoj en 1664
+分類:1667年出世	Kategorio:Naskiĝintoj en 1667
+分類:1668年出世	Kategorio:Naskiĝintoj en 1668
+分類:1670年出世	Kategorio:Naskiĝintoj en 1670
+分類:1675年出世	Kategorio:Naskiĝintoj en 1675
+分類:1677年出世	Kategorio:Naskiĝintoj en 1677
+分類:1679年出世	Kategorio:Naskiĝintoj en 1679
+分類:1681年出世	Kategorio:Naskiĝintoj en 1681
+分類:1682年出世	Kategorio:Naskiĝintoj en 1682
+分類:1683年出世	Kategorio:Naskiĝintoj en 1683
+分類:1685年出世	Kategorio:Naskiĝintoj en 1685
+分類:615年過世	Kategorio:Mortintoj en 615
+分類:1688年出世	Kategorio:Naskiĝintoj en 1688
+分類:1690年出世	Kategorio:Naskiĝintoj en 1690
+分類:1691年出世	Kategorio:Naskiĝintoj en 1691
+分類:1692年出世	Kategorio:Naskiĝintoj en 1692
+分類:1694年出世	Kategorio:Naskiĝintoj en 1694
+分類:1695年出世	Kategorio:Naskiĝintoj en 1695
+分類:1697年出世	Kategorio:Naskiĝintoj en 1697
+分類:1698年出世	Kategorio:Naskiĝintoj en 1698
+分類:1700年出世	Kategorio:Naskiĝintoj en 1700
+分類:1703年出世	Kategorio:Naskiĝintoj en 1703
+分類:1707年出世	Kategorio:Naskiĝintoj en 1707
+分類:1710年出世	Kategorio:Naskiĝintoj en 1710
+分類:1712年出世	Kategorio:Naskiĝintoj en 1712
+分類:1714年出世	Kategorio:Naskiĝintoj en 1714
+分類:1716年出世	Kategorio:Naskiĝintoj en 1716
+分類:1719年出世	Kategorio:Naskiĝintoj en 1719
+分類:1721年出世	Kategorio:Naskiĝintoj en 1721
+分類:1723年出世	Kategorio:Naskiĝintoj en 1723
+分類:1725年出世	Kategorio:Naskiĝintoj en 1725
+分類:1726年出世	Kategorio:Naskiĝintoj en 1726
+分類:1727年出世	Kategorio:Naskiĝintoj en 1727
+分類:1728年出世	Kategorio:Naskiĝintoj en 1728
+分類:1729年出世	Kategorio:Naskiĝintoj en 1729
+分類:1730年出世	Kategorio:Naskiĝintoj en 1730
+分類:1731年出世	Kategorio:Naskiĝintoj en 1731
+分類:1732年出世	Kategorio:Naskiĝintoj en 1732
+分類:1733年出世	Kategorio:Naskiĝintoj en 1733
+分類:1734年出世	Kategorio:Naskiĝintoj en 1734
+分類:1735年出世	Kategorio:Naskiĝintoj en 1735
+分類:1736年出世	Kategorio:Naskiĝintoj en 1736
+分類:1737年出世	Kategorio:Naskiĝintoj en 1737
+分類:1738年出世	Kategorio:Naskiĝintoj en 1738
+分類:1739年出世	Kategorio:Naskiĝintoj en 1739
+分類:1740年出世	Kategorio:Naskiĝintoj en 1740
+分類:621年過世	Kategorio:Mortintoj en 621
+分類:1741年出世	Kategorio:Naskiĝintoj en 1741
+分類:1742年出世	Kategorio:Naskiĝintoj en 1742
+分類:1743年出世	Kategorio:Naskiĝintoj en 1743
+分類:1744年出世	Kategorio:Naskiĝintoj en 1744
+分類:1745年出世	Kategorio:Naskiĝintoj en 1745
+分類:1746年出世	Kategorio:Naskiĝintoj en 1746
+分類:1747年出世	Kategorio:Naskiĝintoj en 1747
+分類:1748年出世	Kategorio:Naskiĝintoj en 1748
+分類:1749年出世	Kategorio:Naskiĝintoj en 1749
+分類:1750年出世	Kategorio:Naskiĝintoj en 1750
+分類:1751年出世	Kategorio:Naskiĝintoj en 1751
+分類:1752年出世	Kategorio:Naskiĝintoj en 1752
+分類:1753年出世	Kategorio:Naskiĝintoj en 1753
+分類:1754年出世	Kategorio:Naskiĝintoj en 1754
+分類:1755年出世	Kategorio:Naskiĝintoj en 1755
+分類:1756年出世	Kategorio:Naskiĝintoj en 1756
+分類:1757年出世	Kategorio:Naskiĝintoj en 1757
+分類:1758年出世	Kategorio:Naskiĝintoj en 1758
+分類:1759年出世	Kategorio:Naskiĝintoj en 1759
+分類:1760年出世	Kategorio:Naskiĝintoj en 1760
+分類:1761年出世	Kategorio:Naskiĝintoj en 1761
+分類:1762年出世	Kategorio:Naskiĝintoj en 1762
+分類:1763年出世	Kategorio:Naskiĝintoj en 1763
+分類:1764年出世	Kategorio:Naskiĝintoj en 1764
+分類:1765年出世	Kategorio:Naskiĝintoj en 1765
+分類:1766年出世	Kategorio:Naskiĝintoj en 1766
+分類:1767年出世	Kategorio:Naskiĝintoj en 1767
+分類:1768年出世	Kategorio:Naskiĝintoj en 1768
+分類:625年過世	Kategorio:Mortintoj en 625
+分類:1769年出世	Kategorio:Naskiĝintoj en 1769
+分類:1770年出世	Kategorio:Naskiĝintoj en 1770
+分類:1771年出世	Kategorio:Naskiĝintoj en 1771
+分類:1772年出世	Kategorio:Naskiĝintoj en 1772
+分類:1773年出世	Kategorio:Naskiĝintoj en 1773
+分類:1774年出世	Kategorio:Naskiĝintoj en 1774
+分類:1775年出世	Kategorio:Naskiĝintoj en 1775
+分類:1776年出世	Kategorio:Naskiĝintoj en 1776
+分類:1777年出世	Kategorio:Naskiĝintoj en 1777
+分類:1778年出世	Kategorio:Naskiĝintoj en 1778
+分類:1779年出世	Kategorio:Naskiĝintoj en 1779
+分類:1780年出世	Kategorio:Naskiĝintoj en 1780
+分類:1781年出世	Kategorio:Naskiĝintoj en 1781
+分類:1782年出世	Kategorio:Naskiĝintoj en 1782
+分類:1783年出世	Kategorio:Naskiĝintoj en 1783
+分類:1784年出世	Kategorio:Naskiĝintoj en 1784
+分類:1785年出世	Kategorio:Naskiĝintoj en 1785
+分類:1786年出世	Kategorio:Naskiĝintoj en 1786
+分類:1787年出世	Kategorio:Naskiĝintoj en 1787
+分類:1788年出世	Kategorio:Naskiĝintoj en 1788
+分類:1789年出世	Kategorio:Naskiĝintoj en 1789
+分類:1790年出世	Kategorio:Naskiĝintoj en 1790
+分類:1791年出世	Kategorio:Naskiĝintoj en 1791
+分類:1792年出世	Kategorio:Naskiĝintoj en 1792
+分類:1794年出世	Kategorio:Naskiĝintoj en 1794
+分類:1795年出世	Kategorio:Naskiĝintoj en 1795
+分類:1796年出世	Kategorio:Naskiĝintoj en 1796
+分類:1797年出世	Kategorio:Naskiĝintoj en 1797
+分類:1798年出世	Kategorio:Naskiĝintoj en 1798
+分類:1799年出世	Kategorio:Naskiĝintoj en 1799
+分類:1800年出世	Kategorio:Naskiĝintoj en 1800
+分類:1801年出世	Kategorio:Naskiĝintoj en 1801
+分類:1803年出世	Kategorio:Naskiĝintoj en 1803
+分類:1804年出世	Kategorio:Naskiĝintoj en 1804
+分類:1805年出世	Kategorio:Naskiĝintoj en 1805
+分類:1806年出世	Kategorio:Naskiĝintoj en 1806
+分類:1807年出世	Kategorio:Naskiĝintoj en 1807
+分類:1808年出世	Kategorio:Naskiĝintoj en 1808
+分類:1809年出世	Kategorio:Naskiĝintoj en 1809
+分類:1810年代出世	Kategorio:Naskiĝintoj en 1810-1819
+分類:1810年出世	Kategorio:Naskiĝintoj en 1810
+分類:1813年出世	Kategorio:Naskiĝintoj en 1813
+分類:1814年出世	Kategorio:Naskiĝintoj en 1814
+分類:1815年出世	Kategorio:Naskiĝintoj en 1815
+分類:1816年出世	Kategorio:Naskiĝintoj en 1816
+分類:1818年出世	Kategorio:Naskiĝintoj en 1818
+分類:1819年出世	Kategorio:Naskiĝintoj en 1819
+分類:1820年出世	Kategorio:Naskiĝintoj en 1820
+分類:1821年出世	Kategorio:Naskiĝintoj en 1821
+分類:1822年出世	Kategorio:Naskiĝintoj en 1822
+分類:1824年出世	Kategorio:Naskiĝintoj en 1824
+分類:1825年出世	Kategorio:Naskiĝintoj en 1825
+分類:1826年出世	Kategorio:Naskiĝintoj en 1826
+分類:1827年出世	Kategorio:Naskiĝintoj en 1827
+分類:1828年出世	Kategorio:Naskiĝintoj en 1828
+分類:1830年出世	Kategorio:Naskiĝintoj en 1830
+分類:1831年出世	Kategorio:Naskiĝintoj en 1831
+分類:1832年出世	Kategorio:Naskiĝintoj en 1832
+分類:1833年出世	Kategorio:Naskiĝintoj en 1833
+分類:1835年出世	Kategorio:Naskiĝintoj en 1835
+分類:1836年出世	Kategorio:Naskiĝintoj en 1836
+分類:1839年出世	Kategorio:Naskiĝintoj en 1839
+分類:1840年出世	Kategorio:Naskiĝintoj en 1840
+分類:636年過世	Kategorio:Mortintoj en 636
+分類:1841年出世	Kategorio:Naskiĝintoj en 1841
+分類:1842年出世	Kategorio:Naskiĝintoj en 1842
+分類:1843年出世	Kategorio:Naskiĝintoj en 1843
+分類:1844年出世	Kategorio:Naskiĝintoj en 1844
+分類:1845年出世	Kategorio:Naskiĝintoj en 1845
+分類:1846年出世	Kategorio:Naskiĝintoj en 1846
+分類:1847年出世	Kategorio:Naskiĝintoj en 1847
+分類:1848年出世	Kategorio:Naskiĝintoj en 1848
+分類:1849年出世	Kategorio:Naskiĝintoj en 1849
+分類:1850年出世	Kategorio:Naskiĝintoj en 1850
+分類:1851年出世	Kategorio:Naskiĝintoj en 1851
+分類:1852年出世	Kategorio:Naskiĝintoj en 1852
+分類:1853年出世	Kategorio:Naskiĝintoj en 1853
+分類:1854年出世	Kategorio:Naskiĝintoj en 1854
+分類:638年過世	Kategorio:Mortintoj en 638
+分類:1855年出世	Kategorio:Naskiĝintoj en 1855
+分類:1857年出世	Kategorio:Naskiĝintoj en 1857
+分類:1858年出世	Kategorio:Naskiĝintoj en 1858
+分類:1859年出世	Kategorio:Naskiĝintoj en 1859
+分類:1860年出世	Kategorio:Naskiĝintoj en 1860
+分類:1861年出世	Kategorio:Naskiĝintoj en 1861
+分類:1864年出世	Kategorio:Naskiĝintoj en 1864
+分類:1865年出世	Kategorio:Naskiĝintoj en 1865
+分類:1866年出世	Kategorio:Naskiĝintoj en 1866
+分類:1869年出世	Kategorio:Naskiĝintoj en 1869
+分類:1870年代出世	Kategorio:Naskiĝintoj en 1870-1879
+分類:1870年出世	Kategorio:Naskiĝintoj en 1870
+分類:1872年出世	Kategorio:Naskiĝintoj en 1872
+分類:1873年出世	Kategorio:Naskiĝintoj en 1873
+分類:1874年出世	Kategorio:Naskiĝintoj en 1874
+分類:1876年出世	Kategorio:Naskiĝintoj en 1876
+分類:1877年出世	Kategorio:Naskiĝintoj en 1877
+分類:1878年出世	Kategorio:Naskiĝintoj en 1878
+分類:1880年代出世	Kategorio:Naskiĝintoj en 1880-1889
+分類:1880年出世	Kategorio:Naskiĝintoj en 1880
+分類:1882年出世	Kategorio:Naskiĝintoj en 1882
+分類:1883年出世	Kategorio:Naskiĝintoj en 1883
+分類:1884年出世	Kategorio:Naskiĝintoj en 1884
+分類:1885年出世	Kategorio:Naskiĝintoj en 1885
+分類:1886年出世	Kategorio:Naskiĝintoj en 1886
+分類:1887年出世	Kategorio:Naskiĝintoj en 1887
+分類:1889年出世	Kategorio:Naskiĝintoj en 1889
+分類:1890年出世	Kategorio:Naskiĝintoj en 1890
+分類:1891年出世	Kategorio:Naskiĝintoj en 1891
+分類:1892年出世	Kategorio:Naskiĝintoj en 1892
+分類:646年	Kategorio:646
+分類:1893年出世	Kategorio:Naskiĝintoj en 1893
+分類:1894年出世	Kategorio:Naskiĝintoj en 1894
+分類:1895年出世	Kategorio:Naskiĝintoj en 1895
+分類:1896年出世	Kategorio:Naskiĝintoj en 1896
+分類:1897年出世	Kategorio:Naskiĝintoj en 1897
+分類:1900年出世	Kategorio:Naskiĝintoj en 1900
+分類:1901年出世	Kategorio:Naskiĝintoj en 1901
+分類:1902年出世	Kategorio:Naskiĝintoj en 1902
+分類:1904年出世	Kategorio:Naskiĝintoj en 1904
+分類:1905年出世	Kategorio:Naskiĝintoj en 1905
+分類:1907年出世	Kategorio:Naskiĝintoj en 1907
+分類:1908年出世	Kategorio:Naskiĝintoj en 1908
+分類:1909年出世	Kategorio:Naskiĝintoj en 1909
+分類:1912年出世	Kategorio:Naskiĝintoj en 1912
+分類:1913年出世	Kategorio:Naskiĝintoj en 1913
+分類:1914年出世	Kategorio:Naskiĝintoj en 1914
+分類:1917年出世	Kategorio:Naskiĝintoj en 1917
+分類:1918年出世	Kategorio:Naskiĝintoj en 1918
+分類:1919年出世	Kategorio:Naskiĝintoj en 1919
+分類:1922年出世	Kategorio:Naskiĝintoj en 1922
+分類:1923年出世	Kategorio:Naskiĝintoj en 1923
+分類:1927年出世	Kategorio:Naskiĝintoj en 1927
+分類:1928年出世	Kategorio:Naskiĝintoj en 1928
+分類:1942年出世	Kategorio:Naskiĝintoj en 1942
+分類:1943年出世	Kategorio:Naskiĝintoj en 1943
+分類:1945年出世	Kategorio:Naskiĝintoj en 1945
+分類:1947年出世	Kategorio:Naskiĝintoj en 1947
+分類:1949年出世	Kategorio:Naskiĝintoj en 1949
+分類:1952年出世	Kategorio:Naskiĝintoj en 1952
+分類:1953年出世	Kategorio:Naskiĝintoj en 1953
+分類:1957年出世	Kategorio:Naskiĝintoj en 1957
+分類:1958年出世	Kategorio:Naskiĝintoj en 1958
+分類:1959年出世	Kategorio:Naskiĝintoj en 1959
+分類:1961年出世	Kategorio:Naskiĝintoj en 1961
+分類:1962年出世	Kategorio:Naskiĝintoj en 1962
+分類:1966年出世	Kategorio:Naskiĝintoj en 1966
+分類:1967年出世	Kategorio:Naskiĝintoj en 1967
+分類:1968年出世	Kategorio:Naskiĝintoj en 1968
+分類:1969年出世	Kategorio:Naskiĝintoj en 1969
+分類:1971年出世	Kategorio:Naskiĝintoj en 1971
+分類:1972年出世	Kategorio:Naskiĝintoj en 1972
+分類:1973年出世	Kategorio:Naskiĝintoj en 1973
+分類:1975年出世	Kategorio:Naskiĝintoj en 1975
+分類:1976年出世	Kategorio:Naskiĝintoj en 1976
+分類:1978年出世	Kategorio:Naskiĝintoj en 1978
+分類:1979年出世	Kategorio:Naskiĝintoj en 1979
+分類:1980年出世	Kategorio:Naskiĝintoj en 1980
+分類:1981年出世	Kategorio:Naskiĝintoj en 1981
+分類:1982年出世	Kategorio:Naskiĝintoj en 1982
+分類:658年過世	Kategorio:Mortintoj en 658
+分類:1985年出世	Kategorio:Naskiĝintoj en 1985
+分類:1986年出世	Kategorio:Naskiĝintoj en 1986
+分類:1987年出世	Kategorio:Naskiĝintoj en 1987
+分類:1988年出世	Kategorio:Naskiĝintoj en 1988
+分類:1989年出世	Kategorio:Naskiĝintoj en 1989
+分類:1991年出世	Kategorio:Naskiĝintoj en 1991
+分類:1993年出世	Kategorio:Naskiĝintoj en 1993
+分類:1994年出世	Kategorio:Naskiĝintoj en 1994
+分類:1995年出世	Kategorio:Naskiĝintoj en 1995
+分類:1996年出世	Kategorio:Naskiĝintoj en 1996
+分類:1997年出世	Kategorio:Naskiĝintoj en 1997
+分類:1999年出世	Kategorio:Naskiĝintoj en 1999
+分類:2000年出世	Kategorio:Naskiĝintoj en 2000
+分類:2001年出世	Kategorio:Naskiĝintoj en 2001
+分類:2002年出世	Kategorio:Naskiĝintoj en 2002
+分類:661年過世	Kategorio:Mortintoj en 661
+分類:2005年出世	Kategorio:Naskiĝintoj en 2005
+分類:2006年出世	Kategorio:Naskiĝintoj en 2006
+分類:2012年出世	Kategorio:Naskiĝintoj en 2012
+分類:675年過世	Kategorio:Mortintoj en 675
+分類:680年	Kategorio:680
+分類:685年過世	Kategorio:Mortintoj en 685
+分類:687年過世	Kategorio:Mortintoj en 687
+分類:689年過世	Kategorio:Mortintoj en 689
+分類:1729年	Kategorio:1729
+分類:1689年	Kategorio:1689
+分類:1715年	Kategorio:1715
+分類:700年	Kategorio:700
+分類:1797年	Kategorio:1797
+分類:1787年	Kategorio:1787
+分類:1780年	Kategorio:1780
+分類:1539年	Kategorio:1539
+分類:705年	Kategorio:705
+分類:1415年	Kategorio:1415
+分類:1647年	Kategorio:1647
+分類:1584年	Kategorio:1584
+分類:707年過世	Kategorio:Mortintoj en 707
+分類:710年過世	Kategorio:Mortintoj en 710
+分類:1590年	Kategorio:1590
+分類:1671年	Kategorio:1671
+分類:1644年	Kategorio:1644
+分類:1432年	Kategorio:1432
+分類:1274年	Kategorio:1274
+分類:1676年	Kategorio:1676
+分類:714年過世	Kategorio:Mortintoj en 714
+分類:716年過世	Kategorio:Mortintoj en 716
+分類:718年過世	Kategorio:Mortintoj en 718
+分類:725年過世	Kategorio:Mortintoj en 725
+分類:729年過世	Kategorio:Mortintoj en 729
+分類:734年過世	Kategorio:Mortintoj en 734
+分類:740年過世	Kategorio:Mortintoj en 740
+分類:743年過世	Kategorio:Mortintoj en 743
+分類:747年過世	Kategorio:Mortintoj en 747
+分類:751年過世	Kategorio:Mortintoj en 751
+分類:753年過世	Kategorio:Mortintoj en 753
+分類:755年	Kategorio:755
+分類:755年過世	Kategorio:Mortintoj en 755
+分類:757年過世	Kategorio:Mortintoj en 757
+分類:759年過世	Kategorio:Mortintoj en 759
+分類:762年過世	Kategorio:Mortintoj en 762
+分類:766年過世	Kategorio:Mortintoj en 766
+分類:768年過世	Kategorio:Mortintoj en 768
+分類:771年過世	Kategorio:Mortintoj en 771
+分類:780年過世	Kategorio:Mortintoj en 780
+分類:786年	Kategorio:786
+分類:786年過世	Kategorio:Mortintoj en 786
+分類:789年過世	Kategorio:Mortintoj en 789
+分類:792年過世	Kategorio:Mortintoj en 792
+分類:793年過世	Kategorio:Mortintoj en 793
+分類:800年過世	Kategorio:Mortintoj en 800
+分類:801年過世	Kategorio:Mortintoj en 801
+分類:802年過世	Kategorio:Mortintoj en 802
+分類:804年	Kategorio:804
+分類:804年過世	Kategorio:Mortintoj en 804
+分類:805年過世	Kategorio:Mortintoj en 805
+分類:814年過世	Kategorio:Mortintoj en 814
+分類:818年過世	Kategorio:Mortintoj en 818
+分類:820年過世	Kategorio:Mortintoj en 820
+分類:825年過世	Kategorio:Mortintoj en 825
+分類:827年過世	Kategorio:Mortintoj en 827
+分類:832年過世	Kategorio:Mortintoj en 832
+分類:843年	Kategorio:843
+分類:847年過世	Kategorio:Mortintoj en 847
+分類:849年過世	Kategorio:Mortintoj en 849
+分類:850年過世	Kategorio:Mortintoj en 850
+分類:852年過世	Kategorio:Mortintoj en 852
+分類:855年	Kategorio:855
+分類:855年過世	Kategorio:Mortintoj en 855
+分類:858年過世	Kategorio:Mortintoj en 858
+分類:860年過世	Kategorio:Mortintoj en 860
+分類:862年過世	Kategorio:Mortintoj en 862
+分類:866年過世	Kategorio:Mortintoj en 866
+分類:867年過世	Kategorio:Mortintoj en 867
+分類:869年過世	Kategorio:Mortintoj en 869
+分類:877年過世	Kategorio:Mortintoj en 877
+分類:879年過世	Kategorio:Mortintoj en 879
+分類:882年過世	Kategorio:Mortintoj en 882
+分類:884年過世	Kategorio:Mortintoj en 884
+分類:886年過世	Kategorio:Mortintoj en 886
+分類:888年過世	Kategorio:Mortintoj en 888
+分類:891年	Kategorio:891
+分類:894年過世	Kategorio:Mortintoj en 894
+分類:896年過世	Kategorio:Mortintoj en 896
+分類:915年過世	Kategorio:Mortintoj en 915
+分類:3世紀	Kategorio:3-a jarcento
+分類:922年過世	Kategorio:Mortintoj en 922
+分類:923年過世	Kategorio:Mortintoj en 923
+分類:11世紀	Kategorio:11-a jarcento
+分類:17世紀	Kategorio:17-a jarcento
+分類:936年過世	Kategorio:Mortintoj en 936
+分類:939年過世	Kategorio:Mortintoj en 939
+分類:945年過世	Kategorio:Mortintoj en 945
+分類:952年過世	Kategorio:Mortintoj en 952
+分類:954年過世	Kategorio:Mortintoj en 954
+分類:955年過世	Kategorio:Mortintoj en 955
+分類:961年過世	Kategorio:Mortintoj en 961
+分類:964年過世	Kategorio:Mortintoj en 964
+分類:965年過世	Kategorio:Mortintoj en 965
+分類:970年過世	Kategorio:Mortintoj en 970
+分類:975年過世	Kategorio:Mortintoj en 975
+分類:984年過世	Kategorio:Mortintoj en 984
+分類:986年過世	Kategorio:Mortintoj en 986
+分類:996年過世	Kategorio:Mortintoj en 996
+分類:1002年過世	Kategorio:Mortintoj en 1002
+分類:1003年過世	Kategorio:Mortintoj en 1003
+分類:10世紀	Kategorio:10-a jarcento
+分類:1400年代	Kategorio:1400-1409
+分類:1004年過世	Kategorio:Mortintoj en 1004
+分類:7世紀	Kategorio:7-a jarcento
+分類:1005年過世	Kategorio:Mortintoj en 1005
+分類:1006年過世	Kategorio:Mortintoj en 1006
+分類:1007年過世	Kategorio:Mortintoj en 1007
+分類:1008年過世	Kategorio:Mortintoj en 1008
+分類:1009年過世	Kategorio:Mortintoj en 1009
+分類:1010年過世	Kategorio:Mortintoj en 1010
+分類:1011年過世	Kategorio:Mortintoj en 1011
+分類:1013年過世	Kategorio:Mortintoj en 1013
+分類:1019年過世	Kategorio:Mortintoj en 1019
+分類:1020年過世	Kategorio:Mortintoj en 1020
+分類:1022年過世	Kategorio:Mortintoj en 1022
+分類:1023年過世	Kategorio:Mortintoj en 1023
+分類:1028年過世	Kategorio:Mortintoj en 1028
+分類:1029年過世	Kategorio:Mortintoj en 1029
+分類:1030年過世	Kategorio:Mortintoj en 1030
+分類:1035年過世	Kategorio:Mortintoj en 1035
+分類:1039年過世	Kategorio:Mortintoj en 1039
+分類:1043年過世	Kategorio:Mortintoj en 1043
+分類:1044年過世	Kategorio:Mortintoj en 1044
+分類:1046年過世	Kategorio:Mortintoj en 1046
+分類:1049年過世	Kategorio:Mortintoj en 1049
+分類:1052年過世	Kategorio:Mortintoj en 1052
+分類:1056年過世	Kategorio:Mortintoj en 1056
+分類:1058年	Kategorio:1058
+分類:1069年過世	Kategorio:Mortintoj en 1069
+分類:1070年過世	Kategorio:Mortintoj en 1070
+分類:1077年過世	Kategorio:Mortintoj en 1077
+分類:1083年過世	Kategorio:Mortintoj en 1083
+分類:1092年	Kategorio:1092
+分類:1093年過世	Kategorio:Mortintoj en 1093
+分類:1094年過世	Kategorio:Mortintoj en 1094
+分類:1099年過世	Kategorio:Mortintoj en 1099
+分類:1114年	Kategorio:1114
+分類:1118年過世	Kategorio:Mortintoj en 1118
+分類:1122年	Kategorio:1122
+分類:1123年	Kategorio:1123
+分類:1123年過世	Kategorio:Mortintoj en 1123
+分類:1130年	Kategorio:1130
+分類:1131年過世	Kategorio:Mortintoj en 1131
+分類:1142年	Kategorio:1142
+分類:1143年過世	Kategorio:Mortintoj en 1143
+分類:1150年過世	Kategorio:Mortintoj en 1150
+分類:1158年	Kategorio:1158
+分類:1158年過世	Kategorio:Mortintoj en 1158
+分類:1164年過世	Kategorio:Mortintoj en 1164
+分類:1168年過世	Kategorio:Mortintoj en 1168
+分類:1169年過世	Kategorio:Mortintoj en 1169
+分類:1171年過世	Kategorio:Mortintoj en 1171
+分類:人	Kategorio:Homoj
+分類:1174年過世	Kategorio:Mortintoj en 1174
+分類:1175年過世	Kategorio:Mortintoj en 1175
+分類:1179年過世	Kategorio:Mortintoj en 1179
+分類:1180年過世	Kategorio:Mortintoj en 1180
+分類:1182年過世	Kategorio:Mortintoj en 1182
+分類:1183年過世	Kategorio:Mortintoj en 1183
+分類:1187年	Kategorio:1187
+分類:1187年過世	Kategorio:Mortintoj en 1187
+分類:1190年過世	Kategorio:Mortintoj en 1190
+分類:1191年過世	Kategorio:Mortintoj en 1191
+分類:1194年過世	Kategorio:Mortintoj en 1194
+分類:1196年過世	Kategorio:Mortintoj en 1196
+分類:1199年過世	Kategorio:Mortintoj en 1199
+分類:1202年	Kategorio:1202
+分類:1202年過世	Kategorio:Mortintoj en 1202
+分類:1207年過世	Kategorio:Mortintoj en 1207
+分類:1211年過世	Kategorio:Mortintoj en 1211
+分類:1219年過世	Kategorio:Mortintoj en 1219
+分類:1223年過世	Kategorio:Mortintoj en 1223
+分類:1225年過世	Kategorio:Mortintoj en 1225
+分類:1240年過世	Kategorio:Mortintoj en 1240
+分類:1252年過世	Kategorio:Mortintoj en 1252
+分類:1275年過世	Kategorio:Mortintoj en 1275
+分類:1279年過世	Kategorio:Mortintoj en 1279
+分類:1281年過世	Kategorio:Mortintoj en 1281
+分類:1284年	Kategorio:1284
+分類:1288年過世	Kategorio:Mortintoj en 1288
+分類:1291年	Kategorio:1291
+分類:1293年過世	Kategorio:Mortintoj en 1293
+分類:1295年過世	Kategorio:Mortintoj en 1295
+分類:1299年	Kategorio:1299
+分類:1300年過世	Kategorio:Mortintoj en 1300
+分類:1302年過世	Kategorio:Mortintoj en 1302
+分類:1304年過世	Kategorio:Mortintoj en 1304
+分類:1306年過世	Kategorio:Mortintoj en 1306
+分類:1307年過世	Kategorio:Mortintoj en 1307
+分類:1308年過世	Kategorio:Mortintoj en 1308
+分類:1312年	Kategorio:1312
+分類:1312年過世	Kategorio:Mortintoj en 1312
+分類:1324年過世	Kategorio:Mortintoj en 1324
+分類:1326年過世	Kategorio:Mortintoj en 1326
+分類:1327年過世	Kategorio:Mortintoj en 1327
+分類:1345年	Kategorio:1345
+分類:1353年過世	Kategorio:Mortintoj en 1353
+分類:1355年過世	Kategorio:Mortintoj en 1355
+分類:1357年過世	Kategorio:Mortintoj en 1357
+分類:1360年過世	Kategorio:Mortintoj en 1360
+分類:1363年	Kategorio:1363
+分類:1376年過世	Kategorio:Mortintoj en 1376
+分類:1382年過世	Kategorio:Mortintoj en 1382
+分類:1384年過世	Kategorio:Mortintoj en 1384
+分類:2014年	Kategorio:2014
+分類:2015年	Kategorio:2015
+分類:1390年過世	Kategorio:Mortintoj en 1390
+分類:1393年過世	Kategorio:Mortintoj en 1393
+分類:1395年過世	Kategorio:Mortintoj en 1395
+分類:1396年過世	Kategorio:Mortintoj en 1396
+分類:1402年	Kategorio:1402
+分類:1403年	Kategorio:1403
+分類:1404年過世	Kategorio:Mortintoj en 1404
+分類:1405年過世	Kategorio:Mortintoj en 1405
+分類:1407年	Kategorio:1407
+分類:1409年	Kategorio:1409
+分類:1410年	Kategorio:1410
+分類:1411年	Kategorio:1411
+分類:1412年	Kategorio:1412
+分類:1412年過世	Kategorio:Mortintoj en 1412
+分類:1413年過世	Kategorio:Mortintoj en 1413
+分類:1416年	Kategorio:1416
+分類:1416年過世	Kategorio:Mortintoj en 1416
+分類:1418年過世	Kategorio:Mortintoj en 1418
+分類:1420年過世	Kategorio:Mortintoj en 1420
+分類:1423年	Kategorio:1423
+分類:1425年	Kategorio:1425
+分類:1425年過世	Kategorio:Mortintoj en 1425
+分類:1427年	Kategorio:1427
+分類:1427年過世	Kategorio:Mortintoj en 1427
+分類:1428年過世	Kategorio:Mortintoj en 1428
+分類:1432年過世	Kategorio:Mortintoj en 1432
+分類:1438年	Kategorio:1438
+分類:1438年過世	Kategorio:Mortintoj en 1438
+分類:1439年過世	Kategorio:Mortintoj en 1439
+分類:1441年	Kategorio:1441
+分類:1442年	Kategorio:1442
+分類:1442年過世	Kategorio:Mortintoj en 1442
+分類:1444年	Kategorio:1444
+分類:1446年	Kategorio:1446
+分類:1446年過世	Kategorio:Mortintoj en 1446
+分類:1448年	Kategorio:1448
+分類:1448年過世	Kategorio:Mortintoj en 1448
+分類:1451年過世	Kategorio:Mortintoj en 1451
+分類:1452年過世	Kategorio:Mortintoj en 1452
+分類:1454年	Kategorio:1454
+分類:1455年	Kategorio:1455
+分類:1456年過世	Kategorio:Mortintoj en 1456
+分類:1459年	Kategorio:1459
+分類:1459年過世	Kategorio:Mortintoj en 1459
+分類:1461年	Kategorio:1461
+分類:1462年過世	Kategorio:Mortintoj en 1462
+分類:1464年過世	Kategorio:Mortintoj en 1464
+分類:1469年	Kategorio:1469
+分類:1473年過世	Kategorio:Mortintoj en 1473
+分類:1474年過世	Kategorio:Mortintoj en 1474
+分類:1477年	Kategorio:1477
+分類:1477年過世	Kategorio:Mortintoj en 1477
+分類:1478年過世	Kategorio:Mortintoj en 1478
+分類:1502年	Kategorio:1502
+分類:1482年過世	Kategorio:Mortintoj en 1482
+分類:1484年	Kategorio:1484
+分類:1485年	Kategorio:1485
+分類:1485年過世	Kategorio:Mortintoj en 1485
+分類:1487年	Kategorio:1487
+分類:1488年	Kategorio:1488
+分類:1489年	Kategorio:1489
+分類:1492年	Kategorio:1492
+分類:1493年過世	Kategorio:Mortintoj en 1493
+分類:1495年	Kategorio:1495
+分類:1505年過世	Kategorio:Mortintoj en 1505
+分類:1506年過世	Kategorio:Mortintoj en 1506
+分類:1509年過世	Kategorio:Mortintoj en 1509
+分類:1510年過世	Kategorio:Mortintoj en 1510
+分類:1513年過世	Kategorio:Mortintoj en 1513
+分類:1515年	Kategorio:1515
+分類:1515年過世	Kategorio:Mortintoj en 1515
+分類:1518年	Kategorio:1518
+分類:1518年過世	Kategorio:Mortintoj en 1518
+分類:1522年過世	Kategorio:Mortintoj en 1522
+分類:1523年過世	Kategorio:Mortintoj en 1523
+分類:1525年過世	Kategorio:Mortintoj en 1525
+分類:1527年過世	Kategorio:Mortintoj en 1527
+分類:1528年過世	Kategorio:Mortintoj en 1528
+分類:1530年過世	Kategorio:Mortintoj en 1530
+分類:1531年過世	Kategorio:Mortintoj en 1531
+分類:1533年	Kategorio:1533
+分類:1533年過世	Kategorio:Mortintoj en 1533
+分類:1535年	Kategorio:1535
+分類:1537年	Kategorio:1537
+分類:1537年過世	Kategorio:Mortintoj en 1537
+分類:1540年	Kategorio:1540
+分類:1540年過世	Kategorio:Mortintoj en 1540
+分類:1543年過世	Kategorio:Mortintoj en 1543
+分類:1546年	Kategorio:1546
+分類:1551年	Kategorio:1551
+分類:1552年	Kategorio:1552
+分類:1552年過世	Kategorio:Mortintoj en 1552
+分類:1555年	Kategorio:1555
+分類:1555年過世	Kategorio:Mortintoj en 1555
+分類:1559年過世	Kategorio:Mortintoj en 1559
+分類:1561年	Kategorio:1561
+分類:1563年	Kategorio:1563
+分類:1563年過世	Kategorio:Mortintoj en 1563
+分類:1566年	Kategorio:1566
+分類:1566年過世	Kategorio:Mortintoj en 1566
+分類:1569年	Kategorio:1569
+分類:1572年	Kategorio:1572
+分類:1572年過世	Kategorio:Mortintoj en 1572
+分類:1575年	Kategorio:1575
+分類:1578年	Kategorio:1578
+分類:1578年過世	Kategorio:Mortintoj en 1578
+分類:1580年	Kategorio:1580
+分類:1580年過世	Kategorio:Mortintoj en 1580
+分類:1582年	Kategorio:1582
+分類:1582年過世	Kategorio:Mortintoj en 1582
+分類:1584年過世	Kategorio:Mortintoj en 1584
+分類:1595年	Kategorio:1595
+分類:1599年過世	Kategorio:Mortintoj en 1599
+分類:1605年	Kategorio:1605
+分類:1605年過世	Kategorio:Mortintoj en 1605
+分類:1607年	Kategorio:1607
+分類:1607年過世	Kategorio:Mortintoj en 1607
+分類:1609年過世	Kategorio:Mortintoj en 1609
+分類:1611年	Kategorio:1611
+分類:1611年過世	Kategorio:Mortintoj en 1611
+分類:1615年	Kategorio:1615
+分類:1618年	Kategorio:1618
+分類:1618年過世	Kategorio:Mortintoj en 1618
+分類:1620年	Kategorio:1620
+分類:1620年過世	Kategorio:Mortintoj en 1620
+分類:1622年	Kategorio:1622
+分類:1624年	Kategorio:1624
+分類:1624年過世	Kategorio:Mortintoj en 1624
+分類:1626年	Kategorio:1626
+分類:1626年過世	Kategorio:Mortintoj en 1626
+分類:1629年	Kategorio:1629
+分類:1629年過世	Kategorio:Mortintoj en 1629
+分類:1631年	Kategorio:1631
+分類:1631年過世	Kategorio:Mortintoj en 1631
+分類:1633年	Kategorio:1633
+分類:1633年過世	Kategorio:Mortintoj en 1633
+分類:1635年	Kategorio:1635
+分類:1637年	Kategorio:1637
+分類:1638年過世	Kategorio:Mortintoj en 1638
+分類:1640年	Kategorio:1640
+分類:1640年過世	Kategorio:Mortintoj en 1640
+分類:1642年	Kategorio:1642
+分類:1642年過世	Kategorio:Mortintoj en 1642
+分類:1644年過世	Kategorio:Mortintoj en 1644
+分類:1649年	Kategorio:1649
+分類:1649年過世	Kategorio:Mortintoj en 1649
+分類:1652年	Kategorio:1652
+分類:1657年	Kategorio:1657
+分類:1659年	Kategorio:1659
+分類:1660年過世	Kategorio:Mortintoj en 1660
+分類:1665年	Kategorio:1665
+分類:1665年過世	Kategorio:Mortintoj en 1665
+分類:1666年過世	Kategorio:Mortintoj en 1666
+分類:1668年	Kategorio:1668
+分類:1669年	Kategorio:1669
+分類:1669年過世	Kategorio:Mortintoj en 1669
+分類:1671年過世	Kategorio:Mortintoj en 1671
+分類:1673年過世	Kategorio:Mortintoj en 1673
+分類:1674年過世	Kategorio:Mortintoj en 1674
+分類:1676年過世	Kategorio:Mortintoj en 1676
+分類:1678年	Kategorio:1678
+分類:1678年過世	Kategorio:Mortintoj en 1678
+分類:1684年過世	Kategorio:Mortintoj en 1684
+分類:1686年	Kategorio:1686
+分類:1687年過世	Kategorio:Mortintoj en 1687
+分類:1689年過世	Kategorio:Mortintoj en 1689
+分類:1693年	Kategorio:1693
+分類:1693年過世	Kategorio:Mortintoj en 1693
+分類:1694年過世	Kategorio:Mortintoj en 1694
+分類:1696年	Kategorio:1696
+分類:1696年過世	Kategorio:Mortintoj en 1696
+分類:1697年過世	Kategorio:Mortintoj en 1697
+分類:1699年	Kategorio:1699
+分類:1699年過世	Kategorio:Mortintoj en 1699
+分類:1701年過世	Kategorio:Mortintoj en 1701
+分類:1702年過世	Kategorio:Mortintoj en 1702
+分類:1705年	Kategorio:1705
+分類:1706年	Kategorio:1706
+分類:1706年過世	Kategorio:Mortintoj en 1706
+分類:1708年過世	Kategorio:Mortintoj en 1708
+分類:1709年過世	Kategorio:Mortintoj en 1709
+分類:1711年	Kategorio:1711
+分類:1711年過世	Kategorio:Mortintoj en 1711
+分類:1713年過世	Kategorio:Mortintoj en 1713
+分類:1715年過世	Kategorio:Mortintoj en 1715
+分類:1716年過世	Kategorio:Mortintoj en 1716
+分類:1720年	Kategorio:1720
+分類:1722年	Kategorio:1722
+分類:1722年過世	Kategorio:Mortintoj en 1722
+分類:1724年過世	Kategorio:Mortintoj en 1724
+分類:1726年	Kategorio:1726
+分類:1726年過世	Kategorio:Mortintoj en 1726
+分類:1727年過世	Kategorio:Mortintoj en 1727
+分類:1728年過世	Kategorio:Mortintoj en 1728
+分類:1730年	Kategorio:1730
+分類:1730年過世	Kategorio:Mortintoj en 1730
+分類:1731年過世	Kategorio:Mortintoj en 1731
+分類:1732年過世	Kategorio:Mortintoj en 1732
+分類:1733年過世	Kategorio:Mortintoj en 1733
+分類:1734年過世	Kategorio:Mortintoj en 1734
+分類:1735年過世	Kategorio:Mortintoj en 1735
+分類:1736年過世	Kategorio:Mortintoj en 1736
+分類:1737年過世	Kategorio:Mortintoj en 1737
+分類:1739年	Kategorio:1739
+分類:1739年過世	Kategorio:Mortintoj en 1739
+分類:1741年過世	Kategorio:Mortintoj en 1741
+分類:1742年過世	Kategorio:Mortintoj en 1742
+分類:1743年過世	Kategorio:Mortintoj en 1743
+分類:1744年過世	Kategorio:Mortintoj en 1744
+分類:1745年過世	Kategorio:Mortintoj en 1745
+分類:1746年過世	Kategorio:Mortintoj en 1746
+分類:1747年過世	Kategorio:Mortintoj en 1747
+分類:1748年過世	Kategorio:Mortintoj en 1748
+分類:1749年過世	Kategorio:Mortintoj en 1749
+分類:1751年	Kategorio:1751
+分類:1751年過世	Kategorio:Mortintoj en 1751
+分類:1752年過世	Kategorio:Mortintoj en 1752
+分類:1753年過世	Kategorio:Mortintoj en 1753
+分類:1754年過世	Kategorio:Mortintoj en 1754
+分類:1755年過世	Kategorio:Mortintoj en 1755
+分類:1756年過世	Kategorio:Mortintoj en 1756
+分類:1757年過世	Kategorio:Mortintoj en 1757
+分類:1758年過世	Kategorio:Mortintoj en 1758
+分類:1759年過世	Kategorio:Mortintoj en 1759
+分類:1760年過世	Kategorio:Mortintoj en 1760
+分類:1761年過世	Kategorio:Mortintoj en 1761
+分類:1762年過世	Kategorio:Mortintoj en 1762
+分類:1764年	Kategorio:1764
+分類:1765年	Kategorio:1765
+分類:1766年	Kategorio:1766
+分類:1767年	Kategorio:1767
+分類:1767年過世	Kategorio:Mortintoj en 1767
+分類:1769年	Kategorio:1769
+分類:1769年過世	Kategorio:Mortintoj en 1769
+分類:1770年過世	Kategorio:Mortintoj en 1770
+分類:1771年過世	Kategorio:Mortintoj en 1771
+分類:1772年過世	Kategorio:Mortintoj en 1772
+分類:1773年過世	Kategorio:Mortintoj en 1773
+分類:1775年	Kategorio:1775
+分類:1775年過世	Kategorio:Mortintoj en 1775
+分類:1776年過世	Kategorio:Mortintoj en 1776
+分類:1779年	Kategorio:1779
+分類:1780年過世	Kategorio:Mortintoj en 1780
+分類:1781年過世	Kategorio:Mortintoj en 1781
+分類:1782年過世	Kategorio:Mortintoj en 1782
+分類:1783年過世	Kategorio:Mortintoj en 1783
+分類:1784年過世	Kategorio:Mortintoj en 1784
+分類:1785年過世	Kategorio:Mortintoj en 1785
+分類:1786年過世	Kategorio:Mortintoj en 1786
+分類:1787年過世	Kategorio:Mortintoj en 1787
+分類:1788年過世	Kategorio:Mortintoj en 1788
+分類:1789年過世	Kategorio:Mortintoj en 1789
+分類:1790年過世	Kategorio:Mortintoj en 1790
+分類:日本公司	Kategorio:Japanaj firmaoj
+分類:1778年	Kategorio:1778
+分類:14年過世	Kategorio:Mortintoj en 14
+分類:79年過世	Kategorio:Mortintoj en 79
+分類:88年過世	Kategorio:Mortintoj en 88
+分類:140年過世	Kategorio:Mortintoj en 140
+分類:238年過世	Kategorio:Mortintoj en 238
+分類:249年過世	Kategorio:Mortintoj en 249
+分類:286年過世	Kategorio:Mortintoj en 286
+分類:340年	Kategorio:340
+分類:394年過世	Kategorio:Mortintoj en 394
+分類:451年過世	Kategorio:Mortintoj en 451
+分類:705年過世	Kategorio:Mortintoj en 705
+分類:788年過世	Kategorio:Mortintoj en 788
+分類:839年過世	Kategorio:Mortintoj en 839
+分類:871年過世	Kategorio:Mortintoj en 871
+分類:1034年過世	Kategorio:Mortintoj en 1034
+分類:1047年過世	Kategorio:Mortintoj en 1047
+分類:1066年過世	Kategorio:Mortintoj en 1066
+分類:1082年過世	Kategorio:Mortintoj en 1082
+分類:1111年	Kategorio:1111
+模板:PRC	Ŝablono:CHN
+分類:1928年過世	Kategorio:Mortintoj en 1928
+分類:1937年過世	Kategorio:Mortintoj en 1937
+分類:1950年過世	Kategorio:Mortintoj en 1950
+分類:1230年過世	Kategorio:Mortintoj en 1230
+分類:1241年過世	Kategorio:Mortintoj en 1241
+分類:1328年過世	Kategorio:Mortintoj en 1328
+分類:1337年過世	Kategorio:Mortintoj en 1337
+分類:1366年過世	Kategorio:Mortintoj en 1366
+分類:1423年過世	Kategorio:Mortintoj en 1423
+分類:1449年過世	Kategorio:Mortintoj en 1449
+分類:1451年	Kategorio:1451
+分類:1463年過世	Kategorio:Mortintoj en 1463
+分類:1475年過世	Kategorio:Mortintoj en 1475
+分類:1480年	Kategorio:1480
+分類:1486年	Kategorio:1486
+分類:1512年過世	Kategorio:Mortintoj en 1512
+分類:1516年過世	Kategorio:Mortintoj en 1516
+分類:1569年過世	Kategorio:Mortintoj en 1569
+分類:1573年過世	Kategorio:Mortintoj en 1573
+分類:1575年過世	Kategorio:Mortintoj en 1575
+分類:1576年過世	Kategorio:Mortintoj en 1576
+分類:1587年	Kategorio:1587
+分類:1587年過世	Kategorio:Mortintoj en 1587
+分類:1589年	Kategorio:1589
+分類:1590年過世	Kategorio:Mortintoj en 1590
+分類:1595年過世	Kategorio:Mortintoj en 1595
+分類:1597年過世	Kategorio:Mortintoj en 1597
+分類:1599年	Kategorio:1599
+分類:1602年	Kategorio:1602
+分類:1602年過世	Kategorio:Mortintoj en 1602
+分類:1609年	Kategorio:1609
+分類:1610年	Kategorio:1610
+分類:1610年過世	Kategorio:Mortintoj en 1610
+分類:1613年	Kategorio:1613
+分類:1613年過世	Kategorio:Mortintoj en 1613
+分類:1615年過世	Kategorio:Mortintoj en 1615
+分類:1635年過世	Kategorio:Mortintoj en 1635
+分類:1637年過世	Kategorio:Mortintoj en 1637
+分類:1647年過世	Kategorio:Mortintoj en 1647
+分類:1666年	Kategorio:1666
+分類:1672年過世	Kategorio:Mortintoj en 1672
+分類:1674年	Kategorio:1674
+模板:ENG	Ŝablono:ENG
+分類:2011年過世	Kategorio:Mortintoj en 2011
+分類:165年過世	Kategorio:Mortintoj en 165
+分類:958年過世	Kategorio:Mortintoj en 958
+分類:1291年過世	Kategorio:Mortintoj en 1291
+分類:1495年過世	Kategorio:Mortintoj en 1495
+分類:1503年過世	Kategorio:Mortintoj en 1503
+分類:1541年過世	Kategorio:Mortintoj en 1541
+分類:1546年過世	Kategorio:Mortintoj en 1546
+分類:1713年	Kategorio:1713
+分類:1724年	Kategorio:1724
+分類:1728年	Kategorio:1728
+分類:1731年	Kategorio:1731
+分類:1732年	Kategorio:1732
+分類:1733年	Kategorio:1733
+分類:1738年	Kategorio:1738
+分類:1738年過世	Kategorio:Mortintoj en 1738
+分類:1740年	Kategorio:1740
+分類:1740年過世	Kategorio:Mortintoj en 1740
+分類:1741年	Kategorio:1741
+分類:1743年	Kategorio:1743
+分類:1747年	Kategorio:1747
+分類:1748年	Kategorio:1748
+分類:1749年	Kategorio:1749
+分類:1750年	Kategorio:1750
+分類:1750年過世	Kategorio:Mortintoj en 1750
+分類:1752年	Kategorio:1752
+分類:1753年	Kategorio:1753
+分類:1754年	Kategorio:1754
+分類:1755年	Kategorio:1755
+分類:1756年	Kategorio:1756
+分類:1757年	Kategorio:1757
+分類:1758年	Kategorio:1758
+分類:1759年	Kategorio:1759
+分類:1760年	Kategorio:1760
+分類:1761年	Kategorio:1761
+分類:1762年	Kategorio:1762
+分類:1763年	Kategorio:1763
+分類:1763年過世	Kategorio:Mortintoj en 1763
+分類:1765年過世	Kategorio:Mortintoj en 1765
+分類:1766年過世	Kategorio:Mortintoj en 1766
+分類:1768年	Kategorio:1768
+分類:1770年	Kategorio:1770
+分類:1772年	Kategorio:1772
+分類:1773年	Kategorio:1773
+分類:1774年	Kategorio:1774
+分類:1774年過世	Kategorio:Mortintoj en 1774
+分類:1776年	Kategorio:1776
+分類:1777年	Kategorio:1777
+分類:1779年過世	Kategorio:Mortintoj en 1779
+分類:1781年	Kategorio:1781
+分類:1782年	Kategorio:1782
+分類:1783年	Kategorio:1783
+分類:1784年	Kategorio:1784
+分類:1786年	Kategorio:1786
+分類:1788年	Kategorio:1788
+分類:1790年	Kategorio:1790
+分類:1791年	Kategorio:1791
+分類:1791年過世	Kategorio:Mortintoj en 1791
+分類:1792年	Kategorio:1792
+分類:1792年過世	Kategorio:Mortintoj en 1792
+分類:1794年	Kategorio:1794
+分類:1795年	Kategorio:1795
+分類:1796年過世	Kategorio:Mortintoj en 1796
+分類:1797年過世	Kategorio:Mortintoj en 1797
+分類:1798年	Kategorio:1798
+分類:1799年	Kategorio:1799
+分類:1800年	Kategorio:1800
+分類:1800年過世	Kategorio:Mortintoj en 1800
+分類:1801年	Kategorio:1801
+分類:1802年	Kategorio:1802
+分類:1802年出世	Kategorio:Naskiĝintoj en 1802
+分類:1803年	Kategorio:1803
+分類:1803年過世	Kategorio:Mortintoj en 1803
+分類:1804年	Kategorio:1804
+分類:1804年過世	Kategorio:Mortintoj en 1804
+分類:1805年	Kategorio:1805
+分類:1805年過世	Kategorio:Mortintoj en 1805
+分類:1806年	Kategorio:1806
+分類:1806年過世	Kategorio:Mortintoj en 1806
+分類:1807年	Kategorio:1807
+分類:1807年過世	Kategorio:Mortintoj en 1807
+分類:1808年過世	Kategorio:Mortintoj en 1808
+分類:1809年	Kategorio:1809
+分類:1810年	Kategorio:1810
+分類:1810年過世	Kategorio:Mortintoj en 1810
+分類:1811年	Kategorio:1811
+分類:1811年出世	Kategorio:Naskiĝintoj en 1811
+分類:1811年過世	Kategorio:Mortintoj en 1811
+分類:1812年過世	Kategorio:Mortintoj en 1812
+分類:1813年	Kategorio:1813
+分類:1813年過世	Kategorio:Mortintoj en 1813
+分類:1814年	Kategorio:1814
+分類:1814年過世	Kategorio:Mortintoj en 1814
+分類:1815年	Kategorio:1815
+分類:1815年過世	Kategorio:Mortintoj en 1815
+分類:1816年	Kategorio:1816
+分類:1816年過世	Kategorio:Mortintoj en 1816
+分類:1817年過世	Kategorio:Mortintoj en 1817
+分類:1818年	Kategorio:1818
+分類:1818年過世	Kategorio:Mortintoj en 1818
+分類:1819年	Kategorio:1819
+分類:1819年過世	Kategorio:Mortintoj en 1819
+分類:1820年	Kategorio:1820
+分類:1820年過世	Kategorio:Mortintoj en 1820
+分類:1821年過世	Kategorio:Mortintoj en 1821
+分類:1823年	Kategorio:1823
+分類:1824年過世	Kategorio:Mortintoj en 1824
+分類:1825年過世	Kategorio:Mortintoj en 1825
+分類:1827年	Kategorio:1827
+分類:1828年過世	Kategorio:Mortintoj en 1828
+分類:1830年	Kategorio:1830
+分類:1831年過世	Kategorio:Mortintoj en 1831
+分類:1832年過世	Kategorio:Mortintoj en 1832
+分類:1833年過世	Kategorio:Mortintoj en 1833
+分類:1834年	Kategorio:1834
+分類:1834年過世	Kategorio:Mortintoj en 1834
+分類:1835年	Kategorio:1835
+分類:1836年	Kategorio:1836
+分類:1836年過世	Kategorio:Mortintoj en 1836
+分類:1837年過世	Kategorio:Mortintoj en 1837
+分類:1838年	Kategorio:1838
+分類:1838年過世	Kategorio:Mortintoj en 1838
+分類:1839年	Kategorio:1839
+分類:1840年	Kategorio:1840
+分類:1840年過世	Kategorio:Mortintoj en 1840
+分類:1841年過世	Kategorio:Mortintoj en 1841
+分類:1842年	Kategorio:1842
+分類:1842年過世	Kategorio:Mortintoj en 1842
+分類:1843年	Kategorio:1843
+分類:1843年過世	Kategorio:Mortintoj en 1843
+分類:1844年過世	Kategorio:Mortintoj en 1844
+分類:1845年過世	Kategorio:Mortintoj en 1845
+分類:1846年	Kategorio:1846
+分類:1846年過世	Kategorio:Mortintoj en 1846
+分類:1847年	Kategorio:1847
+分類:1847年過世	Kategorio:Mortintoj en 1847
+分類:1848年	Kategorio:1848
+分類:1849年	Kategorio:1849
+分類:1849年過世	Kategorio:Mortintoj en 1849
+分類:1850年過世	Kategorio:Mortintoj en 1850
+分類:1851年	Kategorio:1851
+分類:1851年過世	Kategorio:Mortintoj en 1851
+分類:1852年	Kategorio:1852
+分類:1853年	Kategorio:1853
+分類:1853年過世	Kategorio:Mortintoj en 1853
+分類:1854年	Kategorio:1854
+分類:1854年過世	Kategorio:Mortintoj en 1854
+分類:1855年過世	Kategorio:Mortintoj en 1855
+分類:1856年	Kategorio:1856
+分類:1856年過世	Kategorio:Mortintoj en 1856
+分類:1857年	Kategorio:1857
+分類:1857年過世	Kategorio:Mortintoj en 1857
+分類:1858年	Kategorio:1858
+分類:1858年過世	Kategorio:Mortintoj en 1858
+分類:1859年	Kategorio:1859
+分類:1859年過世	Kategorio:Mortintoj en 1859
+分類:1860年	Kategorio:1860
+分類:1860年過世	Kategorio:Mortintoj en 1860
+分類:1861年	Kategorio:1861
+分類:1861年過世	Kategorio:Mortintoj en 1861
+分類:1862年	Kategorio:1862
+分類:1862年過世	Kategorio:Mortintoj en 1862
+分類:1863年	Kategorio:1863
+分類:1864年	Kategorio:1864
+分類:1864年過世	Kategorio:Mortintoj en 1864
+分類:1865年	Kategorio:1865
+分類:1865年過世	Kategorio:Mortintoj en 1865
+分類:1866年	Kategorio:1866
+分類:1866年過世	Kategorio:Mortintoj en 1866
+分類:1867年過世	Kategorio:Mortintoj en 1867
+分類:1868年	Kategorio:1868
+分類:1869年	Kategorio:1869
+分類:1869年過世	Kategorio:Mortintoj en 1869
+分類:1870年	Kategorio:1870
+分類:1870年過世	Kategorio:Mortintoj en 1870
+分類:1871年	Kategorio:1871
+分類:1871年過世	Kategorio:Mortintoj en 1871
+分類:1872年	Kategorio:1872
+分類:1872年過世	Kategorio:Mortintoj en 1872
+分類:1873年過世	Kategorio:Mortintoj en 1873
+分類:1874年	Kategorio:1874
+分類:1875年	Kategorio:1875
+分類:1876年	Kategorio:1876
+分類:1876年過世	Kategorio:Mortintoj en 1876
+分類:1877年	Kategorio:1877
+分類:1877年過世	Kategorio:Mortintoj en 1877
+分類:1878年過世	Kategorio:Mortintoj en 1878
+分類:1879年	Kategorio:1879
+分類:1879年過世	Kategorio:Mortintoj en 1879
+分類:1880年	Kategorio:1880
+分類:1881年	Kategorio:1881
+分類:1882年	Kategorio:1882
+分類:1883年	Kategorio:1883
+分類:1884年	Kategorio:1884
+分類:1885年	Kategorio:1885
+分類:1885年過世	Kategorio:Mortintoj en 1885
+分類:1886年	Kategorio:1886
+分類:1886年過世	Kategorio:Mortintoj en 1886
+分類:1887年	Kategorio:1887
+分類:1887年過世	Kategorio:Mortintoj en 1887
+分類:1889年	Kategorio:1889
+分類:1889年過世	Kategorio:Mortintoj en 1889
+分類:1890年	Kategorio:1890
+分類:1890年過世	Kategorio:Mortintoj en 1890
+分類:1891年	Kategorio:1891
+分類:1891年過世	Kategorio:Mortintoj en 1891
+分類:1892年	Kategorio:1892
+分類:1892年過世	Kategorio:Mortintoj en 1892
+分類:1893年	Kategorio:1893
+分類:1893年過世	Kategorio:Mortintoj en 1893
+分類:1894年	Kategorio:1894
+分類:1894年過世	Kategorio:Mortintoj en 1894
+分類:1895年	Kategorio:1895
+分類:1895年過世	Kategorio:Mortintoj en 1895
+分類:1896年過世	Kategorio:Mortintoj en 1896
+分類:1897年	Kategorio:1897
+分類:1897年過世	Kategorio:Mortintoj en 1897
+分類:1898年過世	Kategorio:Mortintoj en 1898
+分類:1899年	Kategorio:1899
+分類:1899年過世	Kategorio:Mortintoj en 1899
+分類:1900年過世	Kategorio:Mortintoj en 1900
+分類:1901年過世	Kategorio:Mortintoj en 1901
+分類:1905年過世	Kategorio:Mortintoj en 1905
+分類:1906年過世	Kategorio:Mortintoj en 1906
+分類:1908年過世	Kategorio:Mortintoj en 1908
+分類:1909年過世	Kategorio:Mortintoj en 1909
+分類:1910年過世	Kategorio:Mortintoj en 1910
+分類:1912年過世	Kategorio:Mortintoj en 1912
+分類:1913年過世	Kategorio:Mortintoj en 1913
+分類:1914年過世	Kategorio:Mortintoj en 1914
+分類:1915年過世	Kategorio:Mortintoj en 1915
+分類:1916年過世	Kategorio:Mortintoj en 1916
+分類:1917年過世	Kategorio:Mortintoj en 1917
+分類:1918年過世	Kategorio:Mortintoj en 1918
+分類:1919年過世	Kategorio:Mortintoj en 1919
+分類:1920年過世	Kategorio:Mortintoj en 1920
+分類:1921年過世	Kategorio:Mortintoj en 1921
+分類:1923年過世	Kategorio:Mortintoj en 1923
+分類:1925年過世	Kategorio:Mortintoj en 1925
+分類:1926年過世	Kategorio:Mortintoj en 1926
+分類:1927年過世	Kategorio:Mortintoj en 1927
+分類:1932年過世	Kategorio:Mortintoj en 1932
+分類:1935年過世	Kategorio:Mortintoj en 1935
+分類:1936年過世	Kategorio:Mortintoj en 1936
+分類:1939年過世	Kategorio:Mortintoj en 1939
+分類:1940年過世	Kategorio:Mortintoj en 1940
+分類:1941年過世	Kategorio:Mortintoj en 1941
+分類:1944年過世	Kategorio:Mortintoj en 1944
+分類:1948年過世	Kategorio:Mortintoj en 1948
+分類:1951年過世	Kategorio:Mortintoj en 1951
+分類:1952年過世	Kategorio:Mortintoj en 1952
+分類:1953年過世	Kategorio:Mortintoj en 1953
+分類:1954年過世	Kategorio:Mortintoj en 1954
+分類:1955年過世	Kategorio:Mortintoj en 1955
+分類:1956年過世	Kategorio:Mortintoj en 1956
+分類:1957年過世	Kategorio:Mortintoj en 1957
+分類:1958年過世	Kategorio:Mortintoj en 1958
+分類:1961年	Kategorio:1961
+分類:1964年	Kategorio:1964
+分類:1964年過世	Kategorio:Mortintoj en 1964
+分類:1965年	Kategorio:1965
+分類:1965年過世	Kategorio:Mortintoj en 1965
+分類:1966年	Kategorio:1966
+分類:1967年	Kategorio:1967
+分類:1967年過世	Kategorio:Mortintoj en 1967
+分類:1968年過世	Kategorio:Mortintoj en 1968
+分類:1969年	Kategorio:1969
+分類:1970年	Kategorio:1970
+分類:1970年過世	Kategorio:Mortintoj en 1970
+分類:1971年過世	Kategorio:Mortintoj en 1971
+分類:1972年	Kategorio:1972
+分類:1972年過世	Kategorio:Mortintoj en 1972
+分類:1973年	Kategorio:1973
+分類:1973年過世	Kategorio:Mortintoj en 1973
+分類:1974年	Kategorio:1974
+分類:1975年	Kategorio:1975
+分類:1976年	Kategorio:1976
+分類:1977年過世	Kategorio:Mortintoj en 1977
+分類:1978年	Kategorio:1978
+分類:1979年	Kategorio:1979
+分類:1980年	Kategorio:1980
+分類:1981年	Kategorio:1981
+分類:1982年	Kategorio:1982
+分類:1982年過世	Kategorio:Mortintoj en 1982
+分類:1983年	Kategorio:1983
+分類:1983年過世	Kategorio:Mortintoj en 1983
+分類:1984年	Kategorio:1984
+分類:1984年過世	Kategorio:Mortintoj en 1984
+分類:1985年	Kategorio:1985
+分類:1985年過世	Kategorio:Mortintoj en 1985
+分類:1986年	Kategorio:1986
+分類:1987年	Kategorio:1987
+分類:1987年過世	Kategorio:Mortintoj en 1987
+分類:1988年	Kategorio:1988
+分類:1989年	Kategorio:1989
+分類:1989年過世	Kategorio:Mortintoj en 1989
+分類:1990年	Kategorio:1990
+分類:1990年過世	Kategorio:Mortintoj en 1990
+分類:1991年	Kategorio:1991
+分類:1992年	Kategorio:1992
+分類:1993年	Kategorio:1993
+分類:1994年	Kategorio:1994
+分類:1995年	Kategorio:1995
+分類:1995年過世	Kategorio:Mortintoj en 1995
+分類:1996年	Kategorio:1996
+分類:1996年過世	Kategorio:Mortintoj en 1996
+分類:1997年	Kategorio:1997
+分類:1997年過世	Kategorio:Mortintoj en 1997
+分類:1999年	Kategorio:1999
+分類:2000年	Kategorio:2000
+分類:2000年過世	Kategorio:Mortintoj en 2000
+分類:2001年	Kategorio:2001
+分類:2001年過世	Kategorio:Mortintoj en 2001
+分類:2002年	Kategorio:2002
+分類:2002年過世	Kategorio:Mortintoj en 2002
+分類:2003年過世	Kategorio:Mortintoj en 2003
+分類:2004年	Kategorio:2004
+分類:2004年過世	Kategorio:Mortintoj en 2004
+分類:2005年	Kategorio:2005
+分類:2006年	Kategorio:2006
+分類:2006年過世	Kategorio:Mortintoj en 2006
+分類:2007年	Kategorio:2007
+分類:2008年	Kategorio:2008
+分類:2009年	Kategorio:2009
+分類:2010年	Kategorio:2010
+分類:2011年	Kategorio:2011
+分類:2016年	Kategorio:2016
+分類:2017年	Kategorio:2017
+分類:河	Kategorio:Riveroj
+分類:希臘人	Kategorio:Grekoj
+分類:挪威人	Kategorio:Norvegoj
+分類:韓國人	Kategorio:Sudkoreanoj
+分類:巴西人	Kategorio:Brazilanoj
+分類:瑞典人	Kategorio:Svedoj
+分類:日本人	Kategorio:Japanoj
+分類:表演	Kategorio:Teatro
+分類:前44年	Kategorio:44 a.K.
+分類:菲律賓	Kategorio:Filipinoj
+分類:1945年過世	Kategorio:Mortintoj en 1945
+分類:1963年過世	Kategorio:Mortintoj en 1963
+分類:1833年	Kategorio:1833
+分類:1832年	Kategorio:1832
+分類:1930年過世	Kategorio:Mortintoj en 1930
+分類:1822年	Kategorio:1822
+分類:1世紀	Kategorio:1-a jarcento
+分類:14世紀	Kategorio:14-a jarcento
+分類:世紀	Kategorio:Jarcentoj
+分類:13世紀	Kategorio:13-a jarcento
+分類:16世紀	Kategorio:16-a jarcento
+分類:12世紀	Kategorio:12-a jarcento
+分類:2世紀	Kategorio:2-a jarcento
+分類:4世紀	Kategorio:4-a jarcento
+分類:5世紀	Kategorio:5-a jarcento
+分類:18世紀	Kategorio:18-a jarcento
+分類:6世紀	Kategorio:6-a jarcento
+分類:8世紀	Kategorio:8-a jarcento
+分類:運河	Kategorio:Kanaloj
+分類:過世	Kategorio:Morto
+分類:越南人	Kategorio:Vjetnamoj
+分類:1829年	Kategorio:1829
+分類:整數	Kategorio:Entjeroj
+分類:1988年過世	Kategorio:Mortintoj en 1988
+分類:捷克人	Kategorio:Ĉeĥoj
+分類:敘事學	Kategorio:Rakont-arto
+分類:1823年過世	Kategorio:Mortintoj en 1823
+分類:新疆	Kategorio:Ŝinĝjango
+分類:印歐語系	Kategorio:Hindeŭropa lingvaro
+分類:前40年代	Kategorio:5-a jardeko a.K.
+分類:前90年代	Kategorio:10-a jardeko a.K.
+分類:1489年過世	Kategorio:Mortintoj en 1489
+分類:1701年	Kategorio:1701
+分類:1708年	Kategorio:1708
+分類:1734年	Kategorio:1734
+分類:1736年	Kategorio:1736
+分類:1742年	Kategorio:1742
+分類:1745年	Kategorio:1745
+分類:1771年	Kategorio:1771
+分類:1789年	Kategorio:1789
+分類:1796年	Kategorio:1796
+分類:1809年過世	Kategorio:Mortintoj en 1809
+分類:1821年	Kategorio:1821
+分類:1825年	Kategorio:1825
+分類:1828年	Kategorio:1828
+分類:1837年	Kategorio:1837
+分類:1838年出世	Kategorio:Naskiĝintoj en 1838
+分類:1841年	Kategorio:1841
+分類:1850年	Kategorio:1850
+分類:1867年	Kategorio:1867
+分類:1873年	Kategorio:1873
+分類:1878年	Kategorio:1878
+分類:1896年	Kategorio:1896
+分類:1924年過世	Kategorio:Mortintoj en 1924
+分類:1960年過世	Kategorio:Mortintoj en 1960
+分類:1963年	Kategorio:1963
+分類:1981年過世	Kategorio:Mortintoj en 1981
+分類:1999年過世	Kategorio:Mortintoj en 1999
+分類:2012年	Kategorio:2012
+分類:2019年	Kategorio:2019
+分類:元素	Kategorio:Kemiaj elementoj
+分類:朝鮮民主主義人民共和國嗰政治家	Kategorio:Nordkoreaj politikistoj
+分類:諾貝爾獎	Kategorio:Nobel-premio
+分類:15世紀	Kategorio:15-a jarcento
+分類:朝鮮民主主義人民共和國	Kategorio:Nord-Koreio
+分類:中國人	Kategorio:Ĉinoj
+分類:前100年代	Kategorio:11-a jardeko a.K.
+分類:1420年	Kategorio:1420
+分類:1702年	Kategorio:1702
+分類:1727年	Kategorio:1727
+分類:1735年	Kategorio:1735
+分類:1737年	Kategorio:1737
+分類:1744年	Kategorio:1744
+分類:1808年	Kategorio:1808
+分類:1824年	Kategorio:1824
+分類:1826年	Kategorio:1826
+分類:1831年	Kategorio:1831
+分類:1835年過世	Kategorio:Mortintoj en 1835
+分類:1839年過世	Kategorio:Mortintoj en 1839
+分類:1848年過世	Kategorio:Mortintoj en 1848
+分類:1868年過世	Kategorio:Mortintoj en 1868
+分類:1874年過世	Kategorio:Mortintoj en 1874
+分類:1888年過世	Kategorio:Mortintoj en 1888
+分類:1929年過世	Kategorio:Mortintoj en 1929
+分類:1933年過世	Kategorio:Mortintoj en 1933
+分類:1961年過世	Kategorio:Mortintoj en 1961
+分類:1968年	Kategorio:1968
+分類:中國歷史	Kategorio:Historio de Ĉinio
+分類:1746年	Kategorio:1746
+分類:1785年	Kategorio:1785
+分類:1817年	Kategorio:1817
+分類:1898年	Kategorio:1898
+分類:1998年	Kategorio:1998
+分類:2018年	Kategorio:2018
+分類:前110年	Kategorio:-110
+分類:韓國	Kategorio:Koreio
+分類:緬甸	Kategorio:Birmo
+分類:台灣	Kategorio:Tajvano
+分類:醫師	Kategorio:Kuracistoj
+分類:1795年過世	Kategorio:Mortintoj en 1795
+分類:1855年	Kategorio:1855
+分類:2003年	Kategorio:2003
+分類:9世紀	Kategorio:9-a jarcento
+分類:西班牙人	Kategorio:Hispanoj
+分類:中國嗰朝代	Kategorio:Ĉinaj dinastioj
+分類:1971年	Kategorio:1971
+分類:1140年代過世	Kategorio:Mortintoj en 1140-1149
+分類:1950年代過世	Kategorio:Mortintoj en 1950-1959
+分類:390年代過世	Kategorio:Mortintoj en 390-399
+分類:800年代過世	Kategorio:Mortintoj en 800-809
+分類:750年代過世	Kategorio:Mortintoj en 750-759
+分類:760年代過世	Kategorio:Mortintoj en 760-769
+分類:出世年份	Kategorio:Naskiĝintoj laŭ jaroj
+分類:挪威	Kategorio:Norvegio
+分類:大洋洲國家	Kategorio:Oceaniaj landoj
+分類:北美洲國家	Kategorio:Nordamerikaj landoj
+分類:2020年	Kategorio:2020
+分類:政黨	Kategorio:Politikaj partioj
+分類:日語	Kategorio:Japana lingvo
+分類:倫敦地鐵	Kategorio:Metroo de Londono
+分類:數字	Kategorio:Nombrosistemoj
+模板:Incubator	Ŝablono:Inkubejo
+分類:中國文化	Kategorio:Kulturo de Ĉinio
+模板:Wikinewscat	Ŝablono:Vikinovkat
+分類:動物	Kategorio:Bestoj
+分類:840年出世	Kategorio:Naskiĝintoj en 840
+分類:1571年出世	Kategorio:Naskiĝintoj en 1571
+分類:語系	Kategorio:Lingvaj familioj
+分類:氣象學	Kategorio:Meteologio
+分類:越南國家公園	Kategorio:Naciaj parkoj de Vjetnamio
+分類:香港	Kategorio:Honkongo
+分類:衣裳	Kategorio:Vestoj
+分類:首都	Kategorio:Ĉefurboj
+分類:交通	Kategorio:Transporto
+分類:舞蹈	Kategorio:Danco
+分類:知識論	Kategorio:Sciteorio
+分類:阿爾泰語系	Kategorio:Altaja lingvaro
+分類:前10年代	Kategorio:2-a jardeko a.K.
+分類:前0年代	Kategorio:1-a jardeko a.K.
+分類:北美洲	Kategorio:Nordameriko
+分類:湖	Kategorio:Lagoj
+分類:大洋洲	Kategorio:Oceanio
+分類:200年代過世	Kategorio:Mortintoj en 200-209
+分類:1870年代過世	Kategorio:Mortintoj en la 1870-aj jaroj
+分類:700年代過世	Kategorio:Mortintoj en 700-709
+分類:雕刻	Kategorio:Skulptado
+分類:災	Kategorio:Naturkatastrofoj
+分類:漢語	Kategorio:Ĉina lingvaro
+分類:澳門	Kategorio:Makao
+模板:Decadebox	Ŝablono:Jardeko
+分類:自由意志主義	Kategorio:Libertarianismo
+模板:Infobox Korean name	Ŝablono:Informkesto korea vorto
+模板:Color box	Ŝablono:Kolora kesto
+分類:英語	Kategorio:Angla lingvo
+模板:Infobox color	Ŝablono:Informkesto koloro
+分類:亞洲國家	Kategorio:Aziaj landoj
+模板:Grey row	Ŝablono:GrizaLinio
+分類:1960年代過世	Kategorio:Mortintoj en 1960-1969
+分類:2010年代過世	Kategorio:Mortintoj en 2010-2019
+分類:2030年	Kategorio:2030
+分類:舞臺藝術	Kategorio:Scena arto
+分類:打仗	Kategorio:Milito
+分類:女性主義者	Kategorio:Feministoj
+Portal:化學	Portalo:Kemio
+模板:BEL	Ŝablono:BEL
+分類:方向	Kategorio:Orientiĝo
+分類:色	Kategorio:Koloroj
+模板:Image label begin	Ŝablono:Marko sur bildo komenco
+分類:聖保羅地鐵	Kategorio:Metroo en San-Paŭlo
+分類:生活	Kategorio:Ĉiutaga vivo
+分類:1930年出世	Kategorio:Naskiĝintoj en 1930
+分類:1946年出世	Kategorio:Naskiĝintoj en 1946
+分類:1920年出世	Kategorio:Naskiĝintoj en 1920
+分類:1956年出世	Kategorio:Naskiĝintoj en 1956
+分類:1933年出世	Kategorio:Naskiĝintoj en 1933
+分類:1911年出世	Kategorio:Naskiĝintoj en 1911
+分類:1937年出世	Kategorio:Naskiĝintoj en 1937
+分類:1948年出世	Kategorio:Naskiĝintoj en 1948
+分類:1978年過世	Kategorio:Mortintoj en 1978
+分類:1921年出世	Kategorio:Naskiĝintoj en 1921
+分類:1924年出世	Kategorio:Naskiĝintoj en 1924
+分類:1926年出世	Kategorio:Naskiĝintoj en 1926
+分類:1930年代出世	Kategorio:Naskiĝintoj en 1930-1939
+分類:1950年出世	Kategorio:Naskiĝintoj en 1950
+分類:1964年出世	Kategorio:Naskiĝintoj en 1964
+分類:1970年代過世	Kategorio:Mortintoj en 1970-1979
+分類:1979年過世	Kategorio:Mortintoj en 1979
+分類:2010年過世	Kategorio:Mortintoj en 2010
+分類:千代田線	Kategorio:Stacioj de Linio Chiyoda
+模板:Userbox-level	Ŝablono:Userbox-level
+姜義錫	Kang We-seok
+中國史時代區分表	Ĉinaj dinastioj
+模板:End box	Ŝablono:Finskatolo
+模板:Ping	Ŝablono:Respondo al
+六友堂	Yun Hyon-seok
+特別:最晏嗰改動	Specialaĵo:Lastaj ŝanĝoj
+分類:1976年過世	Kategorio:Mortintoj en 1976
+分類:1975年過世	Kategorio:Mortintoj en 1975
+分類:1974年過世	Kategorio:Mortintoj en 1974

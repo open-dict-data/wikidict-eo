@@ -1,0 +1,6837 @@
+Afrik	Afriko
+Japon	Japanio
+Amerik disid	Sudameriko
+Nòvèj	Norvegio
+Angletè	Anglio
+Ekòs	Skotlando
+Gal	Kimrio
+Ilann dinò	Nord-Irlando
+Ilann	Irlando
+Ongri	Hungario
+Espay	Hispanio
+Etazini	Usono
+Bèljik	Belgio
+Liksanbou (peyi)	Luksemburgo (lando)
+Linivè	Universo
+Latè	Tero
+Lavi	Vivo
+Lanmò	Morto
+Homo sapiens	Homo
+George Washington	George Washington
+Fenlann	Finnlando
+Syèd	Svedio
+Danmak	Danio
+Polòy	Pollando
+Lityani	Litovio
+Itali	Italio
+Swis	Svislando
+Otrich	Aŭstrio
+Grès	Grekio
+Tiki	Turkio
+Byè	Biero
+Pòtigal	Portugalio
+Ewòp	Eŭropo
+Azi	Azio
+Amerik dinò	Nordameriko
+Antatik (kontinan)	Antarkto
+Wikipedya	Vikipedio
+Peyiba	Nederlando
+Nouyòk	Novjorko
+Wachintòn	Vaŝingtono
+San Francisco, Kalifòni	San-Francisko
+Bèlen	Berlino
+Los Angeles, Kalifòni	Los-Anĝeleso
+Òdinatè	Komputilo
+Bèn	Berno
+Zirik	Zuriko
+Entènet	Interreto
+Barack Obama	Barack Obama
+Irigwe	Urugvajo
+Lonn	Londono
+Li Kè	Kairo
+Alexandria, Vijini	Alexandria (Virginio)
+Pòm	Pomo
+Pari	Parizo
+Abraham Lincoln	Abraham Lincoln
+Google	Google
+Meksik	Meksiko
+Atlantik	Atlantika Oceano
+Pasifik	Pacifika Oceano
+Kalifòni	Kalifornio
+Boston, Massachusetts	Bostono
+Lendi	Lundo
+Janvye	Januaro
+Fevriye	Februaro
+Mas (mwa)	Marto
+Mas (planèt)	Marso
+Kenya	Kenjo
+Etyopi	Etiopio
+Gana	Ganao
+Avril	Aprilo
+Me	Majo
+Jen	Junio
+Jiyè	Julio
+Out	Aŭgusto
+Septanm	Septembro
+Oktòb	Oktobro
+Novanm	Novembro
+Desanm	Decembro
+Madi	Mardo
+Mèkredi	Merkredo
+Jedi	Ĵaŭdo
+Vandredi	Vendredo
+Samdi	Sabato
+Dimanch	Dimanĉo
+Lyon	Leono
+Frans	Francio
+Chen	Hundo
+Wayòm Ini	Unuiĝinta Reĝlando
+Chat	Hejma kato
+Lang franse	Franca lingvo
+Pwason	Fiŝoj
+Brezil	Brazilo
+Alkòl	Alkoholo
+Risi	Rusio
+Balèn	Cetacoj
+Kare	Kvadrato (geometrio)
+Lanmè	Maro
+Pi (matematik)	Pi (nombro)
+Π	Pio (litero)
+Mango	Mango (frukto)
+Alabama	Alabamo
+São Paolo	San-Paŭlo (urbo)
+Kebèk	Kebekio
+Almay	Germanio
+Byelorisi	Belorusio
+Alman	Germana lingvo
+Islann	Islando
+Bondye	Dio
+Estoni	Estonio
+Satin	Saturno (planedo)
+Seriz	Ĉerizo
+Avyon	Aviadilo
+Lagè	Milito
+1 (nonm)	1 (nombro)
+2 (nonm)	2 (nombro)
+3 (nonm)	3 (nombro)
+4 (nonm)	4 (nombro)
+5 (nonm)	5 (nombro)
+0 (nonm)	Nulo
+Rektang	Ortangulo
+Letoni	Latvio
+Ikrèn	Ukrainio
+Tchèki	Ĉeĥio
+Slovaki	Slovakio
+Sloveni	Slovenio
+Vilnis	Vilno
+Moldavi	Moldava Respubliko
+Woumani	Rumanio
+Bilgari	Bulgario
+Ròm	Romo
+Repiblik d Masedoni	Respubliko Makedonio
+Albani	Albanio
+Kroasi	Kroatio
+Bosni ak Erzegovin	Bosnio kaj Hercegovino
+Azerbaydjan	Azerbajĝano
+Andora	Andoro
+Chip	Kipro
+Jeoji	Kartvelio
+Kazakstan	Kazaĥio
+Malt	Malto
+Monako (kapital)	Monako
+Montenegwo	Montenegro
+Vatikan	Vatikano
+Sen Maren (peyi)	San-Marino
+Briksèl	Brusela Ĉefurba Regiono
+Kiba	Kubo
+Beliz	Belizo
+Lababad	Barbado
+Java	Java (programlingvo)
+Endonezi	Indonezio
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Ludwig van Beethoven	Ludwig van Beethoven
+Afrik disid (peyi)	Sud-Afriko
+Aljeri	Alĝerio
+Ouzbekistan	Uzbekujo
+Tachkènt	Taŝkento
+Vasovi	Varsovio
+Diven	Vino
+Dlo	Akvo
+Kwi	Ledo
+Bwa	Ligno
+Chili	Ĉilio
+Jezi	Jesuo Kristo
+Galileo Galilei	Galilejo
+Mèki (planèt)	Merkuro (planedo)
+Istwa	Historio
+Apple	Apple
+Venis (planèt)	Venuso (planedo)
+Lang (pawòl)	Lingvo
+Galaksi	Galaksio
+Jipitè (planèt)	Jupitero (planedo)
+Teyori big-bang	Praeksplodo
+Iranis	Urano (planedo)
+Neptin (planèt)	Neptuno (planedo)
+Astwonomi	Astronomio
+Sengapou (peyi)	Singapuro
+Syans	Scienco
+Pliton	Plutono
+Monreyal (komin)	Montrealo
+Avni	Estonteco
+Lichtènstayn	Liĥtenŝtejno
+Espò (divètisman)	Sporto
+Adolf Hitler	Adolf Hitler
+Ubuntu	Ubuntu (linukso)
+Skopje	Skopjo
+Linux	Linukso
+Matematik	Matematiko
+Barayn	Barejno
+Ameni	Armenio
+Sèbi	Serbio
+Lalin	Luno
+Istanboul	Istanbulo
+Ostrali	Aŭstralio
+Bob Marley	Bob Marley
+Fizik	Fiziko
+Ajantin	Argentino
+Telekominikasyon	Telekomunikado
+Pewou	Peruo
+Biyoloji	Biologio
+Kore dinò	Nord-Koreio
+Kanbòdj	Kamboĝo
+Dinozò	Dinosaŭro
+Islamis	Islamo
+Lyoubyana	Ljubljano
+Etid plant	Plantoscienco
+Rou	Rado
+Lapè	Paco
+Lyon (vil)	Liono
+Inyon Ewopeyèn	Eŭropa Unio
+Fanm	Virino
+Sofia	Sofio
+Zanmi	Amikeco
+Anis (anatomi)	Anuso
+Sitron	Citrono
+Bannann	Banano
+666 (almanak jilyen)	666
+Flè	Floro
+Vil	Urbo
+Napoléon Bonaparte	Napoleono Bonaparte
+Etwal	Stelo
+Solèy	Suno
+Syèl	Ĉielo
+Ane-limyè	Lumjaro
+Victor Hugo	Victor Hugo
+Oseyani	Oceanio
+Atletis	Atletiko
+Sistèm solè	Sunsistemo
+Idwojèn	Hidrogeno
+Elyòm	Heliumo
+Lityòm	Litio
+Berilyòm	Berilio
+Liv (pou li)	Libro
+Jou (Tan)	Tago
+Timò oryantal	Orienta Timoro
+Nwit	Nokto
+Lane	Jaro
+Syèk	Jarcento
+Oslo	Oslo
+Twou nwa	Nigra truo
+Lisbòn	Lisbono
+Kabòn	Karbono
+Azòt	Nitrogeno
+Oksijèn	Oksigeno
+Planèt	Planedo
+Mizik	Muziko
+Tèmomèt	Termometro
+Moskou	Moskvo
+Fliyò	Fluoro
+Neyon	Neono
+Saint-Pétersbourg	Sankt-Peterburgo
+Tchad	Ĉado
+Sodyòm	Natrio
+Nò	Nordo
+Manyezyòm	Magnezio
+Aliminyòm	Aluminio
+Nouvèl Zelann	Nov-Zelando
+Sid	Sudo
+End	Barato
+Silisyòm	Silicio
+Fransyòm	Franciumo
+Touvalou	Tuvalo
+Fosfò	Fosforo
+André-Marie Ampère	André-Marie Ampère
+Fè	Fero
+Tonga	Tongo
+Lwès	Okcidento
+Alessandro Volta	Alessandro Volta
+Souf	Sulfuro
+Samoa	Samoo
+Lès	Oriento
+Salomon	Salomonoj
+Vanwatou	Vanuatuo
+Molière	Molière
+Klò	Kloro
+Papwazi-Nouvèl-Gine	Papuo-Nov-Gvineo
+William Shakespeare	William Shakespeare
+Palao	Palaŭo
+Agon	Argono
+Naorou	Nauro
+Mikwonezi (peyi)	Federacio de Mikronezio
+Potasyòm	Kalio
+Kalsyòm	Kalcio
+Plon	Plumbo
+Machal	Marŝala Insularo
+Kiribès	Kiribato
+Mongoli	Mongolio
+Fidji	Fiĝioj
+Skandyòm	Skandio
+Titàn	Titano (elemento)
+Venezwela	Venezuelo
+Echèk	Ŝako
+Vanadyòm	Vanado
+Mèn	Majno
+Kwòm	Kromo
+Cheval	Ĉevalo
+Amstèdam	Amsterdamo
+Zam	Armilo
+Zannimo	Bestoj
+Sirinam	Surinamo
+Manganèz	Mangano
+Paragwe	Paragvajo
+Giyàn	Gujano
+La (aktivite)	Arto
+Ekwatè (peyi)	Ekvadoro
+Kolonbi	Kolombio
+Nikèl	Nikelo
+Frèz	Frago
+Boudis	Budhismo
+Bolivi	Bolivio
+Kwiv	Kupro
+Trinidad ak Tobago	Trinidado kaj Tobago
+Plant	Plantoj
+Sen Vensan ak Grenadin	Sankta Vincento kaj Grenadinoj
+Zenk	Zinko
+Nou Anpchi	Nov-Hampŝiro
+Sent Lisi	Sankta Lucio
+Leonardo da Vinci	Leonardo da Vinci
+Sen Kits ak Nevi	Sankta-Kito kaj Neviso
+Chanpiyon	Fungoj
+Jamayik	Jamajko
+Grenad	Grenado (lando)
+Masachosèt	Masaĉuseco
+Gwatemala	Gvatemalo
+Google chrome	Google Chrome
+Bahamas	Bahamoj
+Konèktikòt	Konektikuto
+Antigwa ak Babouda	Antigvo-Barbudo
+Awayi	Havajo
+Ondiras	Honduro
+Dominik	Dominiko
+Dominikani	Domingo
+Kochon	Porko
+Aktik	Arkta Oceano
+Ayiti	Haitio
+Salvadò	Salvadoro
+Iran	Irano
+Irak	Irako
+Alaska	Alasko
+Kostarika	Kostariko
+Izrayèl	Israelo
+Panama (peyi)	Panamo
+Yemèn	Jemeno
+Viris	Viruso (biologio)
+Jòdani	Jordanio
+Nikaragwa	Nikaragvo
+Florid	Florido
+Kirgistan	Kirgizio
+Arizona	Arizono
+Kowet	Kuvajto
+Laos	Laoso
+Liban	Libano
+Oregon	Oregono
+Maldiv	Maldivoj
+Amerik	Ameriko
+Youta	Utaho
+Malezi	Malajzio
+Bimani	Birmo
+Nepal	Nepalo
+Omàn	Omano
+Pakistan	Pakistano
+Katar	Kataro
+Tenis	Teniso
+Arabi Sawoudit	Sauda Arabio
+Srilanka	Sri-Lanko
+Siri	Sirio
+Platon	Platono
+Galyòm	Galiumo
+Tadjikistan	Taĝikio
+Jèmanyòm	Germaniumo
+Aristotle	Aristotelo
+Tayilann	Tajlando
+Asenik	Arseno
+Tirkmenistan	Turkmenio
+Selenyòm	Seleno
+Iridyòm	Iridio
+Emira Arab Ini	Unuiĝintaj Arabaj Emirlandoj
+Bwòm	Bromo
+Platin	Plateno
+Vyetnam	Vjetnamio
+Charlie Chaplin (aktè)	Charlie Chaplin
+Kore disid	Sud-Koreio
+Les Simpson	La Simpsonoj
+Kripton	Kriptono
+Afganistan	Afganio
+Lò	Oro
+Bangladèch	Bangladeŝo
+Mali	Malio
+Angola	Angolo
+Boutan	Butano
+Brouney	Brunejo
+Tanzani	Tanzanio
+Mèki (eleman chimik)	Hidrargo
+Filipin	Filipinoj
+Repiblik santafrik	Centr-Afrika Respubliko
+Talyòm	Taliumo
+Isaac Newton	Isaac Newton
+Albert Einstein	Albert Einstein
+Estwontyòm	Stroncio
+Bismit	Bismuto
+Jòn	Flava
+Togo	Togolando
+Donald Tusk	Donald Tusk
+Tinizi	Tunizio
+John Bardeen	John Bardeen
+Zanbi	Zambio
+Zimbabwe	Zimbabvo
+Peken	Pekino
+Benen	Benino
+Botswana	Bocvano
+Boukinafaso	Burkino
+Bouroundi	Burundo
+Komò	Komoroj
+Kongo (Brazavil)	Respubliko Kongo
+Kongo (Kinchasa)	Demokratia Respubliko Kongo
+San Antonio (Teksas)	San Antonio (Teksaso)
+Djibouti (peyi)	Ĝibutio
+Polonyòm	Polonio
+Gine ekwateryal	Ekvatora Gvineo
+Eritre	Eritreo
+Niou Deli	Nov-Delhio
+Tbilisi	Tbiliso
+Andrei Dmitrievich Sakharov	Andrej Saĥarov
+Gabon	Gabono
+Mohandas Karamchand Gandhi	Mohandas Karamchand Gandhi
+Ganbi	Gambio
+Gine	Gvineo
+Gine-Bisao	Gvineo Bisaŭa
+Kòt divwa	Ebur-Bordo
+Kamewoun	Kameruno
+Kap Vè	Kaboverdo
+Lezoto	Lesoto
+Liberya	Liberio
+Libi	Libio
+Madagaskar	Madagaskaro
+Malawi	Malavio
+Moritani	Maŭritanio
+Moris	Maŭricio
+Mawòk	Maroko
+Mozanbik	Mozambiko
+Namibi	Namibio
+Nijè	Niĝero
+Nijerya	Niĝerio
+Ouganda	Ugando
+Rwanda	Ruando
+Zikonyòm	Zirkonio
+Sen Tome ak Pwènsip	Sao-Tomeo kaj Principeo
+Senegal	Senegalo
+Sechèl	Sejŝeloj
+Syera Leòn	Siera-Leono
+Somali	Somalio
+Nyobyòm	Niobio
+Julius Caesar	Julio Cezaro
+Soudan	Sudano
+Swazilann	Svazilando
+Lakansyèl	Ĉielarko
+Tèknesyòm	Teknecio
+Metabolis	Metabolo
+Evolisyon	Evoluismo
+Aleksand Manzoni	Alessandro Manzoni
+ONI	Unuiĝintaj Nacioj
+Jewoloji	Geologio
+Jewografi	Geografio
+Kè	Koro
+Sèvo	Cerbo
+Po	Haŭto
+Koulè	Koloro
+Prag	Prago
+Rodyòm	Rodio
+Ble (koulè)	Blua
+Paladyòm	Paladio
+Ajan (metal)	Arĝento
+Kadmyòm	Kadmio
+Endyòm	Indio
+Eten	Stano
+Iranyòm	Uranio
+Antimwàn	Antimono
+Plitonyòm	Plutonio
+Yòd	Jodo
+Neptinyòm	Neptunio
+Sezyòm	Cezio
+Baryòm	Bario
+Toryòm	Torio
+Aktiniòm	Aktinio
+Tantal	Tantalo
+Radyòm	Radiumo
+Radon	Radono
+Alzas	Alzaco
+Michigàn	Miĉigano
+Pòtoriko	Porto-Riko
+Usain Bolt	Usain Bolt
+Ilinwa	Ilinojso
+Dakota dinò	Norda Dakoto
+Dakota disid	Suda Dakoto
+Montana	Montano
+Wayoming	Vajomingo
+Aydawo	Idaho
+Wachintòn (eta)	Vaŝingtonio
+Nevada	Nevado
+Endyen	Hinda Oceano
+Bòryòm	Borio
+Asyòm	Hasio
+Kolorado	Koloradio
+Kategori:Rasin	Kategorio:Ĉio
+Blaise Pascal	Blaise Pascal
+Chikago	Ĉikago
+The Beatles	The Beatles
+Livè	Vintro
+Prentan	Printempo
+Lete	Somero
+Lotòn	Aŭtuno
+Ekinòks otòn	Ekvinokso
+Panyòl	Hispana lingvo
+Montevideo	Montevideo
+Pittsburgh, Pennsilvani	Pittsburgh (Pensilvanio)
+Philadelphia, Pennsilvani	Filadelfio (Pensilvanio)
+Daka	Dako
+Areye	Araneuloj
+Atwopòd	Artropodoj
+Islamabad	Islamabado
+Fwi	Frukto
+Makak	Simio
+Lajan	Mono
+Vijini	Virginio (ŝtato)
+Vijini de Lwès	Okcidenta Virginio
+Nou Yòk (eta)	Nov-Jorkio
+Seryòm	Cerio
+Rod Aylann	Rod-Insulo
+Neyodim	Neodimo
+Ensèk	Insekto
+Merilann	Marilando
+Delawè	Delavaro
+Lenine	Lenin
+Ewòpyòm	Eŭropio
+Owayo (eta)	Ohio
+Pènsilvani	Pensilvanio
+Uetersen	Uetersen
+Nou Jèze	Nov-Ĵerzejo
+Indiana	Indianio
+Machin	Aŭtomobilo
+Djòdji	Georgio
+Zagreb	Zagrebo
+Teksas	Teksaso
+Karolin dinò	Norda Karolino
+Karolin disid	Suda Karolino
+Manyl	Manilo
+Bwènozè	Bonaero
+Meksiko	Meksik-urbo
+Tokyo	Tokio
+La Paz	La-Pazo
+Zannanna	Ananaso
+Misisipi (eta)	Misisipio
+Misisipi (rivyè)	Misisipo (rivero)
+Tenèsi	Tenesio
+Abou Dabi	Abu-Dabio
+Astana	Astano
+Nou Meksiko	Nov-Meksiko
+Atèn	Ateno
+Minesota	Minesoto
+Bagdad	Bagdado
+Karakas	Karakaso
+Wiskonnsenn	Viskonsino
+Ayowa	Iovao
+Nebraska	Nebrasko
+Siwdad	Gvatemalurbo
+Kènsas	Kansaso
+La Avàn	Havano
+Misouri (eta)	Misurio
+Georg Ohm	Georg Ohm
+Lwiziana	Luiziano
+Luigi Galvani	Luigi Galvani
+Kèntòki	Kentukio
+Akennsas (eta)	Arkansaso
+Neil Armstrong	Neil Armstrong
+Oklawoma	Oklahomo
+Volebòl	Flugpilkado
+Vyèn	Vieno
+Kopènag	Kopenhago
+Stokolm	Stokholmo
+Èlzinki	Helsinko
+Diblin	Dublino
+Rèkyavik	Rejkjaviko
+Talin	Talino
+Riga	Rigo
+Bratislava	Bratislavo
+Boudapès	Budapeŝto
+Gdańsk	Gdańsk
+Frankfurt	Frankfurto ĉe Majno
+Lantàn	Lantano
+Samaryòm	Samario (kemio)
+Gadolinyòm	Gadolinio
+Liksanbou (kapital)	Luksemburgo
+Vadouz	Vaduzo
+Bib	Biblio
+Sen Maren (kapital)	San-Marino (urbo)
+Phnom Penh	Pnom-Peno
+Hô-Chi-Minh-Vil	Ho-Ĉi-Min-urbo
+Litesyòm	Lutecio
+Anòy	Hanojo
+Legliz de Vre Jezi	Vera Eklezio de Jesuo
+Angle	Angla lingvo
+Bangkok	Bankoko
+Andò-la-Vyèy	Andoro Malnova
+Kouala Loumpou	Kuala-Lumpuro
+Taypè	Tajpeo
+Amerisyòm	Americio
+Dong Hoi	Dong Hoi
+Concepción, Chili	Koncepciono
+Bèkelyòm	Berkelio
+Kalifònyòm	Kaliforniumo
+Achtaynyòm	Ejnŝtejnio
+Fèmyòm	Fermio
+Kyèv	Kievo
+Nobèlyòm	Nobelio
+Otawa	Otavo
+Erevàn	Erevano
+Końskowola	Końskowola
+Kartoum	Ĥartumo
+2000 (almanak gregoryen)	2000
+2003 (almanak gregoryen)	2003
+2002 (almanak gregoryen)	2002
+2001 (almanak gregoryen)	2001
+2012 (almanak gregoryen)	2012
+2011 (almanak gregoryen)	2011
+2010 (almanak gregoryen)	2010
+2009 (almanak gregoryen)	2009
+Dyoksid kabòn	Karbona dioksido
+2008 (almanak gregoryen)	2008
+2004 (almanak gregoryen)	2004
+2005 (almanak gregoryen)	2005
+Dragon Ball	Dragon Ball
+2006 (almanak gregoryen)	2006
+2007 (almanak gregoryen)	2007
+Monoksid kabòn	Karbona monooksido
+1900 (almanak gregoryen)	1900
+1901 (almanak gregoryen)	1901
+1902 (almanak gregoryen)	1902
+1903 (almanak gregoryen)	1903
+1904 (almanak gregoryen)	1904
+1905 (almanak gregoryen)	1905
+1907 (almanak gregoryen)	1907
+1906 (almanak gregoryen)	1906
+1908 (almanak gregoryen)	1908
+1909 (almanak gregoryen)	1909
+1992 (almanak gregoryen)	1992
+1991 (almanak gregoryen)	1991
+1990 (almanak gregoryen)	1990
+1993 (almanak gregoryen)	1993
+1994 (almanak gregoryen)	1994
+1995 (almanak gregoryen)	1995
+1996 (almanak gregoryen)	1996
+1910 (almanak gregoryen)	1910
+1911 (almanak gregoryen)	1911
+1912 (almanak gregoryen)	1912
+1913 (almanak gregoryen)	1913
+1914 (almanak gregoryen)	1914
+1915 (almanak gregoryen)	1915
+1916 (almanak gregoryen)	1916
+1997 (almanak gregoryen)	1997
+1998 (almanak gregoryen)	1998
+1999 (almanak gregoryen)	1999
+1917 (almanak gregoryen)	1917
+1918 (almanak gregoryen)	1918
+Koulèv	Serpento
+1e janvye	1-a de januaro
+2 janvye	2-a de januaro
+1920 (almanak gregoryen)	1920
+3 janvye	3-a de januaro
+1919 (almanak gregoryen)	1919
+1921 (almanak gregoryen)	1921
+1922 (almanak gregoryen)	1922
+4 janvye	4-a de januaro
+1923 (almanak gregoryen)	1923
+1924 (almanak gregoryen)	1924
+5 janvye	5-a de januaro
+Arica	Arica (Ĉilia urbo)
+6 janvye	6-a de januaro
+Elektwon	Elektrono
+7 janvye	7-a de januaro
+8 janvye	8-a de januaro
+9 janvye	9-a de januaro
+10 janvye	10-a de januaro
+11 janvye	11-a de januaro
+12 janvye	12-a de januaro
+13 janvye	13-a de januaro
+14 janvye	14-a de januaro
+15 janvye	15-a de januaro
+16 janvye	16-a de januaro
+17 janvye	17-a de januaro
+18 janvye	18-a de januaro
+19 janvye	19-a de januaro
+20 janvye	20-a de januaro
+21 janvye	21-a de januaro
+22 janvye	22-a de januaro
+23 janvye	23-a de januaro
+24 janvye	24-a de januaro
+25 janvye	25-a de januaro
+Minsk	Minsko
+26 janvye	26-a de januaro
+Microsoft	Microsoft
+27 janvye	27-a de januaro
+28 janvye	28-a de januaro
+29 janvye	29-a de januaro
+30 janvye	30-a de januaro
+31 janvye	31-a de januaro
+Pwoton	Protono
+2 desanm	2-a de decembro
+1e desanm	1-a de decembro
+3 desanm	3-a de decembro
+7 desanm	7-a de decembro
+5 desanm	5-a de decembro
+8 desanm	8-a de decembro
+10 desanm	10-a de decembro
+6 desanm	6-a de decembro
+9 desanm	9-a de decembro
+4 desanm	4-a de decembro
+1e fevriye	1-a de februaro
+2 fevriye	2-a de februaro
+3 fevriye	3-a de februaro
+Kurów (vil)	Kurów
+4 fevriye	4-a de februaro
+5 fevriye	5-a de februaro
+6 fevriye	6-a de februaro
+7 fevriye	7-a de februaro
+8 fevriye	8-a de februaro
+9 fevriye	9-a de februaro
+10 fevriye	10-a de februaro
+Chimi	Kemio
+14 fevriye	14-a de februaro
+13 fevriye	13-a de februaro
+15 fevriye	15-a de februaro
+11 fevriye	11-a de februaro
+12 fevriye	12-a de februaro
+19 fevriye	19-a de februaro
+17 fevriye	17-a de februaro
+16 fevriye	16-a de februaro
+18 fevriye	18-a de februaro
+20 fevriye	20-a de februaro
+Netwon	Neŭtrono
+21 fevriye	21-a de februaro
+22 fevriye	22-a de februaro
+23 fevriye	23-a de februaro
+24 fevriye	24-a de februaro
+25 fevriye	25-a de februaro
+26 fevriye	26-a de februaro
+27 (almanak jilyen)	27
+27 fevriye	27-a de februaro
+28 fevriye	28-a de februaro
+11 desanm	11-a de decembro
+29 fevriye	29-a de februaro
+12 desanm	12-a de decembro
+13 desanm	13-a de decembro
+14 desanm	14-a de decembro
+15 desanm	15-a de decembro
+2 mas	2-a de marto
+3 mas	3-a de marto
+5 mas	5-a de marto
+1e mas	1-a de marto
+7 mas	7-a de marto
+8 mas	8-a de marto
+4 mas	4-a de marto
+10 mas	10-a de marto
+11 mas	11-a de marto
+6 mas	6-a de marto
+13 mas	13-a de marto
+9 mas	9-a de marto
+12 mas	12-a de marto
+15 mas	15-a de marto
+14 mas	14-a de marto
+16 desanm	16-a de decembro
+17 desanm	17-a de decembro
+16 mas	16-a de marto
+17 mas	17-a de marto
+18 mas	18-a de marto
+19 mas	19-a de marto
+1989 (almanak gregoryen)	1989
+1988 (almanak gregoryen)	1988
+20 mas	20-a de marto
+1987 (almanak gregoryen)	1987
+1986 (almanak gregoryen)	1986
+1985 (almanak gregoryen)	1985
+1984 (almanak gregoryen)	1984
+21 mas	21-a de marto
+1983 (almanak gregoryen)	1983
+22 mas	22-a de marto
+1982 (almanak gregoryen)	1982
+1981 (almanak gregoryen)	1981
+18 desanm	18-a de decembro
+1980 (almanak gregoryen)	1980
+23 mas	23-a de marto
+Moukdicho	Mogadiŝo
+19 desanm	19-a de decembro
+24 mas	24-a de marto
+25 mas	25-a de marto
+20 desanm	20-a de decembro
+26 mas	26-a de marto
+27 mas	27-a de marto
+28 mas	28-a de marto
+29 mas	29-a de marto
+30 mas	30-a de marto
+31 mas	31-a de marto
+Naso	Nasaŭo (Bahamoj)
+Sanaa	Sanao
+1970 (almanak gregoryen)	1970
+1971 (almanak gregoryen)	1971
+1972 (almanak gregoryen)	1972
+1973 (almanak gregoryen)	1973
+1974 (almanak gregoryen)	1974
+1975 (almanak gregoryen)	1975
+1976 (almanak gregoryen)	1976
+1977 (almanak gregoryen)	1977
+1978 (almanak gregoryen)	1978
+1979 (almanak gregoryen)	1979
+1969 (almanak gregoryen)	1969
+Benwa XVI	Benedikto la 16-a
+15 avril	15-a de aprilo
+13 avril	13-a de aprilo
+12 avril	12-a de aprilo
+14 avril	14-a de aprilo
+11 avril	11-a de aprilo
+10 avril	10-a de aprilo
+8 avril	8-a de aprilo
+9 avril	9-a de aprilo
+7 avril	7-a de aprilo
+6 avril	6-a de aprilo
+5 avril	5-a de aprilo
+4 avril	4-a de aprilo
+3 avril	3-a de aprilo
+1e avril	1-a de aprilo
+2 avril	2-a de aprilo
+16 avril	16-a de aprilo
+17 avril	17-a de aprilo
+18 avril	18-a de aprilo
+19 avril	19-a de aprilo
+20 avril	20-a de aprilo
+21 avril	21-a de aprilo
+22 avril	22-a de aprilo
+23 avril	23-a de aprilo
+24 avril	24-a de aprilo
+25 avril	25-a de aprilo
+26 avril	26-a de aprilo
+27 avril	27-a de aprilo
+28 avril	28-a de aprilo
+29 avril	29-a de aprilo
+30 avril	30-a de aprilo
+Satelit	Natura satelito
+1e me	1-a de majo
+2 me	2-a de majo
+3 me	3-a de majo
+4 me	4-a de majo
+5 me	5-a de majo
+6 me	6-a de majo
+7 me	7-a de majo
+8 me	8-a de majo
+9 me	9-a de majo
+10 me	10-a de majo
+11 me	11-a de majo
+12 me	12-a de majo
+13 me	13-a de majo
+14 me	14-a de majo
+15 me	15-a de majo
+16 me	16-a de majo
+17 me	17-a de majo
+18 me	18-a de majo
+19 me	19-a de majo
+20 me	20-a de majo
+21 me	21-a de majo
+22 me	22-a de majo
+23 me	23-a de majo
+24 me	24-a de majo
+25 me	25-a de majo
+26 me	26-a de majo
+27 me	27-a de majo
+28 me	28-a de majo
+29 me	29-a de majo
+30 me	30-a de majo
+31 me	31-a de majo
+21 desanm	21-a de decembro
+14 jen	14-a de junio
+15 jen	15-a de junio
+13 jen	13-a de junio
+10 jen	10-a de junio
+7 jen	7-a de junio
+11 jen	11-a de junio
+9 jen	9-a de junio
+12 jen	12-a de junio
+6 jen	6-a de junio
+8 jen	8-a de junio
+5 jen	5-a de junio
+3 jen	3-a de junio
+2 jen	2-a de junio
+1e jen	1-a de junio
+4 jen	4-a de junio
+22 desanm	22-a de decembro
+1968 (almanak gregoryen)	1968
+1967 (almanak gregoryen)	1967
+1966 (almanak gregoryen)	1966
+1965 (almanak gregoryen)	1965
+1964 (almanak gregoryen)	1964
+16 jen	16-a de junio
+30 jen	30-a de junio
+29 jen	29-a de junio
+28 jen	28-a de junio
+26 jen	26-a de junio
+25 jen	25-a de junio
+22 jen	22-a de junio
+27 jen	27-a de junio
+24 jen	24-a de junio
+20 jen	20-a de junio
+23 jen	23-a de junio
+19 jen	19-a de junio
+18 jen	18-a de junio
+21 jen	21-a de junio
+17 jen	17-a de junio
+23 desanm	23-a de decembro
+15 jiyè	15-a de julio
+13 jiyè	13-a de julio
+12 jiyè	12-a de julio
+10 jiyè	10-a de julio
+9 jiyè	9-a de julio
+14 jiyè	14-a de julio
+8 jiyè	8-a de julio
+7 jiyè	7-a de julio
+6 jiyè	6-a de julio
+5 jiyè	5-a de julio
+2 jiyè	2-a de julio
+4 jiyè	4-a de julio
+3 jiyè	3-a de julio
+1e jiyè	1-a de julio
+11 jiyè	11-a de julio
+24 desanm	24-a de decembro
+31 jiyè	31-a de julio
+30 jiyè	30-a de julio
+29 jiyè	29-a de julio
+28 jiyè	28-a de julio
+27 jiyè	27-a de julio
+25 jiyè	25-a de julio
+24 jiyè	24-a de julio
+23 jiyè	23-a de julio
+26 jiyè	26-a de julio
+22 jiyè	22-a de julio
+19 jiyè	19-a de julio
+21 jiyè	21-a de julio
+20 jiyè	20-a de julio
+17 jiyè	17-a de julio
+18 jiyè	18-a de julio
+16 jiyè	16-a de julio
+Foutbòl	Futbalo
+25 desanm	25-a de decembro
+1963 (almanak gregoryen)	1963
+Lech Kaczynski	Lech Kaczyński
+26 desanm	26-a de decembro
+1962 (almanak gregoryen)	1962
+14 out	14-a de aŭgusto
+15 out	15-a de aŭgusto
+13 out	13-a de aŭgusto
+12 out	12-a de aŭgusto
+11 out	11-a de aŭgusto
+10 out	10-a de aŭgusto
+8 out	8-a de aŭgusto
+7 out	7-a de aŭgusto
+9 out	9-a de aŭgusto
+5 out	5-a de aŭgusto
+4 out	4-a de aŭgusto
+2 out	2-a de aŭgusto
+3 out	3-a de aŭgusto
+6 out	6-a de aŭgusto
+1e out	1-a de aŭgusto
+27 desanm	27-a de decembro
+Madrid	Madrido
+16 out	16-a de aŭgusto
+29 out	29-a de aŭgusto
+28 out	28-a de aŭgusto
+30 out	30-a de aŭgusto
+25 out	25-a de aŭgusto
+26 out	26-a de aŭgusto
+23 out	23-a de aŭgusto
+27 out	27-a de aŭgusto
+21 out	21-a de aŭgusto
+20 out	20-a de aŭgusto
+24 out	24-a de aŭgusto
+18 out	18-a de aŭgusto
+17 out	17-a de aŭgusto
+22 out	22-a de aŭgusto
+19 out	19-a de aŭgusto
+31 out	31-a de aŭgusto
+Michael Jackson	Michael Jackson
+28 desanm	28-a de decembro
+Bogota	Bogoto
+Brazilia	Braziljo
+15 septanm	15-a de septembro
+14 septanm	14-a de septembro
+13 septanm	13-a de septembro
+12 septanm	12-a de septembro
+8 septanm	8-a de septembro
+11 septanm	11-a de septembro
+7 septanm	7-a de septembro
+10 septanm	10-a de septembro
+5 septanm	5-a de septembro
+4 septanm	4-a de septembro
+9 septanm	9-a de septembro
+2 septanm	2-a de septembro
+6 septanm	6-a de septembro
+1e septanm	1-a de septembro
+3 septanm	3-a de septembro
+29 desanm	29-a de decembro
+Lima	Limo
+30 septanm	30-a de septembro
+29 septanm	29-a de septembro
+28 septanm	28-a de septembro
+27 septanm	27-a de septembro
+26 septanm	26-a de septembro
+25 septanm	25-a de septembro
+Santyago	Santiago de Ĉilio
+23 septanm	23-a de septembro
+22 septanm	22-a de septembro
+24 septanm	24-a de septembro
+21 septanm	21-a de septembro
+20 septanm	20-a de septembro
+18 septanm	18-a de septembro
+17 septanm	17-a de septembro
+19 septanm	19-a de septembro
+16 septanm	16-a de septembro
+Kito	Kito
+30 desanm	30-a de decembro
+Sik	Sukro
+31 desanm	31-a de decembro
+1e oktòb	1-a de oktobro
+15 oktòb	15-a de oktobro
+12 oktòb	12-a de oktobro
+10 oktòb	10-a de oktobro
+14 oktòb	14-a de oktobro
+9 oktòb	9-a de oktobro
+8 oktòb	8-a de oktobro
+13 oktòb	13-a de oktobro
+7 oktòb	7-a de oktobro
+11 oktòb	11-a de oktobro
+6 oktòb	6-a de oktobro
+4 oktòb	4-a de oktobro
+5 oktòb	5-a de oktobro
+3 oktòb	3-a de oktobro
+2 oktòb	2-a de oktobro
+Asounsyòn	Asunciono
+Kabrit	Hejma kapro
+31 oktòb	31-a de oktobro
+30 oktòb	30-a de oktobro
+29 oktòb	29-a de oktobro
+28 oktòb	28-a de oktobro
+26 oktòb	26-a de oktobro
+25 oktòb	25-a de oktobro
+24 oktòb	24-a de oktobro
+27 oktòb	27-a de oktobro
+22 oktòb	22-a de oktobro
+23 oktòb	23-a de oktobro
+20 oktòb	20-a de oktobro
+21 oktòb	21-a de oktobro
+19 oktòb	19-a de oktobro
+17 oktòb	17-a de oktobro
+16 oktòb	16-a de oktobro
+18 oktòb	18-a de oktobro
+15 novanm	15-a de novembro
+14 novanm	14-a de novembro
+13 novanm	13-a de novembro
+12 novanm	12-a de novembro
+11 novanm	11-a de novembro
+10 novanm	10-a de novembro
+7 novanm	7-a de novembro
+8 novanm	8-a de novembro
+9 novanm	9-a de novembro
+6 novanm	6-a de novembro
+5 novanm	5-a de novembro
+4 novanm	4-a de novembro
+3 novanm	3-a de novembro
+2 novanm	2-a de novembro
+1e novanm	1-a de novembro
+Paramaribo	Paramaribo
+Gason	Knabo
+30 novanm	30-a de novembro
+29 novanm	29-a de novembro
+28 novanm	28-a de novembro
+27 novanm	27-a de novembro
+26 novanm	26-a de novembro
+25 novanm	25-a de novembro
+23 novanm	23-a de novembro
+24 novanm	24-a de novembro
+21 novanm	21-a de novembro
+20 novanm	20-a de novembro
+22 novanm	22-a de novembro
+19 novanm	19-a de novembro
+18 novanm	18-a de novembro
+17 novanm	17-a de novembro
+16 novanm	16-a de novembro
+Tifi	Knabino
+Katmandou	Katmanduo
+Bèlmopan	Belmopano
+San Jozé	San-Joseo (Kostariko)
+San Salvadò	San-Salvadoro
+Kanbera	Kanbero
+Vèt	Verdo
+Rouj	Ruĝa
+Dife	Fajro
+Foton	Fotono
+Pozitwon	Pozitrono
+Tegousigoualpa	Tegucigalpo
+Managoua	Managvo
+Panama (kapital)	Panamurbo
+Titanya	Titanjo (luno)
+Oberon	Oberono (luno)
+Enbryèl	Umbrielo (luno)
+Aryèl	Arielo (luno)
+Miranda	Mirando (luno)
+Triton	Tritono (luno)
+Raba	Rabato
+Komèt	Kometo
+Alje	Alĝero
+Tinis	Tunizo
+Tripoli	Tripolo
+Djibouti (kapital)	Ĝibuto
+Antofagasta	Antofagasta (urbo)
+Teheran	Teherano
+Adis-Abeba	Adis-Abebo
+Jakarta	Ĝakarto
+Ankara	Ankaro
+Asmara	Asmaro
+N'Djamèna	Nĵameno
+Niamè	Niameo
+Nouakchot	Nuakŝoto
+Riyad	Riado
+1961 (almanak gregoryen)	1961
+Bamako	Bamako
+Bèlgrad	Beogrado
+Dakar	Dakaro
+Banjoul	Banĵulo
+Konakri	Konakrio
+Biso	Bisaŭo
+Monrovia	Monrovio
+1960 (almanak gregoryen)	1960
+Akra	Akrao
+Damas	Damasko
+Yamousoukro	Jamusukro
+Giyàn franse	Franca Gviano
+Chillán	Chillán
+Ouagadougou	Uagaduguo
+Fritonn	Fritaŭno
+Abouja	Abuĝo
+Lome	Lomeo
+Pòto-Novo	Porto-Novo
+Amàn	Amano
+Yaounde	Jaundeo
+Malabo	Malabo
+Bewout	Bejruto
+Libvil	Librevilo
+Mascat	Maskato
+Bangiy	Bango
+Kinchasa	Kinŝaso
+Brazavil	Brazavilo
+Boujoumboura	Buĵumburo
+Nikozi	Nikozio
+Kigali	Kigalo
+Doha	Doho
+Astewoyid	Asteroido
+Dodoma	Dodomao
+Copiapó	Copiapó (urbo)
+Nayrobi	Najrobo
+Coquimbo	Coquimbo (urbo)
+Lilongwe	Lilongvo
+Louzaka	Lusako
+Manama	Manamo
+Eklips solèy	Suna eklipso
+Mapouto	Maputo
+Kanpala	Kampalo
+Louanda	Luando
+Moroni	Moronio
+Mbabàn	Mbabano
+Galisiya	Galegio
+Maserou	Maseruo
+Sistèm binè	Duuma sistemo
+Lekòl	Lernejo
+Antananarivo	Antananarivo
+Inivèsite	Universitato
+Gaboròn	Gaberono
+Arare	Harareo
+Pretoria	Pretorio
+Pò-Loui	Port-Luiso
+Pingpong	Tabloteniso
+Sao Tome	Sao-Tomeo
+Asturies	Asturio
+Windoèk	Vindhuko
+Sipènova	Supernovao
+Wikipedya:Bak sab	Vikipedio:Provejo
+Viktorya	Viktorio (Sejŝeloj)
+Cantabrie	Kantabrio
+Kay	Domo
+Ostrali (kontinan)	Aŭstralia kontinento
+Aljèb	Algebro
+Peyi basque	Eŭska Aŭtonoma Komunumo
+Navarre	Navaro
+Rivyè	Rivero
+Osasco	Osasco (San-Paŭlo)
+Aragon	Aragono
+Aewopò Dong Hoi	Flughaveno Dong Hoi
+Etwal a netwon	Neŭtrona stelo
+Curitiba	Kuritibo
+Panje	Pangeo
+Forè	Arbaro
+Talca	Talkao
+Rancagua, Chili	Rancagua (Ĉilio)
+Confucius	Konfuceo
+Corbin Bleu	Corbin Bleu
+Kategori:Matematik	Kategorio:Matematiko
+Kategori:Lang atifisyèl	Kategorio:Konstruitaj lingvoj
+Renesans	Renesanco
+Nich	Nesto
+1488 (almanak jilyen)	1488
+Owayo (rivyè)	Ohio (rivero)
+Ewo	Eŭro
+Krisyanis	Kristanismo
+1004 (almanak jilyen)	1004
+Seattle, Washington	Seattle
+Diri	Rizo
+Kontinan	Kontinento
+Zwazo	Birdoj
+Kapital	Ĉefurbo
+Monzón, Espay	Monzono
+Mwa	Monato
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+1948 (almanak gregoryen)	1948
+1949 (almanak gregoryen)	1949
+Almazán	Almazán
+Huang Xianfan	Huang Senfan
+1956 (almanak gregoryen)	1956
+1200 (almanak jilyen)	1200
+1201 (almanak jilyen)	1201
+1202 (almanak jilyen)	1202
+1203 (almanak jilyen)	1203
+1204 (almanak jilyen)	1204
+1205 (almanak jilyen)	1205
+1206 (almanak jilyen)	1206
+1941 (almanak gregoryen)	1941
+1207 (almanak jilyen)	1207
+1208 (almanak jilyen)	1208
+1945 (almanak gregoryen)	1945
+1209 (almanak jilyen)	1209
+1210 (almanak jilyen)	1210
+1211 (almanak jilyen)	1211
+1958 (almanak gregoryen)	1958
+1212 (almanak jilyen)	1212
+1926 (almanak gregoryen)	1926
+1213 (almanak jilyen)	1213
+1947 (almanak gregoryen)	1947
+1944 (almanak gregoryen)	1944
+1952 (almanak gregoryen)	1952
+Huércal de Almería (Almería)	Huércal de Almería
+Tool Command Language	Tcl
+Ansiklopedi	Enciklopedio
+Paj Prensipal	Vikipedio:Ĉefpaĝo
+1959 (almanak gregoryen)	1959
+1957 (almanak gregoryen)	1957
+Rezistò	Rezistilo
+Desibèl	Decibelo
+Tranzistò	Transistoro
+1214 (almanak jilyen)	1214
+1215 (almanak jilyen)	1215
+Bèzbòl	Basbalo
+Baskètbòl	Korbopilkado
+1216 (almanak jilyen)	1216
+Gòlf (espò)	Golfo (sporto)
+Rigbi	Rugbeo
+1217 (almanak jilyen)	1217
+1218 (almanak jilyen)	1218
+1219 (almanak jilyen)	1219
+1220 (almanak jilyen)	1220
+1221 (almanak jilyen)	1221
+1222 (almanak jilyen)	1222
+1223 (almanak jilyen)	1223
+Ewazi	Eŭrazio
+1224 (almanak jilyen)	1224
+1225 (almanak jilyen)	1225
+1226 (almanak jilyen)	1226
+1227 (almanak jilyen)	1227
+1228 (almanak jilyen)	1228
+1229 (almanak jilyen)	1229
+1230 (almanak jilyen)	1230
+1231 (almanak jilyen)	1231
+1232 (almanak jilyen)	1232
+Misouri (rivyè)	Misuro (rivero)
+1233 (almanak jilyen)	1233
+1234 (almanak jilyen)	1234
+1235 (almanak jilyen)	1235
+1236 (almanak jilyen)	1236
+1237 (almanak jilyen)	1237
+1238 (almanak jilyen)	1238
+1239 (almanak jilyen)	1239
+1240 (almanak jilyen)	1240
+1241 (almanak jilyen)	1241
+1242 (almanak jilyen)	1242
+1243 (almanak jilyen)	1243
+1244 (almanak jilyen)	1244
+1245 (almanak jilyen)	1245
+1246 (almanak jilyen)	1246
+Li Kap	Kaburbo
+1247 (almanak jilyen)	1247
+1248 (almanak jilyen)	1248
+1249 (almanak jilyen)	1249
+1250 (almanak jilyen)	1250
+1251 (almanak jilyen)	1251
+1252 (almanak jilyen)	1252
+1253 (almanak jilyen)	1253
+1254 (almanak jilyen)	1254
+1255 (almanak jilyen)	1255
+1256 (almanak jilyen)	1256
+1257 (almanak jilyen)	1257
+1258 (almanak jilyen)	1258
+1259 (almanak jilyen)	1259
+1260 (almanak jilyen)	1260
+1261 (almanak jilyen)	1261
+1262 (almanak jilyen)	1262
+1263 (almanak jilyen)	1263
+1264 (almanak jilyen)	1264
+1265 (almanak jilyen)	1265
+1266 (almanak jilyen)	1266
+1267 (almanak jilyen)	1267
+1268 (almanak jilyen)	1268
+1269 (almanak jilyen)	1269
+1270 (almanak jilyen)	1270
+1271 (almanak jilyen)	1271
+1272 (almanak jilyen)	1272
+1273 (almanak jilyen)	1273
+1274 (almanak jilyen)	1274
+1275 (almanak jilyen)	1275
+1276 (almanak jilyen)	1276
+1277 (almanak jilyen)	1277
+1278 (almanak jilyen)	1278
+1279 (almanak jilyen)	1279
+1280 (almanak jilyen)	1280
+1281 (almanak jilyen)	1281
+1282 (almanak jilyen)	1282
+1283 (almanak jilyen)	1283
+1284 (almanak jilyen)	1284
+1285 (almanak jilyen)	1285
+1286 (almanak jilyen)	1286
+1287 (almanak jilyen)	1287
+1288 (almanak jilyen)	1288
+1289 (almanak jilyen)	1289
+1290 (almanak jilyen)	1290
+1291 (almanak jilyen)	1291
+1292 (almanak jilyen)	1292
+1293 (almanak jilyen)	1293
+1294 (almanak jilyen)	1294
+1295 (almanak jilyen)	1295
+1296 (almanak jilyen)	1296
+1297 (almanak jilyen)	1297
+1298 (almanak jilyen)	1298
+1299 (almanak jilyen)	1299
+Vincent Van Gogh	Vincent van Gogh
+Michelangelo	Mikelanĝelo
+Pablo Picasso	Pablo Picasso
+1300 (almanak jilyen)	1300
+1301 (almanak jilyen)	1301
+1302 (almanak jilyen)	1302
+1303 (almanak jilyen)	1303
+Marie de France	Maria de Francio
+1304 (almanak jilyen)	1304
+1305 (almanak jilyen)	1305
+Kataloy	Katalunio
+1306 (almanak jilyen)	1306
+1307 (almanak jilyen)	1307
+Valence	Valencilando
+1308 (almanak jilyen)	1308
+1309 (almanak jilyen)	1309
+La Rioja	Provinco Rioĥo
+1310 (almanak jilyen)	1310
+1311 (almanak jilyen)	1311
+1312 (almanak jilyen)	1312
+1313 (almanak jilyen)	1313
+Kastil ak Leon	Kastilio kaj Leono
+1314 (almanak jilyen)	1314
+1315 (almanak jilyen)	1315
+1316 (almanak jilyen)	1316
+1317 (almanak jilyen)	1317
+Castille-La Manche	Kastilio-Manĉo
+1318 (almanak jilyen)	1318
+Zile Baleares	Balearoj
+1319 (almanak jilyen)	1319
+1320 (almanak jilyen)	1320
+1321 (almanak jilyen)	1321
+1322 (almanak jilyen)	1322
+1323 (almanak jilyen)	1323
+Murcie	Murcia Regiono
+1324 (almanak jilyen)	1324
+1325 (almanak jilyen)	1325
+Bètleyèm	Bet-Leĥem
+Estremadure	Ekstremaduro
+1326 (almanak jilyen)	1326
+Andalouzi	Andaluzio
+1327 (almanak jilyen)	1327
+1328 (almanak jilyen)	1328
+Novak Djokovic	Novak Đoković
+Canaries	Kanarioj
+Ceuta	Ceŭto
+Melilla	Melilo
+Kaboul	Kabulo
+Filozofi	Filozofio
+1329 (almanak jilyen)	1329
+Huntington Beach, Kalifòni	Huntington Beach
+1330 (almanak jilyen)	1330
+1331 (almanak jilyen)	1331
+1332 (almanak jilyen)	1332
+1333 (almanak jilyen)	1333
+1334 (almanak jilyen)	1334
+1335 (almanak jilyen)	1335
+1336 (almanak jilyen)	1336
+1337 (almanak jilyen)	1337
+1338 (almanak jilyen)	1338
+1339 (almanak jilyen)	1339
+1340 (almanak jilyen)	1340
+1341 (almanak jilyen)	1341
+1342 (almanak jilyen)	1342
+1343 (almanak jilyen)	1343
+1344 (almanak jilyen)	1344
+1345 (almanak jilyen)	1345
+1346 (almanak jilyen)	1346
+1347 (almanak jilyen)	1347
+1348 (almanak jilyen)	1348
+1349 (almanak jilyen)	1349
+1350 (almanak jilyen)	1350
+Te	Teo
+1351 (almanak jilyen)	1351
+Hebe Camargo	Hebe Camargo
+Portland, Oregon	Portlando (Oregono)
+1400 (almanak jilyen)	1400
+1401 (almanak jilyen)	1401
+1352 (almanak jilyen)	1352
+1402 (almanak jilyen)	1402
+1353 (almanak jilyen)	1353
+1403 (almanak jilyen)	1403
+1354 (almanak jilyen)	1354
+1404 (almanak jilyen)	1404
+1355 (almanak jilyen)	1355
+1405 (almanak jilyen)	1405
+1500 (almanak jilyen)	1500
+1406 (almanak jilyen)	1406
+1356 (almanak jilyen)	1356
+1501 (almanak jilyen)	1501
+1407 (almanak jilyen)	1407
+1357 (almanak jilyen)	1357
+1502 (almanak jilyen)	1502
+1408 (almanak jilyen)	1408
+1358 (almanak jilyen)	1358
+1503 (almanak jilyen)	1503
+1359 (almanak jilyen)	1359
+1409 (almanak jilyen)	1409
+1504 (almanak jilyen)	1504
+1360 (almanak jilyen)	1360
+1410 (almanak jilyen)	1410
+1505 (almanak jilyen)	1505
+1506 (almanak jilyen)	1506
+1411 (almanak jilyen)	1411
+1361 (almanak jilyen)	1361
+1507 (almanak jilyen)	1507
+1412 (almanak jilyen)	1412
+1362 (almanak jilyen)	1362
+1413 (almanak jilyen)	1413
+1508 (almanak jilyen)	1508
+1363 (almanak jilyen)	1363
+1509 (almanak jilyen)	1509
+1414 (almanak jilyen)	1414
+1510 (almanak jilyen)	1510
+1415 (almanak jilyen)	1415
+1364 (almanak jilyen)	1364
+1511 (almanak jilyen)	1511
+1416 (almanak jilyen)	1416
+1365 (almanak jilyen)	1365
+1512 (almanak jilyen)	1512
+1417 (almanak jilyen)	1417
+1366 (almanak jilyen)	1366
+1513 (almanak jilyen)	1513
+1418 (almanak jilyen)	1418
+1367 (almanak jilyen)	1367
+Nonm avogadwo	Konstanto de Avogadro
+1514 (almanak jilyen)	1514
+1419 (almanak jilyen)	1419
+1368 (almanak jilyen)	1368
+1515 (almanak jilyen)	1515
+1420 (almanak jilyen)	1420
+1369 (almanak jilyen)	1369
+1516 (almanak jilyen)	1516
+1421 (almanak jilyen)	1421
+1370 (almanak jilyen)	1370
+Sahara oksidantal	Okcidenta Saharo
+1371 (almanak jilyen)	1371
+Peyi	Lando
+1372 (almanak jilyen)	1372
+1373 (almanak jilyen)	1373
+1422 (almanak jilyen)	1422
+1517 (almanak jilyen)	1517
+Nasyon	Nacio
+1423 (almanak jilyen)	1423
+1518 (almanak jilyen)	1518
+1374 (almanak jilyen)	1374
+1424 (almanak jilyen)	1424
+1375 (almanak jilyen)	1375
+1519 (almanak jilyen)	1519
+1376 (almanak jilyen)	1376
+1425 (almanak jilyen)	1425
+1520 (almanak jilyen)	1520
+1521 (almanak jilyen)	1521
+1377 (almanak jilyen)	1377
+1426 (almanak jilyen)	1426
+1522 (almanak jilyen)	1522
+1523 (almanak jilyen)	1523
+1427 (almanak jilyen)	1427
+1378 (almanak jilyen)	1378
+1524 (almanak jilyen)	1524
+1525 (almanak jilyen)	1525
+1428 (almanak jilyen)	1428
+1379 (almanak jilyen)	1379
+1526 (almanak jilyen)	1526
+1429 (almanak jilyen)	1429
+1380 (almanak jilyen)	1380
+1381 (almanak jilyen)	1381
+1382 (almanak jilyen)	1382
+1383 (almanak jilyen)	1383
+1430 (almanak jilyen)	1430
+1431 (almanak jilyen)	1431
+Indianapolis, Indiana	Indianapolis
+1384 (almanak jilyen)	1384
+1432 (almanak jilyen)	1432
+1385 (almanak jilyen)	1385
+1386 (almanak jilyen)	1386
+1433 (almanak jilyen)	1433
+1387 (almanak jilyen)	1387
+1434 (almanak jilyen)	1434
+1435 (almanak jilyen)	1435
+1388 (almanak jilyen)	1388
+1436 (almanak jilyen)	1436
+1389 (almanak jilyen)	1389
+1437 (almanak jilyen)	1437
+1390 (almanak jilyen)	1390
+1438 (almanak jilyen)	1438
+1391 (almanak jilyen)	1391
+1439 (almanak jilyen)	1439
+1392 (almanak jilyen)	1392
+1440 (almanak jilyen)	1440
+Natasyon	Naĝado
+1393 (almanak jilyen)	1393
+1394 (almanak jilyen)	1394
+1395 (almanak jilyen)	1395
+1441 (almanak jilyen)	1441
+1396 (almanak jilyen)	1396
+1397 (almanak jilyen)	1397
+1442 (almanak jilyen)	1442
+1527 (almanak jilyen)	1527
+1528 (almanak jilyen)	1528
+1398 (almanak jilyen)	1398
+1443 (almanak jilyen)	1443
+1444 (almanak jilyen)	1444
+1529 (almanak jilyen)	1529
+1399 (almanak jilyen)	1399
+1445 (almanak jilyen)	1445
+1530 (almanak jilyen)	1530
+1446 (almanak jilyen)	1446
+1531 (almanak jilyen)	1531
+1447 (almanak jilyen)	1447
+1532 (almanak jilyen)	1532
+1448 (almanak jilyen)	1448
+1533 (almanak jilyen)	1533
+1449 (almanak jilyen)	1449
+1534 (almanak jilyen)	1534
+1450 (almanak jilyen)	1450
+1535 (almanak jilyen)	1535
+1451 (almanak jilyen)	1451
+1536 (almanak jilyen)	1536
+1452 (almanak jilyen)	1452
+1537 (almanak jilyen)	1537
+1453 (almanak jilyen)	1453
+1538 (almanak jilyen)	1538
+1454 (almanak jilyen)	1454
+1539 (almanak jilyen)	1539
+1455 (almanak jilyen)	1455
+1540 (almanak jilyen)	1540
+Kategori:Astwonomi	Kategorio:Astronomio
+1541 (almanak jilyen)	1541
+1456 (almanak jilyen)	1456
+1457 (almanak jilyen)	1457
+1542 (almanak jilyen)	1542
+1458 (almanak jilyen)	1458
+1543 (almanak jilyen)	1543
+1459 (almanak jilyen)	1459
+1544 (almanak jilyen)	1544
+1460 (almanak jilyen)	1460
+1545 (almanak jilyen)	1545
+1461 (almanak jilyen)	1461
+1546 (almanak jilyen)	1546
+1462 (almanak jilyen)	1462
+1547 (almanak jilyen)	1547
+1463 (almanak jilyen)	1463
+1548 (almanak jilyen)	1548
+1464 (almanak jilyen)	1464
+1549 (almanak jilyen)	1549
+1465 (almanak jilyen)	1465
+1550 (almanak jilyen)	1550
+1466 (almanak jilyen)	1466
+1551 (almanak jilyen)	1551
+1467 (almanak jilyen)	1467
+1468 (almanak jilyen)	1468
+1552 (almanak jilyen)	1552
+1469 (almanak jilyen)	1469
+1553 (almanak jilyen)	1553
+1470 (almanak jilyen)	1470
+1554 (almanak jilyen)	1554
+1471 (almanak jilyen)	1471
+1555 (almanak jilyen)	1555
+1472 (almanak jilyen)	1472
+1556 (almanak jilyen)	1556
+1473 (almanak jilyen)	1473
+1557 (almanak jilyen)	1557
+1474 (almanak jilyen)	1474
+1558 (almanak jilyen)	1558
+Estrasbou	Strasburgo
+1475 (almanak jilyen)	1475
+1559 (almanak jilyen)	1559
+1476 (almanak jilyen)	1476
+1560 (almanak jilyen)	1560
+1477 (almanak jilyen)	1477
+1478 (almanak jilyen)	1478
+1561 (almanak jilyen)	1561
+1479 (almanak jilyen)	1479
+1562 (almanak jilyen)	1562
+1480 (almanak jilyen)	1480
+1563 (almanak jilyen)	1563
+1481 (almanak jilyen)	1481
+1564 (almanak jilyen)	1564
+1482 (almanak jilyen)	1482
+1565 (almanak jilyen)	1565
+1483 (almanak jilyen)	1483
+1566 (almanak jilyen)	1566
+1484 (almanak jilyen)	1484
+1567 (almanak jilyen)	1567
+1485 (almanak jilyen)	1485
+1486 (almanak jilyen)	1486
+1568 (almanak jilyen)	1568
+1487 (almanak jilyen)	1487
+1569 (almanak jilyen)	1569
+1570 (almanak jilyen)	1570
+1489 (almanak jilyen)	1489
+1571 (almanak jilyen)	1571
+1490 (almanak jilyen)	1490
+1572 (almanak jilyen)	1572
+1491 (almanak jilyen)	1491
+1573 (almanak jilyen)	1573
+1492 (almanak jilyen)	1492
+1574 (almanak jilyen)	1574
+1493 (almanak jilyen)	1493
+1575 (almanak jilyen)	1575
+Homer	Homero
+1494 (almanak jilyen)	1494
+1495 (almanak jilyen)	1495
+1496 (almanak jilyen)	1496
+1576 (almanak jilyen)	1576
+1497 (almanak jilyen)	1497
+1577 (almanak jilyen)	1577
+1498 (almanak jilyen)	1498
+1578 (almanak jilyen)	1578
+1499 (almanak jilyen)	1499
+1579 (almanak jilyen)	1579
+1580 (almanak jilyen)	1580
+1581 (almanak jilyen)	1581
+Kwak	Kvarko
+1582 (almanak gregoryen)	1582
+1600 (almanak gregoryen)	1600
+Carl Friedrich Gauss	Carl Friedrich Gauss
+1601 (almanak gregoryen)	1601
+1583 (almanak gregoryen)	1583
+1602 (almanak gregoryen)	1602
+1584 (almanak gregoryen)	1584
+Edward Teller	Edward Teller
+1603 (almanak gregoryen)	1603
+1585 (almanak gregoryen)	1585
+1604 (almanak gregoryen)	1604
+1586 (almanak gregoryen)	1586
+1605 (almanak gregoryen)	1605
+1587 (almanak gregoryen)	1587
+1606 (almanak gregoryen)	1606
+1607 (almanak gregoryen)	1607
+1588 (almanak gregoryen)	1588
+1608 (almanak gregoryen)	1608
+1589 (almanak gregoryen)	1589
+1609 (almanak gregoryen)	1609
+1590 (almanak gregoryen)	1590
+1610 (almanak gregoryen)	1610
+1591 (almanak gregoryen)	1591
+1611 (almanak gregoryen)	1611
+1592 (almanak gregoryen)	1592
+1612 (almanak gregoryen)	1612
+1593 (almanak gregoryen)	1593
+1613 (almanak gregoryen)	1613
+1594 (almanak gregoryen)	1594
+1614 (almanak gregoryen)	1614
+1595 (almanak gregoryen)	1595
+1615 (almanak gregoryen)	1615
+1596 (almanak gregoryen)	1596
+1616 (almanak gregoryen)	1616
+1597 (almanak gregoryen)	1597
+1617 (almanak gregoryen)	1617
+1598 (almanak gregoryen)	1598
+1618 (almanak gregoryen)	1618
+1599 (almanak gregoryen)	1599
+1619 (almanak gregoryen)	1619
+1620 (almanak gregoryen)	1620
+1621 (almanak gregoryen)	1621
+1700 (almanak gregoryen)	1700
+1701 (almanak gregoryen)	1701
+1622 (almanak gregoryen)	1622
+1623 (almanak gregoryen)	1623
+1702 (almanak gregoryen)	1702
+1624 (almanak gregoryen)	1624
+1703 (almanak gregoryen)	1703
+1704 (almanak gregoryen)	1704
+1625 (almanak gregoryen)	1625
+1705 (almanak gregoryen)	1705
+1626 (almanak gregoryen)	1626
+1627 (almanak gregoryen)	1627
+1706 (almanak gregoryen)	1706
+1628 (almanak gregoryen)	1628
+1707 (almanak gregoryen)	1707
+1708 (almanak gregoryen)	1708
+1629 (almanak gregoryen)	1629
+1630 (almanak gregoryen)	1630
+1709 (almanak gregoryen)	1709
+1631 (almanak gregoryen)	1631
+1710 (almanak gregoryen)	1710
+1632 (almanak gregoryen)	1632
+1711 (almanak gregoryen)	1711
+1633 (almanak gregoryen)	1633
+1712 (almanak gregoryen)	1712
+1634 (almanak gregoryen)	1634
+1713 (almanak gregoryen)	1713
+1800 (almanak gregoryen)	1800
+1801 (almanak gregoryen)	1801
+1714 (almanak gregoryen)	1714
+1635 (almanak gregoryen)	1635
+1802 (almanak gregoryen)	1802
+1715 (almanak gregoryen)	1715
+1636 (almanak gregoryen)	1636
+1803 (almanak gregoryen)	1803
+1637 (almanak gregoryen)	1637
+1716 (almanak gregoryen)	1716
+1638 (almanak gregoryen)	1638
+1804 (almanak gregoryen)	1804
+1717 (almanak gregoryen)	1717
+1639 (almanak gregoryen)	1639
+1805 (almanak gregoryen)	1805
+1718 (almanak gregoryen)	1718
+1640 (almanak gregoryen)	1640
+1719 (almanak gregoryen)	1719
+1806 (almanak gregoryen)	1806
+1641 (almanak gregoryen)	1641
+1720 (almanak gregoryen)	1720
+1807 (almanak gregoryen)	1807
+1642 (almanak gregoryen)	1642
+1721 (almanak gregoryen)	1721
+1808 (almanak gregoryen)	1808
+1643 (almanak gregoryen)	1643
+1722 (almanak gregoryen)	1722
+1809 (almanak gregoryen)	1809
+1644 (almanak gregoryen)	1644
+1723 (almanak gregoryen)	1723
+1810 (almanak gregoryen)	1810
+1645 (almanak gregoryen)	1645
+1724 (almanak gregoryen)	1724
+1811 (almanak gregoryen)	1811
+1646 (almanak gregoryen)	1646
+1725 (almanak gregoryen)	1725
+1812 (almanak gregoryen)	1812
+1647 (almanak gregoryen)	1647
+1726 (almanak gregoryen)	1726
+1813 (almanak gregoryen)	1813
+1648 (almanak gregoryen)	1648
+1727 (almanak gregoryen)	1727
+1814 (almanak gregoryen)	1814
+1649 (almanak gregoryen)	1649
+1728 (almanak gregoryen)	1728
+1815 (almanak gregoryen)	1815
+1650 (almanak gregoryen)	1650
+1729 (almanak gregoryen)	1729
+1816 (almanak gregoryen)	1816
+1651 (almanak gregoryen)	1651
+1730 (almanak gregoryen)	1730
+1817 (almanak gregoryen)	1817
+1652 (almanak gregoryen)	1652
+1731 (almanak gregoryen)	1731
+1818 (almanak gregoryen)	1818
+1653 (almanak gregoryen)	1653
+1732 (almanak gregoryen)	1732
+1819 (almanak gregoryen)	1819
+1654 (almanak gregoryen)	1654
+1733 (almanak gregoryen)	1733
+1820 (almanak gregoryen)	1820
+1655 (almanak gregoryen)	1655
+1821 (almanak gregoryen)	1821
+1734 (almanak gregoryen)	1734
+1656 (almanak gregoryen)	1656
+1822 (almanak gregoryen)	1822
+1735 (almanak gregoryen)	1735
+1657 (almanak gregoryen)	1657
+1823 (almanak gregoryen)	1823
+1736 (almanak gregoryen)	1736
+1658 (almanak gregoryen)	1658
+1737 (almanak gregoryen)	1737
+1824 (almanak gregoryen)	1824
+1659 (almanak gregoryen)	1659
+1738 (almanak gregoryen)	1738
+1825 (almanak gregoryen)	1825
+1660 (almanak gregoryen)	1660
+1739 (almanak gregoryen)	1739
+1826 (almanak gregoryen)	1826
+1661 (almanak gregoryen)	1661
+1740 (almanak gregoryen)	1740
+1827 (almanak gregoryen)	1827
+Etwal filant	Meteoroido
+Kategori:Etwal	Kategorio:Steloj
+Ateyis	Ateismo
+Niels Bohr	Niels Bohr
+Evariste Galois	Évariste Galois
+Emmy Noether	Emmy Noether
+Ekoloji	Ekologio
+Jenetik	Genetiko
+Politik	Politiko
+Demokrasi	Demokratio
+Marie Curie	Marie Curie
+Jèn	Geno
+Gouvènman	Registaro
+Qin Shi Huang	Qin Shihuangdi
+Òganis	Organismo
+Leon Tolstoi	Lev Tolstoj
+Alan Turing	Alan Turing
+Ada Lovelace	Ada Lovelace
+Repiblik	Respubliko
+Badmintonn	Badmintono
+Bo	Kiso
+Kristòf Kolon	Kristoforo Kolumbo
+Antatik (oseyan)	Suda Oceano
+Zòrèy	Orelo
+Nen	Nazo (organo)
+Je	Okulo
+Misk	Muskolo
+Moustik	Moskito
+Mouton	Ŝafo
+Reken	Ŝarko
+Chamo	Kamelo
+Mamifè	Mamuloj
+Elefan	Elefanto
+Primat	Primatoj
+Foumi	Formiko
+Abèy	Abelo
+ADN	DNA
+Espès	Specio
+Rosalind Franklin	Rosalind Franklin
+Irene Joliot-Curie	Irène Joliot-Curie
+Chou flè	Florbrasiko
+Berejèn	Melongeno
+Lanèj	Neĝo
+Papa	Patro
+Timoun	Infano
+1828 (almanak gregoryen)	1828
+1829 (almanak gregoryen)	1829
+1741 (almanak gregoryen)	1741
+1662 (almanak gregoryen)	1662
+1742 (almanak gregoryen)	1742
+1830 (almanak gregoryen)	1830
+1663 (almanak gregoryen)	1663
+1831 (almanak gregoryen)	1831
+1743 (almanak gregoryen)	1743
+1664 (almanak gregoryen)	1664
+1665 (almanak gregoryen)	1665
+1744 (almanak gregoryen)	1744
+1832 (almanak gregoryen)	1832
+1666 (almanak gregoryen)	1666
+1745 (almanak gregoryen)	1745
+1833 (almanak gregoryen)	1833
+1667 (almanak gregoryen)	1667
+1746 (almanak gregoryen)	1746
+Transpò	Transporto
+1834 (almanak gregoryen)	1834
+1668 (almanak gregoryen)	1668
+1747 (almanak gregoryen)	1747
+1835 (almanak gregoryen)	1835
+1748 (almanak gregoryen)	1748
+1836 (almanak gregoryen)	1836
+1669 (almanak gregoryen)	1669
+Leonhard Euler	Leonhard Euler
+1670 (almanak gregoryen)	1670
+1749 (almanak gregoryen)	1749
+1837 (almanak gregoryen)	1837
+1671 (almanak gregoryen)	1671
+1750 (almanak gregoryen)	1750
+1838 (almanak gregoryen)	1838
+1672 (almanak gregoryen)	1672
+1751 (almanak gregoryen)	1751
+1839 (almanak gregoryen)	1839
+1673 (almanak gregoryen)	1673
+1752 (almanak gregoryen)	1752
+1840 (almanak gregoryen)	1840
+1674 (almanak gregoryen)	1674
+1753 (almanak gregoryen)	1753
+1841 (almanak gregoryen)	1841
+1754 (almanak gregoryen)	1754
+1675 (almanak gregoryen)	1675
+1842 (almanak gregoryen)	1842
+1755 (almanak gregoryen)	1755
+1676 (almanak gregoryen)	1676
+1843 (almanak gregoryen)	1843
+1677 (almanak gregoryen)	1677
+1756 (almanak gregoryen)	1756
+1844 (almanak gregoryen)	1844
+1678 (almanak gregoryen)	1678
+1757 (almanak gregoryen)	1757
+1845 (almanak gregoryen)	1845
+1679 (almanak gregoryen)	1679
+1758 (almanak gregoryen)	1758
+1846 (almanak gregoryen)	1846
+1680 (almanak gregoryen)	1680
+1759 (almanak gregoryen)	1759
+1847 (almanak gregoryen)	1847
+1681 (almanak gregoryen)	1681
+1760 (almanak gregoryen)	1760
+1848 (almanak gregoryen)	1848
+1682 (almanak gregoryen)	1682
+1761 (almanak gregoryen)	1761
+1849 (almanak gregoryen)	1849
+1683 (almanak gregoryen)	1683
+1762 (almanak gregoryen)	1762
+1850 (almanak gregoryen)	1850
+1684 (almanak gregoryen)	1684
+1763 (almanak gregoryen)	1763
+1851 (almanak gregoryen)	1851
+1764 (almanak gregoryen)	1764
+1685 (almanak gregoryen)	1685
+1852 (almanak gregoryen)	1852
+1686 (almanak gregoryen)	1686
+1765 (almanak gregoryen)	1765
+1853 (almanak gregoryen)	1853
+1687 (almanak gregoryen)	1687
+1766 (almanak gregoryen)	1766
+1854 (almanak gregoryen)	1854
+1688 (almanak gregoryen)	1688
+1767 (almanak gregoryen)	1767
+1855 (almanak gregoryen)	1855
+1689 (almanak gregoryen)	1689
+1768 (almanak gregoryen)	1768
+1856 (almanak gregoryen)	1856
+1690 (almanak gregoryen)	1690
+1769 (almanak gregoryen)	1769
+1857 (almanak gregoryen)	1857
+1691 (almanak gregoryen)	1691
+1770 (almanak gregoryen)	1770
+1858 (almanak gregoryen)	1858
+1692 (almanak gregoryen)	1692
+1771 (almanak gregoryen)	1771
+1859 (almanak gregoryen)	1859
+1693 (almanak gregoryen)	1693
+1772 (almanak gregoryen)	1772
+1860 (almanak gregoryen)	1860
+1773 (almanak gregoryen)	1773
+1861 (almanak gregoryen)	1861
+1694 (almanak gregoryen)	1694
+1695 (almanak gregoryen)	1695
+1774 (almanak gregoryen)	1774
+1862 (almanak gregoryen)	1862
+1696 (almanak gregoryen)	1696
+1775 (almanak gregoryen)	1775
+1863 (almanak gregoryen)	1863
+1697 (almanak gregoryen)	1697
+1776 (almanak gregoryen)	1776
+1864 (almanak gregoryen)	1864
+1698 (almanak gregoryen)	1698
+1865 (almanak gregoryen)	1865
+1777 (almanak gregoryen)	1777
+1699 (almanak gregoryen)	1699
+1866 (almanak gregoryen)	1866
+1778 (almanak gregoryen)	1778
+1779 (almanak gregoryen)	1779
+1867 (almanak gregoryen)	1867
+1780 (almanak gregoryen)	1780
+1868 (almanak gregoryen)	1868
+1781 (almanak gregoryen)	1781
+1869 (almanak gregoryen)	1869
+Maten	Mateno
+Minit	Minuto
+Plonjon	Plonĝado
+Lang ris	Rusa lingvo
+1782 (almanak gregoryen)	1782
+1870 (almanak gregoryen)	1870
+1783 (almanak gregoryen)	1783
+1871 (almanak gregoryen)	1871
+Lwa (dwa)	Leĝo (jura)
+1784 (almanak gregoryen)	1784
+1872 (almanak gregoryen)	1872
+Konstitisyon	Konstitucio
+1785 (almanak gregoryen)	1785
+1873 (almanak gregoryen)	1873
+1786 (almanak gregoryen)	1786
+1874 (almanak gregoryen)	1874
+1787 (almanak gregoryen)	1787
+1875 (almanak gregoryen)	1875
+1788 (almanak gregoryen)	1788
+1876 (almanak gregoryen)	1876
+1789 (almanak gregoryen)	1789
+1877 (almanak gregoryen)	1877
+1790 (almanak gregoryen)	1790
+1878 (almanak gregoryen)	1878
+1879 (almanak gregoryen)	1879
+1791 (almanak gregoryen)	1791
+Pen	Pano
+1792 (almanak gregoryen)	1792
+1880 (almanak gregoryen)	1880
+1793 (almanak gregoryen)	1793
+1881 (almanak gregoryen)	1881
+INESKO	Unesko
+1794 (almanak gregoryen)	1794
+1882 (almanak gregoryen)	1882
+1795 (almanak gregoryen)	1795
+1883 (almanak gregoryen)	1883
+1796 (almanak gregoryen)	1796
+1884 (almanak gregoryen)	1884
+1797 (almanak gregoryen)	1797
+1885 (almanak gregoryen)	1885
+1886 (almanak gregoryen)	1886
+1798 (almanak gregoryen)	1798
+1887 (almanak gregoryen)	1887
+1799 (almanak gregoryen)	1799
+1888 (almanak gregoryen)	1888
+1889 (almanak gregoryen)	1889
+1890 (almanak gregoryen)	1890
+1891 (almanak gregoryen)	1891
+1892 (almanak gregoryen)	1892
+1893 (almanak gregoryen)	1893
+1894 (almanak gregoryen)	1894
+1895 (almanak gregoryen)	1895
+1896 (almanak gregoryen)	1896
+1897 (almanak gregoryen)	1897
+1898 (almanak gregoryen)	1898
+1899 (almanak gregoryen)	1899
+Selil	Ĉelo (biologio)
+San (non)	Sango
+Lapli	Pluvo
+Klima	Klimato
+El Niño	El-Ninjo
+Rechofman atmosferik	Tutmonda varmiĝo
+Tranblemanntè	Tertremo
+Mineral	Mineralo
+Tektonik plak	Platotektoniko
+Nelson Mandela	Nelson Mandela
+Martin Luther King	Martin Luther King
+Anzim	Enzimo
+Proteyin	Proteino
+Ròch	Rokaĵo
+Asid amine	Aminoacido
+Inondasyon	Inundo
+Radmare	Cunamo
+Vòlkan	Vulkano
+Nwaj	Nubo
+Tònad	Tornado (ŝtormo)
+Jewometri	Geometrio
+Siklòn twopikal	Uragano
+Van	Vento
+Atmosfè	Atmosfero (astro)
+Ekonomi	Ekonomiko
+Endistri	Industrio
+Lengwistik	Lingvoscienco
+Mo	Vorto
+Alfabèt sirilik	Cirila alfabeto
+Alfabèt grèk	Greka alfabeto
+Literati	Literaturo
+Kategori:Frans	Kategorio:Francio
+Kategori:Mizik	Kategorio:Muziko
+Kategori:Literati	Kategorio:Literaturo
+Dikotiledon	Dukotiledonaj plantoj
+Akennsas (rivyè)	Arkansaso (rivero)
+Rena	Vulpo
+Dyaz	Ĵazo
+Sosyete	Socio
+Edikasyon timoun	Eduko
+Fanmi	Familio
+Moun	Viro
+Maryaj	Geedzeco
+Esklavay	Sklaveco
+Kafe	Kafo
+Ji	Suko
+Lèt (likid)	Lakto
+Mòn	Monto
+Dezè	Dezerto
+Miami, Florid	Miamo
+Seoul	Seulo
+Shanghai	Ŝanhajo
+Walt Disney	Walt Disney
+Archimedes	Arkimedo
+Michael Faraday	Michael Faraday
+Enrico Fermi	Enrico Fermi
+Fibonacci	Fibonacci
+Joseph Fourier	Jean Baptiste Joseph Fourier
+Augustin Louis Cauchy	Augustin Louis Cauchy
+Konsey Ewòp	Konsilio de Eŭropo
+Konstelasyon	Konstelacio
+James Prescott Joule	James Prescott Joule
+Johannes Kepler	Keplero
+Max Planck	Max Planck
+Nikola Tesla	Nikola Tesla
+James Watt	James Watt
+Gottfried Leibniz	Gottfried Wilhelm Leibniz
+Knowledge	Scio
+Endouyis	Hinduismo
+James Clerk Maxwell	James Clerk Maxwell
+Sen	Mamo
+Atòm	Atomo
+Ernest Rutherford	Ernest Rutherford
+Limyè	Lumo
+Erwin Schrödinger	Erwin Schrödinger
+Monoteyis	Monoteismo
+Nanm	Animo
+Relijyon	Religio
+Lang kore	Korea lingvo
+Rene Descartes	René Descartes
+Sigmund Freud	Sigmund Freud
+Bakou	Bakuo
+Jidayis	Judismo
+Timfou	Timbuo
+Banda Seri	Bandar-Seri-Begavano
+Dili	Dilo
+Vyantyàn	Vjentiano
+Konpòtman	Konduto
+Male	Maleo (Maldivoj)
+Bichkek	Biŝkeko
+Douchanbe	Duŝanbeo
+Fwa	Hepato
+Ren	Reno
+Blad pipi	Urina veziko
+Irèt	Uretro
+Lapen	Kuniklo
+Zonbi	Zombio
+Panse	Pensado
+Oseyan	Oceano
+Mahomet	Mohamedo
+Etiik	Etiko
+Suspense	Suspenso
+Alèn	Spirado
+Vant	Ventro
+Lang (ògan)	Lango (anatomio)
+Ovè (plant)	Ovario
+Kou	Kolo
+Bouch	Buŝo
+Zantray	Intesto
+Atikilasyon	Artiko
+Glann	Glando
+Disjesyon	Digesta sistemo
+Dyafragm	Toraka diafragmo
+Atè	Arterio
+A	A
+Michael Schumacher	Michael Schumacher
+Elizabeth II	Elizabeto la 2-a (Britio)
+John Fitzgerald Kennedy	John F. Kennedy
+B	B
+Espèm	Ejakulaĵo
+G	G
+U	U
+Z	Z
+F	F
+J	J
+Alfabèt	Alfabeto
+Lèt	Litero
+T	T
+C	C
+R	R
+D	D
+Α	Alfo
+Ω	Omego
+I	I
+Μ	Muo (litero)
+E	E
+H	H
+K	K
+L	L
+M	M
+N	N
+O	O
+P	P
+Q	Q
+S	S
+Ronald Reagan	Ronald Reagan
+V	V
+W	W
+X	X
+Y	Y
+Φ	Fio (litero)
+Plasma (fizik)	Plasmo
+Almería (Almería)	Almerio
+Fernando Alonso	Fernando Alonso
+David Beckham	David Beckham
+Gordon Brown	Gordon Brown
+1100 (almanak jilyen)	1100
+Kategori:Venezwela	Kategorio:Venezuelo
+Bèlfast	Belfasto
+Kadif	Cardiff
+Tablo klasifikasyon peryodik eleman	Perioda tabelo
+Jòjtòn	Ĝorĝtaŭno (Gujano)
+Toutouni	Nudeco
+Rèptil	Reptilioj
+Pijon	Kolombedoj
+Akeyo	Arĥioj
+Bakteri	Bakterioj
+Pyebwa	Arbo
+Pwotis	Protistoj
+Λ	Lambdo
+Kòde	Ĥorduloj
+Fromaj	Fromaĝo
+Rezen	Vinbero
+Siwo	Mielo
+Vyann	Viando
+Pòm tè	Terpomo
+Sik (materyo)	Sukero
+Nwa (fwi)	Nukso
+Teknoloji	Teknologio
+Elis	Ŝraŭbo
+Enjenieri	Inĝenierarto
+Kominikasyon	Komunikado
+Enfòmasyon	Informo
+Jounal	Gazeto
+Kilti	Kulturo
+Asid ribonikleyik	RNA
+Sistèm sikilatwa fèmen	Kardiovaskula sistemo
+Gwo trip	Dika intesto
+Ti trip	Maldika intesto
+Lugo	Lugo (Hispanio)
+Asid	Acido
+Konpoze	Kemia kombinaĵo
+Almanak jilyen	Julia kalendaro
+Medsin	Medicino
+Baz (chimi)	Bazo (kemio)
+Sarayevo	Sarajevo
+Sistèm kouwòdone	Koordinatsistemo
+Sèl	Salo
+Fidel Castro	Fidel Castro
+Kategori:Brezil	Kategorio:Brazilo
+Eleman chimik	Kemia elemento
+Chimi òganik	Organika kemio
+Ang	Angulo
+Kabonidrat	Karbonhidrato
+Òmòn	Hormono
+Lipid	Lipido
+Akselerasyon santripèd	Akcelo
+Enèji	Energio
+Lwa konsèvasyon enèji	Principo de konservado de energio
+Onn elektwomayetik	Elektromagneta ondo
+Espès ki reprezante menas	Minacata specio
+Dezyèm lwa Newton	Klasika mekaniko
+Fòs	Forto
+Chan mayetik	Magneta kampo
+Karate	Karateo
+Jido	Ĵudo
+Jwèt	Ludilo
+Mas inèsi	Maso
+Sinema	Filmo
+Metal	Metalo (fiziko)
+Asye	Ŝtalo
+Eta matyè	Materistato
+Gaz	Gaso
+Likid	Likvo
+Solid	Solido
+Radyo-aktivite	Radiaktiveco
+Agrikilti	Agrikulturo
+Semi-kondiktè	Duonkonduktaĵo
+Rad	Vesto
+Onn sonò	Sono
+Vitès mwayèn	Vektora rapido
+Tanperati	Temperaturo
+Vè (materyo)	Vitro
+Tan	Tempo
+Tèmodinamik	Termodinamiko
+Plastik	Plasto
+Reyon gama	Gama-radiado
+Nonm	Nombro
+Kilogram	Kilogramo
+Segonn	Sekundo
+Mayi	Maizo
+Òj	Ordinara hordeo
+Kelven	Kelvino
+Penti	Pentrado
+Fotografi	Fotarto
+Elektwonik	Elektroniko
+Kouran elektrik	Elektra kurento
+Frekans	Frekvenco
+Dyòd	Diodo
+Transfòmatè	Transformatoro
+Lis peyi	Listo de sendependaj ŝtatoj
+Preyistwa	Prahistorio
+Lous	Urso
+William Rowan Hamilton	William Rowan Hamilton
+Dijesyon chimik	Digestado
+Fotosentèz	Fotosintezo
+Repwodiksyon	Reproduktado
+Grosès	Gravedeco
+Chèn	Kverko
+1101 (almanak jilyen)	1101
+1102 (almanak jilyen)	1102
+Kansè	Kancero
+Wa	Reĝo
+Avwàn	Kutima aveno
+Ble (sereyal)	Tritiko
+Maladi	Malsano
+Almanak gregoryen	Gregoria kalendaro
+Lasante	Sano
+Malarya	Malario
+Antibyotik	Antibiotiko
+Penisilin	Penicilino
+Nant	Nanto (Francio)
+Sida	Aidoso
+Huelva (Huelva)	Onubo
+Achitekti	Arkitekturo
+Pon	Ponto
+Mezi	Mezuro
+Simetri	Simetrio
+1103 (almanak jilyen)	1103
+1104 (almanak jilyen)	1104
+Eskalye	Ŝtuparo
+Aztèk	Aztekoj
+Mwayenaj	Mezepoko
+Maine-ak-Lwar	Maine-et-Loire
+Baden Powell	Robert Baden-Powell
+Konbistib fosil	Fosilia brulaĵo
+Reinhard Selten	Reinhard Selten
+Helmar Frank	Helmar Frank
+Majouro	Majuro
+Georges Lemaître	Georges Lemaître
+Fizyon	Fuzio
+Ronda (Málaga)	Arundo
+Franbwaz	Frambo
+Kokoye	Kokoso
+Grenad (fwi)	Granatujo
+Pèch (fwi)	Persiko
+Zoranj	Oranĝo (frukto)
+Gato	Kuko
+Montserrat	Moncerato
+Thomas Malthus	Thomas Malthus
+Wikispecies	Vikispecioj
+1105 (almanak jilyen)	1105
+Kapot	Kondomo
+Palmis	Arekacoj
+Kors	Korsiko
+Santiago de Compostela	Santiago de Compostela
+Β	Beto (litero)
+Γ	Gamo (litero)
+Δ	Delto (litero)
+Ε	Epsilono
+Ζ	Zeto
+Η	Eto (litero)
+Θ	Teto
+Ι	Joto
+Κ	Kapo (litero)
+Ν	Nuo (litero)
+Ξ	Ksio
+Ο	Omikrono
+Ρ	Roto (litero)
+Σ	Sigmo
+Τ	Taŭo (litero)
+Υ	Upsilono
+Χ	Ĥio (litero)
+Ψ	Psio (litero)
+Iquique	Iquique
+La Serena, Chili	La Serena (Ĉilio)
+Drapo	Flago
+Labapen	Panarbo
+Mèb	Meblo
+Tab	Tablo
+Lage	Lage (Lipo)
+Chèz	Seĝo
+ד	Daleto
+Jiraf	Ĝirafo (specio)
+ט	Tet (hebrea alfabeto)
+Lèv	Lipo
+Moustach	Lipharoj
+Pwen konjelasyon	Fandopunkto
+Radyasyon kosmik natirèl	Kosma fona radiado
+Kòdelya	Kordelio (luno)
+Ofeli	Ofelio (luno)
+Byanka	Bianko (luno)
+Kresida	Kresido (luno)
+Dèsdemòn	Dezdemono (luno)
+Jilyèt	Julieto (luno)
+Pòtya	Porcio (luno)
+Rozalinn	Rozalindo (luno)
+Kipidon	Kupido (luno)
+Belinda	Belindo (luno)
+Pèdita	Perdito (luno)
+Pik	Puko (luno)
+Mab	Mabo (luno)
+Jaén (Jaén)	Ĥaeno
+Pye	Piedo
+Queen	Queen
+Brian May	Brian May
+Leza	Lacertuloj
+Nayad	Najado (luno)
+Nereyid	Nereido (luno)
+Pwote	Proteo (luno)
+Braintree, Massachusetts	Braintree (Masaĉuseco)
+Б	Be (cirila alfabeto)
+А	A (cirila alfabeto)
+Г	Ge (cirila alfabeto)
+Д	De (cirila alfabeto)
+В	Ve (cirila alfabeto)
+Zepòl	Ŝultro
+Gòj	Gorĝo (anatomio)
+Modèl:Link FA	Ŝablono:LigoElstara
+Lemonn	Mondo
+Jij	Juĝisto
+Vèmont	Vermonto
+San Diego, Kalifòni	San-Diego
+San Jose, Kalifòni	San Jose (Kalifornio)
+Denver, Kolorado	Denvero (Koloradio)
+Houston, Texas	Houston (Teksaso)
+Phoenix, Arizona	Fenikso (Arizono)
+Dalas (Teksas)	Dallas (Teksaso)
+Fort Worth, Texas	Fort Worth
+Austin, Texas	Aŭstino
+Palè (gwo kay)	Palaco
+El Paso, Texas	El Paso (Teksaso)
+Memphis, Tennessee	Memphis (Tenesio)
+Charlotte	Charlotte
+Columbus, Ohio	Columbus (Ohio)
+Jacksonville, Florid	Jacksonville (Florido)
+Jožef Stefan	Jožef Stefan
+Long Beach, Kalifòni	Long Beach
+Laredo, Texas	Laredo (Teksaso)
+Los Ángeles (Chili)	Los Ángeles (Ĉilio)
+Lota	Lota
+Lopital	Malsanulejo
+Etna	Etna
+Gwadloup	Gvadelupo
+Oakland, Kalifòni	Oakland (Kalifornio)
+Matinik	Martiniko
+Ze	Ovo
+Sèk (non)	Cirklo
+John von Neumann	John von Neumann
+Donald Knuth	Donald Knuth
+Stephen Hawking	Stephen Hawking
+Teyori	Teorio
+Arlington, Texas	Arlington (Teksaso)
+Sacramento, Kalifòni	Sakramento (Kalifornio)
+1925 (almanak gregoryen)	1925
+1927 (almanak gregoryen)	1927
+Aspirin	Aspirino
+Konpòtman natirèl	Instinkto
+Radyasyon	Radiado
+Providence (Rod Aylann)	Providence (Rod-Insulo)
+Alatri	Alatri
+1000 (almanak jilyen)	1000
+999 (almanak jilyen)	999
+Fransisko	Francisko (luno)
+Kaliban	Kalibano (luno)
+Stefano	Stefano (luno)
+Trenkilo	Trinkulo (luno)
+Sikoraks	Sikorakso (luno)
+Magarèt	Margareto (luno)
+Pwospero	Prospero (luno)
+Lou	Lupo
+Setebos	Setebo (luno)
+Fèdinan	Ferdinando (luno)
+Byomas	Biomaso
+Ball, Lwizyana	Pilko
+Tucson, Arizona	Tucson (Arizono)
+1955 (almanak gregoryen)	1955
+1954 (almanak gregoryen)	1954
+1953 (almanak gregoryen)	1953
+1951 (almanak gregoryen)	1951
+1950 (almanak gregoryen)	1950
+1946 (almanak gregoryen)	1946
+1943 (almanak gregoryen)	1943
+1942 (almanak gregoryen)	1942
+1940 (almanak gregoryen)	1940
+1939 (almanak gregoryen)	1939
+Club de Gimnasia y Esgrima La Plata	Club Gimnasia y Esgrima La Plata
+1938 (almanak gregoryen)	1938
+1937 (almanak gregoryen)	1937
+1936 (almanak gregoryen)	1936
+1935 (almanak gregoryen)	1935
+1934 (almanak gregoryen)	1934
+1933 (almanak gregoryen)	1933
+1932 (almanak gregoryen)	1932
+1931 (almanak gregoryen)	1931
+1930 (almanak gregoryen)	1930
+1929 (almanak gregoryen)	1929
+Pyongyang	Pjongjango
+Nouvo Testaman	Nova testamento
+Sistèm pozisyon global	Tutmonda loktrova sistemo
+Pwokaryòt	Prokariotoj
+Ekaryòt	Eŭkariotoj
+9 (nonm)	9 (nombro)
+י	Jod (hebrea alfabeto)
+1001 (almanak jilyen)	1001
+1002 (almanak jilyen)	1002
+1003 (almanak jilyen)	1003
+1005 (almanak jilyen)	1005
+1006 (almanak jilyen)	1006
+1007 (almanak jilyen)	1007
+1008 (almanak jilyen)	1008
+1009 (almanak jilyen)	1009
+1010 (almanak jilyen)	1010
+1011 (almanak jilyen)	1011
+1012 (almanak jilyen)	1012
+1013 (almanak jilyen)	1013
+1014 (almanak jilyen)	1014
+1015 (almanak jilyen)	1015
+1016 (almanak jilyen)	1016
+1017 (almanak jilyen)	1017
+1018 (almanak jilyen)	1018
+1019 (almanak jilyen)	1019
+1020 (almanak jilyen)	1020
+1021 (almanak jilyen)	1021
+1022 (almanak jilyen)	1022
+1023 (almanak jilyen)	1023
+1024 (almanak jilyen)	1024
+1025 (almanak jilyen)	1025
+1026 (almanak jilyen)	1026
+1027 (almanak jilyen)	1027
+1028 (almanak jilyen)	1028
+1029 (almanak jilyen)	1029
+1030 (almanak jilyen)	1030
+1031 (almanak jilyen)	1031
+1032 (almanak jilyen)	1032
+1033 (almanak jilyen)	1033
+1034 (almanak jilyen)	1034
+1035 (almanak jilyen)	1035
+1036 (almanak jilyen)	1036
+1037 (almanak jilyen)	1037
+1038 (almanak jilyen)	1038
+1039 (almanak jilyen)	1039
+1040 (almanak jilyen)	1040
+1041 (almanak jilyen)	1041
+San Pedro de la Paz	San Pedro de la Paz
+1042 (almanak jilyen)	1042
+1043 (almanak jilyen)	1043
+1044 (almanak jilyen)	1044
+1045 (almanak jilyen)	1045
+1046 (almanak jilyen)	1046
+1047 (almanak jilyen)	1047
+1049 (almanak jilyen)	1049
+1050 (almanak jilyen)	1050
+1051 (almanak jilyen)	1051
+1052 (almanak jilyen)	1052
+1053 (almanak jilyen)	1053
+1054 (almanak jilyen)	1054
+1055 (almanak jilyen)	1055
+1056 (almanak jilyen)	1056
+1057 (almanak jilyen)	1057
+1058 (almanak jilyen)	1058
+1059 (almanak jilyen)	1059
+1060 (almanak jilyen)	1060
+1061 (almanak jilyen)	1061
+1062 (almanak jilyen)	1062
+1063 (almanak jilyen)	1063
+1064 (almanak jilyen)	1064
+1065 (almanak jilyen)	1065
+1066 (almanak jilyen)	1066
+1067 (almanak jilyen)	1067
+1068 (almanak jilyen)	1068
+1069 (almanak jilyen)	1069
+1070 (almanak jilyen)	1070
+1071 (almanak jilyen)	1071
+1072 (almanak jilyen)	1072
+1073 (almanak jilyen)	1073
+1074 (almanak jilyen)	1074
+1075 (almanak jilyen)	1075
+1076 (almanak jilyen)	1076
+1077 (almanak jilyen)	1077
+1078 (almanak jilyen)	1078
+1079 (almanak jilyen)	1079
+Talasa	Talaso (luno)
+1080 (almanak jilyen)	1080
+1081 (almanak jilyen)	1081
+1082 (almanak jilyen)	1082
+Despina	Despino (luno)
+1083 (almanak jilyen)	1083
+1084 (almanak jilyen)	1084
+1085 (almanak jilyen)	1085
+1086 (almanak jilyen)	1086
+1087 (almanak jilyen)	1087
+1088 (almanak jilyen)	1088
+Galate	Galateo (luno)
+1089 (almanak jilyen)	1089
+1090 (almanak jilyen)	1090
+1091 (almanak jilyen)	1091
+Larisa	Lariso (luno)
+1092 (almanak jilyen)	1092
+1093 (almanak jilyen)	1093
+1094 (almanak jilyen)	1094
+1095 (almanak jilyen)	1095
+1096 (almanak jilyen)	1096
+1097 (almanak jilyen)	1097
+Nha Trang	Nha Trang
+1098 (almanak jilyen)	1098
+1099 (almanak jilyen)	1099
+1106 (almanak jilyen)	1106
+1107 (almanak jilyen)	1107
+1108 (almanak jilyen)	1108
+1109 (almanak jilyen)	1109
+1110 (almanak jilyen)	1110
+1111 (almanak jilyen)	1111
+1112 (almanak jilyen)	1112
+1113 (almanak jilyen)	1113
+1114 (almanak jilyen)	1114
+1115 (almanak jilyen)	1115
+Samate	Psamato (luno)
+1116 (almanak jilyen)	1116
+1117 (almanak jilyen)	1117
+1118 (almanak jilyen)	1118
+1119 (almanak jilyen)	1119
+1120 (almanak jilyen)	1120
+Pap	Papo
+Metal alkalen	Alkala metalo
+1130 (almanak jilyen)	1130
+Metal alkaline-tere	Teralkala metalo
+1131 (almanak jilyen)	1131
+Rafael Correa	Rafael Correa
+1132 (almanak jilyen)	1132
+1133 (almanak jilyen)	1133
+Metal tranzisyon entèn	Transirmetalo
+1134 (almanak jilyen)	1134
+1135 (almanak jilyen)	1135
+1136 (almanak jilyen)	1136
+1137 (almanak jilyen)	1137
+Alojèn	Halogeno
+1138 (almanak jilyen)	1138
+1139 (almanak jilyen)	1139
+Gaz nòb	Nobla gaso
+5 (almanak jilyen)	5
+1140 (almanak jilyen)	1140
+1141 (almanak jilyen)	1141
+1142 (almanak jilyen)	1142
+1143 (almanak jilyen)	1143
+1144 (almanak jilyen)	1144
+4 (almanak jilyen)	4
+1145 (almanak jilyen)	1145
+1146 (almanak jilyen)	1146
+1147 (almanak jilyen)	1147
+1148 (almanak jilyen)	1148
+3 (almanak jilyen)	3
+1149 (almanak jilyen)	1149
+1150 (almanak jilyen)	1150
+1151 (almanak jilyen)	1151
+1152 (almanak jilyen)	1152
+1153 (almanak jilyen)	1153
+2 (almanak jilyen)	2
+1154 (almanak jilyen)	1154
+1155 (almanak jilyen)	1155
+1156 (almanak jilyen)	1156
+1157 (almanak jilyen)	1157
+1158 (almanak jilyen)	1158
+1159 (almanak jilyen)	1159
+Boukarès	Bukareŝto
+1160 (almanak jilyen)	1160
+1161 (almanak jilyen)	1161
+1162 (almanak jilyen)	1162
+1163 (almanak jilyen)	1163
+1164 (almanak jilyen)	1164
+1165 (almanak jilyen)	1165
+1166 (almanak jilyen)	1166
+1167 (almanak jilyen)	1167
+1168 (almanak jilyen)	1168
+1169 (almanak jilyen)	1169
+1170 (almanak jilyen)	1170
+Pati Endepandantis Pòtoriken	Partio de la Sendependeco de Porto-Riko
+1171 (almanak jilyen)	1171
+1172 (almanak jilyen)	1172
+1173 (almanak jilyen)	1173
+Tirana	Tirano
+1174 (almanak jilyen)	1174
+1175 (almanak jilyen)	1175
+1176 (almanak jilyen)	1176
+1177 (almanak jilyen)	1177
+1178 (almanak jilyen)	1178
+Motorhead	Motörhead
+1179 (almanak jilyen)	1179
+1180 (almanak jilyen)	1180
+1181 (almanak jilyen)	1181
+Bourik	Azeno
+1182 (almanak jilyen)	1182
+1928 (almanak gregoryen)	1928
+1183 (almanak jilyen)	1183
+1184 (almanak jilyen)	1184
+1185 (almanak jilyen)	1185
+1186 (almanak jilyen)	1186
+1187 (almanak jilyen)	1187
+1188 (almanak jilyen)	1188
+1189 (almanak jilyen)	1189
+1190 (almanak jilyen)	1190
+1191 (almanak jilyen)	1191
+1192 (almanak jilyen)	1192
+1193 (almanak jilyen)	1193
+1194 (almanak jilyen)	1194
+1195 (almanak jilyen)	1195
+1196 (almanak jilyen)	1196
+1197 (almanak jilyen)	1197
+1198 (almanak jilyen)	1198
+1199 (almanak jilyen)	1199
+6 (almanak jilyen)	6
+Ansyen Testaman	Malnova testamento
+Nowèl	Kristnasko
+Lang roman	Latinida lingvaro
+Triyang	Triangulo
+Bisektil	Superjaro
+Breinigerberg	Breinigerberg
+Tig	Tigro
+IU	IU (kantistino)
+Pandil	Pendolo
+Louis Couturat	Louis Couturat
+Pak (fèt)	Pasko
+Chisinaou	Kiŝinevo
+Sosyoloji	Sociologio
+Şalom	Şalom
+Monotrèm	Monotremoj
+Aurora, Ilinwa	Aurora (Ilinojo)
+Illkirch	Illkirch-Graffenstaden
+Maurice Rene Frechet	Maurice René Fréchet
+Soulye	Ŝuo
+Pak (rezèv natirèl)	Parko
+Eskalad	Grimpado
+1 (almanak jilyen)	1
+10 (almanak jilyen)	10
+Nashville, Tennessee	Naŝvilo (Tenesio)
+20 (almanak jilyen)	20
+30 (almanak jilyen)	30
+40 (almanak jilyen)	40
+Salt Lake City, Utah	Sallaga Urbo
+9 (almanak jilyen)	9
+7 (almanak jilyen)	7
+8 (almanak jilyen)	8
+7 (nonm)	7 (nombro)
+8 (nonm)	8 (nombro)
+12 (almanak jilyen)	12
+Lamare	Tajdo
+Semèn	Semajno
+Sèf	Cervedoj
+Glas (materyo)	Glacio
+Lak	Lago
+Lay	Ajlo
+Antropoloji	Antropologio
+930 (almanak jilyen)	930
+13 (almanak jilyen)	13
+Chato	Burgo
+985 (almanak jilyen)	985
+1122 (almanak jilyen)	1122
+981 (almanak jilyen)	981
+939 (almanak jilyen)	939
+Konkonm	Kukumo
+Oulan-Batò	Ulaanbaataro
+Edinbo	Edinburgo
+Achgabat	Aŝgabato
+51 (almanak jilyen)	51
+Octave Mirbeau	Octave Mirbeau
+Il	Insulo
+Provo, Utah	Provo (urbo)
+Blan	Blanko
+Nwa (koulè)	Nigro
+814 (almanak jilyen)	814
+678 (almanak jilyen)	678
+950 (almanak jilyen)	950
+679 (almanak jilyen)	679
+996 (almanak jilyen)	996
+680 (almanak jilyen)	680
+37 (almanak jilyen)	37
+980 (almanak jilyen)	980
+900 (almanak jilyen)	900
+1129 (almanak jilyen)	1129
+843 (almanak jilyen)	843
+Lordi	Lordi
+690 (almanak jilyen)	690
+691 (almanak jilyen)	691
+988 (almanak jilyen)	988
+692 (almanak jilyen)	692
+476 (almanak jilyen)	476
+693 (almanak jilyen)	693
+Masey	Marsejlo
+694 (almanak jilyen)	694
+695 (almanak jilyen)	695
+Zonyon	Cepo
+696 (almanak jilyen)	696
+6 (nonm)	6 (nombro)
+697 (almanak jilyen)	697
+698 (almanak jilyen)	698
+699 (almanak jilyen)	699
+700 (almanak jilyen)	700
+Mostchena	Moŝĉena
+701 (almanak jilyen)	701
+702 (almanak jilyen)	702
+Akeyoloji	Arkeologio
+703 (almanak jilyen)	703
+Tomat	Tomato
+704 (almanak jilyen)	704
+705 (almanak jilyen)	705
+706 (almanak jilyen)	706
+68 (almanak jilyen)	68
+89 (almanak jilyen)	89
+707 (almanak jilyen)	707
+708 (almanak jilyen)	708
+Phong Nha-Ke Bang	Nacia Parko Phong Nha-Ke Bang
+709 (almanak jilyen)	709
+11 (almanak jilyen)	11
+710 (almanak jilyen)	710
+711 (almanak jilyen)	711
+712 (almanak jilyen)	712
+713 (almanak jilyen)	713
+714 (almanak jilyen)	714
+715 (almanak jilyen)	715
+716 (almanak jilyen)	716
+717 (almanak jilyen)	717
+Quang Binh	Provinco Quang Binh
+718 (almanak jilyen)	718
+719 (almanak jilyen)	719
+Ekwatè (liy imajinè)	Ekvatoro
+720 (almanak jilyen)	720
+721 (almanak jilyen)	721
+722 (almanak jilyen)	722
+Selena	Selena
+723 (almanak jilyen)	723
+724 (almanak jilyen)	724
+Mérida, Venezwela	Merido (Venezuelo)
+725 (almanak jilyen)	725
+726 (almanak jilyen)	726
+Atlanta (Djòdji)	Atlanta (Georgio)
+727 (almanak jilyen)	727
+728 (almanak jilyen)	728
+729 (almanak jilyen)	729
+963 (almanak jilyen)	963
+730 (almanak jilyen)	730
+731 (almanak jilyen)	731
+962 (almanak jilyen)	962
+732 (almanak jilyen)	732
+733 (almanak jilyen)	733
+997 (almanak jilyen)	997
+734 (almanak jilyen)	734
+972 (almanak jilyen)	972
+735 (almanak jilyen)	735
+955 (almanak jilyen)	955
+901 (almanak jilyen)	901
+736 (almanak jilyen)	736
+737 (almanak jilyen)	737
+936 (almanak jilyen)	936
+738 (almanak jilyen)	738
+953 (almanak jilyen)	953
+902 (almanak jilyen)	902
+739 (almanak jilyen)	739
+15 (almanak jilyen)	15
+740 (almanak jilyen)	740
+14 (almanak jilyen)	14
+741 (almanak jilyen)	741
+742 (almanak jilyen)	742
+17 (almanak jilyen)	17
+743 (almanak jilyen)	743
+958 (almanak jilyen)	958
+744 (almanak jilyen)	744
+500 (almanak jilyen)	500
+745 (almanak jilyen)	745
+150 (almanak jilyen)	150
+746 (almanak jilyen)	746
+880 (almanak jilyen)	880
+747 (almanak jilyen)	747
+748 (almanak jilyen)	748
+Diksyonè	Vortaro
+749 (almanak jilyen)	749
+870 (almanak jilyen)	870
+903 (almanak jilyen)	903
+750 (almanak jilyen)	750
+751 (almanak jilyen)	751
+Bermid	Bermudo
+752 (almanak jilyen)	752
+Tèt	Kapo
+753 (almanak jilyen)	753
+987 (almanak jilyen)	987
+754 (almanak jilyen)	754
+965 (almanak jilyen)	965
+755 (almanak jilyen)	755
+924 (almanak jilyen)	924
+951 (almanak jilyen)	951
+932 (almanak jilyen)	932
+Welintòn	Velingtono
+23 (almanak jilyen)	23
+800 (almanak jilyen)	800
+120 (almanak jilyen)	120
+42 (almanak jilyen)	42
+967 (almanak jilyen)	967
+989 (almanak jilyen)	989
+960 (almanak jilyen)	960
+969 (almanak jilyen)	969
+957 (almanak jilyen)	957
+1124 (almanak jilyen)	1124
+971 (almanak jilyen)	971
+Nò (rejyon syèl)	Kompasdirektoj
+937 (almanak jilyen)	937
+992 (almanak jilyen)	992
+990 (almanak jilyen)	990
+899 (almanak jilyen)	899
+975 (almanak jilyen)	975
+942 (almanak jilyen)	942
+966 (almanak jilyen)	966
+1128 (almanak jilyen)	1128
+959 (almanak jilyen)	959
+973 (almanak jilyen)	973
+18 (almanak jilyen)	18
+19 (almanak jilyen)	19
+16 (almanak jilyen)	16
+Las Vegas, Nevada	Lasvegaso
+21 (almanak jilyen)	21
+26 (almanak jilyen)	26
+41 (almanak jilyen)	41
+32 (almanak jilyen)	32
+33 (almanak jilyen)	33
+982 (almanak jilyen)	982
+974 (almanak jilyen)	974
+976 (almanak jilyen)	976
+979 (almanak jilyen)	979
+986 (almanak jilyen)	986
+919 (almanak jilyen)	919
+998 (almanak jilyen)	998
+995 (almanak jilyen)	995
+977 (almanak jilyen)	977
+1125 (almanak jilyen)	1125
+La Valèt	La-Valeto
+934 (almanak jilyen)	934
+10 (nonm)	10 (nombro)
+Nonm atomik	Atomnumero
+200 (almanak jilyen)	200
+876 (almanak jilyen)	876
+875 (almanak jilyen)	875
+810 (almanak jilyen)	810
+929 (almanak jilyen)	929
+882 (almanak jilyen)	882
+1127 (almanak jilyen)	1127
+940 (almanak jilyen)	940
+889 (almanak jilyen)	889
+Peny	Kombilo
+844 (almanak jilyen)	844
+912 (almanak jilyen)	912
+838 (almanak jilyen)	838
+984 (almanak jilyen)	984
+874 (almanak jilyen)	874
+38 (almanak jilyen)	38
+43 (almanak jilyen)	43
+127 (almanak jilyen)	127
+954 (almanak jilyen)	954
+39 (almanak jilyen)	39
+24 (almanak jilyen)	24
+79 (almanak jilyen)	79
+61 (almanak jilyen)	61
+104 (almanak jilyen)	104
+29 (almanak jilyen)	29
+102 (almanak jilyen)	102
+866 (almanak jilyen)	866
+839 (almanak jilyen)	839
+622 (almanak jilyen)	622
+918 (almanak jilyen)	918
+100 (almanak jilyen)	100
+Lila Downs	Lila Downs
+961 (almanak jilyen)	961
+570 (almanak jilyen)	570
+632 (almanak jilyen)	632
+946 (almanak jilyen)	946
+835 (almanak jilyen)	835
+884 (almanak jilyen)	884
+859 (almanak jilyen)	859
+832 (almanak jilyen)	832
+849 (almanak jilyen)	849
+877 (almanak jilyen)	877
+878 (almanak jilyen)	878
+861 (almanak jilyen)	861
+869 (almanak jilyen)	869
+968 (almanak jilyen)	968
+983 (almanak jilyen)	983
+964 (almanak jilyen)	964
+1121 (almanak jilyen)	1121
+1123 (almanak jilyen)	1123
+933 (almanak jilyen)	933
+915 (almanak jilyen)	915
+970 (almanak jilyen)	970
+911 (almanak jilyen)	911
+993 (almanak jilyen)	993
+991 (almanak jilyen)	991
+994 (almanak jilyen)	994
+898 (almanak jilyen)	898
+944 (almanak jilyen)	944
+907 (almanak jilyen)	907
+943 (almanak jilyen)	943
+945 (almanak jilyen)	945
+922 (almanak jilyen)	922
+905 (almanak jilyen)	905
+941 (almanak jilyen)	941
+925 (almanak jilyen)	925
+928 (almanak jilyen)	928
+948 (almanak jilyen)	948
+947 (almanak jilyen)	947
+949 (almanak jilyen)	949
+926 (almanak jilyen)	926
+Sezon	Sezono
+126 (almanak jilyen)	126
+101 (almanak jilyen)	101
+105 (almanak jilyen)	105
+108 (almanak jilyen)	108
+117 (almanak jilyen)	117
+115 (almanak jilyen)	115
+Chabon	Terkarbo
+22 (almanak jilyen)	22
+46 (almanak jilyen)	46
+25 (almanak jilyen)	25
+153 (almanak jilyen)	153
+156 (almanak jilyen)	156
+Independence, Missouri	Independence (Misurio)
+31 (almanak jilyen)	31
+825 (almanak jilyen)	825
+301 (almanak jilyen)	301
+116 (almanak jilyen)	116
+886 (almanak jilyen)	886
+330 (almanak jilyen)	330
+860 (almanak jilyen)	860
+842 (almanak jilyen)	842
+165 (almanak jilyen)	165
+871 (almanak jilyen)	871
+893 (almanak jilyen)	893
+203 (almanak jilyen)	203
+909 (almanak jilyen)	909
+222 (almanak jilyen)	222
+931 (almanak jilyen)	931
+938 (almanak jilyen)	938
+917 (almanak jilyen)	917
+160 (almanak jilyen)	160
+28 (almanak jilyen)	28
+85 (almanak jilyen)	85
+88 (almanak jilyen)	88
+76 (almanak jilyen)	76
+54 (almanak jilyen)	54
+477 (almanak jilyen)	477
+914 (almanak jilyen)	914
+920 (almanak jilyen)	920
+913 (almanak jilyen)	913
+Albany, New York	Albany (Nov-Jorkio)
+935 (almanak jilyen)	935
+841 (almanak jilyen)	841
+820 (almanak jilyen)	820
+906 (almanak jilyen)	906
+916 (almanak jilyen)	916
+885 (almanak jilyen)	885
+168 (almanak jilyen)	168
+60 (almanak jilyen)	60
+47 (almanak jilyen)	47
+836 (almanak jilyen)	836
+112 (almanak jilyen)	112
+854 (almanak jilyen)	854
+862 (almanak jilyen)	862
+879 (almanak jilyen)	879
+887 (almanak jilyen)	887
+770 (almanak jilyen)	770
+817 (almanak jilyen)	817
+864 (almanak jilyen)	864
+863 (almanak jilyen)	863
+868 (almanak jilyen)	868
+855 (almanak jilyen)	855
+818 (almanak jilyen)	818
+837 (almanak jilyen)	837
+845 (almanak jilyen)	845
+166 (almanak jilyen)	166
+Koukou	Strigoformaj birdoj
+Aewopò Cam Ranh	Flughaveno Cam Ranh
+Lè (tan)	Horo
+Wat	Vato (mezurunuo)
+Pwa (legim)	Ĝardena pizo
+Vòlt	Volto
+Meteyoloji	Meteologio
+552 (almanak jilyen)	552
+Joul	Ĵulo
+Izotòp	Izotopo
+Ispayola	Hispaniolo
+Harrisburg, Pennsilvani	Harrisburg (Pensilvanio)
+Da Lat	Da Lat
+Da Nang	Da Nang
+Pèsi	Petroselo
+Pwa (mezi)	Pezo
+Mato	Martelo
+Pychillimu	Piĉilemo
+Òkide	Orkidacoj
+Mouch	Dipteroj
+Anjyospèm	Angiospermoj
+Phan Thiet	Phan Thiết
+Paul Langevin	Paul Langevin
+Trenton, New Jersey	Trenton
+Masipyal	Marsupiulo
+Etwaldemè	Marstelo
+Sapen	Abio
+Rezistans (kouran)	Elektra rezistanco
+Plankton	Planktono
+Din	Duno
+Rosinyòl	Najtingalo (birdo)
+Newark, New Jersey	Newark (Nov-Ĵerzejo)
+Koulon	Kulombo (mezurunuo)
+Escherichia coli	Escherichia coli
+600 (almanak jilyen)	600
+400 (almanak jilyen)	400
+300 (almanak jilyen)	300
+Thomas Young	Thomas Young
+Mamifè plasentè	Placentuloj
+Vwal	Velo
+Sispansyon	Suspensio
+Università Niccolò Cusano	Università degli Studi Niccolò Cusano
+Jersey City, New Jersey	Jersey City
+Bò	Latero
+Fetis	Feto
+Charles Marie de La Condamine	Charles Marie de La Condamine
+Lanni	Aneto
+Jiwòf	Kariofilo
+Davenport, Iowa	Davenport (Iovao)
+Plant vaskilè	Vaskulaj plantoj
+Dantis	Dentisto
+Afrik disid (zòn)	Suda Afriko
+Ewafrazi	Afrik-Eŭrazio
+Lotèl	Hotelo
+Frè ak sè nan Jezikri	Kristadelfianoj
+Chantè	Kantado
+Jefferson City, Missouri	Jeffersonurbo (Misurio)
+Baton Rouge, Lwizyana	Baton Rouge (Luiziano)
+Concord, New Hampshire	Concord (Nov-Hampŝiro)
+Lincoln, Nebraska	Lincoln (Nebrasko)
+Anapolis (Merilann)	Annapolis (Marilando)
+Sèlri	Vera celerio
+Chòvsourit	Kiropteroj
+36 (almanak jilyen)	36
+Cheve	Haro
+Springfield, Ilinwa	Springfield (Ilinojo)
+Tarnobrzeg	Tarnobrzeg
+Frankfort, Kentucky	Frankfort (Kentukio)
+Jestasyon	Gravedeco (animaloj)
+Inivèsite Èlsinki	Universitato de Helsinko
+Nikleyotid	Nukleotido
+Twal	Tekstila
+Saint Paul, Minnesota	Saint Paul (Minesoto)
+Montgomery (Alabama)	Montgomery (Alabamo)
+Juneau (Alaska)	Juneau
+Chin	Ĉinio
+Dansite	Denso
+Manbràn selilè	Ĉelmembrano
+815 (almanak jilyen)	815
+816 (almanak jilyen)	816
+822 (almanak jilyen)	822
+840 (almanak jilyen)	840
+823 (almanak jilyen)	823
+811 (almanak jilyen)	811
+771 (almanak jilyen)	771
+888 (almanak jilyen)	888
+768 (almanak jilyen)	768
+851 (almanak jilyen)	851
+205 (almanak jilyen)	205
+159 (almanak jilyen)	159
+107 (almanak jilyen)	107
+162 (almanak jilyen)	162
+103 (almanak jilyen)	103
+802 (almanak jilyen)	802
+804 (almanak jilyen)	804
+119 (almanak jilyen)	119
+118 (almanak jilyen)	118
+801 (almanak jilyen)	801
+807 (almanak jilyen)	807
+806 (almanak jilyen)	806
+152 (almanak jilyen)	152
+240 (almanak jilyen)	240
+218 (almanak jilyen)	218
+655 (almanak jilyen)	655
+496 (almanak jilyen)	496
+238 (almanak jilyen)	238
+Awondisman	Arondismento
+197 (almanak jilyen)	197
+451 (almanak jilyen)	451
+775 (almanak jilyen)	775
+489 (almanak jilyen)	489
+784 (almanak jilyen)	784
+661 (almanak jilyen)	661
+625 (almanak jilyen)	625
+653 (almanak jilyen)	653
+904 (almanak jilyen)	904
+921 (almanak jilyen)	921
+923 (almanak jilyen)	923
+1126 (almanak jilyen)	1126
+668 (almanak jilyen)	668
+636 (almanak jilyen)	636
+408 (almanak jilyen)	408
+464 (almanak jilyen)	464
+Makro	Skombro
+410 (almanak jilyen)	410
+956 (almanak jilyen)	956
+952 (almanak jilyen)	952
+658 (almanak jilyen)	658
+650 (almanak jilyen)	650
+518 (almanak jilyen)	518
+70 (almanak jilyen)	70
+81 (almanak jilyen)	81
+69 (almanak jilyen)	69
+87 (almanak jilyen)	87
+65 (almanak jilyen)	65
+66 (almanak jilyen)	66
+67 (almanak jilyen)	67
+55 (almanak jilyen)	55
+34 (almanak jilyen)	34
+44 (almanak jilyen)	44
+35 (almanak jilyen)	35
+64 (almanak jilyen)	64
+504 (almanak jilyen)	504
+453 (almanak jilyen)	453
+161 (almanak jilyen)	161
+169 (almanak jilyen)	169
+481 (almanak jilyen)	481
+151 (almanak jilyen)	151
+155 (almanak jilyen)	155
+128 (almanak jilyen)	128
+129 (almanak jilyen)	129
+463 (almanak jilyen)	463
+193 (almanak jilyen)	193
+674 (almanak jilyen)	674
+687 (almanak jilyen)	687
+251 (almanak jilyen)	251
+337 (almanak jilyen)	337
+786 (almanak jilyen)	786
+660 (almanak jilyen)	660
+50 (almanak jilyen)	50
+260 (almanak jilyen)	260
+501 (almanak jilyen)	501
+45 (almanak jilyen)	45
+491 (almanak jilyen)	491
+49 (almanak jilyen)	49
+Ecser	Ecser
+978 (almanak jilyen)	978
+Lang silezyen	Silezia lingvo
+221 (almanak jilyen)	221
+543 (almanak jilyen)	543
+536 (almanak jilyen)	536
+230 (almanak jilyen)	230
+762 (almanak jilyen)	762
+610 (almanak jilyen)	610
+787 (almanak jilyen)	787
+480 (almanak jilyen)	480
+209 (almanak jilyen)	209
+202 (almanak jilyen)	202
+192 (almanak jilyen)	192
+681 (almanak jilyen)	681
+819 (almanak jilyen)	819
+173 (almanak jilyen)	173
+867 (almanak jilyen)	867
+865 (almanak jilyen)	865
+827 (almanak jilyen)	827
+824 (almanak jilyen)	824
+847 (almanak jilyen)	847
+883 (almanak jilyen)	883
+829 (almanak jilyen)	829
+813 (almanak jilyen)	813
+910 (almanak jilyen)	910
+850 (almanak jilyen)	850
+808 (almanak jilyen)	808
+853 (almanak jilyen)	853
+872 (almanak jilyen)	872
+873 (almanak jilyen)	873
+856 (almanak jilyen)	856
+858 (almanak jilyen)	858
+831 (almanak jilyen)	831
+857 (almanak jilyen)	857
+828 (almanak jilyen)	828
+826 (almanak jilyen)	826
+833 (almanak jilyen)	833
+848 (almanak jilyen)	848
+834 (almanak jilyen)	834
+881 (almanak jilyen)	881
+852 (almanak jilyen)	852
+163 (almanak jilyen)	163
+154 (almanak jilyen)	154
+201 (almanak jilyen)	201
+803 (almanak jilyen)	803
+805 (almanak jilyen)	805
+52 (almanak jilyen)	52
+532 (almanak jilyen)	532
+82 (almanak jilyen)	82
+84 (almanak jilyen)	84
+73 (almanak jilyen)	73
+72 (almanak jilyen)	72
+62 (almanak jilyen)	62
+71 (almanak jilyen)	71
+75 (almanak jilyen)	75
+74 (almanak jilyen)	74
+83 (almanak jilyen)	83
+78 (almanak jilyen)	78
+77 (almanak jilyen)	77
+90 (almanak jilyen)	90
+80 (almanak jilyen)	80
+627 (almanak jilyen)	627
+Е	Je (cirila alfabeto)
+456 (almanak jilyen)	456
+91 (almanak jilyen)	91
+190 (almanak jilyen)	190
+109 (almanak jilyen)	109
+53 (almanak jilyen)	53
+270 (almanak jilyen)	270
+688 (almanak jilyen)	688
+452 (almanak jilyen)	452
+795 (almanak jilyen)	795
+465 (almanak jilyen)	465
+778 (almanak jilyen)	778
+846 (almanak jilyen)	846
+830 (almanak jilyen)	830
+404 (almanak jilyen)	404
+Prezidan	Prezidanto
+908 (almanak jilyen)	908
+896 (almanak jilyen)	896
+897 (almanak jilyen)	897
+927 (almanak jilyen)	927
+63 (almanak jilyen)	63
+555 (almanak jilyen)	555
+571 (almanak jilyen)	571
+86 (almanak jilyen)	86
+401 (almanak jilyen)	401
+890 (almanak jilyen)	890
+533 (almanak jilyen)	533
+264 (almanak jilyen)	264
+99 (almanak jilyen)	99
+415 (almanak jilyen)	415
+483 (almanak jilyen)	483
+469 (almanak jilyen)	469
+462 (almanak jilyen)	462
+459 (almanak jilyen)	459
+466 (almanak jilyen)	466
+402 (almanak jilyen)	402
+761 (almanak jilyen)	761
+780 (almanak jilyen)	780
+675 (almanak jilyen)	675
+689 (almanak jilyen)	689
+774 (almanak jilyen)	774
+759 (almanak jilyen)	759
+758 (almanak jilyen)	758
+350 (almanak jilyen)	350
+782 (almanak jilyen)	782
+760 (almanak jilyen)	760
+785 (almanak jilyen)	785
+783 (almanak jilyen)	783
+767 (almanak jilyen)	767
+766 (almanak jilyen)	766
+211 (almanak jilyen)	211
+232 (almanak jilyen)	232
+204 (almanak jilyen)	204
+188 (almanak jilyen)	188
+98 (almanak jilyen)	98
+894 (almanak jilyen)	894
+891 (almanak jilyen)	891
+602 (almanak jilyen)	602
+628 (almanak jilyen)	628
+892 (almanak jilyen)	892
+601 (almanak jilyen)	601
+672 (almanak jilyen)	672
+682 (almanak jilyen)	682
+821 (almanak jilyen)	821
+648 (almanak jilyen)	648
+686 (almanak jilyen)	686
+664 (almanak jilyen)	664
+677 (almanak jilyen)	677
+640 (almanak jilyen)	640
+110 (almanak jilyen)	110
+111 (almanak jilyen)	111
+137 (almanak jilyen)	137
+138 (almanak jilyen)	138
+122 (almanak jilyen)	122
+140 (almanak jilyen)	140
+809 (almanak jilyen)	809
+167 (almanak jilyen)	167
+665 (almanak jilyen)	665
+776 (almanak jilyen)	776
+763 (almanak jilyen)	763
+Rudolf Clausius	Rudolf Clausius
+769 (almanak jilyen)	769
+667 (almanak jilyen)	667
+529 (almanak jilyen)	529
+777 (almanak jilyen)	777
+788 (almanak jilyen)	788
+671 (almanak jilyen)	671
+772 (almanak jilyen)	772
+432 (almanak jilyen)	432
+231 (almanak jilyen)	231
+237 (almanak jilyen)	237
+239 (almanak jilyen)	239
+130 (almanak jilyen)	130
+226 (almanak jilyen)	226
+207 (almanak jilyen)	207
+475 (almanak jilyen)	475
+454 (almanak jilyen)	454
+495 (almanak jilyen)	495
+468 (almanak jilyen)	468
+461 (almanak jilyen)	461
+460 (almanak jilyen)	460
+194 (almanak jilyen)	194
+210 (almanak jilyen)	210
+225 (almanak jilyen)	225
+311 (almanak jilyen)	311
+220 (almanak jilyen)	220
+541 (almanak jilyen)	541
+642 (almanak jilyen)	642
+313 (almanak jilyen)	313
+180 (almanak jilyen)	180
+794 (almanak jilyen)	794
+587 (almanak jilyen)	587
+530 (almanak jilyen)	530
+609 (almanak jilyen)	609
+497 (almanak jilyen)	497
+540 (almanak jilyen)	540
+428 (almanak jilyen)	428
+548 (almanak jilyen)	548
+422 (almanak jilyen)	422
+549 (almanak jilyen)	549
+457 (almanak jilyen)	457
+478 (almanak jilyen)	478
+253 (almanak jilyen)	253
+467 (almanak jilyen)	467
+458 (almanak jilyen)	458
+158 (almanak jilyen)	158
+157 (almanak jilyen)	157
+164 (almanak jilyen)	164
+124 (almanak jilyen)	124
+113 (almanak jilyen)	113
+121 (almanak jilyen)	121
+106 (almanak jilyen)	106
+551 (almanak jilyen)	551
+494 (almanak jilyen)	494
+320 (almanak jilyen)	320
+242 (almanak jilyen)	242
+Ё	Jo (cirila alfabeto)
+291 (almanak jilyen)	291
+48 (almanak jilyen)	48
+97 (almanak jilyen)	97
+56 (almanak jilyen)	56
+93 (almanak jilyen)	93
+57 (almanak jilyen)	57
+503 (almanak jilyen)	503
+510 (almanak jilyen)	510
+509 (almanak jilyen)	509
+474 (almanak jilyen)	474
+484 (almanak jilyen)	484
+576 (almanak jilyen)	576
+493 (almanak jilyen)	493
+479 (almanak jilyen)	479
+287 (almanak jilyen)	287
+407 (almanak jilyen)	407
+485 (almanak jilyen)	485
+547 (almanak jilyen)	547
+546 (almanak jilyen)	546
+544 (almanak jilyen)	544
+537 (almanak jilyen)	537
+535 (almanak jilyen)	535
+502 (almanak jilyen)	502
+527 (almanak jilyen)	527
+Yarèn	Jareno
+508 (almanak jilyen)	508
+525 (almanak jilyen)	525
+613 (almanak jilyen)	613
+618 (almanak jilyen)	618
+617 (almanak jilyen)	617
+608 (almanak jilyen)	608
+645 (almanak jilyen)	645
+621 (almanak jilyen)	621
+606 (almanak jilyen)	606
+623 (almanak jilyen)	623
+604 (almanak jilyen)	604
+603 (almanak jilyen)	603
+626 (almanak jilyen)	626
+619 (almanak jilyen)	619
+634 (almanak jilyen)	634
+630 (almanak jilyen)	630
+614 (almanak jilyen)	614
+505 (almanak jilyen)	505
+446 (almanak jilyen)	446
+791 (almanak jilyen)	791
+557 (almanak jilyen)	557
+656 (almanak jilyen)	656
+657 (almanak jilyen)	657
+659 (almanak jilyen)	659
+651 (almanak jilyen)	651
+676 (almanak jilyen)	676
+670 (almanak jilyen)	670
+652 (almanak jilyen)	652
+673 (almanak jilyen)	673
+654 (almanak jilyen)	654
+647 (almanak jilyen)	647
+812 (almanak jilyen)	812
+669 (almanak jilyen)	669
+792 (almanak jilyen)	792
+649 (almanak jilyen)	649
+93 (nonm)	93 (nombro)
+895 (almanak jilyen)	895
+756 (almanak jilyen)	756
+663 (almanak jilyen)	663
+779 (almanak jilyen)	779
+662 (almanak jilyen)	662
+684 (almanak jilyen)	684
+773 (almanak jilyen)	773
+757 (almanak jilyen)	757
+435 (almanak jilyen)	435
+790 (almanak jilyen)	790
+437 (almanak jilyen)	437
+433 (almanak jilyen)	433
+764 (almanak jilyen)	764
+426 (almanak jilyen)	426
+781 (almanak jilyen)	781
+425 (almanak jilyen)	425
+429 (almanak jilyen)	429
+423 (almanak jilyen)	423
+765 (almanak jilyen)	765
+235 (almanak jilyen)	235
+233 (almanak jilyen)	233
+223 (almanak jilyen)	223
+224 (almanak jilyen)	224
+216 (almanak jilyen)	216
+219 (almanak jilyen)	219
+254 (almanak jilyen)	254
+272 (almanak jilyen)	272
+208 (almanak jilyen)	208
+175 (almanak jilyen)	175
+170 (almanak jilyen)	170
+171 (almanak jilyen)	171
+172 (almanak jilyen)	172
+58 (almanak jilyen)	58
+59 (almanak jilyen)	59
+139 (almanak jilyen)	139
+114 (almanak jilyen)	114
+134 (almanak jilyen)	134
+135 (almanak jilyen)	135
+179 (almanak jilyen)	179
+142 (almanak jilyen)	142
+96 (almanak jilyen)	96
+181 (almanak jilyen)	181
+146 (almanak jilyen)	146
+145 (almanak jilyen)	145
+183 (almanak jilyen)	183
+182 (almanak jilyen)	182
+184 (almanak jilyen)	184
+324 (almanak jilyen)	324
+589 (almanak jilyen)	589
+Jako	Papagoformaj
+521 (almanak jilyen)	521
+92 (almanak jilyen)	92
+597 (almanak jilyen)	597
+329 (almanak jilyen)	329
+133 (almanak jilyen)	133
+413 (almanak jilyen)	413
+258 (almanak jilyen)	258
+259 (almanak jilyen)	259
+196 (almanak jilyen)	196
+236 (almanak jilyen)	236
+789 (almanak jilyen)	789
+332 (almanak jilyen)	332
+631 (almanak jilyen)	631
+487 (almanak jilyen)	487
+638 (almanak jilyen)	638
+473 (almanak jilyen)	473
+176 (almanak jilyen)	176
+143 (almanak jilyen)	143
+643 (almanak jilyen)	643
+523 (almanak jilyen)	523
+215 (almanak jilyen)	215
+148 (almanak jilyen)	148
+247 (almanak jilyen)	247
+424 (almanak jilyen)	424
+641 (almanak jilyen)	641
+492 (almanak jilyen)	492
+639 (almanak jilyen)	639
+256 (almanak jilyen)	256
+441 (almanak jilyen)	441
+131 (almanak jilyen)	131
+191 (almanak jilyen)	191
+450 (almanak jilyen)	450
+612 (almanak jilyen)	612
+635 (almanak jilyen)	635
+611 (almanak jilyen)	611
+534 (almanak jilyen)	534
+488 (almanak jilyen)	488
+607 (almanak jilyen)	607
+524 (almanak jilyen)	524
+282 (almanak jilyen)	282
+472 (almanak jilyen)	472
+471 (almanak jilyen)	471
+490 (almanak jilyen)	490
+316 (almanak jilyen)	316
+Anachi	Anarkio
+797 (almanak jilyen)	797
+511 (almanak jilyen)	511
+295 (almanak jilyen)	295
+598 (almanak jilyen)	598
+303 (almanak jilyen)	303
+250 (almanak jilyen)	250
+515 (almanak jilyen)	515
+512 (almanak jilyen)	512
+418 (almanak jilyen)	418
+333 (almanak jilyen)	333
+294 (almanak jilyen)	294
+217 (almanak jilyen)	217
+277 (almanak jilyen)	277
+578 (almanak jilyen)	578
+312 (almanak jilyen)	312
+284 (almanak jilyen)	284
+283 (almanak jilyen)	283
+241 (almanak jilyen)	241
+243 (almanak jilyen)	243
+262 (almanak jilyen)	262
+498 (almanak jilyen)	498
+336 (almanak jilyen)	336
+334 (almanak jilyen)	334
+266 (almanak jilyen)	266
+Bòks	Boksado
+261 (almanak jilyen)	261
+470 (almanak jilyen)	470
+349 (almanak jilyen)	349
+271 (almanak jilyen)	271
+275 (almanak jilyen)	275
+292 (almanak jilyen)	292
+296 (almanak jilyen)	296
+345 (almanak jilyen)	345
+431 (almanak jilyen)	431
+304 (almanak jilyen)	304
+550 (almanak jilyen)	550
+586 (almanak jilyen)	586
+588 (almanak jilyen)	588
+554 (almanak jilyen)	554
+229 (almanak jilyen)	229
+583 (almanak jilyen)	583
+265 (almanak jilyen)	265
+263 (almanak jilyen)	263
+585 (almanak jilyen)	585
+582 (almanak jilyen)	582
+556 (almanak jilyen)	556
+420 (almanak jilyen)	420
+280 (almanak jilyen)	280
+581 (almanak jilyen)	581
+558 (almanak jilyen)	558
+302 (almanak jilyen)	302
+309 (almanak jilyen)	309
+353 (almanak jilyen)	353
+335 (almanak jilyen)	335
+367 (almanak jilyen)	367
+344 (almanak jilyen)	344
+245 (almanak jilyen)	245
+290 (almanak jilyen)	290
+449 (almanak jilyen)	449
+308 (almanak jilyen)	308
+255 (almanak jilyen)	255
+439 (almanak jilyen)	439
+319 (almanak jilyen)	319
+318 (almanak jilyen)	318
+299 (almanak jilyen)	299
+419 (almanak jilyen)	419
+416 (almanak jilyen)	416
+338 (almanak jilyen)	338
+310 (almanak jilyen)	310
+315 (almanak jilyen)	315
+359 (almanak jilyen)	359
+360 (almanak jilyen)	360
+273 (almanak jilyen)	273
+286 (almanak jilyen)	286
+Kouto	Tranĉilo
+288 (almanak jilyen)	288
+278 (almanak jilyen)	278
+455 (almanak jilyen)	455
+577 (almanak jilyen)	577
+575 (almanak jilyen)	575
+482 (almanak jilyen)	482
+486 (almanak jilyen)	486
+580 (almanak jilyen)	580
+567 (almanak jilyen)	567
+564 (almanak jilyen)	564
+561 (almanak jilyen)	561
+328 (almanak jilyen)	328
+325 (almanak jilyen)	325
+317 (almanak jilyen)	317
+574 (almanak jilyen)	574
+566 (almanak jilyen)	566
+249 (almanak jilyen)	249
+348 (almanak jilyen)	348
+442 (almanak jilyen)	442
+443 (almanak jilyen)	443
+267 (almanak jilyen)	267
+244 (almanak jilyen)	244
+248 (almanak jilyen)	248
+343 (almanak jilyen)	343
+562 (almanak jilyen)	562
+417 (almanak jilyen)	417
+268 (almanak jilyen)	268
+590 (almanak jilyen)	590
+269 (almanak jilyen)	269
+499 (almanak jilyen)	499
+409 (almanak jilyen)	409
+405 (almanak jilyen)	405
+406 (almanak jilyen)	406
+403 (almanak jilyen)	403
+414 (almanak jilyen)	414
+411 (almanak jilyen)	411
+412 (almanak jilyen)	412
+560 (almanak jilyen)	560
+592 (almanak jilyen)	592
+Zèb (bèt)	Zebro
+276 (almanak jilyen)	276
+314 (almanak jilyen)	314
+323 (almanak jilyen)	323
+366 (almanak jilyen)	366
+362 (almanak jilyen)	362
+545 (almanak jilyen)	545
+531 (almanak jilyen)	531
+514 (almanak jilyen)	514
+513 (almanak jilyen)	513
+539 (almanak jilyen)	539
+538 (almanak jilyen)	538
+519 (almanak jilyen)	519
+516 (almanak jilyen)	516
+520 (almanak jilyen)	520
+522 (almanak jilyen)	522
+528 (almanak jilyen)	528
+506 (almanak jilyen)	506
+526 (almanak jilyen)	526
+507 (almanak jilyen)	507
+214 (almanak jilyen)	214
+213 (almanak jilyen)	213
+212 (almanak jilyen)	212
+228 (almanak jilyen)	228
+227 (almanak jilyen)	227
+149 (almanak jilyen)	149
+174 (almanak jilyen)	174
+189 (almanak jilyen)	189
+199 (almanak jilyen)	199
+141 (almanak jilyen)	141
+132 (almanak jilyen)	132
+125 (almanak jilyen)	125
+123 (almanak jilyen)	123
+147 (almanak jilyen)	147
+144 (almanak jilyen)	144
+198 (almanak jilyen)	198
+178 (almanak jilyen)	178
+177 (almanak jilyen)	177
+Abriyon	Embrio
+187 (almanak jilyen)	187
+195 (almanak jilyen)	195
+186 (almanak jilyen)	186
+347 (almanak jilyen)	347
+620 (almanak jilyen)	620
+624 (almanak jilyen)	624
+605 (almanak jilyen)	605
+629 (almanak jilyen)	629
+616 (almanak jilyen)	616
+615 (almanak jilyen)	615
+644 (almanak jilyen)	644
+646 (almanak jilyen)	646
+633 (almanak jilyen)	633
+Lang kreyòl	Kreola lingvo
+637 (almanak jilyen)	637
+436 (almanak jilyen)	436
+434 (almanak jilyen)	434
+293 (almanak jilyen)	293
+427 (almanak jilyen)	427
+185 (almanak jilyen)	185
+321 (almanak jilyen)	321
+327 (almanak jilyen)	327
+Aksan	Dialekto
+430 (almanak jilyen)	430
+447 (almanak jilyen)	447
+Little Rock, Arkansas	Little Rock (Arkansaso)
+569 (almanak jilyen)	569
+568 (almanak jilyen)	568
+444 (almanak jilyen)	444
+796 (almanak jilyen)	796
+798 (almanak jilyen)	798
+793 (almanak jilyen)	793
+685 (almanak jilyen)	685
+Hartford, Connecticut	Hartford (Konektikuto)
+799 (almanak jilyen)	799
+Kreyòl ayisyen	Haitia kreola lingvo
+683 (almanak jilyen)	683
+274 (almanak jilyen)	274
+Dover, Delaware	Dover (Delavaro)
+Matematik aplike	Aplika matematiko
+579 (almanak jilyen)	579
+281 (almanak jilyen)	281
+306 (almanak jilyen)	306
+438 (almanak jilyen)	438
+297 (almanak jilyen)	297
+421 (almanak jilyen)	421
+298 (almanak jilyen)	298
+351 (almanak jilyen)	351
+352 (almanak jilyen)	352
+355 (almanak jilyen)	355
+95 (almanak jilyen)	95
+94 (almanak jilyen)	94
+594 (almanak jilyen)	594
+542 (almanak jilyen)	542
+448 (almanak jilyen)	448
+445 (almanak jilyen)	445
+305 (almanak jilyen)	305
+234 (almanak jilyen)	234
+565 (almanak jilyen)	565
+381 (almanak jilyen)	381
+385 (almanak jilyen)	385
+553 (almanak jilyen)	553
+307 (almanak jilyen)	307
+584 (almanak jilyen)	584
+346 (almanak jilyen)	346
+257 (almanak jilyen)	257
+285 (almanak jilyen)	285
+591 (almanak jilyen)	591
+289 (almanak jilyen)	289
+Bertrand Russell	Bertrand Russell
+Men	Mano
+Du Fu	Du Fu
+563 (almanak jilyen)	563
+252 (almanak jilyen)	252
+Popilasyon	Loĝantaro
+595 (almanak jilyen)	595
+246 (almanak jilyen)	246
+596 (almanak jilyen)	596
+593 (almanak jilyen)	593
+357 (almanak jilyen)	357
+573 (almanak jilyen)	573
+Pyè	Sankta Petro
+Fèy	Folio
+Valparaíso, Chili	Valparaiso
+Aktè	Aktoro
+Pye pom kajou	Akaĵuo
+Latitid	Latitudo
+559 (almanak jilyen)	559
+599 (almanak jilyen)	599
+326 (almanak jilyen)	326
+341 (almanak jilyen)	341
+322 (almanak jilyen)	322
+Fàgo (Dakota dinò)	Fargo (Norda Dakoto)
+386 (almanak jilyen)	386
+Founafouti	Funafutio
+374 (almanak jilyen)	374
+380 (almanak jilyen)	380
+Tok pisin	Tokpisino
+Bè	Butero
+Teyoloji	Teologio
+Mossad	Mosado
+136 (almanak jilyen)	136
+Linus Torvalds	Linus Torvalds
+Pòtoprens (komin)	Portoprinco
+Międzyrzec Podlaski	Międzyrzec Podlaski
+Levanjil	Evangelio
+Astroloji	Astrologio
+Savon	Sapo
+New Orleans, Lwizyana	Nov-Orleano
+Philippe Auguste	Filipo la 2-a (Francio)
+Saint-Dié-des-Vosges	Saint-Dié-des-Vosges
+Elikoptè	Helikoptero
+Ipopotam	Amfibia hipopotamo
+382 (almanak jilyen)	382
+Bela Lugosi	Béla Lugosi
+342 (almanak jilyen)	342
+373 (almanak jilyen)	373
+372 (almanak jilyen)	372
+Dwèt	Fingro
+Albert Camus	Albert Camus
+Sab	Sablo
+Woz (flè)	Rozo
+Kinstòn	Kingstono
+Lewopa	Leopardo
+Rinoseròs	Rinoceredoj
+Mitoloji grèk	Helena mitologio
+Dayton, Ohio	Dayton (Ohio)
+Somaliland	Somalilando
+Reyon X	Ikso-radioj
+Sen Domeng	Sankta Domingo
+Tequixquiac	Tequixquiac
+Oklahoma City, Oklahoma	Oklahomaurbo (Oklahomo)
+Liksanbou (menm non)	Luksemburgo (apartigilo)
+Papay	Papajo
+375 (almanak jilyen)	375
+Benjamin Franklin	Benjamin Franklin
+Chou	Blanka brasiko
+Agatha Christie	Agatha Christie
+Lis kapital	Listo de ĉefurboj
+Abitid se vis	Proverbo
+Wilhelm Conrad Röntgen	Wilhelm Conrad Röntgen
+Kowèt	Kuvajturbo
+Glas (pou gade)	Spegulo
+387 (almanak jilyen)	387
+Kolonbo	Kolombo (urbo)
+Bichlamar	Bislama lingvo
+Fenèt	Fenestro
+Gwòt	Kaverno
+Glasye kontinantal	Glaĉero
+Liy Nimewo	Nombra akso
+Boise (Aydawo)	Boise (Idaho)
+Las (maladi)	Astmo
+Bato	Boato
+Lexus	Lexus
+Banbou	Bambuo
+Kongo (menm non)	Kongo
+Interlingua	Interlingvao
+Mazda	Mazda
+Minneapolis, Minnesota	Minneapolis
+Sòl	Grundo
+Beyonce	Beyoncé Knowles
+Brijtòn	Briĝurbo
+Thanh Hoa	Thanh Hoa
+Puerto Montt	Puerto Montt
+Vwayèl	Vokalo
+Apiya	Apio
+Sen Jòns	Sankta Johano (Antigvo-Barbudo)
+Rozo	Roseo
+Rèv	Sonĝo
+Jezwit	Jezuitoj
+Rat	Rato
+Farin	Faruno
+Lonjitid	Longitudo
+Guglielmo Marconi	Guglielmo Marconi
+Anyon	Jono
+Milenè	Jarmilo
+Pò Moresbi	Port-Moresbo
+Reyaksyon chimik	Kemia reakcio
+Layè	Hago
+Òd (biyoloji)	Ordo (biologio)
+Ben Tre	Ben Tre
+Nomanklati binomyal	Dunoma nomsistemo
+La vizyèl	Vidaj artoj
+Jan	Evangelio laŭ Johano
+Pòt	Pordo
+Arancón	Arancón
+Grip pòsin	Porka gripo
+Zong	Ungo
+Alpinis	Montogrimpado
+Ozòn	Ozono
+Lachas	Ĉasado
+Glif	Signobildo
+12 (nonm)	12 (nombro)
+Figi	Vizaĝo
+Tallahassee, Florid	Tallahassee (Florido)
+Endepandans	Sendependeco
+Bismàk, Dakota Dinò	Bismarck (Norda Dakoto)
+30 fevriye	30-a de februaro
+Dwat	Rekto
+331 (almanak jilyen)	331
+11 (nonm)	11 (nombro)
+365 (almanak jilyen)	365
+13 (nonm)	13 (nombro)
+Nwayo	Atomkerno
+Pye zaboka	Avokado
+379 (almanak jilyen)	379
+Vag	Ondo
+Globil wouj	Eritrocito
+Ekri	Skribo
+Cleveland, Ohio	Klevlando
+John Michael Talbot	John Michael Talbot
+Klaus Ebner	Klaus Ebner
+Naypyidaw	Nepjido
+100 (nonm)	100 (nombro)
+Jenou	Genuo
+Zabriko	Abrikotarbo
+Pierre Curie	Pierre Curie
+Bouya	Nebulo
+Alimèt	Alumeto
+Klas (biyoloji)	Klaso (biologio)
+Poligòn	Plurlatero
+Mache	Merkato
+Campora San Giovanni	Campora San Giovanni
+Swa	Silko
+Lame	Armeo
+Demografi	Demografio
+Kwomozòm	Kromosomo
+Alyaj	Alojo
+Bălţi	Bălți
+Pò Vila	Portvilao
+Ekosistèm	Ekologia sistemo
+Auckland Grammar School	Auckland Grammar School
+Milwaukee, Wisconsin	Milvokio
+Alg	Algo
+Etwa	Markolo
+Patat	Batato
+Yangon	Jangono
+Saint Louis, Missouri	Sankta Luiso
+Konsòn	Konsonanto
+McDonald's	McDonald's
+Lewis Carroll	Lewis Carroll
+Filòm	Filumo
+Anje	Angers
+Twazyèm lwa Newton	Leĝoj de Newton pri movo
+Columbia, Kawolin disid	Columbia (Suda Karolino)
+Milyon	Miliono
+14 (nonm)	14 (nombro)
+Melon dlo	Akvomelono
+Kizin	Kuirado
+15 (nonm)	15 (nombro)
+18 (nonm)	18 (nombro)
+Helena, Montana	Helena (Montano)
+Mayitid	Skalo de Richter
+Universidad del Bío-Bío (Chili)	Universidad del Bío-Bío
+Souva	Suvo
+Noukou'alofa	Nukualofo
+Bazilik	Bazilio
+Lazè	Lasero
+Lafyèv	Febro
+Teide	Tejdo
+Cheyenne, Wyoming	Cheyenne
+Pò of Espay	Portospeno
+Richard Feynman	Richard Feynman
+Espesyasyon	Speciigo
+Rach	Hakilo
+Anchorage (Alaska)	Anchorage
+Zouti	Laborilo
+Presyon	Premo
+Burbank, Kalifòni	Burbank (Kantono Los-Anĝeleso)
+Mitokondri	Mitokondrio
+Christiaan Huygens	Christiaan Huygens
+Simityè	Tombejo
+Des Moines, Iowa	Des Moines (Iovao)
+Mario Vargas Llosa	Mario Vargas Llosa
+Radio Studio 54 Network	Radio Studio 54 Network
+19 (nonm)	19 (nombro)
+Ágreda	Ágreda
+Irondèl	Hirundo
+Ligaman	Ligamento
+Deseni	Jardekoj
+Lik	Evangelio laŭ Luko
+Concepción (provens)	Koncepciono (provinco)
+Bweson	Trinkaĵo
+Plaj	Strando
+Will Smith	Will Smith
+Elips	Elipso (matematiko)
+17 (nonm)	17 (nombro)
+Pyèv	Polpo
+Lav	Lafo
+Levye	Levilo
+Lapli asid	Acida pluvo
+Maraton	Maratono
+Issaquah, Washington	Issaquah (Vaŝingtonio)
+16 (nonm)	16 (nombro)
+Nwayo (selil)	Ĉelkerno
+David Gross	David Gross
+20 (nonm)	20 (nombro)
+Akdèzapot	Agoj de la Apostoloj
+Norman, Oklahoma	Norman
+Buffalo, New York	Bufalo
+Large Hadron Collider	Granda Koliziigilo de Hadronoj
+Fosil	Fosilio
+Twoposfè	Troposfero
+Pierre, Dakota disid	Pierre (Suda Dakoto)
+Grenn	Semo (planto)
+Krab	Krabo
+Sizo	Tondilo
+Carson City, Nevada	Carsonurbo
+Anna Maria Jopek	Anna Maria Jopek
+Werner Karl Heisenberg	Werner Heisenberg
+Onyara	Honiaro
+PH	PH (kemia parametro)
+Topeka, Kansas	Topeka (Kansaso)
+Larouze	Roso
+Lozanj	Rombo
+Heinrich Rudolf Hertz	Heinrich Rudolf Hertz
+Henri Becquerel	Antoine Henri Becquerel
+Elan	Movokvanto
+Gouanjou	Kŭangĵuo
+John Dalton	John Dalton
+Bastè	Bastero
+Longèdonn	Ondolongo
+Kurt Gödel	Kurt Gödel
+Lantikite	Antikva epoko
+Rasin	Radiko (planto)
+Lokwat	Mespilarbo
+Mòl	Molo
+Sen Jòj	Sankta Georgo (Grenado)
+Efè tèmik	Forceja efiko
+Julia Gillard	Julia Gillard
+David Hilbert	David Hilbert
+Parapli	Ombrelo
+Hendrik Lorentz	Hendrik Antoon Lorentz
+Kastri	Kastrizo
+Ipotèz	Hipotezo
+Kansas City, Missouri	Kansasurbo (Misurio)
+Sri Jayawardenapura	Sri Jayawardenapura Kotte
+Democritus	Demokrito de Abdero
+Flaman	Flamengo
+Talcahuano	Talcahuano
+Jean-Marie Gustave Le Clezio	Jean-Marie Gustave Le Clézio
+Apokalips	Apokalipso de Johano
+Wòch igne	Magmorokaĵo
+Denzel Washington	Denzel Washington
+Bonda	Pugo
+Kabann	Lito
+Travay (fizik)	Laboro (fiziko)
+Ribozòm	Ribosomo
+Magma	Magmo
+Bernhard Riemann	Bernhard Riemann
+Ajil	Argilo
+Sebastian Vettel	Sebastian Vettel
+40 (nonm)	40 (nombro)
+Lenn	Lano
+Pwa nouris	Fazeolo
+Nebilez	Nebulozo
+Lit	Lukto
+Konbistib	Brulaĵo
+Legliz Jezikri pou Sen Dènye Jou yo	Eklezio de Jesuo Kristo de la Sanktuloj de la Lastaj Tagoj
+Gri	Griza
+Zepis	Spico
+Twopik	Tropikoj
+Lama	Lamo
+Koud (non)	Kubuto
+Ibrid	Hibrido
+Olympia (Wachintòn)	Olympia (Vaŝingtonio)
+Paliki	Palikiro
+Byosfè	Biosfero
+Bab	Barbo
+30 (nonm)	30 (nombro)
+Aewopò Long Thanh	Flughaveno Long Thanh
+Mitasyon	Mutacio
+Lwil	Oleo
+Alèji	Alergio
+Sansi	Hirudo
+1000 (nonm)	1000 (nombro)
+Emoglobin	Hemoglobino
+Newòn	Neŭrono
+Sechrès	Trosekeco
+Pwav	Nigra pipro
+Aïkido	Aikido
+Kevin Rudd	Kevin Rudd
+Giurtelecu Şimleului	Giurtelecu Șimleului
+Thien Duong	Kaverno Thien Duong
+Klowofil	Klorofilo
+Cincinnati, Ohio	Cincinnati
+Dèlta	Riverdelto
+Omaha, Nebraska	Omaha (Nebrasko)
+Clint Eastwood	Clint Eastwood
+Toundra	Tundro
+Fresno, Kalifòni	Fresno
+Bazalt	Bazalto
+Kònèy	Korvo
+Robert Boyle	Robert Boyle
+Apòt	Apostolo
+Richmond, Vijini	Richmond (Virginio)
+Jimnastik	Gimnastiko
+Etnoloji	Etnologio
+Bra	Brako
+Amedeo Avogadro	Amedeo Avogadro
+Seleksyon natirèl	Natura selektado
+Pwi	Puto
+Zou	Bestoĝardeno
+Dodo	Dido
+Echèl tan jeyolojik	Geologia temposkalo
+Kristal	Kristalo
+Kotonou	Kotonuo
+Anviwònman	Medio
+Zwazo mouch	Kolibro
+Idwokabi	Hidrokarbido
+Louisville, Kentucky	Louisville
+Sousi	Brovo
+Tranblemanntè 12 janvye 2010 nan peyi Ayiti	Tertremo en Haitio en 2010
+Madison, Wisconsin	Madison (Viskonsino)
+Kodenn	Meleagro
+Envètebre	Senvertebruloj
+Salem, Oregon	Salem (Oregono)
+Prin	Pruno (frukto)
+Eklips linè	Luna eklipso
+Inias Loyola	Ignaco Lojola
+Rudolf Mössbauer	Rudolf Ludwig Mössbauer
+Paskal	Paskalo
+Teokrasi	Teokratio
+Hans Christian Orsted	Hans Christian Ørsted
+Lyezon chimik	Kemia ligo
+Chalè	Varmo
+Pierre-Simon Laplace	Pierre-Simon Laplace
+Moulen	Muelejo
+Epidemik	Epidemio
+Vektè	Vektoro
+Eduardo Galeano	Eduardo Galeano
+Lapè (gen pè)	Timo
+Son Doong	Kaverno Son Doong
+Tulsa, Oklahoma	Tulsa
+Antwopi	Entropio
+Seramik	Ceramikaĵo
+Fatra	Rubo
+Flèch	Sago
+Òganèl	Organeto
+Chan elektrik	Elektra kampo
+Enèji sinetik	Kineta energio
+Kwantòm	Kvantumo
+Charles Babbage	Charles Babbage
+Fidji Hindi	Fiĝa hinda lingvo
+Pèp Izrayèl la Mize	Muzeo de Israelo
+Robert Hooke	Robert Hooke
+Bag	Fingroringo
+Jou (Figi)	Vango
+Divèsite byolojik	Biodiverseco
+Priyon	Priono
+Estyè	Estuaro
+Fay (jewoloji)	Faŭlto
+Lucretius	Lukrecio
+Santa Monica, Kalifòni	Santa Monica
+Vè (bèt)	Vermo
+Klowoplast	Kloroplasto
+Palo Alto, Kalifòni	Palo Alto
+Demi-vi	Duoniĝa tempo
+Sistèm nève santral	Centra nerva sistemo
+Joseph John Thomson	Joseph John Thomson
+Green Bay, Wisconsin	Green Bay (Viskonsino)
+Paul Dirac	Paul Dirac
+Nadine Gordimer	Nadine Gordimer
+Charleston, Kawolin disid	Charleston (Suda Karolino)
+Bwokoli	Brokolo
+Mant	Mento
+339 (almanak jilyen)	339
+340 (almanak jilyen)	340
+354 (almanak jilyen)	354
+356 (almanak jilyen)	356
+358 (almanak jilyen)	358
+361 (almanak jilyen)	361
+363 (almanak jilyen)	363
+364 (almanak jilyen)	364
+368 (almanak jilyen)	368
+369 (almanak jilyen)	369
+370 (almanak jilyen)	370
+371 (almanak jilyen)	371
+Modèl:Commonscat	Ŝablono:Commonscat
+376 (almanak jilyen)	376
+377 (almanak jilyen)	377
+378 (almanak jilyen)	378
+383 (almanak jilyen)	383
+384 (almanak jilyen)	384
+388 (almanak jilyen)	388
+Moman tòsyon	Torda momanto
+389 (almanak jilyen)	389
+390 (almanak jilyen)	390
+391 (almanak jilyen)	391
+392 (almanak jilyen)	392
+393 (almanak jilyen)	393
+394 (almanak jilyen)	394
+395 (almanak jilyen)	395
+396 (almanak jilyen)	396
+397 (almanak jilyen)	397
+398 (almanak jilyen)	398
+399 (almanak jilyen)	399
+23 (nonm)	23 (nombro)
+Latibonit (rivyè)	Artibonite (rivero)
+Pouli	Takelo
+Kadav	Kadavro
+Nonm premye	Primo
+San Luis Obispo, Kalifòni	San Luis Obispo (Kalifornio)
+Cambridge, Massachusetts	Kembriĝo (Masaĉuseco)
+Quincy, Massachusetts	Quincy (Masaĉuseco)
+New Haven, Connecticut	New Haven (Konektikuto)
+Nantucket, Massachusetts	Nantucket
+Springfield, Massachusetts	Springfield (Masaĉuseco)
+Lowell, Massachusetts	Lowell (Masaĉuseco)
+Stamford, Connecticut	Stamford (Konektikuto)
+Bridgeport, Connecticut	Bridgeport (Konektikuto)
+Waterbury, Connecticut	Waterbury (Konektikuto)
+Worcester, Massachusetts	Worcester (Masaĉuseco)
+440 (almanak jilyen)	440
+517 (almanak jilyen)	517
+572 (almanak jilyen)	572
+Waltham, Massachusetts	Waltham (Masaĉuseco)
+Portsmouth, New Hampshire	Portsmouth (Nov-Hampŝiro)
+Fall River, Massachusetts	Fall River (Masaĉuseco)
+Somerville, Massachusetts	Somerville (Masaĉuseco)
+Rochester, New York	Roĉestro (Nov-Jorkio)
+Irvine, Kalifòni	Irvine
+Fremont, Kalifòni	Fremont (Kalifornio)
+Scottsdale, Arizona	Scottsdale (Arizono)
+Reno, Nevada	Reno (Nevado)
+Norfolk, Vijini	Norfolko (Virginio)
+Orlando, Florid	Orlando
+Saint Petersburg, Florid	Sankt-Peterburgo (Florido)
+Toledo, Ohio	Toledo (Ohio)
+Stockton, Kalifòni	Stockton (Kalifornio)
+Lexington, Kentucky	Leksingtono (Kentukio)
+Corpus Christi, Texas	Corpus Christi (Teksaso)
+Riverside, Kalifòni	Riverside (Kalifornio)
+Santa Ana, Kalifòni	Santa Ana (Kalifornio)
+Aurora, Kolorado	Aurora (Koloradio)
+Anaheim, Kalifòni	Anaheim
+Tampa, Florid	Tampa
+Bakersfield, Kalifòni	Bakersfield
+Colorado Springs, Kolorado	Colorado Springs
+Vijini Beach, Vijini	Virginia Beach
+Mesa, Arizona	Mesa
+Wichita, Kansas	Wichita (Kansaso)
+Henderson, Nevada	Henderson (Nevado)
+Fort Wayne, Indiana	Fort Wayne
+Chula Vista, Kalifòni	Chula Vista
+Chandler, Arizona	Chandler (Arizono)
+Lubbock, Texas	Lubbock
+Garland, Texas	Garland (Teksaso)
+Hialeah, Florid	Hialeah
+Laj glas	Glaciepoko
+Touris	Turismo
+Adra (Almería)	Adra
+Eolyèn	Ventoturbino
+Viktwa	Venko
+Garden Grove, Kalifòni	Garden Grove (Kalifornio)
+Koyefisyan	Koeficiento
+Siv	Ŝenoprazo
+Punta Arenas	Punta Arenas
+Mesi	Mesio
+Glendale, Arizona	Glendale (Arizono)
+Gilbert, Arizona	Gilbert (Arizono)
+Tempe, Arizona	Tempe (Arizono)
+Peoria, Arizona	Peoria (Arizono)
+Surprise, Arizona	Surprise (Arizono)
+Plano, Texas	Plano (Teksaso)
+Irving, Texas	Irving (Teksaso)
+Amarillo, Texas	Amarillo
+Brownsville, Texas	Brownsville (Teksaso)
+Grand Prairie, Texas	Grand Prairie (Teksaso)
+Pasadena, Texas	Pasadena (Teksaso)
+Mesquite, Texas	Mesquite (Teksaso)
+McKinney, Texas	McKinney (Teksaso)
+McAllen, Texas	McAllen
+Maladi viris Ebola	Ebola malsano
+West Jordan, Utah	Okcidenta Jordan
+Krapo	Anuro
+Vòl (sa fè yon vòlè)	Rabo
+Salem, Massachusetts	Salem (Masaĉuseco)
+Malden, Massachusetts	Maldeno (Masaĉuseco)
+Osmoz	Osmozo
+Hannes Olof Gösta Alfvén	Hannes Alfvén
+Soria provens	Provinco Sorio
+Ж	Ĵe (cirila alfabeto)
+Kategori:Prezidan an Polòy	Kategorio:Prezidantoj de Pollando
+Kolektivite tèritoryal	Administra divido
+Lise Meitner	Lise Meitner
+El Royo	El Royo
+Philipp Lenard	Philipp Lenard
+Otto Hahn	Otto Hahn
+James Franck	James Franck
+Max von Laue	Max von Laue
+Wilhelm Wien	Wilhelm Wien
+Otto Stern	Otto Stern
+Daniel Gabriel Fahrenheit	Gabriel Daniel Fahrenheit
+Karl Ferdinand Braun	Ferdinand Braun
+Johannes Stark	Johannes Stark
+Emanuel Lasker	Emanuel Lasker
+Maria Goeppert Mayer	Maria Goeppert-Mayer
+Karl Weierstrass	Karl Weierstrass
+Peter Grünberg	Peter Grünberg
+Asyèt	Telero
+August Ferdinand Möbius	August Ferdinand Möbius
+Truong Tan Sang	Truong Tan Sang
+Sweet Micky	Michel Martelly
+Nefwon	Nefrono
+Jean-Baptiste Biot	Jean-Baptiste Biot
+To mòtalite	Mortindico
+Edmund Landau	Edmund Landau
+Max Born	Max Born
+Èbivò	Herbovorulo
+Aewopò Sao Vang	Flughaveno Sao Vang
+Columbia, Missouri	Columbia (Misurio)
+Hermann von Helmholtz	Hermann von Helmholtz
+Gottlob Frege	Gottlob Frege
+Gustav Robert Kirchhoff	Gustav Robert Kirchhoff
+Meteyorit	Meteorŝtono
+Chandrasekhara Venkata Raman	Chandrasekhara Venkata Raman
+Ke	Vosto
+Asid gra	Grasacido
+Vwayaj	Vojaĝo
+Adam Ries	Adam Ries
+Peter Andreas Hansen	Peter Andreas Hansen
+Lis depatman Ayiti	Departementoj de Haitio
+Barranquilla	Barankilo
+Obsèvatwa	Observatorio
+Heike Kamerlingh Onnes	Heike Kamerlingh Onnes
+John Cockcroft	John Douglas Cockcroft
+Roy Jay Glauber	Roy J. Glauber
+Elektwoliz	Elektrolizo
+Friedrich Ernst Dorn	Friedrich Ernst Dorn
+Adam Lonicer	Adam Lonitzer
+Lorenz Christoph Mizler	Lorenz Christoph Mizler
+Bil	Galo
+Wolfgang Ernst Pauli	Wolfgang Pauli
+Collinsville (Alabama)	Collinsville (Alabamo)
+Tayiga	Tajgo
+Horst Ludwig Störmer	Horst Ludwig Störmer
+Ernst August Friedrich Ruska	Ernst Ruska
+Alfred Kastler	Alfred Kastler
+Refraksyon	Refrakto
+Motè elektrik	Elektromotoro
+August Krönig	August Krönig
+Rejyon montaye	Altebenaĵo
+Pierre de Fermat	Pierre de Fermat
+Friedrich Bessel	Friedrich Bessel
+Serebwòm	Grandcerbo
+Ernst Karl Abbe	Ernst Abbe
+Regiomontanus	Regiomontanus
+Georg Cantor	Georg Cantor
+Efè Doppler	Efiko de Doppler
+Sistèm oktal	Okuma sistemo
+Walther Bothe	Walther Bothe
+Richard Dedekind	Julius Wilhelm Richard Dedekind
+Wilhelm Weber	Wilhelm Eduard Weber
+Hagen Kleinert	Hagen Kleinert
+Johannes Hans Daniel Jensen	Hans Jensen
+Pavel Alekseyevich Cherenkov	Pavel Ĉerenkov
+Arnold Sommerfeld	Arnold Sommerfeld
+Jacob Milich	Jakob Milich
+Victor Francis Hess	Victor Franz Hess
+Elektwonegativite	Elektronegativeco
+Pieter Zeeman	Pieter Zeeman
+Rou (plant)	Strato
+Mike Tyson	Mike Tyson
+Waldron, Arkansas	Waldron (Arkansaso)
+Nulato (Alaska)	Nulato
+Antikò	Antikorpo
+Warrior (Alabama)	Warrior (Alabamo)
+Sibstans	Kemiaĵo
+Fairbanks (Alaska)	Fairbanks (Alasko)
+Plasma (biyoloji)	Sangoplasmo
+Oligachi	Oligarkio
+Nogales, Arizona	Nogales (Arizono)
+Sitka (Alaska)	Sitka
+Mountain Brook (Alabama)	Mountain Brook (Alabamo)
+Van solè	Suna vento
+Flagstaff, Arizona	Flagstaff (Arizono)
+Huntsville (Alabama)	Huntsville (Alabamo)
+Birmingham (Alabama)	Birmingham (Alabamo)
+Kòlè	Kolero
+Mobile (Alabama)	Mobile
+Sitoplas	Citoplasmo
+Retikilòm andoplasmik	Endoplasma retikulo
+Selma (Alabama)	Selma (Alabamo)
+25 (nonm)	25 (nombro)
+24 (nonm)	24 (nombro)
+Kouch ozòn	Ozona tavolo
+60 (nonm)	60 (nombro)
+Foujè	Filiko
+Chadèk	Pampelmuso
+Ewozyon	Eroziiĝemo
+Petersburg (Alaska)	Peterburgo (Alasko)
+Pye lalwa	Aloo vera
+Syans imèn	Homa scienco
+Selil elektwochimik	Elektrokemia ĉelo
+Dandwokwonoloji	Dendrokronologio
+Joseph-Louis Lagrange	Joseph-Louis Lagrange
+Boutèy	Botelo
+Tamaren	Tamarindo (arbo)
+Seliloz	Celulozo
+Pericles	Periklo
+Mangous	Mungotedoj
+Shreveport, Lwizyana	Shreveport (Luiziano)
+Kalalou	Gombo
+Alèl	Alelo
+Sikui entegre	Integra cirkvito
+Lingua franca	Lingvafrankao
+Adenozin trifosfat	Adenozina trifosfato
+James Chadwick	James Chadwick
+Donald Arthur Glaser	Donald A. Glaser
+Dejne	Matenmanĝo
+Gran-moun	Plenkreskeco
+Retorik	Retoriko
+Plim	Plumo
+Sik dlo	Akvocirkulado
+Henri Poincaré	Henri Poincaré
+Polimè	Polimero
+Sistèm desimal	Dekuma sistemo
+Epina	Legoma spinaco
+Melon frans	Melono (frukto)
+Fòd Fwans	Fort-de-France
+Montay plwaye	Falto
+Assassin	Atenco
+Charles-Augustin de Coulomb	Charles-Augustin de Coulomb
+Chini	Raŭpo
+Gresham, Oregon	Gresham (Oregono)
+Fouchèt	Forko
+Kiyè	Kulero
+Alotwopi	Alotropo
+Doulè	Doloro
+Kòn	Korno (anatomio)
+Temuco	Temuco
+Katalizè	Katalizilo
+К	Ka (cirila alfabeto)
+П	Pe (cirila alfabeto)
+Fwotman	Frotado
+И	I (cirila alfabeto)
+Felipe Massa	Felipe Massa
+Feria del Sol (Mérida)	Feria del Sol (Mérida)
+Oksidasyon	Redoksa reakcio
+Manton	Mentono
+Non	Nomo
+Akoustik	Akustiko
+Tradisyon	Tradicio
+Sistèm ekzadesimal	Deksesuma sistemo
+Politisyen	Politikisto
+Chif	Cifero
+Egzagòn	Seslatero
+Manyòk dous	Manioko
+Fòmil chimik	Kemia formulo
+Lwa koulon	Kulomba leĝo
+Srinivasa Ramanujan	Srinivasa Aiyangar Ramanujan
+Miskad	Muskato
+Idwosfè	Hidrosfero
+Leti	Kultiva laktuko
+26 (nonm)	26 (nombro)
+Litosfè	Litosfero
+Lord Rayleigh	John William Strutt Rayleigh
+Loray	Tondro
+Sourit	Hejma muso
+Angrè	Sterko
+Louis-Victor de Broglie	Louis de Broglie
+Pous (anatomi)	Dikfingro
+Seyismolog	Tertremoscienco
+Kaza	Kvazaro
+Wonm	Rumo
+Izin	Fabriko
+Pyè presye	Gemo
+Altewofili	Halterlevo
+Jezè	Gejsero
+Afeli	Apsido
+Aleksandr Prokhorov	Aleksandr Proĥorov
+Nikolay Basov	Nikolaj Basov
+Savannah, Georgie	Savannah
+Krikèt	Lokusto
+Tib katodik	Bildotubo
+Fritjof Capra	Fritjof Capra
+Christian Doppler	Christian Doppler
+Georg von Peuerbach	Georg von Peuerbach
+Ludwig Boltzmann	Ludwig Boltzmann
+Alonzo Church	Alonzo Church
+Claude Shannon	Claude Shannon
+Subhash Kak	Subhash Kak
+Divòs	Eksgeedziĝo
+Tilip	Tulipo
+Documentaries	Dokumenta filmo
+Syanobakteri	Cianobakterio
+Johann Loschmidt	Johann Josef Loschmidt
+Georg Joachim Rheticus	Georg Joachim Rheticus
+Zorye	Kuseno
+Liv (mezi)	Funto
+Awòt	Aorto
+Distilasyon	Distilado
+Plakèt	Trombocito
+Albedo	Albedo
+Pwotozoyè	Protozoo
+Nonm mas	Masnombro
+Mouvman rastafari	Rastafaria movado
+Estè	Estero
+Benoît Mandelbrot	Benoît Mandelbrot
+Peryòd (chimi)	Periodo de la perioda tabelo
+Gonore	Gonoreo
+Eksperyans	Eksperimento
+Biyòm	Biomo
+Fliyid	Fluaĵo
+Epò senozoyik	Kenozoiko
+Evangelista Torricelli	Evangelista Torricelli
+Abreviyasyon	Mallongigo
+Minrè	Erco
+Etamin	Stameno
+Idwoliz	Hidrolizo
+Kapilè	Kapilaro
+Solid amòf	Amorfa solido
+Patikil alfa	Alfa-radiado
+Peter Debije	Peter Debye
+Aage Niels Bohr	Aage Niels Bohr
+Fenotip	Fenotipo
+Urbain Le Verrier	Urbain Le Verrier
+Presesyon	Precesio
+Plèn lin	Plenluno
+Kolonèl	Kolonelo
+Liminozite	Lumeco
+Episant	Surcentro
+Kretyen	Kristano
+Saul Perlmutter	Saul Perlmutter
+Mak	Evangelio laŭ Marko
+Klivaj	Klivebleco
+Hugh David Politzer	David Politzer
+Sant (jewoloji)	Subcentro (tertremo)
+Zwit	Ostro
+Frank Wilczek	Frank Wilczek
+Ponpye	Fajroestingisto
+Pwopriyete fizik	Fizika grando
+Trene	Frotkoloro
+Vektè byolojik	Vektoro (epidemiologio)
+Leyon (jewoloji)	Eono
+Estratosfè	Stratosfero
+Jimmy Cliff	Jimmy Cliff
+Chemine	Vulkana kratero
+Jaltenco	Jaltenco
+Sistèm seksajezimal	Sesdekuma sistemo
+Camagüey, Kiba	Camagüey (urbo)
+Dreaming of You (album)	Dreaming of You
+Villa Clara, Kiba	Villa Clara
+Ciego de Ávila, Kiba	Ciego de Ávila (urbo)
+Santiago de Cuba, Kiba	Santiago de Kubo
+Arawak	Aravakoj
+Grigori Perelman	Grigorij Perelman
+Aployid	Ploido
+Tranche soumaren	Profunda submara fosego
+Klòn	Klonado
+Senbyoz	Simbiozo
+Franse	Francoj
+Mitoloji women	Romia mitologio
+Daniel Bernoulli	Daniel Bernoulli
+Inèsi	Inercio
+Sistèm nimewotasyon	Cifereca sistemo
+Womaren	Oficina rosmareno
+William Thomson	William Thomson
+Dziecinów	Dziecinów (poviato Otwock)
+Felix Bloch	Felix Bloch
+Charles Édouard Guillaume	Charles Édouard Guillaume
+Ekstenksyon	Formorto
+Asid nikleyik	Nuklea acido
+Vwazen	Kvartalo
+Siprakondiktè	Superkonduktiveco
+Kouran altènatif (AC)	Alterna kurento
+Kondiktè	Konduktilo
+Mayitid aparan	Ŝajna magnitudo
+Kara	Kara (muzikgrupo)
+Lasi	Vakso
+Sous	Akvofonto
+Jadinay	Ĝardenado
+Nip	Nippes (Haitio)
+Aloès	Aloo
+Albert Abraham Michelson	Albert Abraham Michelson
+Fekondasyon	Fekundigo
+Lank	Inko
+Taunton, Massachusetts	Taunton (Masaĉuseco)
+Pentagòn	Kvinlatero
+Beverly Hills, Kalifòni	Beverly Hills
+Arthur Compton	Arthur Holly Compton
+Izomè	Izomero
+Kò gra	Graso
+Enèji jeyotèmik	Geoterma energio
+Dinamik	Dinamiko
+Syracuse, New York	Sirakuso
+Yonkers, New York	Yonkers
+Killeen, Texas	Killeen
+Waco, Texas	Waco
+Carrollton, Texas	Carrollton (Teksaso)
+Frisco, Texas	Frisco (Teksaso)
+Beaumont, Texas	Beaumont (Teksaso)
+Abilene, Texas	Abilene (Teksaso)
+Denton, Texas	Denton
+Midland, Texas	Midland (Teksaso)
+Wichita Falls, Texas	Wichita Falls
+Pawa selilè	Ĉela muro
+Viskozite	Viskozeco
+John Forbes Nash	John Nash
+Lafayette, Lwizyana	Lafayette (Luiziano)
+Michaëlle Jean	Michaëlle Jean
+Enèji byomas	Biobrulaĵo
+Phoenix	Fenikso (kosmosondilo)
+Nikolai Lobachevsky	Nikolaj Ivanoviĉ Lobaĉevskij
+Kalòj	Kaĝo
+Lav (ensèk)	Larvo
+Kouran sifas	Marfluo
+Kwis	Femuro
+Robert Hofstadter	Robert Hofstadter
+Kokliko	Papaveto
+Lafimen	Fumo
+Sigal	Cikadedoj
+Kalori	Kalorio
+Robert Andrews Millikan	Robert Andrews Millikan
+Sèvèl	Cerbeto
+Premye meridyen	Grenviĉa Meridiano
+Wou	Rastro
+IMMAGINE&POESIA	Immagine & Poesia
+Imigrasyon	Enmigrado
+Sioux Falls, Dakota disid	Sioux Falls
+Liy entènasyonal chanjman dat	Internacia datlinio
+Ototwòf	Aŭtotrofo
+Pak (trete)	Traktato
+Fèm (non)	Bieno
+Anbriyoloji	Embriologio
+Sèvyèt	Sekigtuko
+Prens la	La Princo
+Johannes Diderik van der Waals	Johannes Diderik van der Waals
+William Lawrence Bragg	William Lawrence Bragg
+Henry Cavendish	Henry Cavendish
+Maladi kontajye	Infekta malsano
+Moutad	Mustardo
+Siblimasyon	Sublimado
+Kle	Ŝlosilo
+Branchi	Branko
+Robert Oppenheimer	Robert Oppenheimer
+Mikwoskòp elektwonik	Elektrona mikroskopo
+Sikui elektrik	Elektra cirkvito
+Saint-John Perse	Saint-John Perse
+Evaporasyon	Vaporado
+Gout	Podagro
+Espèk elektwomayetik	Elektromagneta spektro
+Sonar	Sonaro
+Clinton Davisson	Clinton Joseph Davisson
+Mitoz	Mitozo
+Gabriel Jonas Lippmann	Gabriel Lippmann
+Reyaksyon konbistyon	Brulo
+Lev Davidovich Landau	Lev Landau
+Do	Dorso
+Aprantisaj	Lerno
+William Henry Bragg	William Henry Bragg
+George Paget Thomson	George Paget Thomson
+Difraksyon	Difrakto
+Jean Baptiste Perrin	Jean Baptiste Perrin
+Polo	Poloo
+Tij	Tigo
+Senti	Zono (vestaĵo)
+Aticho	Artiŝoko
+Polinizasyon	Polenado
+Plato kontinantal	Kontinentbreto
+Springfield, Missouri	Springfield (Misurio)
+Galveston, Texas	Galveston (Teksaso)
+Entèferans	Interfero
+Elizabeth, New Jersey	Elizabeth (Nov-Ĵerzejo)
+Paterson, New Jersey	Paterson (Nov-Ĵerzejo)
+Princeton, New Jersey	Princeton (Nov-Ĵerzejo)
+Hoboken, New Jersey	Hoboken (Nov-Ĵerzejo)
+Mapou	Kapok-arbo
+Atlantic City, New Jersey	Atlantic city
+Aristarchus of Samos	Aristarko el Samoso
+CH	Ch
+Zegi	Kudrilo
+Allentown, Pennsilvani	Allentown (Pensilvanio)
+North Las Vegas, Nevada	Norda Lasvegaso
+Mas molè	Mola maso
+Sòlvan	Solvaĵo
+Phu Quoc	Phu Quoc
+Avwán	Aveno
+Pye roukou	Bikso orelana
+Subrahmanyan Chandrasekhar	Subrahmanyan Chandrasekhar
+Kreson frans	Akvokreso
+Etilèn	Eteno
+Wikipedya:Kouman pou nou korije yon paj	Helpo:Redakti
+Aewopò Pleiku	Flughaveno Pleiku
+Demakasyon	Akvodislimo
+Sann	Cindro
+Ludmilla Radchenko	Ljudmila Radĉenko
+Joseph Louis Gay-Lussac	Louis Joseph Gay-Lussac
+Edward Victor Appleton	Edward Victor Appleton
+Albert Fert	Albert Fert
+Andrey Kolmogorov	Andrej Kolmogorov
+Jean le Rond d'Alembert	Jean le Rond d'Alembert
+Leó Szilárd	Leó Szilárd
+Josiah Willard Gibbs	Josiah Willard Gibbs
+Marguerite Duras	Marguerite Duras
+François Arago	François Arago
+Zòtèy	Piedfingro
+Leopold Sedar Senghor	Léopold Sédar Senghor
+Nicholas of Cusa	Nikolao de Kuzo
+Lajonis	Flava febro
+Enèji potansyèl chimik	Potenciala energio
+Igor Yevgenyevich Tamm	Igor Tamm
+Masatoshi Koshiba	Koshiba Masatoshi
+Louis Eugène Félix Néel	Louis Néel
+Dennis Gabor	Dennis Gabor
+Eugene Wigner	Eugene Paul Wigner
+Hans Bethe	Hans Albrecht Bethe
+George Gabriel Stokes	George Gabriel Stokes
+Bwa debèn	Ebono
+Bèl dam	Beladono
+Eyè	Dianto
+Bale amè	Artemizio
+Etwofizasyon	Plantoziĝo
+Kizinye	Kuiristo
+Nwa betèl	Kateĉuareko
+Joseph Henry	Joseph Henry
+Plant vivas	Staŭdo
+Rutabaga	Napo
+Begonya	Begonio
+Pye grenadin	Passiflora quadrangularis
+Anplitid	Amplitudo
+Pit	Sisalo
+Santa Cruz, Kalifòni	Santa Cruz (Kalifornio)
+Rekonbinezon jenetik	Gentekniko
+Kouran dirè (DC)	Kontinua kurento
+Santa Clara, Kalifòni	Santa Clara (Kalifornio)
+Santa Barbara, Kalifòni	Santa Barbara (Kalifornio)
+Tewo	Ŝimo
+Etewotwòf	Heterotrofa
+Ibènasyon	Vintra dormo
+Arthur Cayley	Arthur Cayley
+Karanbòl	Averoo
+Koma (astwonomi)	Komato
+Mayitid absol	Absoluta magnitudo
+Kaldera	Kaldero
+Jimo	Ĝemelo
+Pay	Pajlo
+Rayi	Malamo
+Tande	Aŭdo
+Konveksyon	Konvekto
+Bouton	Butono
+Gustaf Dalén	Gustaf Dalén
+Charles Glover Barkla	Charles Glover Barkla
+Alize	Pasato
+Valdivia, Chili	Valdivia
+Antalfi	Entalpio
+Pigman	Pigmento
+Kitin	Kitino
+Zèl	Flugilo
+Bijou	Juvelarto
+Plan enkline	Dekliva ebenaĵo
+Lilas peyi	Bida melio
+Glikoliz	Glikolizo
+Newotransmetè	Neŭrotransmisiilo
+Charles Thomson Rees Wilson	Charles Thomson Rees Wilson
+Elektwolit	Elektrolito
+Meyoz	Mejozo
+Dyakritik	Diakrita signo
+Akron, Ohio	Akron (Ohio)
+Difizyon	Difuzo
+William Bradford Shockley	William Shockley
+West Palm Beach, Florid	Okcidenta Palm Beach
+Wendelin Werner	Wendelin Werner
+Theodore von Kármán	Theodore von Kármán
+Ipotalamis	Hipotalamo
+Trete Ryswik	Traktato de Rijswijk
+Viktor Hambardzumyan	Viktor Ambarcumjan
+Kapasitans	Kapacitanco
+Simon Newcomb	Simon Newcomb
+Paralaks	Paralakso
+Aewopò Lien Khuong	Flughaveno Lien Ĥuong
+Piman	Kapsiketo
+Maywood, Ilinwa	Maywood (Ilinojo)
+Moman inèsi	Inercimomanto
+Drapo Kirgistan	Flago de Kirgizio
+So an wotè	Altosalto
+Grangou	Malsato
+Isidor Isaac Rabi	Isidor Isaac Rabi
+Fort Lauderdale, Florid	Fort Lauderdale
+Oktagòn	Oklatero
+Segman	Rektosegmento
+Enfeksyon	Infekto
+Astenosfè	Astenosfero
+Billings, Montana	Billings (Montano)
+Kondansasyon	Kondensado
+Basen drenaj	Akvokolekta areo
+Pye gwayav	Psidium guajava
+Koulè primè	Baza koloro
+Antrepriz	Entrepreno
+Fewomòn	Feromono
+Sik kabòn	Karbono-ciklo
+Glisman teren	Terglito
+Midi	Tagmezo
+Kòne	Korneo
+Lank (pou bato)	Ankro (ŝipo)
+Zanno	Orelringo
+David Brewster	David Brewster
+Eric Weisstein	Eric W. Weisstein
+Echèl	Ŝtupetaro
+Waterville, Washington	Waterville (Vaŝingtonio)
+Cathlamet, Washington	Cathlamet (Vaŝingtonio)
+Asotin, Washington	Asotin (Vaŝingtonio)
+Anblèm Azerbaydjan	Blazonŝildo de Azerbajĝano
+Statik	Statiko
+Gan	Ganto
+Lyezon idwojèn	Hidrogena ligo
+Owen Willans Richardson	Owen Willans Richardson
+Melanj etewojèn	Miksaĵo
+Retin	Retino
+Vòlkan konpozit	Stratovulkano
+Carl David Anderson	Carl David Anderson
+Abolisyon esklavaj	Aboliciismo
+Ernest Lawrence	Ernest Orlando Lawrence
+Debwazman	Senarbarigo
+San Mateo, Kalifòni	San Mateo
+Sistèm nève periferik	Periferia nerva sistemo
+Efè Coriolis	Koriolisforto
+Esmòg	Fumnebulo
+Patojèn	Infekta agento
+Tè makay	Malsekejo
+Labou	Ŝlimo
+Nim	Hinda azadiraĥto
+Kò	Korpo (biologio)
+Tant (ti kay)	Tendo
+Pip	Pupo (zoologio)
+So an longè	Longosalto
+Manne Siegbahn	Manne Siegbahn
+Ketòn	Ketono
+Tansyon sifas	Surfaca tensio
+Kouwòn (solèy)	Korono
+Ne lenfatik	Limfaj ganglioj
+Mirak	Miraklo
+Sistèm nève otonòm	Aŭtonoma nerva sistemo
+Filojeni	Filogenetiko
+Eugene, Oregon	Eugene
+Lòm	Homo (genro)
+Pentad	Numidedoj
+Л	El (cirila alfabeto)
+Percy Williams Bridgman	Percy Williams Bridgman
+Imis	Humo
+Peptid	Peptido
+Rezonans	Resonanco
+Nich ekolojik	Ekologia niĉo
+Chawoya	Kadavromanĝanto
+Fòs santripèd	Centripeta forto
+Emilio Segrè	Emilio Segrè
+Repwodiksyon aseksyèl	Neseksa reproduktado
+Ezofaj	Ezofago
+Tenpan	Miringo
+Ч	Ĉe (cirila alfabeto)
+Ш	Ŝa (cirila alfabeto)
+Н	Н (cirila alfabeto)
+Konpoze òganik	Organika kombinaĵo
+Ф	Ef (cirila alfabeto)
+Villa Alemana	Villa Alemana
+Farenks	Faringo
+Nan Oval	La Ovalo
+Andrey Markov	Andrej Markov
+Dezyèm lwa tèmodinamik	Dua leĝo de termodinamiko
+Estalaktit	Stalaktito
+Espò (biyoloji)	Sporo
+Sous cho	Termofonto
+Jean Giono	Jean Giono
+Caltojar	Caltojar
+Vodou	Voduo
+Estewoyid	Steroido
+Teyori selilè	Ĉelteorio
+Pat (materyo)	Pasto
+Elektwo-eman	Elektromagneto
+Cecil Frank Powell	Cecil Frank Powell
+Lanse javlo	Lancoĵeto
+Izolan	Izolilo
+О	O (cirila alfabeto)
+Jenerasyon espontane	Spontana generado
+Dodekayèd	Dekduedro
+Santriyòl	Centriolo
+Biafra	Biafro
+Volay	Kortobirdo
+Norbert Wiener	Norbert Wiener
+Deriv kontinan	Kontinenta drivo
+Berlanga de Duero	Berlanga de Duero
+Eredite	Heredo (genetiko)
+Fòs santrifij	Centrifuga forto
+Mont	Brakhorloĝo
+Pwen woze	Rosopunkto
+Silikat	Silikato
+Vèv	Vidvo
+Degradasyon	Veterdisfalo
+Ekitasyon	Rajdado
+Kwo-magnon	Homo de Kro Magnon
+Lakòz	Kaŭzeco
+Puyallup, Washington	Puyallup (Vaŝingtonio)
+Premye lwa tèmodinamik	Unua leĝo de termodinamiko
+Chalè espesifik	Varmokapacito
+Reflèks	Reflekso
+Bri	Bruo
+George Smoot	George Smoot
+М	Em (cirila alfabeto)
+Plonje soumaren	Subakvado
+Shinjuku	Kvartalo Ŝinĝuku
+Ц	Ce (cirila alfabeto)
+Х	Ĥa (cirila alfabeto)
+У	U (cirila alfabeto)
+С	Es (cirila alfabeto)
+Vo Nguyen Giap	Võ Nguyên Giáp
+Pèmafwòs	Ĉiamfrosta grundo
+Sediman	Sedimento
+Third World	Tria mondo
+Lenny Kravitz	Lenny Kravitz
+Enèji tèmik	Interna energio
+Selil konbistib	Fuelpilo
+Machwa	Makzelo
+Sil	Cilio
+Imidite	Humideco
+Eleman	Elemento
+Espektwomèt mas	Mas-spektrogramo
+Anòd	Anodo
+Estalagmit	Stalagmito
+Chen Ning Yang	Chen Ning Yang
+Pèt cheve	Kalveco
+Р	Er (cirila alfabeto)
+Ze amnyotik	Amniulo
+Bwonch	Bronko
+Nicolas Leonard Sadi Carnot	Nicolas Léonard Sadi Carnot
+Koloyid	Koloido
+Android	Androido
+Konpozit	Kompozita materialo
+Augusta, Georgie	Augusta (Georgio)
+Fizik (pyès metal)	Fandogardilo
+Tij sèvo	Cerba trunko
+Bentos	Bentoso
+Щ	Ŝĉa (cirila alfabeto)
+Repwodiksyon seksyèl	Seksa reproduktado
+Т	Te (cirila alfabeto)
+Meteyo analòg	Veterprognozo
+John James Audubon	John James Audubon
+Dispèsyon	Varianco (optiko)
+Edward Mills Purcell	Edward Mills Purcell
+Zhores Ivanovich Alferov	Ĵores Alfjorov
+Dezètifikasyon	Dezertiĝado
+Ilya Prigogine	Ilja Prigogine
+Ernest Walton	Ernest Walton
+Owen Chamberlain	Owen Chamberlain
+Tsung-Dao Lee	Tsung-Dao Lee
+Gary, Indiana	Gary
+Fewomayetis	Feromagneta substanco
+Rizòm	Rizomo
+Kado	Donaco
+Viña del Mar	Viña del Mar
+Sèkèy	Ĉerko
+Andrew Wiles	Andrew Wiles
+Patrick Blackett	Patrick Maynard Stuart Blackett
+Gerolamo Cardano	Gerolamo Cardano
+Sofia Kovalevskaya	Sofja Kovalevskaja
+Owojenèz	Orogenezo
+Charles Townes	Charles Hard Townes
+Polykarp Kusch	Polykarp Kusch
+Walter Houser Brattain	Walter Houser Brattain
+Dekagòn	Deklatero
+Dyelektrik	Dielektriko
+Igor Vasilyevich Kurchatov	Igor Kurĉatov
+Selil konpay	Floemo
+Guantánamo, Kiba	Guantanamo
+Knoxville, Tennessee	Knoxville (Tenesio)
+Ponyèt	Pojno
+Lieutenant	Leŭtenanto
+Radyasyon iyonik	Joniga radiado
+Ю	Ju (cirila alfabeto)
+Mityalis	Mutualismo
+Otozòm	Aŭtosomo
+Riccardo Giacconi	Riccardo Giacconi
+Willis Lamb	Willis Eugene Lamb
+Parazitis	Parazito
+Chattanooga, Tennessee	Chattanooga (Tenesio)
+Machin konpoze	Simpla maŝino
+Alèjèn	Alergeno
+Ovilasyon	Ovolado
+Trip so	Trisalto
+Pierre-Gilles de Gennes	Pierre-Gilles de Gennes
+Fonksyon zeta Riemann	Rimana ζ funkcio
+Augustin-Jean Fresnel	Augustin Fresnel
+Anders Jonas Ångström	Anders Jonas Ångström
+Charles Peirce	Charles Sanders Peirce
+Melanin	Melanino
+Emigrasyon	Elmigrado
+François Duvalier	François Duvalier
+Spokane, Washington	Spokane (Vaŝingtonio)
+Jerome Isaac Friedman	Jerome Isaac Friedman
+Léon Foucault	Léon Foucault
+Bwat	Kesto
+Langston Hughes	Langston Hughes
+Alexei Alexeyevich Abrikosov	Aleksej Abrikosov
+Sistèm òganik	Organa sistemo
+Siksesyon ekolojik	Sukcesio (ekologio)
+Konstan	Konstanto
+Frits Zernike	Frits Zernike
+Kal	Skvamo
+Anfisèm	Emfizemo
+François Viète	François Viète
+Marin Mersenne	Marin Mersenne
+Dolin	Dolino
+Я	Ja (cirila alfabeto)
+Plantasyon	Plantejo
+Keratin	Keratino
+Nevill Mott	Nevill Francis Mott
+Ekilib chimik	Kemia ekvilibro
+Sir William Crookes	William Crookes
+Ayerbe	Ayerbe
+Plant bizanyèl	Dujara planto
+Anayewobi	Anaeroba organismo
+Fwon (météorologie)	Fronto (meteologio)
+Patrimwàn ereditè	Genprovizo
+Bouk	Kaprenoj
+Mikwotibil	Mikrotubeto
+Glann mamè	Laktoglando
+Robert Betts Laughlin	Robert B. Laughlin
+Flajèl	Flagelo
+Cienfuegos, Kiba	Cienfuegos (urbo)
+Lajenès	Junaĝo
+Mandarin	Mandarino
+Sitadèl la Ho dinasti	Thanh Nha Ho
+Minato	Kvartalo Minato-ku (Tokio)
+Turbulence	Turbulento
+Pepsin	Pepsino
+Lamitye	Kuskuto
+Lespwa	Espero (emocio)
+Simeon Denis Poisson	Siméon-Denis Poisson
+Desalman	Sensaligo
+Adrien-Marie Legendre	Adrien-Marie Legendre
+Giuseppe Peano	Giuseppe Peano
+Alveyòl	Pulma alveolo
+Ы	Jerio
+Э	E (cirila alfabeto)
+Kòmansalis	Kunmanĝado
+Egzoskèlèt	Eksoskeleto
+Danny Glover	Danny Glover
+Labrim	Brumo
+Sèl (sou cheval)	Selo
+Konsomasyon	Konsumo
+Yè	Pasinteco
+Plant anyèl	Unujara planto
+Ilya Frank	Ilja Frank
+William Gilbert	William Gilbert
+Anthony James Leggett	Anthony Leggett
+Tinèl la Cu Chi	Củ-Chi-tuneloj
+Ba	Ŝtrumpo
+Plenn inondab	Apudrivera ebenaĵo
+Ayewobi	Aerobia
+If	Hifo
+Trajektwa	Trajektorio
+Lim	Fajlilo
+Migrasyon	Bestomigrado
+Entèval kontou	Nivellinio
+Echalot	Askalono
+Distans fokal	Ĉefa fokusa distanco
+Shibuya	Kvartalo Ŝibuja
+Frantz Fanon	Frantz Fanon
+Almuñécar (Grenad)	Almuñécar
+Limyè solèy	Sunradiado
+Bròs	Peniko
+Preri	Prerio
+Kamouflaj	Kamuflado
+Michael Pupin	Mihajlo Pupin
+Fotomikwoskòp konpoze	Mikroskopo
+Sètifika	Atesto
+Tacoma, Washington	Tacoma (Vaŝingtonio)
+Universidad de Concepción (Chili)	Universidad de Concepción
+Pa touye	Nemortigo
+Evolisyon konvèjan	Konverĝa evoluo
+Abraham de Moivre	Abraham de Moivre
+Ròb	Robo
+Sean Paul	Sean Paul
+Panye	Korbo
+Marquis de Condorcet	Nicolas de Condorcet
+John Dee	John Dee
+Ь	Mola signo (cirila alfabeto)
+Echèl valè MMS	Momant-magnituda skalo
+Braslè	Brakringo
+Pikan	Dorno (botaniko)
+Djèt estrim	Ĵetfluo
+John Archibald Wheeler	John Archibald Wheeler
+Ton natalite	Naskindico
+Modesto, Kalifòni	Modesto
+Zion	Ciono
+Tousen Louvèti	Toussaint Louverture
+Ipotèz Riemann	Rimana hipotezo
+CARICOM	Karibia Komunumo
+Henri Lebesgue	Henri Léon Lebesgue
+Pafnuty Chebyshev	Pafnutij Ĉebiŝov
+Vòl (sa fè yon zwazo)	Flugo
+Estrès	Streĉo (mekaniko)
+John Lewis Hall	John L. Hall
+Orinda, Kalifòni	Orinda (Kalifornio)
+Gaspard Monge	Gaspard Monge
+Kou-sikui	Kurta cirkvito
+Zèb	Spicherbo
+Lonè	Honoro
+Isaac Barrow	Isaac Barrow
+Chalè latan	Latenta varmo
+500 (nonm)	500 (nombro)
+Sòlstis ivè	Vintra solstico
+Latòti (il)	Insulo de la Testudo
+Règ oktè	Okopa regulo
+Vallejo, Kalifòni	Vallejo
+Thousand Oaks, Kalifòni	Thousand Oaks
+Panic	Paniko
+Misk lis	Glata muskolo
+Sunnyvale, Kalifòni	Sunnyvale (Kalifornio)
+Reseptè	Ricevanto (biologio)
+Mas kritik	Sojla maso
+Kouran-toubiyon	Kirlokurento
+Akwifè	Grundakvejo
+René Préval	René Préval
+Oxnard, Kalifòni	Oxnard
+Jan Bètran Aristid	Jean-Bertrand Aristide
+Aran	Klupeoj
+Gamèt	Gameto
+Ъ	Malmola signo (cirila alfabeto)
+Santa Clara, Villa Clara	Santa Clara (Kubo)
+Diktilite	Duktileco
+Vòlkan an boukliye	Ŝilda vulkano
+Janjak Desalin	Jean Jacques Dessalines
+Dodekagòn	Dekdulatero
+Laurent Schwartz	Laurent Schwartz
+Brook Taylor	Brook Taylor
+Chuo	Kvartalo Ĉuo (Tokio)
+Bunkyo	Kvartalo Bunkjo
+Kondisyònman	Kondiĉa reflekso
+Epidèm	Epidermo
+Entrizif	Intruzio (geologio)
+Santa Rosa, Kalifòni	Santa Rosa (Kalifornio)
+Estekyometri	Stekiometrio
+Adachi	Kvartalo Adaĉi
+Ernst Chladni	Ernst Chladni
+Hurling	Iomano
+Devlòpman	Disvolviĝ-biologio
+Terapi jenik	Genterapio
+Tinen	Nano (mito)
+Chiyoda	Kvartalo Ĉijoda
+Edogawa	Kvartalo Edogaŭa
+Bellevue, Washington	Bellevue (Vaŝingtonio)
+Desalinyèn	La Dessalinienne
+Chanm Wilsonn	Nebulkamero
+Jabo	Kropo
+Mikwoklima	Mikroklimato
+Koto	Kvartalo Koto
+Gábor Szegő	Gábor Szegő
+Estomat	Stomo
+Teleskòp refraktè	Refraktoro
+Espèk emisyon	Energia spektro
+Radyasyon adaptatif	Adapta radiado
+Youngstown, Ohio	Youngstown (Ohio)
+Kap Ayisyen (komin)	Haitia Kabo
+Ithaca, New York	Ithaca (Nov-Jorkio)
+Ka	Ka
+Analiz	Analizo
+Pous	Colo
+Zoltán Lajos Bay	Zoltán Bay
+Boza	Belartoj
+Józef Rotblat	Józef Rotblat
+Anggun	Anggun
+Ekoulman piwoklastik	Piroklasta fluo
+Selil ot	Mastro (biologio)
+Theodore Kaczynski	Theodore Kaczynski
+Walla Walla, Washington	Walla Walla (Vaŝingtonio)
+Fargo	Fargo (filmo)
+Tòti	Testuduloj
+Redmond, Washington	Redmond (Vaŝingtonio)
+Maurice Druon	Maurice Druon
+Aimé Cesaire	Aimé Césaire
+Estrikti analòg	Homologio (biologio)
+Forks, Washington	Forks
+Zufre (Huelva)	Zufre
+Apaxco	Apaxco
+Georges-Louis Leclerc	Georges-Louis Leclerc de Buffon
+Setagaya	Kvartalo Setagaja
+Monreyal (menm non)	Montréal
+Arakawa	Kvartalo Arakaŭa
+Katsushika	Kvartalo Kacuŝika
+Itabashi	Kvartalo Itabaŝi
+Taito	Kvartalo Taito
+Peoria, Ilinwa	Peoria (Ilinojso)
+Aberdeen, Washington	Aberdeen (Vaŝingtonio)
+Rockford, Ilinwa	Rockford (Ilinojo)
+Vancouver, Washington	Vancouver (Vaŝingtonio)
+Erie, Pennsilvani	Erie (Pensilvanio)
+Nakano	Kvartalo Nakano
+Benzoliv	Moringa oleifera
+Stanislaw Ulam	Stanisław Ulam
+Hollywood, Florid	Hollywood (Florido)
+Ang kritik	Tuteca ena reflekto
+Kita	Kvartalo Kita-ku (Tokio)
+Sumida	Kvartalo Sumida
+Ajil (non)	TON
+Toshima	Kvartalo Toŝima
+Reading, Pennsilvani	Reading (Pensilvanio)
+Rou (objè ron)	Disko (matematiko)
+90 (nonm)	90 (nombro)
+Columbus, Georgie	Columbus (Georgio)
+Deadache	Deadache
+58 (nonm)	58 (nombro)
+72 (nonm)	72 (nombro)
+Efè Tyndall	Efiko Tyndall
+Pinar del Río, Kiba	Pinar del Río
+Clearwater, Florid	Clearwater (Florido)
+Willebrord Snel van Royen	Willebrord Snell
+Holguín, Kiba	Holguín
+Denis	Denizo de Parizo
+Komedyen	Komikisto
+Solenoyid	Solenoido
+Vitès reyaksyon	Reakcia rapido
+Chehalis, Washington	Chehalis (Vaŝingtonio)
+Melanj	MIX
+Ao dai	Aŭzajo
+Campotéjar (Grenad)	Campotéjar
+Alanís (Seville)	Alanís
+Boustabak	Krestobeka anio
+Larchmont, New York	Larchmont (Novjorkio)
+Nenf	Nimfo
+Humboldt, Iowa	Humboldt (Iovao)
+Zo	Osto
+Selil vòltayik	Pilo
+Lagonav (il)	Gonavo
+Mirlande Manigat	Mirlande Manigat
+Fiksasyon azòt	Nitrogena fiksado
+Matanzas, Kiba	Matanzas (urbo)
+Ektodèm	Ektodermo
+Fòmil anpirik	Minimuma formulo
+Peter Tosh	Peter Tosh
+Melan	Merlango
+Nòmal (dyagram reyon)	Surfaca normalo
+Denaturasyon	Denaturiĝo de proteinoj
+Konjigezon	Bakteria kunjugiĝo
+Edouard Glissant	Édouard Glissant
+Edouard Lucas	Édouard Lucas
+Kachiman kanèl	Sukerpomo
+92 (nonm)	92 (nombro)
+James Dewar	James Dewar
+84 (nonm)	84 (nombro)
+Pietro Cataldi	Pietro Cataldi
+96 (nonm)	96 (nombro)
+Villablanca (Huelva)	Villablanca
+Englewood Cliffs, New Jersey	Englewood Cliffs
+43 (nonm)	43 (nombro)
+Mereng	Merengo
+Eastsound, Washington	Eastsound (Vaŝingtonio)
+Pèch (espò)	Fiŝhokado
+Bélmez de la Moraleda (Jaén)	Bélmez de la Moraleda
+Ѳ	Fita
+Sanibel, Florid	Sanibel (Florido)
+Kristalizasyon	Kristaliĝo
+Lafayette, Kalifòni	Lafayette (Kalifornio)
+87 (nonm)	87 (nombro)
+Marion, Indiana	Marion
+Rialto, Kalifòni	Rialto (Kalifornio)
+54 (nonm)	54 (nombro)
+Albion, Ilinwa	Albion (Ilinojo)
+Monreyal (il)	Insulo Montrealo
+Orgiva (Grenad)	Órgiva
+Malè	Malè
+Make	Make
+Vadillo	Vadillo
+Replik	Posttertremo
+Peristaltis	Peristalto
+Kalmason	Heliko
+Avianca	Avianca
+Jean Giraud	Jean Giraud
+Anpil	Kvanto
+Rudjer Josip Boscovich	Boŝkoviĉ
+Henry Moseley	Henry Moseley
+Ludolph van Ceulen	Ludolph van Ceulen
+Jean-Claude Duvalier	Jean-Claude Duvalier
+Nicole Oresme	Nikolao de Oresme
+René Antoine Ferchault de Réaumur	René-Antoine Ferchault de Réaumur
+Don Miguel	Mikaelo la 1-a (Portugalio)
+Michelet	Jules Michelet
+Neil deGrasse Tyson	Neil deGrasse Tyson
+Janne Rydberg	Johannes Rydberg
+Chiyonofuji Mitsugu	Chiyonofuji Mitsugu
+Mouvman retwograd	Retrograda orbito
+Nguyen Du	Nguyen Du
+Jagadish Chandra Bose	Jagadish Chandra Bose
+Ousmane Sembene	Ousmane Sembene
+Laurent Lafforgue	Laurent Lafforgue
+Andrei Okounkov	Andrej Okunkov
+Paul Painleve	Paul Painlevé
+Kochle	Koĥleo
+Joplin, Missouri	Joplin (Misurio)
+Henri Salvador	Henri Salvador
+Babez for Breakfast	Babez for Breakfast
+Taihō Kōki	Taiho Koki
+Militon	Ĉajoto
+Abla (Almería)	Abla
+Keenen Ivory Wayans	Keenen Ivory Wayans
+John Maynard Smith	John Maynard Smith
+Loránd Eötvös	Loránd Eötvös
+Peter Lax	Péter Lax
+Simi Valley, Kalifòni	Simi Valley
+Fairfield, Kalifòni	Fairfield (Kalifornio)
+Mezodèm	Mezodermo
+Sergei Vavilov	Sergej Vavilov
+Clarksville, Tennessee	Clarksville (Tenesio)
+Bouche	Buĉisto
+Úbeda (Jaén)	Úbeda
+Ѣ	Jato
+Oak Park, Ilinwa	Oak Park (Ilinojo)
+Andodèm	Endodermo
+Chimyosentèz	Kemisintezo
+Laj absoli	Absoluta kronologio
+Loja (Grenad)	Loja (Granada)
+Desmond Dekker	Desmond Dekker
+Solisyon sisatire	Supersaturita solvaĵo
+Newport News, Vijini	Newport News
+Stephen Cole Kleene	Stephen Kleene
+88 (nonm)	88 (nombro)
+Acworth, Georgie	Acworth (Georgio)
+Giovanni Battista Venturi	Giovanni Battista Venturi
+Gabriel Lame	Gabriel Lamé
+Sèl (materyo chimik)	Salz
+El Cajon, Kalifòni	El Cajon
+Paul Halmos	Pál Halmos
+Paprika Korps	Paprika Korps
+Daly City	Dalyurbo
+Pembroke Pines, Florid	Pembroke Pines
+Escondido, Kalifòni	Escondido
+Bipèd	Dupiedulo
+Estherville, Iowa	Estherville (Iovao)
+Koulè segondè	Miksita koloro
+Chittagong	Ĉitagongo
+Almaluez	Almaluez
+Régis Debray	Régis Debray
+Tamariyo	Solanum betaceum
+Oliver Lodge	Oliver Lodge
+Ovil	Ovolo (plantoscienco)
+Louis Slotin	Louis Slotin
+Degre	Grado (apartigilo)
+Begíjar (Jaén)	Begíjar
+Disip	Disĉiplo
+Malibu, Kalifòni	Malibu
+Centennial, Kolorado	Centennial
+Pis	Pulo
+Matie	Evangelio laŭ Mateo
+Everett, Washington	Everett (Vaŝingtonio)
+Agenor	Agenoro
+Agudo	Agudo (Suda Rio-Grando)
+Fen (non)	END
+Ajuricaba	Ajuricaba
+Aki	Blighia sapida
+Zòn entètidal	Vadmaro
+Ocean Shores, Washington	Ocean Shores (Vaŝingtonio)
+Moraleda de Zafayona (Grenad)	Moraleda de Zafayona
+Salobreña (Grenad)	Salobreña
+85 (nonm)	85 (nombro)
+Vyolèt	Viola
+Los Palacios y Villafranca (Seville)	Los Palacios y Villafranca
+Woz (koulè)	Roza
+Bellingham, Washington	Bellingham (Vaŝingtonio)
+Sycamore, Ilinwa	Sycamore (Ilinojo)
+27 (nonm)	27 (nombro)
+35 (nonm)	35 (nombro)
+64 (nonm)	64 (nombro)
+99 (nonm)	99 (nombro)
+AN	An
+Alájar (Huelva)	Alájar
+Modèl:TLP	TLP
+Janos Galambos	János Galambos
+Liv Mòman	Libro de Mormon
+Idrat	Hidrato
+Cape Coral, Florid	Cape Coral
+Lakewood, Kolorado	Lakewood (Koloradio)
+Leslie Manigat	Leslie Manigat
+Pyotr Nikolaevich Lebedev	Pjotr Lebedev
+Kachiman	Reteta anono
+Polyan	Poluilo
+Kantaloup	Kantalupo
+Zizye	Maĉstomako
+Coritiba Foot Ball Club	Coritiba Foot Ball Club
+Aewopò Tan Son Nhat	Flughaveno Tan Son Nhat
+Imaj	Bildo
+Atis	Artisto
+Aliud	Aliud
+Anacortes, Washington	Anacortes (Vaŝingtonio)
+Adaptasyon	Adaptado
+Baraona	Baraona
+Degre oksidasyon	Oksidiĝa nombro
+Medinaceli	Medinaceli
+Berkeley, Kalifòni	Berkeley (Kalifornio)
+Marbella (Málaga)	Marbella
+Láchar (Grenad)	Láchar
+El Burgo de Osma-Ciudad de Osma	Burgo de Osma
+Pasadena, Kalifòni	Pasadena (Kalifornio)
+Key West, Florid	Key West
+Odè	Odoro
+Glendale, Kalifòni	Glendale (Kalifornio)
+Suellacabras	Suellacabras
+Yanguas	Yanguas
+Get Heavy	Get Heavy
+San Bernardino, Kalifòni	San Bernardino (Kalifornio)
+The Arockalypse	The Arockalypse
+Deriv jenetik	Genetika derivo
+Cedar Rapids, Iowa	Cedar Rapids
+Evansville, Indiana	Evansville
+Kansas City, Kansas	Kansasurbo (Kansaso)
+Rochester, Minnesota	Rochester (Minesoto)
+Mountain View, Kalifòni	Mountain View (Kalifornio)
+Pomona, Kalifòni	Pomona (Kalifornio)
+South Bend, Indiana	South Bend
+Compton, Kalifòni	Compton (Kalifornio)
+Minot	Minot (Norda Dakoto)
+Monterey, Kalifòni	Monterey
+San Esteban de Gormaz	San Esteban de Gormaz
+The Monsterican Dream	The Monsterican Dream
+Saint Marys, Iowa	Kantono Pottawattamie (Iovao)
+Yakutat (Alaska)	Yakutat
+Sunbury, Georgie	Kantono Liberty (Georgio)
+Iowa City, Iowa	Iowa City (Iovao)
+Gainesville, Florid	Gainesville (Florido)
+Salinas, Kalifòni	Salinas (Kalifornio)
+Ontario, Kalifòni	Ontario (Kalifornio)
+Baeza (Jaén)	Baeza
+Oceanside, Kalifòni	Oceanside (Kalifornio)
+Palmdale, Kalifòni	Palmdale
+Downey, Kalifòni	Downey (Kalifornio)
+Torrance, Kalifòni	Torrance
+Bloomington, Indiana	Bloomington
+Ventura, Kalifòni	Ventura
+Concord, Kalifòni	Concord (Kalifornio)
+Baza (Grenad)	Baza (Granada)
+Biloxi, Mississippi	Biloxi
+Fort Collins, Kolorado	Fort Collins
+Alameda, Kalifòni	Alameda (Kalifornio)
+Carlsbad, Kalifòni	Carlsbad (Kalifornio)
+Hayward, Kalifòni	Hayward (Kalifornio)
+Fontana, Kalifòni	Fontana (Kalifornio)
+Santa Clarita, Kalifòni	Santa Clarita
+Roseville, Kalifòni	Roseville (Kalifornio)
+Orange, Kalifòni	Orange (Kalifornio)
+Berja (Almería)	Berja
+Fuengirola (Málaga)	Fuengirola
+Torremolinos (Málaga)	Torremolinos
+Vélez-Málaga (Málaga)	Vélez-Málaga
+Mijas (Málaga)	Mijas
+Estepona (Málaga)	Estepona
+Walnut Creek, Kalifòni	Walnut Creek (Kalifornio)
+Carson, Kalifòni	Carson (Kalifornio)
+Corona, Kalifòni	Corona
+Lancaster, Kalifòni	Lancaster (Kalifornio)
+Norwalk, Kalifòni	Norwalk (Kalifornio)
+Moreno Valley, Kalifòni	Moreno Valley
+Fullerton, Kalifòni	Fullerton (Kalifornio)
+West Covina, Kalifòni	Okcidenta Covina
+Alcalá de Guadaira (Seville)	Alcalá de Guadaira
+Victorville, Kalifòni	Victorville
+Antioch, Kalifòni	Antioch (Kalifornio)
+Rancho Cucamonga, Kalifòni	Rancho Cucamonga
+Visalia, Kalifòni	Visalia (Kalifornio)
+Richmond, Kalifòni	Richmond (Kalifornio)
+Depouy	Gisado
+Idaho Falls, Idaho	Idaho Falls
+Mojácar (Almería)	Mojácar
+Sikilasyon kowonè	Koronaria angio
+Tyler, Texas	Tyler (Teksaso)
+Emeryville, Kalifòni	Emeryville (Kalifornio)
+Roquetas de Mar (Almería)	Roquetas de Mar
+Costa Mesa, Kalifòni	Costa Mesa
+Pòmsitè	Spondias dulcis
+Overland Park, Kansas	Overland Park
+Lepe (Huelva)	Lepe
+Murfreesboro, Tennessee	Murfreesboro (Tenesio)
+Katilaj	Kartilago
+Lucena (Cordoue)	Lucena
+Dèm	Dermo
+Coral Springs, Florid	Coral Springs
+Decatur, Ilinwa	Dekaturo (Ilinojo)
+Mission Viejo, Kalifòni	Mission Viejo
+Martinez, Kalifòni	Martinez (Kalifornio)
+El Granado (Huelva)	El Granado
+Canonsburg, Pennsilvani	Canonsburg (Pensilvanio)
+Harrisonburg, Vijini	Harisonburg
+Cañamaque	Cañamaque
+Algona, Washington	Algona (Vaŝingtonio)
+Jèn dominant	Ceda heredo
+Navaleno	Navaleno
+56 (nonm)	56 (nombro)
+Ne	Nodo (kunigo)
+Andújar (Jaén)	Andújar
+Valdelarco (Huelva)	Valdelarco
+Almonaster la Real (Huelva)	Almonaster la Real
+89 (nonm)	89 (nombro)
+Paul Davies	Paul Charles William Davies
+Wynton Kelly	Wynton Kelly
+George Francis FitzGerald	George FitzGerald
+Rosal de la Frontera (Huelva)	Rosal de la Frontera
+Kratè	Kratero
+Peligros (Grenad)	Peligros
+Maurice Lemoine	Maurice Lemoine
+76 (nonm)	76 (nombro)
+Prosser, Washington	Prosser (Vaŝingtonio)
+29 (nonm)	29 (nombro)
+Plainfield, New Jersey	Plainfield (Nov-Ĵerzejo)
+Ugíjar (Grenad)	Ugíjar
+Tèmit	Termito
+Cijuela (Grenad)	Cijuela
+Richmond, Indiana	Richmond (Indianio)
+Atarfe (Grenad)	Atarfe
+Armilla (Grenad)	Armilla
+Fil	Drato
+Busquístar (Grenad)	Busquístar
+Cádiar (Grenad)	Cádiar
+Cáñar (Grenad)	Cáñar
+Cástaras (Grenad)	Cástaras
+Darro (Grenad)	Darro (Granada)
+Christian Kramp	Christian Kramp
+Joan Fuster	Joan Fuster
+Albolote (Grenad)	Albolote
+Eurolang	Eŭrolango
+Antequera (Málaga)	Antequera
+Gor (Grenad)	Gor (Granada)
+Allenbach	Allenbach
+Huéscar (Grenad)	Huéscar
+Quincy, Ilinwa	Quincy (Ilinojo)
+Nauvoo, Ilinwa	Nauvoo (Ilinojso)
+Waverly, Ilinwa	Waverly (Ilinojso)
+Highland Park, Ilinwa	Highland Park (Ilinojo)
+Trévago	Trévago
+Molvízar (Grenad)	Molvízar
+Nwazèt	Avelo
+Thornton, Kolorado	Thornton (Koloradio)
+Marchal (Grenad)	Marchal (Granada)
+Lentejí (Grenad)	Lentegí
+Alhama de Almería (Almería)	Alhama de Almería
+La Malahá (Grenad)	La Malahá
+Maracena (Grenad)	Maracena
+Leyogàn (komin)	Léogâne
+71 (nonm)	71 (nombro)
+28 (nonm)	28 (nombro)
+Baños de la Encina (Jaén)	Baños de la Encina
+Arvada, Kolorado	Arvada (Koloradio)
+59 (nonm)	59 (nombro)
+Olathe, Kansas	Olathe (Kansaso)
+Montejícar (Grenad)	Montejícar
+Montefrío (Grenad)	Montefrio
+Morelábor (Grenad)	Morelábor
+62 (nonm)	62 (nombro)
+Moraga, Kalifòni	Moraga (Kalifornio)
+95 (nonm)	95 (nombro)
+El Monte, Kalifòni	El Monte
+Muskego, Wisconsin	Muskego (Viskonsino)
+Alcudia de Monteagud (Almería)	Alcudia de Monteagud
+Dévanos	Dévanos
+38 (nonm)	38 (nombro)
+Negòs	Komerco
+Chautauqua, New York	Chautauqua
+75 (nonm)	75 (nombro)
+Pampaneira (Grenad)	Pampaneira
+Nevada (Grenad)	Nevada (Granada)
+Otívar (Grenad)	Otívar
+Orce (Grenad)	Orce
+Otura (Grenad)	Villa de Otura
+Morro Bay, Kalifòni	Morro Bay (Kalifornio)
+Nigüelas (Grenad)	Nigüelas
+Shelbyville, Indiana	Shelbyville
+Nòdwès	Nord-Ouest (Haitio)
+Morón de la Frontera (Seville)	Morón de la Frontera
+Elma, Washington	Elma (Vaŝingtonio)
+Pedro-Martínez (Grenad)	Pedro Martínez
+Polícar (Grenad)	Polícar
+Santa Cruz del Comercio (Grenad)	Santa Cruz del Comercio
+Sorvilán (Grenad)	Sorvilán
+Soportújar (Grenad)	Soportújar
+Salar (Grenad)	Salar (Granada)
+Puebla de Don Fadrique (Grenad)	Puebla de Don Fadrique
+Skagway (Alaska)	Skagway
+Valle del Zalabí (Grenad)	Valle del Zalabí
+Torvizcón (Grenad)	Torvizcón
+Vegas del Genil (Grenad)	Vegas del Genil
+Trevélez (Grenad)	Trevélez
+La Tahá (Grenad)	La Taha
+Válor (Grenad)	Válor
+Torre-Cardela (Grenad)	Torre-Cardela
+Villanueva de las Torres (Grenad)	Villanueva de las Torres
+Villanueva Mesía (Grenad)	Villanueva Mesía
+Vélez de Benaudalla (Grenad)	Vélez de Benaudalla
+Inglewood, Kalifòni	Inglewood (Kalifornio)
+Palos de la Frontera (Huelva)	Palos de la Frontera
+Ólvega	Ólvega
+Anprent	Stampado (psikologio)
+Aracena (Huelva)	Aracena
+45 (nonm)	45 (nombro)
+Manzanilla (Huelva)	Manzanilla
+Lubrín (Almería)	Lubrín
+Lè (jewoloji)	Erao (tempo)
+Ominide	Homedoj
+Alcalá la Real (Jaén)	Alcalá la Real
+Byoloji konsèvasyon	Konserva biologio
+Depatman	Departemento
+65 (nonm)	65 (nombro)
+Tarpon Springs, Florid	Tarpon Springs (Florido)
+Bloomfield, New Jersey	Bloomfield (New Jersey)
+Ѵ	Iĵica
+Magaña	Magaña
+Espèk	Spektro
+Bonney Lake, Washington	Bonney Lake (Vaŝingtonio)
+Auburn, Washington	Auburn (Vaŝingtonio)
+68 (nonm)	68 (nombro)
+Karayib	Karibio
+Tupelo, Mississippi	Tupelo (Misisipio)
+Port Saint Lucie, Florid	Port St. Lucie
+Fines (Almería)	Fines
+Nivo enèjetik	Energinivelo
+Elk Grove, Kalifòni	Elk Grove (Kalifornio)
+Pompano Beach, Florid	Pompano Beach
+Centenera de Andaluz (Soria)	Centenera de Andaluz
+97 (nonm)	97 (nombro)
+Espejo (Cordoue)	Espejo
+Puebla de Guzmán (Huelva)	Puebla de Guzmán
+Martin Gardner	Martin Gardner
+Renton, Washington	Renton (Vaŝingtonio)
+94 (nonm)	94 (nombro)
+55 (nonm)	55 (nombro)
+Hawthorne, Kalifòni	Hawthorne (Kalifornio)
+91 (nonm)	91 (nombro)
+Nextlalpan	Nextlalpan
+Onn transvèsal	Transversa ondo
+Richland, Washington	Richland (Vaŝingtonio)
+Bowling Green, Kentucky	Bowling Green (Kentukio)
+Martos (Jaén)	Martos
+Bailén (Jaén)	Bailén
+Laujar de Andarax (Almería)	Laujar de Andarax
+Huécija (Almería)	Huécija
+Bryan, Texas	Bryan (Teksaso)
+Protoyistwa	Protohistorio
+Culcha Candela	Culcha Candela
+Felix Savart	Félix Savart
+Glann sirenal	Surrena glando
+Ògàn	Organo
+80 (nonm)	80 (nombro)
+21 (nonm)	21 (nombro)
+22 (nonm)	22 (nombro)
+70 (nonm)	70 (nombro)
+50 (nonm)	50 (nombro)
+41 (nonm)	41 (nombro)
+34 (nonm)	34 (nombro)
+33 (nonm)	33 (nombro)
+47 (nonm)	47 (nombro)
+31 (nonm)	31 (nombro)
+32 (nonm)	32 (nombro)
+44 (nonm)	44 (nombro)
+46 (nonm)	46 (nombro)
+49 (nonm)	49 (nombro)
+48 (nonm)	48 (nombro)
+37 (nonm)	37 (nombro)
+39 (nonm)	39 (nombro)
+36 (nonm)	36 (nombro)
+53 (nonm)	53 (nombro)
+81 (nonm)	81 (nombro)
+66 (nonm)	66 (nombro)
+63 (nonm)	63 (nombro)
+52 (nonm)	52 (nombro)
+69 (nonm)	69 (nombro)
+73 (nonm)	73 (nombro)
+57 (nonm)	57 (nombro)
+74 (nonm)	74 (nombro)
+79 (nonm)	79 (nombro)
+67 (nonm)	67 (nombro)
+77 (nonm)	77 (nombro)
+83 (nonm)	83 (nombro)
+82 (nonm)	82 (nombro)
+86 (nonm)	86 (nombro)
+78 (nonm)	78 (nombro)
+98 (nonm)	98 (nombro)
+200 (nonm)	200 (nombro)
+Teide Nasyonal Park	Nacia Parko de Teide
+Lenfosit	Limfocito
+Ekilib	Mekanika ekvilibro
+Koton	Kotonujo
+Miami Gardens, Florid	Miami Gardens
+Ñuble (provens)	Provinco Ñuble
+Cabra del Santo Cristo (Jaén)	Cabra del Santo Cristo
+Punxsutawney, Pennsilvani	Punxsutawney
+Pèdri	Perdix
+Colquitt, Georgie	Colquitt (Georgio)
+Ayamonte (Huelva)	Ayamonte
+Punta Umbría (Huelva)	Punta Umbría
+Almonte (Huelva)	Almonte
+Isla Cristina (Huelva)	Isla Cristina
+Almócita (Almería)	Almócita
+UNICEF	UNICEF
+Tolox (Málaga)	Tolox
+Saint Joseph, Missouri	Sankta Jozefo (Misurio)
+Miramar, Florid	Miramar (Florido)
+Wilkes-Barre, Pennsilvani	Wilkes-Barre
+East Rutherford, New Jersey	East Rutherford (Nov-Ĵerzejo)
+Gentleman	Ĝentlemano
+Atchison, Kansas	Atchison (Kansaso)
+Lantiy	Lenso (optiko)
+Earlham, Iowa	Earlham (Iovao)
+Aewopò Da Nang	Flughaveno Da Nang
+61 (nonm)	61 (nombro)
+Patinay	Glitkurado
+Campillo de Arenas (Jaén)	Campillo de Arenas
+Moguer (Huelva)	Moguer
+Titusville, Pennsilvani	Titusville (Pensilvanio)
+Bainbridge Island, Washington	Bainbridge Island (Vaŝingtonio)
+42 (nonm)	42 (nombro)
+Benaojan (Málaga)	Benaoján
+Palm Bay, Florid	Palm Bay
+Min	Minejo
+Federal Way, Washington	Federal Way (Vaŝingtonio)
+Almarza	Almarza
+Niebla (Huelva)	Niebla
+Sausalito, Kalifòni	Sausalito (Kalifornio)
+Andospò	Endosporo
+Aldealices	Aldealices
+Aldealafuente	Aldealafuente
+Alentisque	Alentisque
+Adradas	Adradas
+Alconaba	Alconaba
+Abejar	Abejar
+Almajano	Almajano
+Arenillas	Arenillas
+Aldealpozo	Aldealpozo
+Alcubilla de las Peñas	Alcubilla de las Peñas
+Aldealseñor	Aldealseñor
+Alcubilla de Avellaneda	Alcubilla de Avellaneda
+Covaleda	Covaleda
+Casarejos	Casarejos
+Cerbón	Cerbón
+Calatañazor (Soria)	Calatañazor
+Almazul	Almazul
+Cidones (Soria)	Cidones
+Alpanseque	Alpanseque
+Arcos de Jalón	Arcos de Jalón
+Aldehuela de Periáñez	Aldehuela de Periáñez
+Beratón	Beratón
+Almenar de Soria	Almenar de Soria
+Maján (Soria)	Maján
+Coscurita (Soria)	Coscurita
+Barcones	Barcones
+Castilfrío de la Sierra	Castilfrío de la Sierra
+Castilruiz	Castilruiz
+Miño de Medinaceli	Miño de Medinaceli
+Vinuesa	Vinuesa
+Cigudosa	Cigudosa
+Candilichera	Candilichera
+Ausejo de la Sierra	Ausejo de la Sierra
+Carabantes	Carabantes
+Soliedra (Soria)	Soliedra
+Taroda (Soria)	Taroda
+Nepas (Soria)	Nepas
+Valtajeros	Valtajeros
+Arévalo de la Sierra	Arévalo de la Sierra
+Pozalmuro	Pozalmuro
+Cabrejas del Pinar	Cabrejas del Pinar
+Villasayas	Villasayas
+Ondlèt	Ondosimilaĵo
+Cubilla	Cubilla
+Castillejo de Robledo	Castillejo de Robledo
+Escobosa de Almazán (Soria)	Escobosa de Almazán
+Estepa de San Juan	Estepa de San Juan
+Carrascosa de la Sierra	Carrascosa de la Sierra
+Las Aldehuelas	Las Aldehuelas
+Bayubas de Arriba	Bayubas de Arriba
+Borobia	Borobia
+Bliecos	Bliecos
+Buberos	Buberos
+Muriel Viejo	Muriel Viejo
+Oncala	Oncala
+Fuentecambrón	Fuentecambrón
+Cabrejas del Campo	Cabrejas del Campo
+Frechilla de Almazán (Soria)	Frechilla de Almazán
+Valdelagua del Cerro	Valdelagua del Cerro
+Ciria	Ciria
+Buitrago	Buitrago
+Talveila	Talveila
+Salduero	Salduero
+Fuentes de Magaña	Fuentes de Magaña
+Viana de Duero (Soria)	Viana de Duero
+Tardelcuende (Soria)	Tardelcuende
+Duruelo de la Sierra	Duruelo de la Sierra
+Bayubas de Abajo (Soria)	Bayubas de Abajo
+Fuentearmegil	Fuentearmegil
+Fuentelmonge	Fuentelmonge
+Rollamienta	Rollamienta
+Villar del Ala	Villar del Ala
+Velilla de los Ajos (Soria)	Velilla de los Ajos
+Momblona (Soria)	Momblona
+Fresno de Caracena	Fresno de Caracena
+Valdegeña	Valdegeña
+Velamazán (Soria)	Velamazán
+Torlengua	Torlengua
+Fuentecantos	Fuentecantos
+Carrascosa de Abajo	Carrascosa de Abajo
+Pinilla del Campo	Pinilla del Campo
+Serón de Nágima	Serón de Nágima
+Blacos (Soria)	Blacos
+Valdeavellano de Tera	Valdeavellano de Tera
+Narros	Narros
+Valdeprado	Valdeprado
+Borjabad (Soria)	Borjabad
+Fuentelsaz de Soria	Fuentelsaz de Soria
+San Leonardo de Yagüe	San Leonardo de Yagüe
+Muriel de la Fuente	Muriel de la Fuente
+Villar del Río	Villar del Río
+Valderrodilla (Soria)	Valderrodilla
+Espejón	Espejón
+Matalebreras	Matalebreras
+Quintana Redonda (Soria)	Quintana Redonda
+Nafría de Ucero	Nafría de Ucero
+Sotillo del Rincón	Sotillo del Rincón
+Torrubia de Soria	Torrubia de Soria
+Noviercas	Noviercas
+Tajueco (Soria)	Tajueco
+Valdenebro (Soria)	Valdenebro
+Villaciervos (Soria)	Villaciervos
+Yelo	Yelo
+Montenegro de Cameros	Montenegro de Cameros
+Poetik	Poetiko
+Langa de Duero	Langa de Duero
+Quiñonería	Quiñonería
+Villar del Campo	Villar del Campo
+Portillo de Soria	Portillo de Soria
+Gormaz (Soria)	Gormaz
+Santa Cruz de Yanguas	Santa Cruz de Yanguas
+Villaseca de Arciel	Villaseca de Arciel
+Reznos	Reznos
+Cueva de Ágreda	Cueva de Ágreda
+Nolay (Soria)	Nolay
+Cirujales del Río	Cirujales del Río
+Caracena	Caracena
+Cubo de la Solana	Cubo de la Solana
+Miño de San Esteban	Miño de San Esteban
+Fuentestrún	Fuentestrún
+Espeja de San Marcelino	Espeja de San Marcelino
+Matamala de Almazán (Soria)	Matamala de Almazán
+La Póveda de Soria	La Póveda de Soria
+Los Rábanos (Soria)	Los Rábanos
+Quintanas de Gormaz	Quintanas de Gormaz
+Santa María de Huerta	Santa María de Huerta
+San Pedro Manrique	San Pedro Manrique
+Velilla de la Sierra (Soria)	Velilla de la Sierra
+San Felices (Soria)	San Felices
+Renieblas	Renieblas
+Morón de Almazán (Soria)	Morón de Almazán
+Los Villares de Soria	Los Villares de Soria
+Torreblacos (Soria)	Torreblacos
+Vizmanos	Vizmanos
+Tejado	Tejado
+Monteagudo de las Vicarías	Monteagudo de las Vicarías
+La Riba de Escalote (Soria)	La Riba de Escalote
+Montejo de Tiermes	Montejo de Tiermes
+La Losilla	La Losilla
+Recuerda	Recuerda
+Tajahuerce	Tajahuerce
+Fuentepinilla	Fuentepinilla
+Golmayo	Golmayo
+Rioseco de Soria	Rioseco de Soria
+South Gate, Kalifòni	South Gate (Kalifornio)
+Temecula, Kalifòni	Temecula
+Murrieta, Kalifòni	Murrieta
+Pens	Tenajlo
+Cihuela	Cihuela
+Montejaque (Málaga)	Montejaque
+Sistèm vijezimal	Dudekuma sistemo
+Lagonav (gòf)	Golfo de Gonavo
+Pasco, Washington	Pasco (Vaŝingtonio)
+Latibonit (depatman)	Artibonite
+Kennewick, Washington	Kennewick (Vaŝingtonio)
+Valverde del Camino (Huelva)	Valverde del Camino
+Santiago Tequixquiac	Santiago Tequixquiac
+Sant	Centre (Haitio)
+Boujònman	Burĝonado
+Zwazo palmis	Duledoj
+Forè tanpere imid	Mezvarma pluvarbaro
+Bollullos Par del Condado (Huelva)	Bollullos Par del Condado
+Cartaya (Huelva)	Cartaya
+Istwa Ayiti	Historio de Haitio
+Vacaville, Kalifòni	Vacaville
+Alegrete	Alegrete (Suda Rio-Grando)
+Negritid	Négritude
+Gonayiv (komin)	Les Gonaïves
+Port Angeles, Washington	Port Angeles (Vaŝingtonio)
+VietJet Air	VietJet Air
+Mangliye	Manglo
+Manhattan, Kansas	Manhattan (Kansaso)
+Estimilis	Stimulo
+Kapasite pòtez	Eltena kapacito
+Agrega	Volumenaĵo
+Kelso, Washington	Kelso (Vaŝingtonio)
+Hershey, Pennsilvani	Hershey
+Ellensburg, Washington	Ellensburg (Vaŝingtonio)
+Centralia, Washington	Centralia (Vaŝingtonio)
+Orizon sòl	Grundhorizonto
+Blythe, Kalifòni	Blythe
+Bonita Springs, Florid	Bonita Springs (Florido)
+51 (nonm)	51 (nombro)
+Reny	Regno
+Brattleboro, Vermont	Brattleboro (Vermonto)
+Aewopò Ca Mau	Flughaveno Ca Mau
+Villalba del Alcor (Huelva)	Villalba del Alcor
+La Palma del Condado (Huelva)	La Palma del Condado
+Ekilib dinamik	Dinamika ekvilibro
+Texas City, Texas	Teksasurbo (Teksaso)
+Gibraleón (Huelva)	Gibraleón
+Cala (Huelva)	Cala
+Grandans	Grand'Anse
+Calañas (Huelva)	Calañas
+Aljaraque (Huelva)	Aljaraque
+Aceguá	Aceguá (Brazilo)
+Coos Bay, Oregon	Coos Bay (Oregono)
+Hidden Hills, Kalifòni	Hidden Hills
+Casares (Málaga)	Casares
+Jabugo (Huelva)	Jabugo
+Minas de Riotinto (Huelva)	Minas de Río Tinto
+Vista, Kalifòni	Vista (Kalifornio)
+Nòdès	Nord-Est (Haitio)
+Lexington, Massachusetts	Lexington (Masaĉuseco)
+Alexander Wilson	Alexander Wilson
+Kirtland, Ohio	Kirtland (Ohio)
+Elmira, New York	Elmira (Nov-Jorkio)
+Aleksandr Danilovich Aleksandrov	Aleksandr Aleksandrov
+Port Orchard, Washington	Port Orchard (Vaŝingtonio)
+Disonans	Dissonaĵo
+Oregon, Wisconsin	Oregono (Viskonsino)
+Sid (rejyon jewografik)	Sud (Haitio)
+Sidès	Sud-Est (Haitio)
+Kirkland, Washington	Kirkland (Vaŝingtonio)
+Villanueva de los Castillejos (Huelva)	Villanueva de los Castillejos
+Corsicana, Texas	Corsicana
+Gádor (Almería)	Gádor
+Nò (rejyon jewografik)	Nord (Haitio)
+Campillos (Málaga)	Campillos
+Chim	Ĉimo
+Enix (Almería)	Enix
+Westminster, Kolorado	Westminster (Koloradio)
+Divè	Lanugo
+Kouve	Kovado
+Ferguson, Missouri	Ferguson (Misurio)
+Pierre Vernier	Pierre Vernier
+Cortelazor (Huelva)	Cortelazor
+Almirante Tamandaré do Sul	Almirante Tamandaré do Sul
+Wenatchee, Washington	Wenatchee (Vaŝingtonio)
+Klowofliyokabòn	Fluorklorkarbonhidrogenaĵoj
+Hannibal, Missouri	Hannibal (Misurio)
+Beires (Almería)	Beires
+Inez, Texas	Inez
+Escacena del Campo (Huelva)	Escacena del Campo
+Warrenton, Vijini	Warrenton (Virginio)
+Fredericksburg, Texas	Fredericksburg (Teksaso)
+Chimyoterapi	Kemiterapio
+Clarkston, Washington	Clarkston (Vaŝingtonio)
+Katy, Texas	Katy
+West, Texas	West (Teksaso)
+San Marcos, Texas	San Marcos
+Quintana, Texas	Quintana (Teksaso)
+Sherman, Texas	Sherman (Teksaso)
+Ennio de Giorgi	Ennio de Giorgi
+Robert Daniel Carmichael	Daniel Robert Carmichaël
+Sylvestre François Lacroix	Sylvestre François Lacroix
+Cañaveral de León (Huelva)	Cañaveral de León
+Winterset, Iowa	Winterset (Iovao)
+Longview, Washington	Longview (Vaŝingtonio)
+Enid, Oklahoma	Enid (Oklahomo)
+Paradise, Nevada	Paradise (Nevado)
+Tiburon, Kalifòni	Tiburon
+Conyers, Georgie	Kanjerso
+Molinos de Duero	Molinos de Duero
+Vozmediano	Vozmediano (Soria)
+Hinojosa del Campo	Hinojosa del Campo
+Toppenish, Washington	Toppenish (Vaŝingtonio)
+Kafou (komin)	Carrefour (Haitio)
+Jeremi (komin)	Jérémie (Haitio)
+Woodinville, Washington	Woodinville (Vaŝingtonio)
+Plainfield, Indiana	Plainfield
+Lathrop, Kalifòni	Lathrop
+Montesano, Washington	Montesano (Vaŝingtonio)
+Virginia City, Nevada	Virginiurbo
+East Wenatchee, Washington	East Wenatchee (Vaŝingtonio)
+Greensburg, Kansas	Greensburg (Kansaso)
+Endiksyon elektwomayetik	Elektromagneta indukto
+Hoquiam, Washington	Hoquiam (Vaŝingtonio)
+Sunrise Manor, Nevada	Sunrise Manor
+Lakehurst, New Jersey	Lakehurst (Nov-Ĵerzejo)
+Pagosa Springs, Kolorado	Pagosa Springs
+Seleksyon atifisyèl	Selekta bredado
+Dèlma (komin)	Delmas (Haitio)
+Goldendale, Washington	Goldendale (Vaŝingtonio)
+Orange City, Iowa	Orange City (Iovao)
+Neosho, Missouri	Neosho (Misurio)
+Port Townsend, Washington	Port Townsend (Vaŝingtonio)
+New Harmony, Indiana	New Harmony
+Lusk, Wyoming	Lusk (Vajomingo)
+Glen Ridge Borough, New Jersey	Glen Ridge
+Tanperati pou bouyi	Bolpunkto
+Newton, Kansas	Newton (Kansaso)
+Republic, Washington	Republic (Vaŝingtonio)
+Westport, Washington	Westport (Vaŝingtonio)
+Hammond, Lwizyana	Hammond (Luiziano)
+Lebanon, Pennsilvani	Lebanono (Pensilvanio)
+Fairmount, Indiana	Fairmount
+Vrahovice	Vrahovice
+Lestomak	Stomako
+Oma	Omaro
+Sunnyside, Washington	Sunnyside (Vaŝingtonio)
+Rello (Soria)	Rello
+Misk eskeletik	Stria muskolo
+Cuevas del Almanzora (Almería)	Cuevas del Almanzora
+Chirivel (Almería)	Chirivel
+Rebollar (Soria)	Rebollar (Kastilio kaj Leono)
+Achal Prabhala	Achal Prabhala
+Monroe, Washington	Monroe (Vaŝingtonio)
+Sistèm trinè	Triuma sistemo
+Bardstown, Kentucky	Bardstown (Kentukio)
+Espès egzotik	Enmetitaj specioj
+Cheney, Washington	Cheney (Vaŝingtonio)
+Charles de Bovelles	Charles de Bovelles
+Palmye wayal	Reĝa palmo
+Hendrick Motorsports	Hendrick Motorsports
+Jaden	Ĝardeno
+Carboneras (Almería)	Carboneras
+Níjar (Almería)	Níjar
+Zurgena (Almería)	Zurgena
+Dalías (Almería)	Dalías
+Vícar (Almería)	Vícar
+Abrucena (Almería)	Abrucena
+Coín (Málaga)	Coín
+Zumpango (komin)	Zumpango (Meksikŝtato)
+Enfiltrasyon	Enfiltreblo
+Plant ki gen fèy kadik	Falfolia planto
+Pomeroy, Washington	Pomeroy (Vaŝingtonio)
+Amoni	Harmono
+Pulpí (Almería)	Pulpí
+Fiñana (Almería)	Fiñana
+Benahadux (Almería)	Benahadux
+Vera (Almería)	Vera (Almería)
+Canjáyar (Almería)	Canjáyar
+Bacares (Almería)	Bacares
+María (Almería)	María
+Illar (Almería)	Íllar
+Arboleas (Almería)	Arboleas
+Reyaksyon an chenn	Ĉena reakcio
+Macael (Almería)	Macael
+Benitagla (Almería)	Benitagla
+Sik wòch	Cirkulado de la rokaĵoj
+Dany Laferrière	Dany Laferrière
+Phoenixville, Pennsilvani	Phoenixville (Pensilvanio)
+Swarthmore, Pennsilvani	Swarthmore (Pensilvanio)
+Nanticoke, Pennsilvani	Nanticoke
+Black Diamond, Washington	Black Diamond (Vaŝingtonio)
+Carnation, Washington	Carnation (Vaŝingtonio)
+Woodland, Washington	Woodland (Vaŝingtonio)
+Wikipedya:Anbasad	Vikipedio:Ambasadorejo
+Bokal	Bokalo
+Ekrevis	Kankro (besto)
+Plasenta	Placento
+Ayeropò	Flughaveno
+Eskalè	Skalaro (matematiko)
+Beas de Segura (Jaén)	Beas de Segura
+Arjona (Jaén)	Arjona
+James David Forbes	James David Forbes
+Hubert Reeves	Hubert Reeves
+Lucainena de las Torres (Almería)	Lucainena de las Torres
+Bentarique (Almería)	Bentarique
+Bayarque (Almería)	Bayarque
+Laroya (Almería)	Laroya
+Bayárcal (Almería)	Bayárcal
+Instinción (Almería)	Instinción
+Cóbdar (Almería)	Cóbdar
+Armuña de Almanzora (Almería)	Armuña de Almanzora
+Gérgal (Almería)	Gérgal
+Albanchez (Almería)	Albanchez
+Olula del Río (Almería)	Olula del Río
+Felix (Almería)	Felix
+Lúcar (Almería)	Lúcar
+Alicún (Almería)	Alicún
+Cantoria (Almería)	Cantoria
+Chercos (Almería)	Chercos
+Turre (Almería)	Turre
+Líjar (Almería)	Líjar
+Fondón (Almería)	Fondón
+Laurent Voulzy	Laurent Voulzy
+Buckley, Washington	Buckley (Vaŝingtonio)
+Souprefekti	Subprefektujo
+Alcóntar (Almería)	Alcóntar
+Թ	T'o (armena litero)
+Ի	Ini (armena litero)
+Է	Eh (armena litero)
+Ժ	Ĵe (armena litero)
+Ը	Et' (armena litero)
+Խ	Ĥeh (armena litero)
+300 (nonm)	300 (nombro)
+Kitikil	Kutiklo
+Albox (Almería)	Albox
+Turrillas (Almería)	Turrillas
+Castro de Filabres (Almería)	Castro de Filabres
+Garrucha (Almería)	Garrucha
+Kategori:Almay	Kategorio:Germanio
+Kategori:Etazini	Kategorio:Usono
+Kategori:Risi	Kategorio:Rusio
+Kategori:Kanada	Kategorio:Kanado
+Kategori:Wayòm Ini	Kategorio:Unuiĝinta Reĝlando
+Kategori:Espay	Kategorio:Hispanio
+Kategori:Nouvèl Zelann	Kategorio:Nov-Zelando
+Siwèl	Spondias purpurea
+Կ	Ken (armena litero)
+Ծ	Tza (armena litero)
+Yerachi dominan	Dominhierarkio
+Alhabia (Almería)	Alhabia
+Rioja (Almería)	Rioja (Almería)
+Alcolea (Almería)	Alcolea
+Oria (Almería)	Oria (Almería)
+Alboloduy (Almería)	Alboloduy
+San Juan del Puerto (Huelva)	San Juan del Puerto
+Benizalón (Almería)	Benizalón
+Alsodux (Almería)	Alsodux
+Ohanes (Almería)	Ohanes
+Olula de Castro (Almería)	Olula de Castro
+Purchena (Almería)	Purchena
+Encinasola (Huelva)	Encinasola
+El Cerro de Andévalo (Huelva)	El Cerro de Andévalo
+Pechina (Almería)	Pechina
+Padules (Almería)	Padules
+Paterna del Río (Almería)	Paterna del Río
+Partaloa (Almería)	Partaloa
+Kategori:Kiba	Kategorio:Kubo
+Kategori:Polòy	Kategorio:Pollando
+Kategori:Kore disid	Kategorio:Sud-Koreio
+Kategori:Swis	Kategorio:Svislando
+Kategori:Vyetnam	Kategorio:Vjetnamio
+Kategori:Fizik	Kategorio:Fiziko
+Kategori:Syans natirèl	Kategorio:Naturscienco
+Kategori:Biyoloji	Kategorio:Biologio
+Kategori:Chimi	Kategorio:Kemio
+Kategori:Istwa	Kategorio:Historio
+Kategori:Jewografi	Kategorio:Geografio
+Kategori:Sosyete	Kategorio:Socio
+Kategori:La vizyèl	Kategorio:Vidaj artoj
+Kategori:Relijyon	Kategorio:Religio
+Kategori:Espò	Kategorio:Sporto
+Tonanitla	Tonanitla
+Kategori:Syans	Kategorio:Scienco
+Kategori:Sinema	Kategorio:Kino
+Kategori:Latè	Kategorio:Tero
+Albaida del Aljarafe (Seville)	Albaida del Aljarafe
+Hueypoxtla (komin)	Hueypoxtla
+Airway Heights, Washington	Airway Heights (Vaŝingtonio)
+Tumwater, Washington	Tumwater
+Darrington, Washington	Darrington (Vaŝingtonio)
+Ephrata, Washington	Ephrata (Vaŝingtonio)
+Ruston, Washington	Ruston (Vaŝingtonio)
+Steilacoom, Washington	Steilacoom (Vaŝingtonio)
+Beaux Arts Village, Washington	Beaux Arts Village (Vaŝingtonio)
+Edgewood, Washington	Edgewood (Vaŝingtonio)
+Kettle Falls, Washington	Kettle Falls (Vaŝingtonio)
+Fife, Washington	Fife (Vaŝingtonio)
+Othello, Washington	Othello (Vaŝingtonio)
+Ritzville, Washington	Ritzville (Vaŝingtonio)
+Enumclaw, Washington	Enumclaw
+Coupeville, Washington	Coupeville (Vaŝingtonio)
+University Place, Washington	University Place (Vaŝingtonio)
+Quincy, Washington	Quincy (Vaŝingtonio)
+Eatonville, Washington	Eatonville (Vaŝingtonio)
+Spanaway, Washington	Spanaway (Vaŝingtonio)
+Roy, Washington	Roy (Vaŝingtonio)
+Orting, Washington	Orting (Vaŝingtonio)
+Cosmopolis, Washington	Cosmopolis (Vaŝingtonio)
+Carbonado, Washington	Carbonado (Vaŝingtonio)
+Ketchum, Idaho	Ketchum (Idaho)
+Ճ	Ĉeh (armena litero)
+Մ	Men (armena litero)
+Ձ	Dza (armena litero)
+Չ	Ĉa (armena litero)
+Պ	Peh (armena litero)
+Ջ	Tĵeh (armena litero)
+Ր	Reh (armena litero)
+Վ	Vev (armena litero)
+Ն	Nu (armena litero)
+Յ	Ji (armena litero)
+Շ	Ŝa (armena litero)
+Ռ	Rra (armena litero)
+Ո	Vo (armena litero)
+Փ	Pjur (armena litero)
+Ց	Co (armena litero)
+Menasha, Wisconsin	Menasha
+Տ	Tjun (armena litero)
+Ւ	Jiun (armena litero)
+Ք	Qeh (armena litero)
+Ս	Seh (armena litero)
+Rágol (Almería)	Rágol
+Castellar de la Frontera (Cadix)	Castellar de la Frontera
+Castillo de Locubín (Jaén)	Castillo de Locubín
+Albanchez de Mágina (Jaén)	Albanchez de Mágina
+Paymogo (Huelva)	Paymogo
+Alameda (Málaga)	Alameda (Málaga, Hispanio)
+Zalamea la Real (Huelva)	Zalamea la Real
+Cambil (Jaén)	Cambil
+Arquillos (Jaén)	Arquillos
+Canena (Jaén)	Canena
+Alcaudete (Jaén)	Alcaudete
+Arjonilla (Jaén)	Arjonilla
+Rociana del Condado (Huelva)	Rociana del Condado
+Trigueros (Huelva)	Trigueros
+San Bartolomé de la Torre (Huelva)	San Bartolomé de la Torre
+Lucena del Puerto (Huelva)	Lucena del Puerto
+Santa Olalla del Cala (Huelva)	Santa Olalla del Cala
+Hinojos (Huelva)	Hinojos
+Alosno (Huelva)	Alosno
+Cortegana (Huelva)	Cortegana
+Campofrío (Huelva)	Campofrío
+Cumbres Mayores (Huelva)	Cumbres Mayores
+Galaroza (Huelva)	Galaroza
+Paterna del Campo (Huelva)	Paterna del Campo
+Chucena (Huelva)	Chucena
+Higuera de la Sierra (Huelva)	Higuera de la Sierra
+Bonares (Huelva)	Bonares
+Cumbres de Enmedio (Huelva)	Cumbres de Enmedio
+Aroche (Huelva)	Aroche
+Sòsyè	Sorĉistino
+Villarrasa (Huelva)	Villarrasa
+Santa Bárbara de Casa (Huelva)	Santa Bárbara de Casa
+Oki	Hokeo
+Alfarnatejo (Málaga)	Alfarnatejo
+El Burgo (Málaga)	El Burgo
+Ardales (Málaga)	Ardales
+Pujerra (Málaga)	Pujerra
+Arriate (Málaga)	Arriate (Malago)
+Alpandeire (Málaga)	Alpandeire
+Villanueva de las Cruces (Huelva)	Villanueva de las Cruces
+Benadalid (Málaga)	Benadalid
+Cartajima (Málaga)	Cartajima
+Santa Ana la Real (Huelva)	Santa Ana la Real
+San Silvestre de Guzmán (Huelva)	San Silvestre de Guzmán
+Parauta (Málaga)	Parauta
+Sanlúcar de Guadiana (Huelva)	Sanlúcar de Guadiana
+Alozaina (Málaga)	Alozaina
+Teba (Málaga)	Teba
+Puerto Moral (Huelva)	Puerto Moral
+Almargen (Málaga)	Almargen
+Algatocín (Málaga)	Algatocín
+Arroyomolinos de León (Huelva)	Arroyomolinos de León
+Benatae (Jaén)	Benatae
+Nacimiento (Almería)	Nacimiento, Al
+Cazalilla (Jaén)	Cazalilla
+Aldeaquemada (Jaén)	Aldeaquemada
+Fuenteheridos (Huelva)	Fuenteheridos
+Asid fò	Forta acido
+La Granada de Río-Tinto (Huelva)	La Granada de Riotinto
+Corteconcepción (Huelva)	Corteconcepción
+Hinojales (Huelva)	Hinojales
+Cabezas Rubias (Huelva)	Cabezas Rubias
+La Nava (Huelva)	La Nava
+Cumbres de San Bartolomé (Huelva)	Cumbres de San Bartolomé
+Lugros (Grenad)	Lugros
+El Almendro (Huelva)	El Almendro
+Los Marines (Huelva)	Los Marines
+Linares de la Sierra (Huelva)	Linares de la Sierra
+Beas (Huelva)	Beas
+Carboneros (Jaén)	Carboneros
+Castaño del Robledo (Huelva)	Castaño del Robledo
+Nerva (Huelva)	Nerva (Onubo)
+El Campillo (Huelva)	El Campillo (Onubo)
+Yunquera (Málaga)	Yunquera
+Ivan Niven	Ivan M. Niven
+Santa Eufemia (Cordoue)	Santa Eufemia
+Tryo	Tryo
+Newport, Kentucky	Newport (Kentukio)
+Glasgow, Kentucky	Glasgow (Kentukio)
+Armstrong, Iowa	Armstrong (Iovao)
+Berrocal (Huelva)	Berrocal (Huelva)
+Hugo, Oklahoma	Hugo (Oklahomo)
+Rezo alimantè	Manĝoreto
+Powo	Poreo
+Sikui	Elektronika cirkvito
+Romaren	Rosmareno
+Dakota City, Iowa	Dakotaurbo (Iovao)
+Spillville, Iowa	Spillville
+Jounalis	Ĵurnalisto
+Kategori:Menm non	Kategorio:Apartigiloj
+Kategori:Filozofi	Kategorio:Filozofio
+Kategori:Boudis	Kategorio:Budhismo
+Kategori:Krisyanis	Kategorio:Kristanismo
+Kategori:Endouyis	Kategorio:Hinduismo
+Kategori:Islamis	Kategorio:Islamo
+Kategori:Jidayis	Kategorio:Judismo
+Cutler Bay, Florid	Cutler Bay (Florido)
+Glen Ridge, Florid	Glen Ridge (Florido)
+Fort Thomas, Kentucky	Fort Thomas (Kentukio)
+Zaviron	Remilo
+Komin Almazán	Regiono de Almazán
+Richard of Wallingford	Rikardo de Wallingford
+Pattern	Patroneo
+Èg	Aglo
+Jip	Jupo
+Sevierville, Tennessee	Sevierville (Tenesio)
+Koko	Vulvo
+Kòk	Virkoko
+Pine Lake, Wisconsin	Pine Lake (Viskonsino)
+Wyalusing, Wisconsin	Wyalusing (Viskonsino)
+Twit	Truto
+Semès	Semestro
+Sheffield, Massachusetts	Sheffield (Masaĉuseco)
+Ա	Ajb (armena litero)
+Fwonn	Frondo (botaniko)
+Ton	Tinuso
+Emma Smith	Emma Hale Smith Bidamon
+Komin Tierra de Medinaceli	Tierra de Medinaceli
+Komin Pinares	Regiono de Pinares
+Tierras del Burgo	Tierras del Burgo
+Komin Soria	Regiono de Sorio
+Tierras Altas	Tierras Altas (Sorio)
+Հ	Ho (armena litero)
+Chenn	Ĉeno
+Campo de Gómara	Campo de Gómara
+Marlborough, Connecticut	Marlborough (Konektikuto)
+Goshen, Connecticut	Goshen (Konektikuto)
+Peachtree City, Georgie	Peachtree City
+Ե	Jeĉ (armena litero)
+Bruno Abakanowicz	Bruno Abakanowicz
+Գ	Gim (armena litero)
+Զ	Za (armena litero)
+Դ	Da (armena litero)
+Լ	Ljun (armena litero)
+Բ	Ben (armena litero)
+Ղ	Ghad (armena litero)
+Grafèm	Grafemo
+Dayton, Indiana	Dayton (Indianio)
+Raharimanana	Jean-Luc Raharimanana
+Colville, Washington	Colville (Vaŝingtonio)
+Morèn	Moreno
+Koray (komin)	Corail (Haitio)
+Ֆ	Feh (armena litero)
+Օ	Oh (armena litero)
+Andalusia, Ilinwa	Andalusia (Ilinojo)
+Vòl	Ŝtelo
+Howland, Maine	Howland (Majno)
+Calumet, Oklahoma	Calumet (Oklahomo)
+Wowoli	Hindia sezamo
+Bloomfield, Kentucky	Bloomfield (Kentukio)
+Somon	Salmo
+Bishop Hill, Ilinwa	Bishop Hill (Ilinojo)
+Branch	Branĉo
+Kategori:Planèt	Kategorio:Planedoj
+Kategori:Kilti	Kategorio:Kulturo
+Sant mas	Masocentro
+Kategori:Lane	Kategorio:Jaroj
+Kategori:Syans imèn	Kategorio:Homa scienco
+Kategori:Kontinan	Kategorio:Kontinentoj
+Kategori:Jewoloji	Kategorio:Geologio
+Kategori:Lis	Kategorio:Listoj
+Mahmoud Hessaby	Hesabi
+Ekipotansyèl	Ekvipotencialo
+Dèt	Ŝuldo
+Dite	Dureco
+Tan modèn	Moderna epoko
+Biya	Bilardo
+Kann	Sukerkano
+Aks optik	Optika akso
+Joseph City, Arizona	Joseph City (Arizono)
+Denmark, Maine	Denmark (Majno)
+Konsantrasyon	Koncentriteco
+Casablanca, Avan	Kazablanko (Havano)
+Leopold Leau	Léopold Leau
+Speed	Rapido
+Kanna	Anaso
+Mas atomik	Atomomaso
+Navè	Rapo
+Kategori:Ameriken	Kategorio:Usonanoj
+Modèl:Tl	Ŝablono:Ŝ
+Opinyon	Opinio
+Kategori:Peyi	Kategorio:Landoj
+Seksyalite	Sekseco
+Kategori:Moun	Kategorio:Personoj
+Wikipedya:Bòt	Vikipedio:Roboto
+Kategori:Entènet	Kategorio:Interreto
+Kategori:Etid plant	Kategorio:Botaniko
+Kategori:Enjenieri	Kategorio:Inĝenierarto
+Kategori:Medsin	Kategorio:Medicino
+Kategori:Politik	Kategorio:Politiko
+Kategori:Aprantisay	Kategorio:Edukado
+Kategori:La	Kategorio:Arto
+Ejip	Egiptujo
+Najwa	Naĝilo
+Modèl:Bot	Ŝablono:Bot
+Kanada	Kanado
+Kategori:Syèd	Kategorio:Svedio
+Kategori:Peyi nan Ewòp	Kategorio:Eŭropaj landoj
+Kategori:Ewòp	Kategorio:Eŭropo
+Kondiktibilite	Elektra konduktivo
+Modèl:Documentation	Ŝablono:Dok
+Kategori:Pou efase	Kategorio:Vikipedio:Forigoj
+Kategori:Administratè	Kategorio:Vikipedio:Administrantoj
+Kategori:Lang User	Kategorio:Vikipediistoj laŭ lingvo
+Sung Jae-gi	Sung Jae-gi
+Biznis	Profitcela organizaĵo
+Modèl:Softredirect	Ŝablono:Intervikia plusendilo
+Modèl:Efase	Ŝablono:Forigu tuj
+Kategori:Teknoloji	Kategorio:Teknologio
+Kategori:Lang	Kategorio:Lingvoj
+Kategori:Almanak	Kategorio:Kalendaro
+Kategori:Wikipedya	Kategorio:Vikipedio
+Wikipedya:Avètisman jeneral	Vikipedio:Malgarantio
+Solda	Soldato
+Modèl:Navbox	Ŝablono:Navigilo2
+Kangourou	Kanguruo
+Sadin	Sardino
+Lajistis	Justeco
+Lis	Lilio
+Prim	Premio
+Avantaj mekanik	Transmisia rilatumo
+Modèl:!	Ŝablono:!
+Modèl:!-	Ŝablono:!-
+Modèl:Tnavbar	Ŝablono:Tnavbar
+Lafwa	Fido
+Antwopoyid	Simiulo
+Kategori:Afrik	Kategorio:Afriko
+Kategori:Nonm	Kategorio:Nombroj
+Kategori:Elektwonik	Kategorio:Elektroniko
+Kategori:Bib	Kategorio:Biblio
+Modèl:Babel	Ŝablono:Babelejo
+Modèl:Commons	Ŝablono:Commons
+Modèl:Reflist	Ŝablono:Referencoj
+Modèl:Eboch	Ŝablono:Ĝermo
+Modèl:User ar-1	Ŝablono:Vikipediisto ar-1
+Modèl:User eo-1	Ŝablono:Vikipediisto eo-1
+Modèl:User da-2	Ŝablono:Vikipediisto da-2
+Modèl:User da	Ŝablono:Vikipediisto da
+Modèl:User ca-1	Ŝablono:Vikipediisto ca-1
+Modèl:User ca-4	Ŝablono:Vikipediisto ca-4
+Modèl:User da-1	Ŝablono:Vikipediisto da-1
+Modèl:User eo-3	Ŝablono:Vikipediisto eo-3
+Modèl:User de	Ŝablono:Vikipediisto de
+Modèl:User de-1	Ŝablono:Vikipediisto de-1
+Modèl:User es	Ŝablono:Vikipediisto es
+Modèl:User de-3	Ŝablono:Vikipediisto de-3
+Modèl:User en-3	Ŝablono:Vikipediisto en-3
+Modèl:User en-1	Ŝablono:Vikipediisto en-1
+Modèl:User en-2	Ŝablono:Vikipediisto en-2
+Modèl:User eo-2	Ŝablono:Vikipediisto eo-2
+Modèl:User en-4	Ŝablono:Vikipediisto en-4
+Modèl:User fi	Ŝablono:Vikipediisto fi-D
+Modèl:User en-0	Ŝablono:Vikipediisto en-0
+Modèl:User es-4	Ŝablono:Vikipediisto es-4
+Modèl:User en	Ŝablono:Vikipediisto en
+Modèl:User de-2	Ŝablono:Vikipediisto de-2
+Modèl:User es-1	Ŝablono:Vikipediisto es-1
+Modèl:User fi-1	Ŝablono:Vikipediisto fi-1
+Modèl:User fr-1	Ŝablono:Vikipediisto fr-1
+Modèl:User ia-2	Ŝablono:Vikipediisto ia-2
+Modèl:User io-3	Ŝablono:Vikipediisto io-3
+Modèl:User it-3	Ŝablono:Vikipediisto it-3
+Modèl:User ja-4	Ŝablono:Vikipediisto ja-4
+Modèl:User ja	Ŝablono:Vikipediisto ja
+Modèl:User ja-1	Ŝablono:Vikipediisto ja-1
+Modèl:User it-1	Ŝablono:Vikipediisto it-1
+Modèl:User fr	Ŝablono:Vikipediisto fr
+Kategori:Azerbaydjan	Kategorio:Azerbajĝano
+Kategori:Soria provens	Kategorio:Provinco Sorio
+Kategori:User uk	Kategorio:Vikipediisto uk
+Kategori:Kastil ak Leon	Kategorio:Kastilio kaj Leono
+Kategori:User uk-N	Kategorio:Vikipediisto uk-D
+Modèl:Esoteric	Ŝablono:Esotera
+Modèl:Mod	Ŝablono:Mod
+Modèl:User it	Ŝablono:Vikipediisto it
+Modèl:User uk	Ŝablono:Vikipediisto uk
+Modèl:User es-2	Ŝablono:Vikipediisto es-2
+Modèl:Wikipediasister	Ŝablono:ĈefPaĝo/AliajProjektoj
+Kategori:Semèn	Kategorio:Tagoj de la semajno
+Kategori:Satelit toutotou Latè	Kategorio:Luno
+Kategori:Òganizasyon	Kategorio:Organizaĵoj
+Kategori:Lengwistik	Kategorio:Lingvoscienco
+Kategori:User fr-1	Kategorio:Vikipediisto fr-1
+Kategori:Im	Kategorio:Naciaj himnoj
+Modèl:Bwat Peyi	Ŝablono:Informkesto lando
+Modèl:Cite journal	Ŝablono:Citaĵo el gazeto
+Kategori:User en-4	Kategorio:Vikipediisto en-4
+Kategori:User en	Kategorio:Vikipediisto en
+Kategori:User zh	Kategorio:Vikipediisto zh
+Kategori:User zh-N	Kategorio:Vikipediisto zh-D
+Kategori:User en-2	Kategorio:Vikipediisto en-2
+Modèl:Infobox	Ŝablono:Informkesto
+Modèl:User eo	Ŝablono:Vikipediisto eo
+Modèl:User zh	Ŝablono:Vikipediisto zh
+Kategori:Alfabèt	Kategorio:Alfabeto
+Modèl:Template other	Ŝablono:Ĉu ŝablono
+Modèl:User ru-4	Ŝablono:Vikipediisto ru-4
+Modèl:Pp-template	Ŝablono:Pp-ŝablono
+Modèl:User nl-1	Ŝablono:Vikipediisto nl-1
+Modèl:User nl-2	Ŝablono:Vikipediisto nl-2
+Kategori:Vil Alabama	Kategorio:Urboj de Alabamo
+Kategori:Agrikilti	Kategorio:Agrikulturo
+Kategori:Vil nan Masachosèt	Kategorio:Urboj de Masaĉuseco
+Kategori:Prezidan	Kategorio:Prezidantoj
+Modèl:User ru	Ŝablono:Vikipediisto ru
+Kategori:Politisyen	Kategorio:Politikistoj
+Kategori:Planèt nan sistèm solè	Kategorio:Sunsistemaj planedoj
+Kategori:Peryòd istorik	Kategorio:Historio laŭ periodoj
+Kategori:Kominote otonòm nan Espay	Kategorio:Aŭtonomaj Komunumoj de Hispanio
+Modèl:User eo-4	Ŝablono:Vikipediisto eo-4
+Kategori:Ekriven	Kategorio:Verkistoj
+Kategori:Alfabèt sirilik	Kategorio:Cirila alfabeto
+Modèl:User pl	Ŝablono:Vikipediisto pl
+Modèl:User nl	Ŝablono:Vikipediisto nl
+Modèl:User no-2	Ŝablono:Vikipediisto no-2
+Kategori:Penti	Kategorio:Pentrado
+Kategori:Aeropor nan Vyetnam	Kategorio:Flughavenoj de Vietnamio
+Modèl:Emergency-bot-shutoff	Ŝablono:Butono por forbari robotojn
+Modèl:User pl-1	Ŝablono:Vikipediisto pl-1
+Modèl:User fr-3	Ŝablono:Vikipediisto fr-3
+Modèl:Pp-meta	Ŝablono:Pp-meta
+Modèl:User nds-1	Ŝablono:Vikipediisto nds-1
+Modèl:Oppose	Ŝablono:Kontraŭ
+Modèl:User is-1	Ŝablono:Vikipediisto is-1
+Modèl:User is-2	Ŝablono:Vikipediisto is-2
+Modèl:User ar-2	Ŝablono:Vikipediisto ar-2
+Modèl:User ar-3	Ŝablono:Vikipediisto ar-3
+Modèl:User is	Ŝablono:Vikipediisto is
+Modèl:Itilizatè SUL	Ŝablono:Uzanto SUL
+Kategori:User ja-N	Kategorio:Vikipediisto ja-D
+Kategori:Satin	Kategorio:Saturno
+Kategori:Mèki	Kategorio:Merkuro
+Kategori:Vil nan Etazini	Kategorio:Urboj de Usono
+Kategori:Karayib	Kategorio:Karibio
+Modèl:Menm non	Ŝablono:Apartigilo
+Modèl:User no-3	Ŝablono:Vikipediisto no-3
+Modèl:User no	Ŝablono:Vikipediisto no
+Kategori:Vil nan Florid	Kategorio:Urboj de Florido
+Modèl:AlfabètToc	Ŝablono:Kategoria indekso
+Kategori:Vil nan Kansas	Kategorio:Urboj de Kansaso
+Kategori:Achitekti	Kategorio:Arkitekturo
+Kategori:Vil nan Wisconsin	Kategorio:Urboj de Viskonsino
+Modèl:User sv-2	Ŝablono:Vikipediisto sv-2
+Modèl:User it-2	Ŝablono:Vikipediisto it-2
+Modèl:User fr-4	Ŝablono:Vikipediisto fr-4
+Modèl:User la-1	Ŝablono:Vikipediisto la-1
+Kategori:User eo	Kategorio:Vikipediisto eo
+Kategori:User fr	Kategorio:Vikipediisto fr
+Kategori:User ia	Kategorio:Vikipediisto ia
+Kategori:User ja	Kategorio:Vikipediisto ja
+Kategori:User nn	Kategorio:Vikipediisto nn
+Kategori:User pt	Kategorio:Vikipediisto pt
+Kategori:User sv	Kategorio:Vikipediisto sv
+Kategori:User fr-3	Kategorio:Vikipediisto fr-3
+Kategori:User it-3	Kategorio:Vikipediisto it-3
+Kategori:User ja-3	Kategorio:Vikipediisto ja-3
+Kategori:User pl-3	Kategorio:Vikipediisto pl-3
+Kategori:User ar-3	Kategorio:Vikipediisto ar-3
+Kategori:User da-1	Kategorio:Vikipediisto da-1
+Kategori:User fi-1	Kategorio:Vikipediisto fi-1
+Kategori:User nl-1	Kategorio:Vikipediisto nl-1
+Kategori:User ar-1	Kategorio:Vikipediisto ar-1
+Kategori:User fr-4	Kategorio:Vikipediisto fr-4
+Kategori:User it-4	Kategorio:Vikipediisto it-4
+Kategori:User da-2	Kategorio:Vikipediisto da-2
+Kategori:User fr-2	Kategorio:Vikipediisto fr-2
+Kategori:User ia-2	Kategorio:Vikipediisto ia-2
+Kategori:User it-2	Kategorio:Vikipediisto it-2
+Kategori:User ja-2	Kategorio:Vikipediisto ja-2
+Kategori:User sv-2	Kategorio:Vikipediisto sv-2
+Kategori:User ar-2	Kategorio:Vikipediisto ar-2
+Kategori:User cs-N	Kategorio:Vikipediisto cs-D
+Kategori:User fr-N	Kategorio:Vikipediisto fr-D
+Kategori:User it-N	Kategorio:Vikipediisto it-D
+Kategori:User nl-N	Kategorio:Vikipediisto nl-D
+Kategori:User no-N	Kategorio:Vikipediisto no-D
+Kategori:User ru-N	Kategorio:Vikipediisto ru-D
+Kategori:User ar-N	Kategorio:Vikipediisto ar-D
+Kategori:Divètisman	Kategorio:Distrado
+Kategori:User ar	Kategorio:Vikipediisto ar
+Kategori:User ca	Kategorio:Vikipediisto ca
+Kategori:User ca-1	Kategorio:Vikipediisto ca-1
+Kategori:User ca-2	Kategorio:Vikipediisto ca-2
+Kategori:User ca-3	Kategorio:Vikipediisto ca-3
+Kategori:User ca-4	Kategorio:Vikipediisto ca-4
+Kategori:User ca-N	Kategorio:Vikipediisto ca-D
+Kategori:User cs	Kategorio:Vikipediisto cs
+Kategori:Vil nan Soria	Kategorio:Komunumoj de Sorio
+Kategori:Il	Kategorio:Insuloj
+Kategori:User da	Kategorio:Vikipediisto da
+Kategori:Quang Binh	Kategorio:Provinco Quang Binh
+Kategori:Vil nan Kastil ak Leon	Kategorio:Komunumoj de Kastilio kaj Leono
+Kategori:User da-3	Kategorio:Vikipediisto da-3
+Kategori:User da-4	Kategorio:Vikipediisto da-4
+Kategori:User de	Kategorio:Vikipediisto de
+Kategori:User de-2	Kategorio:Vikipediisto de-2
+Kategori:User de-3	Kategorio:Vikipediisto de-3
+Kategori:User de-4	Kategorio:Vikipediisto de-4
+Kategori:User de-N	Kategorio:Vikipediisto de-D
+Kategori:User en-3	Kategorio:Vikipediisto en-3
+Kategori:User en-N	Kategorio:Vikipediisto en-D
+Kategori:User eo-1	Kategorio:Vikipediisto eo-1
+Kategori:User eo-2	Kategorio:Vikipediisto eo-2
+Kategori:User eo-3	Kategorio:Vikipediisto eo-3
+Kategori:User eo-4	Kategorio:Vikipediisto eo-4
+Kategori:User eo-N	Kategorio:Vikipediisto eo-D
+Kategori:User es	Kategorio:Vikipediisto es
+Kategori:User es-1	Kategorio:Vikipediisto es-1
+Kategori:User es-2	Kategorio:Vikipediisto es-2
+Kategori:User es-3	Kategorio:Vikipediisto es-3
+Kategori:User es-4	Kategorio:Vikipediisto es-4
+Kategori:User es-N	Kategorio:Vikipediisto es-D
+Kategori:User fi	Kategorio:Vikipediisto fi
+Kategori:User fi-2	Kategorio:Vikipediisto fi-2
+Kategori:User fi-3	Kategorio:Vikipediisto fi-3
+Kategori:User fi-4	Kategorio:Vikipediisto fi-4
+Kategori:User fi-N	Kategorio:Vikipediisto fi-D
+Kategori:User io	Kategorio:Vikipediisto io
+Kategori:User is	Kategorio:Vikipediisto is
+Kategori:User is-1	Kategorio:Vikipediisto is-1
+Kategori:Alfabèt ebre	Kategorio:Hebrea alfabeto
+Kategori:User pl-N	Kategorio:Vikipediisto pl-D
+È	Erao
+Kategori:Jewometri	Kategorio:Geometrio
+Kategori:Vil nan Israyèl	Kategorio:Urboj de Israelo
+Kategori:Atis	Kategorio:Artistoj
+Kategori:User it	Kategorio:Vikipediisto it
+Kategori:User it-1	Kategorio:Vikipediisto it-1
+Kategori:User ja-1	Kategorio:Vikipediisto ja-1
+Kategori:User ko	Kategorio:Vikipediisto ko
+Kategori:Eta nan Etazini	Kategorio:Usonaj ŝtatoj
+Kategori:User ko-3	Kategorio:Vikipediisto ko-3
+Modèl:Depatman nan Ayiti	Ŝablono:Departementoj de Haitio
+Modèl:Komin Pinares	Ŝablono:Regiono de Pinares
+Kategori:Pwovens peyi Vyetnam	Kategorio:Provincoj de Vjetnamio
+Kategori:Masyal atistik	Kategorio:Luktoarto
+Kategori:Vil nan Frans	Kategorio:Urboj de Francio
+Kategori:Interlingua	Kategorio:Interlingvao
+Èpès senpleks	Herpeto
+Kategori:User ru-1	Kategorio:Vikipediisto ru-1
+Pou (ensèk)	Laŭso
+Modèl:User sv-1	Ŝablono:Vikipediisto sv-1
+Kategori:Vil nan Polòy	Kategorio:Urboj de Pollando
+Kategori:Vil nan kore disid	Kategorio:Urboj de Sud-Koreio
+Kategori:Tipografi	Kategorio:Tipografio
+Kategori:Vil nan Alzas	Kategorio:Komunumoj de Alzaco
+Kategori:Enfòmatik	Kategorio:Komputiko
+Kategori:Sistèm solè	Kategorio:Sunsistemo
+Kategori:Endistri	Kategorio:Industrio
+Tach solè	Sunmakulo
+Modèl:User da-3	Ŝablono:Vikipediisto da-3
+Modèl:User ja-2	Ŝablono:Vikipediisto ja-2
+Modèl:User ru-2	Ŝablono:Vikipediisto ru-2
+Modèl:User es-3	Ŝablono:Vikipediisto es-3
+Kategori:Mas	Kategorio:Marso
+Modèl:User ja-3	Ŝablono:Vikipediisto ja-3
+Modèl:User ko-3	Ŝablono:Vikipediisto ko-3
+Kategori:User ru	Kategorio:Vikipediisto ru
+Kategori:User ru-4	Kategorio:Vikipediisto ru-4
+Kategori:User sv-1	Kategorio:Vikipediisto sv-1
+Kategori:User sv-N	Kategorio:Vikipediisto sv-D
+Kategori:User tr	Kategorio:Vikipediisto tr
+Kategori:User tr-N	Kategorio:Vikipediisto tr-D
+Kategori:Mizisyen	Kategorio:Muzikistoj
+Kategori:Matematisyen ris	Kategorio:Matematikistoj de Rusio
+Koub ipsometrik	Izolinio
+Modèl:User ca	Ŝablono:Vikipediisto ca
+Modèl:User sv-3	Ŝablono:Vikipediisto sv-3
+Kategori:Merilann	Kategorio:Marilando
+Kategori:Ekriven franse	Kategorio:Francaj verkistoj
+Kategori:Ekriven ameriken	Kategorio:Usonaj verkistoj
+Kategori:2010	Kategorio:2010
+Kategori:Istwa Dayiti	Kategorio:Historio de Haitio
+Kategori:Kategori eponim	Kategorio:Eponimaj kategorioj
+Modèl:User ca-2	Ŝablono:Vikipediisto ca-2
+Modèl:User ca-3	Ŝablono:Vikipediisto ca-3
+Modèl:User fi-2	Ŝablono:Vikipediisto fi-2
+Modèl:User fi-3	Ŝablono:Vikipediisto fi-3
+Modèl:User ko	Ŝablono:Vikipediisto ko-D
+Modèl:User nn-2	Ŝablono:Vikipediisto nn-2
+Modèl:User no-1	Ŝablono:Vikipediisto no-1
+Modèl:User pl-2	Ŝablono:Vikipediisto pl-2
+Modèl:User pt	Ŝablono:Vikipediisto pt
+Modèl:User ru-1	Ŝablono:Vikipediisto ru-1
+Kategori:Ayisyen	Kategorio:Haitianoj
+Kategori:Kanadyen	Kategorio:Kanadanoj
+Kategori:User nl	Kategorio:Vikipediisto nl
+Kategori:User nn-3	Kategorio:Vikipediisto nn-3
+Kategori:User no-2	Kategorio:Vikipediisto no-2
+Kategori:User no	Kategorio:Vikipediisto no
+Kategori:User zh-1	Kategorio:Vikipediisto zh-1
+Kategori:User zh-2	Kategorio:Vikipediisto zh-2
+Kategori:Ameni	Kategorio:Armenio
+Kategori:Matematisyen alman	Kategorio:Germanaj matematikistoj
+Kategori:Matematisyen ameriken	Kategorio:Usonaj matematikistoj
+Kategori:Matematisyen kanadyen	Kategorio:Kanadaj matematikistoj
+Kategori:Nonm antye	Kategorio:Entjeroj
+Kategori:Ris	Kategorio:Rusoj
+Kategori:Biyòm	Kategorio:Biomoj
+Kategori:Matematisyen franse	Kategorio:Francaj matematikistoj
+Kategori:Jipitè	Kategorio:Jupitero
+Kategori:Eleman chimik	Kategorio:Kemiaj elementoj
+Kategori:Fanm politik	Kategorio:Politikistinoj
+Kategori:Politisyen ayisyen	Kategorio:Haitiaj politikistoj
+Kategori:Matematisyen britanik	Kategorio:Britaj matematikistoj
+Modèl:User de-4	Ŝablono:Vikipediisto de-4
+Kategori:Prezidan Etazini	Kategorio:Prezidantoj de Usono
+Kategori:Kostarika	Kategorio:Kostariko
+Kategori:Irigwe	Kategorio:Urugvajo
+Kategori:Ayiti	Kategorio:Haitio
+Paradise Cay, Kalifòni	Paradise Cay
+Kategori:Jezikris	Kategorio:Jesuo Kristo
+Kategori:Oseyan	Kategorio:Oceanoj
+Kategori:Vil nan Venezwela	Kategorio:Urboj de Venezuelo
+Kategori:Sezon	Kategorio:Sezonoj
+Kategori:366 jou yo nan almanak gregoryen	Kategorio:Almanako
+Kategori:Repiblik	Kategorio:Respublikoj
+Kategori:Peyi skandinav	Kategorio:Skandinavio
+Kategori:Peyi nan Amerik disid	Kategorio:Sudamerikaj landoj
+Kategori:Pak nasyonal Vyetnam	Kategorio:Naciaj parkoj de Vjetnamio
+Kategori:Il nan Karayib	Kategorio:Insuloj en Karibio
+Kategori:Mitoloji grèk	Kategorio:Helena mitologio
+Kategori:Sèks	Kategorio:Sekso
+Kategori:Kapital	Kategorio:Ĉefurboj
+Kategori:Vil nan Kanada	Kategorio:Urboj de Kanado
+Kategori:Vil nan Georgie	Kategorio:Urboj de Georgio
+Kategori:Vil nan Merilann	Kategorio:Urboj de Marilando
+Kategori:Andalouzi	Kategorio:Andaluzio
+Kategori:Telekominikasyon	Kategorio:Telekomunikado
+Kategori:Maladi	Kategorio:Malsanoj
+Kategori:Hô-Chi-Minh-Vil	Kategorio:Ho-Chi-Minh-urbo
+Kategori:User pl	Kategorio:Vikipediisto pl
+Kategori:Transpò	Kategorio:Transporto
+Kategori:Solèy	Kategorio:Suno
+Kategori:Galaksi	Kategorio:Galaksioj
+Kategori:Amerik dinò	Kategorio:Nordameriko
+Kategori:Matematisyen	Kategorio:Matematikistoj
+Kategori:Fizisyen	Kategorio:Fizikistoj
+Kategori:Atlèt	Kategorio:Sportistoj
+Kategori:Demokrasi	Kategorio:Demokratio
+Kategori:Medikaman	Kategorio:Medikamentoj
+Karòt	Karoto
+Kategori:Kilti nan Venezwela	Kategorio:Kulturo de Venezuelo
+Kategori:Vil Vyetnam	Kategorio:Urboj de Vjetnamio
+Kategori:Vil nan Brezil	Kategorio:Urboj de Brazilo
+Kategori:Vil nan Espay	Kategorio:Urboj de Hispanio
+Kategori:Vil nan Ayiti	Kategorio:Urboj de Haitio
+Kategori:Vil nan Kiba	Kategorio:Urboj de Kubo
+Kategori:Il nan Ayiti	Kategorio:Insuloj en Haitio
+Kategori:Legliz Jezikri pou Sen Dènye Jou yo	Kategorio:Eklezio de Jesuo Kristo de la Sanktuloj de la Lastaj Tagoj
+Kategori:Kolektivite tèritoryal	Kategorio:Subnaciaj unuoj
+Kategori:Lekòl	Kategorio:Lernejoj
+Modèl:User pl-3	Ŝablono:Vikipediisto pl-3
+Trojany	Trojany
+Kategori:Fanm ekriven	Kategorio:Verkistinoj
+Yanm	Ignamo
+Kategori:Peyi nan Azi	Kategorio:Aziaj landoj
+Kategori:Peyi nan Amerik	Kategorio:Amerikaj landoj
+Modèl:User is-3	Ŝablono:Vikipediisto is-3
+Kategori:Lalwa	Kategorio:Leĝaro
+Kategori:Aljèb	Kategorio:Algebro
+Kategori:Alfabèt amenyen	Kategorio:Armena alfabeto
+Kategori:Liv Mòman	Kategorio:Libro de Mormon
+Kategori:Depatman nan Ayiti	Kategorio:Departementoj de Haitio
+Kategori:Vil nan Mississippi	Kategorio:Urboj de Misisipio
+Kategori:Vil nan Missourii	Kategorio:Urboj de Misurio
+Kategori:Vil nan Nebraska	Kategorio:Urboj de Nebrasko
+Kategori:Vil nan Oregon	Kategorio:Urboj de Oregono
+Kategori:Alfabèt grèk	Kategorio:Greka alfabeto
+Kategori:Mizisyen ayisyen	Kategorio:Haitiaj muzikistoj
+Kategori:Anachi	Kategorio:Anarkiismo
+Kategori:Atis panyòl	Kategorio:Hispanaj artistoj
+Kategori:Enprimri	Kategorio:Presado
+Kategori:Pwovens Cadix	Kategorio:Provinco Cádiz
+Kategori:Vil nan Rio Grande fè Sul	Kategorio:Municipoj de Suda Rio-Grando
+Kategori:Vil Alaska	Kategorio:Urboj de Alasko
+Kategori:Vil nan Ohio	Kategorio:Urboj de Ohio
+Kategori:Vil nan Texas	Kategorio:Urboj de Teksaso
+Kategori:Prezidan Ayiti	Kategorio:Prezidantoj de Haitio
+Kategori:Chif	Kategorio:Ciferoj
+Kategori:Vil	Kategorio:Urboj
+Gèp	Vespo
+Kategori:Komin yo nan Soria provens	Kategorio:Regionoj de Sorio
+Kategori:Fanm	Kategorio:Virino
+Kategori:Nonm natirèl	Kategorio:Naturaj nombroj
+Modèl:Lane sa nan tout almanak yo	Ŝablono:Jaro en la aliaj kalendaroj
+Modèl:User nn-3	Ŝablono:Vikipediisto nn-3
+Kategori:User en-1	Kategorio:Vikipediisto en-1
+Kategori:User de-1	Kategorio:Vikipediisto de-1
+Kategori:User da-N	Kategorio:Vikipediisto da-D
+Tik	Iksodo
+Modèl:Itilizatè WMfr	Ŝablono:Vikipediisto WMfr
+Frè	Frato
+Modèl:User nn-1	Ŝablono:Vikipediisto nn-1
+Modèl:User ru-3	Ŝablono:Vikipediisto ru-3
+Modèl:User nl-3	Ŝablono:Vikipediisto nl-3
+Modèl:User nn	Ŝablono:Vikipediisto nn
+Modèl:User sv-4	Ŝablono:Vikipediisto sv-4
+Papiyon	Rhopalocera
+Radi	Kultiva rafano
+Chè (non)	Karno
+Wikipedya:Lis Wikipedyen pa nonm edisyon yo fè	Vikipedio:Listo de uzantoj laŭ redaktonombro
+Module:Yesno	Modulo:Yesno
+Espesyal:ChanjmanResan	Specialaĵo:Lastaj ŝanĝoj
+Kategori:User ja-4	Kategorio:Vikipediisto ja-4
+Module:HtmlBuilder	Modulo:HtmlBuilder
+Module:InfoboxImage	Modulo:InfoboxImage

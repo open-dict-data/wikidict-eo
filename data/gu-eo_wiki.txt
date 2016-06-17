@@ -1,0 +1,2576 @@
+આફ્રિકા	Afriko
+જાપાન	Japanio
+દક્ષિણ અમેરિકા	Sudameriko
+નોર્વે	Norvegio
+વેલ્સ	Kimrio
+નોર્ધન આયર્લેન્ડ	Nord-Irlando
+હંગેરી	Hungario
+સ્પેન	Hispanio
+સંયુક્ત રાજ્ય અમેરિકા	Usono
+બેલ્જિયમ	Belgio
+લક્ઝેમ્બર્ગ	Luksemburgo (lando)
+બ્રહ્માંડ	Universo
+પૃથ્વી	Tero
+મનુષ્ય	Homo
+ફીનલેંડ	Finnlando
+સ્વિડન	Svedio
+પોલેંડ	Pollando
+લિથુઆનિયા	Litovio
+ઈટલી	Italio
+સ્વિત્ઝરલેન્ડ	Svislando
+ઑસ્ટ્રિયા	Aŭstrio
+ગ્રીસ	Grekio
+તુર્કસ્તાન	Turkio
+પોર્ટુગલ	Portugalio
+યુરોપ	Eŭropo
+એશિયા	Azio
+ઉત્તર અમેરિકા	Nordameriko
+ઍન્ટાર્કટિકા	Antarkto
+વિકિપીડિયા	Vikipedio
+નેધરલેંડ	Nederlando
+PHP (પ્રોગ્રામિંગ ભાષા)	PHP
+એર બસ	Airbus
+સંગણક	Komputilo
+ઇન્ટરનેટ	Interreto
+ઉરુગ્વે	Urugvajo
+કમ્પ્યુટર પ્રિન્ટર	Presilo
+લંડન	Londono
+એલેક્ઝાન્ડ્રિયા	Aleksandrio
+સફરજન	Pomo
+પૅરિસ	Parizo
+ગૂગલ	Google
+મેક્સિકો	Meksiko
+સોમવાર	Lundo
+જાન્યુઆરી	Januaro
+ફેબ્રુઆરી	Februaro
+માર્ચ	Marto
+મંગળ (ગ્રહ)	Marso
+કેન્યા	Kenjo
+ઇથિયોપિયા	Etiopio
+ઘાના	Ganao
+એપ્રિલ	Aprilo
+મે	Majo
+જૂન	Junio
+જુલાઇ	Julio
+ઓગસ્ટ	Aŭgusto
+સપ્ટેમ્બર	Septembro
+ઓક્ટોબર	Oktobro
+નવેમ્બર	Novembro
+ડિસેમ્બર	Decembro
+મંગળવાર	Mardo
+બુધવાર	Merkredo
+ગુરુવાર	Ĵaŭdo
+શુક્રવાર	Vendredo
+શનિવાર	Sabato
+રવિવાર	Dimanĉo
+એશિયાઇ સિંહ	Leono
+ફ્રાન્સ	Francio
+યુનાઇટેડ કિંગડમ	Unuiĝinta Reĝlando
+ચીન	Ĉina Popola Respubliko
+માછલી	Fiŝoj
+ઇથેનોલ	Etanolo
+મદ્યાર્ક યુક્ત પીણું	Alkoholaĵo
+બ્રાઝિલ	Brazilo
+રશિયા	Rusio
+કાળો સમુદ્ર	Nigra Maro
+અલાબામા	Alabamo
+ક્વિબેક	Kebekio
+વિકિમીડિયા ફાઉન્ડેશન	Fondaĵo Vikimedio
+જીમ્મી વેલ્સ	Jimmy Wales
+જર્મની	Germanio
+બેલારુસ	Belorusio
+જર્મન ભાષા	Germana lingvo
+આઈસલેંડ	Islando
+ઈશ્વર	Dio
+ઈસ્ટોનિયા	Estonio
+શનિ (ગ્રહ)	Saturno (planedo)
+ચેરી	Ĉerizo
+૧	1 (nombro)
+૦ (શૂન્ય)	Nulo
+લાટવિયા	Latvio
+યુક્રેન	Ukrainio
+સ્લોવાકિયા	Slovakio
+સ્લોવેનિયા	Slovenio
+મોલ્દોવા	Moldava Respubliko
+રોમાનિયા	Rumanio
+બલ્ગેરિયા	Bulgario
+મેસેડોનિયા	Respubliko Makedonio
+આલ્બેનિયા	Albanio
+ક્રોએશિયા	Kroatio
+અઝેરબીજાન	Azerbajĝano
+સાયપ્રસ	Kipro
+જ્યોર્જીયા (દેશ)	Kartvelio
+કઝાકિસ્તાન	Kazaĥio
+માલ્ટા	Malto
+મોનૅકો	Monako
+મોન્ટેનીગ્રો	Montenegro
+સાન મૅરિનો	San-Marino
+ઍફીલ ટાવર	Eiffel-Turo
+ઇન્ટેલ કોર્પોરેશન	Intel
+કોમ્પ્યુટર કીબોર્ડ	Komputila klavaro
+જાવા (પ્રોગ્રામિંગ ભાષા)	Java (programlingvo)
+ઈંડોનેશિયા	Indonezio
+મોઝાર્ટ	Wolfgang Amadeus Mozart
+દક્ષિણ આફ્રિકા	Sud-Afriko
+વિકિસ્રોત	Vikifontaro
+ઉઝબેકિસ્તાન	Uzbekujo
+પાણી	Akvo
+ચીલી	Ĉilio
+ઇસુ	Jesuo Kristo
+ગૅલિલિયો ગૅલિલિ	Galilejo
+બુધ (ગ્રહ)	Merkuro (planedo)
+ઇતિહાસ	Historio
+શુક્ર (ગ્રહ)	Venuso (planedo)
+ભાષા	Lingvo
+પ્રેમ	Amo
+આકાશગંગા	Galaksio
+ગુરુ (ગ્રહ)	Jupitero (planedo)
+યુરેનસ (ગ્રહ)	Urano (planedo)
+નૅપ્ચ્યુન (ગ્રહ)	Neptuno (planedo)
+ખગોળશાસ્ત્ર	Astronomio
+સિંગાપુર	Singapuro
+વિજ્ઞાન	Scienco
+પ્લૂટો	Plutono
+ફ્રી સૉફ્ટવૅર	Libera programaro
+લીચેસ્ટેઈન	Liĥtenŝtejno
+રમત-ગમત	Sporto
+ફેસબુક	Facebook
+જુલિયન અસાંજે	Julian Assange
+બીજું વિશ્વ યુદ્ધ	Dua mondmilito
+ભ્રષ્ટાચાર	Korupto
+વોડકા	Vodko
+ઉબુન્ટુ (ઓપરેટિંગ સિસ્ટમ)	Ubuntu (linukso)
+ગણિત	Matematiko
+બહેરીન	Barejno
+આર્મેનિયા	Armenio
+ચંદ્ર	Luno
+ઑસ્ટ્રેલિયા	Aŭstralio
+ભૌતિકશાસ્ત્ર	Fiziko
+આર્જેન્ટીના	Argentino
+પેરુ (દેશ)	Peruo
+જીવવિજ્ઞાન	Biologio
+અજાણી ઊડતી વસ્તુ	Nifo
+ઉત્તર કોરિયા	Nord-Koreio
+કમ્બોડીયા	Kamboĝo
+કુરાન	Korano
+ડાયનાસોર	Dinosaŭro
+પ્રાણીશાસ્ત્ર	Bestoscienco
+ઇસ્લામ	Islamo
+વર્લ્ડ વાઈડ વેબ	TTT
+સ્ત્રી	Virino
+કોમ્પ્યુટર વાયરસ	Komputviruso
+મિલાન	Milano
+લીંબુ	Citrono
+કેળાં	Banano
+ફૂલ	Floro
+માઉન્ટ એવરેસ્ટ	Ĉomolungmo
+શહેર	Urbo
+નેપોલિયન બોનાપાર્ટ	Napoleono Bonaparte
+સૂર્ય	Suno
+લૂઈ પાશ્ચર	Louis Pasteur
+પ્રકાશવર્ષ	Lumjaro
+ગામ	Vilaĝo
+સૂર્યમંડળ	Sunsistemo
+ચેમ્પ્સ-એલીસીસ (પેરિસ)	Avenuo de la Elizeaj Kampoj
+ઉદકજન	Hidrogeno
+હીલિયમ	Heliumo
+નર્ક	Infero
+વિકિમીડિયા કૉમન્સ	Vikimedia Komunejo
+લિથિયમ	Litio
+બેરિલિયમ	Berilio
+દિવસ	Tago
+પૂર્વ તિમોર	Orienta Timoro
+વર્ષ	Jaro
+ઓસ્લો	Oslo
+કૃષ્ણ વિવર	Nigra truo
+સિરસ (વામન ગ્રહ)	Cereso
+હૌમેયા (વામન ગ્રહ)	Haŭmeo
+મેકમેક (વામન ગ્રહ)	Makemako (nanoplanedo)
+બોરોન	Boro
+કાર્બન	Karbono
+નત્રલવાયુ	Nitrogeno
+પ્રાણવાયુ (ઑક્સીજન)	Oksigeno
+ગ્રહ	Planedo
+સંગીત	Muziko
+ઉષ્ણતામાપક	Termometro
+ફ્લોરિન	Fluoro
+નિયોન	Neono
+ચૅડ	Ĉado
+ક્ષારાતુ	Natrio
+ઉત્તર	Nordo
+મેગ્નેશિયમ	Magnezio
+સ્ફટયાતુ	Aluminio
+દક્ષિણ	Sudo
+ભારત	Barato
+સિલિકોન	Silicio
+ફ્રાંસીયમ	Franciumo
+ફોસ્ફરસ	Fosforo
+લોખંડ	Fero
+પશ્ચિમ	Okcidento
+ગંધક	Sulfuro
+સમોઆ	Samoo
+નીરજી	Kloro
+વિલિયમ શેક્સપીયર	William Shakespeare
+આર્ગોન	Argono
+નૌરુ	Nauro
+પોટેશિયમ	Kalio
+કેલ્શિયમ	Kalcio
+સીસું	Plumbo
+મંગોલિયા	Mongolio
+સ્કેન્ડિયમ	Skandio
+ટાઇટેનિયમ	Titano (elemento)
+વેનેઝુએલા	Venezuelo
+ચેસ	Ŝako
+વેનેડિયમ	Vanado
+વર્ણાતુ	Kromo
+ઘોડો	Ĉevalo
+હથિયારો	Armilo
+પ્રાણી	Bestoj
+સુરીનામ	Surinamo
+મેંગેનિઝ	Mangano
+ગુયાના	Gujano
+કલા	Arto
+ઈક્વેડોર	Ekvadoro
+રિનીયમ	Renio
+કોલમ્બિયા	Kolombio
+કોબાલ્ટ	Kobalto
+ટંગસ્ટન	Volframo
+નિકલ	Nikelo
+બૌદ્ધ ધર્મ	Budhismo
+બોલીવિયા	Bolivio
+ઓસ્મીયમ	Osmio
+તાંબુ	Kupro
+ટ્રિનિદાદ અને ટોબેગો	Trinidado kaj Tobago
+જસત	Zinko
+ન્યૂ હેમ્પશાયર	Nov-Hampŝiro
+લિઓનાર્ડો દ વિન્ચી	Leonardo da Vinci
+ગૂગલ ક્રોમ	Google Chrome
+હોન્ડુરાસ	Honduro
+હૈતી	Haitio
+ઈરાન	Irano
+ઈરાક	Irako
+શાણપણ	Saĝo
+ઈઝરાયલ	Israelo
+પનામા	Panamo
+યેમેન	Jemeno
+જૉર્ડન	Jordanio
+કિર્ગિસ્તાન	Kirgizio
+કુવૈત	Kuvajto
+લાઓસ	Laoso
+લેબેનાન	Libano
+માલદીવ્સ	Maldivoj
+અમેરિકા	Ameriko
+મલેશિયા	Malajzio
+બર્મા	Birmo
+નેપાળ	Nepalo
+ઓમાન	Omano
+પાકિસ્તાન	Pakistano
+જેમ્સ બોન્ડ	James Bond (fikcia universo)
+કતાર (અરબસ્તાન)	Kataro
+સાઉદી અરેબિયા	Sauda Arabio
+શ્રીલંકા	Sri-Lanko
+સ્ટાલિન	Josif Stalin
+સિરિયા	Sirio
+પ્લેટો	Platono
+ગેલિયમ	Galiumo
+તાજિકિસ્તાન	Taĝikio
+ચીની ગણતંત્ર	Respubliko Ĉinio
+યુ ટ્યુબ	YouTube
+જર્મેનિયમ	Germaniumo
+એરિસ્ટોટલ	Aristotelo
+થાઇલેન્ડ	Tajlando
+સોમલ	Arseno
+તુર્કમેનિસ્તાન	Turkmenio
+સેલિનીયમ	Seleno
+ઈરિડીયમ	Iridio
+બ્રોમિન	Bromo
+પ્લેટિનમ	Plateno
+વિયેતનામ	Vjetnamio
+ચાર્લી ચૅપ્લિન	Charlie Chaplin
+દક્ષિણ કોરિયા	Sud-Koreio
+ક્રિપ્ટોન	Kriptono
+અફઘાનિસ્તાન	Afganio
+રુબિડીયમ	Rubidio
+સોનું	Oro
+સુએઝ નહેર	Sueza Kanalo
+બાંગ્લાદેશ	Bangladeŝo
+સોક્રેટિસ	Sokrato
+ભૂતાન	Butano
+બ્રુનેઈ	Brunejo
+ટાન્ઝાનિયા	Tanzanio
+પારો	Hidrargo
+ફીલીપાઈન્સ	Filipinoj
+થેલીયમ	Taliumo
+આઇઝેક ન્યુટન	Isaac Newton
+આલ્બર્ટ આઇન્સ્ટાઇન	Albert Einstein
+સ્ટ્રોન્શિયમ	Stroncio
+ઈટ્રીયમ	Itrio
+બિસ્મથ	Bismuto
+ટોગો	Togolando
+ટ્યુનિશિયા	Tunizio
+બેઇજિંગ	Pekino
+બેનિન	Benino
+પોલોનીયમ	Polonio
+એસ્ટાટીન	Astato
+મહાત્મા ગાંધી	Mohandas Karamchand Gandhi
+મડાગાસ્કર	Madagaskaro
+સ્ટુટગાર્ટ	Stutgarto
+નાઈજર	Niĝero
+નાઈજેરિયા	Niĝerio
+ચાર્લ્સ ડાર્વિન	Charles Darwin
+ઝિર્કોનિયમ	Zirkonio
+નાયોબિયમ	Niobio
+જવાહરલાલ નેહરુ	Jawaharlal Nehru
+જુલિયસ સીઝર	Julio Cezaro
+સુદાન	Sudano
+સ્વાઝીલેન્ડ	Svazilando
+મેઘધનુષ	Ĉielarko
+મોલિબ્ડેનમ	Molibdeno
+ટેક્નેશિયમ	Teknecio
+ચયાપચય	Metabolo
+નરેન્દ્ર મોદી	Narendra Modi
+ગુજરાત	Guĝaratio
+ઉત્ક્રાંતિ	Evoluismo
+સંયુક્ત રાષ્ટ્રસંઘ	Unuiĝintaj Nacioj
+અમદાવાદ	Ahmadabado
+ભૂગોળ	Geografio
+મગજ	Cerbo
+સંજ્ઞા	Substantivo
+રુથેનિયમ	Rutenio
+રોડિયમ	Rodio
+પલેડિયમ	Paladio
+ચાંદી	Arĝento
+કેડમિયમ	Kadmio
+ઈંડિયમ	Indio
+ટીન	Stano
+યુરેનિયમ	Uranio
+એંટિમની	Antimono
+ટેલુરિયમ	Teluro
+પ્લુટોનીયમ	Plutonio
+આયોડિન	Jodo
+નેપ્ચ્યુનીયમ	Neptunio
+ઝેનોન	Ksenono
+સીસીયમ	Cezio
+પ્રોટેક્ટિનીયમ	Protaktinio
+બેરિયમ	Bario
+થોરીયમ	Torio
+હાફનીયમ	Hafnio
+એક્ટિનીયમ	Aktinio
+ટેન્ટેલમ	Tantalo
+રેડિયમ	Radiumo
+રેડૉન	Radono
+ઈન્દિરા ગાંધી	Indira Gandhi
+જામનગર	Ĝamnagar
+મુંબઈ	Mumbajo
+આંધ્ર પ્રદેશ	Andra-Pradeŝo
+અરુણાચલ પ્રદેશ	Arunaĉal-Pradeŝo
+આસામ	Asamo
+બિહાર	Biharo
+છત્તીસગઢ	Ĉhatisgaro
+ગોઆ	Goao
+હરિયાણા	Harjano
+હિમાચલ પ્રદેશ	Himaĉal-Pradeŝo
+જમ્મુ અને કાશ્મીર	Ĝamuo kaj Kaŝmiro
+ઝારખંડ	Ĝharkhando
+કર્ણાટક	Karnatako
+કેરળ	Keralao
+મધ્ય પ્રદેશ	Madhja-Pradeŝo
+યુસૈન બોલ્ટ	Usain Bolt
+મહારાષ્ટ્ર	Maharaŝtro
+મણિપુર	Manipuro
+મેઘાલય	Meghalajo
+બ્રુસ સ્પ્રિન્ગસ્ટીન	Bruce Springsteen
+રુથરફોર્ડીયમ	Ruterfordio
+ડૂબનીયમ	Dubnio
+સીબોર્ગીયમ	Seborgio
+હિંદ મહાસાગર	Hinda Oceano
+કેરેબિયન સાગર	Kariba Maro
+બોહ્રીયમ	Borio
+હેસીયમ	Hasio
+માઈટનિરીયમ	Mejtnerio
+ડાર્મસ્ટેડીયમ	Darmŝtatio
+રેન્ટજિનીયમ	Rentgenio
+કોપરનિસીયમ	Kopernicio
+ધ બિટલ્સ	The Beatles
+શિયાળો	Vintro
+ઉનાળો	Somero
+સમપ્રકાશીય ઘટના કે વિષુવકાલ	Ekvinokso
+ફિલાડેલ્ફિયા, પેન્સિલવેનિયા	Filadelfio (Pensilvanio)
+કોલકાતા	Kolkato
+ચેન્નઈ	Ĉenajo
+દિલ્હી	Delhio
+ઢાકા	Dako
+બેંગલોર	Bengaluro
+પશ્ચિમ બંગાળ	Okcident-Bengalo
+હૈદરાબાદ	Hajderabado
+ઇસ્લામાબાદ	Islamabado
+ત્રિપુરા	Tripuro
+વાંદરો	Simio
+સિરીયમ	Cerio
+પ્રેસિયોડિમિયમ	Prazeodimo
+નિયોડીમીયમ	Neodimo
+લેનિન	Lenin
+યુરોપિયમ	Eŭropio
+ઊએતેર્સેન્	Uetersen
+ઇન્ડિયાના	Indianio
+નોકિયા	Nokia (kompanio)
+મોટરગાડી	Aŭtomobilo
+ટ્રાજન	Trajano
+રોજર ફેડરર	Roger Federer
+રાજસ્થાન	Raĝastano
+તમિલનાડુ	Tamilnado
+હોકી	Herbohokeo
+ક્રોહનનો રોગ	Crohn-malsano
+ઉત્તર પ્રદેશ	Utar-Pradeŝo
+ઉત્તરાખંડ	Utarakando
+મિઝોરમ	Mizoramo
+સિક્કિમ	Sikimo
+ટેનેસી	Tenesio
+નાગપુર	Nagpur
+કારાકાસ	Karakaso
+પુના	Puneo
+આયોવા	Iovao
+નેબ્રાસ્કા	Nebrasko
+કેન્સાસ	Kansaso
+હિંદી ભાષા	Hindia lingvo
+મરાઠી ભાષા	Marata lingvo
+ગણેશ	Ganeŝo
+મિઝોરી	Misurio
+લ્યુઇસિયાના	Luiziano
+નાગાલેંડ	Nagalando
+અરકાનસાસ	Arkansaso
+નીલ આર્મસ્ટ્રૉંગ	Neil Armstrong
+ઉર્દુ ભાષા	Urduo
+ઓક્લાહોમા	Oklahomo
+બુડાપેસ્ટ	Budapeŝto
+લેન્થેનમ	Lantano
+પ્રોમેથિયમ	Prometio
+સમેરિયમ	Samario (kemio)
+ગેડોલિનીયમ	Gadolinio
+ટર્બિયમ	Terbio
+ડીસ્પ્રોસીયમ	Disprozio
+બાઇબલ	Biblio
+હોલ્મીયમ	Holmio
+અર્બિયમ	Erbio
+થુલિયમ	Tulio
+ઈટરબિયમ	Iterbio
+લ્યુટેશિયમ	Lutecio
+સત્ય ઇસુ દેવળ	Vera Eklezio de Jesuo
+અંગ્રેજી ભાષા	Angla lingvo
+અમેરિસીયમ	Americio
+ક્યુરીયમ	Kuriumo
+બર્કેલીયમ	Berkelio
+કેલિફોર્નીયમ	Kaliforniumo
+આઇન્સ્ટેનીયમ	Ejnŝtejnio
+ફર્મીયમ	Fermio
+મેન્ડેલિવીયમ	Mendelevio
+નોબેલીયમ	Nobelio
+લોરેન્સીયમ	Laŭrencio (elemento)
+ગુરુના ચંદ્રો	Naturaj satelitoj de Jupitero
+કઞ્સ્કવલા	Końskowola
+૨૦૦૧	2001
+વિકિટ્રાવેલ	Wikitravel
+૧૯૯૩	1993
+૧૯૧૦	1910
+સાપ	Serpento
+મુખ મૈથુન	Buŝa seksumado
+જાન્યુઆરી ૧	1-a de januaro
+જાન્યુઆરી ૨	2-a de januaro
+સુભાષચંદ્ર બોઝ	Subhas Chandra Bose
+જાન્યુઆરી ૩	3-a de januaro
+જાન્યુઆરી ૪	4-a de januaro
+જાન્યુઆરી ૫	5-a de januaro
+જાન્યુઆરી ૬	6-a de januaro
+જાન્યુઆરી ૭	7-a de januaro
+જાન્યુઆરી ૮	8-a de januaro
+જાન્યુઆરી ૯	9-a de januaro
+જાન્યુઆરી ૧૦	10-a de januaro
+જાન્યુઆરી ૧૧	11-a de januaro
+જાન્યુઆરી ૧૨	12-a de januaro
+જાન્યુઆરી ૧૩	13-a de januaro
+બર્મિંગહામ	Birmingham
+જાન્યુઆરી ૧૪	14-a de januaro
+જાન્યુઆરી ૧૫	15-a de januaro
+જાન્યુઆરી ૧૬	16-a de januaro
+જાન્યુઆરી ૧૭	17-a de januaro
+જાન્યુઆરી ૧૮	18-a de januaro
+જાન્યુઆરી ૧૯	19-a de januaro
+જાન્યુઆરી ૨૦	20-a de januaro
+જાન્યુઆરી ૨૧	21-a de januaro
+જાન્યુઆરી ૨૨	22-a de januaro
+જાન્યુઆરી ૨૩	23-a de januaro
+જાન્યુઆરી ૨૪	24-a de januaro
+જાન્યુઆરી ૨૫	25-a de januaro
+જાન્યુઆરી ૨૬	26-a de januaro
+માઇક્રોસોફ્ટ	Microsoft
+જાન્યુઆરી ૨૭	27-a de januaro
+જાન્યુઆરી ૨૮	28-a de januaro
+જાન્યુઆરી ૨૯	29-a de januaro
+જાન્યુઆરી ૩૦	30-a de januaro
+જાન્યુઆરી ૩૧	31-a de januaro
+ડિસેમ્બર ૨	2-a de decembro
+ડિસેમ્બર ૧	1-a de decembro
+ડિસેમ્બર ૩	3-a de decembro
+ડિસેમ્બર ૭	7-a de decembro
+ડિસેમ્બર ૫	5-a de decembro
+ડિસેમ્બર ૮	8-a de decembro
+ડિસેમ્બર ૧૦	10-a de decembro
+ડિસેમ્બર ૬	6-a de decembro
+ડિસેમ્બર ૯	9-a de decembro
+પિંક ફ્લોઇડ	Pink Floyd
+ડિસેમ્બર ૪	4-a de decembro
+ફેબ્રુઆરી ૧	1-a de februaro
+ફેબ્રુઆરી ૨	2-a de februaro
+ફેબ્રુઆરી ૩	3-a de februaro
+કુરોવ	Kurów
+ફેબ્રુઆરી ૪	4-a de februaro
+ફેબ્રુઆરી ૫	5-a de februaro
+ફેબ્રુઆરી ૬	6-a de februaro
+ફેબ્રુઆરી ૭	7-a de februaro
+ફેબ્રુઆરી ૮	8-a de februaro
+ફેબ્રુઆરી ૯	9-a de februaro
+ફેબ્રુઆરી ૧૦	10-a de februaro
+રસાયણ શાસ્ત્ર	Kemio
+ફેબ્રુઆરી ૧૪	14-a de februaro
+ફેબ્રુઆરી ૧૩	13-a de februaro
+ફેબ્રુઆરી ૧૫	15-a de februaro
+ફેબ્રુઆરી ૧૧	11-a de februaro
+ફેબ્રુઆરી ૧૨	12-a de februaro
+ફેબ્રુઆરી ૧૯	19-a de februaro
+ફેબ્રુઆરી ૧૭	17-a de februaro
+ફેબ્રુઆરી ૧૬	16-a de februaro
+ફેબ્રુઆરી ૧૮	18-a de februaro
+ફેબ્રુઆરી ૨૦	20-a de februaro
+ફેબ્રુઆરી ૨૧	21-a de februaro
+ફેબ્રુઆરી ૨૨	22-a de februaro
+ફેબ્રુઆરી ૨૩	23-a de februaro
+ફેબ્રુઆરી ૨૪	24-a de februaro
+ફેબ્રુઆરી ૨૫	25-a de februaro
+ફેબ્રુઆરી ૨૬	26-a de februaro
+ફેબ્રુઆરી ૨૭	27-a de februaro
+ફેબ્રુઆરી ૨૮	28-a de februaro
+ડિસેમ્બર ૧૧	11-a de decembro
+ફેબ્રુઆરી ૨૯	29-a de februaro
+ડિસેમ્બર ૧૨	12-a de decembro
+C શાર્પ (પ્રોગ્રામિંગ ભાષા)	C dieso (programlingvo)
+ડિસેમ્બર ૧૩	13-a de decembro
+ડિસેમ્બર ૧૪	14-a de decembro
+ડિસેમ્બર ૧૫	15-a de decembro
+માર્ચ ૨	2-a de marto
+માર્ચ ૩	3-a de marto
+માર્ચ ૫	5-a de marto
+માર્ચ ૧	1-a de marto
+માર્ચ ૭	7-a de marto
+માર્ચ ૮	8-a de marto
+માર્ચ ૪	4-a de marto
+માર્ચ ૧૦	10-a de marto
+માર્ચ ૧૧	11-a de marto
+માર્ચ ૬	6-a de marto
+માર્ચ ૧૩	13-a de marto
+માર્ચ ૯	9-a de marto
+માર્ચ ૧૨	12-a de marto
+માર્ચ ૧૫	15-a de marto
+માર્ચ ૧૪	14-a de marto
+C++(પ્રોગ્રામિંગ ભાષા)	C++
+ડિસેમ્બર ૧૬	16-a de decembro
+ડિસેમ્બર ૧૭	17-a de decembro
+માર્ચ ૧૬	16-a de marto
+માર્ચ ૧૭	17-a de marto
+માર્ચ ૧૮	18-a de marto
+માર્ચ ૧૯	19-a de marto
+માર્ચ ૨૦	20-a de marto
+માર્ચ ૨૧	21-a de marto
+માર્ચ ૨૨	22-a de marto
+ડિસેમ્બર ૧૮	18-a de decembro
+માર્ચ ૨૩	23-a de marto
+ડિસેમ્બર ૧૯	19-a de decembro
+માર્ચ ૨૪	24-a de marto
+માર્ચ ૨૫	25-a de marto
+ડિસેમ્બર ૨૦	20-a de decembro
+માર્ચ ૨૬	26-a de marto
+માર્ચ ૨૭	27-a de marto
+માર્ચ ૨૮	28-a de marto
+માર્ચ ૨૯	29-a de marto
+માર્ચ ૩૦	30-a de marto
+માર્ચ ૩૧	31-a de marto
+એપ્રિલ ૧૫	15-a de aprilo
+એપ્રિલ ૧૩	13-a de aprilo
+એપ્રિલ ૧૨	12-a de aprilo
+એપ્રિલ ૧૪	14-a de aprilo
+એપ્રિલ ૧૧	11-a de aprilo
+એપ્રિલ ૧૦	10-a de aprilo
+એપ્રિલ ૮	8-a de aprilo
+એપ્રિલ ૯	9-a de aprilo
+એપ્રિલ ૭	7-a de aprilo
+એપ્રિલ ૬	6-a de aprilo
+એપ્રિલ ૫	5-a de aprilo
+એપ્રિલ ૪	4-a de aprilo
+એપ્રિલ ૩	3-a de aprilo
+એપ્રિલ ૧	1-a de aprilo
+એપ્રિલ ૨	2-a de aprilo
+એપ્રિલ ૧૬	16-a de aprilo
+એપ્રિલ ૧૭	17-a de aprilo
+એપ્રિલ ૧૮	18-a de aprilo
+એપ્રિલ ૧૯	19-a de aprilo
+એપ્રિલ ૨૦	20-a de aprilo
+એપ્રિલ ૨૧	21-a de aprilo
+એપ્રિલ ૨૨	22-a de aprilo
+એપ્રિલ ૨૩	23-a de aprilo
+એપ્રિલ ૨૪	24-a de aprilo
+એપ્રિલ ૨૫	25-a de aprilo
+એપ્રિલ ૨૬	26-a de aprilo
+એપ્રિલ ૨૭	27-a de aprilo
+એપ્રિલ ૨૮	28-a de aprilo
+એપ્રિલ ૨૯	29-a de aprilo
+એપ્રિલ ૩૦	30-a de aprilo
+મે ૧	1-a de majo
+મે ૨	2-a de majo
+મે ૩	3-a de majo
+મે ૪	4-a de majo
+મે ૫	5-a de majo
+મે ૬	6-a de majo
+મે ૭	7-a de majo
+મે ૮	8-a de majo
+મે ૯	9-a de majo
+મે ૧૦	10-a de majo
+મે ૧૧	11-a de majo
+મે ૧૨	12-a de majo
+મે ૧૩	13-a de majo
+મે ૧૪	14-a de majo
+મે ૧૫	15-a de majo
+મે ૧૬	16-a de majo
+મે ૧૭	17-a de majo
+મે ૧૮	18-a de majo
+મે ૧૯	19-a de majo
+મે ૨૦	20-a de majo
+મે ૨૧	21-a de majo
+મે ૨૨	22-a de majo
+મે ૨૩	23-a de majo
+મે ૨૪	24-a de majo
+મે ૨૫	25-a de majo
+મે ૨૬	26-a de majo
+મે ૨૭	27-a de majo
+મે ૨૮	28-a de majo
+મે ૨૯	29-a de majo
+મે ૩૦	30-a de majo
+મે ૩૧	31-a de majo
+ડિસેમ્બર ૨૧	21-a de decembro
+જૂન ૧૪	14-a de junio
+જૂન ૧૫	15-a de junio
+જૂન ૧૩	13-a de junio
+જૂન ૧૦	10-a de junio
+જૂન ૭	7-a de junio
+જૂન ૧૧	11-a de junio
+જૂન ૯	9-a de junio
+જૂન ૧૨	12-a de junio
+જૂન ૬	6-a de junio
+જૂન ૮	8-a de junio
+જૂન ૫	5-a de junio
+જૂન ૩	3-a de junio
+જૂન ૨	2-a de junio
+જૂન ૧	1-a de junio
+જૂન ૪	4-a de junio
+ડિસેમ્બર ૨૨	22-a de decembro
+જૂન ૧૬	16-a de junio
+જૂન ૩૦	30-a de junio
+જૂન ૨૯	29-a de junio
+જૂન ૨૮	28-a de junio
+જૂન ૨૬	26-a de junio
+જૂન ૨૫	25-a de junio
+જૂન ૨૨	22-a de junio
+જૂન ૨૭	27-a de junio
+જૂન ૨૪	24-a de junio
+જૂન ૨૦	20-a de junio
+જૂન ૨૩	23-a de junio
+જૂન ૧૯	19-a de junio
+જૂન ૧૮	18-a de junio
+જૂન ૨૧	21-a de junio
+જૂન ૧૭	17-a de junio
+ડિસેમ્બર ૨૩	23-a de decembro
+આર્નોલ્ડ શ્વાર્ઝેનેગર	Arnold Schwarzenegger
+જુલાઇ ૧૫	15-a de julio
+જુલાઇ ૧૩	13-a de julio
+જુલાઇ ૧૨	12-a de julio
+જુલાઇ ૧૦	10-a de julio
+જુલાઇ ૯	9-a de julio
+જુલાઇ ૧૪	14-a de julio
+જુલાઇ ૮	8-a de julio
+જુલાઇ ૭	7-a de julio
+જુલાઇ ૬	6-a de julio
+જુલાઇ ૫	5-a de julio
+જુલાઇ ૨	2-a de julio
+જુલાઇ ૪	4-a de julio
+જુલાઇ ૩	3-a de julio
+જુલાઇ ૧	1-a de julio
+જુલાઇ ૧૧	11-a de julio
+ડિસેમ્બર ૨૪	24-a de decembro
+જુલાઇ ૩૧	31-a de julio
+જુલાઇ ૩૦	30-a de julio
+જુલાઇ ૨૯	29-a de julio
+જુલાઇ ૨૮	28-a de julio
+જુલાઇ ૨૭	27-a de julio
+જુલાઇ ૨૫	25-a de julio
+જુલાઇ ૨૪	24-a de julio
+જુલાઇ ૨૩	23-a de julio
+જુલાઇ ૨૬	26-a de julio
+જુલાઇ ૨૨	22-a de julio
+જુલાઇ ૧૯	19-a de julio
+જુલાઇ ૨૧	21-a de julio
+જુલાઇ ૨૦	20-a de julio
+જુલાઇ ૧૭	17-a de julio
+જુલાઇ ૧૮	18-a de julio
+જુલાઇ ૧૬	16-a de julio
+અસોસિએશન ફુટબોલ	Futbalo
+ડિસેમ્બર ૨૫	25-a de decembro
+ડિસેમ્બર ૨૬	26-a de decembro
+ઓગસ્ટ ૧૪	14-a de aŭgusto
+ઓગસ્ટ ૧૫	15-a de aŭgusto
+ઓગસ્ટ ૧૩	13-a de aŭgusto
+ઓગસ્ટ ૧૨	12-a de aŭgusto
+ઓગસ્ટ ૧૧	11-a de aŭgusto
+ઓગસ્ટ ૧૦	10-a de aŭgusto
+ઓગસ્ટ ૮	8-a de aŭgusto
+ઓગસ્ટ ૭	7-a de aŭgusto
+ઓગસ્ટ ૯	9-a de aŭgusto
+ઓગસ્ટ ૫	5-a de aŭgusto
+ઓગસ્ટ ૪	4-a de aŭgusto
+ઓગસ્ટ ૨	2-a de aŭgusto
+ઓગસ્ટ ૩	3-a de aŭgusto
+ઓગસ્ટ ૬	6-a de aŭgusto
+ઓગસ્ટ ૧	1-a de aŭgusto
+આઇપેડ (iPad)	IPad
+ડિસેમ્બર ૨૭	27-a de decembro
+સબમરીન	Submarŝipo
+ઓગસ્ટ ૧૬	16-a de aŭgusto
+ઓગસ્ટ ૨૯	29-a de aŭgusto
+ઓગસ્ટ ૨૮	28-a de aŭgusto
+ઓગસ્ટ ૩૦	30-a de aŭgusto
+ઓગસ્ટ ૨૫	25-a de aŭgusto
+ઓગસ્ટ ૨૬	26-a de aŭgusto
+ઓગસ્ટ ૨૩	23-a de aŭgusto
+ઓગસ્ટ ૨૭	27-a de aŭgusto
+ઓગસ્ટ ૨૧	21-a de aŭgusto
+ઓગસ્ટ ૨૦	20-a de aŭgusto
+ઓગસ્ટ ૨૪	24-a de aŭgusto
+ઓગસ્ટ ૧૮	18-a de aŭgusto
+ઓગસ્ટ ૧૭	17-a de aŭgusto
+ઓગસ્ટ ૨૨	22-a de aŭgusto
+ઓગસ્ટ ૧૯	19-a de aŭgusto
+ઓગસ્ટ ૩૧	31-a de aŭgusto
+માઇકલ જેકસન	Michael Jackson
+ડિસેમ્બર ૨૮	28-a de decembro
+સપ્ટેમ્બર ૧૫	15-a de septembro
+સપ્ટેમ્બર ૧૪	14-a de septembro
+સપ્ટેમ્બર ૧૩	13-a de septembro
+સપ્ટેમ્બર ૧૨	12-a de septembro
+સપ્ટેમ્બર ૮	8-a de septembro
+સપ્ટેમ્બર ૧૧	11-a de septembro
+સપ્ટેમ્બર ૭	7-a de septembro
+સપ્ટેમ્બર ૧૦	10-a de septembro
+સપ્ટેમ્બર ૫	5-a de septembro
+સપ્ટેમ્બર ૪	4-a de septembro
+સપ્ટેમ્બર ૯	9-a de septembro
+સપ્ટેમ્બર ૨	2-a de septembro
+સપ્ટેમ્બર ૬	6-a de septembro
+સપ્ટેમ્બર ૧	1-a de septembro
+સપ્ટેમ્બર ૩	3-a de septembro
+ડિસેમ્બર ૨૯	29-a de decembro
+સપ્ટેમ્બર ૩૦	30-a de septembro
+સપ્ટેમ્બર ૨૯	29-a de septembro
+સપ્ટેમ્બર ૨૮	28-a de septembro
+સપ્ટેમ્બર ૨૭	27-a de septembro
+સપ્ટેમ્બર ૨૬	26-a de septembro
+સપ્ટેમ્બર ૨૫	25-a de septembro
+સપ્ટેમ્બર ૨૩	23-a de septembro
+સપ્ટેમ્બર ૨૨	22-a de septembro
+સપ્ટેમ્બર ૨૪	24-a de septembro
+સપ્ટેમ્બર ૨૧	21-a de septembro
+સપ્ટેમ્બર ૨૦	20-a de septembro
+સપ્ટેમ્બર ૧૮	18-a de septembro
+સપ્ટેમ્બર ૧૭	17-a de septembro
+સપ્ટેમ્બર ૧૯	19-a de septembro
+સપ્ટેમ્બર ૧૬	16-a de septembro
+ડિસેમ્બર ૩૦	30-a de decembro
+ડિસેમ્બર ૩૧	31-a de decembro
+ઓક્ટોબર ૧	1-a de oktobro
+ઓક્ટોબર ૧૫	15-a de oktobro
+ઓક્ટોબર ૧૨	12-a de oktobro
+ઓક્ટોબર ૧૦	10-a de oktobro
+ઓક્ટોબર ૧૪	14-a de oktobro
+ઓક્ટોબર ૯	9-a de oktobro
+ઓક્ટોબર ૮	8-a de oktobro
+ઓક્ટોબર ૧૩	13-a de oktobro
+ઓક્ટોબર ૭	7-a de oktobro
+ઓક્ટોબર ૧૧	11-a de oktobro
+ઓક્ટોબર ૬	6-a de oktobro
+ઓક્ટોબર ૪	4-a de oktobro
+ઓક્ટોબર ૫	5-a de oktobro
+ઓક્ટોબર ૩	3-a de oktobro
+ઓક્ટોબર ૨	2-a de oktobro
+બકરી	Hejma kapro
+ઓક્ટોબર ૩૧	31-a de oktobro
+ઓક્ટોબર ૩૦	30-a de oktobro
+ઓક્ટોબર ૨૯	29-a de oktobro
+ઓક્ટોબર ૨૮	28-a de oktobro
+ઓક્ટોબર ૨૬	26-a de oktobro
+ઓક્ટોબર ૨૫	25-a de oktobro
+ઓક્ટોબર ૨૪	24-a de oktobro
+ઓક્ટોબર ૨૭	27-a de oktobro
+ઓક્ટોબર ૨૨	22-a de oktobro
+ઓક્ટોબર ૨૩	23-a de oktobro
+ઓક્ટોબર ૨૦	20-a de oktobro
+ઓક્ટોબર ૨૧	21-a de oktobro
+ઓક્ટોબર ૧૯	19-a de oktobro
+ઓક્ટોબર ૧૭	17-a de oktobro
+ઓક્ટોબર ૧૬	16-a de oktobro
+ઓક્ટોબર ૧૮	18-a de oktobro
+નવેમ્બર ૧૫	15-a de novembro
+નવેમ્બર ૧૪	14-a de novembro
+નવેમ્બર ૧૩	13-a de novembro
+નવેમ્બર ૧૨	12-a de novembro
+નવેમ્બર ૧૧	11-a de novembro
+નવેમ્બર ૧૦	10-a de novembro
+નવેમ્બર ૭	7-a de novembro
+નવેમ્બર ૮	8-a de novembro
+નવેમ્બર ૯	9-a de novembro
+નવેમ્બર ૬	6-a de novembro
+નવેમ્બર ૫	5-a de novembro
+નવેમ્બર ૪	4-a de novembro
+નવેમ્બર ૩	3-a de novembro
+નવેમ્બર ૨	2-a de novembro
+નવેમ્બર ૧	1-a de novembro
+પારામારિબો	Paramaribo
+નવેમ્બર ૩૦	30-a de novembro
+નવેમ્બર ૨૯	29-a de novembro
+નવેમ્બર ૨૮	28-a de novembro
+નવેમ્બર ૨૭	27-a de novembro
+નવેમ્બર ૨૬	26-a de novembro
+નવેમ્બર ૨૫	25-a de novembro
+નવેમ્બર ૨૩	23-a de novembro
+નવેમ્બર ૨૪	24-a de novembro
+નવેમ્બર ૨૧	21-a de novembro
+નવેમ્બર ૨૦	20-a de novembro
+નવેમ્બર ૨૨	22-a de novembro
+નવેમ્બર ૧૯	19-a de novembro
+નવેમ્બર ૧૮	18-a de novembro
+નવેમ્બર ૧૭	17-a de novembro
+નવેમ્બર ૧૬	16-a de novembro
+કાઠમંડુ	Katmanduo
+સીડની	Sidnejo
+મેલબોર્ન	Melburno
+પર્થ	Perto
+નાઈલ નદી	Nilo
+કોંગો નદી	Kongo (rivero)
+ધૂમકેતુ	Kometo
+જાકાર્તા	Ĝakarto
+જાવા (ટાપુ)	Javo
+વિકિપીડિયા:પ્રયોગસ્થળ	Vikipedio:Provejo
+વિકિપીડિયા:સ્વાગત	Vikipedio:Bonvenon al Vikipedio
+કમ્પ્યુટર હાર્ડવેર	Aparataro
+નકશો	Mapo
+નવસાર	Amoniako
+ડૉંગ હેકટર એરપોર્ટ	Flughaveno Dong Hoi
+શૂન્યાવકાશ	Ekstertero
+આત્મકથા	Aŭtobiografio
+ખગોળીય દૂરબીન	Teleskopo
+માઇલી સાઇરસ	Miley Cyrus
+માર્જરિન	Margarino
+મધરબોર્ડ	Ĉeftabulo
+USB ડ્રાઇવ	USB-poŝmemorilo
+પંજાબ (પાકિસ્તાન)	Panĝabo (Pakistano)
+સહ્યાદ્રિ પર્વતમાળા	Okcidentaj Ghatoj
+ભારતની પર્વતીય રેલ્વે	Montaraj fervojoj en Barato
+કન્ફ્યુશિયસ	Konfuceo
+કોર્બીન બ્લુ	Corbin Bleu
+શ્રેણી:ગણિત	Kategorio:Matematiko
+ફરો દ્વિપસમૂહ	Ferooj
+સુરત	Surat
+સાયપ્રસનો રાષ્ટ્રધ્વજ	Flago de Kipro
+બાલી	Balio
+માળો (પક્ષી)	Nesto
+લૅરી પેજ	Larry Page
+ગંગા નદી	Gango
+સેલિન ડીયોન	Céline Dion
+ખંડ	Kontinento
+એડિલેઇડ	Adelajdo
+પક્ષી	Birdoj
+રાજધાની	Ĉefurbo
+ઢાંચો:ઇસ્લામ	Ŝablono:Islamo
+ગુજરાતી ભાષા	Guĝarata lingvo
+મહિનો	Monato
+ઢાંચો:Portal	Ŝablono:Portalo
+હુઆંગ ઝીયાન-ફાન	Huang Senfan
+બિલ ગેટ્સ	Bill Gates
+કમ્પ્યુટર મોનિટર	Komputila ekrano
+જ્ઞાનકોશ	Enciklopedio
+મુખપૃષ્ઠ	Vikipedio:Ĉefpaĝo
+સિંધવ	Halito
+બાસ્કેટબોલ (રમત)	Korbopilkado
+ક્રિકેટ	Kriketo
+યુરેશીયા	Eŭrazio
+હિમાલય	Himalajo
+કેપ ટાઉન	Kaburbo
+કેસ્પિયન સમુદ્ર	Kaspio
+વિન્સેન્ટ વેન ગો	Vincent van Gogh
+વૅલેન્શિયા નો પ્રદેશ	Valencilando
+મોહેં-જો-દડો	Mohenĝo-daro
+પેટ્રા	Petra
+એવર્ટન ફૂટબોલ ક્લબ	Everton FC
+મક્કા	Mekko
+ચે ગૂવેરા	Che Guevara
+નોવાક યોકોવિચ	Novak Đoković
+એરબસ એ ૩૮૦	Airbus A380
+ચિચેન ઇત્ઝા	Chichén Itzá
+તમિલ ભાષા	Tamila lingvo
+ચા	Teo
+માર્કો પોલો	Marko Polo
+પોર્ટલેન્ડ, ઑરેગોન	Portlando (Oregono)
+મૂડીવાદ	Kapitalismo
+દેશ	Lando
+હિલેરી ક્લિન્ટન	Hillary Rodham Clinton
+કોનકોર્ડ	Konkordo (aviadilo)
+ડોનાલ્ડ ડક	Donaldo Anaso
+સ્ટ્રાસબોર્ગ (ફ્રાન્સ)	Strasburgo
+ક્રોએશિયન ભાષા	Kroata lingvo
+શેતાન	Diablo
+રેનો	Renault
+કાલિદાસ	Kalidaso
+ઉલ્કાઓ	Meteoroido
+ગૌતમ બુદ્ધ	Budho
+જૈવ તકનીક	Biotekniko
+વિશ્વ બેંક	Monda Banko
+લોકશાહી	Demokratio
+વૈશ્વિકરણ	Tutmondiĝo
+નોબૅલ પારિતોષિક	Nobel-premio
+ઇંગ્લેન્ડના એલિઝાબેથ પ્રથમ	Elizabeto la 1-a (Anglio)
+રવિન્દ્રનાથ ટાગોર	Rabindranath Tagore
+માર્ક ટ્વેઇન	Mark Twain
+ઍલન ટ્યુરિંગ	Alan Turing
+આતંકવાદ	Terorismo
+નાઝીવાદ	Naziismo
+વાસ્કો દ ગામા	Vasco da Gama
+સિંધુ	Induso
+કાન	Orelo
+આંખ	Okulo
+ગીત	Kanto
+હાથી	Elefanto
+કીડી	Formiko
+આન્દ્રે અગાસી	Andre Agassi
+રીંગણ	Melongeno
+હિમવર્ષા	Neĝo
+ડેબિયન	Debiano
+વિશ્વ વેપાર સંગઠન	Monda Organizaĵo pri Komerco
+ચાઇનીઝ ભાષા	Ĉina lingvaro
+કુદરત	Naturo
+રક્ત	Sango
+કંકાલતંત્ર	Skeleto
+ફેફસાં	Pulmo
+મેઘ	Pluvo
+વૈશ્વિક ઉષ્ણતા	Tutmonda varmiĝo
+ધરતીકંપ	Tertremo
+સત્ય	Vero
+કોમ્પ્યુટર માઉસ	Komputila muso
+નેલ્સન મંડેલા	Nelson Mandela
+માર્ટિન લ્યૂથર કિંગ	Martin Luther King
+અવતરણ ચિહ્ન	Citilo
+કુદરતી આફતો	Naturkatastrofo
+પૂર	Inundo
+સુનામી	Cunamo
+જ્વાળામુખી	Vulkano
+વાદળ	Nubo
+ત્રિકોણમિતિ	Trigonometrio
+ભૂમિતિ	Geometrio
+તેલુગુ ભાષા	Telugua lingvo
+ગ્રીક મૂળાક્ષરો	Greka alfabeto
+શ્રેણી:ફ્રાન્સ	Kategorio:Francio
+શ્રેણી:સંગીત	Kategorio:Muziko
+શ્રેણી:સાહિત્ય	Kategorio:Literaturo
+નવલકથા	Romano
+મહાભારત	Mahabharato
+હેરી પોટર	Harry Potter
+મશક વાજું	Sakŝalmo
+પીડોફિલિયા (બાળ યૌનશોષણ)	Pedofilio
+સિકંદર	Aleksandro la Granda
+સંસ્કૃતિ	Civilizo
+પુરુષ	Viro
+લગ્ન	Geedzeco
+ફાંસીની સજા	Mortpuno
+ગુલામી પ્રથા	Sklaveco
+દૂધ	Lakto
+પર્વત	Monto
+અશોક	Aŝoko
+અકબર	Jalaluddin Muhammad Akbar
+હોંગકોંગ	Honkongo
+કરાચી	Karaĉio
+લાગોસ	Lagoso
+આર્કિમીડીઝ	Arkimedo
+થૉમસ ઍડિસન	Thomas Alva Edison
+યુક્લિડ	Eŭklido
+ડોમેન નામ પ્રણાલી	Domajna nomsistemo
+સંકેતલિપિ	Kriptologio
+ઈન્ટરનેટ પ્રોટોકોલ	IP
+પ્રસારણ નિયંત્રણ પ્રોટોકોલ	TCP
+યુનિકોડ	Unikodo
+સત્યજીત રે	Satyajit Ray
+નક્ષત્ર	Konstelacio
+નૉર્વેજિયન ભાષા	Norvega lingvo
+ચાણક્ય	Ĉanakja
+નોઆમ ચોમ્સ્કી	Noam Chomsky
+મુસા	Moseo
+હિંદુ ધર્મ	Hinduismo
+અણુ	Atomo
+પ્રકાશ	Lumo
+તાજ મહેલ	Taĝ-Mahalo
+ઇ-મેઇલ	Retpoŝto
+ફારસી ભાષા	Persa lingvo
+ઇબ્રાહિમ	Abraham
+યુનાઇટેડ સ્ટેટ્સ આર્મી	Usona terarmeo
+લુમ્બિની	Lumbini
+જૈન ધર્મ	Ĝajnismo
+યહૂદી ધર્મ	Judismo
+લાઓત્સે	Laozio
+જીમેઇલ	Gmail
+યોગ	Jogo
+સિમા કીઆન	Sima Qian
+મનોવિજ્ઞાન	Psikologio
+ટિમ્બક્ટુ	Timbuktuo
+લોથલ	Lothal
+વલ્લભભાઈ પટેલ	Vallabhbhai Patel
+મુહમ્મદ	Mohamedo
+આઇપોડ	IPod
+અબ્દુલ કલામ	Abdul Kalam
+બીબીસી	BBC
+શાહરૂખ ખાન	Shahrukh Khan
+અમિતાભ બચ્ચન	Amitabh Bachchan
+કન્ફયુસીયસ ધર્મ	Konfuceismo
+તાઓ ધર્મ	Taoismo
+જરથોસ્તી ધર્મ	Zaratuŝtrismo
+બંગાળી ભાષા	Bengala lingvo
+જીભ	Lango (anatomio)
+ચેલ્સી ફૂટબોલ ક્લબ	Chelsea F.C.
+આર્સેનલ ફૂટબોલ ક્લબ	Arsenal F.C.
+સ્વાદુપિંડ	Pankreato
+ફૉકલેન્ડ ટાપુઓ	Insuloj Falklandoj
+બ્લૂઝ	Bluso
+સેલમ	Salem (Barato)
+કોઇમ્બતુર	Koimbatore
+મૈસૂર	Majsur
+નીલગિરિ	Nilgirio
+રફેલ નડાલ	Rafael Nadal
+ભારતીય રાષ્ટ્રીય કોંગ્રેસ	Barata Nacia Kongreso
+ભારતીય જનતા પાર્ટી	Partio de la Popolo de Barato
+દિવાળી	Divali
+દરિયાઈ બોગદું (ઇંગ્લેન્ડ-ફ્રાન્સ)	Manika Tunelo
+પાયથાગોરસ	Pitagoro
+કુંભ મેળો	Kumbhamela
+કોલોસીયમ	Koloseo
+ડેવિડ બેકહામ	David Beckham
+આવર્ત કોષ્ટક	Perioda tabelo
+કબૂતર	Kolombedoj
+અંધાપો	Blindeco
+ચીઝ	Fromaĝo
+દ્રાક્ષ	Vinbero
+ટાઇગર વુડ્સ	Tiger Woods
+બટાકાં	Terpomo
+શાકભાજી	Legomo
+સ્નૂકર	Snukero
+ઇજનેરી	Inĝenierarto
+પ્રત્યાયન	Komunikado
+સંસ્કૃત ભાષા	Sanskrito
+રુધિરાભિસરણ તંત્ર	Kardiovaskula sistemo
+IP એડ્રેસ	IP-adreso
+પ્રશ્નચિહ્ન	Demandosigno
+વર્લ્ડ ટ્રેડ સેન્ટર	World Trade Center
+ફ્રિડમ ટાવર	One World Trade Center
+મીઠું	Salo
+ફિડલ કાસ્ટ્રો	Fidel Castro
+મેનહટન	Manhatano
+તત્વ	Kemia elemento
+શિવ	Ŝivao
+વિષ્ણુ	Viŝnuo
+લોકલ એરિયા નેટવર્ક	Loka reto
+વાઈડ એરિયા નેટવર્ક	Malloka reto
+વિદ્યુત-ચુંબકીય તરંગો	Elektromagneta ondo
+બ્રહ્મા	Brahmao
+બળ	Forto
+ચુંબકીયક્ષેત્ર	Magneta kampo
+ગુરુત્વાકર્ષણ	Gravito
+માર્શલ આર્ટસ	Luktoarto
+જુડો	Ĵudo
+દળ	Maso
+ધાતુ	Metalo (fiziko)
+વાયુ	Gaso
+પ્રવાહી	Likvo
+ઘન	Solido
+કૃષિ	Agrikulturo
+કપાસ	Kotono
+કપડાં	Vesto
+તાપમાન	Temperaturo
+ધાતુશાસ્ત્ર	Metalurgio
+કાગળ	Papero
+ક્ષેત્રફળ	Areo
+દેનપસાર	Denpasar
+સેકન્ડ	Sekundo
+મકાઈ	Maizo
+માટીકામ	Ceramiko
+સ્ટેફી ગ્રાફ	Steffi Graf
+હવામાન	Vetero
+લાહોર	Lahore
+મેસોપોટેમીયા	Mezopotamio
+પ્રાચીન ઇજિપ્ત	Antikva Egiptio
+ગુપ્ત સામ્રાજ્ય	Gupta imperio
+સ્લીપિંગ બ્યૂટી	La dormanta belulino
+સિન્ડ્રેલા	Cindrulino
+રાજકોટ	Raĝkot
+વડોદરા	Vadodara
+મિકી માઉસ	Mickey Mouse
+પ્રકાશસંશ્લેષણ	Fotosintezo
+કર્કરોગ (કેન્સર)	Kancero
+ઘઉં	Tritiko
+બધિરતા	Surdeco
+ગ્રેગોરીયન પંચાંગ	Gregoria kalendaro
+નિકોટિન	Nikotino
+હૃદયરોગનો હુમલો	Korinfarkto
+મલેરિયા	Malario
+કુપોષણ	Malsufiĉa nutrado
+ગુપ્તરોગ	Venereaj malsanoj
+એડ્સ	Aidoso
+ક્ષય રોગ	Tuberkulozo
+મધુપ્રમેહ	Diabeto
+ઢાંચો:Location map India	Ŝablono:Situo sur mapo Barato
+જાન્યુઆરી ૦	0-a de januaro
+બુર્જ દુબઈ	Burĝ Ĥalifa
+ચીનની મહાન દિવાલ	Granda Ĉina Muro
+પિરામિડ	Piramido
+ફેશન	Modo
+તલવાર	Glavo
+પેલે	Pelé
+જયોર્જ સોરોસ	George Soros
+વિનોબા ભાવે	Vinoba Bhave
+વર્ડપ્રેસ	WordPress
+લીચી (ફળ)	Liĉio
+નારિયેળ	Kokoso
+દાડમ	Granatujo
+સંતરુ (ફળ)	Oranĝo (frukto)
+આઇસ્ક્રીમ	Glaciaĵo
+ઢાંચો:Location map Canada	Ŝablono:Situo sur mapo Kanado
+નિરોધ	Kondomo
+ડોલર	Dolaro (monunuo)
+માછીમારી	Fiŝkaptado
+થોર	Kakto
+ઘર ચકલી	Dompasero
+મકાઉ	Makao
+હુ જિન્તાઓ	Hu Jintao
+જિરાફ	Ĝirafo (specio)
+મુછ	Lipharoj
+સોવિયેત યુનિયન	Sovetunio
+સેલમ જિલ્લો	Distrikto Salem
+તિરુનેલવેલી જિલ્લો	Distrikto Tirunelveli
+જળાશય	Akvejo
+મદ્યપાન	Alkoholismo
+C (પ્રોગ્રામિંગ ભાષા)	C (programlingvo)
+બ્રુસ લી	Bruce Lee
+વિકિપીડિયા:ચોતરો	Vikipedio:Diskutejo
+કમળ	Hinda lotuso
+વર્મોન્ટ	Vermonto
+સેન જોસ, કેલિફોર્નિયા	San Jose (Kalifornio)
+હ્યુસ્ટન	Houston (Teksaso)
+હોસ્પિટલ	Malsanulejo
+ઘડિયાલ	Gavialo
+વીર્ય	Spermo
+વિમાનવાહક જહાજ	Aviadila ŝipo
+મોબાઇલ ફોન	Poŝtelefono
+માન્ચેસ્ટર યુનાઇટેડ ફૂટબોલ ક્લબ	Manchester United
+સ્વાનસી સિટી એસોસિયેશન ફૂટબોલ ક્લબ	Swansea City
+એસ્ટોન વિલા ફૂટબોલ ક્લબ	Aston Villa
+ટોટનમ હોટ્સ્પર ફૂટબોલ ક્લબ	Tottenham Hotspur
+વેસ્ટ બ્રોમવિચ એલ્બિયન ફૂટબોલ ક્લબ	West Bromwich Albion
+તાડ બિલાડી	Azia palm-civeto
+બગલો	Ardeedoj
+વૈશ્વિક સ્થળનિર્ધારણ પ્રણાલી	Tutmonda loktrova sistemo
+વિંછી (પ્રાણી)	Skorpio
+ફિફા વિશ્વ કપ	Futbala Mondpokalo
+હલ સિટી એસોસિયેશન ફૂટબોલ ક્લબ	Hull City A.F.C.
+વેબ શોધ એન્જીન	Serĉilo
+આલ્ક્લાઇન પાર્થિવ ધાતુ	Teralkala metalo
+અર્ધધાતુ	Metaloido
+પબ્લિક ડોમેન	Publika havaĵo
+પ્યૂએર્ટો રિકન ઈન્ડીપેન્ડન્સ પાર્ટી	Partio de la Sendependeco de Porto-Riko
+થેમ્સ	Tamizo
+નાતાલ	Kristnasko
+લિપ વર્ષ	Superjaro
+લેડી ગાગા	Lady Gaga
+વાઘ	Tigro
+બીગલ	Biglo
+કુર્કુટાકાર	Kokoformaj birdoj
+ડુબકી કુટુંબ	Greboj
+ઑડિશા	Odiŝo
+GFDL	Permesilo de GNU por Liberaj Dokumentoj
+પંજાબ, ભારત	Panĝabo (Barato)
+અક્ષાંશ-રેખાંશ	Geografia koordinata sistemo
+યુઇએફએ યૂરો ૨૦૧૨	Eŭropa Futbal-Ĉampionado 2012
+બેંક	Banko
+આયરલેંડનું ગણતંત્ર	Irlando (insulo)
+અઠવાડિયું	Semajno
+હરણ	Cervedoj
+લસણ	Ajlo
+કાકડી	Kukumo
+કાળો	Nigro
+ડુંગળી	Cepo
+નાસા	NASA
+એટલાન્ટા, જ્યોર્જિયા	Atlanta (Georgio)
+વેલિંગ્ટન	Velingtono
+૧૦ (અંક)	10 (nombro)
+પરમાણુ ક્રમાંક	Atomnumero
+માનવ શરીર	Homa korpo
+ચિત્તો	Gepardo
+કસ્તુરી	Merlo
+વટાણા (વનસ્પતિ)	Ĝardena pizo
+કબુત	Griza ardeo
+ખજૂર	Daktilopalmo
+વંદો	Blato
+મૃદુકાય સમુદાય	Moluskoj
+માછીમાર	Fiŝaglo
+શેવાળ	Muskoj
+તારા માછલી	Marstelo
+સફેદ ઢોંક	Blanka cikonio
+બાજ (પક્ષી)	Akcipitro
+દસાડી	Nigra fuliko
+નાની ડુબકી	Malgranda grebo
+ચોટીલી ડુબકી	Tufgrebo
+જળ કાગડો	Granda kormorano
+સીંગપર (બતક)	Pintvostanaso
+વિલાયતી પટ્ટાઇ	Blua cirkuo
+અબલખ	Hematopo
+થ્રશ કુટુંબ	Turdedoj
+પાન પટ્ટાઇ	Marĉa cirkuo
+કલવેતીયો	Tufanaso
+જ્યોર્જીયા (દેશ)નો રાષ્ટ્રધ્વજ	Flago de Kartvelio
+ઉપગ્રહ પ્રક્ષેપણ યાન	Artefarita satelito
+યાક	Gruntbovo
+પટ્ટી પટ્ટાઇ	Griza cirkuo
+લવિંગ	Kariofilo
+કાચબરંગી	Koluma ŝtonturnulo
+લક્ષદ્વીપ	Lakŝadivoj
+અશેળિયો	Ĝardenkreso
+કપાસી	Nigraflugila milvo
+એસી/ડીસી	AC/DC
+ક્રિસ્ટાડેલ્ફિઅન્સની	Kristadelfianoj
+તજ	Cinamo
+અમ્હારિક ભાષા	Amhara lingvo
+ચામાચિડિયું	Kiropteroj
+વાળ	Haro
+પાયથોન(પ્રોગ્રામિંગ ભાષા)	Python (programlingvo)
+ઇસ્લામીક પંચાંગ	Islama kalendaro
+ચકલી	Paseredoj
+આસામીઝ ભાષા	Asama lingvo
+ટીમરુ	Persimono
+મધર ટેરેસા	Patrino Teresa
+પૂર્વ તિમોરનો રાષ્ટ્રધ્વજ	Flago de Orienta Timoro
+હેણોતરો	Karakalo (besto)
+બ્લૉગ	Blogo
+જલગાંવ	Ĝalgaon
+ડેન્ગ્યુ	Dengo
+ક્રિસમસ દ્વીપ	Kristnaskinsulo
+અમેરિકન એરલાઇન્સ	American Airlines
+વૅલેન્શિયન	Valencia lingvo
+ડોગરી ભાષા	Dogra lingvo
+મલાલા યુસુફઝઈ	Malala Yousafzai
+આર્મેનિયાનો રાષ્ટ્રધ્વજ	Flago de Armenio
+બોડો ભાષા	Bodoa lingvo
+મુઘલ યુગ	Mogola Imperio
+ઇલાયચી	Kardamomo
+કાશ્મીરી ભાષા	Kaŝmira lingvo
+ધ્રુવીય રીંછ	Blanka urso
+કન્નડ ભાષા	Kannada lingvo
+હાથ	Mano
+ઓડિઆ ભાષા	Odia lingvo
+નેપાળી ભાષા	Nepala lingvo
+વસ્તી	Loĝantaro
+મણિપુરી ભાષા	Manipura lingvo
+અસાઈ તાડ	Asaio
+સંથાલી ભાષા	Santala lingvo
+નેપાલ ભાષા	Nevara lingvo
+સિંધી ભાષા	Sinda lingvo
+કાજુ	Akaĵuo
+ધોધ	Akvofalo
+માખણ	Butero
+પાબ્લો નેરુદા	Pablo Neruda
+કોંકણી ભાષા	Konkana lingvo
+એલેક્ઝાન્ડર ગ્રેહામ બેલ	Alexander Graham Bell
+જ્યોતિષવિદ્યા	Astrologio
+સંગીત વાદ્ય	Muzika instrumento
+હંસ	Cigno
+બેનઝિર ભુટ્ટો	Benazir Bhutto
+ઓક્સફોર્ડ યુનિવર્સિટી	Universitato de Oksfordo
+માર્ગ	Vojo
+હેલિકોપ્ટર	Helikoptero
+હિપોપોટેમસ	Amfibia hipopotamo
+આંગળી	Fingro
+ગુલાબ	Rozo
+દિપડો	Leopardo
+સાલ્ઝબર્ગ	Salzburg
+ગ્રીસની પૌરાણિક માન્યતાઓ	Helena mitologio
+હોકાયંત્ર	Kompaso
+ક્ષ-કિરણો	Ikso-radioj
+પપૈયાં	Papajo
+વિશ્વ કુસ્તી મનોરંજન	World Wrestling Entertainment
+ટીટીકાકા સરોવર	Lago Titikako
+કોલંબો	Kolombo (urbo)
+મદીના	Medino
+કેમ્બ્રિજ વિશ્વવિદ્યાલય	Universitato de Kembriĝo
+જરથુષ્ટ્ર	Zaratuŝtro
+રાઈટ બંધુઓ	Fratoj Wright
+હેક્ટર	Hektaro
+બાપ્તિસ્મા (બૅપ્ટિઝમ)	Bapto
+ફુગાવો	Inflacio
+અરાલ સમુદ્ર	Aralo
+લામ્બોરગીની	Lamborghini
+લેન્ડ રોવર	Land Rover
+વાંસ	Bambuo
+સૌંદર્ય શાસ્ત્ર	Estetiko
+કોકોસ (કીલીંગ) દ્વીપ	Kokosinsuloj
+પિસ્તા	Pistakujo
+ક્વીન્સલેન્ડ	Kvinslando
+મિનેપોલિસ	Minneapolis
+મૈથિલી ભાષા	Maitila lingvo
+માર્ક ઝકરબર્ગ	Mark Zuckerberg
+મલયાલમ ભાષા	Malajala lingvo
+જીવનચરિત્ર	Biografio
+રેશમ માર્ગ	Silka Vojo
+તાઈકવૉન્દો	Tekvondo
+ઉંદર	Rato
+દ્વિપદ નામકરણ	Dunoma nomsistemo
+પાલિ ભાષા	Palia lingvo
+રોબર્ટ પેટિસન	Robert Pattinson
+મુંગેર	Monger
+સ્વાઇન ફ્લ્યુ	Porka gripo
+નખ	Ungo
+ઓઝોન	Ozono
+જાહેરાત	Reklamo
+સ્વતંત્રતા	Sendependeco
+એલેક્ઝાન્ડર ફ્લેમિંગ	Alexander Fleming
+સોલોમન	Salomono
+યાહૂ!	Yahoo!
+ફેબ્રુઆરી ૩૦	30-a de februaro
+ઓકલેન્ડ	Auckland
+ગુલબર્ગ	Gulbarga
+એ કે-૪૭	AK-47
+મિથેન	Metano
+મરિઉપોલ	Mariupolo
+ગીઝાનો મહાન પિરામિડ	Piramido de Keopso
+સિંધ	Sindo
+વર્તુળનો વ્યાસ	Diametro
+શિક્ષક	Instruisto
+સેન્ટ્રલ ઇન્ટેલિજન્સ એજન્સી	CIA
+રામાયણ	Ramajano
+અક્રોતીરી અને ધેકેલીયા	Akrotiri kaj Dekelia
+મગફળી	Ternukso
+ધુમ્મસ	Nebulo
+બહુકોણ	Plurlatero
+વેલેન્ટાઇન્સ ડે	Sankt-Valentena tago
+ગલ્ફ વોર	Golfa Milito
+રેશમ	Silko
+મિશ્રધાતુ	Alojo
+નિવસન તંત્ર	Ekologia sistemo
+રેફ્રિજરેટર	Fridujo
+ટપાલ ટિકિટ	Poŝtmarko
+શક્કરીયાં	Batato
+કાર્ટેન (Kärnten)	Karintio
+સમુરાઇ	Samurajo
+કોલંબિયા, દક્ષિણ કેરોલિના	Columbia (Suda Karolino)
+દેવનાગરી	Nagario
+તરબૂચ	Akvomelono
+પવનચક્કી	Ventmuelejo
+રિકટર મેગ્નીટયુડ સ્કેલ	Skalo de Richter
+લેસર	Lasero
+તાવ	Febro
+આંતરરાષ્ટ્રીય મહિલા દિન	Internacia tago de virinoj
+વોરાર્લબર્ગ	Vorarlbergo
+પીઝાનો ઢળતો મિનારો	Oblikva turo de Pizo
+સૂક્ષ્મ અર્થશાસ્ત્ર	Mikroekonomiko
+લીડ્ઝ	Leeds
+હડકવા	Rabio
+કીટ વિજ્ઞાન	Entomologio
+અતિવાસ્તવવાદ	Superrealismo
+દીવાદાંડી	Lumturo
+માર્કેટિંગ	Merkatiko
+સ્ટીફન કિંગ	Stephen King
+રેડિયો સ્ટુડિયો 54 નેટવર્કના	Radio Studio 54 Network
+દાયકો	Jardekoj
+બદામ	Migdalujo
+વેદ	Vedoj
+સિલ્વેસ્ટર સ્ટેલોન	Sylvester Stallone
+મેરેથોન	Maratono
+ગુડફ્રાઈડે	Granda vendredo
+રાશી	Zodiako
+ટેક્લોબેન	Tacloban
+યોહાન	Johano la Baptisto
+ઝેર	Veneno
+અતિસાર	Diareo
+અંદામાન અને નિકોબાર દ્વીપસમૂહ	Andamanoj kaj Nikobaroj
+પંડિત રામ નારાયણ	Ram Narayan
+ઇટાનગર	Itanagaro
+રશિયાનાં ગણતંત્રો	Respubliko (Rusio)
+વેગમાન સંરક્ષણનો નિયમ	Movokvanto
+નાઈટ્સ ટેમ્પ્લર	Templanoj
+તરંગલંબાઇ	Ondolongo
+સ્ટેનફોર્ડ યુનિવર્સિટી	Universitato Stanford
+ફ્રેન્ક લેમ્પાર્ડ	Frank Lampard
+કોથમીર	Kultiva koriandro
+મનોવિષ્લેષણ	Psikoanalizo
+રમઝાન	Ramadano
+ભારતનો રાષ્ટ્રધ્વજ	Flago de Barato
+વંશીય જૂથ	Etno
+એડનની ખાડી	Adena Golfo
+મનમોહન સિંહ	Manmohan Singh
+રાતો પાંડા	Malgranda pando
+સુરખાબ	Flamengo
+સાર્વભૌમત્વ	Suvereneco
+બકિંગહામ પેલેસ	Palaco Buckingham
+યુનિફોર્મ રિસોર્સ લોકેટર	URL
+ગૂગલ અર્થ	Google Earth
+ફાઇલ ટ્રાન્સ્ફર પ્રોટોકોલ	Dosiero-Transiga Protokolo
+ઊન	Lano
+પીડીએફ	Portebla dokumentformo
+નિહારિકા	Nebulozo
+યુનિવર્સલ સીરિયલ બસ	Universala Seria Buso
+તાલિબાન	Talibano
+પર્લ	Perl
+ઈંધણ (બળતણ)	Brulaĵo
+હળદર	Kurkumo
+એમપીથ્રી	MP3
+જંગલી બિલાડી	Ĝangala kato
+ભેંસ	Akvobubalo
+દાઢી	Barbo
+સૈગોન એરપોર્ટ	Flughaveno Long Thanh
+કૃષ્ણ	Kriŝno
+નિર્વાણ	Nirvano
+આગ્રા	Agra
+ચોમાસુ	Musono
+એલર્જી	Alergio
+સંક્ષિપ્ત સંદેશ સેવા	Servo de mallongaj mesaĝoj
+દુકાળ	Trosekeco
+કાળા મરી	Nigra pipro
+કાશ્મીર	Kaŝmiro
+વિકિપીડિયા:જાણીતા પ્રશ્નો	Helpo:Oftaj demandoj
+સ્વર્ગીય ગુફા	Kaverno Thien Duong
+હરિતદ્રવ્ય	Klorofilo
+વીમો	Asekuro
+ફ્રાન્સનો રાષ્ટ્રધ્વજ	Flago de Francio
+સંસ્થા	Organizaĵo
+ગેસ્ટાપો	Gestapo
+પ્રિન્સ ચાર્લ્સ	Karlo, princo de Kimrujo
+ટાઇમ (સામયિક)	Time
+કાગડો	Korvo
+ડિસ્કવરી ચેનલ	Discovery Channel
+ચંડીગઢ	Ĉandigaro
+વરિયાળી	Ordinara fenkolo
+સ્ફટિક	Kristalo
+મમી	Mumio
+હાઇડ્રોકાર્બન	Hidrokarbido
+એપોલો ૧૧	Apollo 11
+બર્મુડા ત્રિકોણ	Bermuda triangulo
+રણદ્વીપ	Oazo
+ટર્કી	Meleagro
+બ્રેમ્પ્ટન, ઓન્ટારીયો	Bramptono
+નાગોર્નો-કરબાખ ગણરાજ્ય	Montara Karabaĥo
+ધ અંડરટેકર	Mark Calaway
+જિહાદ	Ĝihado
+ઉષ્મા	Varmo
+મંદિર	Templo
+કલકલિયો	Alcededoj
+અળસી	Ordinara lino
+કોલ્ડપ્લે	Coldplay
+સ્વસ્તિક	Svastiko
+કંદહાર	Kandaharo
+નીલગિરી	Eŭkalipto
+ફણસ	Jakvo
+માછલીઘર	Akvario
+રાજા આર્થર	Reĝo Arturo
+લાલ કિલ્લો	Ruĝa fortikaĵo
+દાદરા અને નગરહવેલી	Dadro kaj Nagar-Havelio
+વિદ્યુત ક્ષેત્ર	Elektra kampo
+ચાર્લ્સ બૅબેજ	Charles Babbage
+ફીજી હિન્દી	Fiĝa hinda lingvo
+હેરી પોટર એન્ડ ધ ડેથલી હેલોઝ	Hari Poter kaj la Sanktaĵoj de la Morto
+શ્રીમદ્ ભગવદ્ ગીતા	Bagavadgito
+ઑસ્ટ્રિયાનો રાષ્ટ્રધ્વજ	Flago de Aŭstrio
+અખરોટ	Reĝa juglando
+ઐશ્વર્યા રાય	Aishwarya Rai
+કુ ક્લક્સ ક્લાન	Ku-Kluks-Klano
+બ્રાહ્મણ	Brahmo
+વોરન બફેટ	Warren Buffett
+કામસૂત્ર	Kamasutro
+સ્વામી વિવેકાનંદ	Vivekananda
+એકમ	Mezurunuo
+ફિબોનાકિ	Fibonaĉi-nombro
+રક્તના પ્રકાર	Sangogrupo
+કેથરિન ઝેટા-જોન્સ	Catherine Zeta-Jones
+બ્લેક સબાથ	Black Sabbath
+પ્રમબનન	Prambanano
+મુસલમાન	Islamano
+પ્રતિભા પાટીલ	Pratibha Patil
+પત્તા	Ludkarto
+ફીનલેંડનો રાષ્ટ્રધ્વજ	Flago de Finnlando
+લખનૌ	Laknaŭo
+ઢાંચો:Commons category	Ŝablono:Commonscat
+જર્મનીનો રાષ્ટ્રધ્વજ	Flago de Germanio
+યુરિયા	Ureo
+અમૃતસર	Amritsar
+આલ્બેનિયાનો રાષ્ટ્રધ્વજ	Flago de Albanio
+ઓર્લાન્ડો, ફ્લોરિડા	Orlando
+પર્યટન	Turismo
+માન્ચેસ્ટર સિટી ફૂટબૉલ ક્લબ	Manchester City F.C.
+ચલ	Variablo
+અવયવ	Divizoro
+ઢાંચો:Chembox	Ŝablono:Informkesto kemia substanco
+ઢાંચો:Taxobox	Ŝablono:Taksonomio
+ઈથેન	Etano
+ઢાંચો:Infobox legislature	Ŝablono:Informkesto parlamento
+હોલો	Turka turto
+શ્રેણી:ચલચિત્ર	Kategorio:Filmo
+પંજાબી ભાષા	Panĝaba lingvo
+આદમ અને હવા	Adamo kaj Evo
+અરબી સમુદ્ર	Araba Maro
+પ્રદૂષણ	Poluo
+સરસ્વતી દેવી	Sarasvati
+ઉંબરો (વૃક્ષ)	Fikuso
+હેઇદી ક્લુમ	Heidi Klum
+ડેનમાર્કનો રાષ્ટ્રધ્વજ	Dannebrog
+સી. વી. રામન	Chandrasekhara Venkata Raman
+નવી મુંબઈ	Novmumbajo
+ટાવર ઓફ લંડન	Turo de Londono
+આરમીન વન બ્યુરન	Armin van Buuren
+મૌર્ય વંશ	Maŭrja imperio
+પિત્તાશય	Gala veziko
+વિદ્યુત વિચ્છેદન-વિશ્લેષણ (ઇલેક્ટ્રોલિસિસ)	Elektrolizo
+વિનિમય દર	Kurzo
+જયપુર	Ĝajpuro
+કાનપુર	Kanpur
+ઈંદોર	Indaur
+દમણ અને દીવ	Damano kaj Diuo
+પૉંડિચેરી	Pondiĉero
+અસ્થિભંગ	Frakturo
+હેલ-બોપ ધૂમકેતુ	Kometo Hale-Bopp
+ટેટ્રીસ (રમત)	Tetriso
+નાનો જળ કાગડો	Eta kormorano
+મખમલી થડચડ	Velurfrunta sito
+ડેલ્ફી	Delfo
+સેમ્યુઅલ મોર્સ	Samuel Morse
+બોરિસ બેકર	Boris Becker
+એમિથિસ્ટ	Ametisto
+ચક્રવાત	Ciklono
+બેરોમીટર	Barometro
+ગિનિ પિગ	Kobajo
+અફઘાનિસ્તાનનો રાષ્ટ્રધ્વજ	Flago de Afganio
+મોર્સ કોડ	Morsa kodo
+વિકિપીડિયા:ચકાસણીયોગ્યતા	Vikipedio:Kontrolebleco
+ક્રાઇસ્ટ ધ રિડીમર	Statuo de Kristo Savinto (Rio de Janeiro)
+વારાણસી	Varanasio
+ઇથરનેટ	Eterreto
+ઓઝોન સ્તર	Ozona tavolo
+કુંવારપાઠું	Aloo vera
+કેનેડાનો રાષ્ટ્રધ્વજ	Flago de Kanado
+ખાટી આમલી	Tamarindo (arbo)
+પટના	Patnao
+ભારતીય રૂપિયો	Barata rupio
+ભીંડા	Gombo
+એપ્રિલ ફૂલ્સ ડે	Ŝercotago
+પશુપાલન	Bredado
+ભોપાલ	Bhopalo
+વાકછટા	Retoriko
+જળ ચક્ર	Akvocirkulado
+હોમિયોપેથી	Homeopatio
+સ્વચાલિત ગણક યંત્ર (ATM)	Bankaŭtomato
+હેરિસન ફોર્ડ	Harrison Ford
+ચણા	Kikero
+ઈન્ટરનેટ પ્રોટોકોલ સ્યુટ	TCP-IP
+પાલક (ભાજી)	Legoma spinaco
+ઈસ્ટોનિયાનો રાષ્ટ્રધ્વજ	Flago de Estonio
+એન્ડોરાનો રાષ્ટ્રધ્વજ	Flago de Andoro
+ઑસ્ટ્રેલિયાનો રાષ્ટ્રધ્વજ	Flago de Aŭstralio
+ફાસ્ટ ફૂડ	Rapidmanĝejo
+કાતરા (ઈયળ)	Raŭpo
+હંગેરીનો રાષ્ટ્રધ્વજ	Flago de Hungario
+કાંચનજંઘા	Kangchenjunga
+અઝેરબીજાનનો રાષ્ટ્રધ્વજ	Flago de Azerbajĝano
+વિરામચિહ્નો	Interpunkcio
+પર્યાવરણ સંરક્ષણ સ્થિતિ	Konserva statuso
+ઇમેજ સ્કેનર	Skanilo
+ચીનનો ઇતિહાસ	Historio de Ĉinio
+પેટ્રોનાસ જોડિયા ટાવર	Petronas-turoj
+જન ગણ મન	Ĝana Gana Mana
+શ્રીનિવાસ રામાનુજન	Srinivasa Aiyangar Ramanujan
+જાયફળ	Muskato
+ઘર ઉંદર	Hejma muso
+ગુરુનાનક	Guru Nanak
+લિક્વિડ ક્રિસ્ટલ ડિસ્પ્લે	Likvokristala ekrano
+અંગુષ્ઠ	Dikfingro
+શાકાહારી	Vegetarismo
+અલ્જીરીયાનો રાષ્ટ્રધ્વજ	Flago de Alĝerio
+પર્યાયોક્તિ	Eŭfemismo
+જુડાસ પ્રિસ્ટ	Judas Priest
+સુસાન બોયલ	Susan Boyle
+શાહજહાં	Ŝaho Jahano
+શિમલા	Ŝimla
+કાર્લ લેન્ડસ્ટેઇનર	Karl Landsteiner
+પોલેંડબોલ	Pollandpilko
+ઢાંચો:Cite book	Ŝablono:Citaĵo el libro
+એલિસેઝ એડવેન્ચર્સ ઇન વન્ડરલેન્ડ	La aventuroj de Alicio en Mirlando
+સુભાષ કાક	Subhash Kak
+ટ્યૂલિપ	Tulipo
+ઇમુ	Emuo
+આઈસલેંડનો રાષ્ટ્રધ્વજ	Flago de Islando
+સ્વાઈન ફલૂ	Gripa pandemio de 2009
+ઈંડોનેશિયાનો રાષ્ટ્રધ્વજ	Flago de Indonezio
+ગાબોનનો રાષ્ટ્રધ્વજ	Flago de Gabono
+જિબુટીનો રાષ્ટ્રધ્વજ	Flago de Ĝibutio
+બાઇનૉક્યુલર	Binoklo
+સંક્ષિપ્ત શબ્દ	Mallongigo
+હોન્ડુરાસનો રાષ્ટ્રધ્વજ	Flago de Honduro
+કેપ વર્દુનો રાષ્ટ્રધ્વજ	Flago de Kaboverdo
+ગિની-બિસ્સાઉનો રાષ્ટ્રધ્વજ	Flago de Gvineo Bisaŭa
+હૈતીનો રાષ્ટ્રધ્વજ	Flago de Haitia Respubliko
+ગ્રેનેડાનો રાષ્ટ્રધ્વજ	Flago de Grenado
+બહામાનો રાષ્ટ્રધ્વજ	Flago de la Bahamoj
+રવિ શંકર	Ravi Shankar
+પલ્‍પ ફિક્શન (ફિલ્‍મ)	Pulp Fiction
+બાર્બાડોસનો રાષ્ટ્રધ્વજ	Flago de Barbado
+અર્ધ વિરામ	Punktokomo
+હુક્કો	Nargileo
+છાશ	Buterlakto
+માર્કની લખેલી સુવાર્તા	Evangelio laŭ Marko
+રાજ્ય	Subŝtato
+કીટલી	Bolkruĉo
+ગિરનારી કાગડો	Grandbeka korvo
+રાધા	Radhao
+કાબર	Ordinara minao
+મોર બાજ	Kresta akcipitraglo
+લેધરબેક કાચબો	Leddorsa martestudo
+અલિસિયા કીઝ	Alicia Keys
+ગર્ભનિરોધ	Kontraŭkoncipilo
+સીસમ	Palisandro
+ગીધ	Vulturo
+ગોલ્ડફિશ	Orfiŝo (fiŝo)
+વિલુપ્ત જાતિ	Formorto
+અવાજની ઝડપ	Rapido de sono
+નીલ્સ હેન્રીક અબૅલ	Niels Henrik Abel
+સ્કોર્પિયન્સ (બેન્ડ)	Scorpions
+અંગોલાનો રાષ્ટ્રધ્વજ	Flago de Angolo
+મીણ	Vakso
+સ્લમડોગ મિલિયોનેર	Slumdog Millionaire
+અવાક	Noktardeo
+ઈરાનનો રાષ્ટ્રધ્વજ	Flago de Irano
+આંગણવાડી	Infanĝardeno
+ઍરોસ્મિથ	Aerosmith
+મેંગલોર	Mangaloro
+ઝેક ગણરાજ્યનો રાષ્ટ્રધ્વજ	Flago de Ĉeĥio
+બાંગ્લાદેશનો રાષ્ટ્રધ્વજ	Flago de Bangladeŝo
+સમઘટકતા	Izomero
+ચરબી	Graso
+ઇન્દ્ર	Indro
+ભારતના ભાગલા	Dispartigo de Hindio
+ગ્રીસનો રાષ્ટ્રધ્વજ	Flago de Grekio
+હ્યુજ જેકમેન	Hugh Jackman
+યતી (હિમ માનવ)	Jetio
+૧૮૫૭નો ભારતીય વિપ્લવ	Ribelo de sipajoj
+જ્યોર્જ માઇકલ	George Michael
+જાપાનનો ઇતિહાસ	Historio de Japanio
+ઇજિપ્તનો રાષ્ટ્રધ્વજ	Flago de Egiptio
+બહેરીનનો રાષ્ટ્રધ્વજ	Flago de Barejno
+આર્જેન્ટીનાનો રાષ્ટ્રધ્વજ	Flago de Argentino
+અન્ના કુર્નિકોવા	Anna Kurnikova
+વાયુનું પ્રદૂષણ	Aera poluado
+ચીનનો રાષ્ટ્રધ્વજ	Flago de Ĉinio
+શરીર વજન અનુક્રમ	Korpomasa indico
+અક્ષય વિકાસ	Daŭripova disvolviĝo
+સૌંદર્ય પ્રસાધનો	Kosmetiko
+મસુર	Lento
+વિદ્યુતજનીન	Generatoro
+એસોટેરિક (અમુક વ્યક્તિઓ જ સમજી શકે તેવું)	Esoterismo
+મંત્ર	Mantro
+બૂમરેંગ	Bumerango
+ભારતનાં રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો	Ŝtatoj de Barato
+ઉચિત વપરાશ	Justa uzo
+વાડી	Bieno
+જંતુનાશક	Pesticido
+રબર	Gumo
+કાલિ	Kalio (diino)
+ઉત્સવ	Festivalo
+આયુર્વેદ	Ajurvedo
+અમર્ત્ય સેન	Amartya Sen
+રિસાયક્લિંગ	Recikligo
+જંગલી કૂતરો	Montara kuono
+જીરું	Kumino
+બેલારુસનો રાષ્ટ્રધ્વજ	Flago de Belorusio
+યમુના	Jamuna
+ડિસ્લેક્સીયા	Disleksio
+ક્રોએશિયાનો રાષ્ટ્રધ્વજ	Flago de Kroatio
+પગ	Kruro
+ભારતનો ઇતિહાસ	Historio de Barato
+અંધવિશ્વાસ	Superstiĉo
+મેથી	Fenugreko
+કસિનો	Kazino
+કમળો	Iktero
+મરકી	Pesto
+પ્રાથમિક સારવાર	Sukuro
+લિંગ ઉત્થાન	Erektiĝo
+હીમોફીલિયા	Hemofilio
+તાઓ તે ચીંગ	Daŭdeĝingo
+ગેમ્બિયાનો રાષ્ટ્રધ્વજ	Flago de Gambio
+એન્ટિગુઆ એન્ડ બાર્બુડાનો રાષ્ટ્રધ્વજ	Flago de Antigvo-Barbudo
+ભારતની ભાષાઓની સૂચી	Lingvoj de Barato
+ગૂગલ અનુવાદ	Google-Tradukilo
+અંકશાસ્ત્ર	Numerologio
+દાંતનું ચોકઠું	Dentproteziko
+વિકિપીડિયા:સ્ટબ	Reta topologio
+સાર્ક	Sud-Azia Unuiĝo por Regiona Kunlaboro
+કઠોળ	Guŝo
+હાઉ આઇ મેટ યોર મધર	How I Met Your Mother
+હોર્નેડ ગુઆન	Kornomutuo
+કાજોલ	Kajol
+સુબ્રમણ્યન ચંદ્રશેખર	Subrahmanyan Chandrasekhar
+જિલ્લો	Distrikto
+મદદ:સંપાદન	Helpo:Redakti
+પાન્ડુ શામા	Blua rokturdo
+કરેણ	Oleandro
+રજકો	Luzerno
+પેન્શન	Pensio
+ડૉ. સર્વપલ્લી રાધાકૃષ્ણન	Sarvepalli Radhakrishnan
+માંકડું	Rezuso
+કફોત્પાદક ગ્રંથિ	Hipofizo
+સાગ	Granda tektono
+ચાર્લ્સ લુસિઅન બોનાપાર્ટ	Charles Lucien Bonaparte
+રૂખડો (વનસ્પતિ)	Baobabo
+ડેઝા વુ	Déjà vu
+ગ્વાલિયર	Gvalior
+પ્રિયંકા ચોપરા	Prijanka Ĉopra
+માધ્યમિક શાળા	Mezlernejo
+ડચ ઇસ્ટ ઇંડિયા કંપની	Nederlanda Orient-hinda Kompanio
+કેમરૂનનો રાષ્ટ્રધ્વજ	Flago de Kameruno
+સંયુક્ત રાષ્ટ્રસંઘના સભ્ય દેશોની યાદી	Membroŝtatoj de Unuiĝintaj Nacioj
+બોલપેન	Globkrajono
+કોલમ્બિયાનો રાષ્ટ્રધ્વજ	Flago de Kolombio
+મહમદ અલી ઝીણા	Muhammad Ali Jinnah
+લંડન આઇ (વિરાટ ચકડોળ)	Londona Okulo
+ચિત્તભ્રમણા	Deliro
+ચીલીનો રાષ્ટ્રધ્વજ	Flago de Ĉilio
+પેચીયું (સ્ક્રૂ ડ્રાઇવર)	Ŝraŭboturnilo
+શહેરીકરણ	Urbanizado
+ક્રમચય	Permutaĵo
+અલ્પ વિરામ	Komo
+ઇથોપિયાનો રાષ્ટ્રધ્વજ	Flago de Etiopio
+સ્વચ્છતા	Higieno
+સ્ટેથોસ્કોપ	Stetoskopo
+અલ્હાબાદ	Allahabad
+ધિરાણનું જોખમ	Kreditrisko
+કમ્બોડીયાનો રાષ્ટ્રધ્વજ	Flago de Kamboĝo
+ક્યુબાનો રાષ્ટ્રધ્વજ	Flago de Kubo
+સોનિયા ગાંધી	Sonia Gandhi
+કોંગોનું ગણતંત્રનો રાષ્ટ્રધ્વજ	Flago de Kongo Brazavila
+વોલ્વો	Volvo (firmao)
+સિલિકૉન વૅલી	Silicon Valley
+કોંગોનું લોકતંત્રીય ગણતંત્રનો રાષ્ટ્રધ્વજ	Flago de la Demokratia Respubliko Kongo
+કરી (મસાલેદાર રસાવાળી વાની)	Kareaĵo
+મરચું	Kapsiketo
+પીરોજ	Turkiso
+કાર્બ્યુરેટર	Karburilo
+ગિનિનો રાષ્ટ્રધ્વજ	Flago de Gvineo
+ઈક્વેડોરનો રાષ્ટ્રધ્વજ	Flago de Ekvadoro
+મધ્ય આફ્રીકી ગણતંત્રનો રાષ્ટ્રધ્વજ	Flago de la Centr-Afrika Respubliko
+ચૅડનો રાષ્ટ્રધ્વજ	Flago de Ĉado
+પોલેંડ રાષ્ટ્રીય ફૂટબોલ ટીમ	Pola nacia teamo de futbalo
+સાત ઘોર પાપ (ખ્રિસ્તી ધર્મ)	Sep gravegaj pekoj
+ઉદ્‌ગારચિહ્ન	Krisigno
+કોર્પોરેશન	Entrepreno
+મધ્યમા	Mezfingro
+તિરુવનંતપુરમ્	Thiruvananthapuram
+ભૂસ્ખલન	Terglito
+બાષ્પોત્સર્જન	Planta transpirado
+તાઈ ચી ચુઆન	Tajĝiĉuano
+માયોપીઆ	Miopio
+કોમોરોસનો રાષ્ટ્રધ્વજ	Flago de la Komoroj
+જામીનગીરીઓ	Valorpapero
+વનનાબૂદી	Senarbarigo
+કેટ હડસન	Kate Hudson
+દાર્જિલિંગ	Darĝiling
+શ્રીનગર	Srinagaro
+યાટ	Jaĥto
+કોસ્ટારિકાનો રાષ્ટ્રધ્વજ	Flago de Kostariko
+તાલ	Ritmo (muziko)
+વિશ્વ આર્થિક મંચ	Monda Ekonomia Forumo
+સ્ક્રેબલ	Skrablo
+લીમડો	Hinda azadiraĥto
+ફેંગ શુઇ	Fengŝuo
+ઈક્વેટોરીયલ ગીનીનો રાષ્ટ્રધ્વજ	Flago de Ekvatora Gvineo
+એરિટ્રિયાનો રાષ્ટ્રધ્વજ	Flago de Eritreo
+લસિકા ગાંઠ	Limfaj ganglioj
+ગયાનાનો રાષ્ટ્રધ્વજ	Flago de Gujano
+દાનીયેલ	Danielo (profeto)
+ભુવનેશ્વર	Bhubanesvar
+આગ્રાનો કિલ્લો	Fortikaĵo Agra
+ફ્રેન્ચાઇઝીંગ	Franĉizo
+પૂર્ણ વિરામ	Punkto (interpunkcio)
+વળગાડ મુક્તિ	Ekzorcismo
+સાડી	Sario
+કૃષિવિજ્ઞાન	Agronomio
+માર્વલ કૉમિક્સ	Marvel Comics
+સુવર્ણ માનક	Orbazo
+ખાદ્ય પદાર્થની સાચવણી	Konservado
+અલ સાલ્વાડોરનો રાષ્ટ્રધ્વજ	Flago de Salvadoro
+યરૂશાલેમના હિબ્રુ યુનિવર્સિટી	Hebrea Universitato de Jerusalemo
+સિવિલ એવિએશન રાષ્ટ્રીય શાળા	École nationale de l'aviation civile
+રાંચી	Ranĉi
+કૌંસ	Krampo (interpunkcio)
+એગોરાફોબિયા	Agorafobio
+વિકિપીડિયા:અવરોધન નીતિ	Vikipedio:Regularo pri forbaro
+હિન્દુ-અરેબીક અંકો	Eŭropaj ciferoj
+મંગળના ચંદ્રો	Naturaj satelitoj de Marso
+સરસ્વતી નદી	Sarasvati (rivero)
+મહાવિરામ	Dupunkto
+ફુલરિન (Fullerene)	Fulereno
+ગ્વાટેમાલાનો રાષ્ટ્રધ્વજ	Flago de Gvatemalo
+નિંદામણનાશક	Herbicido
+તર્ક	Racio
+સોનેરી પીઠવાળું લક્કડખોદ	Nigrapuga fajrdorsulo
+કબજિયાત	Konstipo
+કાંડા ઘડિયાળ	Brakhorloĝo
+ખજુરાહો	Khaĝuraho
+ઍલ્કેમિસ્ટ	La alkemiisto
+ફતેહપૂર સિક્રી	Fatehpur Sikri
+ડોમિનિકાનો રાષ્ટ્રધ્વજ	Flago de Dominiko
+શિયાળુ મોટી ડુબકી	Grizvanga grebo
+અવકાશ સંશોધન	Kosmoesploro
+રૂપેરી પેણ	Makulbeka pelikano
+કચરાનો પ્રબંધ	Rubmastrumado
+સુવર્ણ મંદિર, અમૃતસર	Harmandir Sahib
+એના નિકોલ સ્મિથ	Anna Nicole Smith
+મેલાટોનિન	Melatonino
+એપોલો ૧૭	Apollo 17
+સાંચીનો સ્તુપ	Sanĉi
+કપૂર	Kamforo
+ફીજીનો રાષ્ટ્રધ્વજ	Flago de la Fiĝioj
+રેકી	Rejkio
+રામકૃષ્ણ પરમહંસ	Ramakriŝna
+પાણીનું પ્રદૂષણ	Akvopoluado
+વિગતવાર વિજ્ઞાન પોલીટેકનિક ઇન્સ્ટિટ્યુટ	Institut polytechnique des sciences avancées
+કો-ઍક્સિયલ કેબલ	Samaksa kablo
+હલવો	Halvao
+લાલી (લિપસ્ટીક)	Lipoŝminko
+ડોમિનિકન ગણતંત્રનો રાષ્ટ્રધ્વજ	Flago de Domingo
+ગૉડફ્રે હારૉલ્ડ હાર્ડિ	Godfrey Harold Hardy
+અજંતાની ગુફાઓ	Aĝanto
+રૂઢિપ્રયોગ	Idiotismo
+તર્જની	Montrofingro
+સિકલસેલ એનીમિયા રોગ	Serpoĉela anemio
+શિયાળુ નાની ડુબકી	Nigrakola grebo
+શ્રેણી:મેના-કાબર કુટુંબ	Sturnedoj
+કાંડુ (શરીર)	Pojno
+અર્જુન	Arĵuno
+વૈશ્ય	Vaiŝjo
+ફિઝિયોથેરાપી	Fizioterapio
+અયોધ્યા	Ajodhjo
+ગંગટોક	Gangtok
+ધર્મશાલા	Dharamsala
+મેડમ તુસાદ સંગ્રહાલય	Madame Tussauds
+અભિષેક બચ્ચન	Abhishek Bachchan
+વિકીમેપિયા	WikiMapia
+મોનોરેલ	Unurelvojo
+પોલિએસ્ટર	Poliestero
+કુદરતી સંપત્તિ	Krudmaterialo
+હનુમાન	Hanumano
+ઝરખ	Hieno
+પ્રીટિ ઝિન્ટા	Preity Zinta
+સહી (હસ્તાક્ષર)	Subskribo
+ખેતર	Kampo (agrikulturo)
+શિક્ષક દિન	Tago de instruisto
+મત્સ્યઉછેર	Akvokulturo
+ઇલોરાની ગુફાઓ	Ellora
+હુમાયુનો મકબરો	Tombo de Humajun
+અષ્ટાધ્યાયી	Panini
+મતદાન	Voĉdonado
+શક સંવત	Hinda kalendaro
+વિલવણીકરણ	Sensaligo
+લૌહ અયસ્ક	Fererco
+કરકરો	Fraŭlingruo
+નાણાકીય વર્ષ	Financa jaro
+ભારતીય વાનગીઓ	Barata kuirarto
+અનામિકા	Ringofingro
+વ્યાપાર ચક્ર	Konjunkturo
+બાળ કામદાર	Infanlaboro
+વ્યવસાય	Verko
+રાજગીધ	Reĝa katarto
+કાઝીરંગા રાષ્ટ્રીય ઉદ્યાન	Nacia Parko Kaziranga
+ઋતુ-પ્રવાસ	Bestomigrado
+ક્રોપ સર્કલ	Agroglifoj
+ખંજરી (વાદ્ય)	Tamburino
+બંજી જમ્પિંગ	Saltado sur ŝnuro
+રાજેન્દ્ર પ્રસાદ	Rajendra Prasad
+લીલો દરીયાઈ કાચબો	Kelonio
+દેહરાદૂન	Dehradun
+ગુવાહાટી	Guvahati
+લેસર પ્રિન્ટર	Lasera presilo
+વિશાખાપટનમ	Visakhapatnam
+વિજયવાડા	Vijajaŭada
+જોધપુર	Ĝodhpur
+અજમેર	Aĝmer
+લુધિયાણા	Ludhiana
+નાસિક	Nasiko
+મેરઠ	Merath
+પારસી	Parsioj
+મથુરા	Mathura
+ઉદયપુર	Udaipur
+ફરીદાબાદ	Faridabado
+લડાખ	Ladako
+ઔરંગાબાદ	Aŭrangabado (Maharaŝtro)
+જબલપુર	Ĝabalpur
+વાર્ટા નદી (યુરોપ)	Varto
+અલીગઢ	Aligarh
+વાટાઘાટ	Traktado
+બ્રહ્મગુપ્ત	Brahmagupta
+વામકુક્ષિ	Siesto
+કાળી ચા	Nigra teo
+ખાદ્ય અને ઔષધ વહીવટીતંત્ર	Usona Manĝo kaj Drogo Servo
+હાવડા	Haora
+જેટ વિમાન	Reagaviadilo
+ગાઝિયાબાદ	Gaziabad
+રીવર રાફ્ટિંગ	Flosado
+કટક	Kataka
+યુરોપ દિન	Eŭropa tago
+મહાબલીપુરમ	Mahabalipuram
+સૂડો	Kolumpapago
+૧૯૬૨નું ભારત-ચીન યુદ્ધ	Ĉin-barata Milito
+ઉંચાઇ	Alto
+કોલ્હાપૂર	Kolhapur
+ઓછી ચિંતાજનક જાતિ	Malplej zorgiga
+ઘાસચારો	Furaĝo
+સુગરી	Ploceedoj
+બરેલી	Barejli
+વારંગલ	Warangal
+નિસર્ગોપચાર	Naturkuracado
+ગાંધાર	Gandhara
+યાયાવર પક્ષીઓ	Birdomigrado
+એમપી	Mp
+ગુર્જીય્ફ	Georgij Gurĝijev
+મોરારજી દેસાઈ	Morarji Desai
+સાબુદાણા	Saguo
+વુઝૂ	Vozuo
+દલિત	Dalito
+ગટરવ્યવસ્થા	Akvopurigejo
+બપૈયો	Akcipitra kukolo
+કાચબો	Testuduloj
+ઓલ ઈન્ડિયા મુસ્લિમ લીગ	Tuthindia Islama Ligo
+અળવી (વનસ્પતિ)	Taro (planto)
+કનીષ્ઠિકા	Etfingro
+તાળું	Seruro
+મદુરાઇ	Maduraj
+કળિયુગ	Kali Juga
+કેથોલિક યુનિવર્સિટી ઓફ સેકર્ડ હર્ટ	Università Cattolica del Sacro Cuore
+રાષ્ટ્રીય પંચાંગ	Barata nacia kalendaro
+ઇસરો	Barata Organizo pri Kosmo Esplorado
+લોક સભા	Lok Sabha
+ઉજળી પટ્ટાઇ	Stepcirkuo
+અણ્ણા હઝારે	Anna Hazare
+ઓરકુટ	Orkut
+ડૉ. ભીમરાવ રામજી આંબેડકર	Bhimrao Ramji Ambedkar
+સમાંતર કમ્પ્યુટિંગ	Paralela komputado
+અટલ બિહારી વાજપેયી	Atal Bihari Vajpayee
+માન સરોવર	Lago Manasarovar
+જામા મસ્જિદ, દિલ્હી	Moskeo de la Vendredoj
+ક્વિંગઝાંગ રેલ્વે	Ĉinghaj-Tibeta fervojo
+નર્મદા નદી	Narmado
+કોહિમા	Kohima
+બીલી	Aegle marmelos
+નમાજ઼	Salat
+એ.સી. ભક્તિવેદાંત સ્વામી પ્રભુપાદ	A.C. Bhaktivedanta Svami Prabhupada
+સુકો મેવો	Seka frukto
+સોનોગ્રાફી પરીક્ષણ	Sonografio
+હજ	Haĝo
+પરંપરાગત સંગીત	Popola muziko
+કેવલાદેવ રાષ્ટ્રીય ઉદ્યાન	Nacia Parko Keoladeo
+છત્રપતિ શિવાજી ટર્મિનસ	Chhatrapati Shivaji
+ગોખરુ (વનસ્પતિ)	Tera tribuluso
+સોલાપૂર	Solapur
+દાંડી સત્યાગ્રહ	Salomarŝo
+શિવાજી	Ŝivaĝi
+મધ્યમ વર્ગ	Meza klaso
+સહરાનપુર	Saharanpur
+જેસલમેર	Jaisalmer
+બોરડી	Jujubarbo
+ભાવનગર	Bhavnagar
+મખમલ	Veluro
+ગોરખપુર	Gorakhpur
+હેલોવીન	Halloween
+ફિફા	FIFA
+પેટન્ટ	Patento
+જુવાર	Milio
+ક્ષેત્રફળ પ્રમાણે વિશ્વના દેશોની યાદી	Listo de landoj laŭ areo
+સાંઇબાબા	Sai Baba de Shirdi
+કોયલ કુટુંબ	Koeloj
+માયાવતી	Mayawati Kumari
+દૈયડ	Orienta pigonajtingalo
+આશ્રમશાળા	Internulejo
+અમરાવતી	Amravati
+વિંધ્યાચલ	Vindhya-Montaro
+દિસપુર	Dispur
+ભારતમાં સત્તાવાર દરજ્જો ધરાવતી ભાષાઓ	Naciaj lingvoj de Barato
+હરદ્વાર	Haridwar
+સાગુઆરો (થોર)	Saguaro
+સીતાફળ	Sukerpomo
+બાળપણ	Infanaĝo
+માહે	Maheo
+એશિયાઇ ચિત્તો	Azia gepardo
+ગઝલ	Gazalo
+સફેદ પીઠ ગીધ	Afrika gipo
+સર્પગ્રીવા	Orienta sagobirdo
+ખેરખટ્ટો	Ruĝeca arbopigo
+બાબા રામદેવ	Ramakiŝano Jadav
+ટિલોર	Koluma otido
+મિડાસ	Midaso
+આમળાં	Embliko
+ગુરુ ગોવિંદસિંહ	Gobind Singh
+જગદીશચંદ્ર બોઝ	Jagadish Chandra Bose
+ગુલઝારીલાલ નંદા	Gulzarilal Nanda
+બુકર ટી.વોશિંગ્ટન	Booker T. Washington
+કાબરો કલકલીયો	Blanknigra alciono
+પેરુ (ફળ)	Gujavo
+બદામી વાઘોમડા	Bruna naivulo
+ઘી	Gio
+ભારતીય સિનેમા	Barata kinematografio
+વ્યાસ	Vjaso
+કોટા	Kota (Raĝastano)
+મુરાદાબાદ	Moradabad
+ભીમ બેટકાની ગુફાઓ	Bhimbetka
+સામાન્ય તપાસની કક્ષાની બહારનું	Paranormaleco
+ગીર રાષ્ટ્રીય ઉદ્યાન અને અભયારણ્ય	Gir-arbara Nacia Parko
+દિવેલ	Ricinoleo
+ક્રેડિટ સૂઈસ	Credit Suisse
+રાયપુર (છત્તીસગઢ)	Rajpuro
+ચિત્તાગોંગ	Ĉitagongo
+ક્રિયાવિશેષણ	Adverbo
+મોતીલાલ નહેરૂ	Motilal Nehru
+વિડિયો કેસેટ રેકોર્ડર (વીસીઆર)	Magnetoskopo
+સોજી	Semolo
+વસ્તીવધારો	Loĝantarkresko
+માથ્થીની લખેલી સુવાર્તા	Evangelio laŭ Mateo
+અગ્નિ	Agni
+સાંગલી	Sangli
+લોપકચિહ્ન	Apostrofo
+સુવર્ણ મંદિર	Ora Templo
+અમરનાથ (તીર્થધામ)	Amarnath
+ફેડએક્સ	FedEx
+હસ્તિનાપુર	Hastinapuro
+દાર્જીલીંગ હિમાલયન રેલ્વે	Darĝilinga Himalaja Fervojo
+પૂર્વ ઘાટ	Orientaj Ghatoj
+વેરાઇઝન કમ્યુનિકેશન્સ	Verizon Communications
+રામફળ	Reteta anono
+બળદ	Okso
+ભારતનું બંધારણ	Konstitucio de Barato
+નવરોઝ	Noruzo
+શૈલી	Ĝenro
+અનુકૂલન	Adaptado
+ગુરુ	Guruo
+એન્ડ્રુ કાર્નેગી	Andrew Carnegie
+મગ	Mungfabo
+ઇ-કોમર્સ	Elektronika komerco
+ઔરંગઝેબ	Aŭrangzebo
+રાની મુખર્જી	Rani Mukerji
+હુમાયુ	Humajun
+દુનિયાની પ્રાચીન સાત અજાયબીઓ	Sep mirindaĵoj de la antikva mondo
+સમોસા	Samoso (manĝaĵo)
+વર્ણકોષાશય	Kromatoforo
+દેશી કાગડો	Blanknuka korvo
+બકરી ઈદ	Eid ul-Adha
+ભૂસ્તરશાસ્ત્રી	Geologo
+ગુલાબી પેણ	Rozdorsa pelikano
+રોનાલ્ડો	Ronaldo
+ઉધઈ	Termito
+નાશ પામેલા કપોત	Rafedoj
+ભરતપુર	Bharatpur (Barato)
+મલાગીર કસ્તુરો	Oranĝakapa turdo
+શ્યામમુખ વાઘોમડા	Maskonaivulo
+મધિયો	Orienta vespobuteo
+જનમેજય	Ĝanameĝaja
+દહીં	Kazeo
+અરવલ્લી	Aravali-Montaro
+ડેરી	Laktouzino
+ઉજળો ગીધ	Himalaja gipo
+ભિવંડી	Bhivandi
+ખંભાતનો અખાત	Kambej-Golfo
+સાધુ	Sadhuo
+ઘંટી	Muelŝtono
+માચુ પીચુ	Maĉupikĉuo
+વિપશ્યના	Vipassano
+તેલંગાણા	Telangano
+પક્ષી અવલોકન	Birdumo
+વાલ્મીકિ	Valmikio
+ઋગ્વેદ	Rigvedo
+હઠ યોગ	Hatha Jogo
+વીંજ	Malgranda hindia zibeto
+યેઘીશે ચારેન્ત્સ	Jeghiŝe Ĉarenc
+કાળો જળ કાગડો	Hindia kormorano
+તાંગ્ગુલા રેલ્વે સ્ટેશન (તિબેટ)	Tanggula fervoja stacio
+ભાગલપુર	Bagalpur
+દક્ષિણ એશિયા	Suda Azio
+વિલિયમ વિલ્સન(તરણશાસ્ત્રી)	William Wilson (naĝado)
+દરજીડો	Komuna tajlorbirdo
+બાબર	Babur
+કોયલ	Azia koelo
+શિન્તો	Ŝintoismo
+સમઘન	Kubo (geometrio)
+નાનો કરકરીયો	Kampokanbirdo
+ચાતક	Makulkukolo
+પુરુષનું પ્રજનનતંત્ર	Viraj seksorganoj
+એસ્કેરિયાસિસ	Askaridinfekto
+ડાંગર	Rizkampo
+કુંતી	Kunti
+કચ્છનો અખાત	Kutĉ-Golfo
+વિકિપીડિયાની યાદી	ISO 639-3
+પાંડુ	Panduo
+ઘોરાડ	Hindia otido
+ભારતનું પ્રવેશદ્વાર	Pordego al Barato (Mumbajo)
+નોબેલ પારિતોષિક વડે સન્માનીત મહિલાઓ	Nobel-premiitinoj
+મદદ:સૂચિ	Helpo:Enhavo
+જ્ઞાનપીઠ એવોર્ડ	Gjanpith
+પાપડ	Papadamo
+સ્વામિનારાયણ	Svaminarajan
+તીતર	Griza frankolino
+ખાખરો	Butea monosperma
+શાસ્ત્રીય ભાષા	Klasika lingvo
+ગોરડ	Senegala akacio
+ફોર્બ્સ	Forbes
+યુધિષ્ઠિર	Judiŝtiro
+વરૂણ	Varuno
+માંડ્યા	Mandya
+હેલ બેરી	Halle Berry
+દ્રૌપદી	Draŭpadi
+દરિયાઈ પ્રદૂષણ	Marpoluado
+કચ્છ જિલ્લો	Kutĉ-Distrikto
+ચીપકો આંદોલન	Ĉipko
+કંસારો (પક્ષી)	Sangofrunta barbulo
+દર્શન	Hinda filozofio
+શિરાજી કાબર	Ganga akridotero
+લિવરપૂલ ફૂટબોલ ક્લબ	Liverpool FC
+દાળ	Dal
+પ્રજાસત્તાક દિન (ભારત)	Tago de Respubliko en Barato
+પુરી (વાનગી)	Purio (manĝaĵo)
+પંજાબ (સંદિગ્ધ)	Panĝabo
+નાયર	Nair
+વન કાબર	Helventra akridotero
+દૂધી	Lagenario
+કમ્પ્યુટર નેટવર્ક	Komputila reto
+ત્રિપિટક	Tripitako
+અંડ કોષ	Ovolo (bestoscienco)
+માંકેવી વયંસેવ	Agnes Monica
+એલચો	Amomo
+યુ.કે. પોસ્ટકોડ્સ	Poŝtkodoj en Britio
+વિક્રમ સંવત	Vikram Samvat
+શાહ અબ્દુલ લતીફ ભીતાઈ	Ŝaho Abdul Latif
+દુર્યોધન	Durjodano
+શ્રેણી:ચીન	Kategorio:Ĉinio
+શ્રેણી:જાપાન	Kategorio:Japanio
+શ્રેણી:ઓસ્ટ્રેલિયા	Kategorio:Aŭstralio
+શ્રેણી:ભારત	Kategorio:Barato
+શ્રેણી:નેધરલેંડ	Kategorio:Nederlando
+શ્રેણી:પાકિસ્તાન	Kategorio:Pakistano
+શ્રેણી:પક્ષી	Kategorio:Birdoj
+શ્રેણી:વનસ્પતિ	Kategorio:Plantoj
+શ્રેણી:ભૌતિકવિજ્ઞાન	Kategorio:Fiziko
+શ્રેણી:જીવવિજ્ઞાન	Kategorio:Biologio
+શ્રેણી:રસાયણવિજ્ઞાન	Kategorio:Kemio
+શ્રેણી:ભૂગોળ	Kategorio:Geografio
+શ્રેણી:વિજ્ઞાન	Kategorio:Scienco
+કોરોનરિ એન્જિયોગ્રાફિ	Korkateterado
+રાઈતું	Raita
+પેશી ઇજનેરી	Hista inĝenierarto
+કાંટાવાળી ખડ ફુત્કી	Brida herbobirdo
+રામચકલી-પીળી ચોટલી	Flavvizaĝa paruo
+અધરંગ	Tikela muŝkaptulo
+દેવચકલી	Blankaŝultra saksikolo
+પીરોજી માખીમાર	Lazura muŝkaptulo
+કાબરી રામચકલી	Suda nigra paruo
+અમૃતા પ્રિતમ	Amrita Pritam
+ઢાંચો:Dts	Ŝablono:Dts
+માદ્રી	Madri
+સોપારી	Betelaĵo
+શ્રીહરિકોટા	Sriharikoto
+બિન-વેધક મૈથુન	Masturbado
+અનિદ્રા	Sendormeco
+સિંગાપુરી ચેરી	Muntingia calabura
+રતાળુ	Ube-ignamo
+શાંતનુ	Ŝantano
+ઇન્દ્રપ્રસ્થ	Indraprasto
+શ્રેણી:સંદિગ્ધ શીર્ષક વાળાં પાનાં	Kategorio:Apartigiloj
+શ્રેણી:મનોવિજ્ઞાન	Kategorio:Psikologio
+વિચિત્રવિર્ય	Viĉitravirjo
+ચાડિયો	Birdotimigilo
+ચિત્રાંગદ	Ĉitrangado
+વિદુર	Viduro
+કોકિલાકાર	Avelbrusta malkohao
+સત્યવતી	Satjavati
+પરિક્ષિત	Parikŝito
+ગરુડ	Aglo
+રાત્રિ સ્ખલન	Polucio
+કૂકડો	Virkoko
+અલીપોર	Alipore
+મોસંબી	Limedujo
+સાર્વભૌમ દેશોના રાષ્ટ્રધ્વજોની ચિત્રગેલેરી	Listo de naciaj flagoj
+પાઘડી	Turbano
+બેટમેન (ચિત્રકથા)	Batman
+તારક મેહતા કા ઉલ્ટા ચશ્મા	Taarak Mehta Ka Ooltah Chashmah
+સત્યના પ્રયોગો અથવા આત્મકથા	Miaj eksperimentoj kun la vero
+અંક	Hindaj ciferoj
+રાજેન્દ્ર શાહ	Rajendra Keshavlal Shah
+રાજમા (વાનગી)	Ruĝa renfazeolo
+ફેલુદા	Feluda
+પિયાસણ (બતક)	Fajfanasoj
+તલ	Hindia sezamo
+શ્રેણી:સ્ટબ	Kategorio:Ĝermo
+શ્રેણી:સંસ્કૃતિ	Kategorio:Kulturo
+ઢાંચો:સૌરમંડળ	Ŝablono:Sunsistemo
+પટ્ટાઈ	Cirkuenoj
+વિકિપીડિયા:HotCat	Vikipedio:VarmaKato
+કૈલાશ સત્યાર્થી	Kailash Satyarthi
+ઢાંચો:Location map India Gujarat	Ŝablono:Situo sur mapo Barato Guĝarato
+સલગમ	Rapo
+ઢાંચો:ઉક્તિ	Ŝablono:Citaĵo
+કેરી	Mangarbo
+સર્જિયો માત્તારેલા	Sergio Mattarella
+ઢાંચો:Location map Scotland	Ŝablono:Situo sur mapo Skotlando
+વિકિપીડિયા:પ્રબંધક	Vikipedio:Administrantoj
+શ્રેણી:વ્યક્તિત્વ	Kategorio:Personoj
+શ્રેણી:Pages with malformed coordinate tags	Kategorio:Paĝoj kun misformitaj etikedoj por koordinatoj
+શ્રેણી:કલા	Kategorio:Arto
+ઇજિપ્ત	Egiptujo
+રવીન્દ્ર પ્રભાત	Ravindra Prabhat
+વિકિપીડિયા:વિકિપરિયોજના	Vikipedio:Projektoj
+ઢાંચો:Bot	Ŝablono:Bot
+વિકિપીડિયા:વિકિપીડિયા શું નથી	Vikipedio:Kio Vikipedio ne estas
+કેનેડા	Kanado
+વિકિપીડિયા:પ્રકાશનાધિકાર	Vikipedio:Aŭtorrajto
+વિકિપીડિયા:પ્રબંધકોનું સૂચનપટ	Vikipedio:Diskutejo/Administrejo
+શ્રેણી:યુરોપ	Kategorio:Eŭropo
+વિકિપીડિયા:વર્તમાન ઘટનાઓ	Vikipedio:Aktualaĵoj
+ઢાંચો:Documentation	Ŝablono:Dok
+શ્રેણી:રદ કરવા માટેના પાના	Kategorio:Vikipedio:Forigoj
+શ્રેણી:સભ્યોની ભાષાઓ	Kategorio:Vikipediistoj laŭ lingvo
+વિકિપીડિયા:પાયાના પાંચ સિદ્ધાંત	Vikipedio:Kvin principoj
+વિકિપીડિયા:નિષ્પક્ષ દૃષ્ટિકોણ	Vikipedio:Neŭtrala vidpunkto
+વિકિપીડિયા:પ્રારંભિક સંશોધન નહીં	Vikipedio:Ne faru originalan esploradon
+વિકિપીડિયા:નોંધનીયતા	Vikipedio:Menciindeco
+વિકિપીડિયા:બાહ્ય કડીઓ	Vikipedio:Eksteraj ligiloj
+વિકિપીડિયા:ઉચિત વપરાશ	Vikipedio:Regularo pri justa uzo
+વિકિપીડિયા:સહીઓ	Helpo:Subskribo
+વિકિપીડિયા:જીવંત વ્યક્તિઓનું જીવન ચરિત્ર	Vikipedio:Biografioj de vivantaj homoj
+મદદ:Footnotes	Helpo:Referencoj kaj piednotoj
+ઢાંચો:Softredirect	Ŝablono:Intervikia plusendilo
+ઢાંચો:Delete	Ŝablono:Forigu tuj
+ઢાંચો:Please leave this line alone (sandbox heading)	Ŝablono:Proveja rubriko
+ન્યાયશાસ્ત્ર	Jurfilozofio
+શ્રેણી:ભાષાઓ	Kategorio:Lingvoj
+શ્રેણી:વિકિપીડિયા	Kategorio:Vikipedio
+વિકિપીડિયા:General disclaimer	Vikipedio:Malgarantio
+શ્રેણી:તૂટી ફાઈલ કડીઓને સાથે પાના	Kategorio:Paĝoj kun eraraj dosierligiloj
+ઢાંચો:Navbox	Ŝablono:Navigilo2
+કાંગારુ	Kanguruo
+ઢાંચો:Track listing	Ŝablono:Kantolisto
+ઢાંચો:Nutshell	Ŝablono:Resumo
+ઢાંચો:!	Ŝablono:!
+ઢાંચો:Tnavbar	Ŝablono:Tnavbar
+ઢાંચો:Small	Ŝablono:Malgrande
+ઢાંચો:Trim	Ŝablono:Trim
+ઢાંચો:Nowrap	Ŝablono:Nrsp
+ઢાંચો:Tooltip	Ŝablono:Diskreta mallongigo
+ઢાંચો:Anchor	Ŝablono:Ankro
+વિકિપીડિયા:દરેક ભાષાના વિકિપીડિયામાં હોય એવા પ્રારંભિક લેખોની યાદી	Vikipedio:Listo de havendaj artikoloj
+શ્રેણી:આફ્રિકા	Kategorio:Afriko
+શ્રેણી:જુલાઇ	Kategorio:Julio
+શ્રેણી:જૂન	Kategorio:Junio
+ઢાંચો:વિકિસ્રોત	Ŝablono:Vikifontaro
+ઢાંચો:Babel	Ŝablono:Babelejo
+ઢાંચો:Commons	Ŝablono:Commons
+ઢાંચો:Reflist	Ŝablono:Referencoj
+વિકિપીડિયા:સંદર્ભ	Vikipedio:Citi fontojn
+ઢાંચો:સ્ટબ	Ŝablono:Ĝermo
+ઢાંચો:See also	Ŝablono:Vidu ankaŭ
+ઢાંચો:User de	Ŝablono:Vikipediisto de
+ઢાંચો:User de-1	Ŝablono:Vikipediisto de-1
+ઢાંચો:User en-3	Ŝablono:Vikipediisto en-3
+ઢાંચો:User en-2	Ŝablono:Vikipediisto en-2
+ઢાંચો:User en-4	Ŝablono:Vikipediisto en-4
+ઢાંચો:User en	Ŝablono:Vikipediisto en
+ઢાંચો:User de-2	Ŝablono:Vikipediisto de-2
+ઢાંચો:User fr	Ŝablono:Vikipediisto fr
+ઢાંચો:Pl icon	Ŝablono:Pl
+શ્રેણી:ફેબ્રુઆરી	Kategorio:Februaro
+શ્રેણી:એશિયા	Kategorio:Azio
+શ્રેણી:ચીલી	Kategorio:Ĉilio
+ઢાંચો:Mod	Ŝablono:Mod
+શ્રેણી:૧૯૧૦	Kategorio:1910
+ઢાંચો:SIL	Ŝablono:ISO639-3 ligilo
+ઢાંચો:Infobox football club	Ŝablono:Informkesto futbalteamo
+ઢાંચો:સ્વાગત	Ŝablono:Bonvenon
+ઢાંચો:Wikipediasister	Ŝablono:ĈefPaĝo/AliajProjektoj
+ઢાંચો:Football kit	Ŝablono:Ĉemizo
+ઢાંચો:Click	Ŝablono:Ligo el bildo
+ઢાંચો:Image label	Ŝablono:Marko sur bildo
+ઢાંચો:અધિકૃત જાળસ્થળ	Ŝablono:Oficiala retejo
+ઢાંચો:માહિતીચોકઠું કેન્દ્રીય બેંક	Ŝablono:Informkesto centra banko
+ઢાંચો:Stub Category	Ŝablono:Ĝermokategorio
+ઢાંચો:ભૌગોલિક સ્થાન	Ŝablono:Geografia ĉirkaŭaĵo
+ઢાંચો:માહિતીચોકઠું સંગીત કલાકાર	Ŝablono:Informkesto muzika artisto
+ઢાંચો:Collapsible list	Ŝablono:Kaŝebla listo
+ઢાંચો:Es icon	Ŝablono:Es
+ઢાંચો:Ambox	Ŝablono:ArtikolaMesaĝokesto
+ઢાંચો:Wikipedia category	Ŝablono:Prizorga kategorio
+ઢાંચો:Hide in print	Ŝablono:Ne presu
+ઢાંચો:Navigation templates	Ŝablono:Navigilaro
+ઢાંચો:Refimprove	Ŝablono:Nesufiĉaj fontoj
+ઢાંચો:માહિતીચોકઠું દેશ	Ŝablono:Informkesto lando
+ઢાંચો:Infobox Software	Ŝablono:Informkesto programaro
+ઢાંચો:Column-count	Ŝablono:Kolumno-nombro
+ઢાંચો:Infobox airline	Ŝablono:Informkesto flugkompanio
+ઢાંચો:Str left	Ŝablono:Lin mald
+ઢાંચો:Str sub long	Ŝablono:Lin sub
+ઢાંચો:Audio	Ŝablono:Aŭdio
+ઢાંચો:Flat list	Ŝablono:Listo de elementoj
+ઢાંચો:Tmbox	Ŝablono:DiskutaMesaĝokesto
+ઢાંચો:Navbox with columns	Ŝablono:Navigilo kun kolumnoj
+ઢાંચો:S-start	Ŝablono:Komencskatolo
+ઢાંચો:Nom	Ŝablono:Nomumita
+ઢાંચો:Cite paper	Ŝablono:Citaĵo el gazeto
+ઢાંચો:માહિતીચોકઠું કંપની	Ŝablono:Informkesto firmao
+ઢાંચો:Cite news	Ŝablono:Citaĵo el novaĵo
+ઢાંચો:Family tree	Ŝablono:Genealogia arbo
+ઢાંચો:S-aft	Ŝablono:S-aft
+ઢાંચો:ઉમદા લેખ	Ŝablono:Elstara
+ઢાંચો:માહિતીચોકઠું રાજવી	Ŝablono:Informkesto reganto
+શ્રેણી:પેરિસ	Kategorio:Parizo
+શ્રેણી:User en-4	Kategorio:Vikipediisto en-4
+શ્રેણી:User en	Kategorio:Vikipediisto en
+ઢાંચો:Ordinal	Ŝablono:Ordinara
+શ્રેણી:User en-2	Kategorio:Vikipediisto en-2
+ઢાંચો:Infobox	Ŝablono:Informkesto
+ઢાંચો:Main other	Ŝablono:Ĉu artikolo
+ઢાંચો:User zh	Ŝablono:Vikipediisto zh
+ઢાંચો:Template other	Ŝablono:Ĉu ŝablono
+ઢાંચો:Legend	Ŝablono:Priskribo
+ઢાંચો:Cite web	Ŝablono:Citaĵo el la reto
+ઢાંચો:Infobox bridge	Ŝablono:Informkesto ponto
+ઢાંચો:GeoTemplate	Ŝablono:GeoTemplate
+ઢાંચો:Coor URL	Ŝablono:KoordinatojURL
+ઢાંચો:Pp-template	Ŝablono:Pp-ŝablono
+ઢાંચો:Wiktionary	Ŝablono:Vikivortaro
+ઢાંચો:Language icon	Ŝablono:Ref-lang
+શ્રેણી:હિન્દી ચલચિત્ર	Kategorio:Barataj filmoj
+ઢાંચો:Pp-semi-template	Ŝablono:Pp-duone-ŝablono
+ઢાંચો:પુરાતન દુનિયાની સાત અજાયબીઓ	Ŝablono:Sep mirindaĵoj
+ઢાંચો:ITIS	Ŝablono:ITIS
+ઢાંચો:Other uses	Ŝablono:Aliaj signifoj
+ઢાંચો:Language with name	Ŝablono:LingvoKunNomo
+ઢાંચો:માહિતીચોકઠું નૃવંશ સમુદાય	Ŝablono:Informkesto etnaj grupoj
+ઢાંચો:MONTHNAME	Ŝablono:Nomo de monato
+ઢાંચો:Category redirect	Ŝablono:Kategoria alidirekto
+વિકિપીડિયા:Text of the GNU Free Documentation License	Vikipedio:GNU Free Documentation License
+ઢાંચો:Infobox protected area	Ŝablono:Informkesto protektita tereno
+ઢાંચો:Border	Ŝablono:Bordero
+ઢાંચો:Top icon	Ŝablono:Titola ikono
+ઢાંચો:Navbox with collapsible groups	Ŝablono:Navigilo kun kaŝeblaj grupoj
+ઢાંચો:Family tree/end	Ŝablono:Genealogia arbo/fino
+ઢાંચો:ParmPart	Ŝablono:ParmPart
+ઢાંચો:માહિતીચોકઠું પુસ્તક	Ŝablono:Informkesto libro
+ઢાંચો:Talkback	Ŝablono:Respondo
+ઢાંચો:Infobox planet	Ŝablono:Informkesto Planedo
+શ્રેણી:જાન્યુઆરી	Kategorio:Januaro
+ઢાંચો:Lang-fa	Ŝablono:Lang-fa
+ઢાંચો:User nl	Ŝablono:Vikipediisto nl
+ઢાંચો:માહિતીચોકઠું વેબસાઇટ	Ŝablono:Informkesto retejo
+ઢાંચો:Image label end	Ŝablono:Marko sur bildo fino
+ઢાંચો:Uncategorized	Ŝablono:Mankas kategorio
+ઢાંચો:Quote box	Ŝablono:Citskatolo
+ઢાંચો:માહિતીચોકઠું વિશ્વ ધરોહર સ્થળ	Ŝablono:Informkesto Monda Heredaĵo
+ઢાંચો:અંક પદ્ધતિ	Ŝablono:Nombrosistemoj
+ઢાંચો:Str len	Ŝablono:Lin longo
+ઢાંચો:Infobox sport	Ŝablono:Informkesto Sporta disciplino
+ઢાંચો:Lang-de	Ŝablono:Lang-de
+ઢાંચો:Empty category	Ŝablono:Neforigenda kategorio
+ઢાંચો:Location map USA	Ŝablono:Situo sur mapo Usono
+ઢાંચો:Lang-el	Ŝablono:Lang-el
+ઢાંચો:Clarify	Ŝablono:Klarigu
+શ્રેણી:વિયેતનામમાં એરપોર્ટ	Kategorio:Flughavenoj de Vietnamio
+ઢાંચો:Emergency-bot-shutoff	Ŝablono:Butono por forbari robotojn
+ઢાંચો:Image label small	Ŝablono:Marko sur bildo malgranda
+ઢાંચો:Nihongo	Ŝablono:Nihongo
+ઢાંચો:S-ttl	Ŝablono:S-ttl
+ઢાંચો:Infobox stadium	Ŝablono:Informkesto stadiono
+શ્રેણી:Fair use images	Kategorio:Bildoj sub Justa uzo
+ઢાંચો:Infobox International Football Competition	Ŝablono:Informkesto futbala turniro
+ઢાંચો:S-bef	Ŝablono:S-bef
+ઢાંચો:Infobox political post	Ŝablono:Informkesto ofico
+શ્રેણી:ભારતના રાષ્ટ્રપતિ	Kategorio:Prezidantoj de Barato
+ઢાંચો:Fake heading	Ŝablono:Ŝajna titolo
+ઢાંચો:અઠવાડિયાના વારનાં નામો	Ŝablono:Tagoj de la semajno
+ઢાંચો:Nobold	Ŝablono:Nobold
+ઉપનિષદ	Upaniŝadoj
+ઢાંચો:Multicol-break	Ŝablono:Kolumnorompo
+ઢાંચો:Infobox game	Ŝablono:Informkesto ludo
+ઢાંચો:Lang-ru	Ŝablono:Lang-ru
+શ્રેણી:Images	Kategorio:Bildoj
+ઢાંચો:Polytonic	Ŝablono:Polytonic
+ઢાંચો:Family tree/start	Ŝablono:Genealogia arbo/komenco
+ઢાંચો:URL	Ŝablono:URL
+ઢાંચો:સંદિગ્ધ શીર્ષક	Ŝablono:Apartigilo
+ઢાંચો:No	Ŝablono:Ne farita
+ઢાંચો:Doi	Ŝablono:COI
+ઢાંચો:Fb	Ŝablono:Fb
+ઢાંચો:Partial	Ŝablono:Parte
+ઢાંચો:જીવનકાળ	Ŝablono:Vivtempo
+ઢાંચો:Infobox film	Ŝablono:Informkesto filmo
+ઢાંચો:Nutritionalvalue	Ŝablono:Nutravaloro
+ઢાંચો:Infobox philosopher	Ŝablono:Informkesto filozofo
+ઢાંચો:High-risk	Ŝablono:Ofte uzata
+ઢાંચો:Infobox organisation	Ŝablono:Informkesto organizaĵo
+ઢાંચો:CategoryTOC	Ŝablono:Kategoria indekso
+ઢાંચો:Infobox military installation	Ŝablono:Informkesto militkonstruaĵo
+ઢાંચો:Infobox museum	Ŝablono:Informkesto Muzeo
+ઢાંચો:Lang-fr	Ŝablono:Lang-fr
+ઢાંચો:FRA	Ŝablono:FRA
+ઢાંચો:માહિતીચોકઠું વ્યક્તિ	Ŝablono:Informkesto homoj
+ઢાંચો:?	Ŝablono:?
+ઢાંચો:Convert	Ŝablono:Convert
+ઢાંચો:Coord	Ŝablono:Koord
+ઢાંચો:Dmoz	Ŝablono:Dmoz
+ઢાંચો:Dated maintenance category	Ŝablono:Datita prizorga kategorio
+કથ્થાઇ પેટ થડચડ	Kaŝtanventra sito
+ઢાંચો:યુરોપ	Ŝablono:Ŝtatoj en Eŭropo
+શ્રેણી:User fr	Kategorio:Vikipediisto fr
+શ્રેણી:User fr-N	Kategorio:Vikipediisto fr-D
+શ્રેણી:Wikipedia cleanup	Kategorio:Polurindaj artikoloj
+ઢાંચો:Catmore	Ŝablono:PliPri
+ઢાંચો:Beta	Ŝablono:Beta
+ઢાંચો:UF-hcard-person	Ŝablono:UF-hcard-persono
+શ્રેણી:User de	Kategorio:Vikipediisto de
+શ્રેણી:User en-3	Kategorio:Vikipediisto en-3
+શ્રેણી:User en-N	Kategorio:Vikipediisto en-D
+ઢાંચો:N/a	Ŝablono:N/a
+ઢાંચો:Legend0	Ŝablono:Priskribo0
+ઢાંચો:માહિતીચોકઠું રોગ	Ŝablono:Informkesto Malsano
+ઢાંચો:Weather box	Ŝablono:Informkesto jara klimo
+ઢાંચો:Confuse	Ŝablono:Ne konfuzu
+ઢાંચો:Wikivoyage	Ŝablono:Wikivoyage
+શ્રેણી:નવેમ્બર	Kategorio:Novembro
+પાણી (અણુ)	Ecoj de la akvo
+શ્રેણી:માર્ચ	Kategorio:Marto
+શ્રેણી:સપ્ટેમ્બર	Kategorio:Septembro
+શ્રેણી:ઓક્ટોબર	Kategorio:Oktobro
+શ્રેણી:ડિસેમ્બર	Kategorio:Decembro
+શ્રેણી:ઓગસ્ટ	Kategorio:Aŭgusto
+શ્રેણી:મે	Kategorio:Majo
+ઢાંચો:No2	Ŝablono:Ne2
+શ્રેણી:ઇંગ્લેન્ડ	Kategorio:Anglio
+શ્રેણી:એપ્રિલ	Kategorio:Aprilo
+ઢાંચો:Rh	Ŝablono:Rh
+ઢાંચો:Red	Ŝablono:Ruĝa
+ઢાંચો:Coord/dms2dec	Ŝablono:Koord/gmsaldek
+ઢાંચો:Yes2	Ŝablono:Jes2
+ઢાંચો:Yes-No	Ŝablono:Jes-Ne
+ઢાંચો:Title without disambig	Ŝablono:Titolo sen apartigo
+શ્રેણી:ભારતના વિશ્વધરોહર સ્થળો	Kategorio:Mondaj heredaĵoj en Barato
+ઢાંચો:Bookcover	Ŝablono:Kovrilpaĝo
+શ્રેણી:User ru	Kategorio:Vikipediisto ru
+શ્રેણી:User ru-3	Kategorio:Vikipediisto ru-3
+શ્રેણી:1533 જન્મો	Kategorio:Naskiĝintoj en 1533
+શ્રેણી:User tr	Kategorio:Vikipediisto tr
+શ્રેણી:User tr-N	Kategorio:Vikipediisto tr-D
+ઢાંચો:Lang	Ŝablono:Lang
+શ્રેણી:દિલ્હી	Kategorio:Delhio
+ઢાંચો:માહિતીચોકઠું તૈયાર ખોરાક	Ŝablono:Informkesto plado
+ઢાંચો:Infobox River	Ŝablono:Riveroj
+શ્રેણી:1986 જન્મો	Kategorio:Naskiĝintoj en 1986
+ઢાંચો:Any	Ŝablono:Io
+ઢાંચો:Awards	Ŝablono:Oskar-premio
+ઢાંચો:BLACK	Ŝablono:NIGRA
+ઢાંચો:Twitter	Ŝablono:Twitter
+ઢાંચો:Coord/dec2dms/dm	Ŝablono:Koord/dekalgms/gm
+ઢાંચો:RUS	Ŝablono:RUS
+ઢાંચો:Family tree/step2	Ŝablono:Genealogia arbo/paŝo2
+ઢાંચો:Citation	Ŝablono:Cito
+શ્રેણી:રાષ્ટ્રધ્વજો	Kategorio:Naciaj flagoj
+શ્રેણી:રાસાયણિક તત્વો	Kategorio:Kemiaj elementoj
+શ્રેણી:ભૂગોળ સ્ટબ	Kategorio:Ĝermoj pri geografio
+ઢાંચો:Umbox	Ŝablono:Skatolo por mesaĝo al uzanto
+શ્રેણી:નેપાળ	Kategorio:Nepalo
+ઢાંચો:PAGENAMEBASE	Ŝablono:PAGENAMEBASE
+શ્રેણી:માછલી	Kategorio:Fiŝoj
+શ્રેણી:મહાસાગર	Kategorio:Oceanoj
+શ્રેણી:અંક પદ્ધતિ	Kategorio:Nombrosistemoj
+શ્રેણી:કર્ણાટક	Kategorio:Karnatako
+શ્રેણી:ગુજરાત	Kategorio:Guĝarato
+શ્રેણી:ઝારખંડ	Kategorio:Ĝharkhando
+શ્રેણી:તમિલનાડુ	Kategorio:Tamilnado
+શ્રેણી:મધ્ય પ્રદેશ	Kategorio:Madhja-Pradeŝo
+શ્રેણી:રાજસ્થાન	Kategorio:Raĝastano
+શ્રેણી:સિક્કિમ	Kategorio:Sikimo
+શ્રેણી:હરિયાણા	Kategorio:Harjano
+શ્રેણી:ઉત્તર પ્રદેશ	Kategorio:Utar-Pradeŝo
+શ્રેણી:પશ્ચિમ બંગાળ	Kategorio:Okcident-Bengalo
+શ્રેણી:પ્રાણીઓ	Kategorio:Bestoj
+ધૂમ્રપાન	Tabakfumado
+શ્રેણી:હિમાલય	Kategorio:Himalajo
+શ્રેણી:ઍન્ટાર્કટીકા	Kategorio:Antarkto
+શ્રેણી:મહારાષ્ટ્ર	Kategorio:Maharaŝtro
+શ્રેણી:અરુણાચલ પ્રદેશ	Kategorio:Arunaĉal-Pradeŝo
+શ્રેણી:આંધ્ર પ્રદેશ	Kategorio:Andra-Pradeŝo
+શ્રેણી:આસામ	Kategorio:Asamo
+ધ પ્રોડિજિ	The Prodigy
+વર્ણવ્યવસ્થા	Varno
+શ્રેણી:ભારતનાં રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો	Kategorio:Barataj ŝtatoj
+શ્રેણી:અંગ્રેજી ભાષાના ગાયકો	Kategorio:Anglalingvaj kantistoj
+ઢાંચો:Substituted	Ŝablono:Ŝablono ne inkludita
+ઢાંચો:Pad	Ŝablono:Pad
+ઢાંચો:Coord/prec dec	Ŝablono:Koord/prec dek
+ઢાંચો:Str right	Ŝablono:Lin dekst
+શ્રેણી:ઉત્તરાખંડ	Kategorio:Utarakando
+શ્રેણી:Userboxes	Kategorio:Uzantoskatolo
+ઢાંચો:Multicol	Ŝablono:Multkolumna
+ઢાંચો:Lang-am	Ŝablono:Lang-am
+ઢાંચો:Listen	Ŝablono:Aŭskultu
+કેળ	Bananujo
+ઢાંચો:Image label begin	Ŝablono:Marko sur bildo komenco
+શ્રેણી:ગુજરાતનાં શહેરો અને નગરો	Kategorio:Urboj de Guĝarato
+શ્રેણી:અર્થશાસ્ત્રમાં નોબેલ મેળવનારા	Kategorio:Nobel-premiitoj pri ekonomiko
+વિકિપીડિયા:સબસ્ટબ	Vikipedio:Ĝermeto
+ઢાંચો:Coord/display/title	Ŝablono:Koord/montru/titolo
+શ્રેણી:Protected templates	Kategorio:Protektitaj ŝablonoj
+ઢાંચો:Unknown	Ŝablono:Ne konata
+ઢાંચો:Terminated	Ŝablono:Finita
+ઢાંચો:Dropped	Ŝablono:Lasita
+ઢાંચો:Free	Ŝablono:Libera
+ઢાંચો:Nonfree	Ŝablono:Nelibera
+ઢાંચો:Table-experimental	Ŝablono:Tabela-eksperimenta
+ઢાંચો:Incorrect	Ŝablono:Malkorekta
+ઢાંચો:માહિતીચોકઠું માર્ગ	Ŝablono:Informkesto vojo
+ઢાંચો:Infobox file format	Ŝablono:Informkesto dosiera aranĝo
+ઢાંચો:User મુસ્લિમ	Ŝablono:Uzanto Muzulmano
+ઢાંચો:No result	Ŝablono:Neniu rezulto
+ઢાંચો:User UK	Ŝablono:Uzanto Britio
+ઢાંચો:Str ≤ len	Ŝablono:Lin ≤ longo
+ઢાંચો:S-inc	Ŝablono:S-inc
+ઢાંચો:Tls	Ŝablono:Tls
+ઢાંચો:Table cell templates	Ŝablono:Jes ne
+ઢાંચો:Weather box/colpastel	Ŝablono:Veterkesto/paŝteloj
+ઢાંચો:Style/ril	Ŝablono:Style/ril
+ઢાંચો:Weather box/colt	Ŝablono:Veterkesto/Kolt
+ઢાંચો:Style/yid	Ŝablono:Style/yid
+કૃત્રિમ ઉપગ્રહ	Satelito
+વીર્ય સ્ખલન	Ejakulo
+Module:Yesno	Modulo:Yesno
+વિશેષ:તાજાફેરફારો	Specialaĵo:Lastaj ŝanĝoj
+Module:TableTools	Modulo:TableTools
+Module:List	Modulo:List
+Module:HtmlBuilder	Modulo:HtmlBuilder
+Module:String	Modulo:String
+Module:Coordinates	Modulo:Coordinates
+Module:Math	Modulo:Math
+Module:InfoboxImage	Modulo:InfoboxImage

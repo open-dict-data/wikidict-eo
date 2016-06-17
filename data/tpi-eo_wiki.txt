@@ -1,0 +1,1323 @@
+Aprika	Afriko
+Siapan	Japanio
+Saut Amerika	Sudameriko
+Nowe	Norvegio
+Inglan	Anglio
+Skotlan	Skotlando
+Wels	Kimrio
+Noten Aialan	Nord-Irlando
+Ripablik bilong Aialan	Irlando
+Hangari	Hungario
+Spen	Hispanio
+Ol Yunaitet Stet	Usono
+Beljiam	Belgio
+Giraun	Tero
+Pinlan	Finnlando
+Suwidan	Svedio
+Denmak	Danio
+Polan	Pollando
+Lituwenia	Litovio
+Itali	Italio
+Suwisalan	Svislando
+Ostria	Aŭstrio
+Gris	Grekio
+Teki	Turkio
+Posugol	Portugalio
+Yurop	Eŭropo
+Esia	Azio
+Not Amerika	Nordameriko
+Wikipedia	Vikipedio
+Ol Nitelan	Nederlando
+Niu Yok Siti	Novjorko
+Wasington DC	Vaŝingtono
+Berlin	Berlino
+Berne	Berno
+Intanet	Interreto
+Barack Obama	Barack Obama
+Landen	Londono
+Kairo	Kairo
+Paris	Parizo
+Meksiko	Meksiko
+Solwara Atlantik	Atlantika Oceano
+Solwara Pasifik	Pacifika Oceano
+Mande	Lundo
+Janueri	Januaro
+Februeri	Februaro
+Mas	Marto
+Epril	Aprilo
+Me	Majo
+Jun	Junio
+Julai	Julio
+Ogas	Aŭgusto
+Septemba	Septembro
+Oktoba	Oktobro
+Novemba	Novembro
+Disemba	Decembro
+Tunde	Mardo
+Trinde	Merkredo
+Fonde	Ĵaŭdo
+Fraide	Vendredo
+Sarere	Sabato
+Sande	Dimanĉo
+Frens	Francio
+Esperanto	Esperanto
+Yunaitet Kingdom	Unuiĝinta Reĝlando
+Ol Manmeri Ripablik bilong Saina	Ĉina Popola Respubliko
+Tok Frens	Franca lingvo
+Wiktionary	Vikivortaro
+Rasia	Rusio
+San Paulu	San-Paŭlo (urbo)
+Siamani	Germanio
+Belaras	Belorusio
+Tok Jeman	Germana lingvo
+Aislan	Islando
+God	Dio
+Estonia	Estonio
+George Walker Bush	George W. Bush
+Latvia	Latvio
+Yukren	Ukrainio
+Sek Ripablik	Ĉeĥio
+Slovakia	Slovakio
+Vilnius	Vilno
+Romenia	Rumanio
+Balgeria	Bulgario
+Rom	Romo
+Albenia	Albanio
+Greenland	Gronlando
+Krowesia	Kroatio
+Azerbaijan	Azerbajĝano
+Andora	Andoro
+Saipras	Kipro
+San Marino	San-Marino
+Brussels	Bruselo
+Indonisia	Indonezio
+Saut Aprika	Sud-Afriko
+Woso	Varsovio
+Tok Aislan	Islanda lingvo
+Jisas	Jesuo Kristo
+Histori	Historio
+Tokples	Lingvo
+Yurenes (planet)	Urano (planedo)
+Nicolas Sarkozy	Nicolas Sarkozy
+Estronomi	Astronomio
+Ubuntu	Ubuntu (linukso)
+Szczecin	Szczecin
+Ol matematik	Matematiko
+U2	U2
+Tok Latin	Latina lingvo
+Armenia	Armenio
+Sebia	Serbio
+Mun (i stap long heven)	Luno
+Ostrelia	Aŭstralio
+Save long laip	Biologio
+Not Koria	Nord-Koreio
+Islam	Islamo
+Lyon	Liono
+Sofia	Sofio
+Banana	Banano
+San	Suno
+Osenia	Oceanio
+Wikimedia Commons	Vikimedia Komunejo
+Buk	Libro
+De	Tago
+Yia	Jaro
+Oslo	Oslo
+Katowice	Katowice
+Planet	Planedo
+Lille	Lille
+Mosko	Moskvo
+Tok Itali	Itala lingvo
+Niu Silan	Nov-Zelando
+India	Barato
+Tuvalu	Tuvalo
+Tonga	Tongo
+Samoa	Samoo
+Solomon Ailans	Salomonoj
+Vanuatu	Vanuatuo
+Papua Niugini	Papuo-Nov-Gvineo
+Nauru	Nauro
+Ol Masol Ailan	Marŝala Insularo
+Kiribas	Kiribato
+Fiji	Fiĝioj
+Abus	Bestoj
+At	Arto
+Budisim	Budhismo
+Sayor	Plantoj
+Irak	Irako
+Israel	Israelo
+Panama	Panamo
+Yemen	Jemeno
+Tok Polan	Pola lingvo
+Amerika (Kontinen)	Ameriko
+Malaysia	Malajzio
+Platon	Platono
+Ripablik bilong Saina	Respubliko Ĉinio
+Aristoteles	Aristotelo
+Tailan	Tajlando
+Vietnam	Vjetnamio
+Saut Koria	Sud-Koreio
+Socrates	Sokrato
+Bhutan	Butano
+Brunai	Brunejo
+Albert Einstein	Albert Einstein
+Yelo (kala)	Flava
+Beijing	Pekino
+Gabon	Gabono
+Gandi	Mohandas Karamchand Gandhi
+Lesoto	Lesoto
+Naijiria	Niĝerio
+Senegal	Senegalo
+Sierra Leone	Siera-Leono
+Julius Caesar	Julio Cezaro
+Save long giraun	Geografio
+Kala	Koloro
+Blu (kala)	Blua
+Bill Clinton	William J. Clinton
+Yerusalem	Jerusalemo
+Kolorado	Koloradio
+Chicago	Ĉikago
+Tok Spen	Hispana lingvo
+Mani	Mono
+Uetersen	Uetersen
+Augustus Caesar	Aŭgusto Cezaro
+Trajan	Trajano
+Tokyo	Tokio
+Bagdad	Bagdado
+Stockholm	Stokholmo
+Dublin	Dublino
+Reykjavik	Rejkjaviko
+Talin	Talino
+Riga	Rigo
+Bratislava	Bratislavo
+Budapest	Budapeŝto
+Katolik	Katolikismo
+Baibel	Biblio
+Ho Chi Minh City	Ho-Ĉi-Min-urbo
+Tru Jisas Lotu	Vera Eklezio de Jesuo
+Tokples Inglis	Angla lingvo
+Andorra la Vella	Andoro Malnova
+Kuala Lumpur	Kuala-Lumpuro
+Taipei	Tajpeo
+Đồng Hới	Dong Hoi
+Concepción	Koncepciono
+Ottawa	Otavo
+Końskowola	Końskowola
+2000	2000
+2003	2003
+2002	2002
+2001	2001
+2008	2008
+2004	2004
+2005	2005
+2006	2006
+2007	2007
+1901	1901
+1902	1902
+1903	1903
+1904	1904
+1905	1905
+1907	1907
+1906	1906
+1908	1908
+1909	1909
+1992	1992
+1991	1991
+1990	1990
+1993	1993
+1994	1994
+1995	1995
+1996	1996
+1910	1910
+1911	1911
+1912	1912
+1913	1913
+1914	1914
+1915	1915
+1916	1916
+1997	1997
+1998	1998
+1999	1999
+1917	1917
+1918	1918
+1920	1920
+1919	1919
+1921	1921
+1922	1922
+1923	1923
+1924	1924
+Kurów	Kurów
+1989	1989
+1988	1988
+1987	1987
+1986	1986
+1985	1985
+1984	1984
+1983	1983
+1982	1982
+1981	1981
+1980	1980
+1970	1970
+1971	1971
+1972	1972
+1973	1973
+1974	1974
+1975	1975
+1976	1976
+1977	1977
+1978	1978
+1979	1979
+1969	1969
+Benedict XVI	Benedikto la 16-a
+1968	1968
+1967	1967
+1966	1966
+1965	1965
+1964	1964
+Palermo	Palermo
+Soka	Futbalo
+1963	1963
+1962	1962
+Madrid	Madrido
+Michael Jackson	Michael Jackson
+Göttingen	Göttingen
+Kambra	Kanbero
+Ret (kala)	Ruĝa
+1961	1961
+Dakar	Dakaro
+Grup:Ol templet bilong tokples	Kategorio:Vikipedio:Ŝablonoj
+1960	1960
+Freetown	Fritaŭno
+Wes Papua	Okcidenta Nov-Gvineo
+Skul	Lernejo
+Osasku	Osasco (San-Paŭlo)
+Ples balus Dong Hoi	Flughaveno Dong Hoi
+Kuritiba	Kuritibo
+Sean Connery	Sean Connery
+Kongzi	Konfuceo
+Corbin Bleu	Corbin Bleu
+Grup:Ol matematik	Kategorio:Matematiko
+Euro	Eŭro
+Lotu Kristen	Kristanismo
+Kontinen	Kontinento
+Kapitol	Ĉefurbo
+Monzón	Monzono
+Mun (taim)	Monato
+1948	1948
+1949	1949
+Almazán	Almazán
+1956	1956
+1941	1941
+1945	1945
+1958	1958
+1926	1926
+1947	1947
+1944	1944
+1952	1952
+Tokples Siapan	Japana lingvo
+Ensaiklopedia	Enciklopedio
+Fran pes	Vikipedio:Ĉefpaĝo
+1959	1959
+1957	1957
+Frank Lloyd Wright	Frank Lloyd Wright
+Betlehem	Bet-Leĥem
+Pilosopi	Filozofio
+Grup:All articles proposed for deletion	Kategorio:Tujforigendaj artikoloj
+Piano	Piano
+Ti	Teo
+Hebe Camargo	Hebe Camargo
+Grup:Estronomi	Kategorio:Astronomio
+Carcassonne	Karkasuno
+Sahara	Saharo
+1801	1801
+1802	1802
+1803	1803
+1804	1804
+1805	1805
+1806	1806
+1807	1807
+1808	1808
+1809	1809
+1810	1810
+1811	1811
+1812	1812
+1813	1813
+1814	1814
+1815	1815
+1816	1816
+1817	1817
+1818	1818
+1819	1819
+1820	1820
+1821	1821
+1822	1822
+1823	1823
+1824	1824
+1825	1825
+1826	1826
+1827	1827
+Buda	Budho
+Politikis	Politiko
+Gavman	Registaro
+Kantri	Ŝtato
+Kamel	Kamelo
+1828	1828
+1829	1829
+1830	1830
+1831	1831
+1832	1832
+1833	1833
+1834	1834
+1835	1835
+1836	1836
+1837	1837
+1838	1838
+1839	1839
+1840	1840
+1841	1841
+1842	1842
+1843	1843
+1844	1844
+Tok Rasia	Rusa lingvo
+Toksave long ol raits bilong ol manmeri long olgeta hap bilong dispela giraun	Universala Deklaracio de Homaj Rajtoj
+Tok Balgeria	Bulgara lingvo
+Nelson Mandela	Nelson Mandela
+Lajik	Logiko
+Grama	Gramatiko
+Ikonimikis	Ekonomiko
+Yen bilong Siapan	Japana eno
+Stadi bilong pasin bilong ol tokples	Lingvoscienco
+Hangul	Korea alfabeto
+Grup:Pranis	Kategorio:Francio
+@@@u0026Weird Al@@@u0026 Yankovic	@@@u0026Weird Al@@@u0026 Yankovic
+Alexander Makedon	Aleksandro la Granda
+Edukesen	Eduko
+Famili	Familio
+Kopi	Kafo
+Sol	Seulo
+Tokples long Albenia	Albana lingvo
+Valencia	Valencio
+Tok Denmak	Dana lingvo
+Tok Nowe	Norvega lingvo
+Tok Slovakia	Slovaka lingvo
+Tok Hangari	Hungara lingvo
+Tok Lituwenia	Litova lingvo
+Tok Belaras	Belorusa lingvo
+Tok Gris	Greka lingvo
+Tok Aialan	Irlanda lingvo
+Imel	Retpoŝto
+Tokples Pesia	Persa lingvo
+Lotu	Religio
+Tok Koria	Korea lingvo
+Tok Vietnam	Vjetnama lingvo
+Georg Wilhelm Friedrich Hegel	Hegelo
+Judaisim	Judismo
+Immanuel Kant	Immanuel Kant
+Saikolosi	Psikologio
+Sidarta	Sidarto Gotamo
+Martin Luther	Marteno Lutero
+Elisabet II	Elizabeto la 2-a (Britio)
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+David Beckham	David Beckham
+Gordon Brown	Gordon Brown
+Tebol bilong ol elemen	Perioda tabelo
+Diwai	Arbo
+Kubuntu	Kubuntu
+Grup:Romenia	Kategorio:Rumanio
+Egrikalsa	Agrikulturo
+Elektroniks	Elektroniko
+Ol kantri	Listo de sendependaj ŝtatoj
+Kensa	Kancero
+Soria	Sorio
+Ponferrada	Ponferado
+Templet:Location map Iceland	Ŝablono:Situo sur mapo Islando
+Templet:Location map Samoa	Ŝablono:Situo sur mapo Samoo
+Kokonas	Kokoso
+Ferdinand de Saussure	Ferdinand de Saussure
+Kyushu	Kjuŝuo
+Honshu	Honŝu
+Shikoku	Ŝikokuo
+Ista Ailan	Paskinsulo
+Ethnologue	Etnologiisto
+Bensheim	Bensheim
+Queen	Queen
+Freddie Mercury	Freddie Mercury
+Templet:Link FA	Ŝablono:LigoElstara
+Wol	Mondo
+Vemont	Vermonto
+Koria	Koreio
+1925	1925
+1927	1927
+1955	1955
+1954	1954
+1953	1953
+1951	1951
+1950	1950
+1946	1946
+1943	1943
+1942	1942
+1940	1940
+1939	1939
+1938	1938
+1937	1937
+1936	1936
+1935	1935
+1934	1934
+1933	1933
+1932	1932
+1931	1931
+1930	1930
+1929	1929
+Pyongyang	Pjongjango
+Nupela Testamen	Nova testamento
+Nha Trang	Nha Trang
+Pop	Papo
+Rafael Correa	Rafael Correa
+Busares	Bukareŝto
+1928	1928
+Olpela Testamen	Malnova testamento
+Indo-Yuropien famili bilong tokples	Hindeŭropa lingvaro
+Breinigerberg	Breinigerberg
+Ol Tokples Siamanik	Ĝermana lingvaro
+Sosiolosi	Sociologio
+Taiwan	Tajvano
+Bahai	Bahaa Kredo
+Aialan	Irlando (insulo)
+7	7
+Wik	Semajno
+Antropolosi	Antropologio
+Ailan	Insulo
+Moshchena	Moŝĉena
+Akiolosi	Arkeologio
+George H. W. Bush	George H. W. Bush
+Quang Binh Provins	Provinco Quang Binh
+Protestan	Protestantismo
+Bryan Cranston	Bryan Cranston
+Bikpela Briten	Britio (insulo)
+Kadinol daireksion	Kompasdirektoj
+Lila Downs	Lila Downs
+Famili bilong tokples	Lingva familio
+Pichilemu	Piĉilemo
+Pukpuk	Krokodilulo
+Kokomo	Buceredoj
+Danny DeVito	Danny DeVito
+Sentrel Amerika	Centra Ameriko
+Kaunti	County
+Ecser	Ecser
+Zhengzhou	Ĝengĝoŭo
+Avril Lavigne	Avril Lavigne
+Rouen	Rueno
+Tok Hawai	Havaja lingvo
+Hiri Motu	Hirimotua lingvo
+Niu Kaledonia	Nov-Kaledonio
+Marlon Brando	Marlon Brando
+Tok Pisin	Tokpisino
+Mošovce	Mošovce
+Ajetiv bilong nambawan kain	Adjektivo
+Ido	Ido (lingvo)
+44 yia i go bipo Jisas	-44
+Bislama	Bislama lingvo
+Hokkaido	Hokajdo
+Charles Bronson	Charles Bronson
+Borneo	Borneo
+Siligo	Siligo
+Apia	Apio
+Pot Mosbi	Port-Moresbo
+.ru	.ru
+.ad	.ad
+Cork	Cork
+Arancón	Arancón
+.fi	.fi
+.am	.am
+.de	.de
+.fr	.fr
+Melanesia	Melanezio
+.au	.au
+.cz	.cz
+Maket	Merkato
+.at	.at
+Pot Vila	Portvilao
+Auckland Grammar School	Auckland Grammar School
+.us	.us
+.es	.es
+.gr	.gr
+.pl	.pl
+.uk	.uk
+Kaukau	Batato
+Yokohama	Jokohamo
+.al	.al
+.az	.az
+.ee	.ee
+.bg	.bg
+.jp	.jp
+.it	.it
+Lubuntu	Lubuntu
+.dk	.dk
+.ca	.ca
+.ch	.ch
+Maikroekonomiks	Makroekonomiko
+.be	.be
+Ágreda	Ágreda
+.by	.by
+.fj	.fj
+.cl	.cl
+.is	.is
+.lt	.lt
+.pt	.pt
+.bt	.bt
+Hobat	Hobarto
+Niugini	Nov-Gvineo
+.et	.et
+.tv	.tv
+.eg	.eg
+23 yia i go bipo Jisas	-23
+.se	.se
+.cy	.cy
+.kz	.kz
+.hu	.hu
+.ua	.ua
+.mx	.mx
+.kh	.kh
+.no	.no
+.id	.id
+.tr	.tr
+.eu	.eu
+.ht	.ht
+.sk	.sk
+Julia Gillard	Julia Gillard
+.to	.to
+.lv	.lv
+Saikoanalisis	Psikoanalizo
+.kg	.kg
+.mh	.mh
+.kr	.kr
+.ki	.ki
+.tj	.tj
+.kp	.kp
+.ro	.ro
+.vn	.vn
+.nr	.nr
+.ke	.ke
+.vu	.vu
+.na	.na
+.ye	.ye
+.ws	.ws
+.sm	.sm
+.tk	.tk
+Kevin Rudd	Kevin Rudd
+.pg	.pg
+Plak bilong Siapan	Flago de Japanio
+Jim Morrison	Jim Morrison
+.nu	.nu
+The Doors	The Doors
+Pécs	Pécs
+Plak bilong Pinlan	Flago de Finnlando
+Templet:Commons category	Ŝablono:Commonscat
+Morgan Freeman	Morgan Freeman
+Plak bilong Albenia	Flago de Albanio
+Richard Attenborough	Richard Attenborough
+Templet:Taxobox	Ŝablono:Taksonomio
+El Royo	El Royo
+Viktor Orbán	Viktor Orbán
+Niu Briten	Nova Britio
+Xubuntu	Xubuntu
+Plak bilong Solomon Ailans	Flago de la Salomonoj
+Nonvailens	Senperforto
+Debrecen	Debrecen
+Plak bilong Kanada	Flago de Kanado
+Harrison Ford	Harrison Ford
+Plak bilong Andora	Flago de Andoro
+Kimi ga Yo	Kimi Ga Jo
+Szeged	Szeged
+Plak bilong Ostrelia	Flago de Aŭstralio
+Plak bilong Hangari	Flago de Hungario
+Plak bilong Azerbaijan	Flago de Azerbajĝano
+Plak bilong Nowe	Flago de Norvegio
+Robin Williams	Robin Williams
+Tauns long Soria provins	Komunumoj de Sorio
+Plak bilong Aislan	Flago de Islando
+Plak bilong Indonisia	Flago de Indonezio
+Plak bilong Skotlan	Flago de Skotlando
+Miskolc	Miskolc
+Donald Sutherland	Donald Sutherland
+Peter O'Toole	Peter O’Toole
+Plak bilong Tuvalu	Flago de Tuvalo
+Kristen	Kristano
+Stet	Subŝtato
+Meditesen	Meditado
+Plak bilong Kiribas	Flago de Kiribato
+Saut Ailan	Suda Insulo (Nov-Zelando)
+Plak bilong Spen	Flago de Hispanio
+Dziecinów	Dziecinów (poviato Otwock)
+Michael Caine	Michael Caine
+Steve Irwin	Steve Irwin
+Plak bilong Saut Koria	Flago de Sud-Koreio
+Plak bilong Slovenia	Flago de Slovenio
+Plak bilong Romenia	Flago de Rumanio
+Grup:Manmeri bilong Hangari	Hungaroj
+Dunedin	Dunedin
+Kamikaze	Kamikazo
+Phu Quoc	Phu Quoc
+Wikipedia:Save long senisim pes	Helpo:Redakti
+Buai	Kateĉuareko
+Daka	Betelo
+Plak bilong Niu Silan	Flago de Nov-Zelando
+Kaunti Cork	Graflando Cork
+St. Peter's College, Auckland	St Peter's College, Auckland
+Siaman Niugini	Germana Novgvineo
+Behaviourisim	Kondutismo
+Samuel L. Jackson	Samuel L. Jackson
+Caltojar	Caltojar
+Berlanga de Duero	Berlanga de Duero
+Kumul	Paradizeedoj
+Helen Clark	Helen Clark
+Plak bilong Fiji	Flago de la Fiĝioj
+Plak bilong Papua Niugini	Flago de Papuo-Nov-Gvineo
+Plak bilong Nauru	Flago de Nauro
+Plak bilong Vanuatu	Flago de Vanuatuo
+Plak bilong Tonga	Flago de Tongo
+Plak bilong Samoa	Flago de Samoo
+Plak bilong Palau	Flago de Palaŭo
+Ol provinis bilong Swidan	Historiaj provincoj de Svedio
+Plak bilong ol Masol Ailan	Flago de la Marŝala Insularo
+Kina	Papuonovgvinea kinao
+Bogenvil	Bougainville (Papuo-Nov-Gvineo)
+Plak bilong Niue	Flago de Niuo
+Bill Cosby	Bill Cosby
+Niu Ailan ailan	Nova Irlando (insulo)
+Saksak	Saguo
+Plak bilong Hawai	Flago de Havajo
+Nesenel mak bilong Ostrelia	Blazono de Aŭstralio
+Eartha Kitt	Eartha Kitt
+Plak bilong Polinesia bilong Pranis	Flago de Franca Polinezio
+Plak bilong Nofok Ailan	Flago de la Norfolkinsulo
+Plak bilong Guam	Flago de Gvamo
+Makó	Makó
+Plak bilong Tokelau	Flago de Tokelao
+Yumi, Yumi, Yumi	Yumi, Yumi, Yumi
+Nesenel mak bilong Papua Niugini	Blazono de Papuo-Nov-Gvineo
+Vadillo	Vadillo
+Plak bilong Wolis na Futuna	Flago de Valiso kaj Futuno
+Madang (provins)	Provinco Madang
+Brad Dourif	Brad Dourif
+Olaf Stapledon	Olaf Stapledon
+Nicanor Parra	Nicanor Parra
+Bry-sur-Marne	Bry-sur-Marne
+Almaluez	Almaluez
+Buk bilong Momon	Libro de Mormon
+Astorga	Astorgo
+Ples balus Tan Son Nhat	Flughaveno Tan Son Nhat
+Michael Clarke Duncan	Michael Clarke Duncan
+Aliud	Aliud
+Baraona	Baraona
+Medinaceli	Medinaceli
+Burgo de Osma-Ciudad de Osma, Soria	Burgo de Osma
+Suellacabras	Suellacabras
+Yanguas	Yanguas
+San Esteban de Gormaz	San Esteban de Gormaz
+.nl	.nl
+Alcoy	Alcoi
+Cañamaque	Cañamaque
+Navaleno	Navaleno
+Seeheim-Jugenheim	Seeheim-Jugenheim
+Trévago	Trévago
+Dévanos	Dévanos
+Simbu	Simbu
+Magani	Valabio
+Ólvega	Ólvega
+O Arise, All You Sons	O Arise, All You Sons
+Magaña	Magaña
+Wes Niu Briten	Okcidenta Nov-Britujo
+Centenera de Andaluz	Centenera de Andaluz
+Is Sepik	Orienta Sepik
+Histori long Koria	Historio de Koreio
+Oro	Provinco Oro
+Sandaun	Sandaun
+Is Niu Briten	Orienta Nov-Britujo
+Sahagún	Sahagún
+Almarza	Almarza
+Aldealices	Aldealices
+Aldealafuente	Aldealafuente
+Alentisque	Alentisque
+Adradas	Adradas
+Alconaba	Alconaba
+Abejar	Abejar
+Almajano	Almajano
+Arenillas	Arenillas
+Aldealpozo	Aldealpozo
+Alcubilla de las Peñas	Alcubilla de las Peñas
+Aldealseñor	Aldealseñor
+Alcubilla de Avellaneda	Alcubilla de Avellaneda
+Covaleda	Covaleda
+Casarejos	Casarejos
+Cerbón	Cerbón
+Calatañazor	Calatañazor
+Almazul	Almazul
+Cidones	Cidones
+Alpanseque	Alpanseque
+Arcos de Jalón	Arcos de Jalón
+Aldehuela de Periáñez	Aldehuela de Periáñez
+Beratón	Beratón
+Almenar de Soria	Almenar de Soria
+Maján	Maján
+Coscurita	Coscurita
+Barcones	Barcones
+Castilfrío de la Sierra	Castilfrío de la Sierra
+Castilruiz	Castilruiz
+Miño de Medinaceli	Miño de Medinaceli
+Vinuesa	Vinuesa
+Cigudosa	Cigudosa
+Candilichera	Candilichera
+Ausejo de la Sierra	Ausejo de la Sierra
+Carabantes	Carabantes
+Soliedra	Soliedra
+Taroda	Taroda
+Nepas	Nepas
+Valtajeros	Valtajeros
+Arévalo de la Sierra	Arévalo de la Sierra
+Pozalmuro	Pozalmuro
+Cabrejas del Pinar	Cabrejas del Pinar
+Villasayas	Villasayas
+Cubilla	Cubilla
+Castillejo de Robledo	Castillejo de Robledo
+Escobosa de Almazán	Escobosa de Almazán
+Estepa de San Juan	Estepa de San Juan
+Carrascosa de la Sierra	Carrascosa de la Sierra
+Las Aldehuelas	Las Aldehuelas
+Bayubas de Arriba	Bayubas de Arriba
+Borobia	Borobia
+Bliecos	Bliecos
+Buberos	Buberos
+Muriel Viejo	Muriel Viejo
+Oncala	Oncala
+Fuentecambrón	Fuentecambrón
+Cabrejas del Campo	Cabrejas del Campo
+Frechilla de Almazán	Frechilla de Almazán
+Valdelagua del Cerro	Valdelagua del Cerro
+Ciria	Ciria
+Buitrago	Buitrago
+Talveila	Talveila
+Salduero	Salduero
+Fuentes de Magaña	Fuentes de Magaña
+Viana de Duero	Viana de Duero
+Tardelcuende	Tardelcuende
+Duruelo de la Sierra	Duruelo de la Sierra
+Bayubas de Abajo	Bayubas de Abajo
+Fuentearmegil	Fuentearmegil
+Fuentelmonge	Fuentelmonge
+Rollamienta	Rollamienta
+Villar del Ala	Villar del Ala
+Velilla de los Ajos	Velilla de los Ajos
+Momblona	Momblona
+Fresno de Caracena	Fresno de Caracena
+Valdegeña	Valdegeña
+Velamazán	Velamazán
+Torlengua	Torlengua
+Fuentecantos	Fuentecantos
+Carrascosa de Abajo	Carrascosa de Abajo
+Pinilla del Campo	Pinilla del Campo
+Serón de Nágima	Serón de Nágima
+Blacos	Blacos
+Valdeavellano de Tera	Valdeavellano de Tera
+Narros	Narros
+Valdeprado	Valdeprado
+Borjabad	Borjabad
+Fuentelsaz de Soria	Fuentelsaz de Soria
+San Leonardo de Yagüe	San Leonardo de Yagüe
+Muriel de la Fuente	Muriel de la Fuente
+Villar del Río	Villar del Río
+Valderrodilla	Valderrodilla
+Espejón	Espejón
+Liceras	Liceras
+Matalebreras	Matalebreras
+Quintana Redonda	Quintana Redonda
+Nafría de Ucero	Nafría de Ucero
+Sotillo del Rincón	Sotillo del Rincón
+Torrubia de Soria	Torrubia de Soria
+Noviercas	Noviercas
+Tajueco	Tajueco
+Valdenebro	Valdenebro
+Villaciervos	Villaciervos
+Yelo (Spen)	Yelo
+Montenegro de Cameros	Montenegro de Cameros
+Langa de Duero	Langa de Duero
+Quiñonería	Quiñonería
+Villar del Campo	Villar del Campo
+Portillo de Soria	Portillo de Soria
+Gormaz	Gormaz
+Santa Cruz de Yanguas	Santa Cruz de Yanguas
+Villaseca de Arciel	Villaseca de Arciel
+Reznos	Reznos
+Cueva de Ágreda	Cueva de Ágreda
+Nolay	Nolay
+Cirujales del Río	Cirujales del Río
+Caracena	Caracena
+Cubo de la Solana	Cubo de la Solana
+Miño de San Esteban	Miño de San Esteban
+Fuentestrún	Fuentestrún
+Espeja de San Marcelino	Espeja de San Marcelino
+Matamala de Almazán	Matamala de Almazán
+La Póveda de Soria	La Póveda de Soria
+Los Rábanos	Los Rábanos
+Quintanas de Gormaz	Quintanas de Gormaz
+Velilla de la Sierra	Velilla de la Sierra
+San Felices	San Felices
+Renieblas	Renieblas
+Morón de Almazán	Morón de Almazán
+Los Villares de Soria	Los Villares de Soria
+Torreblacos	Torreblacos
+Vizmanos (Soria)	Vizmanos
+Tejado	Tejado
+Herrera de Soria	Herrera de Soria
+Deza	Deza (Sorio)
+Monteagudo de las Vicarías	Monteagudo de las Vicarías
+La Riba de Escalote	La Riba de Escalote
+Montejo de Tiermes	Montejo de Tiermes
+La Losilla	La Losilla
+Recuerda	Recuerda
+Tajahuerce	Tajahuerce
+Fuentepinilla	Fuentepinilla
+Golmayo	Golmayo
+Rioseco de Soria	Rioseco de Soria
+Gómara, Soria	Gómara
+Niu Ailan	Provinco Nova Irlando
+Cihuela	Cihuela
+Pilosopi long Wes	Okcidenta filozofio
+Villafranca del Bierzo	Villafranca del Bierzo
+Westen Provins	Okcidenta Provinco (Papuo-Nov-Gvineo)
+Sauten Hailans	Sudaj Altaj Teroj
+Westen Hailans	Okcidentaj Altaj Teroj
+Isten Hailans	Orientaj Altaj Teroj
+Morobe	Morobe
+Enga	Enga
+Sentral Provins	Centra Provinco (Papuo-Nov-Gvineo)
+Milen Be	Provinco Golfeto Milne
+Gulf Provins	Provinco Golfo
+Olmedillo de Roa (Burgos)	Olmedillo de Roa
+Nebreda (Burgos)	Nebreda
+Molinos de Duero	Molinos de Duero
+Vozmediano	Vozmediano (Soria)
+Hinojosa del Campo	Hinojosa del Campo
+Rello	Rello
+Casey Kasem	Casey Kasem
+Rebollar	Rebollar (Kastilio kaj Leono)
+Garray	Garray
+Plak bilong Ista Ailan	Flago de la Paskinsulo
+Bembibre	Bembibro
+Takuu	Takuu
+Ples balus	Flughaveno
+Grup:Siamani	Kategorio:Germanio
+Grup:Itali	Kategorio:Italio
+Grup:Ol Yunaitet Stet	Kategorio:Usono
+Grup:Kanada	Kategorio:Kanado
+Grup:Yunaitet Kingdom	Kategorio:Unuiĝinta Reĝlando
+Grup:Spen	Kategorio:Hispanio
+Grup:Siapan	Kategorio:Japanio
+Grup:Ostrelia	Kategorio:Aŭstralio
+Grup:India	Kategorio:Barato
+Grup:Isrel	Kategorio:Israelo
+Grup:Ijip	Kategorio:Egiptio
+Grup:Niu Silan	Kategorio:Nov-Zelando
+Fabero	Fabero
+Grup:Indonisia	Kategorio:Indonezio
+Grup:Irak	Kategorio:Irako
+Grup:Polan	Kategorio:Pollando
+Grup:Saut Koria	Kategorio:Sud-Koreio
+Grup:Tailan	Kategorio:Tajlando
+Grup:Yukren	Kategorio:Ukrainio
+Grup:Vietnam	Kategorio:Vjetnamio
+Grup:Ol pisin	Kategorio:Birdoj
+Grup:Ol Sayor	Kategorio:Plantoj
+Grup:Save long Laip	Kategorio:Biologio
+Grup:Kemistri	Kategorio:Kemio
+Grup:Histori	Kategorio:Historio
+Grup:Save long giraun	Kategorio:Geografio
+Grup:Sosaiti	Kategorio:Socio
+Grup:Lotu	Kategorio:Religio
+Grup:Saiens	Kategorio:Scienco
+Grup:Giraun	Kategorio:Tero
+Gumiel de Mercado (Burgos)	Gumiel de Mercado
+Oquillas (Burgos)	Oquillas
+Olmillos de Muñó (Burgos)	Olmillos de Muñó
+Zazuar (Burgos)	Zazuar
+Zael (Burgos)	Zael
+Lerma (Burgos)	Lermo (Burgoso)
+Nava de Roa (Burgos)	Nava de Roa
+Iglesiarrubia (Burgos)	Iglesiarrubia
+Gumiel de Izán (Burgos)	Gumiel de Izán
+Regina Duarte	Regina Duarte
+Grup:Ol pes bilong kliaim ol link	Kategorio:Apartigiloj
+Grup:Pilosopi	Kategorio:Filozofio
+Grup:Saikolosi	Kategorio:Psikologio
+Grup:Budisim	Kategorio:Budhismo
+Grup:Kristen	Kategorio:Kristanismo
+Grup:Islam	Kategorio:Islamo
+Benedicta Boccoli	Benedicta Boccoli
+Carolina Ferraz	Carolina Ferraz
+Conrad Bain	Conrad Bain
+Grup:Ol pes i liklik tumas	Kategorio:Ĝermo
+Grup:Ol planet	Kategorio:Planedoj
+Grup:Kontinen	Kategorio:Kontinentoj
+Tok Abau	Abaua lingvo
+Templet:Footer SolarSystem	Ŝablono:Sunsistemo
+Templet:T	Ŝablono:Ŝ
+Templet:Babel bokis	Ŝablono:Uzantoskatolo1
+Templet:Wikipediatokples	Ŝablono:ĈefPaĝo/AliajLingvoj
+Grup:Ol kantri	Kategorio:Landoj
+Grup:Ekonomikis	Kategorio:Ekonomiko
+Wikipedia:Administrators	Vikipedio:Administrantoj
+Grup:Manmeri	Kategorio:Personoj
+Wikipedia:AutoWikiBrowser	Vikipedio:AutoWikiBrowser
+Grup:Politikis	Kategorio:Politiko
+Grup:Saiens bilong ai	Kategorio:Optiko
+Ijip	Egiptujo
+Templet:Bot	Ŝablono:Bot
+Kanada	Kanado
+Grup:Hangari	Kategorio:Hungario
+Grup:Estonia	Kategorio:Estonio
+Grup:Gris	Kategorio:Grekio
+Grup:Latvia	Kategorio:Latvio
+Grup:Aislan	Kategorio:Islando
+Grup:Lituwenia	Kategorio:Litovio
+Grup:Slovakia	Kategorio:Slovakio
+Wikipedia:Copyrights	Vikipedio:Aŭtorrajto
+Templet:Flagicon	Ŝablono:Flagikono
+Grup:Ol kantri long Yurop	Kategorio:Eŭropaj landoj
+Grup:Yurop	Kategorio:Eŭropo
+Templet:Template doc	Ŝablono:Dok
+Grup:Yusa tokples	Kategorio:Vikipediistoj laŭ lingvo
+Wikipedia:Faipela lo	Vikipedio:Kvin principoj
+Sung Jae-gi	Sung Jae-gi
+Templet:Softredirect	Ŝablono:Intervikia plusendilo
+Templet:Delete	Ŝablono:Forigu tuj
+Grup:Ol tokples	Kategorio:Lingvoj
+Grup:Grama	Kategorio:Gramatiko
+Solija	Soldato
+Grup:Ol siti na taun bilong kantri	Kategorio:Loĝlokoj laŭ landoj
+Templet:Navbox	Ŝablono:Navigilo2
+Bikpela magani	Kanguruo
+Templet:Shortcut	Ŝablono:Mallongigo
+Templet:!	Ŝablono:!
+Templet:!-	Ŝablono:!-
+Templet:!!	Ŝablono:!!
+Templet:Tnavbar	Ŝablono:Tnavbar
+Templet:Loop	Ŝablono:Loop
+Templet:Unicode	Ŝablono:Unicode
+Templet:Small	Ŝablono:Malgrande
+Templet:Color	Ŝablono:Kolorteksto
+Templet:Nowrap	Ŝablono:Nrsp
+Templet:Anchor	Ŝablono:Ankro
+Wikipedia:Ol pes i mas stap long Wikipedia	Vikipedio:Listo de havendaj artikoloj
+Grup:Elektroniks	Kategorio:Elektroniko
+Templet:Babel	Ŝablono:Babelejo
+Templet:Commons	Ŝablono:Commons
+Templet:Link GA	Ŝablono:LigoLeginda
+Templet:Reflist	Ŝablono:Referencoj
+Templet:Gnunote	Ŝablono:Gnunote
+Templet:Stub	Ŝablono:Ĝermo
+Templet:User ar-1	Ŝablono:Vikipediisto ar-1
+Templet:User ast-1	Ŝablono:Vikipediisto ast-1
+Templet:Yusa eo-1	Ŝablono:Vikipediisto eo-1
+Templet:See also	Ŝablono:Vidu ankaŭ
+Templet:User da	Ŝablono:Vikipediisto da
+Templet:User ca-1	Ŝablono:Vikipediisto ca-1
+Templet:User cs-1	Ŝablono:Vikipediisto cs-1
+Templet:User eo-3	Ŝablono:Vikipediisto eo-3
+Templet:User de	Ŝablono:Vikipediisto de
+Templet:User de-1	Ŝablono:Vikipediisto de-1
+Templet:User el	Ŝablono:Vikipediisto el
+Templet:User es	Ŝablono:Vikipediisto es
+Templet:User de-3	Ŝablono:Vikipediisto de-3
+Templet:User en-3	Ŝablono:Vikipediisto en-3
+Templet:User en-1	Ŝablono:Vikipediisto en-1
+Templet:User en-2	Ŝablono:Vikipediisto en-2
+Templet:User eo-2	Ŝablono:Vikipediisto eo-2
+Templet:User en-4	Ŝablono:Vikipediisto en-4
+Templet:User en-0	Ŝablono:Vikipediisto en-0
+Templet:User en	Ŝablono:Vikipediisto en
+Templet:User de-2	Ŝablono:Vikipediisto de-2
+Templet:User es-1	Ŝablono:Vikipediisto es-1
+Templet:User fa	Ŝablono:Vikipediisto fa
+Templet:User fr-1	Ŝablono:Vikipediisto fr-1
+Grup:Laip	Kategorio:Vivo
+Templet:User gl-1	Ŝablono:Vikipediisto gl-1
+Templet:User sk	Ŝablono:Vikipediisto sk
+Templet:User tr-2	Ŝablono:Vikipediisto tr-2
+Templet:User ja	Ŝablono:Vikipediisto ja
+Templet:User ja-1	Ŝablono:Vikipediisto ja-1
+Templet:User it-1	Ŝablono:Vikipediisto it-1
+Templet:User fr	Ŝablono:Vikipediisto fr
+Templet:Unsigned	Ŝablono:Subskribo
+Grup:Azerbaijan	Kategorio:Azerbajĝano
+Grup:Esia	Kategorio:Azio
+Grup:Soria provins	Kategorio:Provinco Sorio
+Grup:Castile na León	Kategorio:Kastilio kaj Leono
+Templet:Mod	Ŝablono:Mod
+Templet:ISO639-3 documentation	Ŝablono:ISO639-3 ligilo
+Templet:User es-2	Ŝablono:Vikipediisto es-2
+Templet:NewUser	Ŝablono:Bonvenon
+Templet:Ref-ru	Ŝablono:Ru
+Templet:WikipediaSista	Ŝablono:ĈefPaĝo/AliajProjektoj
+Grup:Lingwistikis	Kategorio:Lingvoscienco
+Templet:ITA	Ŝablono:ITA
+Templet:Cc-by-sa-3.0	Ŝablono:Cc-by-sa-3.0
+Grup:Yusa fr-1	Kategorio:Vikipediisto fr-1
+Templet:Collapsible list	Ŝablono:Kaŝebla listo
+Templet:Ambox	Ŝablono:ArtikolaMesaĝokesto
+Templet:Navigation templates	Ŝablono:Navigilaro
+Templet:Steady	Ŝablono:Sama
+Templet:Infobokis Kantri	Ŝablono:Informkesto lando
+Templet:Column-count	Ŝablono:Kolumno-nombro
+Templet:Fi icon	Ŝablono:Fi
+Templet:Str left	Ŝablono:Lin mald
+Templet:Cite journal	Ŝablono:Citaĵo el gazeto
+Templet:User es-0	Ŝablono:Vikipediisto es-0
+Grup:Yusa en-4	Kategorio:Vikipediisto en-4
+Grup:Yusa en	Kategorio:Vikipediisto en
+Templet:Ordinal	Ŝablono:Ordinara
+Grup:Yusa en-2	Kategorio:Vikipediisto en-2
+Templet:Infobokis	Ŝablono:Informkesto
+Templet:Yusa eo	Ŝablono:Vikipediisto eo
+Templet:User zh	Ŝablono:Vikipediisto zh
+Templet:Template other	Ŝablono:Ĉu ŝablono
+Templet:Legend	Ŝablono:Priskribo
+Templet:Pp-template	Ŝablono:Pp-ŝablono
+Templet:·	Ŝablono:·
+Templet:Ol daireksion	Ŝablono:Kompasdirektoj
+Templet:Wiktionary	Ŝablono:Vikivortaro
+Templet:Ref-lang	Ŝablono:Ref-lang
+Grup:Egrikalsa	Kategorio:Agrikulturo
+Templet:Pp-semi-template	Ŝablono:Pp-duone-ŝablono
+Templet:User ru	Ŝablono:Vikipediisto ru
+Templet:IPA	Ŝablono:IFA
+Grup:Ol planet bilong Sola Sistem	Kategorio:Sunsistemaj planedoj
+Grup:Language user templates	Kategorio:Babelaj ŝablonoj
+Templet:Toktok bilong nem	Ŝablono:LingvoKunNomo
+Templet:Babel bokis-N	Ŝablono:Babel kadro D
+Templet:Rellink	Ŝablono:RilataLigilo
+Templet:Babel bokis-1	Ŝablono:Babel kadro 1
+Templet:MONTHNAME	Ŝablono:Nomo de monato
+Wikipedia:Buk Bilong GFDL	Vikipedio:GNU Free Documentation License
+Templet:Commons category-inline	Ŝablono:Komunejokat
+Templet:MONTHNUMBER	Ŝablono:Nombro de monato
+Templet:Namespace detect	Ŝablono:Determinas nomspacon
+Templet:PD-USGov	Ŝablono:PD-Usono-registaro
+Templet:Infobokis Plak	Ŝablono:Informkesto flago
+Templet:Infobokis Planet	Ŝablono:Informkesto Planedo
+Grup:Politikis long kontinen	Kategorio:Politiko laŭ kontinentoj
+Templet:Ethnologue	Ŝablono:Ethnologue
+Templet:Infobokis Websait	Ŝablono:Informkesto retejo
+Templet:SCO	Ŝablono:SCO
+Templet:Documentation subpage	Ŝablono:Ŝablona navigado
+Templet:CcTLD	Ŝablono:Naciaj domajnoj de plej alta nivelo
+Templet:POL	Ŝablono:POL
+Templet:Div col	Ŝablono:Div col
+Templet:Tok-de	Ŝablono:Lang-de
+Templet:Cc-by-3.0	Ŝablono:Cc-by-3.0
+Templet:Tok-la	Ŝablono:Lang-la
+Templet:Harim stori	Ŝablono:Aŭdioartikolo
+Templet:Unreferenced	Ŝablono:Sen fontoj
+Templet:Babel bokis-4	Ŝablono:Babel kadro 4
+Grup:Ples balus long Vietnam	Kategorio:Flughavenoj de Vietnamio
+Templet:Emergency-bot-shutoff	Ŝablono:Butono por forbari robotojn
+Templet:User pl-1	Ŝablono:Vikipediisto pl-1
+Templet:Prettytable	Ŝablono:Belatabelo
+Templet:Transl	Ŝablono:Transl
+Templet:Infobokis kantri bilong bipo	Ŝablono:Informkesto pereinta ŝtato
+Templet:Redirect	Ŝablono:Alidirekto
+Templet:Age in days	Ŝablono:Tagdiferenco
+Templet:Cc-by-sa-2.0	Ŝablono:Cc-by-sa-2.0
+Templet:JULIANDAY	Ŝablono:JULIANDAY
+Templet:Infobokis Kontinen	Ŝablono:Informkesto kontinento
+Templet:User de-0	Ŝablono:Vikipediisto de-0
+Templet:Ol de bilong dispela wik	Ŝablono:Tagoj de la semajno
+Templet:Nobold	Ŝablono:Nobold
+Templet:Gregorian serial date	Ŝablono:Gregoria seria dato
+Grup:Yusa ja-N	Kategorio:Vikipediisto ja-D
+Templet:Cc-by-sa-2.5,2.0,1.0	Ŝablono:Cc-by-sa-2.5,2.0,1.0
+Templet:Tok-ru	Ŝablono:Lang-ru
+Templet:Disambig	Ŝablono:Apartigilo
+Templet:Para	Ŝablono:Parametro
+Templet:User no	Ŝablono:Vikipediisto no
+Templet:Tok-en	Ŝablono:Lang-en
+Templet:PD-user	Ŝablono:PD-uzanto
+Templet:Babel bokis-3	Ŝablono:Babel kadro 3
+Templet:User it-2	Ŝablono:Vikipediisto it-2
+Templet:Ref-de	Ŝablono:De
+Templet:Nts	Ŝablono:Smn
+Templet:Convert	Ŝablono:Convert
+Templet:InterWiki	Ŝablono:Vikipedio
+Templet:Coord	Ŝablono:Koord
+Templet:Europe topic	Ŝablono:Ŝtatoj en Eŭropo
+Grup:Yusa sk	Kategorio:Vikipediisto sk
+Grup:Yusa eo	Kategorio:Vikipediisto eo
+Grup:Yusa fr	Kategorio:Vikipediisto fr
+Grup:Yusa hu-N	Kategorio:Vikipediisto hu-D
+Grup:Yusa ja	Kategorio:Vikipediisto ja
+Grup:Yusa th	Kategorio:Vikipediisto th
+Grup:Yusa fr-3	Kategorio:Vikipediisto fr-3
+Grup:Yusa ja-3	Kategorio:Vikipediisto ja-3
+Grup:Yusa pl-1	Kategorio:Vikipediisto pl-1
+Grup:Yusa hu-4	Kategorio:Vikipediisto hu-4
+Grup:Yusa fr-2	Kategorio:Vikipediisto fr-2
+Grup:Yusa hu-2	Kategorio:Vikipediisto hu-2
+Grup:Yusa it-2	Kategorio:Vikipediisto it-2
+Grup:Yusa ja-2	Kategorio:Vikipediisto ja-2
+Grup:Yusa fr-N	Kategorio:Vikipediisto fr-D
+Grup:Yusa ru-N	Kategorio:Vikipediisto ru-D
+Grup:Ol kapitol bilong Osenia	Kategorio:Ĉefurboj de Oceanio
+Grup:Yusa ca	Kategorio:Vikipediisto ca
+Grup:Yusa ca-1	Kategorio:Vikipediisto ca-1
+Grup:Ailan	Kategorio:Insuloj
+Grup:Quang Binh provins	Kategorio:Provinco Quang Binh
+Grup:Yusa sk-N	Kategorio:Vikipediisto sk-D
+Grup:Yusa de	Kategorio:Vikipediisto de
+Grup:Yusa de-2	Kategorio:Vikipediisto de-2
+Grup:Yusa de-3	Kategorio:Vikipediisto de-3
+Grup:Yusa de-N	Kategorio:Vikipediisto de-D
+Grup:Yusa dsb	Kategorio:Vikipediisto dsb
+Grup:Yusa dsb-1	Kategorio:Vikipediisto dsb-1
+Grup:Yusa el	Kategorio:Vikipediisto el
+Grup:Yusa el-N	Kategorio:Vikipediisto el-D
+Grup:Yusa en-0	Kategorio:Vikipediisto en-0
+Grup:Yusa en-3	Kategorio:Vikipediisto en-3
+Grup:Yusa en-N	Kategorio:Vikipediisto en-D
+Grup:Yusa eo-1	Kategorio:Vikipediisto eo-1
+Grup:Yusa eo-2	Kategorio:Vikipediisto eo-2
+Grup:Yusa eo-3	Kategorio:Vikipediisto eo-3
+Grup:Yusa eo-4	Kategorio:Vikipediisto eo-4
+Grup:Yusa es	Kategorio:Vikipediisto es
+Grup:Yusa es-1	Kategorio:Vikipediisto es-1
+Grup:Yusa eu	Kategorio:Vikipediisto eu
+Grup:Yusa eu-1	Kategorio:Vikipediisto eu-1
+Grup:Yusa hsb	Kategorio:Vikipediisto hsb
+Grup:Yusa hsb-1	Kategorio:Vikipediisto hsb-1
+Grup:Yusa hu	Kategorio:Vikipediisto hu
+Grup:Yusa hu-1	Kategorio:Vikipediisto hu-1
+Grup:Yusa hu-3	Kategorio:Vikipediisto hu-3
+Grup:Politikis long kantri	Kategorio:Politiko laŭ landoj
+Grup:Yusa it	Kategorio:Vikipediisto it
+Grup:Yusa it-1	Kategorio:Vikipediisto it-1
+Grup:Yusa ja-1	Kategorio:Vikipediisto ja-1
+Grup:Ol stet bilong Ol Yunaitet Stet	Kategorio:Usonaj ŝtatoj
+Grup:Ol provins bilong Vietnam	Kategorio:Provincoj de Vjetnamio
+Grup:Ol provins bilong Papua Niugini	Kategorio:Provincoj de Papuo-Nov-Gvineo
+Grup:Lukluk bilong manmeri	Kategorio:Vidado
+Grup:Yusa ru-1	Kategorio:Vikipediisto ru-1
+Wikipedia:Babel	Vikipedio:Babelejo
+Templet:Tdeprecated	Ŝablono:Evitinda
+Templet:User sv-1	Ŝablono:Vikipediisto sv-1
+Templet:Babel bokis-2	Ŝablono:Babel kadro 2
+Grup:Ol siti na taun bilong Polan	Kategorio:Urboj de Pollando
+Templet:PD-old-70	Ŝablono:Bildo malnova, pli ol 70 jaroj
+Grup:Saiens long Manmeri na Ples	Kategorio:Socia scienco
+Grup:Ol tokples bilong Esia	Kategorio:Lingvoj de Azio
+Grup:Ol kantri long Aprika	Kategorio:Afrikaj landoj
+Grup:Yusa ru	Kategorio:Vikipediisto ru
+Grup:Yusa ru-2	Kategorio:Vikipediisto ru-2
+Grup:Yusa ru-3	Kategorio:Vikipediisto ru-3
+Grup:Yusa ru-4	Kategorio:Vikipediisto ru-4
+Grup:Yusa tpi	Kategorio:Vikipediisto tpi
+Grup:Yusa tpi-1	Kategorio:Vikipediisto tpi-1
+Grup:Yusa tpi-2	Kategorio:Vikipediisto tpi-2
+Grup:Yusa tpi-3	Kategorio:Vikipediisto tpi-3
+Grup:Yusa vi	Kategorio:Vikipediisto vi
+Templet:Ref-en	Ŝablono:En
+Templet:Spaces	Ŝablono:Spacoj
+Templet:Lang	Ŝablono:Lang
+Templet:User hsb-1	Ŝablono:Vikipediisto hsb-1
+Templet:Coord/dec2dms/dm	Ŝablono:Koord/dekalgms/gm
+Grup:Vemont	Kategorio:Vermonto
+Grup:Kolorado	Kategorio:Koloradio
+Templet:PD-self	Ŝablono:PD-mem
+Templet:Cc-sa-1.0	Ŝablono:Cc-sa-1.0
+Templet:ENG	Ŝablono:ENG
+Templet:Merge	Ŝablono:Kunigu
+Grup:Politikis long PNG	Kategorio:Politiko de Papuo-Nov-Gvineo
+Templet:Infobokis Tokples/family-color	Ŝablono:Informkesto lingvo/Koloro
+Templet:User no-1	Ŝablono:Vikipediisto no-1
+Templet:User ru-1	Ŝablono:Vikipediisto ru-1
+Grup:Ubuntu	Kategorio:Ubuntu
+Grup:Manmeri bilong Belaras	Kategorio:Belorusoj
+Grup:Intanet kod	Kategorio:Naciaj domajnoj de la alta nivelo
+Grup:User no-2	Kategorio:Vikipediisto no-2
+Grup:User no	Kategorio:Vikipediisto no
+Grup:Armenia	Kategorio:Armenio
+Grup:Bhutan	Kategorio:Butano
+Grup:Ples balus	Kategorio:Flughavenoj
+Grup:Ol nesenel plak	Kategorio:Naciaj flagoj
+Grup:Not Koria	Kategorio:Nord-Koreio
+Grup:Manmeri bilong Nauru	Kategorio:Nauranoj
+Grup:Manmeri bilong Ostrelia	Kategorio:Aŭstralianoj
+Grup:Vanuatu	Kategorio:Vanuatuo
+Grup:Korea	Kategorio:Koreio
+Templet:Howtoedit	Ŝablono:Howtoedit
+Templet:ISO 639 name	Ŝablono:Lingv/o
+Templet:PAGENAMEBASE	Ŝablono:PAGENAMEBASE
+Templet:Ref-info	Ŝablono:Ref-info
+Grup:Papua Niugini	Kategorio:Papuo-Nov-Gvineo
+Grup:Ol kantri long Pasifik	Kategorio:Oceaniaj landoj
+Grup:Ol kantri long Not Amerika	Kategorio:Nordamerikaj landoj
+Grup:Ol tokples bilong Yurop	Kategorio:Lingvoj de Eŭropo
+Templet:Incubator	Ŝablono:Inkubejo
+Grup:Ol Abus	Kategorio:Bestoj
+Grup:Ol kantri long Saut Amerika	Kategorio:Sudamerikaj landoj
+Grup:Ol bokis bilong musik	Kategorio:Muzikaj instrumentoj
+Grup:Piano	Kategorio:Piano
+Grup:Ol kapitol bilong kantri	Kategorio:Ĉefurboj
+Grup:Akiolosi	Kategorio:Arkeologio
+Grup:Ilektrisiti	Kategorio:Elektro
+Grup:Yusa pl	Kategorio:Vikipediisto pl
+Grup:Famili	Kategorio:Familio
+Templet:Infobokis Tokples	Ŝablono:Informkesto lingvo
+Grup:Osenia	Kategorio:Oceanio
+Grup:Ol tokples bilong Osenia	Kategorio:Lingvoj de Oceanio
+Grup:Ol ailan bilong Papua Niugini	Kategorio:Insuloj en Papuo-Nov-Gvineo
+Grup:Kalsa bilong Papua Niugini	Kategorio:Kulturo de Papuo-Nov-Gvineo
+Grup:Ol kapitol bilong Yurop	Kategorio:Ĉefurboj de Eŭropo
+Grup:Ol kapitol bilong Esia	Kategorio:Ĉefurboj de Azio
+Grup:Ol tokples bilong Vanuatu	Kategorio:Lingvoj de Vanuatuo
+Grup:Ol tokples bilong Papua Niugini	Kategorio:Lingvoj de Papuo-Nov-Gvineo
+Templet:CompactTOC	Ŝablono:Indekso
+Templet:NUMBEROF	Ŝablono:Nombro da
+Templet:WAL	Ŝablono:Kimrio
+Templet:PD-old-100	Ŝablono:Bildo malnova
+Templet:User tpi-3	Ŝablono:Vikipediisto tpi-3
+Templet:Color box	Ŝablono:Kolora kesto
+Templet:Flag	Ŝablono:Flago
+Templet:Tok-pl	Ŝablono:Lang-pl
+Saina (kainkain mining)	Ĉinio (apartigilo)
+Trojany	Trojany
+Grup:Ol kantri long Esia	Kategorio:Aziaj landoj
+Grup:Ol kantri long Amerika	Kategorio:Amerikaj landoj
+Grup:Ol kantri long Sentrel Amerika	Kategorio:Centramerikaj landoj
+Grup:Aialan	Kategorio:Irlando
+Grup:Linux	Kategorio:Linukso
+Halivim:Disembigyuesen	Helpo:Apartigiloj
+Grup:Tebol bilong ol elemen	Kategorio:Perioda tabelo
+Grup:León provins	Kategorio:Provinco Leono
+Grup:Valencia provins	Kategorio:Provinco Valencio
+Grup:Burgos provins	Kategorio:Provinco Burgoso
+Templet:Ol web kala2	Ŝablono:Interretaj koloroj
+Grup:Kala	Kategorio:Koloroj
+Grup:Ol yunit bilong taim	Kategorio:Mezurunuoj de tempo
+Grup:Alicante provins	Kategorio:Provinco Alikanto
+Grup:Ol siti na taun bilong Brasil	Kategorio:Municipoj de Brazilo
+Grup:Politikis long Osenia	Kategorio:Politiko en Oceaniaj landoj
+Grup:Ol siti na taun	Kategorio:Urboj
+Templet:Ref-mix	Ŝablono:Ref-mix
+Grup:Yusa en-1	Kategorio:Vikipediisto en-1
+Grup:Yusa de-1	Kategorio:Vikipediisto de-1
+Grup:Protected templates	Kategorio:Protektitaj ŝablonoj
+Templet:NUMBEROF/data	Ŝablono:Nombro da/dateno
+Templet:Userbox-level	Ŝablono:Userbox-level
+Templet:User dsb-1	Ŝablono:Vikipediisto dsb-1
+Templet:User tpi-1	Ŝablono:Vikipediisto tpi-1
+Templet:Ref-tpi	Ŝablono:Tpi
+Templet:1000	Ŝablono:Havenda artikolo
+Templet:User no-5	Ŝablono:Vikipediisto no-5
+Templet:User tpi-2	Ŝablono:Vikipediisto tpi-2
+Templet:Proofreader needed	Ŝablono:Lingve poluru
+Templet:Style/IPA	Ŝablono:Style/IPA
+Templet:Style/yid	Ŝablono:Style/yid
+Sipesol:Nupela senis	Specialaĵo:Lastaj ŝanĝoj

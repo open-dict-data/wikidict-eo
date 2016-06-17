@@ -1,0 +1,6893 @@
+אפריקע	Afriko
+יאפאן	Japanio
+דרום אמעריקע	Sudameriko
+נארוועגיע	Norvegio
+ענגלאנד	Anglio
+סקאטלאנד	Skotlando
+וויילס	Kimrio
+צפון אירלאנד	Nord-Irlando
+אירלאנד	Irlando
+אונגארן	Hungario
+שפאניע	Hispanio
+פאראייניקטע שטאטן פון אמעריקע	Usono
+בעלגיע	Belgio
+לוקסעמבורג	Luksemburgo (lando)
+אוניווערס	Universo
+ערד-פלאנעט	Tero
+לעבן	Vivo
+טויט	Morto
+מענטש	Homo
+פרייד	Feliĉo
+דזשארזש וואשינגטאן	George Washington
+טים בערנערס-לי	Tim Berners-Lee
+סטענלי קובריק	Stanley Kubrick
+פינלאנד	Finnlando
+שוועדן	Svedio
+דענמארק	Danio
+פוילן	Pollando
+ליטע	Litovio
+איטאליע	Italio
+שווייץ	Svislando
+עסטרייך	Aŭstrio
+גריכנלאנד	Grekio
+טערקיי	Turkio
+ביר	Biero
+פארטוגאל	Portugalio
+אייראפע	Eŭropo
+אזיע	Azio
+צפון אמעריקע	Nordameriko
+אנטארקטיקע	Antarkto
+וויקיפעדיע	Vikipedio
+האלאנד	Nederlando
+פעניס	Peniso
+PHP	PHP
+ניו יארק (שטאט)	Novjorko
+וואשינגטאן די סי	Vaŝingtono
+סאן פראנציסקא	San-Francisko
+בערלין	Berlino
+לאס אנדזשעלעס	Los-Anĝeleso
+באואינג	Boeing
+ערבוס	Airbus
+קאמפיוטער	Komputilo
+בערן	Berno
+גענף	Ĝenevo
+ציריך	Zuriko
+אינטערנעץ	Interreto
+באראק אבאמא	Barack Obama
+אורוגוויי	Urugvajo
+באזעל	Bazelo
+דרוקער	Presilo
+מעדיעוויקי	MediaVikio
+לאנדאן	Londono
+קיירא	Kairo
+קאפוויי	Kapdoloro
+אלעקסאנדריע	Aleksandrio
+עפל	Pomo
+פאריז	Parizo
+אברהם לינקאלן	Abraham Lincoln
+גוגל	Google
+מעקסיקא	Meksiko
+אטלאנטישער אקעאן	Atlantika Oceano
+פאציפישער אקעאן	Pacifika Oceano
+קאליפארניע	Kalifornio
+באסטאן	Bostono
+מאנטיק	Lundo
+געשפרייט	Spaco
+יאנואר	Januaro
+פעברואר	Februaro
+מערץ	Marto
+מאדים	Marso
+קעניע	Kenjo
+עטיאפיע	Etiopio
+גהאנע	Ganao
+אפריל	Aprilo
+מיי	Majo
+יוני	Junio
+יולי	Julio
+אויגוסט	Aŭgusto
+סעפטעמבער	Septembro
+אקטאבער	Oktobro
+נאוועמבער	Novembro
+דעצעמבער	Decembro
+דינסטיק	Mardo
+מיטוואך	Merkredo
+דאנערשטיק	Ĵaŭdo
+פרייטיק	Vendredo
+זונטיק	Dimanĉo
+לייב	Leono
+פראנקרייך	Francio
+עספעראנטא	Esperanto
+הונט	Hundo
+פאראייניגטע קעניגרייך	Unuiĝinta Reĝlando
+קאץ	Hejma kato
+כינע	Ĉina Popola Respubliko
+פראנצויזיש	Franca lingvo
+וויקיווערטערבוך	Vikivortaro
+פיש	Fiŝoj
+עטאנאל	Etanolo
+אלקאהאליש געטראנק	Alkoholaĵo
+בראזיל	Brazilo
+אלקאהאל	Alkoholo
+פראנצווא האלאנד	François Hollande
+רוסלאנד	Rusio
+וואלפיש	Cetacoj
+אפטישע פיברע	Optika fibro
+קוואדראט	Kvadrato (geometrio)
+ים	Maro
+שווארצער ים	Nigra Maro
+פי	Pi (nombro)
+פי (אות)	Pio (litero)
+וויקי	Vikio
+טאראנטא	Toronto
+אלאבאמא	Alabamo
+סאו פאולא	San-Paŭlo (urbo)
+קוויבעק	Kebekio
+פיצא	Pico
+וויקימעדיע פונדאציע	Fondaĵo Vikimedio
+זשימי וויילס	Jimmy Wales
+דייטשלאנד	Germanio
+בעלארוס	Belorusio
+דייטשיש	Germana lingvo
+איסלאנד	Islando
+גאט	Dio
+עסטלאנד	Estonio
+דייוויד קאמעראן	David Cameron
+סאטורן	Saturno (planedo)
+שאקאלאד	Ĉokolado
+עראפלאן	Aviadilo
+מלחמה	Milito
+1 (נומער)	1 (nombro)
+2 (נומער)	2 (nombro)
+3 (נומער)	3 (nombro)
+4 (נומער)	4 (nombro)
+5 (נומער)	5 (nombro)
+0 (נומער)	Nulo
+אומענדלעכקייט	Senfineco
+סטיוון הארפער	Stephen Harper
+דזשארדזש וו. בוש	George W. Bush
+גראדעק	Ortangulo
+לעטלאנד	Latvio
+אוקראינע	Ukrainio
+טשעכיי	Ĉeĥio
+סלאוואקיי	Slovakio
+סלאוועניע	Slovenio
+ווילנע	Vilno
+מאלדאווע	Moldava Respubliko
+רומעניע	Rumanio
+בולגאריע	Bulgario
+רוים	Romo
+מאקעדאניע	Respubliko Makedonio
+אלבאניע	Albanio
+גרינלאנד	Gronlando
+קראאטיע	Kroatio
+באסניע און הערצעגאווינע	Bosnio kaj Hercegovino
+אזערביידזשאן	Azerbajĝano
+אנדארע	Andoro
+ציפערן	Kipro
+גרוזיע	Kartvelio
+וואלאניע	Valonio
+קאזאכסטאן	Kazaĥio
+מאלטא	Malto
+פלאנדערן	Flandrio
+מאנאקא	Monako
+מאנטענעגרא	Montenegro
+וואטיקאן	Vatikano
+סאן מארינא	San-Marino
+בריסל	Bruselo
+בריסל ראיאן	Brusela Ĉefurba Regiono
+קובא	Kubo
+בעליז	Belizo
+אייפל טורעם	Eiffel-Turo
+קלאוויאטור	Komputila klavaro
+אינדאנעזיע	Indonezio
+וואלפגאנג אמאדעוס מאצארט	Wolfgang Amadeus Mozart
+לודוויג וואן בעטהאוון	Ludwig van Beethoven
+טערקיש	Turka lingvo
+דרום אפריקע	Sud-Afriko
+אלזשיר	Alĝerio
+וויקיביבליאטעק	Vikifontaro
+אוזבעקיסטאן	Uzbekujo
+פויזן	Poznano
+טאשקענט	Taŝkento
+ווארשע	Varsovio
+וויסקי	Viskio
+וויין	Vino
+וואסער	Akvo
+קאניאק	Cognac
+האלץ	Ligno
+טעלעוויזיע	Televido
+געשלעכט	Sekso
+פארנאגראפיע	Pornografio
+קלאד מאנע	Claude Monet
+דיעגא וועלאזקעז	Diego Velázquez
+טשילע	Ĉilio
+יעזוס	Jesuo Kristo
+עלוויס פרעסלי	Elvis Presley
+סעוואסטיאן פיניערא	Sebastián Piñera
+גאלילעא גאלילעי	Galilejo
+מערקור	Merkuro (planedo)
+היסטאריע	Historio
+עפל (פירמע)	Apple
+ווענוס	Venuso (planedo)
+שפראך	Lingvo
+ליבע	Amo
+דיקטאטור	Diktatoreco
+גאלאקסיע	Galaksio
+יופיטער	Jupitero (planedo)
+מיטשעל באטשעלעט	Michelle Bachelet
+מילכיגער וועג	Lakta vojo
+ביג בענג	Praeksplodo
+אוראנוס	Urano (planedo)
+ענגלישע וויקיפעדיע	Anglalingva Vikipedio
+ניקאלא סארקאזי	Nicolas Sarkozy
+נעפטון	Neptuno (planedo)
+אסטראנאמיע	Astronomio
+סינגאפור	Singapuro
+וויסנשאפט	Scienco
+קאסמאלאגיע	Kosmologio
+פלוטאן	Plutono
+מאנטרעאל	Montrealo
+ליכטנשטיין	Liĥtenŝtejno
+ספארט	Sporto
+אדאלף היטלער	Adolf Hitler
+פייסבוק	Facebook
+ערשטע וועלט מלחמה	Unua mondmilito
+צווייטע וועלט-מלחמה	Dua mondmilito
+קעלן	Kolonjo
+וויקיביכער	Vikilibroj
+וואדקע	Vodko
+זייגער	Horloĝo
+אובונטו	Ubuntu (linukso)
+סקאפיע	Skopjo
+לינוקס	Linukso
+שטעטין	Szczecin
+מאטעמאטיק	Matematiko
+לאטיין	Latina lingvo
+באכריין	Barejno
+ארמעניע	Armenio
+סערביע	Serbio
+לבנה	Luno
+סטאמבול	Istanbulo
+אויסטראליע	Aŭstralio
+פיזיק	Fiziko
+ארגענטינע	Argentino
+טעלעקאמוניקאציע	Telekomunikado
+פערו	Peruo
+ביאלאגיע	Biologio
+אומאידענטיפיצירטער פליענדער אביעקט	Nifo
+צפון קארעע	Nord-Koreio
+קאמבאדיע	Kamboĝo
+קאראן	Korano
+דינאזאווער	Dinosaŭro
+זאאלאגיע	Bestoscienco
+איסלאם	Islamo
+באטאניק	Plantoscienco
+לעך וואלענסא	Lech Wałęsa
+ראד	Rado
+שכל	Menso
+פרידן	Paco
+ליאן	Liono
+אייראפעישער פארבאנד	Eŭropa Unio
+פלאוודיוו	Plovdiv
+World Wide Web	TTT
+פרוי	Virino
+סאפיע	Sofio
+דאן קיכאטע	Kiĥoto
+דיכטונג	Poezio
+פוילקייט	Maldiligento
+קאמפיוטער ווירוס	Komputviruso
+מילאן	Milano
+פריינטשאפט	Amikeco
+זכרון	Memoro
+טורין	Torino
+צואה	Fekaĵo
+לימענע	Citrono
+באנאן	Banano
+בלום	Floro
+גוגאל	Guglo
+וולאדימיר וויסאצקי	Vladimir Visockij
+עווערעסט	Ĉomolungmo
+אנאטאמיע	Anatomio
+שטאט	Urbo
+נאפאלעאן באנאפארטע	Napoleono Bonaparte
+פיזיאלאגיע	Fiziologio
+שטערן	Stelo
+זון	Suno
+הימל	Ĉielo
+לואי פאסטער	Louis Pasteur
+ליכט יאר	Lumjaro
+דארף	Vilaĝo
+וויקטאר הוגא	Victor Hugo
+אקעאניע	Oceanio
+אטלעטיק	Atletiko
+צענזור	Cenzuro
+זון סיסטעם	Sunsistemo
+באלטישער ים	Balta Maro
+ווייסל	Vistulo
+שאמס עליזע	Avenuo de la Elizeaj Kampoj
+הידראגען	Hidrogeno
+העליום	Heliumo
+וויקיקאמאנס	Vikimedia Komunejo
+אנגעלא מערקל	Angela Merkel
+ליטיום	Litio
+בעריליום	Berilio
+בוך	Libro
+טאג	Tago
+מזרח טימאר	Orienta Timoro
+נאכט	Nokto
+יאר	Jaro
+יארהונדערט	Jarcento
+לאדזש	Lodzo
+מאן בלאנק	Blanka Monto
+ריין (טייך)	Rejno
+אסלא	Oslo
+באן, דייטשלאנד	Bonn
+קאטאוויץ	Katowice
+שווארצע לאך	Nigra truo
+צערעס	Cereso
+ליסבאן	Lisbono
+ריישע	Rzeszów
+מייקל בלומבערג	Michael Bloomberg
+סעקס	Seksumado
+דוביי	Dubajo
+ליאנעל מעסי	Lionel Messi
+באר (עלעמענט)	Boro
+ניקאליי קאפערניק	Koperniko
+ווערסיי	Versailles
+קוילנשטאף	Karbono
+וואלגא	Volgo
+אזאט	Nitrogeno
+זויערשטאף	Oksigeno
+פלאנעט	Planedo
+מוזיק	Muziko
+ווענעציע	Venecio
+שארם אל שייך	Ŝarm el Ŝeiĥ
+נעווא טייך	Neva
+ליל	Lille
+מאסקווע	Moskvo
+פלואר	Fluoro
+איטאליעניש	Itala lingvo
+נעאן	Neono
+פעטערבורג	Sankt-Peterburgo
+טשאד (לאנד)	Ĉado
+נאטריום	Natrio
+צפון	Nordo
+מאגנעזיום	Magnezio
+אלומיניום	Aluminio
+ניו זילאנד	Nov-Zelando
+דרום	Sudo
+אינדיע	Barato
+סיליציום	Silicio
+פאספאר	Fosforo
+פראזע (ליטעראטור)	Prozo
+אייזן	Fero
+מערב	Okcidento
+שוועבל	Sulfuro
+מיזרח	Oriento
+סאלאמאן אינזלען	Salomonoj
+מאליער	Molière
+כלאר	Kloro
+דעלפט	Delft
+וויליאם שייקספיר	William Shakespeare
+משל	Fablo
+ארגאן (עלעמענט)	Argono
+Mozilla Firefox	Mozilla Firefox
+קאליום	Kalio
+קאלציום	Kalcio
+בליי	Plumbo
+מאנגאליי	Mongolio
+פידזשי	Fiĝioj
+סקאנדיום	Skandio
+טיטאניום	Titano (elemento)
+ווענעזועלע	Venezuelo
+שאך (שפיל)	Ŝako
+דזשינגיס כאן	Ĝingis-Ĥano
+וואנאדיום	Vanado
+מעין	Majno
+כראם	Kromo
+פערד	Ĉevalo
+אמסטערדאם	Amsterdamo
+געווער	Armilo
+בעלי חיים	Bestoj
+סורינאם	Surinamo
+מאנגאן	Mangano
+פאראגוויי	Paragvajo
+גויאנע	Gujano
+קונסט	Arto
+עקוואדאר	Ekvadoro
+רעניום	Renio
+קאלאמביע	Kolombio
+קאבאלט	Kobalto
+וואלפראם	Volframo
+ניקל	Nikelo
+טרוסקאווקע	Frago
+בודהיזם	Budhismo
+באליוויע	Bolivio
+אסמיום	Osmio
+קופער	Kupro
+פלאנץ	Plantoj
+צינק	Zinko
+ניו העמפשער	Nov-Hampŝiro
+ביאליסטאק	Bjalistoko
+לעאנארדא דא ווינטשי	Leonardo da Vinci
+שוואם	Fungoj
+דזשאמייקע	Jamajko
+מאסאטשוסעטס	Masaĉuseco
+גוואטעמאלע	Gvatemalo
+גוגל כראם	Google Chrome
+באהאמאס	Bahamoj
+קאנעטיקעט	Konektikuto
+האן	Koko
+האוואי	Havajo
+האנדוראס	Honduro
+דאמיניקאנישע רעפובליק	Domingo
+חזיר	Porko
+ארקטישער אקעאן	Arkta Oceano
+האיטי	Haitio
+על סאלוואדאר	Salvadoro
+איראן	Irano
+איראק	Irako
+אלאסקע	Alasko
+קלוגשאפט	Saĝo
+קאסטא ריקא	Kostariko
+ישראל	Israelo
+צאנז	Nowy Sącz
+פאנאמא	Panamo
+תימן	Jemeno
+ווירוס	Viruso (biologio)
+פויליש	Pola lingvo
+יארדאניע	Jordanio
+ניקאראגוא	Nikaragvo
+פלארידע	Florido
+קירגיזסטאן	Kirgizio
+אריזאנע	Arizono
+קואווייט	Kuvajto
+לאאס	Laoso
+לבנון	Libano
+ארעגאן	Oregono
+מאלדיוון	Maldivoj
+אמעריקע	Ameriko
+יוטא	Utaho
+אקס	Bovo
+מאלייזיע	Malajzio
+מיאנמאר	Birmo
+נעפאל	Nepalo
+אמאן	Omano
+פאקיסטאן	Pakistano
+דזשעימס באנד	James Bond (fikcia universo)
+קאטאר	Kataro
+טעניס	Teniso
+סאודי אראביע	Sauda Arabio
+סרי לאנקא	Sri-Lanko
+יאזעף סטאלין	Josif Stalin
+סיריע	Sirio
+פלאטאן	Platono
+גאליום	Galiumo
+טאדזשיקיסטאן	Taĝikio
+רעפובליק פון כינע	Respubliko Ĉinio
+יוטוב	YouTube
+גערמאניום	Germaniumo
+אריסטו	Aristotelo
+טיילאנד	Tajlando
+באן	Trajno
+ארסעניק	Arseno
+ראדיא	Radiofonio
+טורקמעניסטאן	Turkmenio
+סעלעניום	Seleno
+אירידיום	Iridio
+פאראייניגטע אראבישע עמיראטן	Unuiĝintaj Arabaj Emirlandoj
+בראם	Bromo
+פלאטין	Plateno
+וויעטנאם	Vjetnamio
+טשארלי טשאפלין	Charlie Chaplin
+דרום קארעע	Sud-Koreio
+די סימפסאנס	La Simpsonoj
+קריפטאן	Kriptono
+אפגאניסטאן	Afganio
+רובידיום	Rubidio
+גאלד	Oro
+סועץ קאנאל	Sueza Kanalo
+באנגלאדעש	Bangladeŝo
+פראנץ קאפקא	Franz Kafka
+טשעליאבינסק	Ĉeljabinsk
+כארכע לויס בארכעס	Jorge Luis Borges
+מאלי	Malio
+סאקראטעס	Sokrato
+אנגאלא	Angolo
+בהוטאן	Butano
+טוויטער	Twitter
+ברוניי	Brunejo
+טאנזאניע	Tanzanio
+קוועקזילבער	Hidrargo
+ראאלד אמונדסען	Roald Amundsen
+הארי מוליש	Harry Mulisch
+פיליפינען	Filipinoj
+צענטראל-אפריקאנישע רעפובליק	Centr-Afrika Respubliko
+טאליום	Taliumo
+דרום פאלוס	Suda poluso
+צפון פאלוס	Norda poluso
+אייזיק ניוטאן	Isaac Newton
+אלבערט איינשטיין	Albert Einstein
+סטראנטיום	Stroncio
+איטריום	Itrio
+ביסמוט	Bismuto
+געל	Flava
+קוואנטן-מעכאניק	Kvantuma mekaniko
+טאגא	Togolando
+טוניסיע	Tunizio
+זאמביע	Zambio
+זימבאבווע	Zimbabvo
+בייזשינג	Pekino
+דרום סודאן	Sud-Sudano
+וולאדיוואסטאק	Vladivostok
+בענין	Benino
+באצוואנע	Bocvano
+וויקינייעס	Vikinovaĵoj
+בורקינע פאסא	Burkino
+בורונדי	Burundo
+קאמאראס	Komoroj
+רעפובליק פון קאנגא	Respubliko Kongo
+דעמאקראטישע רעפובליק פון קאנגא	Demokratia Respubliko Kongo
+סאן אנטאניא	San Antonio (Teksaso)
+דזשיבוטי	Ĝibutio
+פאלאניום	Polonio
+בייערן	Bavario
+עקוואטארישע גינע	Ekvatora Gvineo
+באדן-ווירטמבורג	Baden-Virtembergo
+עריטרעא	Eritreo
+ניי דעלי	Nov-Delhio
+פיאדאר דאסטאיעווסקי	Fjodor Dostojevskij
+טביליסי	Tbiliso
+אנדריי סאכאראוו	Andrej Saĥarov
+עופעלע	Bebo
+גאבאן	Gabono
+מאהענדאס קערעמטשענד גאנדי	Mohandas Karamchand Gandhi
+קאמיקס	Bildliteraturo
+די גאמביע	Gambio
+גינע	Gvineo
+גינע-ביסאו	Gvineo Bisaŭa
+בארטן פון העלפאנדביין	Ebur-Bordo
+קאמערון	Kameruno
+קאפווערדישע אינזלען	Kaboverdo
+לעסאטא	Lesoto
+ליבעריע	Liberio
+ליביע	Libio
+מאדאגאסקאר	Madagaskaro
+מאלאווי	Malavio
+שטוטגארט	Stutgarto
+מאריטאניע	Maŭritanio
+מאריציוס	Maŭricio
+מאראקא	Maroko
+מאזאמביק	Mozambiko
+נאמיביע	Namibio
+ניזשער	Niĝero
+ניגעריע	Niĝerio
+טשארלס דארווין	Charles Darwin
+אוגאנדע	Ugando
+רוואנדע	Ruando
+צירקאניום	Zirkonio
+סאא טאמע און פרינסיפע	Sao-Tomeo kaj Principeo
+קארלסרוע	Karlsruhe
+סענעגאל	Senegalo
+סיישעל	Sejŝeloj
+קארל פאן לינע	Karolo Lineo
+סיערע לעאנע	Siera-Leono
+סאמאליע	Somalio
+דזשאווארהארלאל נעהרו	Jawaharlal Nehru
+יוליוס קייסער	Julio Cezaro
+סודאן	Sudano
+סוואזילאנד	Svazilando
+רעגנבויגן	Ĉielarko
+האמבורג	Hamburgo
+מעטאבאליזם	Metabolo
+נארענדרא מאדי	Narendra Modi
+אימון-סיסטעם	Imuna sistemo
+גודזשאראט	Guĝaratio
+עוואלוציע	Evoluismo
+פאראייניגטע פעלקער	Unuiĝintaj Nacioj
+דאנטע אליגערי	Dante Alighieri
+געאלאגיע	Geologio
+געאגראפיע	Geografio
+הארץ	Koro
+מוח	Cerbo
+הויט	Haŭto
+קאליר	Koloro
+סובסטאנטיוו	Substantivo
+פראג	Prago
+רוטעניום	Rutenio
+רהאדיום	Rodio
+בלוי	Blua
+פאלאדיום	Paladio
+זילבער	Arĝento
+קאדמיום	Kadmio
+שטערן רייזע	Star Trek
+אינדיום	Indio
+צין	Stano
+אוראניום	Uranio
+שפיזגלאז	Antimono
+טעלור	Teluro
+פלוטאניום	Plutonio
+יאד	Jodo
+קסענאן	Ksenono
+אנימע	Animeo
+צעז	Cezio
+באריום	Bario
+טאנטאלום	Tantalo
+ביל קלינטאן	William J. Clinton
+ראדיום	Radiumo
+ראדאן	Radono
+לאטארינגיע	Loreno
+עלזאס	Alzaco
+העקטאר בערליאז	Louis Hector Berlioz
+מומביי	Mumbajo
+אנדרא פראדעש	Andra-Pradeŝo
+ארונאטשאל פראדעש	Arunaĉal-Pradeŝo
+אסאם	Asamo
+מישיגן	Miĉigano
+טשאטיסגארה	Ĉhatisgaro
+האריאנא	Harjano
+אקוויטאניע	Akvitanio
+דזשארקהאנד	Ĝharkhando
+קארנאטאקא	Karnatako
+קעראלא	Keralao
+מאדהיא פראדעש	Madhja-Pradeŝo
+מאהאראשטרא	Maharaŝtro
+מעקלענבורג-מערב פאמעראניע	Meklenburgo-Antaŭpomerio
+אונטער-זאקסן	Malsupra Saksio
+נארד ריין-וועסטפאליע	Nordrejn-Vestfalio
+העסע	Hesio
+ריינלאנד-פאלץ	Rejnlando-Palatinato
+זאקסן	Saksio
+אילינוי	Ilinojso
+טורינגיע	Turingio
+זאקסן-אנהאלט	Saksio-Anhalto
+צפון דעקאטע	Norda Dakoto
+בראנדנבורג	Brandenburgio
+דרום דעקאטע	Suda Dakoto
+מאנטענע	Montano
+וויאמינג	Vajomingo
+ירושלים	Jerusalemo
+איידעהא	Idaho
+וואשינגטאן	Vaŝingtonio
+נעוואדא	Nevado
+אינדישער אקעאן	Hinda Oceano
+קאראיבישער ים	Kariba Maro
+קורט וואלדהיים	Kurt Waldheim
+קאלאראדא	Koloradio
+פרעדעריק שאפען	Frédéric Chopin
+לענארד כהן	Leonard Cohen
+קאַטעגאָריע:אינהאלט	Kategorio:Ĉio
+אלפן	Alpoj
+קארפאטן בערג	Karpatoj
+גרענאבלע	Grenoblo
+שיקאגא	Ĉikago
+די ביטלס	The Beatles
+ווינטער	Vintro
+פרילינג	Printempo
+זומער	Somero
+הארבסט	Aŭtuno
+סאדאם כוסעין	Saddam Hussein
+אסאמא בין לאדען	Usama bin Laden
+שפאניש	Hispana lingvo
+מאנטעווידעא	Montevideo
+יאהאן זעבאסטיאן באך	Johann Sebastian Bach
+אנטאניא וויוואלדי	Antonio Vivaldi
+פיטסבורג	Pittsburgh (Pensilvanio)
+אפערע	Opero
+פילאדעלפיע	Filadelfio (Pensilvanio)
+קאלקאטא	Kolkato
+דעלהי	Delhio
+דאקא	Dako
+שפין	Araneuloj
+ארטראפאד	Artropodoj
+איסלאמאבאד	Islamabado
+פרוכט	Frukto
+מאלפע	Simio
+געלט	Mono
+ווירדזשיניע	Virginio (ŝtato)
+וועסט ווירדזשיניע	Okcidenta Virginio
+מאטערהארן	Materhorno
+ניו יארק	Nov-Jorkio
+ראוד איילענד	Rod-Insulo
+אינסעקט	Insekto
+מארילאנד	Marilando
+דעלעווער	Delavaro
+וולאדימיר לענין	Lenin
+אהאיא	Ohio
+ווערגיל	Vergilio
+ניקאלא מאקיאוועלי	Makiavelo
+פענסילוועניע	Pensilvanio
+איטערזען	Uetersen
+אויגוסטוס	Aŭgusto Cezaro
+Windows	Microsoft Windows
+ניו זשערסי	Nov-Ĵerzejo
+גיבראלטאר	Ĝibraltaro
+פיניש	Finna lingvo
+אינדיאנע	Indianio
+אויטאמאביל	Aŭtomobilo
+טריאנוס	Trajano
+דזשארדזיע	Georgio
+זאגרעב	Zagrebo
+ראדזשאסטהאן	Raĝastano
+טעקסאס	Teksaso
+טאמיל נאדו	Tamilnado
+יאנאווע (איטאליע)	Ĝenovo
+צפון קאראליינע	Norda Karolino
+דרום קאראליינע	Suda Karolino
+סיציליע	Sicilio
+מאנילא	Manilo
+סארדיניע	Sardio
+סעבו	Cebuurbo
+בארדא	Bordeaux
+קארי אקינא	Corazón Aquino
+בוענאס איירעס	Bonaero
+העקער	Kodumulo
+מעקסיקא שטאט	Meksik-urbo
+טאקיא	Tokio
+לא פאז	La-Pazo
+בארצעלאנע	Barcelono
+אנאנאס	Ananaso
+מיסיסיפי	Misisipio
+פערדינאנד מאגעלאן	Fernão de Magalhães
+מיסיסיפי טייך	Misisipo (rivero)
+אוטאר פראדעש	Utar-Pradeŝo
+אוטאראקהאנד	Utarakando
+שווים באסיין	Banejo
+טענעסי	Tenesio
+ריכארד וואגנער	Richard Wagner
+אבידזשאן	Abiĝano
+אסטאנא	Astano
+ניו מעקסיקא	Nov-Meksiko
+אטען	Ateno
+מינעסאטע	Minesoto
+באגדאד	Bagdado
+קאראקאס	Karakaso
+וויסקאנסין	Viskonsino
+אייאווע	Iovao
+נעבראסקא	Nebrasko
+גוואטעמאלע שטאט	Gvatemalurbo
+קענזעס	Kansaso
+האוואנע	Havano
+טאבאק	Tabako
+אינטערנעט עקספלארער	Internet Explorer
+ציגאר	Cigaro
+פאפיראס	Cigaredo
+מיזורי	Misurio
+לואיזיאנא	Luiziano
+קענטאקי	Kentukio
+ארקענסא	Arkansaso
+ניל ארמסטראנג	Neil Armstrong
+אורדו	Urduo
+עדיט פיאף	Édith Piaf
+אקלעהאמע	Oklahomo
+דוניי	Danubo
+צפון ים	Norda Maro
+האנאווער	Hanovro
+מיינץ	Majenco
+וויסבאדן	Wiesbaden
+ראגוזא	Dubrovnik
+זארבריקן	Saarbrücken
+מינכן	Munkeno
+ערפורט	Erfurto
+דרעזדן	Dresdeno
+וויען	Vieno
+מאדאנא	Madonna
+קאפנהאגן	Kopenhago
+קאלינינגראד אבלאסט	Kaliningrada provinco
+שטאקהאלם	Stokholmo
+העלסינקי	Helsinko
+דובלין	Dublino
+רעקיאוויק	Rejkjaviko
+טאלין	Talino
+ריגע	Rigo
+לואי ארמסטראנג	Louis Armstrong
+בראטיסלאווא	Bratislavo
+בודאפעשט	Budapeŝto
+דאנציג	Gdańsk
+פראנקפורט	Frankfurto ĉe Majno
+ברעסלוי	Vroclavo
+קאטאליציזם	Katolikismo
+ביבל	Biblio
+הא טשי מין שטאט	Ho-Ĉi-Min-urbo
+האנוי	Hanojo
+ישוס ריכטיגע קירכע	Vera Eklezio de Jesuo
+ענגליש	Angla lingvo
+באנגקאק	Bankoko
+אדעס	Odesa
+קאנסעפסיאן	Koncepciono
+דיפלאמאטיע	Diplomatio
+קיעוו	Kievo
+אנטעריא	Ontario
+אטאווא	Otavo
+דזשובא	Ĵubo
+מאניטאבא	Manitobo
+אלבערטא	Alberto
+נאווע סקאשע	Nov-Skotio
+יערעוואן	Erevano
+קאנסקאוואלע	Końskowola
+דאר עס סאלאאם	Daresalamo
+ניו בראנזוויק	Nov-Brunsviko
+בריטישע קאלומביע	Brita Kolumbio
+2000	2000
+2003	2003
+2002	2002
+2001	2001
+סאסקאטשעווען	Saskaĉevano
+2012	2012
+2011	2011
+2010	2010
+2009	2009
+קוילן זייערס	Karbona dioksido
+2013	2013
+2014	2014
+2015	2015
+נייפונדלאנד און לאבראדאר	Novlando kaj Labradoro
+2008	2008
+נארדוועסט טעריטאריעס	Nordokcidentaj Teritorioj
+יוקאן	Jukonio
+2004	2004
+וויקיטרעוול	Wikitravel
+2005	2005
+2006	2006
+2007	2007
+1900	1900
+1901	1901
+שארל דע גאל	Charles de Gaulle
+1902	1902
+פירענצע	Florenco
+1903	1903
+1904	1904
+1905	1905
+1907	1907
+1906	1906
+1908	1908
+1909	1909
+1992	1992
+1991	1991
+1990	1990
+1993	1993
+1994	1994
+1995	1995
+1996	1996
+1910	1910
+1911	1911
+1912	1912
+1913	1913
+1914	1914
+1915	1915
+1916	1916
+1997	1997
+1998	1998
+נירנבערג	Nurenbergo
+1999	1999
+1917	1917
+1918	1918
+עסנווארג	Manĝaĵo
+דיסבורג	Duisburg
+שלאנג	Serpento
+זשאק שיראק	Jacques Chirac
+גיך פון ליכט	Lumrapido
+ארעל סעקס	Buŝa seksumado
+1טן יאנואר	1-a de januaro
+2טן יאנואר	2-a de januaro
+1920	1920
+3טן יאנואר	3-a de januaro
+1919	1919
+1921	1921
+1922	1922
+4טן יאנואר	4-a de januaro
+1923	1923
+ביאביא ראיאן	Biobío
+1924	1924
+קארליק פלאנעט	Nanoplanedo
+5טן יאנואר	5-a de januaro
+אריקא	Arica (Ĉilia urbo)
+מאלמע	Malmö
+6טן יאנואר	6-a de januaro
+עלעקטראן	Elektrono
+7טן יאנואר	7-a de januaro
+8טן יאנואר	8-a de januaro
+9טן יאנואר	9-a de januaro
+10טן יאנואר	10-a de januaro
+11טן יאנואר	11-a de januaro
+12טן יאנואר	12-a de januaro
+13טן יאנואר	13-a de januaro
+בירמינגהאם	Birmingham
+14טן יאנואר	14-a de januaro
+15טן יאנואר	15-a de januaro
+16טן יאנואר	16-a de januaro
+17טן יאנואר	17-a de januaro
+18טן יאנואר	18-a de januaro
+19טן יאנואר	19-a de januaro
+20סטן יאנואר	20-a de januaro
+אינדוסטריעלע רעוואלוציע	Industria revolucio
+21סטן יאנואר	21-a de januaro
+22סטן יאנואר	22-a de januaro
+23סטן יאנואר	23-a de januaro
+רוימישע אימפעריע	Romia Imperio
+24סטן יאנואר	24-a de januaro
+25סטן יאנואר	25-a de januaro
+מינסק	Minsko
+26סטן יאנואר	26-a de januaro
+מייקראסאפט	Microsoft
+27סטן יאנואר	27-a de januaro
+28סטן יאנואר	28-a de januaro
+29סטן יאנואר	29-a de januaro
+30סטן יאנואר	30-a de januaro
+31סטן יאנואר	31-a de januaro
+פראטאן	Protono
+2טן דעצעמבער	2-a de decembro
+1טן דעצעמבער	1-a de decembro
+3טן דעצעמבער	3-a de decembro
+7טן דעצעמבער	7-a de decembro
+5טן דעצעמבער	5-a de decembro
+8טן דעצעמבער	8-a de decembro
+10טן דעצעמבער	10-a de decembro
+6טן דעצעמבער	6-a de decembro
+9טן דעצעמבער	9-a de decembro
+פינק פלויד	Pink Floyd
+4טן דעצעמבער	4-a de decembro
+1טן פעברואר	1-a de februaro
+2טן פעברואר	2-a de februaro
+3טן פעברואר	3-a de februaro
+קאריוו	Kurów
+4טן פעברואר	4-a de februaro
+5טן פעברואר	5-a de februaro
+6טן פעברואר	6-a de februaro
+7טן פעברואר	7-a de februaro
+8טן פעברואר	8-a de februaro
+9טן פעברואר	9-a de februaro
+10טן פעברואר	10-a de februaro
+כעמיע	Kemio
+14טן פעברואר	14-a de februaro
+13טן פעברואר	13-a de februaro
+15טן פעברואר	15-a de februaro
+11טן פעברואר	11-a de februaro
+12טן פעברואר	12-a de februaro
+סמאלענסק	Smolensk
+19טן פעברואר	19-a de februaro
+17טן פעברואר	17-a de februaro
+16טן פעברואר	16-a de februaro
+18טן פעברואר	18-a de februaro
+20סטן פעברואר	20-a de februaro
+אנאליטישע כעמיע	Analiza kemio
+נייטראן	Neŭtrono
+21סטן פעברואר	21-a de februaro
+22סטן פעברואר	22-a de februaro
+23סטן פעברואר	23-a de februaro
+24סטן פעברואר	24-a de februaro
+25סטן פעברואר	25-a de februaro
+26סטן פעברואר	26-a de februaro
+27	27
+27סטן פעברואר	27-a de februaro
+28סטן פעברואר	28-a de februaro
+11טן דעצעמבער	11-a de decembro
+29סטן פעברואר	29-a de februaro
+12טן דעצעמבער	12-a de decembro
+וויזועל בייסיק	Visual Basic
+13טן דעצעמבער	13-a de decembro
+14טן דעצעמבער	14-a de decembro
+15טן דעצעמבער	15-a de decembro
+2טן מערץ	2-a de marto
+3טן מערץ	3-a de marto
+5טן מערץ	5-a de marto
+1טן מערץ	1-a de marto
+7טן מערץ	7-a de marto
+8טן מערץ	8-a de marto
+4טן מערץ	4-a de marto
+10טן מערץ	10-a de marto
+11טן מערץ	11-a de marto
+6טן מערץ	6-a de marto
+13טן מערץ	13-a de marto
+9טן מערץ	9-a de marto
+12טן מערץ	12-a de marto
+15טן מערץ	15-a de marto
+14טן מערץ	14-a de marto
+++C	C++
+16טן דעצעמבער	16-a de decembro
+17טן דעצעמבער	17-a de decembro
+16טן מערץ	16-a de marto
+17טן מערץ	17-a de marto
+18טן מערץ	18-a de marto
+19טן מערץ	19-a de marto
+1989	1989
+1988	1988
+20סטן מערץ	20-a de marto
+1987	1987
+1986	1986
+1985	1985
+1984	1984
+21סטן מערץ	21-a de marto
+1983	1983
+22סטן מערץ	22-a de marto
+1982	1982
+1981	1981
+18טן דעצעמבער	18-a de decembro
+1980	1980
+23סטן מערץ	23-a de marto
+מאגאדישו	Mogadiŝo
+19טן דעצעמבער	19-a de decembro
+24סטן מערץ	24-a de marto
+25סטן מערץ	25-a de marto
+20סטן דעצעמבער	20-a de decembro
+26סטן מערץ	26-a de marto
+27סטן מערץ	27-a de marto
+28סטן מערץ	28-a de marto
+29סטן מערץ	29-a de marto
+30סטן מערץ	30-a de marto
+31סטן מערץ	31-a de marto
+סאנא	Sanao
+1970	1970
+1971	1971
+1972	1972
+1973	1973
+1974	1974
+1975	1975
+1976	1976
+1977	1977
+1978	1978
+1979	1979
+1969	1969
+דרייסיג יעריגער קריג	Tridekjara milito
+קאנראד אדענאער	Konrad Adenauer
+15טן אפריל	15-a de aprilo
+13טן אפריל	13-a de aprilo
+12טן אפריל	12-a de aprilo
+14טן אפריל	14-a de aprilo
+11טן אפריל	11-a de aprilo
+10טן אפריל	10-a de aprilo
+8טן אפריל	8-a de aprilo
+9טן אפריל	9-a de aprilo
+7טן אפריל	7-a de aprilo
+6טן אפריל	6-a de aprilo
+5טן אפריל	5-a de aprilo
+4טן אפריל	4-a de aprilo
+3טן אפריל	3-a de aprilo
+1טן אפריל	1-a de aprilo
+2טן אפריל	2-a de aprilo
+16טן אפריל	16-a de aprilo
+17טן אפריל	17-a de aprilo
+18טן אפריל	18-a de aprilo
+19טן אפריל	19-a de aprilo
+20סטן אפריל	20-a de aprilo
+21סטן אפריל	21-a de aprilo
+22סטן אפריל	22-a de aprilo
+23סטן אפריל	23-a de aprilo
+24סטן אפריל	24-a de aprilo
+25סטן אפריל	25-a de aprilo
+26סטן אפריל	26-a de aprilo
+27סטן אפריל	27-a de aprilo
+28סטן אפריל	28-a de aprilo
+29סטן אפריל	29-a de aprilo
+30סטן אפריל	30-a de aprilo
+1טן מיי	1-a de majo
+2טן מיי	2-a de majo
+3טן מיי	3-a de majo
+4טן מיי	4-a de majo
+5טן מיי	5-a de majo
+6טן מיי	6-a de majo
+7טן מיי	7-a de majo
+8טן מיי	8-a de majo
+9טן מיי	9-a de majo
+10טן מיי	10-a de majo
+11טן מיי	11-a de majo
+12טן מיי	12-a de majo
+13טן מיי	13-a de majo
+14טן מיי	14-a de majo
+15טן מיי	15-a de majo
+16טן מיי	16-a de majo
+17טן מיי	17-a de majo
+18טן מיי	18-a de majo
+19טן מיי	19-a de majo
+20סטן מיי	20-a de majo
+21סטן מיי	21-a de majo
+22סטן מיי	22-a de majo
+23סטן מיי	23-a de majo
+24סטן מיי	24-a de majo
+25סטן מיי	25-a de majo
+26סטן מיי	26-a de majo
+27סטן מיי	27-a de majo
+28סטן מיי	28-a de majo
+29סטן מיי	29-a de majo
+30סטן מיי	30-a de majo
+31סטן מיי	31-a de majo
+21סטן דעצעמבער	21-a de decembro
+14טן יוני	14-a de junio
+15טן יוני	15-a de junio
+13טן יוני	13-a de junio
+10טן יוני	10-a de junio
+7טן יוני	7-a de junio
+11טן יוני	11-a de junio
+9טן יוני	9-a de junio
+12טן יוני	12-a de junio
+6טן יוני	6-a de junio
+8טן יוני	8-a de junio
+5טן יוני	5-a de junio
+3טן יוני	3-a de junio
+2טן יוני	2-a de junio
+1טן יוני	1-a de junio
+4טן יוני	4-a de junio
+נאפאלי	Napolo
+22סטן דעצעמבער	22-a de decembro
+1968	1968
+1967	1967
+1966	1966
+1965	1965
+1964	1964
+16טן יוני	16-a de junio
+פאלערמא	Palermo
+30סטן יוני	30-a de junio
+29סטן יוני	29-a de junio
+28סטן יוני	28-a de junio
+26סטן יוני	26-a de junio
+25סטן יוני	25-a de junio
+22סטן יוני	22-a de junio
+27סטן יוני	27-a de junio
+24סטן יוני	24-a de junio
+20סטן יוני	20-a de junio
+23סטן יוני	23-a de junio
+19טן יוני	19-a de junio
+18טן יוני	18-a de junio
+21סטן יוני	21-a de junio
+17טן יוני	17-a de junio
+23סטן דעצעמבער	23-a de decembro
+ברוס וויליס	Bruce Willis
+ארנאלד שווארצענעגער	Arnold Schwarzenegger
+15טן יולי	15-a de julio
+13טן יולי	13-a de julio
+12טן יולי	12-a de julio
+10טן יולי	10-a de julio
+9טן יולי	9-a de julio
+14טן יולי	14-a de julio
+8טן יולי	8-a de julio
+7טן יולי	7-a de julio
+6טן יולי	6-a de julio
+5טן יולי	5-a de julio
+2טן יולי	2-a de julio
+4טן יולי	4-a de julio
+3טן יולי	3-a de julio
+1טן יולי	1-a de julio
+11טן יולי	11-a de julio
+24סטן דעצעמבער	24-a de decembro
+31סטן יולי	31-a de julio
+30סטן יולי	30-a de julio
+29סטן יולי	29-a de julio
+28סטן יולי	28-a de julio
+27סטן יולי	27-a de julio
+25סטן יולי	25-a de julio
+24סטן יולי	24-a de julio
+23סטן יולי	23-a de julio
+26סטן יולי	26-a de julio
+22סטן יולי	22-a de julio
+19טן יולי	19-a de julio
+21סטן יולי	21-a de julio
+20סטן יולי	20-a de julio
+17טן יולי	17-a de julio
+18טן יולי	18-a de julio
+16טן יולי	16-a de julio
+פוטבאל	Futbalo
+25סטן דעצעמבער	25-a de decembro
+1963	1963
+26סטן דעצעמבער	26-a de decembro
+חורבן אייראפע	Holokaŭsto
+1962	1962
+IPhone	IPhone
+14טן אויגוסט	14-a de aŭgusto
+15טן אויגוסט	15-a de aŭgusto
+13טן אויגוסט	13-a de aŭgusto
+12טן אויגוסט	12-a de aŭgusto
+11טן אויגוסט	11-a de aŭgusto
+10טן אויגוסט	10-a de aŭgusto
+8טן אויגוסט	8-a de aŭgusto
+7טן אויגוסט	7-a de aŭgusto
+9טן אויגוסט	9-a de aŭgusto
+5טן אויגוסט	5-a de aŭgusto
+4טן אויגוסט	4-a de aŭgusto
+2טן אויגוסט	2-a de aŭgusto
+3טן אויגוסט	3-a de aŭgusto
+6טן אויגוסט	6-a de aŭgusto
+1טן אויגוסט	1-a de aŭgusto
+קעמניץ	Chemnitz
+27סטן דעצעמבער	27-a de decembro
+מאדריד	Madrido
+סובמארין	Submarŝipo
+16טן אויגוסט	16-a de aŭgusto
+קאקא קאלע	Koka-kolao
+29סטן אויגוסט	29-a de aŭgusto
+28סטן אויגוסט	28-a de aŭgusto
+30סטן אויגוסט	30-a de aŭgusto
+25סטן אויגוסט	25-a de aŭgusto
+26סטן אויגוסט	26-a de aŭgusto
+23סטן אויגוסט	23-a de aŭgusto
+27סטן אויגוסט	27-a de aŭgusto
+21סטן אויגוסט	21-a de aŭgusto
+20סטן אויגוסט	20-a de aŭgusto
+24סטן אויגוסט	24-a de aŭgusto
+18טן אויגוסט	18-a de aŭgusto
+17טן אויגוסט	17-a de aŭgusto
+22סטן אויגוסט	22-a de aŭgusto
+19טן אויגוסט	19-a de aŭgusto
+31סטן אויגוסט	31-a de aŭgusto
+מייקל זשעקסאן	Michael Jackson
+28סטן דעצעמבער	28-a de decembro
+גריפע	Gripo
+באגאטא	Bogoto
+בראזיליא	Braziljo
+15טן סעפטעמבער	15-a de septembro
+14טן סעפטעמבער	14-a de septembro
+13טן סעפטעמבער	13-a de septembro
+12טן סעפטעמבער	12-a de septembro
+8טן סעפטעמבער	8-a de septembro
+11טן סעפטעמבער	11-a de septembro
+7טן סעפטעמבער	7-a de septembro
+10טן סעפטעמבער	10-a de septembro
+5טן סעפטעמבער	5-a de septembro
+4טן סעפטעמבער	4-a de septembro
+9טן סעפטעמבער	9-a de septembro
+2טן סעפטעמבער	2-a de septembro
+6טן סעפטעמבער	6-a de septembro
+1טן סעפטעמבער	1-a de septembro
+3טן סעפטעמבער	3-a de septembro
+29סטן דעצעמבער	29-a de decembro
+לימא	Limo
+קאנאדישע פראווינצן	Provincoj kaj teritorioj de Kanado
+30סטן סעפטעמבער	30-a de septembro
+29סטן סעפטעמבער	29-a de septembro
+28סטן סעפטעמבער	28-a de septembro
+27סטן סעפטעמבער	27-a de septembro
+26סטן סעפטעמבער	26-a de septembro
+25סטן סעפטעמבער	25-a de septembro
+סאנטיאגא	Santiago de Ĉilio
+23סטן סעפטעמבער	23-a de septembro
+22סטן סעפטעמבער	22-a de septembro
+24סטן סעפטעמבער	24-a de septembro
+21סטן סעפטעמבער	21-a de septembro
+20סטן סעפטעמבער	20-a de septembro
+18טן סעפטעמבער	18-a de septembro
+17טן סעפטעמבער	17-a de septembro
+19טן סעפטעמבער	19-a de septembro
+16טן סעפטעמבער	16-a de septembro
+קיטא	Kito
+30סטן דעצעמבער	30-a de decembro
+31סטן דעצעמבער	31-a de decembro
+1טן אקטאבער	1-a de oktobro
+15טן אקטאבער	15-a de oktobro
+12טן אקטאבער	12-a de oktobro
+10טן אקטאבער	10-a de oktobro
+14טן אקטאבער	14-a de oktobro
+9טן אקטאבער	9-a de oktobro
+8טן אקטאבער	8-a de oktobro
+13טן אקטאבער	13-a de oktobro
+7טן אקטאבער	7-a de oktobro
+11טן אקטאבער	11-a de oktobro
+6טן אקטאבער	6-a de oktobro
+4טן אקטאבער	4-a de oktobro
+5טן אקטאבער	5-a de oktobro
+3טן אקטאבער	3-a de oktobro
+2טן אקטאבער	2-a de oktobro
+אסונסיאן	Asunciono
+ציג	Hejma kapro
+היסטאריע פון קאנאדע	Historio de Kanado
+31סטן אקטאבער	31-a de oktobro
+30סטן אקטאבער	30-a de oktobro
+29סטן אקטאבער	29-a de oktobro
+28סטן אקטאבער	28-a de oktobro
+26סטן אקטאבער	26-a de oktobro
+25סטן אקטאבער	25-a de oktobro
+24סטן אקטאבער	24-a de oktobro
+27סטן אקטאבער	27-a de oktobro
+22סטן אקטאבער	22-a de oktobro
+23סטן אקטאבער	23-a de oktobro
+20סטן אקטאבער	20-a de oktobro
+21סטן אקטאבער	21-a de oktobro
+19טן אקטאבער	19-a de oktobro
+17טן אקטאבער	17-a de oktobro
+16טן אקטאבער	16-a de oktobro
+18טן אקטאבער	18-a de oktobro
+היידלבערג	Heidelberg
+פריי	Libereco
+15טן נאוועמבער	15-a de novembro
+14טן נאוועמבער	14-a de novembro
+13טן נאוועמבער	13-a de novembro
+12טן נאוועמבער	12-a de novembro
+11טן נאוועמבער	11-a de novembro
+10טן נאוועמבער	10-a de novembro
+7טן נאוועמבער	7-a de novembro
+8טן נאוועמבער	8-a de novembro
+9טן נאוועמבער	9-a de novembro
+6טן נאוועמבער	6-a de novembro
+5טן נאוועמבער	5-a de novembro
+4טן נאוועמבער	4-a de novembro
+3טן נאוועמבער	3-a de novembro
+2טן נאוועמבער	2-a de novembro
+1טן נאוועמבער	1-a de novembro
+פאראמאריבא	Paramaribo
+30סטן נאוועמבער	30-a de novembro
+29סטן נאוועמבער	29-a de novembro
+28סטן נאוועמבער	28-a de novembro
+27סטן נאוועמבער	27-a de novembro
+26סטן נאוועמבער	26-a de novembro
+25סטן נאוועמבער	25-a de novembro
+23סטן נאוועמבער	23-a de novembro
+24סטן נאוועמבער	24-a de novembro
+21סטן נאוועמבער	21-a de novembro
+20סטן נאוועמבער	20-a de novembro
+22סטן נאוועמבער	22-a de novembro
+19טן נאוועמבער	19-a de novembro
+18טן נאוועמבער	18-a de novembro
+17טן נאוועמבער	17-a de novembro
+16טן נאוועמבער	16-a de novembro
+מיידל	Knabino
+קאטמאנדו	Katmanduo
+העלגאלאנד	Helgoland
+בעלמאפאן	Belmopano
+קארל דער גרויסער	Karolo la Granda
+פיורדא	Fürth
+סאן סאלוואדאר	San-Salvadoro
+קאנבערא	Kanbero
+סידני	Sidnejo
+גרין	Verdo
+האדסאן טייך	Hudsono (rivero)
+מעלבארן	Melburno
+רויט	Ruĝa
+פייער	Fajro
+ערד'ס אטמאספער	Atmosfero (tero)
+טעגוסיגאלפע	Tegucigalpo
+מאנאגוע	Managvo
+פאנאמא-שטאט	Panamurbo
+נילוס	Nilo
+הארטפארדשיר	Hertfordshire
+אסקאר (פיש)	Oskaro (fiŝo)
+קאנגא טייך	Kongo (rivero)
+בארי	Bari
+ניזשער טייך	Niĝero (rivero)
+ראבאט, מאראקא	Rabato
+קאמעט	Kometo
+אלזשירס	Alĝero
+טריפאלי	Tripolo
+דזשיבוטי (שטאט)	Ĝibuto
+אנטאפאגאסטא	Antofagasta (urbo)
+טעהראן	Teherano
+אדיס אבאבא	Adis-Abebo
+דזשאקארטא	Ĝakarto
+אנקארא	Ankaro
+נ'דזשאמענא	Nĵameno
+ניאמיי	Niameo
+נואקשוט	Nuakŝoto
+ריאד	Riado
+1961	1961
+באמאקא	Bamako
+בעלגראד	Beogrado
+דאקאר	Dakaro
+באנזשול	Banĵulo
+קאנאקרי	Konakrio
+ביסאו	Bisaŭo
+קאַטעגאָריע:וויקיפעדיע מוסטערן	Kategorio:Vikipedio:Ŝablonoj
+מאנראוויע	Monrovio
+1960	1960
+קאַטעגאָריע:מוסטערן קאטעגאריעס	Kategorio:Ŝablono:laŭ temo
+אקרא	Akrao
+דמשק	Damasko
+יאמוסאקרא	Jamusukro
+פראנצויזישע גויאנע	Franca Gviano
+וואגאדוגו	Uagaduguo
+פריטאון	Fritaŭno
+אמאזאנאס (טייך)	Amazono (rivero)
+אבודזשא	Abuĝo
+לאמע	Lomeo
+פארטא-נאווא	Porto-Novo
+אמאן (יארדן)	Amano
+יאונדע	Jaundeo
+ביירוט	Bejruto
+ליברעוויל	Librevilo
+קאַטעגאָריע:היסטאריע מוסטערן	Kategorio:Ŝablono:Historio
+קינשאזע	Kinŝaso
+בראזאוויל	Brazavilo
+ווארמז	Worms
+בוזשומבורע	Buĵumburo
+קאַטעגאָריע:צייט מוסטערן	Kategorio:Ŝablono:laŭ tempo
+ניקאסיע	Nikozio
+קיגאלי	Kigalo
+דאכא	Doho
+אסטערויד	Asteroido
+דאדאמא	Dodomao
+נייראבי	Najrobo
+לילאנגווע	Lilongvo
+קאַטעגאָריע:געאגראפישע מוסטערן	Kategorio:Ŝablono:Geografio
+לוסאקא	Lusako
+ליקוי חמה	Suna eklipso
+מאפוטא	Maputo
+קאמפאלא	Kampalo
+לואנדע	Luando
+מבאבאנע	Mbabano
+מאסערו	Maseruo
+אלבערט דער צווייטער פון בעלגיע	Alberto la 2-a (Belgio)
+בינארישע סיסטעם	Duuma sistemo
+שולע	Lernejo
+אנטאנאנאריווא	Antananarivo
+אוניווערסיטעט	Universitato
+גאבאראנע	Gaberono
+הארארע	Harareo
+ווינטהוק	Vindhuko
+װיקיפּעדיע:זאמדקאסטן	Vikipedio:Provejo
+װיקיפּעדיע:ברוכים הבאים	Vikipedio:Bonvenon al Vikipedio
+הויז	Domo
+שויס קאמפיוטער	Tekokomputilo
+הארטווארג	Aparataro
+אלגעברע	Algebro
+ליעזש	Lieĝo (urbo)
+מענטשלעכע אנאטאמיע	Homa anatomio
+מאפע	Mapo
+פלאנצן אנאטאמיע	Plantanatomio
+טייך	Rivero
+פראנקפורט אן דער אדער	Frankfurto ĉe Odro
+אזאסקו	Osasco (San-Paŭlo)
+גלאזגא	Glasgovo
+באדען-באדען	Baden-Baden
+דאנג הוי לופטפעלד	Flughaveno Dong Hoi
+קאסמאס	Ekstertero
+אויטאביאגראפיע	Aŭtobiografio
+לוצערן	Lucerno
+טעלעסקאפ	Teleskopo
+מיילי סיירוס	Miley Cyrus
+הויפט טאוול	Ĉeftabulo
+קוריטיבא	Kuritibo
+מערב אפריקע	Okcidentafriko
+וואלד	Arbaro
+הארטער דיסק	Diskaparato
+מיט ראמני	Mitt Romney
+פלאט	Mararmeo
+בארשט	Barĉo
+ספר איוב	Libro de Ijob
+ראנקאגווע	Rancagua (Ĉilio)
+אנע פראנק	Anne Frank
+קאנפוציוס	Konfuceo
+שרה בערנאר	Sarah Bernhardt
+מארלין דיטריך	Marlene Dietrich
+מארלין מאנרא	Marilyn Monroe
+קארבין בלו	Corbin Bleu
+קאַטעגאָריע:מאטעמאטיק	Kategorio:Matematiko
+בארברא סטרייסאנד	Barbra Streisand
+פולא	Pula (Kroatio)
+רענעסאנס	Renesanco
+לע קארבוזיע	Le Corbusier
+איירא	Eŭro
+אמעריקאנער דאלאר	Usona dolaro
+מיטלענדישער ים	Mediteraneo
+קריסטנטום	Kristanismo
+סיאטל	Seattle
+בערלינער וואנט	Berlina muro
+גאנגעס	Gango
+רייז	Rizo
+באלטימאר, מערילענד	Baltimore (Marilando)
+קאנטינענט	Kontinento
+פויגל	Birdoj
+הויפטשטאט	Ĉefurbo
+פארטוגעזיש	Portugala lingvo
+מאנאט	Monato
+מוסטאפא קעמאל אטאטורק	Mustafa Kemal Atatürk
+1948	1948
+רונדווערעם	Nematodoj
+1949	1949
+הואנג קסיאנפאן	Huang Senfan
+פעברואר 2009	Februaro de 2009
+1956	1956
+1202	1202
+1204	1204
+1941	1941
+1945	1945
+1958	1958
+1926	1926
+1947	1947
+1944	1944
+1952	1952
+בריליאנט	Diamanto
+ביל גייטס	Bill Gates
+יאפאניש	Japana lingvo
+עקראן	Komputila ekrano
+ענציקלאפעדיע	Enciklopedio
+דיסקעט	Disketo
+RAM זיכרון	Ĉefmemoro
+הויפט זייט	Vikipedio:Ĉefpaĝo
+פראצעסאר	Procesoro
+1959	1959
+מוסטער:גוטער ארטיקל	Ŝablono:Leginda
+1957	1957
+רוטירער	Enkursigilo
+רעזיסטאר	Rezistilo
+קאנדענסאטאר	Kondensilo
+אינדוקטאר	Induktilo
+טראנזיסטאר	Transistoro
+בעיסבאל	Basbalo
+קוישבאל	Korbopilkado
+קריקעט	Kriketo
+גאלף (שפיל)	Golfo (sporto)
+ראגבי פוטבאל	Rugbeo
+אויטאספארט	Aŭtosporto
+אלימפיאדע	Olimpiaj ludoj
+יאנגצע	Jangzio
+מיזורי טייך	Misuro (rivero)
+סיביר	Siberio
+פראנסיסקא גאיא	Francisco de Goya
+הימאלייע	Himalajo
+אנדן	Andoj
+ראקי בערג	Roka Montaro
+קאפשטאט	Kaburbo
+טראוויזיע	Trevizo
+קאווקאז בערג	Kaŭkazo
+קאספישער ים	Kaspio
+אונטערגרונט באן	Metroo
+וויקטאריע אזערע	Viktoria lago
+טאנגאניקע אזערע	Tanganjiko
+בייקאל אזערע	Bajkalo
+סאלוואדאר דאלי	Salvador Dalí
+אלברעכט דירער	Albrecht Dürer
+ווינצענט וואן גאך	Vincent van Gogh
+קאצושיקא האקוסיי	Katsushika Hokusai
+פרידא קאהלא	Frida Kahlo
+אנרי מאטיס	Henri Matisse
+מיקעלאנדזשעלא	Mikelanĝelo
+פאבלא פיקאסא	Pablo Picasso
+ראפאעל	Rafaelo
+רעמבראנדט	Rembrandt Harmenszoon van Rijn
+פעטער פאל רובענס	Petro Paŭlo Rubens
+סינאן	Sinan
+ענדי ווארהאל	Andy Warhol
+פרענק לויד רייט	Frank Lloyd Wright
+מאדעם	Modemo
+עמינעם	Eminem
+בוס	Aŭtobuso
+טראמוויי	Tramo
+אבו נואס	Abu Nuŭas
+האנס קריסטיאן אנדערסען	Hans Christian Andersen
+מאצוא באשא	Matsuo Basho
+לארד בייראן	George Byron
+מיגעל דע סערוואנטעס	Miguel de Cervantes
+דזשעפרי טשאסער	Geoffrey Chaucer
+בבל	Babilono
+אנטאן פאוולאוויטש טשעכאוו	Anton Ĉeĥov
+טשארלס דיקנס	Charles Dickens
+יריחו	Jeriĥo
+סאמארקאנד	Samarkando
+באלעארישע אינזלען	Balearoj
+בית לחם	Bet-Leĥem
+מעקא	Mekko
+טשע געווארא	Che Guevara
+קאנארישע אינזלען	Kanarioj
+מאא צעטאנג	Mao Zedong
+קארדאבע	Kordovo (Hispanio)
+טאלעדא	Toledo
+קאבול	Kabulo
+בית הכסא פאפיר	Neceseja papero
+גבריאל גארסיא מארקעס	Gabriel García Márquez
+יאהאן וואלפגאנג פאן געטע	Johann Wolfgang von Goethe
+וואגינע	Vagino
+טאמיל	Tamila lingvo
+ארגאזם	Orgasmo
+פילאסאפיע	Filozofio
+קאסמאס-פארן	Kosmoflugo
+משפחה מענטש	Family Guy
+קאַטעגאָריע:געשטעלטע צו שנעל מעקן	Kategorio:Tujforigendaj artikoloj
+פיאנע	Piano
+ראפ מוזיק	Repo
+פופציק צענט	50 Cent
+טיי	Teo
+מארקא פאלא	Marko Polo
+קאמוניזם	Komunismo
+אנארכיזם	Anarkiismo
+קאפיטאליזם	Kapitalismo
+ליבעראליזם	Liberalismo
+פאשיזם	Faŝismo
+נאציאנאליזם	Naciismo
+כאפעז	Hafizo
+לאנד	Lando
+פאלק (נאציאן)	Nacio
+צווייטע פונישע מלחמה	Dua Punika milito
+דזשאו ביידען	Joe Biden
+הילערי ראדהעם קלינטאן	Hillary Rodham Clinton
+אינדיאנאפאליס	Indianapolis
+בלעטערער	TTT-legilo
+בריטישער מוזיי	Brita Muzeo
+שווימען	Naĝado
+קאַטעגאָריע:אסטראנאמיע	Kategorio:Astronomio
+דארדאנעלן	Dardaneloj
+זשאן-זשאק רוסא	Jean-Jacques Rousseau
+סטאניסלאוו לעם	Stanisław Lem
+פראנצויזישע רעוואלוציע	Franca revolucio de 1789
+1550	1550
+1551	1551
+קאַטעגאָריע:אסטראנאמען	Kategorio:Astronomoj
+1552	1552
+1553	1553
+1554	1554
+האמסטער	Hamstroj
+אירקוצק	Irkutsk
+סאהארא	Saharo
+1556	1556
+1557	1557
+1558	1558
+שטראסבורג	Strasburgo
+גיטאר	Gitaro
+1559	1559
+1560	1560
+1561	1561
+1562	1562
+1563	1563
+1564	1564
+1565	1565
+האמאסעקסואלוטעט	Samseksemo
+1566	1566
+1567	1567
+1568	1568
+לעזביאנקע	Samseksemulino
+1569	1569
+קראאטיש	Kroata lingvo
+1570	1570
+1571	1571
+1572	1572
+1573	1573
+1574	1574
+1575	1575
+האמעראס	Homero
+אלעקסאנדער פאן האמבאלט	Alexander von Humboldt
+1576	1576
+1577	1577
+1578	1578
+1579	1579
+1580	1580
+1581	1581
+1582	1582
+1600	1600
+קארל פרידריך גאוס	Carl Friedrich Gauss
+UTC+2	UTC+02:00
+1601	1601
+1583	1583
+1602	1602
+1584	1584
+פערפיניאן	Perpinjano
+1603	1603
+1585	1585
+1604	1604
+1586	1586
+1605	1605
+1587	1587
+1606	1606
+1607	1607
+1588	1588
+1608	1608
+1589	1589
+1609	1609
+1590	1590
+1610	1610
+1591	1591
+1611	1611
+1592	1592
+1612	1612
+1593	1593
+1613	1613
+1594	1594
+1614	1614
+1595	1595
+1615	1615
+1596	1596
+1616	1616
+1597	1597
+1617	1617
+1598	1598
+1618	1618
+1599	1599
+1619	1619
+1620	1620
+1621	1621
+1700	1700
+1701	1701
+1622	1622
+1623	1623
+1702	1702
+1624	1624
+1703	1703
+1704	1704
+1625	1625
+1705	1705
+1626	1626
+1627	1627
+1706	1706
+1628	1628
+1707	1707
+1708	1708
+1629	1629
+1630	1630
+1709	1709
+1631	1631
+1710	1710
+1632	1632
+1711	1711
+1633	1633
+1712	1712
+1634	1634
+1713	1713
+1800	1800
+1801	1801
+1714	1714
+1635	1635
+דזשיימס דזשויס	James Joyce
+1802	1802
+1715	1715
+1636	1636
+1803	1803
+1637	1637
+1716	1716
+1638	1638
+1804	1804
+1717	1717
+1639	1639
+1805	1805
+1718	1718
+1640	1640
+1719	1719
+1806	1806
+1641	1641
+1720	1720
+1807	1807
+1642	1642
+1721	1721
+1808	1808
+1643	1643
+1722	1722
+1809	1809
+1644	1644
+1723	1723
+1810	1810
+1645	1645
+1724	1724
+20סטער י"ה	20-a jarcento
+1811	1811
+1646	1646
+1725	1725
+1812	1812
+1647	1647
+1726	1726
+1813	1813
+21סטער י"ה	21-a jarcento
+1648	1648
+1727	1727
+1814	1814
+1649	1649
+1728	1728
+1815	1815
+1650	1650
+1729	1729
+1816	1816
+19טער י"ה	19-a jarcento
+1651	1651
+1730	1730
+1817	1817
+1652	1652
+1731	1731
+1818	1818
+1653	1653
+1732	1732
+1819	1819
+1654	1654
+1733	1733
+1820	1820
+1655	1655
+1821	1821
+1734	1734
+1656	1656
+1822	1822
+1735	1735
+1657	1657
+1823	1823
+1736	1736
+1658	1658
+1737	1737
+1824	1824
+1659	1659
+1738	1738
+1825	1825
+1660	1660
+1739	1739
+1826	1826
+1661	1661
+1740	1740
+1827	1827
+קאלידאסא	Kalidaso
+18טער י"ה	18-a jarcento
+17טער י"ה	17-a jarcento
+16טער י"ה	16-a jarcento
+15טער י"ה	15-a jarcento
+לוגאנא	Lugano
+קאטאלאניש	Kataluna lingvo
+14טער י"ה	14-a jarcento
+זשיראנע	Ĝirono
+13טער י"ה	13-a jarcento
+12טער י"ה	12-a jarcento
+11טער י"ה	11-a jarcento
+אטעאיזם	Ateismo
+לי באי	Li Bai
+ביבליאטעק	Librarejo
+דאכוי	Dachau
+מאטעריאליזם	Materialismo
+ניעלס באהר	Niels Bohr
+באוואוסטזיין	Konscio
+ביאכעמיע	Biokemio
+ביאפיזיק	Biofiziko
+ביאטעכנאלאגיע	Biotekniko
+עקאלאגיע	Ekologio
+אפריקאנער פארבאנד	Afrika Unio
+גענעטיק	Genetiko
+פאליטיק	Politiko
+וועלט באנק	Monda Banko
+קאלאניאליזם	Koloniismo
+קאנסערוואטיזם	Konservismo
+אראבישע ליגע	Ligo de Arabaj Ŝtatoj
+דעמאקראטיע	Demokratio
+נאגיב מאכפוז	Naguib Mahfouz
+רויטער קרייץ	Ruĝa Kruco
+גלאבאליזאציע	Tutmondiĝo
+נאט"א	NATO
+מארי קירי	Marie Curie
+גען	Geno
+רעגירונג	Registaro
+נאבעל פריז	Nobel-premio
+קין שי הואנג	Qin Shihuangdi
+מיקראביאלאגיע	Mikrobiologio
+סימאן דע באוואר	Simone de Beauvoir
+אווידיוס	Ovidio
+מארסעל פרוסט	Marcel Proust
+אלעקסאנדער פושקין	Aleksandr Puŝkin
+מיטל מזרח	Mezoriento
+פאלעאנטאלאגיע	Paleontologio
+עליזאבעט די ערשטע	Elizabeto la 1-a (Anglio)
+האן דינאסטיע	Dinastio Han
+וויראלאגיע	Virusscienco
+זשאן ד'ארק	Johana de Arko
+ראזא לוקסעמבורג	Roza Luksemburg
+סאפאקלעס	Sofoklo
+ארגאניזם	Organismo
+ראבינדראנאט טאגאר	Rabindranath Tagore
+שיינקייט	Belo
+לעוו טאלסטוי	Lev Tolstoj
+מארק טוויין	Mark Twain
+עלן טיורינג	Alan Turing
+פעמיניזם	Feminismo
+אידעאלאגיע	Ideologio
+אימפעריאליזם	Imperiismo
+מארקסיזם	Marksismo
+קעניגרייך	Monarkio
+רעפובליק	Respubliko
+סאציאליזם	Socialismo
+מדינה	Ŝtato
+פאליטישע פארטיי	Partio (politiko)
+פראפאגאנדע	Propagando
+טעראריזם	Terorismo
+יאהאנעס בראהמס	Johannes Brahms
+קילימאנדזשארא	Kilimanĝaro
+אנטאנין דווארזשאק	Antonín Dvořák
+געארג פרידריך הענדל	Georg Friedrich Händel
+גוסטאוו מאהלער	Gustav Mahler
+קוש	Kiso
+נאציזם	Naziismo
+דזיאקאמא פוטשיני	Giacomo Puccini
+פראנץ שובערט	Franz Schubert
+איגאר סטראווינסקי	Igor Stravinski
+פעטער איליטש טשייקאווסקי	Pjotr Iljiĉ Ĉajkovskij
+דזשוסעפע ווערדי	Giuseppe Verdi
+נאצי דייטשלאנד	Nazia Germanio
+זשאק קארטיער	Jacques Cartier
+קריסטאפער קאלאמבוס	Kristoforo Kolumbo
+דזשיימס קוק	James Cook
+ייד	Judoj
+הערנאן קארטעס	Hernán Cortés
+יורי גאגארין	Jurij Aleksejeviĉ Gagarin
+וואשקו דא גאמא	Vasco da Gama
+איבן באטוטא	Ibn Batuta
+זשענג הע	Ĉeng He
+אוישוויץ	Aŭŝvico (koncentreja komplekso)
+אשפעצין	Oświęcim
+גרויסער באריער ריף	Granda Barilrifo
+גרויסע אזערעס	Grandaj Lagoj (Nordameriko)
+אינדוס	Induso
+יאזעף היידן	Joseph Haydn
+פאנאמא קאנאל	Panama kanalo
+דרום אקעאן	Suda Oceano
+געלער טייך	Flava Rivero
+אויער	Orelo
+נאז	Nazo (organo)
+אויג	Okulo
+מוסקל	Muskolo
+ליד	Kanto
+קאמאר	Moskito
+שאף	Ŝafo
+פעדעריקא פעליני	Federico Fellini
+הייפיש	Ŝarko
+אלפרעד היטשקאק	Alfred Hitchcock
+קעמל	Kamelo
+זויגער	Mamuloj
+העלפאנד	Elefanto
+פרימאט	Primatoj
+מוראשקע	Formiko
+בין	Abelo
+ווייכווארג	Programaro
+האלענדיש	Nederlanda lingvo
+מארגארעט טאטשער	Margaret Thatcher
+DNA	DNA
+זגאל	Specio
+וואהלין	Volinio
+פאטלעזשאן	Melongeno
+אינגמאר בערזשמאן	Ingmar Bergman
+לוצק	Lucko
+איבערזעצונג	Traduko
+קאטשקע	Anasedoj
+מוטער	Patrino
+שניי	Neĝo
+טאטע	Patro
+קינד	Infano
+1828	1828
+1829	1829
+1741	1741
+1662	1662
+1742	1742
+1830	1830
+1663	1663
+1831	1831
+1743	1743
+1664	1664
+1665	1665
+1744	1744
+1832	1832
+1666	1666
+1745	1745
+1833	1833
+1667	1667
+1746	1746
+טראנספארט	Transporto
+1834	1834
+1668	1668
+1747	1747
+1835	1835
+1748	1748
+1836	1836
+1669	1669
+לעאנהארד אוילער	Leonhard Euler
+1670	1670
+1749	1749
+1837	1837
+1671	1671
+1750	1750
+1838	1838
+1672	1672
+1751	1751
+1839	1839
+1673	1673
+1752	1752
+1840	1840
+1674	1674
+1753	1753
+1841	1841
+1754	1754
+1675	1675
+1842	1842
+1755	1755
+1676	1676
+1843	1843
+1677	1677
+1756	1756
+1844	1844
+1678	1678
+1757	1757
+1845	1845
+1679	1679
+1758	1758
+1846	1846
+1680	1680
+1759	1759
+1847	1847
+1681	1681
+1760	1760
+1848	1848
+1682	1682
+1761	1761
+1849	1849
+1683	1683
+1762	1762
+1850	1850
+1684	1684
+1763	1763
+1851	1851
+1764	1764
+1685	1685
+1852	1852
+1686	1686
+1765	1765
+1853	1853
+1687	1687
+1766	1766
+1854	1854
+1688	1688
+1767	1767
+1855	1855
+1689	1689
+1768	1768
+1856	1856
+1690	1690
+1769	1769
+1857	1857
+1691	1691
+1770	1770
+1858	1858
+1692	1692
+1771	1771
+1859	1859
+1693	1693
+1772	1772
+1860	1860
+1773	1773
+1861	1861
+1694	1694
+1695	1695
+1774	1774
+1862	1862
+1696	1696
+1775	1775
+1863	1863
+1697	1697
+1776	1776
+1864	1864
+1698	1698
+1865	1865
+1777	1777
+1699	1699
+1866	1866
+1778	1778
+1779	1779
+1867	1867
+1780	1780
+1868	1868
+1781	1781
+1869	1869
+אוונט	Vespero
+מינוט	Minuto
+יידישע אויטאנאמע געגנט	Hebrea Aŭtonomio
+רוסיש	Rusa lingvo
+1782	1782
+1870	1870
+לואי דער פערצנטער	Ludoviko la 14-a (Francio)
+1783	1783
+1871	1871
+וולאדימיר פוטין	Vladimir Putin
+געזעץ	Leĝo (jura)
+ראק און ראל	Rokenrolo
+1784	1784
+1872	1872
+מאטעמאטישער אנאליז	Analitiko
+קאנסטיטוציע	Konstitucio
+1785	1785
+1873	1873
+1786	1786
+1874	1874
+1787	1787
+1875	1875
+1788	1788
+1876	1876
+פארבאנד פון דרום-מזרח אזיאטישע פעלקער	ASEAN
+ביראבידזשאן	Birobiĝano
+1789	1789
+1877	1877
+1790	1790
+1878	1878
+קהל פון זעלבשטענדיקע שטאטן	Komunumo de Sendependaj Ŝtatoj
+1879	1879
+1791	1791
+קאמאנוועלט	Komunumo de Nacioj
+היסטאריע פון אייראפע	Historio de Eŭropo
+היסטאריע פון גריכנלאנד	Historio de Grekio
+אפעק	OPEL
+אינטערנאציאנאלע געריכט פון יוסטיץ	Internacia Kortumo
+ברויט	Pano
+אינטערנאציאנאלער געלטפאנד	Internacia Monunua Fonduso
+1792	1792
+1880	1880
+1793	1793
+1881	1881
+אונעסקא	Unesko
+1794	1794
+1882	1882
+אלוועלטלעכע דעקלאראציע פון מענטשרעכט	Universala Deklaracio de Homaj Rajtoj
+1795	1795
+1883	1883
+װעלט געזונט ארגאניזאציע	Monda Organizaĵo pri Sano
+1796	1796
+1884	1884
+1797	1797
+1885	1885
+1886	1886
+1798	1798
+וועלט האנדל ארגאניזאציע	Monda Organizaĵo pri Komerco
+1887	1887
+1799	1799
+1888	1888
+1889	1889
+1890	1890
+קרים	Krimeo
+1891	1891
+סוואהילי	Svahila lingvo
+1892	1892
+1893	1893
+1894	1894
+1895	1895
+1896	1896
+1897	1897
+1898	1898
+כינעזיש	Ĉina lingvaro
+1899	1899
+בית הכסא	Necesejo
+נאטור	Naturo
+טוש	Duŝo
+פסיכיאטריע	Psikiatrio
+צעל	Ĉelo (biologio)
+בלוט	Sango
+טולוז	Tuluzo
+סקעלעט	Skeleto
+לונג	Pulmo
+אטעם-סיסטעם	Spira sistemo
+פארמערן סיסטעם	Reprodukta sistemo
+רומעניש	Rumana lingvo
+בולגאריש	Bulgara lingvo
+רעגן	Pluvo
+לאווינע	Lavango
+קלימאט	Klimato
+על ניניא	El-Ninjo
+גלאבאלע אנווארעמען	Tutmonda varmiĝo
+ערדציטערניש	Tertremo
+מינעראל	Mineralo
+אמת	Vero
+ערד פלאטעס	Platotektoniko
+זען בודהיזם	Zeno
+מויז (קאמפיוטער)	Komputila muso
+נאטור-וויסנשאפטן	Naturscienco
+סערגיי אייזנשטיין	Sergej Miĥajloviĉ Ejzenŝtejn
+אקירא קוראסאווא	Kurosawa Akira
+פרענקלין דעלאנא רוזעוועלט	Franklin D. Roosevelt
+ערד וויסנשאפט	Terscienco
+אוויצענא	Aviceno
+דארבי מוזיי און קונסט גאלעריע	Muzeo kaj artgalerio de Derby
+ווינסטאן טשערטשיל	Winston Churchill
+אויגוסטינוס	Aŭgusteno de Hipono
+נעלסאן מאנדעלע	Nelson Mandela
+מארטין לוטער קינג	Martin Luther King
+ענזים	Enzimo
+10טער י"ה	10-a jarcento
+פראטעין	Proteino
+ציגיינער	Ciganoj
+שטיין	Rokaĵo
+נאטירלעכע קאטאסטראפע	Naturkatastrofo
+פארפלייצונג	Inundo
+צונאמי	Cunamo
+וואולקאן	Vulkano
+וואלקן	Nubo
+לאגיק	Logiko
+טארנאדא	Tornado (ŝtormo)
+9טער י"ה	9-a jarcento
+טריגאנאמעטריע	Trigonometrio
+8טער י"ה	8-a jarcento
+געאמעטריע	Geometrio
+7טער י"ה	7-a jarcento
+6טער י"ה	6-a jarcento
+גראמאטיק	Gramatiko
+שטורעם ווינט	Uragano
+נינטענדא	Nintendo
+ווינט	Vento
+5טער י"ה	5-a jarcento
+4טער י"ה	4-a jarcento
+3טער י"ה	3-a jarcento
+2טער י"ה	2-a jarcento
+אטמאספער	Atmosfero (astro)
+1טער י"ה	1-a jarcento
+גרוזיניש	Kartvela lingvo
+עקאנאמיק	Ekonomiko
+קאפיטאל	Kapitalo
+וואלוטע	Valuto
+יאפאנעזער יען	Japana eno
+אינדוסטריע	Industrio
+שטייער	Imposto
+לינגוויסטיק	Lingvoscienco
+ווארט	Vorto
+פאנעם	Fonemo
+טראף	Silabo
+שריפט	Skribsistemo
+אראבישער אלפאבעט	Araba alfabeto
+כינעזישע שריפט	Ĉina skribo
+קירילישע שריפט	Cirila alfabeto
+גריכישער אלפאבעט	Greka alfabeto
+האנגול	Korea alfabeto
+לאטיינישער אלפאבעט	Latina alfabeto
+ליטעראט	Legoscio
+קאַטעגאָריע:בולגאריע	Kategorio:Bulgario
+ליטעראטור	Literaturo
+קאַטעגאָריע:פראנקרייך	Kategorio:Francio
+די קונסט פון מלחמה	La Militarto
+בעלעטריסטיק	Fikcio
+קאַטעגאָריע:מוזיק	Kategorio:Muziko
+טויזנט און איין נעכט	Mil kaj unu noktoj
+קאַטעגאָריע:ליטעראטור	Kategorio:Literaturo
+ראמאן	Romano
+קאַטעגאָריע:דיכטונג	Kategorio:Poezio
+חלום פונעם רויטן קאמער	Ruĝdoma sonĝo
+קאַטעגאָריע:היסטאריע: פראנקרייך	Kategorio:Historio de Francio
+אייראזאנע	Eŭrozono
+די מעשה פון גענזשי	Genĵi monogatari
+גילגאמעש עפאס	Eposo pri Gilgameŝ
+איליאדע	Iliado
+מאהאבהאראטא	Mahabharato
+שאהנאמע	Ŝahnameo
+FBI	FBI
+הארי פאטער	Harry Potter
+טרומייט	Trumpeto
+דזשעז	Ĵazo
+פידל	Violono
+באראק מוזיק	Baroka muziko
+אלגאריטם	Algoritmo
+טשעלא	Violonĉelo
+פעדעפיליע	Pedofilio
+סעקס פאזיציעס	Listo de seksaj pozicioj
+אנאנירן	Sinmasturbado
+אנאל סעקס	Anusa seksumado
+אלעקסאנדער דער גרויסער	Aleksandro la Granda
+קאנסטאנטין דער גרויסער	Konstantino la 1-a de la Romia Imperio
+כורש	Kiro la 2-a
+געזעלשאפט (סאציאלאגיע)	Socio
+ציוויליזאציע	Civilizo
+חינוך	Eduko
+פאמיליע	Familio
+יוגא טשאוועז	Hugo Chávez
+מאנצביל	Viro
+אטא פאן ביסמארק	Otto von Bismarck
+אישות	Geedzeco
+אבארטאציע	Aborto
+טויטשטראף	Mortpuno
+מענטשן רעכט	Homaj rajtoj
+ראסיזם	Rasismo
+טימור	Timur
+שקלאפעריי	Sklaveco
+בירגער קריג	Interna milito
+אומאר איבן אל-כאטאב	Umar ibn al-Ĥattab
+מיליטער	Militfortoj
+סוליימאן דער ערשטער	Sulejmano la 1-a
+פיטער דער גרויסער	Petro la Granda
+קאווע	Kafo
+זאפט	Suko
+מילך	Lakto
+באַרג	Monto
+מדבר	Dezerto
+זומער אלימפיאדע 2008	Somera Olimpiko 2008
+סון יאט-סען	Sun Jatsen
+זומער אלימפיאדע 2012	Somera Olimpiko 2012
+סאלאדין	Saladino
+אשאקא	Aŝoko
+אקבאר	Jalaluddin Muhammad Akbar
+סימאן באליוואר	Simón Bolívar
+היפנאזיע	Hipnoto
+ענדרו זשאנסאן	Andrew Johnson
+פיער עליאט טרודא	Pierre-Elliott Trudeau
+קוואמע נקרומאה	Kwame Nkrumah
+יידיש	Jida lingvo
+האנג קאנג	Honkongo
+מיאמי	Miamo
+קאראטשי	Karaĉio
+מיטל מזרח קאנפליקט	Araba-israela konflikto
+לאגאס	Lagoso
+אמעריקאנער בירגערקריג	Usona Enlanda Milito
+ריא דע זשאנערא	Rio-de-Ĵanejro
+בריטישע אימפעריע	Brita imperio
+קאלטער קריג	Malvarma milito
+סעאל	Seulo
+שאנכיי	Ŝanhajo
+קולטורעלע רעוואלוציע	Kultura Revolucio
+לאנדאן היטרוי ערפארט	Flughaveno London Heathrow
+וועלט ווירטשאפט קריזיס	Granda depresio
+וואלט דיזני	Walt Disney
+מיידזשי רעסטאראציע	Reformo Mejĝi
+סעווילא	Sevilo
+רוסישע רעוואלוציע	Rusia revolucio de 1917
+לאס אנדזשעלעס אינטערנאציאנאלע פליפעלד	Flughaveno Los-Anĝeleso
+טשינג דינאסטיע	Dinastio Qing
+ווערסיי אפמאך	Traktato de Versajlo
+ארכימעד	Arkimedo
+וויעטנאם קריג	Vjetnama milito
+טאמעס עדיסאן	Thomas Alva Edison
+אוקלידוס	Eŭklido
+מייקל פאראדיי	Michael Faraday
+באסקיש	Eŭska lingvo
+ענריקא פערמי	Enrico Fermi
+בריטיש ערוועיס	British Airways
+DNS	Domajna nomsistemo
+הענרי פארד	Henry Ford
+גאלען	Galeno de Pergamo
+קריפטאגראפיע	Kriptologio
+אינטערנעט פראטאקאל	IP
+אוקראיניש	Ukraina lingvo
+ביט	Bito
+HTML	HTML
+וואלענציע	Valencio
+יוניקאד	Unikodo
+סאטיאדזשיט ריי	Satyajit Ray
+סטיווען ספילבערג	Steven Spielberg
+אייראפעאישע קאמיסיע	Eŭropa Komisiono
+אייראפעישער צענטראלבאנק	Eŭropa Centra Banko
+אייראפעישע אטאמישע ענערגיע געמיינדע	Eŭropa Komunumo pri Atomenergio
+יאהאן גוטנבערג	Johannes Gutenberg
+דזשיימס פרעסקאט דזשול	James Prescott Joule
+יאהאנעס קעפלער	Keplero
+מאקס פלאנק	Max Planck
+שוועדיש	Sveda lingvo
+דעניש	Dana lingvo
+ניקאלא טעסלא	Nikola Tesla
+אל־כוואריזמי	Al-Ĥorazmi
+זשיימס וואט	James Watt
+טשאנאקיע	Ĉanakja
+גאטפריד ווילהעלם לייבניץ	Gottfried Wilhelm Leibniz
+נועם כאמסקי	Noam Chomsky
+לוקסעמבורגיש	Luksemburga lingvo
+טשעכיש	Ĉeĥa lingvo
+סלאוואקיש	Slovaka lingvo
+קארל מארקס	Karl Marx
+סלאוועניש	Slovena lingvo
+אונגעריש	Hungara lingvo
+וואלטער	Voltaire
+משה רבינו	Moseo
+לעטיש	Latva lingvo
+וויסן	Scio
+ליטוויש	Litova lingvo
+הינדואיזם	Hinduismo
+בעלארוסיש	Belorusa lingvo
+דזשיימס קלארק מאקסוועל	James Clerk Maxwell
+ברוסט	Mamo
+דמיטרי מענדלעעוו	Dmitrij Mendelejev
+אטאם	Atomo
+ערנעסט ראדערפארד	Ernest Rutherford
+ליכט	Lumo
+גריכיש	Greka lingvo
+ערווין שרעדינגער	Erwin Schrödinger
+מיטאלאגיע	Mitologio
+אפערירן סיסטעם	Operaciumo
+טאזש מאהאל	Taĝ-Mahalo
+איריש	Irlanda lingvo
+פראגראמירן שפראך	Programlingvo
+פינגווין	Pingveno
+פונדאמענטאליזם	Fundamentismo
+בליצפאסט	Retpoŝto
+מאנאטעיזם	Monoteismo
+פאליטעאיזם	Politeismo
+נשמה	Animo
+מאלטעזיש	Malta lingvo
+פערסיש	Persa lingvo
+רעליגיע	Religio
+קארעיש	Korea lingvo
+אברהם אבינו	Abraham
+ספר בראשית	Genezo
+עמפייער סטעיט בילדינג	Empire State Building
+ספר שמות	Eliro
+רענע דעקארט	René Descartes
+וויעטנאמעזיש	Vjetnama lingvo
+שאול התרסי	Paŭlo de Tarso
+סטאטוע פון ליבערטי	Statuo de Libereco
+אמעריקאנער ארמיי	Usona terarmeo
+זיגמונד פרויד	Sigmund Freud
+טיילאנדיש	Siama lingvo
+דזשייניזם	Ĝajnismo
+געארג ווילהעלם פרידריך העגל	Hegelo
+מאנגאליש	Mongola lingvo
+באקו	Bakuo
+וועלט ירושה ארט	Monda heredaĵo de Unesko
+סאלאט	Salato
+יידישקייט	Judismo
+העברעאיש	Hebrea lingvo
+איבן כאלדון	Ibn-Ĥaldun
+סערביש	Serba lingvo
+באסניש	Bosnia lingvo
+אימאנועל קאנט	Immanuel Kant
+סיקהיזם	Sikismo
+דזשאן מיינארד קינס	John Maynard Keynes
+אויפפיר	Konduto
+לאא צי	Laozio
+Gmail	Gmail
+יאגא	Jogo
+דזשאן לאק	John Locke
+פרידריך ניצשע	Friedrich Wilhelm Nietzsche
+בישקעק	Biŝkeko
+זשאן-פאל סארטרע	Jean-Paul Sartre
+דושאנבע	Duŝanbeo
+לעבער	Hepato
+סימא טשיען	Sima Qian
+ניר	Reno
+אדם סמיט	Adam Smith
+אוריניר פענכער	Urina veziko
+מאקס וועבער	Max Weber
+לודוויג וויטגנשטיין	Ludwig Wittgenstein
+זשו טשי	Zhu Xi
+נערוון סיסטעם	Nerva sistemo
+געפיל	Emocio
+פסיכאלאגיע	Psikologio
+טראכטן	Pensado
+טימבוקטו	Timbuktuo
+אקעאן	Oceano
+טאמאס פון אקווינא	Tomaso de Akvino
+קעניגין וויקטאריע	Viktoria (Britio)
+גאוטאמא בודהא	Sidarto Gotamo
+רעגנוואלד	Pluvarbaro
+דיאלעקטיק	Dialektiko
+מוכאמאד	Mohamedo
+מידות	Etiko
+עפיסטעמאלאגיע	Sciteorio
+בחירה	Libera volo
+IPod	IPod
+משמעותדיקייט	Probablo
+רעאליטעט	Realo
+אטעם	Spirado
+בי בי סי	BBC
+טאני בלער	Tony Blair
+אל-גאזאלי	Algazelo
+מארטין לוטער	Marteno Lutero
+קאנפוציאניזם	Konfuceismo
+דזשעראלד פארד	Gerald Ford
+שיא איסלאם	Ŝijaismo
+ריטשארד ניקסאן	Richard Nixon
+קאטוילישע קירכע	Katolika Eklezio
+טרימורטי	Trimurto
+בויך	Ventro
+טאאיזם	Taoismo
+זאראאסטריזם	Zaratuŝtrismo
+סופיזם	Sufiismo
+בענגאליש	Bengala lingvo
+טראכט	Utero
+צונג	Lango (anatomio)
+פאנקרעאס	Pankreato
+נערוו	Nervo
+גענאק	Kolo
+מויל	Buŝo
+שטימע קעסטל	Laringo
+געדערעם	Intesto
+לינדאן זשאנסאן	Lyndon B. Johnson
+געלענק	Artiko
+ברוסטקאסטן	Brusto
+דריז	Glando
+פאלקלאנד אינזלען	Insuloj Falklandoj
+פארדייאונג סיסטעם	Digesta sistemo
+A	A
+מיכאל שומאכער	Michael Schumacher
+אינזל פון ווייט	Isle of Wight
+עליזאבעט די צווייטע	Elizabeto la 2-a (Britio)
+טאנג דינאסטיע	Dinastio Tang
+ניו יארק טיימס	The New York Times
+מידקייט	Laceco
+זשאן עף. קענעדי	John F. Kennedy
+B	B
+זרע	Ejakulaĵo
+דזשיאאקינא ראסיני	Gioachino Rossini
+קלאסישע מוזיק	Klasika muziko
+סימפאניע	Simfonio
+G	G
+U	U
+Z	Z
+בלוז	Bluso
+פלאמענקא	Flamenko
+F	F
+J	J
+עלעקטראנישע מוזיק	Elektronika muziko
+אלפאבעט	Alfabeto
+אות	Litero
+רעגיי	Regeo
+T	T
+C	C
+R	R
+D	D
+אלפא	Alfo
+I	I
+מינג דינאסטיע	Dinastio Ming
+E	E
+H	H
+דווייט דעיוויד אייזנהאוער	Dwight D. Eisenhower
+K	K
+L	L
+M	M
+N	N
+O	O
+Q	Q
+S	S
+ראנאלד רייגען	Ronald Reagan
+V	V
+W	W
+X	X
+Y	Y
+ענדי מאריי	Andy Murray
+פלאזמע	Plasmo
+קאנאל טונעל	Manika Tunelo
+פיטאגאראס	Pitagoro
+קאלאסעום	Koloseo
+פארטענאן	Partenono
+ארימקייט	Malriĉeco
+סאראגאסא	Zaragozo
+דזשאן מעקעין	John McCain
+פערנאנדא אלאנסא	Fernando Alonso
+דעיוויד בעקהעם	David Beckham
+גארדאן בראון	Gordon Brown
+נעוויל טשעמבערליין	Neville Chamberlain
+קאַטעגאָריע:װענעזועלע	Kategorio:Venezuelo
+בעלפאסט	Belfasto
+קארדיף	Cardiff
+פעריאדישע טאבעלע	Perioda tabelo
+טיבאר סעקעלי	Tibor Sekelj
+זעלבסטמארד	Sinmortigo
+נאקעט	Nudeco
+9/11	Atencoj de la 11-a de septembro 2001
+רעפטיליע	Reptilioj
+סעקס שפילצייג	Erotikaj helpiloj
+נאגער	Ronĝuloj
+טויבן	Kolombedoj
+שפּאנישע בירגער קריג	Hispana Enlanda Milito
+ארכעען	Arĥioj
+בלינדקייט	Blindeco
+באקטעריע	Bakterioj
+בוים	Arbo
+פראטיסטן	Protistoj
+אמפיביע	Amfibioj
+כארדאטן	Ĥorduloj
+רעוואלוציע	Revolucio
+קעז	Fromaĝo
+וויינטרויבן	Vinbero
+האניג	Mielo
+פלייש	Viando
+קארטאפל	Terpomo
+צוקער	Sukero
+גרינצייג	Legomo
+סויע	Sojfabo
+נוס	Nukso
+ראבאט	Roboto
+טעכנאלאגיע	Teknologio
+מאשין	Maŝino
+שרויף	Ŝraŭbo
+אינזשעניריע	Inĝenierarto
+קאמוניקאציע	Komunikado
+אינפארמאציע	Informo
+זשורנאליזם	Ĵurnalismo
+צייטונג	Gazeto
+מאסן מעדיע	Amaskomunikilo
+דרוקעריי	Presarto
+טעלעפאן	Telefono
+קולטור	Kulturo
+הינדוסטאני	Hindustana lingvo
+סאנסקריט	Sanskrito
+בלוט צירקולאציע	Kardiovaskula sistemo
+ענדאקרינאלע סיסטעם	Endokrina sistemo
+אלצהיימערס קרענק	Alzheimer-malsano
+גראבע קישקע	Dika intesto
+פארקינסאן קרענק	Parkinsona malsano
+קליינע קישקע	Maldika intesto
+חוש-סיסטעם	Sensa sistemo
+IP אדרעס	IP-adreso
+זייערס	Acido
+אומארגאנישע כעמיע	Neorganika kemio
+פראגע צייכן	Demandosigno
+כעמישע פארבינדונג	Kemia kombinaĵo
+יוליאנישער קאלענדאר	Julia kalendaro
+מעדיצין	Medicino
+וועלט פאקטבוך	Monda faktolibro de CIA
+באזע (כעמיע)	Bazo (kemio)
+סאראיעווא	Sarajevo
+לאגאריטם	Logaritmo
+העכסטע געריכט פון די פאראייניגטע שטאטן	Supera Kortumo de Usono
+אריטמעטיק	Aritmetiko
+פענטאגאן	Pentagono (Usono)
+קאארדינאטן סיסטעם	Koordinatsistemo
+מיליטער פון די פאראייניקטע שטאטן פון אמעריקע	Usona armeo
+דיפערענציאל-גלייכונג	Diferenciala ekvacio
+Windows 7	Vindozo 7
+נומערישער אנאליז	Cifereca analitiko
+יו.עס. מארין קארפס	Marista infanterio de Usono
+אמעריקאנער פלאט	Usona mararmeo
+פראצענט	Procento
+Windows Vista	Vindozo Vista
+World Trade Center	World Trade Center
+Windows XP	Windows XP
+מידטאון מאנהעטן	Meza Manhatano
+לאוער מאנהעטען	Malalta Manhatano
+זאלץ	Salo
+Microsoft Office	Microsoft Office
+פידעל קאסטרא	Fidel Castro
+Microsoft Word	Microsoft Word
+קאנגרעס	Usona Kongreso
+קאַטעגאָריע:בראזיל	Kategorio:Brazilo
+טראל (אינטערנעט)	Interreta trolo
+מאנהעטן	Manhatano
+וואלקן קראצער	Nuboskrapulo
+שאפינג מאלל	Vendejaro
+קאַטעגאָריע:רומעניע	Kategorio:Rumanio
+כעמישער עלעמענט	Kemia elemento
+גלייכונג	Ekvacio
+פונקציע	Funkcio (matematiko)
+ארגאנישע כעמיע	Organika kemio
+ווינקל	Angulo
+קארבאהידראט	Karbonhidrato
+הארמאן	Hormono
+ליפיד	Lipido
+יוניקס	Unikso
+מאלעקול	Molekulo
+פיזיקאלישע כעמיע	Fizika kemio
+פארגיכערונג	Akcelo
+ענערגיע	Energio
+לאקאל נעצווערק	Loka reto
+קאנסערווירונג פון ענערגיע	Principo de konservado de energio
+עלעקטראמאגנעטישע שטראלונג	Elektromagneta ondo
+אינפרארויט	Infraruĝa radiado
+אולטראוויאלעט	Ultraviola radiado
+זגאלן אין סכנה	Minacata specio
+שטוביקונג	Aldomigo
+קלאסישע מעכאניק	Klasika mekaniko
+ביאלאגישע קלאסיפיקאציע	Biologia klasado
+ראק מוזיק	Rok-muziko
+היפ האפ	Hiphopo
+קראפט	Forto
+סאמבע	Sambo (muziko)
+פויק	Tamburo
+פלייט	Fluto
+מאגנעטיש פעלד	Magneta kampo
+אפארטהייד	Apartismo
+שפיל	Ludo
+טריק-טראק	Triktrako
+גראוויטאציע	Gravito
+גא	Goo
+שטארקע קראפט	Forta nuklea forto
+אזארטשפיל	Vetludo
+קאמפקונסט	Luktoarto
+שוואכע קראפט	Malforta nuklea forto
+קאראטע	Karateo
+דזשודא	Ĵudo
+מאגנעט	Magneto
+שפילכל	Ludilo
+מאסע	Maso
+פילם	Filmo
+אנימאציע	Animacio
+מעטאל	Metalo (fiziko)
+שטאל (מעטאל)	Ŝtalo
+יאדער-שפאלטונג	Fisio
+צושטאנד פון מאטעריע	Materistato
+גאז	Gaso
+פליסיקייט	Likvo
+לופטמאשין	Flugmaŝino
+סאלידער קערפער	Solido
+ביציקל	Biciklo
+שיף	Ŝipo
+ראדיאאקטיוויטעט	Radiaktiveco
+לאנדווירטשאפט	Agrikulturo
+אלגעמיינע טעאריע פון רעלאטיוויטעט	Ĝenerala teorio de relativeco
+באוואסערונג	Irigacio
+ספעציעלע טעאריע פון רעלאטיוויטעט	Speciala teorio de relativeco
+האלב-דורכפירער	Duonkonduktaĵo
+באוול	Kotono
+קליידונג	Vesto
+קלאנג	Sono
+אקער	Plugilo
+גיכקייט	Vektora rapido
+טעמפעראטור	Temperaturo
+מעטאלורגיע	Metalurgio
+נאנאטעכנאלאגיע	Nanoteknologio
+גלאז	Vitro
+צייט	Tempo
+פאפיר	Papero
+טערמאדינאמיק	Termodinamiko
+פלאסטיק	Plasto
+וואקיום	Vakuo
+שטח	Areo
+פיטאגאראס פרינציפ	Teoremo de Pitagoro
+מאטעמאטישער דערווייז	Matematika pruvo
+צאל	Nombro
+קאמפלעקסע צאל	Kompleksa nombro
+דארווין, אויסטראליע	Darvino
+קילאגראם	Kilogramo
+מעטער	Metro
+סעקונדע	Sekundo
+קוקורוזע	Maizo
+גערשט	Ordinara hordeo
+ליטער	Litro
+הערי עס טרומאן	Harry S. Truman
+מאלעריי	Pentrado
+פאטאגראפיע	Fotarto
+סקולפטור	Skulptarto
+טעאטער	Teatro
+דזשודי גארלאנד	Judy Garland
+טאנץ	Danco
+טעפעריי	Ceramiko
+עלעקטראניק	Elektroniko
+עלעקטרישער שטראם	Elektra kurento
+פרעקווענץ	Frekvenco
+דיאדע	Diodo
+טראנספארמאטאר	Transformatoro
+קינסטלעכע אינטעליגענץ	Artefarita inteligenteco
+אינפארמאציע טעכנאלאגיע	Informa teknologio
+וועטער	Vetero
+עליאט שפיצער	Eliot Spitzer
+אקציע (פינאנץ)	Akcio
+פרעזידענט פון די פאראייניגטע שטאטן	Prezidanto de Usono
+רעסטאראן	Restoracio
+דרום-מזרח אזיע	Sud-Orienta Azio
+רשימה:לענדער פון דער וועלט	Listo de sendependaj ŝtatoj
+פרעהיסטאריע	Prahistorio
+לייזער זאמענהאף	L. L. Zamenhof
+שטיין עפאכע	Ŝtonepoko
+בראנדז עפאכע	Bronzepoko
+אייזן עפאכע	Ferepoko
+מעסאפאטאמיע	Mezopotamio
+אוראלט עגיפטן	Antikva Egiptio
+אוראלט גריכנלאנד	Antikva Grekio
+גופטא אימפעריע	Gupta imperio
+בער	Urso
+זשאן עדעמס	John Adams
+טאמעס זשעפערסאן	Thomas Jefferson
+זשיימס מעדיסאן	James Madison
+זשיימס מאנרא	James Monroe
+זשאן קווינסי עדעמס	John Quincy Adams
+ענדרו זשעקסאן	Andrew Jackson
+מארטין וואן ביורען	Martin Van Buren
+וויליאם הענרי העריסאן	William H. Harrison
+זשאן טיילער	John Tyler
+וויליאם ראאן האמילטאן	William Rowan Hamilton
+זשיימס נאקס פאלק	James K. Polk
+זאקארי טיילאר	Zachary Taylor
+בריטני ספירס	Britney Spears
+פארדייאונג	Digestado
+פאטאסינטעז	Fotosintezo
+רעפראדוקציע	Reproduktado
+שוואנגערן	Gravedeco
+קיילי מינא	Kylie Minogue
+דעמב	Kverko
+גוגל מאפע	Google Maps
+סאסנע	Pino
+אדיקציע	Dependeco (medicino)
+קענסער	Kancero
+כאלערע	Ĥolero
+קארן	Sekalo
+האבער	Kutima aveno
+ווייץ	Tritiko
+סארגע	Sorgo
+תבואה	Greno
+פארקילונג	Malvarmumo
+ציינדאקטעריי	Dentokuracado
+דעפעקטיווקייט	Malkapablo
+קאלענדאר	Kalendaro
+טויב	Surdeco
+מח-קרענק	Psika malsano
+קראנקייט	Malsano
+גרעגאריאנישער קאלענדאר	Gregoria kalendaro
+מעדיקאמענט	Kuracilo
+צייט זאנע	Horzono
+ניקאטין	Nikotino
+געזונט	Sano
+הארץ אטאקע	Korinfarkto
+טוטאַנכאַמון	Tutanĥamono
+מאלאריע	Malario
+אנטארעס	Antareso
+נישט-דערנערונג	Malsufiĉa nutrado
+מענסטרואציע	Menstruo
+גראב	Trodikiĝo
+פאנדעמיע	Pandemio
+אנטיביאטיק	Antibiotiko
+פעניצילין	Penicilino
+נאנט	Nanto (Francio)
+לונגען אנטצינדונג	Pneŭmonito
+קינדער-פאראליז	Poliomjelito
+געשלעכט-קראנקייט	Venereaj malsanoj
+עידס	Aidoso
+אנפאל	Apopleksio
+טובערקולאז	Tuberkulozo
+צוקערקרענק	Diabeto
+פאקן	Variolo
+קורדן	Kurdoj
+ארכיטעקטור	Arkitekturo
+בויגן (ארכיטעקטור)	Arko (arkitekturo)
+בריק	Ponto
+קאנאל	Kanalo (akvovojo)
+מילארד פילמאר	Millard Fillmore
+פרענקלין פירס	Franklin Pierce
+דאם	Akvobaraĵo
+זשיימס ביוקענען	James Buchanan
+זאלץ (כעמיע)	Salo (kemio)
+פירענעען	Pireneoj
+שוויץ (קאנטאן)	Kantono Ŝvico
+דעטרויט	Detrojto
+מאס	Mezuro
+אינטערנאציאנאלע סיסטעם פון איינסן	Internacia sistemo de unuoj
+נומערן טעאריע	Nombroteorio
+סכומען טעאריע	Aroteorio
+סטאטיסטיק	Statistiko
+סימעטריע	Simetrio
+קופאל	Kupolo
+בורדזש כאליפא	Burĝ Ĥalifa
+כינעזער וואנט	Granda Ĉina Muro
+גאנצע צאל	Entjero
+האגיא סאפיא	Hagia Sofia
+טרעפּ	Ŝtuparo
+פעטראס באסיליקע	Baziliko Sankta Petro de Romo
+דריי-שלוכטן-דאמבע	Baraĵo Tri Gorĝoj
+פיראמיד	Piramido
+טורעם	Turo
+אבאסישער כאליפאט	Kalifujo de Abasidoj
+אויפקלערונג	Klerismo
+אזטעק	Aztekoj
+ביזאנטישע אימפעריע	Bizanca imperio
+קרייצצוג	Krucmilitoj
+הייליגע רוימישע אימפעריע	Sankta Romia Imperio
+הונדערט-יעריגע מלחמה	Centjara milito
+מיטל אלטער	Mezepoko
+מאנגאלישע אימפעריע	Mongola Imperio
+אטאמאנישע אימפעריע	Otomana Imperio
+עספעראנטא וועלט קאנגערס	Universala Kongreso de Esperanto
+פראטעסטאנטישע רעפארמאציע	Reformacio
+וויקינג	Vikingoj
+נבוכדנאצר דער צווייטער	Nebukadnecar la 2-a
+ברוטא אינלענדישער פראדוקט	Malneta enlanda produkto
+קאליגראפיע	Skribadarto
+מאדע	Modo
+דערנייבארע ענערגיע	Renoviĝanta energio
+עלעקטריע	Elektro
+קערנדיקע קראפט	Nuklea energio
+פאסיל-ברענשטאף	Fosilia brulaĵo
+אינטערנל קאמבאסטשען ענזשין	Eksplodmotoro
+דאמפמאטאר	Vapormaŝino
+שווערד	Glavo
+פייער-געווער	Pafarmilo
+מאשינביקס	Maŝinpafilo
+נוקלעארער וואפן	Atombombo
+2029	2029
+באריס קאלקער	Boris Kolker
+איבערישער האלבאינזל	Iberio
+שיספולווער	Nigra pulvo
+פליסיגע אויפרייס	Eksplodaĵo
+טאנק	Tanko
+אנטווערפן	Antverpeno (urbo)
+דזשארדזש סאראס	George Soros
+רעאלע צאל	Reelo
+לעאפאלד דער צווייטער פון בעלגיע	Leopoldo la 2-a (Belgio)
+לעאפאלד דער ערשטער פון בעלגיע	Leopoldo la 1-a (Belgio)
+לעאפאלד דער דריטער פון בעלגיע	Leopoldo la 3-a (Belgio)
+אלבערט דער ערשטער פון בעלגיע	Alberto la 1-a (Belgio)
+באדעוויין פון בעלגיע	Baldueno la 1-a (Belgio)
+מישעל אבאמא	Michelle Obama
+ראזשינקע	Sekvinbero
+קאקאס	Kokoso
+מילגרוים	Granatujo
+מאראנץ	Oranĝo (frukto)
+רומאנטש	Romanĉa lingvo
+אייזקרעם	Glaciaĵo
+קוכן	Kuko
+יאגארט	Jogurto
+הארווארד אוניווערסיטעט	Universitato Harvard
+על זשאזירא	Al-Ĝazira
+רעטעניש	Enigmo
+סעבו (גובערניע)	Cebuo
+אנזשאלינא זשאולי	Angelina Jolie
+אדריאטישער ים	Adriatiko
+אראביש	Araba lingvo
+דאנק טאג	Dankotago
+האנשו	Honŝu
+בערנארד מעדאף	Bernard Madoff
+ערווין ראמעל	Erwin Rommel
+קאנדאם	Kondomo
+פאלמע	Arekacoj
+טשימבאראזא	Ĉimborazo
+דאלאר	Dolaro (monunuo)
+ביקיני	Bikino
+קארסיקע	Korsiko
+דזשוסעפע פיאצי	Giuseppe Piazzi
+ערשטער ניווא דאמען	Domajno de plej alta nivelo
+סאנטיאגא דע קאמפאסטעלא	Santiago de Compostela
+וויטאריע	Vitorio (Hispanio)
+סאנטא קרוז דע טענעריפע	Santa Cruz de Tenerife
+בעטא	Beto (litero)
+גאמא	Gamo (litero)
+קאקטוס	Kakto
+אפטיק	Optiko
+הערב	Blazono
+פאן	Flago
+טיש	Tablo
+הייסע וואסער סיסטעם	Boligilo
+ברין	Brno
+עסקאלאטאר	Rulŝtuparo
+שטול	Seĝo
+אינטערנאציאנאלע ארגאניזאציע פאר סטאנדארטיזאציע	Internacia Organizaĵo por Normigado
+ד	Daleto
+זשיראף	Ĝirafo (specio)
+דרום טיראל	Sudtirolo
+ט	Tet (hebrea alfabeto)
+וואנצעס	Lipharoj
+סאוועטן פארבאנד	Sovetunio
+ראן פאול	Ron Paul
+מוניציפאליטעט	Municipo
+גוט	Bono (filozofio)
+שלעכטס	Problemo de la malbono
+אלקאהאליזם	Alkoholismo
+קאמערע	Fotilo
+פאראנא	Paranao
+C (פראגראם שפראך)	C (programlingvo)
+פוס	Piedo
+האנטקייטן	Mankateno
+קווין	Queen
+פרעדי מערקורי	Freddie Mercury
+ברייען מעי	Brian May
+עמי וויינהאוס	Amy Winehouse
+מאנטעסקיע	Charles Montesquieu
+פעניאראל	Peñarol
+פערזענלעכער קאמפיוטער	Persona komputilo
+אקסל	Ŝultro
+האלדז	Gorĝo (anatomio)
+שילדדריז	Tiroido
+פארטאל:רעקאמענדירטע ארטיקלען	Vikipedio:Elstaraj artikoloj
+מוסטער:רא	Ŝablono:LigoElstara
+וועלט	Mondo
+װיקיפּעדיע:קאווע שטיבל	Vikipedio:Diskutejo
+ריכטער	Juĝisto
+ווערמאנט	Vermonto
+סאן דיעגא	San-Diego
+דענווער	Denvero (Koloradio)
+היוסטן	Houston (Teksaso)
+פיניקס	Fenikso (Arizono)
+אסטין	Aŭstino
+מעמפיס	Memphis (Tenesio)
+קאלומבוס, אהייא	Columbus (Ohio)
+אמעריקאנישער סאמאא	Usona Samoo
+עדגאר אלאן פא	Edgar Allan Poe
+לאס אנדזשעלעס, טשילע	Los Ángeles (Ĉilio)
+שפיטאל	Malsanulejo
+מזרח דייטשלאנד	Germana Demokratia Respubliko
+קלויסטער	Kirko
+נארד-פא-דע-קאלע	Nordo-Kaleza Markolo
+אקלאנד, קאליפארניע	Oakland (Kalifornio)
+גאוויאל	Gavialo
+איי	Ovo
+אעראפלאנען שיף	Aviadila ŝipo
+שניי-מאביל	Motorsledo
+מאנאפאלי (שפיל)	Monopolo (ludo)
+קרייז	Cirklo
+פלאך	Ebeno (matematiko)
+זעלביקער-געשלעכט חתונה	Samseksaj edzeco kaj edzineco
+וויקיע	Wikia
+קיינציקלאפעדיע	Neciklopedio
+פלאמענגא	Clube de Regatas do Flamengo
+צעלפאן	Poŝtelefono
+שטרויס	Struto
+סטיווען האקינג	Stephen Hawking
+קלאסישע פעריאדע (מוזיק)	Klasika epoko (eŭropa muziko)
+אקסיאם	Aksiomo
+טעאריע	Teorio
+סעקסואלער אריענטאציע	Seksa orientiĝo
+סאקראמענטא	Sakramento (Kalifornio)
+האנאלולו	Honolulu
+קארעע	Koreio
+1925	1925
+1927	1927
+מאנטשעסטער	Manchester
+אספירין	Aspirino
+אינסטינקט	Instinkto
+פראווידענס	Providence (Rod-Insulo)
+ניו ענגלאנד	Nov-Anglio
+אלי וויזעל	Elie Wiesel
+ברוקלין	Broklino
+קווינס	Kvinzo
+בראנקס	Bronkso
+סטעטן איילאנד	Staten-Insulo
+לאנג איילענד	Long Island
+וואלף	Lupo
+מעטאפאר	Metaforo
+אלעגאריע	Alegorio
+מאפיא	Mafio
+1955	1955
+1954	1954
+1953	1953
+1951	1951
+1950	1950
+1946	1946
+1943	1943
+1942	1942
+1940	1940
+1939	1939
+1938	1938
+1937	1937
+1936	1936
+1935	1935
+1934	1934
+1933	1933
+1932	1932
+1931	1931
+1930	1930
+1929	1929
+פיאנגיאנג	Pjongjango
+נייער טעסטאמענט	Nova testamento
+GPS	Tutmonda loktrova sistemo
+אסקאר	Oskar-premio
+2010ער	2010-aj jaroj
+אייקאריאט	Eŭkariotoj
+9 (נומער)	9 (nombro)
+י	Jod (hebrea alfabeto)
+סאן פעדרא דע לא פאז	San Pedro de la Paz
+פאדאלסק	Podolsk
+באנאבא	Eta ĉimpanzo
+זוכמאשין	Serĉilo
+פויבסט	Papo
+אלקאלי מעטאל	Alkala metalo
+ראפאעל קארעא	Rafael Correa
+איבערגאנג מעטאל	Transirmetalo
+האלבמעטאלן	Metaloido
+נישט-מעטאל	Nemetalo
+איידעלער גאז	Nobla gaso
+בוקארעשט	Bukareŝto
+על גאר	Al Gore
+סעווערן	Severn
+פארטא-ריקאנישע אומאפהענגיקייט פארטיי	Partio de la Sendependeco de Porto-Riko
+טעמז	Tamizo
+טיראנא	Tirano
+1928	1928
+מאנגראווע	Mangrovo
+קראצמעך	Kristnasko
+דרייעק	Triangulo
+עיבור יאר	Superjaro
+סטיוו זשאבס	Steve Jobs
+ליידי גאגא	Lady Gaga
+ברייניגערבערג	Breinigerberg
+מואמאר קאדאפי	Muamar Kadafi
+טיגער	Tigro
+כואן קארלאס דער ערשטער	Johano Karlo la 1-a (Hispanio)
+לאנדאנער אונטערגרונט	Metroo de Londono
+פאדקעסט	Podkasto
+קעשענעוו	Kiŝinevo
+נאטירלעכע צאל	Natura nombro
+סאציאלאגיע	Sociologio
+שלום (צייטונג)	Şalom
+אדישא	Odiŝo
+GNU פרייע דאקומענטאציע ליצענץ	Permesilo de GNU por Liberaj Dokumentoj
+זשאן קערי	John Kerry
+טייוואן אינזל	Tajvano
+אנטיסעמיטיזם	Kontraŭjudismo
+נאפט	Nafto
+פרידריך שילער	Friedrich Schiller
+שיך	Ŝuo
+באנק	Banko
+מעץ	Metz
+פרייהייט פון ווארט	Parollibereco
+טעאריע:סעפטעמבער 11	Konspiro-teorioj pri la 11-a de septembro 2001
+באפעלקערונג ענגקייט	Loĝdenso
+אירלאנד (אינזל)	Irlando (insulo)
+װיקיפּעדיע:בלעטער צו אויסמעקן	Vikipedio:Forigendaj artikoloj
+בראדפארד	Bradford
+טשעשיר	Cheshire
+קאמבריע	Kumbrio
+לאנקאשיר	Lankaŝiro
+נארטהאמבערלאנד	Northumberland
+טיין און וויר	Tyne and Wear
+קאנטי דארהאם	County Durham
+מערב יארקשיר	Okcidenta Jorkŝiro
+צפון יארקשיר	North Yorkshire
+מזרח ריידינג פון יארקשיר	East Riding of Yorkshire
+לינקאנשיר	Lincolnshire
+נאטינגהאמשיר	Nottinghamshire
+דרום יארקשיר	South Yorkshire
+דארבישיר	Derbyshire
+גרויס-מאנטשעסטער	Greater Manchester
+מערזיסייד	Merseyside
+שראפשיר	Shropshire
+סטאפארדשיר	Staffordshire
+לעסטערשיר	Leicestershire
+ראטלאנד	Rutland
+נארפאלק	Norfolk (Anglio)
+סאפאלק	Suffolk
+קעמברידזשיר	Cambridgeshire
+לו קסון	Lu Xun
+נארטהאמפטאנשיר	Northamptonshire
+הערעפארדשיר	Herefordshire
+וואוסטערשיר	Worcestershire
+וואריקשיר	Warwickshire
+בעדפארדשיר	Bedfordshire
+קארנוואל	Kornvalo
+בריסטאל	Bristolo
+דעוון	Devon
+דארסעט	Dorset
+גלאסטערשיר	Gloucestershire
+אקספארדשיר	Oxfordshire
+10	10
+ווילטשיר	Wiltshire
+האמפשיר	Hampshire
+בארקשיר	Berkshire
+באקינגהאמשיר	Buckinghamshire
+20	20
+אמטראק	Amtrak
+עסעקס	Essex
+סארי	Surrey
+מערב סאסעקס	West Sussex
+מזרח סאסעקס	East Sussex
+30	30
+קענט	Kent
+גרויסלאנדאן	Granda Londono
+סיטי פון לאנדאן	City (Londono)
+9	9
+7 (נומער)	7 (nombro)
+8 (נומער)	8 (nombro)
+זשאן אגוסט דאמיניק ענגרע	Jean Auguste Dominique Ingres
+וואָך	Semajno
+אייז	Glacio
+אזערע	Lago
+קנאבל	Ajlo
+אנטראפאלאגיע	Antropologio
+ים סוף	Ruĝa Maro
+אוגערקע	Kukumo
+אולאן באטאר	Ulaanbaataro
+עדינבורג	Edinburgo
+אשגאבאט	Aŝgabato
+אקטאוו מירבא	Octave Mirbeau
+אינזל	Insulo
+ווייס	Blanko
+שווארץ	Nigro
+מארסיי	Marsejlo
+ציבל	Cepo
+6 (נומער)	6 (nombro)
+ארכעאלאגיע	Arkeologio
+טאמאטע	Tomato
+דזשארזש ה. וו. בוש	George H. W. Bush
+באלקאן לענדער	Balkana duoninsulo
+סלאווישע שפראכן	Slava lingvaro
+עקוואטאר	Ekvatoro
+סעלענא	Selena
+מערידא, ווענעזועלע	Merido (Venezuelo)
+אטלאנטא	Atlanta (Georgio)
+בעניטא מוסאליני	Benito Mussolini
+לאסט (טעלעוויזיע סעריע)	Lost (televida serio)
+17	17
+ווערטערבוך	Vortaro
+קאפ	Kapo
+װעלינגטאן	Velingtono
+גרויסבריטאניע	Britio (insulo)
+23	23
+זשימי קארטער	Jimmy Carter
+נאציאנאלער הימען	Nacia himno
+לאס וועגאס	Lasvegaso
+26	26
+פאלעסטינע	Palestino
+10 (נומער)	10 (nombro)
+אטאם נומער	Atomnumero
+אלפרעד נאבעל	Alfred Nobel
+קערפער	Homa korpo
+24	24
+29	29
+לילך דאונס	Lila Downs
+ים המלח	Morta Maro
+25	25
+31	31
+28	28
+ליווערפול	Liverpool
+אלבאני	Albany (Nov-Jorkio)
+אוואטאר (פילם)	Avatar (filmo)
+ווערב	Verbo
+770	770
+וואדי עלען	Woody Allen
+טיטאניק	RMS Titanic
+ראמשטיין	Rammstein
+סאווע	Strigoformaj birdoj
+פונט שטערלינג	Brita pundo
+ווערטייברעיטס	Vertebruloj
+מעטעאראלאגיע	Meteologio
+אזארן	Acoroj
+פעלידאע	Felisedoj
+אינטערנאציאנאלע קאסמאס סטאנציע	Internacia Kosmostacio
+היספאניאלא	Hispaniolo
+דא נאנג	Da Nang
+פעטרישקע	Petroselo
+אופסאלא	Upsalo
+געטעבארג	Göteborg
+וואג	Pezo
+קארניש	Kornvala lingvo
+טייטלבוים	Daktilopalmo
+האמער	Martelo
+ראטיבאר	Racibórz
+פליג	Dipteroj
+בליענדיקע פלאנצן	Angiospermoj
+ארקטיק	Arkto
+מאלוסקן	Moluskoj
+Gaudi Antoni	Antoni Gaudí
+מאכט	Povumo
+טענענבוים	Abio
+דראמא	Dramo (verko)
+ליבעלעס	Libelo
+בורשטין	Sukceno
+נוארק	Newark (Nov-Ĵerzejo)
+וועסטעראס	Västerås
+לינשעפינג	Linköping
+וואלטאזש	Elektra tensio
+זאפראן	Safrano
+סארביש	Soraba lingvo
+ליכט-ארויסגעבנדיקער דיאד	Lum-eliganta diodo
+נארשעפינג	Norrköping
+ערעברו	Örebro
+פראטאקאלן פון זקני-ציון	Protokoloj de cionaj saĝuloj
+אוגרע	Eŭropa angilo
+פאפראד	Poprad
+נייטרא	Nitra
+צאבעל	Zibelo
+סאטעליט	Artefarita satelito
+כריין	Kreno
+אילטיס	Putoro
+פאלעסטין באפרייונג ארגאניזאציע	Organizaĵo por Liberigo de Palestino
+נעגעלע	Kariofilo
+אטעלא	Otelo
+טעילאר סוויפט	Taylor Swift
+לאנדאנער בארא פון קרוידן	Croydon
+פראפיט	Profito
+מזרח אזיע	Orienta Azio
+צפון אפריקע	Nord-Afriko
+צענטראל-אפריקע	Centra Afriko
+דרום אייראפע	Suda Eŭropo
+מזרח אייראפע	Orienta Eŭropo
+מערב אייראפע	Okcidenta Eŭropo
+צענטראל אייראפע	Mezeŭropo
+צענטראל-אמעריקע	Centra Ameriko
+האטעל	Hotelo
+מזרח פריזישע אינזלען	Orientfrisaj insuloj
+נירנבערג געזעצן	Nurenbergaj leĝoj
+געזאנג	Kantado
+אדאלף אייכמאן	Adolf Eichmann
+צימערינג	Cinamo
+קאנקארד, ניו העמפשער	Concord (Nov-Hampŝiro)
+סעלערי	Vera celerio
+ליסטע פון שטעט אין ישראל	Listo de urboj de Israelo
+אספארגוס	Asparago
+גראד	Grado
+האר	Haro
+עסטרייך אונגארישע אימפעריע	Aŭstrio-Hungario
+ספרינגפילד, אילינוי	Springfield (Ilinojo)
+דזשיקאוו	Tarnobrzeg
+אראמיש	Aramea lingvo
+פאך	Profesio
+שניטקע	Sandviĉo
+איסלאמישער קאלענדאר	Islama kalendaro
+טענעריפע אוידיטאריע	Aŭskultantejo de Tenerife
+סאשא בארון כהן	Sacha Baron Cohen
+פוס מיליטער	Infanterio
+מאנטגאמערי	Montgomery (Alabamo)
+רעפובליקאנער פארטיי	Respublikana Partio (Usono)
+באק פולווער	Bakpulvoro
+לאקימיע	Leŭkemio
+אפגאט	Paganismo
+דעמאקראטישע פארטיי	Demokrata Partio (Usono)
+בעאטריקס פון די נידערלאנדן	Beatrikso (Nederlando)
+Wi-Fi	Wi-Fi
+לופטל	Taraksako
+בירגערמייסטער	Urbestro
+שניי לעמפערט	Neĝleopardo
+שלעזיש	Silezia lingvo
+פרעזידענט	Prezidanto
+בלאג	Blogo
+דזשיימסטאן, סאנט העלענע	Ĵamestaŭno
+קאלקולאטאר	Kalkulilo
+פאפוגיי	Papagoformaj
+קראקע	Krakovo
+ניישטאט אן דער אײש	Neustadt an der Aisch
+אנארכיע	Anarkio
+אראבישער האלבאינדזל	Arabio
+צוגאב	Adicio
+לעבנסשטייגער	Vivstilo
+מערידיאן	Meridiano
+באקס	Boksado
+א שפראך איז א דיאלעקט מיט אן ארמיי און א פלאט	Lingvo estas dialekto kun armeo kaj floto
+שאלקע 04	FC Schalke 04
+קעניגלעכע בארא פון קינגסטאן אויפן טעמז	Royal Borough of Kingston upon Thames
+דזשעניפער עניסטאן	Jennifer Aniston
+לוזשיץ	Luzacio
+ISBN	ISBN
+זיבן יעריגער קריג	Sepjara milito
+אויסטרא-אזיאטישע שפראכן	Aŭstralazia lingvaro
+טאסמאן ים	Tasmana Maro
+שווארצע טומאה	Bila Cerkva
+אקצענט	Dialekto
+לייב טראצקי	Lev Trockij
+ליטל ראק	Little Rock (Arkansaso)
+פאטענץ	Potenco (matematiko)
+קארדעמאן	Kardamomo
+מוזיי	Muzeo
+אלף בית	Hebrea alfabeto
+דאווער, דעלאווער	Dover (Delavaro)
+קאנאדא	Kannada lingvo
+קאשוביש	Kaŝuba lingvo
+בליץ	Fulmo
+האנט	Mano
+דו פו	Du Fu
+עדמונד הילארי	Edmund Hillary
+נעפאליש	Nepala lingvo
+באפעלקערונג	Loĝantaro
+ארכיפעלאג	Insularo
+טעאדער רוזעוועלט	Theodore Roosevelt
+טור דע פראנס	Tour de France
+תל אביב-יפו	Tel-Avivo
+טשעכאסלאוואקיי	Ĉeĥoslovakio
+ניס	Nico
+בלאט	Folio
+וואלפאראיסא	Valparaiso
+אקטיאר	Aktoro
+האליוואד	Holivudo
+מארלאן בראנדא	Marlon Brando
+גארטל ליניע (געאגראפיע)	Latitudo
+סעמיטישע שפראכן	Semida lingvaro
+טאגאלאג	Tagaloga lingvo
+יצחק רבין	Jicĥak Rabin
+אשכנזים	Aŝkenazo
+זשאסטין ביבער	Justin Bieber
+בראנדז	Bronzo
+כאסני מובאראק	Hosni Mubarak
+פארגא	Fargo (Norda Dakoto)
+וואכאקא	Oaxaca
+פוטער	Butero
+טעאלאגיע	Teologio
+זעאוס	Zeŭso
+יאסיר אראפאט	Jaser Arafat
+מוסד (אגענטור)	Mosado
+אקספארד	Oksfordo
+ניאגארא פאלס	Niagara Akvofalaro
+שטום לשון	Signolingvo
+לינוס טארוואלדס	Linus Torvalds
+לאנגווייליגקייט	Enuo
+BSD	BSD
+רוסלענדישע אימפעריע	Rusia Imperio
+אלעקסאנדער גרעהעם בעל	Alexander Graham Bell
+וואודרא ווילסאן	Woodrow Wilson
+דאקטאר הו	Doctor Who
+אסטראלאגיע	Astrologio
+טאסמאניע	Tasmanio
+ראטערדאם	Roterdamo
+שוואן	Cigno
+גלויבן	Kredo
+זייף	Sapo
+ניו ארלינס	Nov-Orleano
+מאשאווצע	Mošovce
+בענאזיר בוטא	Benazir Bhutto
+שאקירא	Shakira
+אוניווערסיטעט פון אקספארד	Universitato de Oksfordo
+טראקט	Vojo
+מאכמוד אכמעדיניזשאד	Mahmud Ahmadineĵad
+סידי	Kompakta disko
+היראהיטא	Hirohito
+העליקאפטער	Helikoptero
+אל קיידא	Al-Kaida
+ווידעא	Video
+אגאישער ים	Egea Maro
+געבורט	Nasko
+פינגער	Fingro
+אנאסטאסיע	Anastacia
+פרת	Eŭfrato
+זשיימס גארפילד	James A. Garfield
+קיאטא	Kioto
+עשרת הדיברות	La Dekalogo
+שול	Sinagogo
+ענגלישער קאנאל	Manika Markolo
+1980ער	1980-aj jaroj
+יאהאנעסבורג	Johanesburgo
+1990ער	1990-aj jaroj
+י. ק. ראלינג	J. K. Rowling
+פערסישער איינגאס	Persa Golfo
+רויז	Rozo
+אדיעקטיוו	Adjektivo
+זאלצבורג	Salzburg
+גריכישע מיטאלאגיע	Helena mitologio
+קאמפאס	Kompaso
+מין (ביאלאגיע)	Genro (biologio)
+סאציאל וויסנשאפט	Socia scienco
+האלבאינזל	Duoninsulo
+רענטגען שטראלן	Ikso-radioj
+יוליסעס סימפסאן גרענט	Ulysses S. Grant
+עליזעבעט טעילער	Elizabeth Taylor
+פראווינץ	Provinco
+בריזבן	Brisbano
+וויטאמין	Vitamino
+בענדזשאמין פרענקלין	Benjamin Franklin
+אייזיק אזימאוו	Isaac Asimov
+תורה	Leĝo de Moseo
+ים פון אזאוו	Azova Maro
+1970ער	1970-aj jaroj
+2000ער	2000-aj jaroj
+וויליאם מעקינלי	William McKinley
+קרויט	Blanka brasiko
+ליסטע פון פרעזידענטן פון די פאראייניגטע שטאטן	Listo de prezidantoj de Usono
+רשימה:הויפטשטעט	Listo de ĉefurboj
+סלאגאן	Proverbo
+וועבזייטל	TTT-ejo
+אדיסעע	Odiseado
+סטיווען גראווער קליוולאנד	Grover Cleveland
+שפיגל	Spegulo
+הערבערט קלארק האווער	Herbert C. Hoover
+מעטאפיזיק	Metafiziko
+ווארען הארדינג	Warren G. Harding
+אראבער	Araboj
+ברעד פיט	Brad Pitt
+שומער	Sumero
+ים פון מארמארא	Marmora Maro
+פאנעטיק	Fonetiko
+פאמיליע (ביאלאגיע)	Familio (biologio)
+פענסטער	Fenestro
+אלמאטיע	Almato
+טשעסטער עלען ארטור	Chester A. Arthur
+הייל	Kaverno
+לאס	Alko
+ווייסע הויז	Blanka Domo (Vaŝingtono)
+פאליציי	Polico
+האקיידא	Hokajdo
+חידקל	Tigriso
+ארטור קאנאן דויל	Arthur Conan Doyle
+אינגבער	Zingibro
+וויליאם האווארד טעפט	William H. Taft
+שטאטן פון די פאראייניגטע שטאטן	Usona ŝtato
+גלעטשער	Glaĉero
+פיטקארן	Pitkarna insularo
+בענזשעמין העריסאן	Benjamin Harrison
+ראטערפארד בי הייז	Rutherford B. Hayes
+1930ער	1930-aj jaroj
+1960ער	1960-aj jaroj
+1920ער	1920-aj jaroj
+פארלאמענט	Parlamento
+מאטריאל	Materio
+סאפארי	Safari (retumilo)
+על בייַדאַ	Al Bajda
+ברוך שפינאזא	Baruĥ Spinozo
+שלאף	Dormo
+אינפלאציע	Inflacio
+הומאר	Humuro
+אראל ים	Aralo
+קארינטיאנס	Corinthians
+עסטעטיק	Estetiko
+מאזדא	Mazda
+איזמיר	Izmiro
+זשאן קעלווין קולידזש	Calvin Coolidge
+לעמבערג	Lvivo
+ווערבע	Saliko
+דורכגאס פון גיבראלטאר	Ĝibraltara Markolo
+באדן	Grundo
+סכום (מאטעמאטיק)	Aro (matematiko)
+שרייבער	Verkisto
+לאדינא	Judhispana lingvo
+סענדיי ערדציטערניש	Tertremo de Sendajo en 2011
+פּארטא מאנט	Puerto Montt
+פראנאם	Pronomo
+וואצלאוו האוועל	Václav Havel
+וואקאל	Vokalo
+לענג	Longo
+בריזשיט בארדא	Brigitte Bardot
+ביאגראפיע	Biografio
+זיידן גאס	Silka Vojo
+1950ער	1950-aj jaroj
+חלום	Sonĝo
+לאזשבאן	Loĵbano
+אבערדין	Aberdeen
+מעל	Faruno
+קאניונקציע	Konjunkcio (gramatiko)
+אויוון	Forno
+1940ער	1940-aj jaroj
+1900ער	1900-aj jaroj
+1910ער	1910-aj jaroj
+דען האג	Hago
+טיכא בראהע	Tycho Brahe
+זנות	Prostituo
+וויזועלע קונסטן	Vidaj artoj
+הענריק איבסן	Henrik Ibsen
+זומער זייגער	Somera tempo
+מערב ברעג	Cisjordanio
+יוגאסלאוויע	Jugoslavio
+קריסטאל נאכט	Kristala nokto
+קאמפאזיטאר	Komponisto
+ריהאנא	Rihanna
+חזיר גריפע	Porka gripo
+נאגל (אנאטאמיע)	Ungo
+12 (נומער)	12 (nombro)
+וואלאפוק	Volapuko
+טאשירא מיפונע	Mifune Toshiro
+געזיכט	Vizaĝo
+רעקלאמע	Reklamo
+טאלאהאסי	Tallahassee (Florido)
+פאפ מוזיק	Pop-muziko
+נאגל (בויען)	Najlo
+טאם קרוז	Tom Cruise
+איילבירט	Olivarbo
+שלמה המלך	Salomono
+יאהו	Yahoo!
+30סטן פעברואר	30-a de februaro
+שטריך	Rekto
+פרעה	Faraono
+AK-47	AK-47
+מאריופאל	Mariupolo
+11 (נומער)	11 (nombro)
+13 (נומער)	13 (nombro)
+גרופע 8	G8
+אטאמקערן	Atomkerno
+אוואקאדא	Avokado
+איי.בי.עם.	IBM
+דייוויד היום	David Hume
+כוואליע	Ondo
+פיאדאר טיוטשעוו	Fjodor Tjutĉev
+דיאמעטער	Diametro
+לערער	Instruisto
+CIA	CIA
+שרייבן	Skribo
+קליוולאנד	Klevlando
+לובלין	Lublin
+דזשאן מייקל טאלבאט	John Michael Talbot
+קלאוס עבנער	Klaus Ebner
+סטאשקע	Ternukso
+100 (נומער)	100 (nombro)
+אפריקאס	Abrikotarbo
+זיכערהייטס ראט	Konsilio de Sekureco de Unuiĝintaj Nacioj
+יאנישער ים	Ionia Maro
+ברילן	Okulvitro
+פילעק	Plurlatero
+וואלענטינע טאג	Sankt-Valentena tago
+דוד בן גוריון	David Ben-Gurion
+סכעלדע	Skeldo
+מארק	Merkato
+דעמאגראפיע	Demografio
+כראמאזאם	Kromosomo
+געשמעלץ	Alojo
+בעזאנסאן	Besançon
+אהקלענד גראמאטישע שולע	Auckland Grammar School
+פרידזשידער	Fridujo
+מילוואקי	Milvokio
+דורכגאס	Markolo
+זיסע קארטאפל	Batato
+קאנסאנאנט	Konsonanto
+מאקדאנעלדס	McDonald's
+לואיס קאראל	Lewis Carroll
+ליאנארדא דיקאפריא	Leonardo DiCaprio
+פעלקער-ליגע	Ligo de Nacioj
+סאמוריי	Samurajo
+בריטישע אינזלען	Britaj Insuloj
+יאקאהאמע	Jokohamo
+1840ער	1840-aj jaroj
+הענרי דער אכטער פון ענגלאנד	Henriko la 8-a (Anglio)
+קאלאמביע, דרום קאראליינע	Columbia (Suda Karolino)
+מיליאן	Miliono
+סאו פאולא פוטבאל גרופע	São Paulo Futebol Clube
+14 (נומער)	14 (nombro)
+ארבוז	Akvomelono
+1880ער	1880-aj jaroj
+בוכטע פון בענגאל	Bengala Golfo
+15 (נומער)	15 (nombro)
+18 (נומער)	18 (nombro)
+ריכטער סקאלע	Skalo de Richter
+אוניווערסיטעט פון ביא-ביא	Universidad del Bío-Bío
+כאמאס	Hamas
+רוחאלא כומעיני	Ruhollah Ĥomejni
+לאזער	Lasero
+פרייסן	Prusio
+רוימישע צאל	Romiaj ciferoj
+בירגערמייסטער פון לאנדאן	Urbestro de Londono
+פיבער	Febro
+1890ער	1890-aj jaroj
+מענטשליכע אנטוויקלונג אינדעקס	Indico de homa disvolviĝo
+לידז	Leeds
+אפענער קאד	Malferma kodo
+בעהמען	Bohemio (lando)
+מויז	Muso (besto)
+אראנזש	Oranĝkolora
+סאטשי	Soĉi
+רונאלדיניו	Ronaldinho
+זיבנבערגן	Transilvanio
+1830ער	1830-aj jaroj
+סעמי טריילער	Traktoro
+אררט, ארמעניע	Ararato (urbo)
+גאמאל אבדול נאסער	Naser
+בלו טוט	Bludento
+ווערקצייג	Laborilo
+דרוק	Premo
+בענזין	Benzino
+בוכטע	Golfo
+צווינטער	Tombejo
+דאקטער (מעדיצין)	Kuracisto
+עיאפיאטלאיעקול	Eyjafjallajökull
+קדימה	Kadima
+באלטישע לענדער	Baltio
+עזה פאס	Gaza Sektoro
+זשעק ניקאלסאהן	Jack Nicholson
+אינסולין	Insulino
+מארקעטינג	Merkatiko
+טאל	Valo
+צענזוס	Popolnombrado
+איבן ראשד	Ibn-Ruŝd
+Radio Studio 54 Network	Radio Studio 54 Network
+1860ער	1860-aj jaroj
+1870ער	1870-aj jaroj
+19 (נומער)	19 (nombro)
+הויזן	Pantalono
+יארצענדלינג	Jardekoj
+מאנדל	Migdalujo
+פיער-אגוסט רענואר	Pierre-Auguste Renoir
+קאנסעפסיאן פראווינץ	Koncepciono (provinco)
+צער בעלי חיים	Torturado de bestoj
+קאמפיוטער פראגראם	Komputila programo
+ירדן טייך	Jordano
+פלאזשע	Strando
+17 (נומער)	17 (nombro)
+קאסמאסשיף	Kosmoveturilo
+וואלן	Voĉdono
+מאנאוס	Manaŭo
+מאראטאן	Maratono
+16 (נומער)	16 (nombro)
+צעל יאדער	Ĉelkerno
+טאפלונג	Multipliko
+צוואנציק	20 (nombro)
+אדוואקאט	Advokato
+טורמע	Malliberejo
+געוועב (ביאלאגיע)	Histo
+באפאלא	Bufalo
+AP	Associated Press
+רבקה	Rebeka (Biblio)
+לוט	Lot (Biblio)
+פאסיל	Fosilio
+טאקלאבאן	Tacloban
+Myspace	Myspace
+זשיטאמירער גובערניע	Ĵitomira provinco
+זשענאפער לאפעז	Jennifer Lopez
+די הונדערט ביכער פונעם יארהונדערט פון לע מאנד	La 100 libroj de la 20-a jarcento laŭ Le Monde
+אראפנעם	Subtraho
+כירורגיע	Kirurgio
+קאמעדיע	Komedio
+טענעריפע	Tenerifo
+דניעפער	Dnepro
+ווערנער הייזנבערג	Werner Heisenberg
+אורין	Urino
+1850ער	1850-aj jaroj
+וואלראס	Rosmaro
+כעזבאלא	Hizbulaho
+שטערן (קאפ)	Frunto
+תהילים	Psalmo
+אווענידא פאוליסטא	Avenuo Paulista
+אשור	Asirio
+ארבעטסלאזיקײט	Senlaboreco
+מעכאניק	Mekaniko
+באריס פאסטערנאק	Boris Pasternak
+בידגאש	Bydgoszcz
+קינא	Kinejo
+נאטינגהאם	Nottingham
+זשורנאל	Revuo
+הארן מעלאנע	Pikilhava kukumo
+אמעריקאנער פוסבאל	Usona piedpilkado
+גרייפפרוכט	Grapfrukto
+עסיג	Vinagro
+דוד המלך	Davido
+פעלקער מארד	Genocido
+טעלעטאביס	Teletubbies
+זופ	Supo
+איינגאס פון גינע	Gvinea Golfo
+אייז האקי	Glacihokeo
+קורדיסטאן	Kurdio
+מערידן	Hemoroido
+פאלמעסונג	Sekco (anatomio)
+געריכט	Tribunalo (juro)
+ספר ויקרא	Levidoj
+אוראלטע היסטאריע	Antikva epoko
+ווארצל	Radiko (planto)
+קראכמל	Amelo
+ארגאניזאציע פאר עקאנאמישע קאאפעראציע און אנטוויקלונג	Organizaĵo pri Ekonomiaj Kunlaboro kaj Evoluigo
+זשוליא גילארד	Julia Gillard
+האמלעט	Hamleto
+דויד הילבערט	David Hilbert
+שירעם	Ombrelo
+חיפה	Ĥajfo
+ווארשע פאקט	Varsovia Traktato
+ראמאדאן	Ramadano
+עטנישע גרופע	Etno
+אירישער ים	Irlanda Maro
+יאזעף געבעלס	Joseph Goebbels
+גראם (מאס)	Gramo
+באר שבע	Be'er Ŝeba
+צעלעם	Deutschkreutz
+טאלקאוואנא	Talcahuano
+אויבערשאפט	Suvereneco
+אנוואר סאדאט	Anvar Sadat
+בירגערשאפט	Civito
+תחת	Pugo
+וויצע פרעזידענט	Vicprezidanto
+מעכאנישע ארבעט	Laboro (fiziko)
+פארשונג	Scienca esplorado
+URL	URL
+אבזערוואציע פונעם טאל	Videjo de Valo
+גוגל ערד	Google Earth
+פארענהייט	Grado farenhejta
+כארקעוו	Ĥarkovo
+סעבאסטיאן פעטל	Sebastian Vettel
+40 (נומער)	40 (nombro)
+וואל	Lano
+PDF	Portebla dokumentformo
+קאנוס	Konuso
+USB	Universala Seria Buso
+קאקאא בוים	Theobroma cacao
+ציוניזם	Cionismo
+ווייסע בלוט צעל	Leŭkocito
+טאליבאן	Talibano
+שעפילד	Sheffield
+יארק	York
+קעטי פערי	Katy Perry
+עלנבויגן	Kubuto
+MP3	MP3
+ספר דברים	Readmono
+בארד	Barbo
+30 (נומער)	30 (nombro)
+דאטן	Datumo
+נביא	Profeto
+פארמיטל	Vehiklo
+מוטאציע	Mutacio
+טרויאנישער קריג	Troja milito
+בוימל	Oleo
+ארכיטעקט	Arkitekturistoj
+איוואן פאוולאוו	Ivan Pavlov
+טאפאלאגיע	Topologio
+גאלדע מאיר	Golda Meir
+ארקעסטער	Orkestro
+טאטואירונג	Tatuo
+פינאנץ	Financoj
+1000 (נומער)	1000 (nombro)
+SMS	Servo de mallongaj mesaĝoj
+דזשארדזש בוש	George Bush
+ניוראן	Neŭrono
+טרוקעניש	Trosekeco
+היינריך הימלער	Heinrich Himmler
+שווארצער פעפער	Nigra pipro
+ספר במדבר	Nombroj
+רעפערענדום	Referendumo
+אייקידא	Aikido
+הילף:מערסטע געפרעגטע פראגעס	Helpo:Oftaj demandoj
+סארא פעלין	Sarah Palin
+גאַניידן הייל	Kaverno Thien Duong
+פארזיכערונג	Asekuro
+לאסט אויטא	Kamiono
+דעלטע	Riverdelto
+בייסעקסואלוטעט	Ambaŭseksemo
+בורגנלאנד	Burgenlando
+ארגאניזאציע	Organizaĵo
+גראז	Poacoj
+געשטאפא	Gestapo
+פאלינאם	Polinomo
+מעהרן	Moravio
+תלמוד	Talmudo
+סולטאן	Sultano
+מיכאיל סאקשווילי	Miĥeil Saakaŝvili
+סי בי עס	Columbia Broadcasting System
+טשאנדיגאר	Ĉandigaro
+פערל	Perlo (globeto)
+נקיבה	Ina sekso
+פילזען	Plzeň
+ארעם	Brako
+אנגקאר וואט	Angkor Ŭat
+דארבי	Derby
+נאטירלעכע סעלעקציע	Natura selektado
+זאא-גארטן	Bestoĝardeno
+אקעאנאגראפיע	Oceanografio
+קריסטאל	Kristalo
+מאקאס	Mac OS
+ליידן	Leiden
+מאנאפאל	Monopolo
+קיווי	Kivio
+אפאלא 11	Apollo 11
+שטרימפ	Ŝtrumpeto
+בנימין נתניהו	Benjamin Netanjahu
+אאזיס	Oazo
+ברעם	Brovo
+פופיק	Umbiliko
+פאס	Pasporto
+סוחר	Entreprenisto
+יעקב בן זבדי	Jakobo la pli aĝa
+בנימין זאב הערצל	Theodor Herzl
+לא פלאטא	La Plata
+פלוים	Pruno (frukto)
+דינער (קאמפיוטער)	Servilo
+זכר	Vira sekso
+מאטאר	Motoro
+קארדאבע, ארגענטינע	Kordobo (Argentino)
+ליקוי לבנה	Luna eklipso
+פארד מאטאר	Ford Motor Company
+דזשים מאריסאן	Jim Morrison
+סאלמאן ראשדי	Salman Rushdie
+באשער על אסאד	Baŝar al-Asad
+לעגענדע	Legendo
+דריווש דער ערשטער	Dario la 1-a
+כעמישער בונד	Kemia ligo
+היץ	Varmo
+קטניות	Fabacoj
+שפיל טעאריע	Ludoteorio
+ריטשארד דאקינס	Richard Dawkins
+עפידעמיע	Epidemio
+וועקטאר	Vektoro
+GNU	GNU
+טיטאניק (פילם)	Titanic (1997)
+קאניבאליזם	Kanibalismo
+שרעק	Timo
+אורי געלער	Uri Geller
+עס עס	SS (organizaĵo)
+די סטאר ספענגלד בענער	The Star-Spangled Banner
+יידישער לוח	Hebrea kalendaro
+בערינג ים	Beringa Maro
+אומזיכערקייט פרינציפ	Necerteca principo de Heisenberg
+פארט	Haveno
+סודאקו	Sudoko
+פונקט (געאמעטריע)	Punkto (matematiko)
+אקספארד ענגליש ווערטערבוך	Oxford English Dictionary
+מאטראס	Maristo
+עלבע	Elbo (insulo)
+מזרח כינע ים	Orientĉina Maro
+The Doors	The Doors
+איבערקערעניש	Puĉo
+הייוון	Gisto
+RSS	RSS
+האקנקרייץ	Svastiko
+מיסט	Rubo
+פעטש	Pécs
+אקוואריום	Akvario
+דונקערק	Dunkerque
+בארענטס ים	Barenca Maro
+א ליד פון אייז און פייער	A Song of Ice and Fire
+פייל	Sago
+מיסטיק	Mistikismo
+פעליקס מענדלסאן	Felix Mendelssohn Bartholdy
+קינעטישע ענערגיע	Kineta energio
+טראפעז	Trapezo
+שרייבמאשין	Tajpilo
+מיקראפאן	Mikrofono
+שאץ	Suceava
+פוליצער פרייז	Premio Pulitzer
+פידזשי הינדי	Fiĝa hinda lingvo
+דארפור	Darfuro
+ראאול קאסטרא	Raúl Castro
+ישראל מוזיי	Muzeo de Israelo
+בארג קייט	Montara sistemo
+יאס	Iași
+לופטליניע	Flugkompanio
+באק	Vango
+רוביקס קוב	Kubo de Rubik
+ברוין	Bruna
+פארגעוואלדיגונג	Seksatenco
+ענריקע איגלעסיאס	Enrique Iglesias
+קו קלוקס קלען	Ku-Kluks-Klano
+שעטלאנד	Ŝetlandaj Insuloj
+ווארען באפעט	Warren Buffett
+קאנדאליזא רייס	Condoleezza Rice
+געבורטס טאג	Naskiĝtago
+ווארעם	Vermo
+ייחוס	Genealogio
+מילטאן פרידמאן	Milton Friedman
+עזה	Gaza-urbo
+קאמפיילער	Tradukilo
+נארוועגישער ים	Norvega maro
+אייזבארג	Glacimonto
+MS-DOS	MS-DOS
+אמעריגא וועספוטשי	Amerigo Vespucci
+ספר יהושע	Josuo (libro)
+דער גאדפאטער	The Godfather
+מענטא	Mento
+פאריס הילטאן	Paris Hilton
+מאריא מאנטי	Mario Monti
+הערמאן גערינג	Hermann Göring
+לונגען קענסער	Pulma kancero
+צירקוס	Cirkartoj
+אידענטיטעט קארטע	Identiga karto
+מוסטער:Commonscat	Ŝablono:Commonscat
+טוירק	Torda momanto
+סטעם צעל	Praĉelo
+אויגן לאד	Palpebro
+23 (נומער)	23 (nombro)
+מיין קאמף	Mein Kampf
+דניפראפעטראווסק	Dnipropetrovsko
+דיק טשעיני	Dick Cheney
+מין (אידענטיטעט)	Socia sekso
+סטודענט	Studanto
+תפילין	Tefilino
+פאראבעל	Parabolo (matematiko)
+מוסר	Moralo
+CNN	CNN
+אימפעריע	Imperio
+מלכות יהודה	Regno de Jehuda
+באבי יאר	Babij Jar
+קאסמאס שאטל	Kosmopramo
+ליינוס פאלינג	Linus Pauling
+פרימצאל	Primo
+ניי מאשין	Kudromaŝino
+זעקסטאגיקע מלחמה	Sestaga milito
+קריסטאפער היטשענס	Christopher Hitchens
+קורצע דערציילונג	Novelo
+שמעון וויזנטאל	Simon Wiesenthal
+קאלומביע אוניווערסיטעט	Universitato Kolumbio
+יום כיפור מלחמה	Milito de Jom Kippur
+סיני מלחמה	Sueza krizo
+צווייטע לבנונישע מלחמה	Israela-Libana konflikto de 2006
+מאסאטשוסעטס אינסטיטוט פון טעכנאלאגיע	Masaĉuseca Instituto de Teknologio
+קעמברידזש, מאסאטשוסעטס	Kembriĝo (Masaĉuseco)
+אמהערסט, מאסאטשוסעטס	Amherst (Masaĉuseco)
+רינא	Reno (Nevado)
+אנאהיים, קאליפארניע	Anaheim
+טוריזם	Turismo
+מאסן פארניכטונג וואפן	Armilo de amasa detruo
+די אינטערנאציאנאלע זינגליד	La Internacio (himno)
+חתונה	Nupto
+פאסט	Poŝto
+וואסאבי	Vasabio
+אנקעטע	Demoskopio
+איטאליענער	Italoj
+פרעפעקטורן פון יאפאן	Gubernioj de Japanio
+היסטאריע פון קונסט	Historio de arto
+קוואדראטצאל	Kvadrata nombro
+צוזאמענגעזעצטע צאל	Komponita nombro
+פראנץ יאזעף	Francisko Jozefo la 1-a (Aŭstrio)
+שטאלץ פאראד	Geja Fiero
+ראמאן פאלאנסקי	Roman Polański
+פּונטא ארענאס	Punta Arenas
+סיבילאנט	Siblanto
+אנאטאליע	Anatolio
+שבטי ישראל	Izraelidoj
+שיר השירים	Alta Kanto de Salomono
+הורדוס	Herodo la Granda
+ספר מלאכי	Libro de Malaĥi
+אהרן הכהן	Aaron
+גוגל שמועס	Google Talk
+צושימע אינדזל	Cuŝima
+קלימאטאלאגיע	Klimatscienco
+קאלאמיי	Kolomeo
+קאליש	Kalisz
+אייראפעישע עקאנאמישע געמיינדע	Eŭropa Ekonomia Komunumo
+ליסא	Leszno
+פעדעראלע רעזערוו	Federacia Rezerva Sistemo (Usono)
+זשאבע	Anuro
+רופערט מורדאק	Rupert Murdoch
+קאַטעגאָריע:מלכים	Kategorio:Reĝoj
+קאַטעגאָריע:מאנארכן	Kategorio:Monarkoj
+קאַטעגאָריע:רעגירונג מעטאדן	Kategorio:Reĝimoj
+קאַטעגאָריע:רעגירונג	Kategorio:Registaroj
+קאַטעגאָריע:ליבע	Kategorio:Amo
+קאַטעגאָריע:וואיעוואדעשאפטן פון פוילן	Kategorio:Provincoj de Pollando
+קליינפוילישע וואיעוואדעשאפט	Malgrandpollanda Provinco
+מאזאוויער וואיעוואדעשאפט	Mazovia Provinco
+אונטערקארפאטישע וואיעוואדעשאפט	Ĉekarpata Provinco
+גרויספוילישע וואיעוואדעשאפט	Grandpollanda Provinco
+ווארט פראצעסאר	Tekstoprilaborilo
+קאַטעגאָריע:פילמען	Kategorio:Filmo
+וואקזאל	Fervoja stacidomo
+מוסטער:היסטאריע פון לענדער אין אייראפע	Ŝablono:Historio de Eŭropo
+װיקיפּעדיע:וויקיפעדיע אין די מעדיע	Vikipedio:Gazetaro
+בראנפן	Brando
+זשארזש ביזע	Georges Bizet
+בליצקריג	Fulmomilito
+שוויצבאד	Saŭno
+דניאל פארענהייט	Gabriel Daniel Fahrenheit
+אלפרעד יאדל	Alfred Jodl
+אבדאללא, קעניג פון סאודי	Abdulah bin Abdul-Aziz Al Saud
+דזשאלאל טאלאבאני	Ĝalal Talabani
+אסיף אלי זארדארי	Asif Ali Zardari
+נוייען מין טריעט	Nguyễn Minh Triết
+טרואנג טאן סאנג	Truong Tan Sang
+שמעון פרס	Ŝimon Peres
+וואצלאוו קלאוס	Václav Klaus
+אבדאללא דער צווייטער	Abdullah la 2-a (Jordanio)
+איסלאם קארימאװ	Islom Karimov
+EBay	EBay
+אביגדור ליבערמאן	Avigdor Lieberman
+טראנס-סיבירישע באן	Transsiberia fervojo
+סיסטעם	Sistemo
+דענקער	Intelektulo
+אסקאר שינדלער	Oskar Schindler
+ריינהארד היידריך	Reinhard Heydrich
+אריאל שרון	Ariel Ŝaron
+זינד	Peko
+קאפעין	Kafeino
+אשקלון	Aŝkelon
+וואסילי קאנדינסקי	Vasilij Kandinskij
+רייזע	Vojaĝo
+טורעם פון לאנדאן	Turo de Londono
+אבסערוואטאריע	Observatorio
+מערי מעגדעלין	Maria Magdala
+מארקס די ברידער	Fratoj Marx
+טעארעם	Teoremo
+כאליף	Kalifo
+אליהו בחור	Elija Levita
+בראכטייל	Frakcio (matematiko)
+סענאט	Usona Senato
+קורס (פינאנץ)	Kurzo
+צענטראלבאנק	Centra banko
+סיטען	Siono
+באקסער	Karobarbo
+מאנטרע	Montreux VD
+סאס-פע	Saas-Fee
+ווישי רעגירונג	Reĝimo de Vichy
+אדם הראשון	Adamo (Biblio)
+טעטריס	Tetriso
+ברעכונג	Refrakto
+דעלפי	Delfo
+פלאטא	Altebenaĵo
+יצחק באשעוויס זינגער	Isaac Bashevis Singer
+פיער דע פערמא	Pierre de Fermat
+מעקינטאש	Makintoŝo
+קארטעקס	Kortekso
+רודאלף העס	Rudolf Hess
+טרערן	Larmo
+העמד	Ĉemizo
+סאפי שאל	Sophie Scholl
+רודאלף פראנץ העס	Rudolf Höß
+וולאדימיר קעפן	Wladimir Köppen
+יירגן שטרופ	Jürgen Stroop
+משה מענדלסאן	Moses Mendelssohn
+טאמאס מאסאריק	Tomáš Garrigue Masaryk
+גאס	Strato
+פוילבוים	Ramno
+כעמישע סובסטאנץ	Kemiaĵo
+ליכט (לעמפל)	Kandelo
+אליגאראכיע	Oligarkio
+פריינט (סעריע)	Friends
+מאזלען	Morbilo
+צארן	Kolero
+רעגירונגס מאכט אבטייל	Disigo de povoj
+װיקיפּעדיע:פעסטשטעלן	Vikipedio:Kontrolebleco
+Ethernet	Eterreto
+25 (נומער)	25 (nombro)
+24 (נומער)	24 (nombro)
+60 (נומער)	60 (nombro)
+אוראנוס (אפגאט)	Urano (dio)
+קאנטראבאס	Kontrabaso
+דענענבורג	Daugavpils
+מגילת רות	Libro de Rut
+טשעק	Ĉeko
+פריזן ברייק	Prison Break
+טאבריז	Tabrizo
+גייסט וויסנשאפט	Homa scienco
+נירנבערג פראצעס	Nurenbergaj procesoj
+פאקער	Pokero
+קאפעליטש	Ĉapelo
+דענדראכראנאלאגיע	Dendrokronologio
+פלאש	Botelo
+טאמארינד	Tamarindo (arbo)
+ענגלישער בירגערקריג	Angla enlanda milito
+עדווארד גריג	Edvard Grieg
+עקסעס	Microsoft Access
+קא גע בע	KGB
+טראגעדיע	Tragedio
+זשאן טראוואלטע	John Travolta
+1 אין אפריל	Ŝercotago
+קייט בלאנשט	Cate Blanchett
+ארטאדאקסישע יידנטום	Ortodoksa Judismo
+פרישטיק	Matenmanĝo
+ווייכווארג אינזשעניריע	Programara inĝenierarto
+ערוואקסענער	Plenkreskeco
+פייער מויער	Fajroŝirmilo
+האמעאפאטיע	Homeopatio
+אינזשעניר	Inĝeniero
+קארפ	Karpo
+געלט אויטאמאט	Bankaŭtomato
+ספר שופטים	Juĝistoj (libro)
+דעצימאל	Dekuma sistemo
+נאהיט	Kikero
+TCP/IP	TCP-IP
+נח	Noa
+ציטרוס פרוכט	Citruso
+סעגעד	Szeged
+מעלאן	Melono (frukto)
+אילת איינגאס	Akaba Golfo
+שלעזיע	Silezio
+גלעזל	Glaso
+כישוף	Magio
+פאסט פוד	Rapidmanĝejo
+שלייערל	Raŭpo
+ווייטאג	Doloro
+באשטעק	Manĝilo
+VoIP	Interreta telefono
+GM	General Motors
+צור	Tiro (urbo)
+טעמוקא	Temuco
+באדליען ביבליאטעק	Librejo Bodleian
+ליניארע אלגעברע	Lineara algebro
+דעזיין	Fasonado
+בלוט דרוק	Sangopremo
+איראן-איראק מלחמה	Iraka-irana milito
+גאמבע	Mentono
+איניעס	Eneo
+קאמפיוטער טעקע	Dosiero
+פליניוס דער עלטערער	Plinio la Maljuna
+ראיאן	Regiono (geografio)
+נאמען	Nomo
+העקסאדעצימאל סיסטעם	Deksesuma sistemo
+היסטאריע פון כינע	Historio de Ĉinio
+ציפער	Cifero
+נעווראלאגיע	Neŭrologio
+אפעראציע בארבאראסע	Operaco Barbaroso
+ספעם	Spamo
+סאול בעלאו	Saul Bellow
+לעסטער	Leicester
+טורעם בריק	Tura ponto
+מושקאט נוס	Muskato
+ראמעא און יוליא	Romeo kaj Julieta
+רמת הגולן	Golanaj Altaĵoj
+טכויר	Mefito
+26 (נומער)	26 (nombro)
+פארברעכן	Krimo
+סעלינע גאמעז	Selena Gomez
+דונער	Tondro
+יאהאן שטראוס דער זון	Johann Strauß (filo)
+מאסול	Mosulo
+וועגעטאריאניזם	Vegetarismo
+תנ"ך	Tanaĥo
+Windows 95	Windows 95
+העראען (טעלעוויזיע סעריע)	Heroes
+איידלשטיין	Gemo
+קאנטערי	Kontreo
+גענעראל	Generalo
+דזשודאס פריסט	Judas Priest
+גרופע (מאטעמאטיק)	Grupo (algebro)
+סוזאן בויל	Susan Boyle
+אינטעליגענץ	Intelekto
+סאוואנאה	Savannah
+שלמה לוריא	Salomon Luria
+מארטין בובער	Martin Buber
+דזשעף האקינס	Jeff Hawkins
+שמן־זית	Oliv-oleo
+אהוד אלמערט	Ehud Olmert
+צייכענען	Desegnaĵo
+גט	Eksgeedziĝo
+דאקומענטארער פילם	Dokumenta filmo
+איסטמאס	Istmo
+מארק שאגאל	Marc Chagall
+לאקאמאטיוו	Lokomotivo
+קאדעקס כאמוראבי	Kodekso de Hamurabi
+קשאנאוו	Chrzanów
+ווישי	Vichy
+גרויסווארדיין	Oradea
+אינטערסטעיט הייוועי סיסטעם	Interŝtata Ŝosea Sistemo
+מיליאו וויאדוקט	Viadukto de Millau
+קלויזנבורג	Kluĵo
+פונט	Funto
+דעפיניציע	Difino
+יאסוא פוקודא	Fukuda Yasuo
+ראשי תיבות	Akronimo
+פלי מאנשאפט	Stevardo
+אומקרויט	Trudherbo
+יאאכים פאן ריבענטראפ	Joachim von Ribbentrop
+אנצינדונג	Inflamo
+נאוויגאציע	Navigado
+וויטעבסק	Vicebsko
+קעלץ	Kielce
+פוסיקאט דאלז	Pussycat Dolls
+שבת	Ŝabato
+כעמישער סימבאל	Kemia simbolo
+קאמפאניע (מיליטעריש)	Roto
+קלענסטע געמיינזאמע טאפלונג	Plej malgranda komuna oblo
+קורץ ווארט	Mallongigo
+ארץ	Erco
+ספרונזשינע	Risorto
+האניג בין	Mielabelo
+דריווש דער דריטער	Dario la 3-a
+ארטיקל (גראמאטיק)	Artikolo (gramatiko)
+בהמה	Bruto (agrikulturo)
+ליסטע פון שטעט און שטעטלעך אין פוילן	Listo de urboj de Pollando
+ארץ יהודה	Judeo
+אמיש	Amiŝismo
+ליולקע	Pipo
+פלאצק	Płock
+ראדעם	Radom
+היפאטענוז	Hipotenuzo
+בוקאווינא	Bukovino
+נארגילע	Nargileo
+שייטל	Peruko
+שאנק	Ŝranko
+טארנע	Tarnów
+לאנדשאפט	Pejzaĝo
+הלכה	Halaĥo
+טשייניק	Bolkruĉo
+שת	Set
+פייער לעשער	Fajroestingisto
+איראק מלחמה	Invado de Irako 2003
+מעדיטאציע	Meditado
+דימינוטיוו	Diminutivo
+בערגאמאט	Bergamotujo
+עופרה חזה	Ofra Haza
+ארטיקל	Artikolo
+אינזל לאנד	Landinsulo
+חסידי אומות העולם	Justuloj inter la popoloj
+היסטאריע פונעם פאראייניגטן קעניגרייך	Historio de Unuiĝinta Reĝlando
+מינאריטעט רעגירונג	Minoritata registaro
+Dreaming of You	Dreaming of You
+איהעל	Sátoraljaújhely
+מיקלאש הארטי	Miklós Horthy
+אמעדעא מאדיליאני	Amedeo Modigliani
+NSA	National Security Agency
+סאציאל דעמאקראטיע	Socialdemokratio
+אינפראסטרוקטור	Substrukturo
+פסח	Pesaĥo
+פראפעסאר	Profesoro
+קארמען מיראנדא	Carmen Miranda
+רעפערענץ	Referenco
+פראנצויזן	Francoj
+אמבאסאדאר	Ambasadoro
+היסטאריע פון דייטשלאנד	Historio de Germanio
+געבורט קאנטראל	Kontraŭkoncipilo
+דניאל בערנולי	Daniel Bernoulli
+יאקאב בערנולי	Jakob Bernoulli
+אטיקע	Atiko
+נומערן סיסטעם	Cifereca sistemo
+בלאזשאוו	Błażowa
+שוועדישע קראנע	Sveda krono
+קבלה	Kabalo
+גאלדפיש	Orfiŝo (fiŝo)
+לאנד איינגעשלאסן	Lando sen maraliro
+געגנט	Kvartalo
+ביקס	Fusilo
+אייזערנעם פארהאנג	Fera Kurteno
+געארגי זשוקאוו	Georgij Konstantinoviĉ Ĵukov
+קוואל וואסער	Akvofonto
+ראיאטן	Tumulto
+טעם	Gusto
+ברוקלין בריק	Broklina Ponto
+זעג	Segilo
+שאקאל	Ŝakalo
+ווארראזאנאו נערויס בריק	Ponto Verrazano-Narrows
+אהוד ברק	Ehud Barak
+ווייטקייט	Distanco
+עכו	Akko
+ביבל לענדער מוזיי	Biblilanda Muzeo
+וואלווערהאמפטאן	Wolverhampton
+נח'ס תיבה	Arkeo de Noa
+יהושפט	Jehoŝafat
+קליינהאנדל	Podetala komerco
+קינדערגארטן	Infanĝardeno
+ים כנרת	Maro Kineret
+ענדגילטיקע לייזונג	Fina solvo
+פערל הארבער	Pearl Harbor
+באמבע	Bombo
+רמב"ם	Maimonido
+טינט	Inko
+פרא באנא	Pro bono
+גילוי עריות	Incesto
+קאטאראקט	Katarakto
+פינפעק	Kvinlatero
+פייער ווארקס	Artfajraĵo
+מיקראכוואליע	Mikroondoj
+מאכמוד אבאס	Maĥmud Abbas
+טאפיר	Tapiro
+קאפיטע	Hufo
+דינאמיק	Dinamiko
+עלעקטראנישער בוך	Bitlibro
+יאנקערס, ניו יארק	Yonkers
+קינגסטאן אויף האל	Kingston upon Hull
+ישראלדיקע פאן	Flago de Israelo
+פאל מארטין	Paul Martin
+זשאן קרעטיען	Jean Chrétien
+קים קעמפבעל	Kim Campbell
+ברייען מאלראני	Brian Mulroney
+דזשאן טורנער	John Turner
+ביאאינפארמאטיק	Biokomputiko
+דזשאו קלארק	Joe Clark
+גלגול	Reenkarniĝo
+דזשאן דיפענבעיקער	John Diefenbaker
+ריטשארד בעדפארד בענעט	R.B. Bennett
+ארטור מעגען	Arthur Meighen
+טשארלס טאפער	Charles Tupper
+דזשאן אלעקסאנדער מאקדאנאלד	John A. Macdonald
+ריקי מארטין	Ricky Martin
+קלעמענט אטלי	Clement Attlee
+טשערנאבל	Ĉernobilo
+פולקע	Femuro
+מאקבעט	Makbeto
+קרעאציאניזם	Kreismo
+אלאניס מאריסעט	Alanis Morissette
+ריבענטראפ מאלאטאוו אפמאך	Pakto Ribbentrop-Molotov
+וויליאם דער פערטער	Vilhelmo la 4-a (Britio)
+דידזשיי	Diskĵokeo
+התקווה	Hatikva
+מנחם בעגין	Menaĥem Begin
+רויטערס	Reuters
+חנוכה	Ĥanuka
+עדיפוס	Edipo
+קאלערי	Kalorio
+הארון אל-ראשיד	Harun ar-Raŝid
+ראש השנה	Roŝ Haŝana
+מגילת אסתר	Libro de Ester
+קהלת	Kohelet
+ליסטע פון שטעט אין די פאראייניגטע שטאטן לויט באפעלקערונג	Listo de urboj de Usono
+נאמינאטיוו	Nominativo
+לופט פארפעסטיקונג	Aera poluado
+בראונאו אם אין	Braunau am Inn
+וויץ	Ŝerco
+קאבאל	COBOL
+שווייסן	Veldado
+נעסטער	Dnestro
+לינזן	Lento
+װיקיפּעדיע:קוואלן פאר ביכער	Vikipedio:Libroservoj
+ניי שקל	Nova israela siklo
+היץ פאמפע	Varmopumpilo
+ארון הברית	Kesto de Interligo
+מיסוראטאה	Misrata
+זשענעט זשעקסאן	Janet Jackson
+באם	Senhejmeco
+פראפעסיאנעלע ראנגלען	Vrestlingo
+אינטערנאציאנאלע דאטע ליניע	Internacia datlinio
+כאליפאט	Kalifujo
+ווורשט	Kolbaso
+קאמעמבערט	Kamemberto
+פארמער	Terkultivisto
+אפמאך	Traktato
+ספר ירמיהו	Libro de Jeremia
+שטאַל	Bieno
+מעראן	Merano
+ספר עזרא	Libro de Ezra
+רעזערוואואר	Baraĵlago
+האנטוך	Sekigtuko
+פלוטאקראטיע	Plutokratio
+ספר טוביה	Libro de Tobit
+פארפום	Parfumo
+גרעסטער געמיינזאמער טיילער	Plej granda komuna divizoro
+אידעע	Ideo
+גומע	Gumo
+פאנטאזיע	Fantasto
+שינזא אבע	Abe Shinzo
+פערמא'ס לעצטער טעארעם	Lasta teoremo de Fermat
+Grand Theft Auto (סעריע גאמעס)	Grand Theft Auto (serio)
+אדמיראל	Admiralo
+גרינלענדישער ים	Gronlanda Maro
+וויאטשעסלאוו מאלאטאוו	Vjaĉeslav Molotov
+ליפט	Lifto
+יום כיפור	Jom Kippur
+מאזשיארן	Hungaroj
+שמואל יוסף עגנון	Samuel Josef Agnon
+בראך	Hernio
+פארהאנדלונג באציאונגען	Publikaj rilatoj
+באקסהארן	Fenugreko
+מוסלעם ברידערשאפט	Islama Frataro
+קאסינא	Kazino
+רוקן	Dorso
+שבט (געזעלשאפט)	Tribo
+גרענעץ	Landlimo
+כנסת	Kneset
+טאל פון די מלכים	Valo de la Reĝoj
+שטאטס שטאַט	Urboŝtato
+רב	Rabeno
+בריוו	Letero
+לערנען	Lerno
+אליהו הנביא	Elija
+נארמאלע פארטיילונג	Normala distribuo
+ערשטע הילף	Sukuro
+ערעקשאן	Erektiĝo
+כינעזישער קאלענדאר	Ĉina kalendaro
+מבול וואסער	Tutmonda diluvo
+ציינבערשטל	Dentobroso
+זשאנאס ברידער	Jonas Brothers
+קוואדראט ווארצל	Kvadrata radiko
+פרעפאזיציע	Adpozicio
+טייס	Tiso
+יוסיפון	Jozefo Flavio
+בלעק אייד פיס	The Black Eyed Peas
+סינגל	Unuopaĵo
+פאסיק	Zono (vestaĵo)
+ארטישאק	Artiŝoko
+עקסעטער	Exeter
+קאמיל פיסארא	Camille Pissarro
+אילת	Ejlato
+קאקטייל	Koktelo
+כותל	Muro de lamentadoj
+פרעפיקס	Prefikso
+אפמאך פון ווערדון	Traktato de Verdun
+שאמפאניע	Ĉampano
+ביבליאגראפיע	Bibliografio
+אטלאנטיק סיטי	Atlantic city
+בריסק	Bresto (Belorusio)
+גראף (מאטעמאטיק)	Grafeo
+אראבישע לענדער	Araba mondo
+קארלא ברוני	Carla Bruni
+דאטיוו	Dativo
+יוסף	Jozef (filo de Jakob)
+אקוזאטיוו	Akuzativo
+מונקאטש	Mukaĉeve
+חוסט	Ĥust
+ארשעווע	Irŝava
+בערעגסאז	Berehove
+טעטש	Taĉiv
+סוואליאווע	Svaljava
+לינדז	Kristalino
+מאנאך	Monaĥismo
+ברונא שולץ	Bruno Schulz
+וויזשניץ (שטעטל)	Viĵnica
+קוילקרייז	Malgranda cirklo
+קאסעטע	Sonkasedo
+אתרוג	Cedrato
+דזשארדזש קארלין	George Carlin
+ספינקס	Sfinkso (greka mitologio)
+װיקיפּעדיע:וויאזוי צו רעדאקטירן א בלאט	Helpo:Redakti
+ציפי ליבני	Cipi Livni
+באגריף	Koncepto
+טבריה	Tiberiado
+אירענא סענדלער	Irena Sendlerowa
+בוריק	Sukerbeto
+גלח	Pastoro
+טרעבלינקע	Treblinka (koncentrejo)
+געטא	Geto
+בערנארד מאנטגאמערי	Bernard Montgomery
+יאן אנטאנעסקו	Ion Antonescu
+באיער	Bayer
+BP	BP (firmao)
+באנקראטירונג	Bankroto
+אש	Cindro
+קאנצענטראציע לאגער	Koncentrejo
+וואנע	Banujo
+שווארצער סעפטעמבער	Nigra septembro
+סטריפיז	Striptizo
+עדווארד בענעש	Edvard Beneš
+שאנדע	Honto
+אראם כאטשאטוריאן	Aram Ĥaĉaturjan
+איסאראקו יאמאמאטא	Yamamoto Isoroku
+יאנוש קורטשאק	Janusz Korczak
+ערד, ישראל	Arad (Israelo)
+קרית אונו	Kirjat Ono
+מאנטל	Jako
+פרייע פראנקרייך	Libera Francio
+צומי	Suĉilo
+סאביבאר	Sobibor (koncentrejo)
+לוזשע	Flako
+ראטנבורג	Rothenburg ob der Tauber
+לחיים	Tosto
+מאגל	Muggle
+גארנישט	Nenio
+פראנסוא אראגא	François Arago
+ווארשעווער געטא	Varsovia geto
+ישיבה	Jeŝivo
+קארל מאריע פאן וועבער	Carl Maria von Weber
+ארץ ישראל	Izraela Lando
+איגאר טאם	Igor Tamm
+פארמעזאן	Parma fromaĝo
+שפייעכץ	Salivo
+בן סירא	Siraĥ
+אייראסטאר	Eurostar
+עקסאן-מאביל	ExxonMobil
+מתושלח	Metuŝelaĥ
+עטיאלאגיע	Etiologio
+קעלטער	Vinkelo
+יד ושם	Jad Vaŝem
+אונגוואר	Uĵhorodo
+זשיטאמיר	Ĵitomir
+ראוונע	Rivno
+פאלטאווע	Poltavo
+יהודי מענוחין	Yehudi Menuhin
+מאנמעטה	Monmouth (Kimrio)
+סאמועל האנעמאן	Samuel Hahnemann
+קאסאוו	Kosiv
+באריסלאוו	Borislav
+פאנטאנאל	Pantanalo
+טשערנאוויץ	Ĉernivco
+מעלות	Virto
+זאפאראזשיע	Zaporiĵo
+פירסינג	Korpa traborado
+פיעטרקאוו	Piotrków Trybunalski
+ראמאללא	Ramalaho
+דיאספער	Kakinoko
+פייסעליס	Fizalido
+ראדאמסק	Radomsko
+פאפירוס	Papiruscipero
+מייק הוקאבי	Mike Huckabee
+דראהביטש	Drohobiĉ
+ירמיהו	Jeremia (profeto)
+דיריגענט	Dirigento
+נינא האגען	Nina Hagen
+עקאנאמיע	Ekonomio
+אבסטראקטע אלגעברע	Abstrakta algebro
+רוסישע־יאפאנעזער מלחמה	Rusa-japana milito
+צווילינג	Ĝemelo
+פינק	Pink
+מאגלעוו באן	Maglevo
+פלוין	Ebenaĵo
+מיידאנעק	Majdanek
+באל-פאוינט פעדער	Globkrajono
+מאטהויזען	Koncentrejo Mauthausen-Gusen
+מארק ראטקא	Mark Rothko
+כעלמנא פארטיליקונג לאגער	Ekstermejo Chełmno
+זשאסעף ליבערמאן	Joseph Lieberman
+פייל קרייץ	Sagokruca Partio
+ווארשעווער געטא אויפשטאנד	Ribelo en varsovia geto
+נארמאן פינקעלשטיין	Norman Finkelstein
+דאטשע	Daĉo
+אסיפ צאדקין	Ossip Zadkine
+האס	Malamo
+אוניווערסיטעט פון עדינבורג	Universitato de Edinburgo
+פראספער מערימע	Prosper Mérimée
+קאליקסט דער דריטער	Kaliksto la 3-a
+פרעצל	Breco
+מישעל באקמאן	Michele Bachmann
+וואלדיוויא	Valdivia
+שרויפן-ציער	Ŝraŭboturnilo
+מאנסטער פרוכט	Serimao
+אייראפעישער זומער זייגער	Horzonoj en Eŭropo dum somero
+קרעדיט קארטל	Kreditkarto
+קיבוץ	Kibuco
+מגן דוד	Stelo de Davido
+קאלעג צו קאלעג	Samtavola ŝutado
+היסטאריע פון רוסלאנד	Historio de Rusio
+אקעאנוס	Oceano (mitologio)
+אפטאלמאלאגיע	Okulkuracado
+צירונג	Juvelarto
+אנקאלאגיע	Onkologio
+אולטראשאל	Ultrasono
+אקאדעמיע	Akademio
+זען	Vidkapablo
+מאזשינא ליניע	Maginot-linio
+נגב	Negevo
+זיגל	Sigelo
+פעטראלאגיע	Petrologio
+צידון	Cidono
+דרוזן	Druzoj
+העלענע	Helena de Trojo
+לעמבערגער גובערניע	Lviva provinco
+מוזיקאלאגיע	Muzikscienco
+בינארישע אפעראציע	Operacio (matematiko)
+שינקאנסען	Ŝinkanseno
+אונגארישע רעוואלוציע	Hungara revolucio de 1956
+איבערלעבונג	Sperto
+קארי	Kareaĵo
+וואל סטריט זשורנאל	The Wall Street Journal
+פאפקארן	Krevmaizo
+מייוווד (אילינויס)	Maywood (Ilinojo)
+טורקיז	Turkiso
+אומגלייכהייט	Neegalaĵo (pli granda, malpli granda)
+פעדער	Plumo (skribilo)
+StarCraft	StarCraft
+שפיאנאזש	Spionado
+ווינער אוניווערסיטעט	Universitato de Vieno
+בלוטשטורץ	Hemoragio
+France 24	France 24
+אינפעקציע	Infekto
+קאנדענסירונג	Kondensado
+ראמזיי מאקדאנאלד	Ramsay MacDonald
+פארלאמענטארע דעמאקראטיע	Parlamenta demokratio
+שפאקטיוו	Lupeo
+קארפאראציע	Entrepreno
+ערלוי	Eger
+נעשונאל זשיאגראפיק	National Geographic Society
+באטאנישער גארטן	Botanika ĝardeno
+טירא	Tira (Israelo)
+נהריה	Naharija
+וואהלינער גובערניע	Volina provinco
+נס ציונה	Nes Ciona
+אינטערנעט פארום	Retforumo
+חברון	Hebron
+הונגער	Malsatego
+בטלמיוס	Ptolemeo la 1-a
+גאלף פון סועץ	Sueza Golfo
+קארניע	Korneo
+ביהייוויאריזם	Kondutismo
+שאפראן	Sopron
+גייסטליכקייט	Spiriteco
+טריפאלי (לבנון)	Tripolo (Libano)
+דזשעסיקא סימפסאן	Jessica Simpson
+הענטשקע	Ganto
+דיסקרימינאציע	Diskriminacio
+אומעט	Tristeco
+פיזיקער	Fizikisto
+סימפטאם	Simptomo
+וואלד פייער	Arbara incendio
+ארקאדיע	Arkadio
+קאנװערט	Koverto
+יאכט	Jaĥto
+סיטואציע קאמעדיע	Situacia komedio
+איי-קיו	Intelekta kvociento
+עם 16	M16 (fusilo)
+קארלאס סלים	Carlos Slim
+מאראסט	Ŝlimo
+מנורה	Menoro
+זעגלשיף	Velŝipo
+שינקען	Ŝinko
+גלאסטער	Gloucester (Anglio)
+אגאדיר	Agadir
+פאראדיע	Parodio
+באלקאן	Balkono
+לאכן	Rido
+נענסי פעלאוסי	Nancy Pelosi
+רעפובליק פון טעקסעס	Respubliko Teksaso
+געגאסענע בליי אפעראציע	Konflikto de la Gaza Sektoro (2008-2009)
+נס	Miraklo
+ריבית	Interezo
+גאסטראנאמיע	Gastronomio
+טאבו	Tabuo
+בלאגער	Blogger
+חסידות	Ĥasidismo
+נירעדהאז	Nyíregyháza
+קאמף פון טראפאלגאר	Batalo apud Trafalgar
+קאראל	Koralo
+אקצידענט	Akcidento
+אשדוד	Aŝdod
+גראפנשאפטן פון ענגלאנד	Graflandoj de Anglio
+אלפרעד דרייפוס	Alfred Dreyfus
+מענעלאוס	Menelao
+מידלזברא	Middlesbrough
+נעקטאר	Nektaro
+קאנצעסיע	Franĉizo
+יוחנן וואלאך	Yochanan Vollach
+באגי מען	Infantimigulo
+אינטעליגענטע אויספלאנעווען	Inteligenta dezajno
+צפון וויעטנאם	Nord-Vjetnamio
+בעזים	Balailo
+בראנכן אנצינדונג	Bronkito
+אגראנאמיע	Agronomio
+שפיראכץ	Senso
+כוזרים	Ĥazaroj
+שווארצאפל	Pupilo
+לוויה	Tombo
+בלאז אינסטרומענטן	Blovinstrumento
+וושט	Ezofago
+לופטקילער	Klimatizilo
+ראדיוס	Radiuso
+רעגענט	Regento
+העברעאישער אוניווערסיטעט אין ירושלים	Hebrea Universitato de Jerusalemo
+V-1 און V-2 ראקעטן	V-2
+ווילא אלעמאנא	Villa Alemana
+מייקל מאור	Michael Moore
+טעקע סיסטעם	Dosiersistemo
+בעסאראביע	Besarabio
+הענגען	Pendumo
+קאנטרי	Ruro
+װיקיפּעדיע:אויסשפארן פאליסי	Vikipedio:Regularo pri forbaro
+לופטרער	Traĥeo
+וויטאמין D	Vitamino D
+פאביע	Fobio
+רעסעסיע	Recesio
+זינגער	Kantisto
+זון (משפחה)	Filo
+אסאציאטיוויטעט	Asocieco
+פאראפין	Parafino
+געמיינדע	Homa komunumo
+פאגראם	Pogromo
+טראטואר	Trotuaro
+סטערויד	Steroido
+קאנאלא אויל	Kolzo
+טייג	Pasto
+ליבידא	Libido
+קעטשאפ	Keĉupo
+שכיר חרב	Soldulo
+סברה	Racio
+עופות	Kortobirdo
+גראמען	Rimo
+ליקער	Likvoro
+פאטאך	Fatah
+קוקי	Kuketo
+בערזע	Borso
+אלמן	Vidvo
+עלען גראס	Alan Gross
+איינקונפט שטייער	Enspezimposto
+אינפיניטיוו	Infinitivo
+דזיאוואני דא פאלעסטרינא	Giovanni Pierluigi da Palestrina
+קאמפיוטעריי	Komputado
+מאסאזש	Masaĝo
+סאפטוועיר באג	Cimo (komputscienco)
+סטאטוע	Statuo
+זכריה הנביא	Zeĥarja (libro)
+באאט	Baazo
+פאלעאגראפיע	Paleografio
+איוב	Ijob
+עיר פארס וואן	Air Force One
+גאליציע	Galicio
+פורים	Purimo
+פאטימא	Fatima bint Muhamad
+יפו	Jafo
+פערסישער קאלענדאר	Persa kalendaro
+מיסט מאנאזשעריע	Rubmastrumado
+וואפיטי	Kanada cervo
+אמבולאנס	Ambulanco
+צימער	Ĉambro
+מאנדלען	Tonsilo
+דרום וויעטנאם	Vjetnama respubliko
+געפעכט	Konflikto
+בעדואינער	Beduenoj
+ציאן	Cejana
+טרורא	Truro
+היינעקען אינטערנאציאנאל	Heineken
+כארעאגראפיע	Koreografio
+פרייצייט	Ripozo
+אבו מוסאב אל-זארקאווי	Abu Musab az-Zarqawi
+פראנקפורטער	Kolbasobulko
+שאצער קאנט	Distrikto Suceava
+דארלינג טייך	Darling (rivero)
+פאציענט	Paciento
+מאגאזין (סקלאד)	Magazeno
+אליעזר בן יהודה	Eliezer Ben-Jehuda
+ליסטע פון שטעט אין אונגארן	Listo de urboj de Hungario
+משה קצב	Moŝe Kacav
+מערב האלבקיילעך	Okcidenta duonglobo
+קרעדיט (פינאנץ)	Kredito
+גארטל הערפעס	Zostero (medicino)
+ווערטיקאל	Vertikalo
+סוכות	Sukoto
+צאל (שטייעראמט)	Dogano
+ען קא ווע דע	NKVD
+כנבוזי דער צווייטער	Kambizo la 2-a (Persio)
+רוסטאווי	Rustavi
+כיראמאנטיע	Kiromancio
+ניוט גינגריטש	Newt Gingrich
+ארטור רובינשטיין	Artur Rubinstein
+פאהאד בין אבדול אזיז	Fahd bin Abdul-Aziz Al Saud
+ספרעדשיט	Kalkultabelo
+באנק פון ענגלאנד	Banko de Anglio
+ניו עידזש	Nova Epoko
+טעריטאריע	Teritorio
+באפי די וואמפיר יעגערין	Buffy the Vampire Slayer
+יצחק שמיר	Jicĥak Ŝamir
+ניבול פה	Sakro
+מעד	Medo
+קאבל-טעלעוויזיע	Kabla televido
+קארע	Arboŝelo
+אידיאם	Idiotismo
+צעהן מכות	Dek plagoj de Egiptujo
+סטארטפאס	Avia dromo
+טארף	Torfo
+ערעקטייל דיספאנקשען	Impotenteco
+קרב מגע	Kravmagao
+שפרינגען מיט א טיטשקע	Stanga altsalto
+גאון	Genio
+וואזעלין	Vazelino
+כרמל בארג	Monto Karmel
+סי-פי-אר	Kora-pulma revivigo
+סאטמאר (שטאט)	Satu Mare
+אמסטעל	Amstel
+האנטגעלענק	Pojno
+פילאנטראפ	Filantropo
+טראפן (פליסיגקייט)	Guto
+נייטראלער עלעמענט	Neŭtra elemento
+אנאלאגיע	Analogio
+חיפה דיסטריקט	Distrikto Ĥajfo
+מופטי	Muftio
+Fox News	Fox News
+פעך	Gudro
+באראט	Borat: Rigardado en usona kulturon laŭ mende por gloro al kazaĥia nacioj
+ניו דיל	New Deal
+אנגינע	Tonsilito
+פאראזיט	Parazito
+קאשע	Kaĉo (manĝaĵo)
+איבל	Vomemo
+ליכוד	Firmigo
+פיליפ ראטה	Philip Roth
+עקאנאמישע געאגראפיע	Ekonomia geografio
+לאביאונג	Lobiado
+באלפורס דעקלאראציע	Balfour-deklaro
+ביסטריץ	Bistrița
+סידרא איינגאס	Golfo de Sirto
+ווינדל	Vindotuko
+שענק	Trinkejo
+באקלאווא	Baklavo
+עמיגראציע	Elmigrado
+קבר-קירך	Baziliko de la Sankta Tombo
+זומערשפרענקלעך	Efelido
+פראזע (לינגוויסטיק)	Frazo (gramatiko)
+פאבריקאציע	Muntado
+דיסטריבוטיוו	Distribueco
+עקאנאמיסט	Ekonomikisto
+ארגאן-סיסטעם	Organa sistemo
+צפת	Safed
+מוזיק זשאנער	Muzika ĝenro
+פאקט	Fakto
+קאמין	Kameno
+הוידלקע	Pendolilo
+קנאה	Envio
+דרום דיסטריקט (ישראל)	Suda distrikto de Israelo
+משה דיין	Moŝe Dajan
+צענטער דיסטריקט (ישראל)	Centra distrikto de Israelo
+פאלאפעל	Kikerbulo
+פילגש	Konkubineco
+דעוויד שווימער	David Schwimmer
+ישעיהו	Profeto Jesaja
+שחיטה אין ווירזשיניע-טעק	Masakro de Virginia Tech
+קעניגלעכע בארא פון קענזינגטאן און טשעלסי	Kensington kaj Chelsea
+פאקטאריזאציע	Faktorigo
+מאראמאראשער דיסטריקט	Distrikto Maramureș
+וואלונטיר	Volontulo
+פעלד	Kampo (agrikulturo)
+קישקע קענסער	Kojlorektuma kancero
+ישראל נאציאנאלע ביבליאטעק	Nacia Librejo de Israelo
+קאלעדזש	Kolegio
+טראנסזשענדער	Transgenrulo
+קנאות	Zeloto
+לאטעריע	Loterio
+אקאדעמישע דיפלאמע	Akademia titolo
+באָרג	Prunto
+צפון דיסטריקט (ישראל)	Norda distrikto de Israelo
+אסיפ מאנדעלשטאם	Osip Mandelŝtam
+אקאדעמיע פאר דער העברעישער שפראך	Akademio de la Hebrea Lingvo
+אלעמאל-גרין	Ĉiamverdo
+סאבאלטש-סאטמאר-בערעג	Szabolcs-Szatmár-Bereg
+סופרים קארט	Suverena kortumo
+פתח תקוה	Petaĥ Tikva
+BDSM	BDSM
+הערש	Gazelo
+שטיוול	Boto
+טרענסעקסואליזם	Transsekseco
+דזשונגל	Ĝangalo
+אלטקייט	Maljunaĝo
+טאן	Tuno
+לוי אשכול	Levi Eŝkol
+כשרות	Koŝera
+דועל	Duelo
+CFA פראנק	Afrika franko
+פאדאליע	Podolio
+אפאלגאטיקע	Apologetiko
+סדרדיקע צאל	Ordonombro
+משניות	Miŝno
+קאטיושא	Katjuŝa
+נתניה	Netanja
+ירושלים דיסטריקט	Distrikto Jerusalemo
+סיודאד דעל עסטע	Ciudad del Este
+איך האב א חלום	Revon havas mi
+פוערטעווענטורא	Fuerteventura
+לימביק סיסטעם	Limba sistemo
+שטעלע	Verko
+מימיקרי	Kamuflimito
+ראפיק על כארירי	Rafik Hariri
+גלית	Goliato
+ראבערט וואדלאוו	Robert Wadlow
+רמת גן	Ramat Gan
+תל אביב דיסטריקט	Distrikto Tel-Avivo
+ריב אייזן	Kuireja raspilo
+סייענס (זשורנאל)	Science
+הורדוס אנטיפס	Herodo Antipa
+מינסקער גובערניע	Minska regiono
+הר הבית	Templa Monto
+היינט	Estanteco
+יתום	Orfo (familio)
+מלך פון פוילן	Listo de reĝoj de Pollando
+ווען	Kamioneto
+געוויסן	Morala konscienco
+ישראל דיסטריקטן	Distriktoj de Israelo
+קייט רייען	Kate Ryan
+בריטישער מאנדאט	Brita mandato Palestino
+פלשתים	Filiŝtoj
+הר תבור	Monto Tabor
+איביס	Ibisoj
+קאמעניץ, אוקראינע	Kamjanec-Podilskij
+ווידעא קליפ	Muzikvideo
+יחזקאל	Ezekielo
+קארליק	Naneco
+פארקויפן	Vendado
+אוניווערסיטעט פון בוענאס איירעס	Universitato de Bonaero
+סודעטן	Sudetio
+זשאנגלירן	Ĵonglado
+שרה	Sara (Biblio)
+מיקראסקאפ	Mikroskopo
+פעלץ	Pelto
+וויטאמין C	Vitamino C
+העברעישע וויקיפעדיע	Hebrelingva Vikipedio
+אוניווערסיטעט פון קאנסעפסיאן	Universidad de Concepción
+יונה סאלק	Jonas Salk
+פשוטע ענגלישע וויקיפעדיע	Vikipedio en baza angla lingvo
+ווידרע	Lutrenoj
+וועלט היסטאריע	Historio de la mondo
+שיצפאס	Sekurzono
+גיאם דע מאשא	Guillaume de Machaut
+שם	Ŝem
+ראשון לציון	Riŝon-Le-Ciono
+פאלעסטינער	Palestinanoj
+דאנא אינטערנאשיאנאל	Dana International
+סלוצק	Sluck
+היסטאריע פון וויסנשאפט	Historio de scienco
+היפאקריטיע	Hipokriteco
+סאניק	Sanok
+פאס דו איגוואסו	Foz do Iguaçu
+לבנון טאל	Bekaa
+רשימה פון מדרשים	Midraŝo
+ראמאן, רומעניע	Roman (Rumanio)
+קאנסענסוס	Interkonsento
+פאלאשן	Beta Israel
+בראהמאגופטא	Brahmagupta
+איינס קרייז	Unuocirklo
+מצבה	Tomboŝtono
+קין	Kaino
+אבשלום	Abŝalom
+ערפינדער	Inventisto
+גרינוויטש וויליזש	Greenwich Village
+אלוועלטלעכע ציוניסטישע באוועגונג	Monda Cionisma Organizaĵo
+זוהר	Zoharo
+אלגעברעישע סטרוקטור	Algebra strukturo
+קאנסערוואטיוו יידנטום	Konservema judismo
+לאנדאנער בארא פון האקני	Hackney
+שיכרות	Ebrio
+הר הזיתים	Olivarba monto
+גוגל ביכער	Google Books
+הר הרצל	Monto Herzl
+ביאמאלעקול	Biomolekulo
+ציריכער אוניווערסיטעט	Universitato de Zuriko
+סימפאזיום	Simpozio
+ALS	Amiotrofa lateralsklerozo
+סנחריב	Sanĥerib
+באברויסק	Babrujsk
+כבוד	Honoro
+הענגאווער	Postebrio
+רחובות	Reĥovot
+קאלא-קאלא	Club Social y Deportivo Colo-Colo
+רחל	Raĥel
+ליסטע פון שטעט אינעם פאראייניגטן קעניגרייך	Listo de urboj de Britio
+וויספע	Insuleto (geografio)
+מוזיקאלישע קאמפאזיציע	Komponado (muziko)
+בלאדי מערי	Bloody Mary (koktelo)
+500 (נומער)	500 (nombro)
+פארעם	Formo (filozofio)
+עריק ראבערטס	Eric Roberts
+קאקאא	Kakao
+גוואנטאנאמע בעי	Golfo de Guantanamo
+כתובים	Ketuvim
+ניסן	Nisano
+פארגעניגן	Plezuro
+אב	Abo
+סאברא און שאטילא	Masakro de Sabra kaj Ŝatila
+בעדפארד	Bedford
+גראן טשאקא	Granda Ĉako
+וואפן שטילשטאנד	Batalhalto
+עיל	Elo (biero)
+קראי	Karaismo
+פשעמישל	Przemyśl
+אדום	Edomo
+משה שרת	Moŝe Ŝaret
+סנהדרין	Sinedrio
+לבנון ברודער קריג	Libana interna milito
+פרעמיער מיניסטער פון ישראל	Ĉefministroj de Israelo
+אל על	El Al
+גראד (ווינקל)	Graduso
+פלירטינג	Amindumo
+טשילענישער פלאט	Mararmeo de Ĉilio
+הייך	Alto
+ישראלישע אקאדעמיע פון וויסנשאפטן	Israela Akademio de Sciencoj kaj Beletroj
+בארשא	Borșa (Maramureș)
+ביאלע	Biała Podlaska
+דינדיש	Gyöngyös
+אינטערפרעטאציע	Interpretado (tradukado)
+מקווה	Mikveo
+איסאאק לעװיטאן	Isako Levitan
+מצה	Maco
+פרינציפ	Principo
+בלעך	Lado
+ניו יארק פאסט	New York Post
+סאאיד קטב	Sajid Kutb
+פארקויף מאשין	Vendilo
+סייקס-פיקא פארשטענדעניש	Sykes-Picot-akordo
+אריאן	Orion (kosmoŝipo)
+גאלף	Golf (apartigilo)
+באצילן	Bacilo
+אייר	Ijaro
+יהודה לייב אשלג	Baal Sulam
+מאניקע לעווינסקי	Monica Lewinsky
+אדר	Adaro
+סטיווען קאלבערט	Stephen Colbert
+חרדים	Ĥaredoj
+קלעזמער	Klezmero
+פארטיזאנער	Partizano
+טלית	Talito
+חנוך	Ĥanoĥo
+ווילקאמיר	Ukmergė
+רשימה:פיזיקער	Listo de fizikistoj
+געשעפט	Vendejo
+שפינדל	Spindelo
+שכם	Nablus
+גלעד שליט	Gilad Ŝalit
+סעגוויי	Starveturilo
+היטש	Petveturado
+לעטיסיע	Leticia
+דראמאטורג	Dramaturgo
+עטיאפישער קאלענדאר	Etiopa kalendaro
+מוזיקאלישע טרופע	Bando (muziko)
+קאפל	Kipao
+הר חרמון	Monto Hermono
+שטים בענדער	Voĉkordoj
+פערזאן	Persono
+ווייסוויידל הערש	Blankavosta cervo
+וויעטנאמעזער	Vjetnamoj
+גייטסהעד	Gateshead
+טיין	Rivero Tyne
+כסלו	Kislevo
+סעקולאריזם	Sekulareco
+ראמזאן קאדיראוו	Ramzan Kadirov
+אראקל	Orakolo
+תמוז	Tamuzo
+אלול	Elulo
+טבת	Teveto
+Sky News	Sky News
+זשאן עדווארדס	John Edwards
+שבט (חודש)	Ŝevato
+טשעסטער נימיץ	Chester William Nimitz
+אמעריקאנער מוזיי פון נאטירלעכער היסטאריע	Usona Muzeo de Natura Historio
+תשרי	Tiŝrio
+ווילסאן	Wilson
+לארענס סטערן	Laurence Sterne
+מאראנצן זאפט	Oranĝsuko
+איבונגען	Korpekzercado
+פאול וואלפאוויטש	Paul Wolfowitz
+דארף מענטשן	Village People
+עמא בונטאן	Emma Bunton
+קריגס פירער	Militsenjoro
+טייוול אינזל	Diabloinsulo
+רעכטס און לינקס פארקער	Trafikflanko
+אנגון	Anggun
+רמלה	Ramlo
+סופיט	Plafono (arkitekturo)
+לאנדישער אויטאנאמישער אוניווערסיטעט פון מעקסיקא	Universidad Nacional Autónoma de México
+טשערעפאכע	Testuduloj
+גסיסה	Cerba morto
+סנדק	Baptopatro
+קלימאקס	Kulmino
+קליין	Klein
+VOA	Voĉo de Usono
+חם	Ĥam
+מלכות ישראל	Izraela reĝlando
+דעיל קארנעגי	Dale Carnegie
+גראד (נומער)	Pareco de nombroj
+אוניווערסיטעט פון טשילע	Universitato de Ĉilio
+יוני 2007	Junio de 2007
+דראגאן פרוכט	Drakofrukto
+בעני דעפארטמענט	Beniio
+סעמינאר	Seminario
+יולי 2006	Julio de 2006
+פעברואר 2007	Februaro de 2007
+מערץ 2009	Marto de 2009
+קאטשאבאמבא דעפארטמענט	Koĉabambo
+טאריכא דעפארטמענט	Tariŝio
+פעני	Penco
+באנגאר	Bangor (Gwynedd)
+ניאוף	Adulto
+מערץ 2007	Marto de 2007
+האדזש	Haĝo
+בראדוויי טעאטער	Broadway (teatro)
+סאנטא קרוז (דעפארטמענט אין באליוויע)	Santa-Kruzio (Bolivio)
+טשוקיסאקא דעפארטמענט	Ĉukisakio
+פיאקער	Kaleŝo
+פאנדא דעפארטמענט	Pando (Bolivio)
+עפיגלאטיס	Epigloto
+נאוועמבער 2006	Novembro de 2006
+אפריל 2007	Aprilo de 2007
+מײַ 2007	Majo de 2007
+אחאב	Ahabo
+קעלצער פאגראם	Pogromo de Kielce
+יוני 2006	Junio de 2006
+פאטאסי דעפארטמענט	Potosiio
+שלום עליכם (שרייבער)	Ŝolom Alejĥem
+על אריש	El Ariŝ
+90 (נומער)	90 (nombro)
+שלמה אבן גבירול	Avicebron
+דייוויד דער צווייטער, מלך פון שאטלאנד	Davido la 2-a (Skotlando)
+מאקעווע	Makó
+לידא	Lida
+קאטשקע (מאסקאווי)	Moska anaso
+קעגן לבנון בערג	Anti-Lebanono
+באקטעריאלאגיע	Bakteriologio
+ארקילאוס	Herodo Arĥelao
+באנק פון ישראל	Banko de Israelo
+קאמיקער	Komikisto
+מאיר כהנא	Meir Kahane
+יואי	Yui (kantistino)
+מאטערסדארף	Mattersburg
+רויטע ארמיי	Ruĝa Armeo
+האלאווין	Halloween
+הגנה	Haganah
+מייל	Mejlo
+קרימער מלחמה	Krimea milito
+ווילחאוויץ	Vilĥivci
+פארע	Vaporo
+גראזשניידער	Gazontondilo
+וואלאווע	Miĵhirja
+קאפירעכט	Aŭtorrajto kaj kopirajtaj monopoloj
+סאדע וואסער	Karbonata akvo
+מצווה	Micvo
+C-base	C-bazo
+העטהער מיללס	Heather Mills
+ען קאלטער	Ann Coulter
+באטעריע	Pilo
+ארבעט	Laboro
+לאנדאנער זאא	Zoo de Londono
+אויגוסט 2006	Aŭgusto de 2006
+בת שבע	Batŝeba
+אפריל 2006	Aprilo de 2006
+לא פאז (דעפארטמענט אין באליוויע)	La-Pazio
+סוספענדירונג	Suspensio (tekniko)
+מארטיני	Martinio
+אר קעלי	R. Kelly
+דעזש	Dej
+התבודדות	Soleco
+פינטשאוו	Pińczów
+אפטא	Opatów
+דראגאמירעשט	Dragomireşti (Maramureş)
+ווארקע	Warka
+ווילנער גאון	Gaono de Vilno
+געארג דער זעקסטער	Georgo la 6-a (Britio)
+43 (נומער)	43 (nombro)
+יעדוואבנע	Jedwabne
+סיקריקין	Sikarioj
+Wolbachia	Wolbachia
+טשעט	Babilejo
+אגנאסטיציזם	Agnostikismo
+יעקב אבינו	Jakobo
+לח"י	Stern-grupo
+איניגא דזשאנס	Inigo Jones
+אסימא	ASIMO
+מיווא	Miwa
+טאכטער	Filino
+אנאנימיטעט	Anonimeco
+אוניווערסיטעט פון סאלאמאנקע	Universitato de Salamanko
+דעאדאראנט	Senodorigilo
+פלאן	Plano
+סאפארא	Soforo
+יום השואה	Jom Haŝoa
+דעניס קוסיניטש	Dennis Kucinich
+קארל ראוו	Karl Rove
+טשיאנאפודזשי מיצוגו	Chiyonofuji Mitsugu
+עיִן תחת עיִן	Okulon pro okulo
+הר הצופים	Monto Scopus
+אסא	Asa
+הבל	Habelo
+יוסף סערטשוק	Joseph Serchuk
+טייהא קאקי	Taiho Koki
+בעל שם טוב	Baal Ŝem Tov
+ראש לימבאו	Rush Limbaugh
+על פרענקען	Al Franken
+מייקל דוקאקיס	Michael Dukakis
+אלעקס זשאונס	Alex Jones
+בועז מעודה	Boaz Mauda
+הלל הזקן	Hilelo
+פראכט	Ŝarĝo
+תל אביבער אוניווערסיטעט	Universitato de Tel-Avivo
+קסרי	Ĉemara Cezareo
+יאנואר 2006	Januaro de 2006
+שעדליץ	Siedlce
+זאב זשאבאטינסקי	Vladimir Ĵabotinskij
+בריגעל	Brzesko
+שערן	Hararanĝo
+קעזמארק	Kežmarok
+האלדזן	Brakumo
+אמין זשומייעל	Amine Gemayel
+מערץ 2006	Marto de 2006
+פעברואר 2006	Februaro de 2006
+קישקונהאלאש	Kiskunhalas
+ראצפערט	Újfehértó
+קבר	Entombigo
+אויק פארק (אילינויס)	Oak Park (Ilinojo)
+געמיט	Humoro
+איבעראשונג	Surprizo
+טעכניאן	Technion
+לבנון בארג	Lebanono (montaro)
+קאסאם	Kassam-raketo
+סיגעט	Sighetu Marmației
+געזונט פארזיכערונג	Malsanokosta asekuro
+ראיעל קענעדיען מאונטעד פאליציי	Reĝa Kanada Rajda Polico
+ראפשיץ	Ropczyce
+ראדני קינג	Rodney King
+טאנגא	Tango
+מוילאייזל הערש	Hemiona cervo
+אר"י הקדוש	Icĥak Lurja
+דעמאקראט	Demokrato
+לאנצהוט	Łańcut
+אדא	Ada (Serbio)
+געדאנק	Pensaĵo
+מענדעלע מוכר ספרים	Mendele Sforim
+אדוניהו	Adonija
+מארעק גרעכוטא	Marek Grechuta
+שליוואוויץ	Slivovico
+נייטרע טייך	Nitra (rivero)
+ארדשיר	Ardaŝiro la 1-a
+מעמאריעל דעי	Tago de la Falintoj
+בייבל קריטיק	Biblia kritiko
+סעקלהיד	Săcueni
+טשיטאגאנג	Ĉitagongo
+דרעטל	Krampo (fiksilo)
+מעמד הר סיני	Monto Sinajo
+שינאווא	Sieniawa
+לואיס קארוואלאן	Luis Corvalán
+אדווערב	Adverbo
+איגאר פאווליוק	Igor Pavljuk
+טאני ראבינס	Anthony Robbins
+וואליד זשומבלאט	Walid Jumblatt
+שלום אש	Ŝalom Aŝ
+מסורה (טעקסט)	Masora Biblio
+ארגאניש עסן	Ekologia manĝaĵo
+שבועה	Ĵuro
+ארטאדאקס	Ortodokseco
+קאנסטרוקציע	Konstruado
+מאזיר	Mazir
+מאדיאר-לאפאש	Târgu Lăpuș
+שלעשין	Ślesin
+גריצע	Grójec
+װיקיפּעדיע:באוועגן	Helpo:Alinomi paĝon
+ישראל פאליציי הויפטקווארטיר	Nacia Sidejo de la Israelo Polico
+דין	LAW
+יצחק לייבוש פרץ	Jizchok Leib Perez
+וויאלעט	Viola
+ראזע	Roza
+נצרת	Nazareto
+27 (נומער)	27 (nombro)
+35 (נומער)	35 (nombro)
+64 (נומער)	64 (nombro)
+99 (נומער)	99 (nombro)
+עדגארדא מארטארא	Edgardo Mortara
+מיני ישראל	Mini-Israelo
+בנימין	Benjamen
+גאלאנטא	Galanta
+בענדין	Będzin
+פאריזער קלוב	Klubo de Parizo
+Cbc	Canadian Broadcasting Corporation
+סינדי שעהין	Cindy Sheehan
+ברעזנא	Brezno
+היסטאריע פון טעכנאלאגיע	Historio de tekniko
+Thalys	Thalys
+מאקס וויינרייך	Max Weinreich
+יוסף קארו	Josef Karo
+עדמונד זשיימס דע ראטשילד	Edmond de Rothschild
+עובדיה יוסף	Ovadia Josef
+נחמן מברסלב	Naĥman el Braclavo
+רודאלף ווערבע	Rudolf Vrba
+גלעד צוקערמאן	Ghil'ad Zuckermann
+פראסטיץ	Prostějov
+זשעק אבראמאף	Jack Abramoff
+סייף	Monŝranko
+השכלה	Haskala
+אנטיק	Antikvaĵo
+באפאר	Fortikaĵo Beaufort
+אמשינאוו	Mszczonów
+קאריטיבע פוטבאל גרופע	Coritiba Foot Ball Club
+בילד	Bildo
+הידראגען עקאנאמיע	Hidrogena civilizacio
+רוקן ביין	Vertebraro
+אלבאם	Muzikalbumo
+ראציאנאליזם	Raciismo
+Windows 98	Windows 98
+פּלאַנאָיסע	Planoise Châteaufarine
+גווען סטעפעני	Gwen Stefani
+זשאנער	Ĝenro
+וואל-מארט	Walmart
+סוניס	Sunaismo
+Windows 2000	Vindozo 2000
+שינדלערס ליסטע	Schindler's List
+מיסטער בין	Mr. Bean
+אויטאנאמיע	Aŭtonomeco
+נאציאנאלער הימען פון טשילע	Himno Nacional de Chile
+סקינהעד	Razkapulo
+אוואירו	Aveiro
+פידלער אויפן דאך	Violonisto sur la tegmento
+אביעקט	Objekto (filozofio)
+חשמונאים	Makabea dinastio
+אייער ליקער	Ovobrando
+טאבעלע	Tabelo
+רשימה:פרוכט	Listo de foliarboj de la tropika zono
+עדות המזרח	Mizraĥoj
+שטילקייט	Silento
+הומנא	Humenné
+פאלאנגען	Libana Socialdemokrata Partio
+ווייכביין	Kartilago
+פאלשע געלט	Falsado
+גוי	Gojo
+אניקשט	Anykščiai
+אלטער בחור	Fraŭlo
+טראפיק	Aŭtotransporto
+גערשטן	Hordeum
+טריאו	Treo
+אליגאטאר	Aligatoro
+סאפיע (באדייטן)	Sofio (nomo)
+יידישער וועלט קאנגרעס	Monda Juda Kongreso
+פארזארג	Ofertado
+בערבעין	Burbono (viskio)
+29 (נומער)	29 (nombro)
+סאמאטאר	Somotor
+מארך ביין	Osta medolo
+משה ארענס	Moŝe Arens
+דראט	Drato
+רודאלף קאסטנער	Rudolf Kasztner
+רעי נעיגין	Ray Nagin
+וועטשערע	Vespermanĝo
+זענטא	Senta
+באליידיגונג	Insulto
+משה טייטלבוים	Moshe Teitelbaum
+מעזשילאבריץ	Medzilaborce
+באזעצונג	Israela kolonio
+ריטשע	Ricse
+28 (נומער)	28 (nombro)
+סערעט	Siret
+כעמיקער	Kemiisto
+עליה אין ארץ ישראל	Alija
+38 (נומער)	38 (nombro)
+האנדל	Komerco
+פּאַן-אייראפעישער פארבאנד	Paneŭropa Unio
+ראבערט קאטשאריאן	Robert Koĉarjan
+אפטייקעריי	Farmacio
+טעיזם	Teismo
+פראבלעם	Problemo
+הגדה של פסח	Hagado
+דינער (סעודה)	Bankedo
+ניו יארק דיילי ניוז	The New York Daily News
+45 (נומער)	45 (nombro)
+קאני איילענד	Insulo Coney
+מיישא	Kiskunmajsa
+קעטסקילס	Katskil-Montaro
+קאמפאט	Kompoto
+מוזיקער	Muzikisto
+נטורי קרתא	Neturei Karta
+חשוון	Ĥeŝvano
+קישקעריש	Kiskőrös
+נאסאד	Năsăud
+ציעשינאוו	Cieszanów
+אנגעשטעלטער	Dungito
+זשיבוי	Jibou
+אלעקסאנדער, פוילן	Aleksandrów Łódzki
+קערעסטיר	Bodrogkeresztúr
+קנישין	Knyszyn
+יצחק אבינו	Isaak
+קליינווארדיין	Kisvárda
+הענרי דער זיבעטער פון ענגלאנד	Henriko la 7-a
+טעלאנגאנע	Telangano
+ווערעצקי	Niĵni Vorota
+ניקאלשבורג	Mikulov
+אראקל פון דעלפי	Orakolejo de Delfo
+ניו יארק מעטראפאליטען שטח	Metropola areo de Novjorko
+אומבאוועגלעכע גיטער	Nemoveblaĵo
+קערפער פלעק	Nevuso
+אוויטש פאמיליע	Ovitz-familio
+עוויאן קאנפערענץ	Konferenco de Évian
+קוואדראט קילאמעטער	Kvadrata kilometro
+גליד	Organo
+80 (נומער)	80 (nombro)
+21 (נומער)	21 (nombro)
+22 (נומער)	22 (nombro)
+70 (נומער)	70 (nombro)
+50 (נומער)	50 (nombro)
+41 (נומער)	41 (nombro)
+34 (נומער)	34 (nombro)
+33 (נומער)	33 (nombro)
+47 (נומער)	47 (nombro)
+31 (נומער)	31 (nombro)
+32 (נומער)	32 (nombro)
+44 (נומער)	44 (nombro)
+46 (נומער)	46 (nombro)
+49 (נומער)	49 (nombro)
+48 (נומער)	48 (nombro)
+37 (נומער)	37 (nombro)
+39 (נומער)	39 (nombro)
+36 (נומער)	36 (nombro)
+81 (נומער)	81 (nombro)
+69 (נומער)	69 (nombro)
+0.999...	0,999...
+200 (נומער)	200 (nombro)
+מערב דייטשלאנד	Okcidenta Germanio
+טעידע נאציאנאלער פארק	Nacia Parko de Teide
+כרמלית (חיפה)	Metroo de Ĥajfo
+מגילה	Volvolibro
+64 באזע	64-uma kodoprezento
+לאשאנץ	Lučenec
+אסטראווצע	Ostrowiec Świętokrzyski
+יצחק כדורי	Jicĥak Kaduri
+אינטימיטעט	Intimeco
+בן גוריון אוניווערסיטעט פונעם נגב	Universitato Ben-Gurion de Negevo
+נאנאש	Hajdúnánás
+וואלקאוויסק	Vaŭkavisk
+תלמוד תורה	Ĥedero
+שאדיק	Szadek
+לאַכערייַקע	Skeĉo
+אטוואצק	Otwock
+פישטראן	Moruhepatoleo
+דאראג	Dorog
+דריטע שינע	Tria relo
+ערבות	Kaŭcio
+מארגארעטין	Marghita
+סטראפקאוו	Stropkov
+טאפלישאן	Topoľčany
+מארטין לוטער קינג דיי	Martinluterkinga Tagofesto
+דאקטאר (פילאסאפיע)	Doktoro de filozofio
+זיי װעלן ניט דורכגײן!	Ili ne pasos
+אנאנא	Atemojo
+קראלי	Carei
+טראדיציע	Masoretoj
+אויטאנאמישע רעפובליק פון קרים	Aŭtonoma Respubliko Krimeo
+דיים	Dekcenda monero (Usono)
+רשימה:מאלערס	Listo de pentristoj
+אגרת ירמיהו	Letero de Jeremia
+יזרעאל טאל	Valo de Jizre'el
+עלקוש	Olkusz
+פראגראם	Programo
+פאות	Tempiaj harbukloj
+דרום אזיע	Suda Azio
+זונפאנעל	Sunpanelo
+דויערהאפטיקייט	Eltenivo
+בערבעשט	Berbeşti
+קאפאוואר	Kapuvár
+באלמאז אויוואראש	Balmazújváros
+דעפארטמענט פון שטאט פון די פאראייניגטע שטאטן	Usona ministrejo por eksterlandaj aferoj
+בעלגישע מאנארכיע	Listo de belgaj reĝoj
+וואטערלו באן סטאנציע	Stacidomo Waterloo
+בית התפוצות	Diaspora Muzeo
+בירזש	Biržai
+חרם	Herem
+ברוך שלום אשלג	RABAŜ
+42 (נומער)	42 (nombro)
+בער סטערנס	Bear Stearns
+געאמעטרישע פארעם	Geometria figuro
+בלינצע	Rusa patkuko
+גאניק	Alero
+רשימה:כעמיקער	Listo de kemiistoj
+שווארצע	Nigrulo
+האליפאקס	Halifax (Britio)
+קילאמעטער	Kilometro
+טעמע	Subjekto
+חווה	Eva
+באניהאד	Bonyhád
+אקליווע	Huklivij
+הייזעריג	Disfonio
+זשורי	Ĵurio
+לבן	Labano (Biblio)
+ענטוזיאזם	Entuziasmo
+קאנסיסטואר	Konsistorio
+בריטישע מענטשן	Britoj
+צענטראל-הייצונג	Centra hejtado
+ספר היובלים	Libro de la Jubileoj
+קריווע	Kriva (Taĉiv)
+צוגאנדע	Cigánd
+בית החיים	Juda tombejo
+סענפעטער	Sânpetru Almașului
+רשימה:וויקימעדיע פראיעקטן	Vikimedia Kovilo
+אינדיק	Hejma meleagro
+עלעקטראמאגנעטיזם	Elektromagneta forto
+קאפטער	Kapuĉo
+עוף	Kokanseroj
+קאוואטשהאז	Mezőkovácsháza
+טשענגער	Csenger
+קיניזשא	Kanjiĵa
+שחיטה	Ŝoĥtado
+דיעטע	Dietado
+קייטנעס	Caithness
+באגאזש	Pakaĵo
+השגחה פרטית	Dia providenco
+גרופע	Socia grupo
+גרופע טעאריע	Teorio de grupoj
+געיעג	Vetkuro
+פײזשאאדא	Feijoada
+אקערן	Grundprilaborado
+שלעפע באבע	Blindludo
+געאגראף	Geografoj
+ש"ס פארטיי	Sefardaj gardantoj de la Torao
+טראנסניסטריע	Ĉednestrio
+דינאוו	Dynów
+טאמאשאוו	Tomaszów Lubelski
+הילף:אינהאלט	Helpo:Enhavo
+סלאטפינא	Solotvino
+וואונדער פרוכט	Synsepalum dulcificum
+מיר, בעלארוס	Mir (televid-radia kompanio)
+ליסטע פון פרעמיער מיניסטארן פון קאנאדע	Ĉefministro de Kanado
+וואלט קאר	Chevrolet Volt
+צדקה	Almozo
+אוניווערסיטעט פון די אנדן (טשילע)	Universidad de Los Andes
+שער שכם	Damaska pordego
+אבאזשור	Lampŝirmilo
+רעיסינג ביציקל	Vetkura biciklo
+אומקער געזעץ	Leĝo de Reveno
+יום העצמאות	Jom Haacmaut
+צינגאלע	Kanabcigaredo
+גראגער	Knarilo
+ראגאטשאוו	Rahaĉoŭ
+קאברין	Kobrin
+סמארגאן	Smarhon
+דזשין	Ĝino (brando)
+שלעגער	Furorkanto
+אראסטאטיקע	Aerostatiko
+סעפטעמבער 2006	Septembro de 2006
+כעמיש בית הכסא	Kemia necesejo
+אלבערט מאל	Albert Mol
+נערוון בראך	Nervokrizo
+פארמל	Formulo
+פעטראוואסעלע	Baĉko Petrovo Selo
+גער	Góra Kalwaria
+אדער	Sanga vaskulo
+קאזשניץ	Kozienice
+גריבאוו	Grybów
+קאלבאסאוו	Kolbuszowa
+כענטשין	Chęciny
+פאקשיווניץ	Koprzywnica
+אפאטשנא	Opoczno
+שווארצע שאכטל	Nigra skatolo (aviadilo)
+אויבערלאנד	Supra Hungarujo
+טיסא דאראגמא	Tiszadorogma
+ווראהאוויצע	Vrahovice
+רודניק	Rudnik nad Sanem
+מאגן	Stomako
+העטראסעקסואליטעט	Aliseksemo
+ישיבה אוניווערסיטעט	Universitato Yeshiva
+פראספעקט פארק	Prospect Park
+נסיון	Tento
+טריבונע נאמען	Artistnomo
+ארורא דעפארטמענט	Oruro
+ביליאנער	Bilionulo
+פריקווענט פלייער פראגראם	Programo por oftaj flugantoj
+נירמאדע	Nyírmada
+עגיפטישע באוואפנטע קרעפטן	Egiptaj Armitaj Fortoj
+מיליאנער	Milionulo
+פעטענהאז	Petneháza
+גרויסוואשאן	Nagyvázsony
+טאש	Nyírtass
+פאיע	Ópályi
+אנדרוגינוס	Intersekseco
+גארטן	Ĝardeno
+בר אילן אוניווערסיטעט	Universitato Bar-Ilan
+טריכאם	Triĥomo
+רשימה:גרינסן	Listo de legomoj
+דעסיידיאוס	Falfolia planto
+פאנצערגלאז	Kirasvitro
+מעדיקעיד	Medicaid
+נדר	Voto
+לבנון קרעפטן	Libanaj Fortoj
+פאפיר טייגער	Papera tigro
+נאכט העמד	Noktoĉemizo
+קארפאטארוס	Karpata Rutenio
+טויש	Ŝanĝo
+קוואדער	Dolarkvarona monero (Usono)
+הייליגקייט	Sankteco
+אָראַ	Aŭro
+סטימראלער	Vaporcilindro
+שנאר	Akiro de financa subteno
+MLB	Grandaj Ligoj de Basbalo
+מגדל דוד	Turo de Davido
+דעלטע (באדייטן)	Delto
+קאנאדער	Kanadanoj
+װיקיפּעדיע:אמבאסאדע	Vikipedio:Ambasadorejo
+דעצעמבער 2006	Decembro de 2006
+דייטשע לענדער	Federacia lando (Germanio)
+צעטיילונג	Divido
+דיסקאטעק	Diskoteko
+ראציאנאלע צאל	Racionala nombro
+פליפעלד	Flughaveno
+פאראנטווארטליכקייט	Respondeco
+יציאת מצרים	Eliro (historia evento)
+שומרון	Samario (geografio)
+אנקלאגע	Proceso (juro)
+קאמפיוטער נעצווערק	Komputila reto
+דערציילונג	Rakonto
+ליסטע פון טייכן אין אייראפע	Listo de eŭropaj riveroj
+מונינג	Postaĵumado
+גלאבאלע אפקילונג	Tutmonda malvarmiĝo
+זעקל	Sako
+טוקאן	Tukano (birdo)
+געזעלשאפטלעכער אפמאך	Socia kontrakto
+אליהו הנביא שוהל	Sinagogo Elijahu Hanavi
+טשערעמאש טייך	Ĉeremoŝ
+פרירונג ברי	Frostiĝo
+אַגנעס מאָניקאַ	Agnes Monica
+עקסאדוס	Exodus (ŝipo)
+300 (נומער)	300 (nombro)
+ארעסט	Aresto
+קאַטעגאָריע:מענער	Kategorio:Viroj
+קאַטעגאָריע:דייטשלאנד	Kategorio:Germanio
+קאַטעגאָריע:איטאליע	Kategorio:Italio
+קאַטעגאָריע:פאראייניגטע שטאטן	Kategorio:Usono
+קאַטעגאָריע:רוסלאנד	Kategorio:Rusio
+קאַטעגאָריע:קאנאדע	Kategorio:Kanado
+קאַטעגאָריע:פאראייניקטע קעניגרייך	Kategorio:Unuiĝinta Reĝlando
+קאַטעגאָריע:שפאניע	Kategorio:Hispanio
+קאַטעגאָריע:יאפאן	Kategorio:Japanio
+קאַטעגאָריע:אויסטראליע	Kategorio:Aŭstralio
+קאַטעגאָריע:מעקסיקא	Kategorio:Meksiko
+קאַטעגאָריע:אינדיע	Kategorio:Barato
+קאַטעגאָריע:ישראל	Kategorio:Israelo
+קאַטעגאָריע:וואטיקאן	Kategorio:Vatikano
+קאַטעגאָריע:טערקיי	Kategorio:Turkio
+קאַטעגאָריע:דרום אפריקע	Kategorio:Sud-Afriko
+קאַטעגאָריע:עגיפטן	Kategorio:Egiptio
+קאַטעגאָריע:איראן	Kategorio:Irano
+קאַטעגאָריע:ניו זילאנד	Kategorio:Nov-Zelando
+קאַטעגאָריע:ארגענטינע	Kategorio:Argentino
+ערליכקייט	Pieco
+גלות	Juda diasporo
+פראסק	Survango
+ליטוואקעס	Litoviaj judoj
+ניוקאסטל	Newcastle-upon-Tyne
+פארשפרעכונג	Promeso
+רוה טאג	Festaj kaj feriaj tagoj
+קאַטעגאָריע:אפגאניסטאן	Kategorio:Afganio
+קאַטעגאָריע:עסטרייך	Kategorio:Aŭstrio
+קאַטעגאָריע:קובא	Kategorio:Kubo
+קאַטעגאָריע:עטיאפיע	Kategorio:Etiopio
+קאַטעגאָריע:איראק	Kategorio:Irako
+קאַטעגאָריע:ניגעריע	Kategorio:Niĝerio
+קאַטעגאָריע:פאקיסטאן	Kategorio:Pakistano
+קאַטעגאָריע:פוילן	Kategorio:Pollando
+קאַטעגאָריע:פארטוגאל	Kategorio:Portugalio
+קאַטעגאָריע:סינגאפור	Kategorio:Singapuro
+קאַטעגאָריע:שווייץ	Kategorio:Svislando
+קאַטעגאָריע:טאנזאניע	Kategorio:Tanzanio
+קאַטעגאָריע:אוקראינע	Kategorio:Ukrainio
+קאַטעגאָריע:וויעטנאם	Kategorio:Vjetnamio
+קאַטעגאָריע:זויגערס	Kategorio:Mamuloj
+קאַטעגאָריע:רעפטילן	Kategorio:Reptilioj
+קאַטעגאָריע:אמפיביעס	Kategorio:Amfibioj
+קאַטעגאָריע:פויגלען	Kategorio:Birdoj
+קאַטעגאָריע:פאנגי	Kategorio:Fungoj
+קאַטעגאָריע:באקטעריעס	Kategorio:Bakterioj
+קאַטעגאָריע:ווירוסן	Kategorio:Virusoj
+קאַטעגאָריע:פלאנצן	Kategorio:Plantoj
+קאַטעגאָריע:פיזיק	Kategorio:Fiziko
+קאַטעגאָריע:נאטור-וויסנשאפטן	Kategorio:Naturscienco
+קאַטעגאָריע:ביאלאגיע	Kategorio:Biologio
+קאַטעגאָריע:כעמיע	Kategorio:Kemio
+קאַטעגאָריע:ערד וויסנשאפטן	Kategorio:Terscienco
+קאַטעגאָריע:היסטאריע	Kategorio:Historio
+קאַטעגאָריע:געאגראפיע	Kategorio:Geografio
+קאַטעגאָריע:געזעלשאפט	Kategorio:Socio
+קאַטעגאָריע:רעליגיע	Kategorio:Religio
+קאַטעגאָריע:ספארט	Kategorio:Sporto
+קאַטעגאָריע:וויסנשאפט	Kategorio:Scienco
+קאַטעגאָריע:פאראייניגטע פעלקער	Kategorio:Unuiĝintaj Nacioj
+קאַטעגאָריע:אייראפעישער פארבאנד	Kategorio:Eŭropa Unio
+קאַטעגאָריע:פילם	Kategorio:Kino
+קאַטעגאָריע:וועלט ירושה ערטער	Kategorio:Mondaj heredaĵoj de UNESKO
+קאַטעגאָריע:געביידעס	Kategorio:Konstruaĵoj
+קאַטעגאָריע:שפראך	Kategorio:Lingvo
+קאַטעגאָריע:קאמוניקאציע	Kategorio:Komunikado
+קאַטעגאָריע:ערד	Kategorio:Tero
+קאַטעגאָריע:קאסמאס	Kategorio:Spaco
+קאַטעגאָריע:אינפארמאציע	Kategorio:Informado
+פראזע	Frazo (muziko)
+לאוער איסט סייד	Lower East Side
+טעלעגראם	Telegramo
+גוש קטיף	Guŝ Katif
+יאנואר 2007	Januaro de 2007
+דארא גובערניע	Gubernio Daraa
+מאל	Noktopapilio
+אוראלט רוים	Romio
+פארבאט	Malpermeso
+מאזאטאן, טשיאפאס	Mazatán (Chiapas)
+אינטיפאדע	Intifado
+דאן פראנסיסקא	Don Francisco
+ארקטישער אקעאן קאנפערענץ	Konferenco pri la Arkta Oceano
+סטרונע אינסטרומענטן	Kordinstrumento
+הסופות בנגב	Majaj leĝoj
+באסטיל	Bastille
+מיי 2006	Majo de 2006
+מעטראפאליטען שטח	Metropolaj regionoj
+לאשיץ	Łosice
+אזשאראוו	Ożarów
+זשורנאליסט	Ĵurnalisto
+טערמין	Termino (terminologio)
+קאַטעגאָריע:עקאלאגיע	Kategorio:Ekologio
+קאַטעגאָריע:באדייטן	Kategorio:Apartigiloj
+קאַטעגאָריע:פילאסאפיע	Kategorio:Filozofio
+קאַטעגאָריע:פסיכאלאגיע	Kategorio:Psikologio
+קאַטעגאָריע:קריסטנטום	Kategorio:Kristanismo
+קאַטעגאָריע:איסלאם	Kategorio:Islamo
+קאַטעגאָריע:יידישקייט	Kategorio:Judismo
+קלינישער טויט	Klinika morto
+אקטאבער 2006	Oktobro de 2006
+טעריטאריעליזם	Teritoriismo
+אראנזש (באדייטן)	Oranĝo
+ראמאנסערא	Romancaro
+סטרימבע	Strimba
+נעליפינא	Nelipino
+אדלער	Aglo
+קלייד	Jupo
+פארראט	Perfido
+באנעם	Kogno
+סיון	Sivano
+הכוזרי	Kuzari
+דגניה א'	Deganja
+באכאטניץ	Bochotnica
+אייסיס	Islama Ŝtato de Irako kaj Sirio
+פאלק	Popolo
+זיכערהייט	Sekureco
+רעזשיסאר	Reĝisoro
+פאבלא קלאריס	Pau Claris i Casademunt
+רימאנאוו	Rymanów
+מאוו אן.ארג	MoveOn
+שיינהייט קעניגען	Beleco-konkurso
+זמיטראק ביאדוליא	Zmitrok Bjadulja
+היסטאריע פון מדינת ישראל	Historio de Israelo
+קרבן פסח	Paska ŝafido (malnova testamento)
+גניבה	Ŝtelo
+ניוקליז	Nukleo
+פארטאל:ליטעראטור	Portalo:Literaturo
+שטויב	Pulvoro
+שוואגער	Bofrato
+דער דיבוק	Dibuk
+פירערשאפט	Administradoscienco
+קאַטעגאָריע:שטומף	Kategorio:Ĝermo
+קאַטעגאָריע:וויקיפעדיע אדמיניסטראציע	Kategorio:Vikipedio:Vikipedio
+קאַטעגאָריע:פלאנעטן	Kategorio:Planedoj
+קאַטעגאָריע:מוזיק שטומף	Kategorio:Ĝermoj pri muziko
+קאַטעגאָריע:קולטור	Kategorio:Kulturo
+קאַטעגאָריע:קאטעגאריעס	Kategorio:Kategorioj
+קאַטעגאָריע:יארן	Kategorio:Jaroj
+קאַטעגאָריע:גייסט וויסנשאפט	Kategorio:Homa scienco
+קאַטעגאָריע:וויסן	Kategorio:Scio
+קאַטעגאָריע:קאנטינענטן	Kategorio:Kontinentoj
+קאַטעגאָריע:געאלאגיע	Kategorio:Geologio
+קאַטעגאָריע:רשימות	Kategorio:Listoj
+װיקיפּעדיע:נאמען פון ארטיקל	Vikipedio:Titoloj de artikoloj
+װיקיפּעדיע:וויקיפעד	Vikipedio:Vikipediistoj
+טייפן	Tajpado
+הילף:לעצטע ענדערונגען	Helpo:Lastaj ŝanĝoj
+הארטקייט	Dureco
+סטאוו	Lageto
+מאדזשענטא	Magenta (koloro)
+קאַטעגאָריע:טרופעס	Kategorio:Muzikaj grupoj
+שוויצן	Ŝvito
+װיקיפּעדיע:איינשרייבן	Helpo:Registriĝo
+קדש הקדשים	Sanktaĵo de Sanktaĵoj
+װיקיפּעדיע:עטיקעט	Vikipedio:Etiko de Vikipedio
+סואווערענער שטאט	Suverena ŝtato
+שליים	Muko
+קאַטעגאָריע:וויקיפעדיע באטס	Kategorio:Vikipedio:Robotoj
+צייכן	Signo (semiotiko)
+שאמלוי	Șimleu Silvaniei
+אפעראציע (מאטעמאטיק)	Operacioj per nombroj
+משה בראנשטיין	Mikaelo Bronŝtejn
+בית המקדש	Templo de Jerusalemo
+װיקיפּעדיע:קוואליטעט אטאקע	Vikipedio:Kunlaboraĵo de la semajno
+מוסטער:ביכער	Ŝablono:Bibliotekoj
+װיקיפּעדיע:זיי דרייסט אין פארבעסערן ארטיקלן	Vikipedio:Redaktu kun kuraĝo
+ברוקווע	Rapo
+מוסטער:ציטירן	Ŝablono:Citaĵo
+קאַטעגאָריע:דייטשן	Kategorio:Germanoj
+קאַטעגאָריע:אמעריקאנער	Kategorio:Usonanoj
+קאַטעגאָריע:אקטיארן	Kategorio:Aktoroj
+קאַטעגאָריע:בריטישע מענטשן	Kategorio:Britoj
+קאַטעגאָריע:פראנצויזן	Kategorio:Francoj
+קאַטעגאָריע:דענער	Kategorio:Personoj de Danio
+קאַטעגאָריע:איטאליענער	Kategorio:Italoj
+קאַטעגאָריע:טייכן אין אייראפע	Kategorio:Riveroj en Eŭropo
+קאַטעגאָריע:ראמאנען	Kategorio:Romanoj
+קאַטעגאָריע:סצענאר שרייבער	Kategorio:Scenaristoj
+מוסטער:מל	Ŝablono:Ŝ
+מיינונג	Opinio
+הינריכטונג	Ekzekuto
+קאַטעגאָריע:גוגל	Kategorio:Google
+קאַטעגאָריע:בלעטערערס	Kategorio:TTT-legiloj
+הויפט זייט/אנדערע שפראכן	Ŝablono:ĈefPaĝo/AliajLingvoj
+מוסטער:אויסדערוויילטע ארטיקלען	Ŝablono:ĈefPaĝoMondAktualaĵo
+קאַטעגאָריע:פרייע ווייכווארג	Kategorio:Libera programaro
+קאַטעגאָריע:געזעץ	Kategorio:Juro
+קאַטעגאָריע:לענדער	Kategorio:Landoj
+קאַטעגאָריע:אדמיניסטראציע	Kategorio:Administracio
+קאַטעגאָריע:עקאנאמיע	Kategorio:Ekonomiko
+װיקיפּעדיע:אדמיניסטראטארן	Vikipedio:Administrantoj
+קאַטעגאָריע:קאזאכסטאן	Kategorio:Kazaĥio
+קאַטעגאָריע:פערזענלעכקייטן	Kategorio:Personoj
+װיקיפּעדיע:קאנדידאטורן	Vikipedio:Administrantoj/kandidatoj
+װיקיפּעדיע:ביוראקראט	Vikipedio:Burokratoj
+קאַטעגאָריע:פאכן	Kategorio:Profesioj
+קאַטעגאָריע:מענטשן לויטן פאך	Kategorio:Homoj laŭ profesioj
+װיקיפּעדיע:באט	Vikipedio:Roboto
+קאַטעגאָריע:באהאלטענע קאטעגאריעס	Kategorio:Kaŝitaj kategorioj
+קאַטעגאָריע:צייט	Kategorio:Tempo
+קאַטעגאָריע:נאטור	Kategorio:Naturo
+קאַטעגאָריע:אינטערנעט	Kategorio:Interreto
+קאַטעגאָריע:באטאניק	Kategorio:Botaniko
+קאַטעגאָריע:אינזשעניריע	Kategorio:Inĝenierarto
+קאַטעגאָריע:מאטעריאלן	Kategorio:Materialoj
+װיקיפּעדיע:100 נייטיקע	Vikipedio:Listo de 100 plej havendaj artikoloj
+װיקיפּעדיע:קאנטראלירן בלעטער	Projekto:Kontrolu Vikipedion
+קאַטעגאָריע:היסטארישע לענדער אין אייראפע	Kategorio:Pereintaj ŝtatoj de Eŭropo
+קאַטעגאָריע:אנאטאמיע	Kategorio:Anatomio
+קאַטעגאָריע:מעדיצין	Kategorio:Medicino
+װיקיפּעדיע:אינטערשפראך לינקען	Helpo:Interlingva ligilo
+קאַטעגאָריע:פאליטיק	Kategorio:Politiko
+קאַטעגאָריע:חינוך	Kategorio:Edukado
+קאַטעגאָריע:אפטיק	Kategorio:Optiko
+קאַטעגאָריע:קונסט	Kategorio:Arto
+קאַטעגאָריע:ווייכווארג	Kategorio:Programaro
+קאוונע	Kaŭno
+בוך האלטעריי	Kontado
+עגיפטן	Egiptujo
+װיקיפּעדיע:זאקן פאפעט	Vikipedio:Gantopupo
+הילף:מוסטער	Helpo:Ŝablono
+קאַטעגאָריע:פילאסאפן	Kategorio:Filozofoj
+קאַטעגאָריע:סטאטיסטיק	Kategorio:Statistiko
+קאַטעגאָריע:וואלן	Kategorio:Baloto
+מוסטער:באט	Ŝablono:Bot
+דעפרעסיע	Deprimo
+פינאקיא (1940 פילם)	Pinokjo (filmo, 1940)
+װיקיפּעדיע:וואס וויקיפעדיע איז נישט	Vikipedio:Kio Vikipedio ne estas
+קאנאדע	Kanado
+קאַטעגאָריע:אונגארן	Kategorio:Hungario
+קאַטעגאָריע:בעלגיע	Kategorio:Belgio
+קאַטעגאָריע:טשעכיי	Kategorio:Ĉeĥio
+קאַטעגאָריע:דענמארק	Kategorio:Danio
+קאַטעגאָריע:פינלאנד	Kategorio:Finnlando
+קאַטעגאָריע:גריכנלאנד	Kategorio:Grekio
+קאַטעגאָריע:לעטלאנד	Kategorio:Latvio
+קאַטעגאָריע:איסלאנד	Kategorio:Islando
+קאַטעגאָריע:לוקסעמבורג	Kategorio:Luksemburgo
+קאַטעגאָריע:ליטע	Kategorio:Litovio
+קאַטעגאָריע:שוועדן	Kategorio:Svedio
+קאַטעגאָריע:סלאוואקיי	Kategorio:Slovakio
+קאַטעגאָריע:סלאוועניע	Kategorio:Slovenio
+קאַטעגאָריע:אירלאנד	Kategorio:Respubliko de Irlando
+װיקיפּעדיע:קאפירעכטן	Vikipedio:Aŭtorrajto
+קאַטעגאָריע:רעקאמענדירטע ארטיקלען	Kategorio:Elstaraj artikoloj
+פעלקעררעכט	Internacia juro
+געפאנצערטער סאלדאטן טראנספארט	Kirasita transportilo
+קאַטעגאָריע:כעמיקער	Kategorio:Kemiistoj
+דימענסיע	Dimensio
+קאַטעגאָריע:מלחמות	Kategorio:Militoj
+קאַטעגאָריע:ווידעא שפילעריי	Kategorio:Videoludoj
+קאַטעגאָריע:שפילעריי	Kategorio:Ludoj
+קאַטעגאָריע:מייקראסאפט	Kategorio:Mikrosofto
+הילף:קורץ ווארט	Vikipedio:Resumo
+װיקיפּעדיע:בקשות פון די סיסאפן	Vikipedio:Diskutejo/Administrejo
+קאַטעגאָריע:וויקיפעדיע פאליסיס און אנווייזונגן	Kategorio:Vikipedio:Politiko
+קאַטעגאָריע:לענדער אין אייראפע	Kategorio:Eŭropaj landoj
+קאַטעגאָריע:אייראפע	Kategorio:Eŭropo
+קאַטעגאָריע:וויקיפעדיע הילף	Kategorio:Helpo
+קאַטעגאָריע:קאטעגאריעס לויט טעמעס	Kategorio:Kategorioj laŭ temo
+װיקיפּעדיע:שמועס	Vikipedio:Diskutpaĝo
+װיקיפּעדיע:באניצער בלאט	Vikipedio:Uzantopaĝo
+פארטאל:אקטועלע געשעענישן	Vikipedio:Aktualaĵoj
+װיקיפּעדיע:באטס/בקשות פאר הסכמה	Vikipedio:Roboto/Permespeto
+קאַטעגאָריע:וויקיפעדיע אויסמעקן	Kategorio:Vikipedio:Forigoj
+װיקיפּעדיע:ארטיקל באשיצונג	Vikipedio:Ŝlosendaj paĝoj
+דאקטאר	Doktoro
+װיקיפּעדיע:איי אר סי טשענעלס	Vikipedio:IRC
+קאַטעגאָריע:באנוצער קאטעגאריעס	Kategorio:Vikipediistoj
+װיקיפּעדיע:קאנסענסוס	Vikipedio:Interkonsento
+װיקיפּעדיע:קיין פערזענלעכע אטאקעס	Vikipedio:Neniu persona atako
+װיקיפּעדיע:קאנטאקט אונדז	Vikipedio:Kontaktoj
+װיקיפּעדיע:פארלאמענט	Portalo:Komunumo
+קאַטעגאָריע:וויקיפעדיע געמיינדע	Kategorio:Vikipedio:Komunumo
+קאַטעגאָריע:באַניצער	Kategorio:Vikipediistoj laŭ lingvo
+װיקיפּעדיע:פאליסיס און אנווייזונגען	Vikipedio:Regularo
+װיקיפּעדיע:פינף זיילן	Vikipedio:Kvin principoj
+קאַטעגאָריע:וויקיפעדיע אפיציעלער פאליסי	Kategorio:Vikipedio:Reguloj
+קאַטעגאָריע:וויקיפעדיע אנווייזונגען	Kategorio:Vikipedio:Rekomendoj
+װיקיפּעדיע:נייטראל	Vikipedio:Neŭtrala vidpunkto
+װיקיפּעדיע:קיין אריגינעלע פארשונג	Vikipedio:Ne faru originalan esploradon
+װיקיפּעדיע:דריי-מאל צוריקדרייען	Vikipedio:Regulo de tri malfaroj
+װיקיפּעדיע:אויטאביאגראפיע	Vikipedio:Membiografio
+װיקיפּעדיע:מערקווערדיג	Vikipedio:Menciindeco
+װיקיפּעדיע:דרויסענדיגע לינקען	Vikipedio:Eksteraj ligiloj
+װיקיפּעדיע:באניצער קעסטלעך	Vikipedio:Uzantoskatolo
+װיקיפּעדיע:אונטערשרייבן	Helpo:Subskribo
+װיקיפּעדיע:שטומף	Vikipedio:Ĝermo
+װיקיפּעדיע:דן זיין לכף זכות	Vikipedio:Supozu bonajn intencojn
+װיקיפּעדיע:ביאגראפיעס פון לעבעדיגע פערזענליכקייטן	Vikipedio:Biografioj de vivantaj homoj
+װיקיפּעדיע:פארטאל	Vikipedio:Portaloj
+װיקיפּעדיע:וואנדאליזם	Vikipedio:Vandalismo
+הילף:באהעפטן	Helpo:Kunigi paĝojn
+װיקיפּעדיע:בעטן ארטיקלען	Vikipedio:Dezirataj artikoloj
+סלעש	Oblikvo
+דזשיי-גי סעאָנג	Sung Jae-gi
+אלפאנסא פאלערא	Alfonso Falero
+װיקיפּעדיע:רעדאקטירונג מלחמה	Vikipedio:Redaktomilito
+ביזנעס	Profitcela organizaĵo
+מוסטער:Softredirect	Ŝablono:Intervikia plusendilo
+װיקיפּעדיע:וויקידאטן	Vikipedio:Vikidatumoj
+מוסטער:שנעל אויסמעקן	Ŝablono:Forigu tuj
+קאַטעגאָריע:טעכנאלאגיע	Kategorio:Teknologio
+ליגן	Mensogo
+קאַטעגאָריע:שפראכן	Kategorio:Lingvoj
+קאַטעגאָריע:גראמאטיק	Kategorio:Gramatiko
+קאַטעגאָריע:גענעאלאגיע	Kategorio:Genealogio
+קאַטעגאָריע:קאלענדארן	Kategorio:Kalendaro
+הילף:אנהייבן א נייעם בלאט	Helpo:Kiel krei paĝon
+קאַטעגאָריע:וויקיפעדיע	Kategorio:Vikipedio
+קאַטעגאָריע:וויקיפעדיעס אין אנדערע שפראכן	Kategorio:Vikipedioj laŭ lingvoj
+װיקיפּעדיע:קלארשטעלונג	Vikipedio:Malgarantio
+קאַטעגאָריע:בלעטער מיט צעבראכענע טעקע לינקען	Kategorio:Paĝoj kun eraraj dosierligiloj
+קאַטעגאָריע:געשטעלטע צו מעקן	Kategorio:Forigendaj artikoloj
+מאנומענט	Monumento
+סאלדאט	Soldato
+קאַטעגאָריע:אקטועלע ארטיקלן	Kategorio:Aktualaĵoj
+קאַטעגאָריע:שטעט אין טשעכיי	Kategorio:Urboj de Ĉeĥio
+קאַטעגאָריע:שטעט אין אייראפע	Kategorio:Urboj de Eŭropo
+קאַטעגאָריע:שטעט לויט לענדער	Kategorio:Urboj laŭ landoj
+װיקיפּעדיע:סטאטיסטיק	Vikipedio:Statistiko
+װיקיפּעדיע:פריוואטקייט פאליסי	Vikipedio:Respekto de la privateco
+װיקיפּעדיע:נאמענטייל	Helpo:Nomspaco
+װיקיפּעדיע:שרייבן און סטיל אנווייזונגען	Vikipedio:Stilogvido
+װיקיפּעדיע:אויסמעקן פאליסי	Vikipedio:Reguloj pri forigado
+מוסטער:נאוויגאציע גרופעס	Ŝablono:Navigilo2
+רעמיט	Remeți (Maramureș)
+דעפאליע	Câmpulung la Tisa
+סיטשעל	Săcel (Maramureş)
+סטרימטערע	Strâmtura
+האלמין	Halmeu
+לאפוש	Lăpuş
+קענגורו	Kanguruo
+יוסטיץ	Justeco
+קאַטעגאָריע:שטעט אין איראן	Kategorio:Urboj de Irano
+הילף:לינק	Helpo:Ligi
+קאַטעגאָריע:לעבעדיגע מענטשן	Kategorio:Vivantaj homoj
+קאַטעגאָריע:ארטיקלן וואס זייער נייטראלקייט איז אין מחלוקת	Kategorio:Artikoloj kun malneŭtrala enteno
+קאַטעגאָריע:געשטעלטע צו פאראייניקן	Kategorio:Kunigendaj artikoloj
+קאַטעגאָריע:וויקיפעדיע אויפהאלטונג	Kategorio:Artikoloj bezonantaj plibonigon
+קאַטעגאָריע:קאמפיוטעריי	Kategorio:Aplikata komputiko
+פאראכטונג	Malrespekto
+מוסטער:!	Ŝablono:!
+קאַטעגאָריע:פאן מוסטערן	Kategorio:Ŝablonoj landonomoj kun flageto
+מוסטער:=	Ŝablono:=
+מוסטער:טינעוובאר	Ŝablono:Tnavbar
+קאַטעגאָריע:פארמאט מוסטערן	Kategorio:Ŝablono:Formatigo
+מוסטער:קלאווישדרוק	Ŝablono:Klavo
+מוסטער:אויבערשטראך	Ŝablono:Supra linio
+בטחון	Fido
+מוסטער:קליין	Ŝablono:Malgrande
+מוסטער:נישט וויקלען	Ŝablono:Nrsp
+מוסטער:Bots	Ŝablono:Bots
+מוסטער:Anchor	Ŝablono:Ankro
+G-string	Ŝnurkalsoneto
+װיקיפּעדיע:וויכטיגע ארטיקלען	Vikipedio:Listo de havendaj artikoloj
+קאַטעגאָריע:אפריקע	Kategorio:Afriko
+קאַטעגאָריע:יולי	Kategorio:Julio
+קאַטעגאָריע:נומערן	Kategorio:Nombroj
+קאַטעגאָריע:יוני	Kategorio:Junio
+קאַטעגאָריע:עלעקטראניק	Kategorio:Elektroniko
+קאַטעגאָריע:דערפער	Kategorio:Vilaĝoj
+קאַטעגאָריע:דאקומענטן	Kategorio:Dokumentoj
+קאַטעגאָריע:ביכער	Kategorio:Libroj
+קאַטעגאָריע:מאנאטן	Kategorio:Monatoj
+מוסטער:באבעל	Ŝablono:Babelejo
+מוסטער:Link GA	Ŝablono:LigoLeginda
+קאַטעגאָריע:שפיטעלער	Kategorio:Malsanulejoj
+מוסטער:ימים טובים	Ŝablono:Judaj festoj
+װיקיפּעדיע:מקורות	Vikipedio:Citi fontojn
+װיקיפּעדיע:זוכן	Helpo:Serĉado
+װיקיפּעדיע:אויסגעקליבענער ארטיקל	Vikipedio:Kriterioj por elstaraj artikoloj
+קאַטעגאָריע:תקופות אין געשיכטע	Kategorio:Historio laŭ epokoj
+מוסטער:User ar-1	Ŝablono:Vikipediisto ar-1
+מוסטער:User eo-1	Ŝablono:Vikipediisto eo-1
+מוסטער:User da-2	Ŝablono:Vikipediisto da-2
+מוסטער:User eo-3	Ŝablono:Vikipediisto eo-3
+מוסטער:User de	Ŝablono:Vikipediisto de
+מוסטער:User de-1	Ŝablono:Vikipediisto de-1
+מוסטער:User es	Ŝablono:Vikipediisto es
+מוסטער:User de-3	Ŝablono:Vikipediisto de-3
+מוסטער:User en-3	Ŝablono:Vikipediisto en-3
+מוסטער:User en-1	Ŝablono:Vikipediisto en-1
+מוסטער:User en-2	Ŝablono:Vikipediisto en-2
+מוסטער:User en-4	Ŝablono:Vikipediisto en-4
+מוסטער:User fi	Ŝablono:Vikipediisto fi-D
+מוסטער:User en	Ŝablono:Vikipediisto en
+מוסטער:User de-2	Ŝablono:Vikipediisto de-2
+מוסטער:User es-1	Ŝablono:Vikipediisto es-1
+מוסטער:User fr-1	Ŝablono:Vikipediisto fr-1
+קאַטעגאָריע:חומר	Kategorio:Materio
+קאַטעגאָריע:לעבן	Kategorio:Vivo
+קאַטעגאָריע:אוניווערס	Kategorio:Universo
+מוסטער:User he-2	Ŝablono:Vikipediisto he-2
+מוסטער:User he-1	Ŝablono:Vikipediisto he-1
+האריזאנטאל	Horizontalo
+מוסטער:User ja	Ŝablono:Vikipediisto ja
+מוסטער:User it-1	Ŝablono:Vikipediisto it-1
+מוסטער:User fr	Ŝablono:Vikipediisto fr
+מוסטער:נישט געחתמעט	Ŝablono:Subskribo
+מוסטער:User he	Ŝablono:Vikipediisto he
+קאַטעגאָריע:טוריזם	Kategorio:Turismo
+קאַטעגאָריע:האר	Kategorio:Haroj
+קאַטעגאָריע:פעברואר	Kategorio:Februaro
+קאַטעגאָריע:נאוויגאציע מוסטערן	Kategorio:Ŝablono:Navigilo
+קאַטעגאָריע:אינסעקטן	Kategorio:Insektoj
+קאַטעגאָריע:מאלדאווע	Kategorio:Moldavio
+קאַטעגאָריע:אזיע	Kategorio:Azio
+קאַטעגאָריע:טשילע	Kategorio:Ĉilio
+קאַטעגאָריע:21סטער י"ה	Kategorio:21-a jarcento
+קאַטעגאָריע:אויפהאלטונג מוסטערן	Kategorio:Ŝablono:Zorgilo
+קאַטעגאָריע:באַניצער uk	Kategorio:Vikipediisto uk
+קאַטעגאָריע:דרום אמעריקע	Kategorio:Sudameriko
+קאַטעגאָריע:באַניצער uk-N	Kategorio:Vikipediisto uk-D
+קאַטעגאָריע:עסנווארג	Kategorio:Manĝaĵoj
+קאַטעגאָריע:פוסבאל	Kategorio:Futbalo
+מוסטער:Mod	Ŝablono:Mod
+מוסטער:User it	Ŝablono:Vikipediisto it
+מוסטער:User uk	Ŝablono:Vikipediisto uk
+מוסטער:User es-2	Ŝablono:Vikipediisto es-2
+קאַטעגאָריע:ענציקלאפעדיעס	Kategorio:Enciklopedioj
+מוסטער:שלום עליכם	Ŝablono:Bonvenon
+קאַטעגאָריע:וועבלינק מוסטערן	Kategorio:Ŝablono:Eksteraj ligiloj
+קאַטעגאָריע:טעג	Kategorio:Tagoj de la semajno
+קאַטעגאָריע:לבנה	Kategorio:Luno
+קאַטעגאָריע:שטעט אין בעלארוס	Kategorio:Urboj de Belorusio
+קאַטעגאָריע:ארגאניזאציעס	Kategorio:Organizaĵoj
+קאַטעגאָריע:לינגוויסטיק	Kategorio:Lingvoscienco
+קאַטעגאָריע:מאטראסן	Kategorio:Maristoj
+מוסטער:קליק	Ŝablono:Ligo el bildo
+קאַטעגאָריע:פארבינדונג מוסטערן	Kategorio:Ŝablono:Lighelpo
+מוסטער:Wikivar	Ŝablono:Wikivar
+קאַטעגאָריע:באַניצער fr-1	Kategorio:Vikipediisto fr-1
+מוסטער:בילד קלעבל	Ŝablono:Marko sur bildo
+קאַטעגאָריע:רעגירונג זינגלידער	Kategorio:Naciaj himnoj
+מוסטער:נישט פארטיק	Ŝablono:Redaktas
+מוסטער:קיין בילד	Ŝablono:Mankas bildo
+קאַטעגאָריע:פראווינצן	Kategorio:Provincoj
+מוסטער:מדינה	Ŝablono:Informkesto lando
+קאַטעגאָריע:פילם פראדוצירער	Kategorio:Kinproduktoroj
+מוסטער:Windows	Ŝablono:Kronologio de Vindozo
+מוסטער:וויסנשאפטלער	Ŝablono:Informkesto sciencisto
+מוסטער:אוניווערסיטעט	Ŝablono:Informkesto universitato
+קאַטעגאָריע:אזארטשפילן	Kategorio:Hazardludoj
+מוסטער:שפראך-ar	Ŝablono:Lang-ar
+מוסטער:רעקאמענדירטער ארטיקל	Ŝablono:Elstara
+קאַטעגאָריע:פאריז	Kategorio:Parizo
+קאַטעגאָריע:באַניצער en-4	Kategorio:Vikipediisto en-4
+קאַטעגאָריע:באַניצער en	Kategorio:Vikipediisto en
+מוסטער:סדר-נומער	Ŝablono:Ordinara
+קאַטעגאָריע:באַניצער zh	Kategorio:Vikipediisto zh
+קאַטעגאָריע:קראאטיע	Kategorio:Kroatio
+קאַטעגאָריע:באַניצער en-2	Kategorio:Vikipediisto en-2
+קאַטעגאָריע:פרעמיער מיניסטארן פון ישראל	Kategorio:Ĉefministroj de Israelo
+מוסטער:לעגענדע	Ŝablono:Priskribo
+קאַטעגאָריע:פרעמיער מיניסטארן פון טערקיי	Kategorio:Ĉefministroj de Turkio
+קאַטעגאָריע:ביורא געצייג	Kategorio:Oficeja aparataro
+מוסטער:לאטיינישער אלפאבעט	Ŝablono:A-Z
+קאַטעגאָריע:ביאגראפיע	Kategorio:Biografio
+קאַטעגאָריע:אוויאציע	Kategorio:Aviado
+קאַטעגאָריע:קאטעגאריעס לויט לענדער	Kategorio:Kategorioj laŭ landoj
+קאַטעגאָריע:נעמען	Kategorio:Nomoj
+קאַטעגאָריע:שטעט אין טערקיי	Kategorio:Urboj de Turkio
+מוסטער:GeoTemplate	Ŝablono:GeoTemplate
+קאַטעגאָריע:עסנווארג און געטראנקען	Kategorio:Kuirarto
+קאַטעגאָריע:מאגאזינען	Kategorio:Gazetoj
+מוסטער:Coor URL	Ŝablono:KoordinatojURL
+קאַטעגאָריע:איבערזעצונג	Kategorio:Traduko
+קאַטעגאָריע:קאנסטרוקציע	Kategorio:Konstruado
+מוסטער:User nl-1	Ŝablono:Vikipediisto nl-1
+מוסטער:באן ליניע אפטיילונג	Ŝablono:FL
+מוסטער:User nl-2	Ŝablono:Vikipediisto nl-2
+מוסטער:באן ליניע אפט3	Ŝablono:FL3
+קאַטעגאָריע:רוימער	Kategorio:Romianoj
+קאַטעגאָריע:פערזענלעכקייטן אין תנ"ך	Kategorio:Roluloj de la Tanaĥo
+קאַטעגאָריע:לאנדווירטשאפט	Kategorio:Agrikulturo
+קאַטעגאָריע:חורבן אייראפע	Kategorio:Holokaŭsto
+קאַטעגאָריע:שטעט אין קאזאכסטאן	Kategorio:Urboj de Kazaĥio
+קאַטעגאָריע:וואסער טראנספארט	Kategorio:Akva transporto
+קאַטעגאָריע:מיקראביאלאגיע	Kategorio:Mikrobiologio
+קאַטעגאָריע:פרעזידענטן	Kategorio:Prezidantoj
+קאַטעגאָריע:בערג	Kategorio:Montoj
+קאַטעגאָריע:בריטאניע	Kategorio:Britio
+מוסטער:User ru	Ŝablono:Vikipediisto ru
+קאַטעגאָריע:20סטער י"ה	Kategorio:20-a jarcento
+מוסטער:IPA	Ŝablono:IFA
+מוסטער:באן ליניע אפט2	Ŝablono:FL2
+קאַטעגאָריע:פאליטיקער	Kategorio:Politikistoj
+מוסטער:יתום	Ŝablono:Orfa
+קאַטעגאָריע:פלאנעטן פון דער זון סיסטעם	Kategorio:Sunsistemaj planedoj
+קאַטעגאָריע:אמעריקע	Kategorio:Ameriko
+מוסטער:אנדערע באדייטן	Ŝablono:Aliaj signifoj
+קאַטעגאָריע:געווירצן	Kategorio:Spicoj
+מלאכי	Malaĥi (profeto)
+קאַטעגאָריע:זיכערהייט	Kategorio:Protektado
+קאַטעגאָריע:פעלקער	Kategorio:Homoj laŭ nacioj
+קאַטעגאָריע:פאלעסטינע	Kategorio:Palestino
+קאַטעגאָריע:איבערזעצער	Kategorio:Tradukistoj
+מוסטער:פרעזידענטן פון די פאראייניגטע שטאטן	Ŝablono:Prezidentoj de Usono
+קאַטעגאָריע:באנוצער שפראך מוסטערן	Kategorio:Babelaj ŝablonoj
+קאַטעגאָריע:נביאים	Kategorio:Profetoj
+קאַטעגאָריע:וואשינגטאן	Kategorio:Vaŝingtonio
+מוסטער:Rellink	Ŝablono:RilataLigilo
+מוסטער:הויפטשטעט אין אפריקע	Ŝablono:Afrikaj ĉefurboj
+קאַטעגאָריע:מאס	Kategorio:Mezurunuoj
+מוסטער:MONTHNAME	Ŝablono:Nomo de monato
+מוסטער:קאטעגאריע אריבערפירן	Ŝablono:Kategoria alidirekto
+מוסטער:מאטעמאטיק-שטומף	Ŝablono:Ĝermo-matematiko
+קאַטעגאָריע:ביאגראפיע שטומף	Kategorio:Ĝermoj pri biografio
+קאַטעגאָריע:תנ"ך	Kategorio:Tanaĥo
+קאַטעגאָריע:יידן	Kategorio:Judoj
+קאַטעגאָריע:19טער י"ה	Kategorio:19-a jarcento
+קאַטעגאָריע:שרייבער	Kategorio:Verkistoj
+קאַטעגאָריע:מיליטער	Kategorio:Armitaj fortoj
+קאַטעגאָריע:פילאנטראפן	Kategorio:Filantropoj
+קאַטעגאָריע:אוניווערסיטעטן	Kategorio:Universitatoj
+מוסטער:דייטשע לענדער	Ŝablono:Federaciaj landoj de Germanio
+מוסטער:מוזיק-שטומף	Ŝablono:Ĝermo-muziko
+מוסטער:שפראך-he	Ŝablono:Lang-he
+טעאריע פון משמעותדיקייט	Probablokalkulo
+קאַטעגאָריע:יאנואר	Kategorio:Januaro
+מוסטער:שפראך-fa	Ŝablono:Lang-fa
+קאַטעגאָריע:רעזשיסארן	Kategorio:Reĝisoroj
+מוסטער:User pl	Ŝablono:Vikipediisto pl
+מוסטער:User nl	Ŝablono:Vikipediisto nl
+קאַטעגאָריע:שפיאנאזש אגענטורן	Kategorio:Sekretaj servoj
+מוסטער:בילד קלעבל סוף	Ŝablono:Marko sur bildo fino
+מוסטער:אינפאקעסטל באן סטאנציע	Ŝablono:Informkesto Fervoja stacidomo
+קאַטעגאָריע:מאלעריי	Kategorio:Pentrado
+מוסטער:שפראך-de	Ŝablono:Lang-de
+מוסטער:צושרייבונג	Ŝablono:Atribuo
+קאַטעגאָריע:פארטן	Kategorio:Haveno
+קאַטעגאָריע:געפילן	Kategorio:Emocioj
+קאַטעגאָריע:קאסמאלאגיע	Kategorio:Kosmologio
+קאַטעגאָריע:פרעזידענטן פון לענדער	Kategorio:Listoj de regantoj laŭ lando
+קאַטעגאָריע:וואקאבולאר	Kategorio:Leksikoj
+קאַטעגאָריע:ווערטער	Kategorio:Vortoj
+קאַטעגאָריע:קערפער פון וואסער	Kategorio:Akvaĵoj
+טורקיז (קאליר)	Turkisa
+אינדעך	Indiga
+קאַטעגאָריע:פירמעס	Kategorio:Firmaoj
+קאַטעגאָריע:מידות	Kategorio:Etiko
+מוסטער:User pl-1	Ŝablono:Vikipediisto pl-1
+מוסטער:בילד קלעבל קליין	Ŝablono:Marko sur bildo malgranda
+קאַטעגאָריע:צלם-בלומיקע	Kategorio:Brasikacoj
+מוסטער:User fr-3	Ŝablono:Vikipediisto fr-3
+קאַטעגאָריע:ספר בראשית	Kategorio:Genezo
+קאַטעגאָריע:אויסדרוקן	Kategorio:Frazoj
+קאַטעגאָריע:שטעט אין יאפאן	Kategorio:Urboj de Japanio
+קאַטעגאָריע:געצייג	Kategorio:Aparataro
+וואכטל	Koturno
+מוסטער:קאנטינענט	Ŝablono:Informkesto kontinento
+מוסטער:User is-1	Ŝablono:Vikipediisto is-1
+מוסטער:User ar-2	Ŝablono:Vikipediisto ar-2
+מוסטער:User is	Ŝablono:Vikipediisto is
+מוסטער:User de-0	Ŝablono:Vikipediisto de-0
+מוסטער:User SUL Box	Ŝablono:Uzanto SUL
+מוסטער:טעג פון דער וואך	Ŝablono:Tagoj de la semajno
+קאַטעגאָריע:בלאגס	Kategorio:Blogoj
+קאַטעגאָריע:כעמישע סובסטאנצן	Kategorio:Substancoj
+קאַטעגאָריע:פילמען לויט שפראך	Kategorio:Filmoj laŭ lingvoj
+קאַטעגאָריע:שטעט אין די פאראייניגטע שטאטן פון אמעריקע	Kategorio:Urboj de Usono
+מוסטער:PDF	Ŝablono:PDFligilo
+מוסטער:שפראך-ru	Ŝablono:Lang-ru
+קאַטעגאָריע:מוזיק זשאנערס	Kategorio:Muzikaj ĝenroj
+קאַטעגאָריע:אימפעריעס	Kategorio:Imperioj
+קאַטעגאָריע:פארט שטעט	Kategorio:Marhavenaj urboj
+קאַטעגאָריע:מקומות הקדושים	Kategorio:Lokoj por kultado
+מוסטער:רוימישע נומערן	Ŝablono:Romiaj ciferoj
+קאַטעגאָריע:שטעט אין שװעדן	Kategorio:Urboj de Svedio
+מוסטער:שטאמבוים/אנהייב	Ŝablono:Genealogia arbo/komenco
+מוסטער:באדייטן	Ŝablono:Apartigilo
+קאַטעגאָריע:פלעצער פון תנ"ך	Kategorio:Bibliaj lokoj
+קאַטעגאָריע:דייטשע יידן	Kategorio:Germanaj judoj
+קאַטעגאָריע:געזונט וויסנשאפטן	Kategorio:Sanscienco
+קאַטעגאָריע:אינפאבאקס מוסטערן	Kategorio:Ŝablono:Informkesto
+קאַטעגאָריע:מעדיצינישע באהאנדלונגען	Kategorio:Kuracado
+מוסטער:User yi	Ŝablono:Vikipediisto yi
+מוסטער:User yi-3	Ŝablono:Vikipediisto yi-3
+מוסטער:User yi-1	Ŝablono:Vikipediisto yi-1
+קאַטעגאָריע:מיטל מזרח	Kategorio:Mezoriento
+מוסטער:User yi-2	Ŝablono:Vikipediisto yi-2
+װיקיפּעדיע:מיילשטיינער	Vikipedio:Vikipediaj statistikoj
+קאַטעגאָריע:פאליציי	Kategorio:Polico
+קאַטעגאָריע:נאציזם	Kategorio:Naziismo
+קאַטעגאָריע:קעז	Kategorio:Fromaĝoj
+קאַטעגאָריע:שפראך מוסטערן	Kategorio:Ŝablono:Lingvo
+קאַטעגאָריע:זיסווארג	Kategorio:Dolĉaĵoj
+קאַטעגאָריע:מאלצייטן	Kategorio:Manĝoj
+קאַטעגאָריע:שטעט אין לבנון	Kategorio:Urboj de Libano
+מוסטער:שפראך-uk	Ŝablono:Lang-uk
+מוסטער:פריי באניצונג	Ŝablono:PD-uzanto
+קאַטעגאָריע:טעאלאגיע	Kategorio:Teologio
+קאַטעגאָריע:מאנאטעיזם	Kategorio:Monoteismo
+קאַטעגאָריע:חיפה	Kategorio:Ĥajfo
+קאַטעגאָריע:קאמפיוטער נעצווערקן	Kategorio:Komputilaj retoj
+קאַטעגאָריע:ארכיטעקטור	Kategorio:Arkitekturo
+מוסטער:סלאווישע שפראכן	Ŝablono:Slava lingvaro
+מוסטער:הויפטשטעט אין דרום אמעריקע	Ŝablono:Sudamerikaj ĉefurboj
+מוסטער:Harvnb	Ŝablono:Harvnb
+קאַטעגאָריע:מאנגאליי	Kategorio:Mongolio
+קאַטעגאָריע:באן טראנספארט	Kategorio:Fervojo
+קאַטעגאָריע:יידן פון איטאליע	Kategorio:Italaj judoj
+קאַטעגאָריע:פארדייאונג סיסטעם	Kategorio:Digesta sistemo
+מוסטער:וויקיפעדיע	Ŝablono:Vikipedio
+קאַטעגאָריע:שטעט אין האלאנד	Kategorio:Urboj de Nederlando
+קאַטעגאָריע:גאסן	Kategorio:Netrakaj tervojoj
+קאַטעגאָריע:וויין	Kategorio:Vinoj
+מוסטער:Coord	Ŝablono:Koord
+מוסטער:לענדער פון אייראפע	Ŝablono:Ŝtatoj en Eŭropo
+מוסטער:ביאלאגיע-שטומף	Ŝablono:Ĝermo-biologio
+קאַטעגאָריע:מוסטער דאקומענטאציע	Kategorio:Ŝablono:Dokumentado
+קאַטעגאָריע:באַניצער eo	Kategorio:Vikipediisto eo
+קאַטעגאָריע:באַניצער fr	Kategorio:Vikipediisto fr
+קאַטעגאָריע:באַניצער ja	Kategorio:Vikipediisto ja
+קאַטעגאָריע:באַניצער la	Kategorio:Vikipediisto la
+קאַטעגאָריע:באַניצער nn	Kategorio:Vikipediisto nn
+קאַטעגאָריע:באַניצער pt	Kategorio:Vikipediisto pt
+קאַטעגאָריע:באַניצער ro	Kategorio:Vikipediisto ro
+קאַטעגאָריע:באַניצער sv	Kategorio:Vikipediisto sv
+קאַטעגאָריע:באַניצער cs-3	Kategorio:Vikipediisto cs-3
+קאַטעגאָריע:באַניצער fr-3	Kategorio:Vikipediisto fr-3
+קאַטעגאָריע:באַניצער nl-3	Kategorio:Vikipediisto nl-3
+קאַטעגאָריע:באַניצער nl-1	Kategorio:Vikipediisto nl-1
+קאַטעגאָריע:באַניצער pl-1	Kategorio:Vikipediisto pl-1
+קאַטעגאָריע:באַניצער ro-1	Kategorio:Vikipediisto ro-1
+קאַטעגאָריע:באַניצער ar-1	Kategorio:Vikipediisto ar-1
+קאַטעגאָריע:באַניצער da-2	Kategorio:Vikipediisto da-2
+קאַטעגאָריע:באַניצער fr-2	Kategorio:Vikipediisto fr-2
+קאַטעגאָריע:באַניצער nl-2	Kategorio:Vikipediisto nl-2
+קאַטעגאָריע:באַניצער ar-2	Kategorio:Vikipediisto ar-2
+קאַטעגאָריע:באַניצער cs-N	Kategorio:Vikipediisto cs-D
+קאַטעגאָריע:באַניצער fr-M	Kategorio:Vikipediisto fr-D
+קאַטעגאָריע:באַניצער it-N	Kategorio:Vikipediisto it-D
+קאַטעגאָריע:באַניצער nl-N	Kategorio:Vikipediisto nl-D
+קאַטעגאָריע:באַניצער ru-N	Kategorio:Vikipediisto ru-D
+קאַטעגאָריע:פארוויילונג	Kategorio:Distrado
+קאַטעגאָריע:פלעצער	Kategorio:Loknomoj
+קאַטעגאָריע:ביזנעס	Kategorio:Negoco
+קאַטעגאָריע:שריפט	Kategorio:Skribsistemoj
+מוסטער:וועב פראגראמען	Ŝablono:Foliumiloj
+קאַטעגאָריע:וויקיפעדיע אויסרייניגונג	Kategorio:Polurindaj artikoloj
+קאַטעגאָריע:באַניצער ar	Kategorio:Vikipediisto ar
+קאַטעגאָריע:יידיש	Kategorio:Jida lingvo
+קאַטעגאָריע:באַניצער cs	Kategorio:Vikipediisto cs
+קאַטעגאָריע:אינדזלען	Kategorio:Insuloj
+קאַטעגאָריע:היסטאריקער	Kategorio:Historiistoj
+קאַטעגאָריע:באַניצער da	Kategorio:Vikipediisto da
+קאַטעגאָריע:פאציפישער אקעאן	Kategorio:Pacifika Oceano
+קאַטעגאָריע:באַניצער de	Kategorio:Vikipediisto de
+קאַטעגאָריע:באַניצער de-2	Kategorio:Vikipediisto de-2
+קאַטעגאָריע:באַניצער de-3	Kategorio:Vikipediisto de-3
+קאַטעגאָריע:באַניצער de-N	Kategorio:Vikipediisto de-D
+קאַטעגאָריע:באַניצער en-3	Kategorio:Vikipediisto en-3
+קאַטעגאָריע:באַניצער en-N	Kategorio:Vikipediisto en-D
+קאַטעגאָריע:באַניצער eo-1	Kategorio:Vikipediisto eo-1
+קאַטעגאָריע:באַניצער eo-2	Kategorio:Vikipediisto eo-2
+קאַטעגאָריע:באַניצער eo-3	Kategorio:Vikipediisto eo-3
+קאַטעגאָריע:באַניצער eo-N	Kategorio:Vikipediisto eo-D
+קאַטעגאָריע:באַניצער es	Kategorio:Vikipediisto es
+קאַטעגאָריע:באַניצער es-1	Kategorio:Vikipediisto es-1
+מוסטער:EU מיטגלידער	Ŝablono:Eŭropa Unio
+קאַטעגאָריע:רבנים	Kategorio:Rabenoj
+קאַטעגאָריע:באַניצער es-2	Kategorio:Vikipediisto es-2
+קאַטעגאָריע:באַניצער es-3	Kategorio:Vikipediisto es-3
+קאַטעגאָריע:באַניצער es-N	Kategorio:Vikipediisto es-D
+קאַטעגאָריע:באַניצער fi	Kategorio:Vikipediisto fi
+קאַטעגאָריע:באַניצער fi-N	Kategorio:Vikipediisto fi-D
+קאַטעגאָריע:באַניצער he	Kategorio:Vikipediisto he
+קאַטעגאָריע:באַניצער he-1	Kategorio:Vikipediisto he-1
+קאַטעגאָריע:באַניצער he-2	Kategorio:Vikipediisto he-2
+קאַטעגאָריע:באַניצער he-3	Kategorio:Vikipediisto he-3
+קאַטעגאָריע:באַניצער he-N	Kategorio:Vikipediisto he-D
+קאַטעגאָריע:באַניצער hu	Kategorio:Vikipediisto hu
+קאַטעגאָריע:באַניצער is	Kategorio:Vikipediisto is
+קאַטעגאָריע:באַניצער is-1	Kategorio:Vikipediisto is-1
+קאַטעגאָריע:חכמים	Kategorio:Religiestroj
+קאַטעגאָריע:טיטלען	Kategorio:Titoloj
+קאַטעגאָריע:תשמישי קדושה	Kategorio:Religiaj objektoj
+אייגנטום	Posedo
+קאַטעגאָריע:אלף בית	Kategorio:Hebrea alfabeto
+קאַטעגאָריע:העברעיש	Kategorio:Hebrea lingvo
+קאַטעגאָריע:פוילישע יידן	Kategorio:Polaj judoj
+קאַטעגאָריע:פרעזידענטן פון ווענעזועלע	Kategorio:Prezidantoj de Venezuelo
+קאַטעגאָריע:באַניצער pl-N	Kategorio:Vikipediisto pl-D
+קאַטעגאָריע:שיאיטן	Kategorio:Ŝijaismo
+קאַטעגאָריע:ראטשילד פאמיליע	Kategorio:Rothschildidoj
+קאַטעגאָריע:געאמעטריע	Kategorio:Geometrio
+קאַטעגאָריע:גארטן	Kategorio:Ĝardenado
+קאַטעגאָריע:שטעט אין ישראל	Kategorio:Urboj de Israelo
+קאַטעגאָריע:קינסטלערס	Kategorio:Artistoj
+קאַטעגאָריע:באַניצער it	Kategorio:Vikipediisto it
+קאַטעגאָריע:באַניצער it-1	Kategorio:Vikipediisto it-1
+קאַטעגאָריע:פראנצויזישע יידן	Kategorio:Francaj judoj
+קאַטעגאָריע:וועבזייטלעך	Kategorio:Retejoj
+קאַטעגאָריע:באַניצער ko	Kategorio:Vikipediisto ko
+קאַטעגאָריע:שטאטן אין די פאראייניגטע שטאטן	Kategorio:Usonaj ŝtatoj
+קאַטעגאָריע:באַניצער la-1	Kategorio:Vikipediisto la-1
+יא	Jes
+קאַטעגאָריע:וויקיפעדיע שמועסן	Kategorio:Vikipedio:Diskutejo
+קאַטעגאָריע:וואולקאנען	Kategorio:Vulkanoj
+קאַטעגאָריע:שפיאנאזש	Kategorio:Spionado
+קאַטעגאָריע:קעניגן אין סאודיע	Kategorio:Reĝoj de Sauda Arabio
+מאלצייט	Manĝo
+קאַטעגאָריע:קאמפקונסט	Kategorio:Luktoarto
+קאַטעגאָריע:וועטער	Kategorio:Vetero
+מוסטער:אינפארמאציע	Ŝablono:Informo por dosiero
+קאַטעגאָריע:שטעט אין פראנקרייך	Kategorio:Urboj de Francio
+קאַטעגאָריע:נאוועמבער	Kategorio:Novembro
+קאַטעגאָריע:אפמאכן	Kategorio:Traktatoj
+קאַטעגאָריע:באַניצער ru-1	Kategorio:Vikipediisto ru-1
+װיקיפּעדיע:באבעל	Vikipedio:Babelejo
+קאַטעגאָריע:פארברעכן	Kategorio:Kriminaleco
+מוסטער:User sv-1	Ŝablono:Vikipediisto sv-1
+קאַטעגאָריע:כעמישע פארבינדונגען	Kategorio:Kemiaj kombinaĵoj
+קאַטעגאָריע:פארשטעלונגען	Kategorio:Teatraĵoj
+קאַטעגאָריע:דיכטער	Kategorio:Poetoj
+קאַטעגאָריע:אידישע משפחות	Kategorio:Judaj familioj
+קאַטעגאָריע:טעאריעס	Kategorio:Teorioj
+קאַטעגאָריע:מערץ	Kategorio:Marto
+קאַטעגאָריע:פוילישע	Kategorio:Poloj
+קאַטעגאָריע:ענגלענדער	Kategorio:Angloj
+קאַטעגאָריע:סעפטעמבער	Kategorio:Septembro
+קאַטעגאָריע:איטאליענישע היסטאריע	Kategorio:Historio de Italio
+קאַטעגאָריע:דיפלאמאטן	Kategorio:Diplomatoj
+קאַטעגאָריע:השכלה	Kategorio:Klerismo
+קאַטעגאָריע:אקטאבער	Kategorio:Oktobro
+קאַטעגאָריע:שטעט און שטעטלעך אין סלאוואקיי	Kategorio:Urboj de Slovakio
+קאַטעגאָריע:ימען	Kategorio:Maroj
+קאַטעגאָריע:שטעט און שטעטלעך אין פוילן	Kategorio:Urboj de Pollando
+קאַטעגאָריע:דעצעמבער	Kategorio:Decembro
+קאַטעגאָריע:אויגוסט	Kategorio:Aŭgusto
+קאַטעגאָריע:מיי	Kategorio:Majo
+קאַטעגאָריע:אויטאמאביל פירמעס	Kategorio:Aŭtomobilaj firmaoj
+קאַטעגאָריע:דראגס	Kategorio:Drogoj
+גלוסט	Volupto
+קאַטעגאָריע:ענגלאנד	Kategorio:Anglio
+קאַטעגאָריע:מעטאלורגיע	Kategorio:Metalurgio
+עקספלאראציע	Esplorado
+קאַטעגאָריע:מאדעלן	Kategorio:Fotomodeloj
+קאַטעגאָריע:אפריל	Kategorio:Aprilo
+קאַטעגאָריע:מחשבה	Kategorio:Pensado
+קאַטעגאָריע:קאנפערענצן	Kategorio:Konferencoj
+מוסטער:שפראך-ko	Ŝablono:Lang-ko
+קאַטעגאָריע:קאמפיוטער וויסנשאפט	Kategorio:Komputiko
+קאַטעגאָריע:זשאנערס	Kategorio:Literaturaj ĝenroj
+קאַטעגאָריע:בלומען	Kategorio:Floroj
+קאַטעגאָריע:זון סיסטעם	Kategorio:Sunsistemo
+קאַטעגאָריע:גאט	Kategorio:Dio
+קאַטעגאָריע:אינטערנאציאנאלע ארגאניזאציעס	Kategorio:Internaciaj organizaĵoj
+קאַטעגאָריע:ענטאמאלאגיע	Kategorio:Entomologio
+קאַטעגאָריע:רעגירונג מיניסטארן	Kategorio:Ministroj
+קאַטעגאָריע:אינדוסטריע	Kategorio:Industrio
+קאַטעגאָריע:ערפינדערס	Kategorio:Inventistoj
+קאַטעגאָריע:וואסער	Kategorio:Akvo
+קאַטעגאָריע:קאפ און גענאק	Kategorio:Homaj kapo kaj kolo
+גיין	Irado
+קאַטעגאָריע:קערפער	Kategorio:Homa korpo
+קאַטעגאָריע:געטראנקען	Kategorio:Trinkaĵoj
+קאַטעגאָריע:זאאלאגיע	Kategorio:Zoologio
+קאַטעגאָריע:קאגניציע	Kategorio:Kogno
+קאַטעגאָריע:ישראל'דיגע מוסטערן	Kategorio:Ŝablono:Israelo
+קאַטעגאָריע:פרעמיער מיניסטארן	Kategorio:Ĉefministroj
+קאַטעגאָריע:פרעמיעס	Kategorio:Premioj
+קאַטעגאָריע:סימבאלן	Kategorio:Simboloj
+קאַטעגאָריע:ציוויליזאציעס	Kategorio:Civilizoj
+קאַטעגאָריע:טעאטערס	Kategorio:Teatroj
+קאַטעגאָריע:סאציאל וויסנשאפט	Kategorio:Socia scienco
+קאַטעגאָריע:בעלארוס	Kategorio:Belorusio
+קאַטעגאָריע:ראק זינגערס	Kategorio:Rokkantistoj
+קאַטעגאָריע:מאסאטשוסעטס	Kategorio:Masaĉuseco
+קאַטעגאָריע:שטעט אין רומעניע	Kategorio:Municipoj de Rumanio
+קאַטעגאָריע:ראיאנען	Kategorio:Regionoj
+קאַטעגאָריע:לענדער אין אפריקע	Kategorio:Afrikaj landoj
+מוסטער:קאנאדישע פראווינצן	Ŝablono:Provincoj de Kanado
+קאַטעגאָריע:1910ער	Kategorio:1910-1919
+קאַטעגאָריע:1920ער	Kategorio:1920-1929
+קאַטעגאָריע:1950ער	Kategorio:1950-1959
+קאַטעגאָריע:1990ער	Kategorio:1990-1999
+קאַטעגאָריע:2000ער	Kategorio:2000-aj jaroj
+קאַטעגאָריע:2010ער	Kategorio:2010-aj jaroj
+מוסטער:ארגאניזאציע פאר עקאנאמישע קאאפעראציע און אנטוויקלונג	Ŝablono:OECD
+מוסטער:User es-3	Ŝablono:Vikipediisto es-3
+קאַטעגאָריע:באַניצער ro-2	Kategorio:Vikipediisto ro-2
+קאַטעגאָריע:באַניצער ro-3	Kategorio:Vikipediisto ro-3
+קאַטעגאָריע:באַניצער ro-N	Kategorio:Vikipediisto ro-D
+קאַטעגאָריע:באַניצער ru	Kategorio:Vikipediisto ru
+קאַטעגאָריע:באַניצער ru-2	Kategorio:Vikipediisto ru-2
+קאַטעגאָריע:באַניצער ru-3	Kategorio:Vikipediisto ru-3
+קאַטעגאָריע:באַניצער sv-1	Kategorio:Vikipediisto sv-1
+קאַטעגאָריע:באַניצער sv-N	Kategorio:Vikipediisto sv-D
+קאַטעגאָריע:באַניצער uk-4	Kategorio:Vikipediisto uk-4
+קאַטעגאָריע:באַניצער yi	Kategorio:Vikipediisto yi
+קאַטעגאָריע:באַניצער yi-1	Kategorio:Vikipediisto yi-1
+קאַטעגאָריע:באַניצער yi-2	Kategorio:Vikipediisto yi-2
+קאַטעגאָריע:באַניצער yi-3	Kategorio:Vikipediisto yi-3
+קאַטעגאָריע:באַניצער yi-M	Kategorio:Vikipediisto yi-D
+מוסטער:עקאנ-שטומף	Ŝablono:Ĝermo-ekonomiko
+מוסטער:שפייצן	Ŝablono:Spacoj
+קאַטעגאָריע:מוזיקער	Kategorio:Muzikistoj
+קאַטעגאָריע:מאלערס	Kategorio:Pentristoj
+װיקיפּעדיע:בילדער	Vikipedio:Bildorajtoj
+קאַטעגאָריע:צווייטע וועלט מלחמה רעגירער	Kategorio:Personoj de la dua mondmilito
+קאַטעגאָריע:לאגערן	Kategorio:Naziaj koncentrejoj
+קאַטעגאָריע:טערמינאלאגיע	Kategorio:Terminologio
+קאַטעגאָריע:ביימער	Kategorio:Arboj
+קאַטעגאָריע:סאציאלאגיע	Kategorio:Sociologio
+קאַטעגאָריע:סיסטעמען	Kategorio:Sistemoj
+אנטראפאמעטריע	Antropometrio
+סטרוקטור	Strukturo
+קאַטעגאָריע:17טער י"ה	Kategorio:17-a jarcento
+קאַטעגאָריע:פאבריקאציע	Kategorio:Fabrikado
+קאַטעגאָריע:מענטשליכע אויפפירונג	Kategorio:Homa konduto
+קאַטעגאָריע:מענטשן	Kategorio:Homoj
+קאַטעגאָריע:קאטעגאריע קעפל מוסטערן	Kategorio:Ŝablono en la spaco @@@u0026Kategorio"
+קאַטעגאָריע:וויקימעדיע פראיעקטן	Kategorio:Projektoj de la Fondaĵo Vikimedio
+קאַטעגאָריע:Windows	Kategorio:Vindozo
+קאַטעגאָריע:2014	Kategorio:2014
+מוסטער:User sv-3	Ŝablono:Vikipediisto sv-3
+קאַטעגאָריע:פלי	Kategorio:Flugado
+קאַטעגאָריע:האנדל און פינאנץ	Kategorio:Komerco
+קאַטעגאָריע:פארטאל	Kategorio:Vikipedio:Portaloj
+קאַטעגאָריע:ביאכעמיע	Kategorio:Biokemio
+קאַטעגאָריע:באן טראנספארט אין פראנקרייך	Kategorio:Fervojo en Francio
+קאַטעגאָריע:קאמפיוטער פראגראמירן	Kategorio:Programado
+קאַטעגאָריע:וויטאמינען	Kategorio:Vitaminoj
+קאַטעגאָריע:צירונגען	Kategorio:Juveloj
+קאַטעגאָריע:ריעל עסטעיט	Kategorio:Nemoveblaĵoj
+מוסטער:אנווייז צום הויפט ארטיקל	Ŝablono:Ĉefartikolo
+מוסטער:Coord/dec2dms/dm	Ŝablono:Koord/dekalgms/gm
+קאַטעגאָריע:ניו יארק	Kategorio:Nov-Jorkio
+קאַטעגאָריע:ניו זשערסי	Kategorio:Nov-Ĵerzejo
+קאַטעגאָריע:ספרים חיצונים	Kategorio:Apokrifoj de la Malnova Testamento
+קאַטעגאָריע:אהאיא	Kategorio:Ohio
+קאַטעגאָריע:קאליפארניע	Kategorio:Kalifornio
+קאַטעגאָריע:קאנעטיקעט	Kategorio:Konektikuto
+קאַטעגאָריע:מאדע	Kategorio:Modo
+מוסטער:Style/ara	Ŝablono:Style/ara
+מוסטער:גרין	Ŝablono:Verda
+קאַטעגאָריע:צווייטע וועלט מלחמה	Kategorio:Dua mondmilito
+קאַטעגאָריע:ערשטע וועלט מלחמה	Kategorio:Unua mondmilito
+קאַטעגאָריע:ציטירן מוסטערן	Kategorio:Citŝablonoj
+קאַטעגאָריע:פאפ זינגערס	Kategorio:Popkantistoj
+מוסטער:היסט-שטומף	Ŝablono:Ĝermo-historio
+קאַטעגאָריע:טעריאטאריעס	Kategorio:Teritorioj
+קאַטעגאָריע:טעקסטיל	Kategorio:Teksaĵoj
+קאַטעגאָריע:אמעריקאנער שרייבער	Kategorio:Usonaj verkistoj
+קאַטעגאָריע:דראמאטורגן	Kategorio:Dramistoj
+קאַטעגאָריע:ארכיטעקטן	Kategorio:Arkitektoj
+קאַטעגאָריע:גאבאן	Kategorio:Gabono
+קאַטעגאָריע:קאמערון	Kategorio:Kameruno
+קאַטעגאָריע:ליביע	Kategorio:Libio
+קאַטעגאָריע:מאראקא	Kategorio:Maroko
+קאַטעגאָריע:היסטאריע פון פוילן	Kategorio:Historio de Pollando
+קאַטעגאָריע:בריטישע אינזלען	Kategorio:Britaj Insuloj
+קאַטעגאָריע:מצוות און מנהגים	Kategorio:Judaj juro kaj ritaro
+קאַטעגאָריע:טראנספארט אין ישראל	Kategorio:Transporto en Israelo
+קאַטעגאָריע:יידן און יידישקייט	Kategorio:Judoj kaj judismo
+קאַטעגאָריע:2006	Kategorio:2006
+קאַטעגאָריע:2007	Kategorio:2007
+קאַטעגאָריע:2008	Kategorio:2008
+קאַטעגאָריע:2009	Kategorio:2009
+קאַטעגאָריע:2010	Kategorio:2010
+קאַטעגאָריע:2011	Kategorio:2011
+פארטאל:עסנווארג	Portalo:Nutrado kaj gastronomio
+קאַטעגאָריע:וויסנשאפט פארטאלן	Kategorio:Portalo:Naturscienco
+מוסטער:באן ליניע אפט4	Ŝablono:FL4
+קאַטעגאָריע:געלט	Kategorio:Monunuoj
+מוסטער:User cs-3	Ŝablono:Vikipediisto cs-3
+קאַטעגאָריע:טייכן	Kategorio:Riveroj
+קאַטעגאָריע:ארץ ישראל	Kategorio:Geografio de Israelo
+מוסטער:User he-0	Ŝablono:Vikipediisto he-0
+מוסטער:User he-3	Ŝablono:Vikipediisto he-3
+מוסטער:User ro-2	Ŝablono:Vikipediisto ro-2
+מוסטער:User ru-1	Ŝablono:Vikipediisto ru-1
+מוסטער:User uk-4	Ŝablono:Vikipediisto uk-4
+מוסטער:User zh-1	Ŝablono:Vikipediisto zh-1
+קאַטעגאָריע:היסטאריע פון רוסלאנד	Kategorio:Historio de Rusio
+קאַטעגאָריע:ספארט אין ישראל	Kategorio:Sporto en Israelo
+מוסטער:צייט זאנעס אין אייראפע	Ŝablono:Horzonoj en Eŭropo
+קאַטעגאָריע:אסטראנויטן	Kategorio:Kosmonaŭtoj
+קאַטעגאָריע:אייראוויזיאן	Kategorio:Eŭrovido-Kantokonkurso
+קאַטעגאָריע:געזאנג	Kategorio:Kantado
+קאַטעגאָריע:שוועדישע מענטשן	Kategorio:Svedoj
+קאַטעגאָריע:אינדיער	Kategorio:Baratanoj
+קאַטעגאָריע:יאפאנעזער	Kategorio:Japanoj
+קאַטעגאָריע:טעאטער	Kategorio:Teatro
+קאַטעגאָריע:יידן לויטן פאך	Kategorio:Judoj laŭ profesioj
+קאַטעגאָריע:אינזשענירן	Kategorio:Inĝenieroj
+קאַטעגאָריע:ביזנעסלייט	Kategorio:Entreprenistoj
+קאַטעגאָריע:לינגוויסטן	Kategorio:Lingvistoj
+קאַטעגאָריע:קאמיקער	Kategorio:Komikistoj
+קאַטעגאָריע:פרעמיער מיניסטארן פון בריטאניע	Kategorio:Ĉefministroj de Britio
+קאַטעגאָריע:פיליפינען	Kategorio:Filipinoj
+קאַטעגאָריע:עמערגענץ דינסטן	Kategorio:Porkrizaj servoj
+קאַטעגאָריע:ישראלדיקע זינגערס	Kategorio:Israelaj kantistoj
+קאַטעגאָריע:באַניצער nl	Kategorio:Vikipediisto nl
+קאַטעגאָריע:באַניצער no	Kategorio:Vikipediisto no
+קאַטעגאָריע:באַניצער zh-1	Kategorio:Vikipediisto zh-1
+קאַטעגאָריע:מעכאניק	Kategorio:Mekaniko
+קאַטעגאָריע:דיפלאמען	Kategorio:Akademiaj titoloj
+קאַטעגאָריע:ארמעניע	Kategorio:Armenio
+קאַטעגאָריע:מלכי פרס	Kategorio:Persaj reĝoj
+קאַטעגאָריע:מענטשלעכע אנאטאמיע	Kategorio:Homa anatomio
+קאַטעגאָריע:טעראר	Kategorio:Terorismo
+קאַטעגאָריע:אינטערנאציאנאלע באציאונגען	Kategorio:Internaciaj rilatoj
+מוסטער:שפראך-yi	Ŝablono:Lang-yi
+קאַטעגאָריע:פארזיכערונג	Kategorio:Asekuro
+קאַטעגאָריע:רעפראדוקציע	Kategorio:Reproduktado
+קאַטעגאָריע:מחנכים	Kategorio:Instruistoj
+קאַטעגאָריע:שרייבן	Kategorio:Skribo
+קאַטעגאָריע:פינאנץ	Kategorio:Financoj
+קאַטעגאָריע:נאוויגאציע	Kategorio:Navigado
+קאַטעגאָריע:געריכט	Kategorio:Tribunaloj
+קאַטעגאָריע:אלטערנאטיווע מעדיצין	Kategorio:Alternativa medicino
+קאַטעגאָריע:קאמפף קונסט	Kategorio:Luktosporto
+קאַטעגאָריע:טעלעוויזיע	Kategorio:Televido
+קאַטעגאָריע:סיריע	Kategorio:Sirio
+קאַטעגאָריע:באסקעטבאל	Kategorio:Korbopilkado
+קאַטעגאָריע:בעלגיער	Kategorio:Belgoj
+קאַטעגאָריע:סקולפטארן	Kategorio:Skulptistoj
+קאַטעגאָריע:רוסישע פאליטיקער	Kategorio:Politikistoj de Rusio
+קאַטעגאָריע:יארהונדערט	Kategorio:Jarcentoj
+קאַטעגאָריע:16טער י"ה	Kategorio:16-a jarcento
+קאַטעגאָריע:18טער י"ה	Kategorio:18-a jarcento
+קאַטעגאָריע:נאציאנאליזם	Kategorio:Naciismo
+קאַטעגאָריע:ראסיזם	Kategorio:Rasismo
+קאַטעגאָריע:טויט	Kategorio:Morto
+קאַטעגאָריע:פארברעכנס	Kategorio:Krimoj
+קאַטעגאָריע:פיאניסטן	Kategorio:Pianistoj
+קאַטעגאָריע:האלבאינדזלען	Kategorio:Duoninsuloj
+קאַטעגאָריע:דייטשע קאמפאזיטארן	Kategorio:Germanaj komponistoj
+קאַטעגאָריע:וויעטנאמעזער	Kategorio:Vjetnamoj
+קאַטעגאָריע:אמעריקאנער פאליטיקער	Kategorio:Usonaj politikistoj
+קאַטעגאָריע:רוסן	Kategorio:Rusoj
+קאַטעגאָריע:בריטישע פאליטיקער	Kategorio:Britaj politikistoj
+קאַטעגאָריע:סקאטישע מענטשן	Kategorio:Skotoj
+קאַטעגאָריע:ישראלישע פאליטיקער	Kategorio:Israelaj politikistoj
+קאַטעגאָריע:ישראלים	Kategorio:Israelanoj
+קאַטעגאָריע:טשעכן	Kategorio:Ĉeĥoj
+קאַטעגאָריע:פערסער	Kategorio:Persoj
+קאַטעגאָריע:פיקטיווע כאראקטערן	Kategorio:Fikciuloj
+קאַטעגאָריע:דורכגאסן	Kategorio:Markoloj
+קאַטעגאָריע:קאמפיוטער פראגראמען	Kategorio:Aplika programaro
+קאַטעגאָריע:קלאסישע מוזיק	Kategorio:Klasika muziko
+קאַטעגאָריע:אויג	Kategorio:Okulo
+קאַטעגאָריע:גלענדס	Kategorio:Glandoj
+קאַטעגאָריע:אייגנטום	Kategorio:Proprieto
+קאַטעגאָריע:פליפעלדער	Kategorio:Flughavenoj
+קאַטעגאָריע:צענטראלבענק	Kategorio:Centraj bankoj
+קאַטעגאָריע:2012	Kategorio:2012
+קאַטעגאָריע:כעמישע עלעמענטן	Kategorio:Kemiaj elementoj
+קאַטעגאָריע:ניו יארק סיטי	Kategorio:Novjorko
+קאַטעגאָריע:לעבאנעזער פאליטיקער	Kategorio:Libanaj politikistoj
+קאַטעגאָריע:וויסנשאפטלער	Kategorio:Sciencistoj
+קאַטעגאָריע:אויספארשערס	Kategorio:Esploristoj
+קאַטעגאָריע:ראמאניסטן	Kategorio:Romanistoj
+קאַטעגאָריע:פערזענלעכקייטן אין דער תורה	Kategorio:Roluloj de la Torao
+קאַטעגאָריע:משפחה נעמען	Kategorio:Familiaj nomoj
+קאַטעגאָריע:וויקיפעדיע גוטע ארטיקלען	Kategorio:Legindaj artikoloj
+קאַטעגאָריע:מאטעמאטיק שטומף	Kategorio:Ĝermoj pri matematiko
+קאַטעגאָריע:ביאלאגיע שטומף	Kategorio:Ĝermoj pri biologio
+קאַטעגאָריע:געאגראפיע שטומף	Kategorio:Ĝermoj pri geografio
+קאַטעגאָריע:נאבעל פריז	Kategorio:Nobel-premio
+קאַטעגאָריע:קערפערליכע פליסיגקייט	Kategorio:Korpaj likvaĵoj
+קאַטעגאָריע:גרוזיע	Kategorio:Kartvelio
+קאַטעגאָריע:כינעזער	Kategorio:Ĉinoj
+קאַטעגאָריע:טעראריסטן	Kategorio:Teroristoj
+קאַטעגאָריע:עסקנים	Kategorio:Aktivuloj
+קאַטעגאָריע:גוי'אישע חגאות	Kategorio:Sekularaj festoj
+קאַטעגאָריע:מטבעות	Kategorio:Moneroj
+קאַטעגאָריע:וויעטנאמעזער פאליטיקער	Kategorio:Vjetnamaj politikistoj
+קאַטעגאָריע:איראנער פאליטיקער	Kategorio:Iranaj politikistoj
+קאַטעגאָריע:פאקיסטאנער פאליטיקער	Kategorio:Pakistanaj politikistoj
+קאַטעגאָריע:USA מיליטער	Kategorio:Armeo de Usono
+קאַטעגאָריע:רעדאקטארן	Kategorio:Redaktoroj
+קאַטעגאָריע:זשורנאליסטן	Kategorio:Ĵurnalistoj
+קאַטעגאָריע:זשורנאליזם	Kategorio:Ĵurnalistiko
+קאַטעגאָריע:קארעע	Kategorio:Koreio
+קאַטעגאָריע:לבנון	Kategorio:Libano
+קאַטעגאָריע:טורקמעניסטאן	Kategorio:Turkmenio
+קאַטעגאָריע:אוזבעקיסטאן	Kategorio:Uzbekio
+קאַטעגאָריע:דאקטוירים	Kategorio:Kuracistoj
+קאַטעגאָריע:דייטשישע זינגערס	Kategorio:Germanaj kantistoj
+קאַטעגאָריע:שפאניער	Kategorio:Hispanoj
+קאַטעגאָריע:פאראייניגטע קעניגרייך מוסטערן	Kategorio:Ŝablono:Britio
+קאַטעגאָריע:אמעריקאנער מוסטערן	Kategorio:Ŝablono:Usono
+קאַטעגאָריע:ראטנפארבאנד	Kategorio:Sovetunio
+קאַטעגאָריע:איראקער פאליטיקער	Kategorio:Irakaj politikistoj
+קאַטעגאָריע:שפראך-מוסטערן	Kategorio:Multlingviloj
+קאַטעגאָריע:יוגאסלאוויע	Kategorio:Jugoslavio
+קאַטעגאָריע:טראנספארט מוסטערן	Kategorio:Ŝablono:Trafiko
+קאַטעגאָריע:אידישע מוסטערן	Kategorio:Ŝablono:Judismo
+קאַטעגאָריע:שפראך שטומף	Kategorio:Ĝermoj pri lingvo
+קאַטעגאָריע:פאליטיק שטומף	Kategorio:Ĝermoj pri politiko
+קאַטעגאָריע:היסטאריע שטומף	Kategorio:Ĝermoj pri historio
+קאַטעגאָריע:אטמאספערע	Kategorio:Atmosfero
+קאַטעגאָריע:טעכנאלאגיע שטומף	Kategorio:Ĝermoj pri teknologio
+קאַטעגאָריע:עקאנאמיק שטומף	Kategorio:Ĝermoj pri ekonomiko
+קאַטעגאָריע:וויילס	Kategorio:Kimrio
+קאַטעגאָריע:טשעכאסלאוואקיי	Kategorio:Ĉeĥoslovakio
+קאַטעגאָריע:מענטשן לויט רעליגיע	Kategorio:Homoj laŭ religioj
+קאַטעגאָריע:פרעזידענטן פון פראנקרייך	Kategorio:Prezidantoj de Francio
+קאַטעגאָריע:USA פרעזידענטן	Kategorio:Prezidantoj de Usono
+קאַטעגאָריע:פרעזידענטן פון איראן	Kategorio:Prezidantoj de Irano
+קאַטעגאָריע:אידישע היסטאריע	Kategorio:Historio de judismo
+קאַטעגאָריע:היסטאריע פון אייראפע	Kategorio:Historio de Eŭropo
+קאַטעגאָריע:היסטאריע פון וויסנשאפט	Kategorio:Historio de scienco
+קאַטעגאָריע:נעווראלאגיע	Kategorio:Neŭrologio
+קאַטעגאָריע:יארדאניע	Kategorio:Jordanio
+קאַטעגאָריע:נארוועגיע	Kategorio:Norvegio
+קאַטעגאָריע:פאנאמא	Kategorio:Panamo
+קאַטעגאָריע:אנדארע	Kategorio:Andoro
+קאַטעגאָריע:סערביע	Kategorio:Serbio
+קאַטעגאָריע:עקוואדאר	Kategorio:Ekvadoro
+קאַטעגאָריע:תימן	Kategorio:Jemeno
+קאַטעגאָריע:באליוויע	Kategorio:Bolivio
+קאַטעגאָריע:לענדער אין אקעאניע	Kategorio:Oceaniaj landoj
+קאַטעגאָריע:פיש	Kategorio:Fiŝoj
+קאַטעגאָריע:מיטאלאגיע	Kategorio:Mitologio
+קאַטעגאָריע:גרינסן	Kategorio:Legomoj
+קאַטעגאָריע:מילכיקע פראדוקטן	Kategorio:Laktaĵoj
+קאַטעגאָריע:פרוכט	Kategorio:Fruktoj
+קאַטעגאָריע:פאליטישע פארטייען	Kategorio:Politikaj partioj
+קאַטעגאָריע:מוזייען	Kategorio:Muzeoj
+קאַטעגאָריע:קערנפיזיק	Kategorio:Nuklea fiziko
+קאַטעגאָריע:קאטאסטראפע	Kategorio:Katastrofoj
+קאַטעגאָריע:2008 פילמען	Kategorio:Filmoj aperintaj en 2008
+קאַטעגאָריע:אומזיסטע בילדער	Kategorio:Liberaj bildoj
+קאַטעגאָריע:היסטארישע לענדער	Kategorio:Historiaj teritorioj
+קאַטעגאָריע:קלימאטאלאגיע	Kategorio:Klimatologio
+קאַטעגאָריע:געאגראפישע נאוויגאציע מוסטערן	Kategorio:Navigilo:Geografio
+קאַטעגאָריע:ביליאנערן	Kategorio:Miliarduloj
+קאַטעגאָריע:אקעאנען	Kategorio:Oceanoj
+קאַטעגאָריע:לאנדאנער אונטערגרונט	Kategorio:Metroo de Londono
+קאַטעגאָריע:מיסטיק	Kategorio:Mistikismo
+קאַטעגאָריע:אימון-סיסטעם	Kategorio:Imuna sistemo
+קאַטעגאָריע:אפערירן סיסטעמען	Kategorio:Operaciumoj
+קאַטעגאָריע:נומערן סיסטעם	Kategorio:Nombrosistemoj
+קאַטעגאָריע:פאליטישע וויסנשאפט	Kategorio:Politikaj sciencoj
+קאַטעגאָריע:קאנאדישע פראווינצן און טעריטאריעס	Kategorio:Kanadaj provincoj
+קאַטעגאָריע:דראמא	Kategorio:Dramo
+קאַטעגאָריע:לאנדאן	Kategorio:Londono
+קאַטעגאָריע:פאנטאזיע	Kategorio:Fantasto
+קאַטעגאָריע:גריכיש	Kategorio:Kulturo de Grekio
+קאַטעגאָריע:וויקימעדיע פונדאציע	Kategorio:Vikimedio
+קאַטעגאָריע:ראדיא	Kategorio:Radio
+קאַטעגאָריע:עוואלוציע	Kategorio:Evoluo
+קאַטעגאָריע:סאציאליזם	Kategorio:Socialismo
+קאַטעגאָריע:בעלי חיים	Kategorio:Bestoj
+קאַטעגאָריע:פאנעטיק	Kategorio:Fonetiko
+קאַטעגאָריע:רעפובליקן	Kategorio:Respublikoj
+קאַטעגאָריע:וואג	Kategorio:Mezurunuoj de maso
+קאַטעגאָריע:טאלן	Kategorio:Valoj
+קאַטעגאָריע:אויער	Kategorio:Orelo
+קאַטעגאָריע:דעמאגראפיע	Kategorio:Demografio
+קאַטעגאָריע:מעדיצינישע טערמינען	Kategorio:Medicina terminologio
+קאַטעגאָריע:ראשי תיבות	Kategorio:Mallongigoj
+קאַטעגאָריע:אברים	Kategorio:Organoj
+קאַטעגאָריע:סימפטאמען	Kategorio:Simptomoj
+קאַטעגאָריע:געווער	Kategorio:Armiloj
+קאַטעגאָריע:יידישע זינגער	Kategorio:Judaj kantistoj
+קאַטעגאָריע:מעבל	Kategorio:Mebloj
+רייכערן	Tabakfumado
+קאַטעגאָריע:מוזיק אינסטרומענטן	Kategorio:Muzikaj instrumentoj
+קאַטעגאָריע:איידלשטיינער	Kategorio:Gemoj
+קאַטעגאָריע:בליצפאסט	Kategorio:Retpoŝto
+קאַטעגאָריע:מעטעאראלאגיע	Kategorio:Meteologio
+קאַטעגאָריע:צענטראלע אמעריקע	Kategorio:Mezameriko
+קאַטעגאָריע:נישט-מעטאלן	Kategorio:Nemetaloj
+קאַטעגאָריע:קאמאנוועלט	Kategorio:Komunumo de Nacioj
+קאַטעגאָריע:געשיר	Kategorio:Manĝujoj
+קאַטעגאָריע:אלקאהאלישע געטראנקען	Kategorio:Alkoholaĵoj
+קאַטעגאָריע:קליידונג	Kategorio:Vestoj
+קאַטעגאָריע:גראפנשאפטן אין ענגלאנד	Kategorio:Graflandoj de Anglio
+קאַטעגאָריע:ברענווארג	Kategorio:Brulaĵoj
+קאַטעגאָריע:רוימישע מיטאלאגיע	Kategorio:Romia mitologio
+קאַטעגאָריע:גריכישע מיטאלאגיע	Kategorio:Helena mitologio
+קאַטעגאָריע:געוועב	Kategorio:Histoj
+קאַטעגאָריע:פלייש	Kategorio:Viandoj
+קאַטעגאָריע:לידער	Kategorio:Kantoj
+קאַטעגאָריע:הויפטשטעט	Kategorio:Ĉefurboj
+קאַטעגאָריע:שטעט אין גרוזיע	Kategorio:Urboj de Kartvelio
+קאַטעגאָריע:שטעט אין דער שווייץ	Kategorio:Urboj de Svislando
+קאַטעגאָריע:שטעט אין רוסלאנד	Kategorio:Urboj de Rusio
+קאַטעגאָריע:שטעט אין אונגארן	Kategorio:Urboj de Hungario
+קאַטעגאָריע:שטעט אין קאנאדע	Kategorio:Urboj de Kanado
+קאַטעגאָריע:גאזן	Kategorio:Gasoj
+קאַטעגאָריע:יידישע אויטאנאמע געגנט	Kategorio:Hebrea Aŭtonomio
+קאַטעגאָריע:מערב אפריקע	Kategorio:Okcidentafriko
+קאַטעגאָריע:תורה	Kategorio:Torao
+קאַטעגאָריע:טעלעקאמוניקאציע	Kategorio:Telekomunikado
+קאַטעגאָריע:ארכעאלאגיע	Kategorio:Arkeologio
+קאַטעגאָריע:נעצווערק פראטאקאלן	Kategorio:Ret-komunikaj protokoloj
+קאַטעגאָריע:קרענק	Kategorio:Malsanoj
+קאַטעגאָריע:באקטערישע קרענק	Kategorio:Bakteriaj malsanoj
+קאַטעגאָריע:האטעלן	Kategorio:Hoteloj
+קאַטעגאָריע:מעטאלן	Kategorio:Metaloj
+קאַטעגאָריע:עלעקטריע	Kategorio:Elektro
+קאַטעגאָריע:באַניצער pl	Kategorio:Vikipediisto pl
+קאַטעגאָריע:טראנספארט	Kategorio:Transporto
+קאַטעגאָריע:אויספארשונג	Kategorio:Esplorado
+קאַטעגאָריע:טאנץ	Kategorio:Danco
+קאַטעגאָריע:כאליפן	Kategorio:Kalifoj
+קאַטעגאָריע:משפחה	Kategorio:Familio
+קאַטעגאָריע:יוסטיץ	Kategorio:Justeco
+קאַטעגאָריע:אמונה	Kategorio:Kredo
+קאַטעגאָריע:קאמוניזם	Kategorio:Komunismo
+קאַטעגאָריע:קוילנשטאף	Kategorio:Karbono
+קאַטעגאָריע:שלענג	Kategorio:Serpentoj
+קאַטעגאָריע:קיסרים	Kategorio:Imperiestroj
+קאַטעגאָריע:אמעריקאנער יידן	Kategorio:Usonaj judoj
+קאַטעגאָריע:לאגיק	Kategorio:Logiko
+קאַטעגאָריע:לעגענדעס	Kategorio:Legendoj
+קאַטעגאָריע:ריכטער	Kategorio:Juĝistoj
+קאַטעגאָריע:נומערן טעאריע	Kategorio:Nombroteorio
+קאַטעגאָריע:צפון אמעריקע	Kategorio:Nordameriko
+קאַטעגאָריע:זינגער	Kategorio:Kantistoj
+קאַטעגאָריע:מדבריות	Kategorio:Dezertoj
+קאַטעגאָריע:אזערעס	Kategorio:Lagoj
+קאַטעגאָריע:פאנען	Kategorio:Flagoj
+קאַטעגאָריע:אדוואקאטן	Kategorio:Advokatoj
+קאַטעגאָריע:באנקירן	Kategorio:Bankistoj
+קאַטעגאָריע:פוסבאלערס	Kategorio:Futbalistoj
+קאַטעגאָריע:מאטעמאטיקער	Kategorio:Matematikistoj
+קאַטעגאָריע:פיזיקער	Kategorio:Fizikistoj
+קאַטעגאָריע:עקאנאמיסטן	Kategorio:Ekonomikistoj
+קאַטעגאָריע:אקעאניע	Kategorio:Oceanio
+קאַטעגאָריע:אונגארישע יידן	Kategorio:Hungaraj judoj
+צבי אלימלך שפירא	Cvi Elimeleĥ de Dynów
+קאַטעגאָריע:שטעט אין דרום אמעריקע	Kategorio:Urboj de Sudameriko
+קאַטעגאָריע:שטעט אין אפריקע	Kategorio:Urboj de Afriko
+קאַטעגאָריע:מעלות	Kategorio:Virtoj
+קאַטעגאָריע:פיקציע	Kategorio:Fikcio
+קאַטעגאָריע:וואסערפאלן	Kategorio:Akvofaloj
+קאַטעגאָריע:בוענאס איירעס	Kategorio:Bonaero
+קאַטעגאָריע:דעמאקראטיע	Kategorio:Demokratio
+קאַטעגאָריע:GFDL images	Kategorio:Bildoj sub GFDL
+קאַטעגאָריע:מענטשליכע באציאונגען	Kategorio:Interpersona rilatado
+קאַטעגאָריע:מעדיעוויקי	Kategorio:MediaWiki
+קאַטעגאָריע:מוסולמענער	Kategorio:Islamanoj
+קאַטעגאָריע:מעדיקאמענטן	Kategorio:Medikamentoj
+קאַטעגאָריע:אויטאמאבילן	Kategorio:Aŭtomobiloj
+קאַטעגאָריע:לימביק סיסטעם	Kategorio:Limba sistemo
+קאַטעגאָריע:USA רעגירונג	Kategorio:Registaro de Usono
+קאַטעגאָריע:ענגלישע יידן	Kategorio:Britaj judoj
+קאַטעגאָריע:שטעט אין צפון אמעריקע	Kategorio:Urboj de Nordameriko
+קאַטעגאָריע:הויפטשטעט אין אפריקע	Kategorio:Ĉefurboj de Afriko
+קאַטעגאָריע:שטעטלעך אין רומעניע	Kategorio:Urboj de Rumanio
+קאַטעגאָריע:שטעט אין וויעטנאם	Kategorio:Urboj de Vjetnamio
+קאַטעגאָריע:שטעט אין בעלגיע	Kategorio:Urboj de Belgio
+קאַטעגאָריע:שטעט אין בראזיל	Kategorio:Urboj de Brazilo
+קאַטעגאָריע:שטעט אין שפאניע	Kategorio:Urboj de Hispanio
+קאַטעגאָריע:שטעט אין אוקראינע	Kategorio:Urboj de Ukrainio
+קאַטעגאָריע:שטעט אין איטאליע	Kategorio:Urboj de Italio
+קאַטעגאָריע:שטעט אין ליטע	Kategorio:Urboj de Litovio
+קאַטעגאָריע:רעגיי זינגערס	Kategorio:Regeaj muzikistoj
+קאַטעגאָריע:רציחות	Kategorio:Masakroj
+קאַטעגאָריע:סקאטלאנד	Kategorio:Skotlando
+קאַטעגאָריע:עסטרייכישע קיך	Kategorio:Aŭstra kuirarto
+קאַטעגאָריע:בריסל	Kategorio:Bruselo
+קאַטעגאָריע:הויפטשטעט אין אייראפע	Kategorio:Ĉefurboj de Eŭropo
+קאַטעגאָריע:הויפטשטעט אין אזיע	Kategorio:Ĉefurboj de Azio
+קאַטעגאָריע:טעם	Kategorio:Gusto
+קאַטעגאָריע:טורעמס	Kategorio:Turoj
+קאַטעגאָריע:רעסטאראנען	Kategorio:Restoracioj
+קאַטעגאָריע:באן	Kategorio:Trajnoj
+קאַטעגאָריע:באל שפילעריי	Kategorio:Pilkosportoj
+קאַטעגאָריע:בענק	Kategorio:Bankoj
+קאַטעגאָריע:פערד	Kategorio:Ekvedoj
+קאַטעגאָריע:מערב אייראפע	Kategorio:Okcidenta Eŭropo
+קאַטעגאָריע:מיטל אלטער	Kategorio:Mezepoko
+קאַטעגאָריע:מענטשן לויט לענדער	Kategorio:Personoj laŭ landoj
+קאַטעגאָריע:קאווקאז	Kategorio:Kaŭkazio
+קאַטעגאָריע:מוזיקפילמען	Kategorio:Muzikaloj
+קאַטעגאָריע:נאגערס	Kategorio:Ronĝuloj
+קאַטעגאָריע:אפפאל	Kategorio:Rubo
+מוסטער:יארצענדלינגקעסטל	Ŝablono:Jardeko
+קאַטעגאָריע:רוחניות	Kategorio:Spiriteco
+קאַטעגאָריע:מעדיטאציע	Kategorio:Meditado
+קאַטעגאָריע:שולעס	Kategorio:Lernejoj
+קאַטעגאָריע:געזונט	Kategorio:Sano
+קאַטעגאָריע:פאליטישע פארטייען אין ישראל	Kategorio:Politikaj partioj de Israelo
+קאַטעגאָריע:פאפ מוזיק	Kategorio:Popmuziko
+מוסטער:שפראך-nds	Ŝablono:Lang-nds
+מיטגליד	Membro
+קאַטעגאָריע:אלבאמען	Kategorio:Muzikaj albumoj
+גרופע סעקס	Grupa seksumado
+מוסטער:שפראך-pl	Ŝablono:Lang-pl
+קאַטעגאָריע:וויצע פרעזידענטן	Kategorio:Vicprezidantoj
+קאַטעגאָריע:ירושלים בערג	Kategorio:Montoj de Jerusalemo
+קאַטעגאָריע:יידישע שרייבער	Kategorio:Judaj verkistoj
+קאַטעגאָריע:יידישע אקטיארן	Kategorio:Judaj aktoroj
+קאַטעגאָריע:יידישע מוזיקערס	Kategorio:Judaj muzikistoj
+פארטאל:מאטעמאטיק	Portalo:Matematiko
+קאַטעגאָריע:רוסישע יידן	Kategorio:Rusiaj judoj
+קאַטעגאָריע:פיזיאלאגיע	Kategorio:Fiziologio
+קאַטעגאָריע:ציוניסטן	Kategorio:Cionistoj
+קאַטעגאָריע:יידיש שפראך שרייבערס	Kategorio:Jidlingvaj verkistoj
+קאַטעגאָריע:לעטישע יידן	Kategorio:Latvaj judoj
+קאַטעגאָריע:Links to libraries	Kategorio:Ligoj al bibliotekoj
+קאַטעגאָריע:זאא-גערטנער	Kategorio:Bestoĝardenoj
+קאַטעגאָריע:ציוניזם	Kategorio:Cionismo
+קאַטעגאָריע:פראפעסארן	Kategorio:Profesoroj
+קאַטעגאָריע:קאמפאזיטארן	Kategorio:Komponistoj
+קאַטעגאָריע:לענדער אין אזיע	Kategorio:Aziaj landoj
+קאַטעגאָריע:לענדער אין אמעריקע	Kategorio:Amerikaj landoj
+מוסטער:G8 שטאטן	Ŝablono:G8-Ŝtatoj
+װיקיפּעדיע:באג באריכטן	Vikipedio:Raportu cimojn
+קאַטעגאָריע:וויקיפעדיע סטאטיסטיק	Kategorio:Vikipedio:Statistikoj
+קאַטעגאָריע:אמונה ובטחון	Kategorio:Juda filozofio
+קאַטעגאָריע:פרעמיער מיניסטארן פון רוסלאנד	Kategorio:Ĉefministroj de Rusio
+קאַטעגאָריע:טי ווי קאנאלן	Kategorio:Televidkanaloj
+קאַטעגאָריע:וואשינגטאן די סי	Kategorio:Vaŝingtono
+קאַטעגאָריע:געזעצן	Kategorio:Leĝaro
+קאַטעגאָריע:אלגעברע	Kategorio:Algebro
+קאַטעגאָריע:אמעריקאנער רבנים	Kategorio:Usonaj rabenoj
+קאַטעגאָריע:אריטמעטיק	Kategorio:Aritmetiko
+קאַטעגאָריע:גענעאלאגן	Kategorio:Genealogoj
+קאַטעגאָריע:בבל	Kategorio:Babilono
+קאַטעגאָריע:יידן פון בעלארוס	Kategorio:Belorusaj judoj
+קאַטעגאָריע:סעקס	Kategorio:Sekseco
+קאַטעגאָריע:ספר דברים	Kategorio:Readmono
+קאַטעגאָריע:ספר שמות	Kategorio:Eliro
+קאַטעגאָריע:ספרים פון תנ"ך	Kategorio:Libroj de la Tanaĥo
+קאַטעגאָריע:באנוצער מוסטערן	Kategorio:Uzantoskatolo
+קאַטעגאָריע:בריקן	Kategorio:Pontoj
+קאַטעגאָריע:דארבי	Kategorio:Derby
+טערמינאלאגיע	Terminologio
+קאַטעגאָריע:קאמעדיע	Kategorio:Komedio
+קאַטעגאָריע:קריג	Kategorio:Milito
+קאַטעגאָריע:הארטווארג	Kategorio:Komputila aparataro
+קאַטעגאָריע:ענערגיע	Kategorio:Energio
+קאַטעגאָריע:סביבה	Kategorio:Mediprotektado
+קאַטעגאָריע:פליגן	Kategorio:Dipteroj
+קאווע שטיבל	Kafeterio
+קאַטעגאָריע:שאסייען	Kategorio:Aŭtovojoj
+קאַטעגאָריע:גערמאנישע שפראכן	Kategorio:Ĝermana lingvaro
+קאַטעגאָריע:גריכישער אלפאבעט	Kategorio:Greka alfabeto
+קאַטעגאָריע:חסידות	Kategorio:Ĥasidismo
+קאַטעגאָריע:כופרים	Kategorio:Herezo
+קאַטעגאָריע:היסטאריע פון ארץ ישראל	Kategorio:Historio de Palestino
+קאַטעגאָריע:שארית הפליטה	Kategorio:Postvivintoj el la Holokaŭsto
+קאַטעגאָריע:הארמאנען	Kategorio:Hormonoj
+קאַטעגאָריע:מענטשליכער קול	Kategorio:Homa voĉo
+קאַטעגאָריע:הומאריסטן	Kategorio:Humuristoj
+קאַטעגאָריע:הומאר	Kategorio:Humuro
+קאַטעגאָריע:ריינקייט	Kategorio:Higieno
+קאַטעגאָריע:אימפעריאליזם	Kategorio:Imperiismo
+קאַטעגאָריע:אנארכיזם	Kategorio:Anarkiismo
+קאַטעגאָריע:אראבישע ליגע	Kategorio:Ligo de Arabaj Ŝtatoj
+קאַטעגאָריע:ישראל שטומף	Kategorio:Ĝermoj pri Israelo
+װיקיפּעדיע:היסטאריע	Helpo:Historio de paĝo
+קאַטעגאָריע:ירושלים	Kategorio:Jerusalemo
+קאַטעגאָריע:בתי עלמין	Kategorio:Judaj tombejoj
+קאַטעגאָריע:יידישע ארגאניזאציעס	Kategorio:Judaj organizaĵoj
+קאַטעגאָריע:אידישע פאכן	Kategorio:Religiaj profesioj en judismo
+קאַטעגאָריע:אידישע קאנטראווערסיעס	Kategorio:Diskutoj pri judismo
+קאַטעגאָריע:קבלה	Kategorio:Kabalo
+קאַטעגאָריע:מקובלים	Kategorio:Kabalistoj
+קאַטעגאָריע:כהנים	Kategorio:Kohenoj
+קאַטעגאָריע:ביבליאטעקן	Kategorio:Bibliotekoj
+קאַטעגאָריע:יידישיסטן	Kategorio:Lingvistoj pri la jida lingvo
+קאַטעגאָריע:בירגערמייסטערס	Kategorio:Urbestroj
+קאַטעגאָריע:באן טראנספארט אין בעלגיע	Kategorio:Fervojo en Belgio
+קאַטעגאָריע:באן סטאנציעס	Kategorio:Fervojaj stacioj
+קאַטעגאָריע:חסידי אומות העולם	Kategorio:Justuloj inter la popoloj
+קאַטעגאָריע:רומענישע יידן	Kategorio:Rumanaj judoj
+קאַטעגאָריע:רוים	Kategorio:Romo
+קאַטעגאָריע:ארגאנישע כעמיע	Kategorio:Organika kemio
+קאַטעגאָריע:כארדאטן	Kategorio:Ĥorduloj
+קאַטעגאָריע:שיפן	Kategorio:Ŝipoj
+קאַטעגאָריע:לעבנסשטייגער	Kategorio:Vivstiloj
+קאַטעגאָריע:רויכערונג	Kategorio:Fumado
+קאַטעגאָריע:סאציאליסטן	Kategorio:Socialistoj
+קאַטעגאָריע:דיכטונגען	Kategorio:Poemoj
+קאַטעגאָריע:פוילישע רבנים	Kategorio:Polaj rabenoj
+קאַטעגאָריע:קור ערטער	Kategorio:Kuraclokoj
+קאַטעגאָריע:בירגערמייסטער פון ניו יארק	Kategorio:Urbestroj de Novjorko
+קאַטעגאָריע:מאנטרעאל	Kategorio:Montrealo
+קאַטעגאָריע:מיסטעריעס	Kategorio:Misteroj
+קאַטעגאָריע:אנטיסעמיטיזם	Kategorio:Antisemitismo
+קאַטעגאָריע:אמעריקאנער גובערנאטארן	Kategorio:Usonaj guberniestroj
+קאַטעגאָריע:תלמוד	Kategorio:Talmudo
+קאַטעגאָריע:תל אביב	Kategorio:Tel-Avivo
+קאַטעגאָריע:טעלעפאניע	Kategorio:Telefono
+קאַטעגאָריע:שולן	Kategorio:Sinagogoj
+קאַטעגאָריע:סאו פאולא	Kategorio:San-Paŭlo (urbo)
+קאַטעגאָריע:באהאמאס	Kategorio:Bahamoj
+קאַטעגאָריע:קאלירן	Kategorio:Koloroj
+קאַטעגאָריע:קאכן געצייג	Kategorio:Manĝilaro
+קאַטעגאָריע:גלחים	Kategorio:Pastroj
+קאַטעגאָריע:אנגעווענדעטע וויסנשאפטן	Kategorio:Aplikataj sciencoj
+װיקיפּעדיע:וואס איז א גוטער ארטיקל?	Vikipedio:Kriterioj por legindaj artikoloj
+מוסטער:בילד קלעבל אנהייב	Ŝablono:Marko sur bildo komenco
+קאַטעגאָריע:אפיקורסים	Kategorio:Ateistoj
+קאַטעגאָריע:פרעמיער מיניסטארן פון קאנאדע	Kategorio:Ĉefministroj de Kanado
+קאַטעגאָריע:פלאנצן משפחות	Kategorio:Plantofamilioj
+פארטאל:יידישקייט	Portalo:Judismo
+קאַטעגאָריע:פאגראמען	Kategorio:Pogromoj
+קאַטעגאָריע:רעוואלוציעס	Kategorio:Revolucioj
+קאַטעגאָריע:זיבנבערגן	Kategorio:Transilvanio
+קאַטעגאָריע:שטעט	Kategorio:Urboj
+קאַטעגאָריע:פרויען	Kategorio:Virino
+קאַטעגאָריע:באַניצער en-1	Kategorio:Vikipediisto en-1
+קאַטעגאָריע:באַניצער de-1	Kategorio:Vikipediisto de-1
+קאַטעגאָריע:Persons with WORLDCATID	Kategorio:Ligoj al bibliotekoj/Personoj kun WORLDCATID
+קאַטעגאָריע:Special	Kategorio:Malklara aŭ speciala
+קאַטעגאָריע:Wanted article	Kategorio:Kreinda artikolo
+קאַטעגאָריע:ווערקצייג	Kategorio:Iloj
+קאַטעגאָריע:איינגאסן	Kategorio:Golfoj
+קאַטעגאָריע:הר הרצל	Kategorio:Monto Herzl
+מיליטערישע ראדיא סטאנציע פיער-סור-האט	Armea radiostacio en Pierre-sur-Haute
+מוסטער:מענטשליכע אנאטאמיע כאראקטערס	Ŝablono:Homa anatomio
+מוסטער:פאראייניגטע שטאטן הויפטשטעט	Ŝablono:Usonaj subŝtatoj kun ĉefurboj
+שאץ קאמער	Trezorejo
+װיקיפּעדיע:קאנטראלירן בלעטער/Translation	Projekto:Kontrolu Vikipedion/Tradukado
+מוסטער:באניצער שפראך קעסטל	Ŝablono:Userbox-level
+מוסטער:User nl-4	Ŝablono:Vikipediisto nl-4
+מוסטער:User ru-3	Ŝablono:Vikipediisto ru-3
+מוסטער:User nl-3	Ŝablono:Vikipediisto nl-3
+מוסטער:צייכן	Ŝablono:Signo
+מאראמאראש	Maramureŝo
+מוסטער:ביכער--	Ŝablono:Bibliotekoj--
+באסטאנער מאראטאן אטאקע	Eksplodoj de la Bostona maratono 2013
+װיקיפּעדיע:וויזועל-רעדאקטירער	Vikipedio:VidRedaktilo
+פלאטערל	Rhopalocera
+אודווארי	Odoreu
+מוסטער:קאנאדע פרעמיער מיניסטארן	Ŝablono:KanĈM
+רעטעך	Kultiva rafano
+מוסטער:סוף	Ŝablono:Finskatolo
+נעקראפאל פון גיזע	Nekropolo de Gizo
+מוסטער:Style/ril	Ŝablono:Style/ril
+כלל	Kolektivo
+מוסטער:Style/IPA	Ŝablono:Style/IPA
+מוסטער:Style/yid	Ŝablono:Style/yid
+אידא	Ida (filmo)
+מוסטער:ביכער/debug	Ŝablono:Bibliotekoj/debug
+געדולד	Pacienco
+באַזונדער:לעצטע ענדערונגען	Specialaĵo:Lastaj ŝanĝoj
+נאטאליא פאקלאנסקאיא	Natalia Vladimirovna Poklonskaja
+שיסעריי אין דער רעדאקציע פון שארלי עבדא	Atako en la redaktejo de Charlie Hebdo

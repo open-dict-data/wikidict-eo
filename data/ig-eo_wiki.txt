@@ -1,0 +1,756 @@
+Afrịka	Afriko
+South Amerika	Sudameriko
+Spain	Hispanio
+Njikota Obodo Amerika	Usono
+Àlà	Tero
+Mádu	Homo
+Finland	Finnlando
+Poland	Pollando
+Turkéy	Turkio
+Obodo Békè	Eŭropo
+Asia	Azio
+Olile anyanwu Amerika	Nordameriko
+Antarctica	Antarkto
+Wikipedia	Vikipedio
+New York City	Novjorko
+Orunotu	Komputilo
+Intanet	Interreto
+Barack Obama	Barack Obama
+MediaWiki	MediaVikio
+London	Londono
+Òrìmìlì Atlantic	Atlantika Oceano
+Òrìmìlì Pacific	Pacifika Oceano
+California	Kalifornio
+Önwa mbu	Januaro
+February	Februaro
+March	Marto
+Ethiopia	Etiopio
+Ghana	Ganao
+Önwa ànó	Aprilo
+May	Majo
+Önwa ishií	Junio
+July	Julio
+August	Aŭgusto
+September	Septembro
+October	Oktobro
+Önwa iri na otụ	Novembro
+Disemba	Decembro
+Odúm	Leono
+Obodoézè Nà Ofú	Unuiĝinta Reĝlando
+Wiktionary	Vikivortaro
+Brazil	Brazilo
+Mpaghara Russia	Rusio
+Wiki	Vikio
+Alabama	Alabamo
+Jimmy Wales	Jimmy Wales
+Jémanị	Germanio
+Larry Sanger	Larry Sanger
+Otu	1 (nombro)
+Abụo	2 (nombro)
+Atọ	3 (nombro)
+Anọ	4 (nombro)
+Ise	5 (nombro)
+0 (Ónúọgụgụ)	Nulo
+Yukrain	Ukrainio
+Barbados	Barbado
+Algeria	Alĝerio
+Wikisource	Vikifontaro
+Ńkú	Ligno
+Jisọs Kraịst	Jesuo Kristo
+Ákíkó mbu	Historio
+Ihunanya	Amo
+Wikipedia nke ndị bekee	Anglalingva Vikipedio
+Amamihe	Scienco
+Wikibooks	Vikilibroj
+Wikiquote	Vikicitaro
+Ubuntu	Ubuntu (linukso)
+Ọmúmú-ónúọgụgụ	Matematiko
+Ostraliya	Aŭstralio
+Bob Marley	Bob Marley
+Physics	Fiziko
+Áláküba	Islamo
+Lech Wałęsa	Lech Wałęsa
+Ábu	Poezio
+Ìfulū	Floro
+Ama ukwu	Urbo
+Ogbè	Vilaĝo
+Wikimedia Commons	Vikimedia Komunejo
+Chad	Ĉado
+Ndia	Barato
+Mën	Majno
+Ǹkà	Arto
+Osisi	Plantoj
+Hampshire Ohúrú	Nov-Hampŝiro
+Jamaikạ	Jamajko
+Másáchusẹts	Masaĉuseco
+Kónétíkùt	Konektikuto
+Hawaii	Havajo
+Dominika	Dominiko
+Arctic Ocean	Arkta Oceano
+Àláskà	Alasko
+Israel	Israelo
+Flórídạ	Florido
+Arizona	Arizono
+Oregon	Oregono
+Amerikas	Ameriko
+Yútạh	Utaho
+Charlie Chaplin	Charlie Chaplin
+Angola	Angolo
+Albert Einstein	Albert Einstein
+Togo	Togolando
+Benin	Benino
+Botswana	Bocvano
+Burkina Faso	Burkino
+Burundi	Burundo
+Eritrea	Eritreo
+Pope John Paul II	Johano Paŭlo la 2-a
+Gabon	Gabono
+Kameroon	Kameruno
+Cape Verde	Kaboverdo
+Niger	Niĝero
+Naigeria	Niĝerio
+Julius Caesar	Julio Cezaro
+Sudan	Sudano
+Ọmúmú-àlà	Geografio
+Àgwà	Koloro
+Michigan	Miĉigano
+Ilinoi	Ilinojso
+North Dakota	Norda Dakoto
+Sawt Dakótạ	Suda Dakoto
+Montana	Montano
+Waịómịn	Vajomingo
+Jerusalem	Jerusalemo
+Idaho	Idaho
+Washington (nkeji obodo)	Vaŝingtonio
+Náevadạ	Nevado
+Òrìmìlì India	Hinda Oceano
+Colorado	Koloradio
+Òtù:Ébé ihe nọr	Kategorio:Ĉio
+Chicago	Ĉikago
+Végíníyà	Virginio (ŝtato)
+West Virginia	Okcidenta Virginio
+Nú Yọk	Nov-Jorkio
+Àlá mmírí Rhode	Rod-Insulo
+Mérílạnd	Marilando
+Déláwè	Delavaro
+Ohaïyo	Ohio
+Pensílvéníyạ	Pensilvanio
+Uetersen	Uetersen
+Nú Jezị	Nov-Ĵerzejo
+Ndiánà	Indianio
+Jorjiạ	Georgio
+Texas	Teksaso
+Nort Kárólínạ	Norda Karolino
+Nleda anyanwu Kàròlina	Suda Karolino
+Mississippi	Misisipio
+Tennessee	Tenesio
+Nú Mézíkọ	Nov-Meksiko
+Minésótạ	Minesoto
+Coordinated Universal Time	UTC
+Wiskonsin	Viskonsino
+Áyowạ	Iovao
+Nebraska	Nebrasko
+Kánzạs	Kansaso
+Mizurị	Misurio
+Luwisiánà	Luiziano
+Kentórkị	Kentukio
+Arkinsọ	Arkansaso
+Oklahoma	Oklahomo
+Akwụkwọ Nsọ	Biblio
+Ho Chi Minh City	Ho-Ĉi-Min-urbo
+Ezigbo ulo uka Jesu	Vera Eklezio de Jesuo
+Asụsụ Inglish	Angla lingvo
+Đồng Hới	Dong Hoi
+Końskowola	Końskowola
+2000	2000
+2003	2003
+2001	2001
+2005	2005
+2007	2007
+1909	1909
+1991	1991
+1993	1993
+1996	1996
+1998	1998
+1999	1999
+Önwa mbu 1	1-a de januaro
+Önwa mbu 2	2-a de januaro
+Önwa mbu 3	3-a de januaro
+Önwa mbu 4	4-a de januaro
+Önwa mbu 5	5-a de januaro
+Önwa mbu 6	6-a de januaro
+Önwa mbu 7	7-a de januaro
+Önwa mbu 8	8-a de januaro
+Önwa mbu 9	9-a de januaro
+10 Jenụwarị	10-a de januaro
+11 Jenụwarị	11-a de januaro
+Önwa mbu 12	12-a de januaro
+Önwa mbu 13	13-a de januaro
+Önwa mbu 14	14-a de januaro
+Önwa mbu 15	15-a de januaro
+Önwa mbu 16	16-a de januaro
+Önwa mbu 17	17-a de januaro
+Önwa mbu 18	18-a de januaro
+Önwa mbu 19	19-a de januaro
+Önwa mbu 20	20-a de januaro
+Önwa mbu 21	21-a de januaro
+Önwa mbu 22	22-a de januaro
+Önwa mbu 23	23-a de januaro
+Önwa mbu 24	24-a de januaro
+Önwa mbu 25	25-a de januaro
+Önwa mbu 26	26-a de januaro
+Önwa mbu 27	27-a de januaro
+Önwa mbu 28	28-a de januaro
+Önwa mbu 29	29-a de januaro
+Önwa mbu 30	30-a de januaro
+Önwa mbu 31	31-a de januaro
+Önwa iri na abụọ 1	1-a de decembro
+3 Disemba	3-a de decembro
+1 Febrụwarị	1-a de februaro
+2 Febrụwarị	2-a de februaro
+3 Febrụwarị	3-a de februaro
+Kurów	Kurów
+4 Febrụwarị	4-a de februaro
+5 Febrụwarị	5-a de februaro
+6 Febrụwarị	6-a de februaro
+7 Febrụwarị	7-a de februaro
+8 Febrụwarị	8-a de februaro
+9 Febrụwarị	9-a de februaro
+10 Febrụwarị	10-a de februaro
+14 Febrụwarị	14-a de februaro
+13 Febrụwarị	13-a de februaro
+15 Febrụwarị	15-a de februaro
+11 Febrụwarị	11-a de februaro
+12 Febrụwarị	12-a de februaro
+19 Febrụwarị	19-a de februaro
+17 Febrụwarị	17-a de februaro
+16 Febrụwarị	16-a de februaro
+18 Febrụwarị	18-a de februaro
+20 Febrụwarị	20-a de februaro
+21 Febrụwarị	21-a de februaro
+22 Febrụwarị	22-a de februaro
+23 Febrụwarị	23-a de februaro
+24 Febrụwarị	24-a de februaro
+25 Febrụwarị	25-a de februaro
+26 Febrụwarị	26-a de februaro
+27 Febrụwarị	27-a de februaro
+28 Febrụwarị	28-a de februaro
+29 Febrụwarị	29-a de februaro
+2 Maachị	2-a de marto
+3 Maachị	3-a de marto
+5 Maachị	5-a de marto
+1 Maachị	1-a de marto
+7 Maachị	7-a de marto
+8 Maachị	8-a de marto
+4 Maachị	4-a de marto
+10 Maachị	10-a de marto
+11 Maachị	11-a de marto
+6 Maachị	6-a de marto
+13 Maachị	13-a de marto
+9 Maachị	9-a de marto
+12 Maachị	12-a de marto
+15 Maachị	15-a de marto
+14 Maachị	14-a de marto
+16 Maachị	16-a de marto
+17 Maachị	17-a de marto
+18 Maachị	18-a de marto
+19 Maachị	19-a de marto
+20 Maachị	20-a de marto
+1985	1985
+21 Maachị	21-a de marto
+22 Maachị	22-a de marto
+1981	1981
+23 Maachị	23-a de marto
+24 Maachị	24-a de marto
+25 Maachị	25-a de marto
+20 Disemba	20-a de decembro
+26 Maachị	26-a de marto
+27 Maachị	27-a de marto
+28 Maachị	28-a de marto
+29 Maachị	29-a de marto
+30 Maachị	30-a de marto
+31 Maachị	31-a de marto
+1976	1976
+Pope Benedict XVI	Benedikto la 16-a
+15 Eprel	15-a de aprilo
+13 Eprel	13-a de aprilo
+12 Eprel	12-a de aprilo
+14 Eprel	14-a de aprilo
+11 Eprel	11-a de aprilo
+10 Eprel	10-a de aprilo
+8 Eprel	8-a de aprilo
+9 Eprel	9-a de aprilo
+7 Eprel	7-a de aprilo
+6 Eprel	6-a de aprilo
+5 Eprel	5-a de aprilo
+4 Eprel	4-a de aprilo
+3 Eprel	3-a de aprilo
+1 Eprel	1-a de aprilo
+2 Eprel	2-a de aprilo
+16 Eprel	16-a de aprilo
+17 Eprel	17-a de aprilo
+18 Eprel	18-a de aprilo
+19 Eprel	19-a de aprilo
+20 Eprel	20-a de aprilo
+21 Eprel	21-a de aprilo
+22 Eprel	22-a de aprilo
+23 Eprel	23-a de aprilo
+24 Eprel	24-a de aprilo
+25 Eprel	25-a de aprilo
+26 Eprel	26-a de aprilo
+27 Eprel	27-a de aprilo
+28 Eprel	28-a de aprilo
+29 Eprel	29-a de aprilo
+30 Eprel	30-a de aprilo
+1 Mee	1-a de majo
+2 Mee	2-a de majo
+3 Mee	3-a de majo
+4 Mee	4-a de majo
+5 Mee	5-a de majo
+6 Mee	6-a de majo
+7 Mee	7-a de majo
+8 Mee	8-a de majo
+9 Mee	9-a de majo
+10 Mee	10-a de majo
+11 Mee	11-a de majo
+12 Mee	12-a de majo
+13 Mee	13-a de majo
+14 Mee	14-a de majo
+15 Mee	15-a de majo
+16 Mee	16-a de majo
+17 Mee	17-a de majo
+18 Mee	18-a de majo
+19 Mee	19-a de majo
+20 Mee	20-a de majo
+21 Mee	21-a de majo
+22 Mee	22-a de majo
+23 Mee	23-a de majo
+24 Mee	24-a de majo
+25 Mee	25-a de majo
+26 Mee	26-a de majo
+27 Mee	27-a de majo
+28 Mee	28-a de majo
+29 Mee	29-a de majo
+30 Mee	30-a de majo
+31 Mee	31-a de majo
+Önwa ishií 14	14-a de junio
+Önwa ishií 15	15-a de junio
+Önwa ishií 13	13-a de junio
+Önwa ishií 10	10-a de junio
+Önwa ishií 7	7-a de junio
+Önwa ishií 11	11-a de junio
+Önwa ishií 9	9-a de junio
+Önwa ishií 12	12-a de junio
+Önwa ishií 6	6-a de junio
+Önwa ishií 8	8-a de junio
+Önwa ishií 5	5-a de junio
+Önwa ishií 3	3-a de junio
+Önwa ishií 2	2-a de junio
+Önwa ishií 1	1-a de junio
+Önwa ishií 4	4-a de junio
+1967	1967
+Önwa ishií 16	16-a de junio
+Önwa ishií 30	30-a de junio
+Önwa ishií 29	29-a de junio
+Önwa ishií 28	28-a de junio
+Önwa ishií 26	26-a de junio
+Önwa ishií 25	25-a de junio
+Önwa ishií 22	22-a de junio
+Önwa ishií 27	27-a de junio
+Önwa ishií 24	24-a de junio
+Önwa ishií 20	20-a de junio
+Önwa ishií 23	23-a de junio
+Önwa ishií 19	19-a de junio
+Önwa ishií 18	18-a de junio
+Önwa ishií 21	21-a de junio
+Önwa ishií 17	17-a de junio
+15 Julaị	15-a de julio
+13 Julaị	13-a de julio
+12 Julaị	12-a de julio
+10 Julaị	10-a de julio
+9 Julaị	9-a de julio
+14 Julaị	14-a de julio
+8 Julaị	8-a de julio
+7 Julaị	7-a de julio
+6 Julaị	6-a de julio
+5 Julaị	5-a de julio
+2 Julaị	2-a de julio
+4 Julaị	4-a de julio
+3 Julaị	3-a de julio
+1 Julaị	1-a de julio
+11 Julaị	11-a de julio
+30 Julaị	30-a de julio
+29 Julaị	29-a de julio
+27 Julaị	27-a de julio
+19 Julaị	19-a de julio
+20 Julaị	20-a de julio
+17 Julaị	17-a de julio
+18 Julaị	18-a de julio
+16 Julaị	16-a de julio
+Footbọl	Futbalo
+3 Ọgọọst	3-a de aŭgusto
+1 Ọgọọst	1-a de aŭgusto
+27 Disemba	27-a de decembro
+Önwa asaa atọ 29	29-a de aŭgusto
+30 Ọgọọst	30-a de aŭgusto
+27 Ọgọọst	27-a de aŭgusto
+20 Ọgọọst	20-a de aŭgusto
+Michael Jackson	Michael Jackson
+Ịgbó	Mariĥuano
+1 Septemba	1-a de septembro
+3 Septemba	3-a de septembro
+29 Disemba	29-a de decembro
+30 Septemba	30-a de septembro
+29 Septemba	29-a de septembro
+27 Septemba	27-a de septembro
+20 Septemba	20-a de septembro
+30 Disemba	30-a de decembro
+1 Ọktoba	1-a de oktobro
+3 Ọktoba	3-a de oktobro
+30 Ọktoba	30-a de oktobro
+29 Ọktoba	29-a de oktobro
+27 Ọktoba	27-a de oktobro
+20 Ọktoba	20-a de oktobro
+11 Novemba	11-a de novembro
+3 Novemba	3-a de novembro
+1 Novemba	1-a de novembro
+30 Novemba	30-a de novembro
+29 Novemba	29-a de novembro
+27 Novemba	27-a de novembro
+20 Novemba	20-a de novembro
+Göttingen	Göttingen
+Ūfie	Ruĝa
+Oshimiri Orimiri	Niĝero (rivero)
+Addis Ababa	Adis-Abebo
+Òtù:Templates	Kategorio:Vikipedio:Ŝablonoj
+Abuja	Abuĝo
+Galisa	Galegio
+Wikipedia:Ama Egwuregwu	Vikipedio:Provejo
+Ama	Taŭno
+Osasco	Osasco (San-Paŭlo)
+Curitiba	Kuritibo
+Sean Connery	Sean Connery
+Konfúkius	Konfuceo
+Corbin Bleu	Corbin Bleu
+Òtù:Ọmúmú-ónúọgụgụ	Kategorio:Matematiko
+Efefe Kraịst	Kristanismo
+Seattle	Seattle
+Oskàpà	Rizo
+Monzón	Monzono
+Almazán	Almazán
+Ihü Mbu	Vikipedio:Ĉefpaĝo
+Vincent van Gogh	Vincent van Gogh
+Frank Lloyd Wright	Frank Lloyd Wright
+Gabriel García Márquez	Gabriel García Márquez
+Ákọ na Uche	Filozofio
+Òtù:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+Liberalism	Liberalismo
+Égwu ahiri	Gitaro
+Conservatism	Konservismo
+Ọchíchí nke umunna Han	Dinastio Han
+Jew	Judoj
+Southern Ocean	Suda Oceano
+Ntị	Orelo
+Ányá	Okulo
+Achicha	Pano
+Nelson Mandela	Nelson Mandela
+Martin Luther King, Jr.	Martin Luther King
+Ómárí	Logiko
+Ȯgbà	Socio
+Azụ	Familio
+Hong Kong	Honkongo
+Lagos	Lagoso
+Walt Disney	Walt Disney
+José Mujica	José Mujica
+Taj Mahal	Taĝ-Mahalo
+Abram	Abraham
+Judaism	Judismo
+Oke Òrìmìlì	Oceano
+Muhammad	Mohamedo
+Onu	Buŝo
+Ronald Reagan	Ronald Reagan
+Óshíshí	Arbo
+Ńnú odẹne	Sukero
+Nka na Uzu	Teknologio
+Ọrià Parkinson	Parkinsona malsano
+Electromagnetism	Elektromagnetismo
+Ndetu obodo	Listo de sendependaj ŝtatoj
+Kevin Costner	Kevin Costner
+Google Maps	Google Maps
+Tutankhamun	Tutanĥamono
+Detroit	Detrojto
+Njè Ághá Jésu	Krucmilitoj
+Oche	Seĝo
+Queen	Queen
+Kanyé West	Kanye West
+Àtụ:Link FA	Ŝablono:LigoElstara
+Vermont	Vermonto
+Ulo uka	Kirko
+Nupedia	Nupedia
+Itolu	9 (nombro)
+Nha Trang	Nha Trang
+Public domain	Publika havaĵo
+Josh Duhamel	Josh Duhamel
+Lady Gaga	Lady Gaga
+Breinigerberg	Breinigerberg
+GNU Free Documentation License	Permesilo de GNU por Liberaj Dokumentoj
+Population density	Loĝdenso
+1	1
+Asaa	7 (nombro)
+Asatọ	8 (nombro)
+Taylor Lautner	Taylor Lautner
+Jeremy Renner	Jeremy Renner
+Chris Pine	Chris Pine
+Isii	6 (nombro)
+Asụsụ obodo	Oficiala lingvo
+Moshchena	Moŝĉena
+George H. W. Bush	George H. W. Bush
+Entrena	Entrena
+Iri	10 (nombro)
+Andrew Garfield	Andrew Garfield
+ISO 3166-1	ISO 3166-1
+Da Nang	Da Nang
+Arktik	Arkto
+Mahadum Niccolò Cusano	Università degli Studi Niccolò Cusano
+Owuwa Anyanwu Obodo Beke	Orienta Eŭropo
+Mba Mmiri	Niĝera Delto
+Density	Denso
+Ásụ̀sụ̀ Ị̀gbò	Igba lingvo
+Áká	Mano
+Ndi Haụsa	Haŭsoj
+Marlon Brando	Marlon Brando
+Latitude	Latitudo
+Justin Bieber	Justin Bieber
+Mkpisi-aka	Fingro
+Kingston	Kingstono
+Ágụ	Leopardo
+Ílú	Proverbo
+Charles Bronson	Charles Bronson
+Beyoncé Knowles	Beyoncé Knowles
+Thanh Hoa	Thanh Hoa
+Longitude	Longitudo
+Iri na abụo	12 (nombro)
+Toshiro Mifune	Mifune Toshiro
+Iri na otu	11 (nombro)
+Iri na atọ	13 (nombro)
+Mmuo Nso	Sankta Spirito
+Iri na anọ	14 (nombro)
+Iri na ise	15 (nombro)
+Iri na asatọ	18 (nombro)
+Radio Studio 54 Network	Radio Studio 54 Network
+Iri na iteghete	19 (nombro)
+Iri na asaa	17 (nombro)
+Iri na isii	16 (nombro)
+Iri abụo	20 (nombro)
+Björk	Björk
+Johnny Cash	Johnny Cash
+Omaha, Nebraska	Omaha (Nebrasko)
+Malcolm X	Malcolm X
+Nwanyi	Ina sekso
+Nwoke	Vira sekso
+The Doors	The Doors
+Ndi áláküba	Islamano
+Idi Amin	Idi Amin
+Iri abụo na atọ	23 (nombro)
+Ndi Afrika nke Amerika	Afrik-usonanoj
+Nje ọrịa Ebola	Ebola malsano
+Goodluck Jonathan	Goodluck Jonathan
+Iri abụo na ise	25 (nombro)
+Iri abụo na anọ	24 (nombro)
+Etemete mmírí	Akvocirkulado
+James Dean	James Dean
+Ahà nnà	Familia nomo
+Donald Sutherland	Donald Sutherland
+Peter O'Toole	Peter O’Toole
+Umaru Yar'Adua	Umaru Jar'Adua
+Onye Kraịst	Kristano
+Òbòdò àgwè	Landinsulo
+Ȯra Anambra	Anambra Ŝtato
+Dziecinów (no na Otwock County)	Dziecinów (poviato Otwock)
+Dammam	Dammam
+Gini coefficient	Koeficiento de Gini
+Ahú	Korpo (biologio)
+Okpara	Filo
+Bịafra	Biafro
+Nnamdi Azikiwe	Nnamdi Azikiwe
+Ta’if	Taif
+Forest Whitaker	Forest Whitaker
+Kano	Kano (urbo)
+Ndi Yoruba	Joruboj
+Wikipedia nke ndị Norway	Norveglingva Vikipedio
+Digimon	Digimon
+Egbughị egbu	Nemortigo
+Olusegun Obasanjo	Olusegun Obasanjo
+Abá	Aba (Niĝerio)
+Ọrịa ihi ụra nke ukwuu	Dormomalsano
+Sani Abacha	Sani Abacha
+Adolfo Suárez	Adolfo Suárez
+Ugwu Ọcha	Port Harcourt
+Anggun	Anggun
+Erykah Badu	Erykah Badu
+Ndi ocha	Blankulo
+Ndị Igbo	Igboj
+Pete Seeger	Pete Seeger
+Abdulsalami Abubakar	Abdulsalami Abubakar
+Paul Robeson	Paul Robeson
+Ẹkẹlẹkbọ	Hermafrodito (Vivoscienco)
+Abakaléké	Abakaliki
+Adá	Filino
+Ȯra Abia	Abia
+Ibrahim Babangida	Ibrahim Babangida
+Marek Grechuta	Marek Grechuta
+Genaral Johnson Aguiyi-Ironsi	Johnson Aguiyi-Ironsi
+Edward Wilmot Blyden	Edward Wilmot Blyden
+Pope Francis	Francisko (papo)
+Akwụkwọ nke Momọn	Libro de Mormon
+Enúgwu	Enugu
+Ernest Shonekan	Ernest Shonekan
+Coritiba Foot Ball Club	Coritiba Foot Ball Club
+Baraona	Baraona
+Medinaceli	Medinaceli
+Ishi ochíchì Naigeria	Prezidento de Niĝerio
+Chris Pratt	Chris Pratt
+Ȯra Ebonyi	Ebonyi
+Owẹrrẹ	Owerri
+Asaá Göttingen	Sepo de Göttingen
+Ọgụ Towton	Batalo de Towton
+Nkeji Ochíchííwu Kano	Kano (subŝtato de Niĝerio)
+Iri abụo na otu	21 (nombro)
+Iri abụo na abụo	22 (nombro)
+Yeghishe Charents	Jeghiŝe Ĉarenc
+Óká	Awka
+Ȯra Lagos	Lagosa Ŝtato
+Alcubilla de las Peñas	Alcubilla de las Peñas
+Alpanseque	Alpanseque
+Arcos de Jalón	Arcos de Jalón
+Miño de Medinaceli	Miño de Medinaceli
+Villasayas	Villasayas
+Yelo	Yelo
+Ȯra Imo	Imo
+Onịchạ	Onitsha
+VietJet Air	VietJet Air
+Ikeja	Ikeja
+Afọ	Stomako
+Casey Kasem	Casey Kasem
+Àsàbà	Asaba (Niĝerio)
+Agnes Monica	Agnes Monica
+Òtù:Jémanị	Kategorio:Germanio
+Òtù:Njikota Obodo Amerika	Kategorio:Usono
+Òtù:Mpaghara Russia	Kategorio:Rusio
+Òtù:Spain	Kategorio:Hispanio
+Òtù:Ndia	Kategorio:Barato
+Òtù:Ethiopia	Kategorio:Etiopio
+Òtù:Naigeria	Kategorio:Niĝerio
+Òtù:Poland	Kategorio:Pollando
+Òtù:Yukrain	Kategorio:Ukrainio
+Òtù:Vietnam	Kategorio:Vjetnamio
+Òtù:Ákíkó mbu	Kategorio:Historio
+Òtù:Geography	Kategorio:Geografio
+Òtù:Àlà	Kategorio:Tero
+People's Democratic Party	Popola Demokratia Partio (Niĝerio)
+Àbànà	Ube-ignamo
+Òtù:Disambiguation	Kategorio:Apartigiloj
+Ohi	Ŝtelo
+Conrad Bain	Conrad Bain
+Òtù:Édémédé mkpu mkpu	Kategorio:Ĝermo
+Òtù:Continents	Kategorio:Kontinentoj
+Pithole, Pennsylvania	Pithole
+Òtù:Wikipedia bots	Kategorio:Vikipedio:Robotoj
+Ȯra Enugu	Enugu (subŝtato de Niĝerio)
+Wikipedia:Administrators	Vikipedio:Administrantoj
+Wikipedia:Requests for adminship	Vikipedio:Administrantoj/kandidatoj
+Wikipedia:Bureaucrats	Vikipedio:Burokratoj
+Àtụ:Bot	Ŝablono:Bot
+Kánada	Kanado
+Òtù:Wikipedia policies and guidelines	Kategorio:Vikipedio:Politiko
+Àtụ:Documentation	Ŝablono:Dok
+Wikipedia:Nzọr ogbako	Portalo:Komunumo
+Wikipedia:Neutral point of view	Vikipedio:Neŭtrala vidpunkto
+Wikipedia:Criteria for speedy deletion	Vikipedio:Regularo pri tuja forigado
+Sung Jae-gi	Sung Jae-gi
+Àtụ:Softredirect	Ŝablono:Intervikia plusendilo
+Àtụ:Delete	Ŝablono:Forigu tuj
+Òtù:Wikipedia	Kategorio:Vikipedio
+Wikipedia:General disclaimer	Vikipedio:Malgarantio
+Wikipedia:Privacy policy	Vikipedio:Respekto de la privateco
+Àtụ:Ngwaọtú	Ŝablono:Navigilo2
+Àtụ:!	Ŝablono:!
+Àtụ:Tnavbar	Ŝablono:Tnavbar
+Òtù:Formatting templates	Kategorio:Ŝablono:Formatigo
+Àtụ:Érèkọbalà	Ŝablono:Nrsp
+Òtù:Afrịka	Kategorio:Afriko
+Òtù:Önwa ishií	Kategorio:Junio
+Àtụ:Babel	Ŝablono:Babelejo
+Àtụ:References	Ŝablono:Referencoj
+Àtụ:ÉdéNtạ	Ŝablono:Ĝermo
+Àtụ:See also	Ŝablono:Vidu ankaŭ
+Àtụ:User en-0	Ŝablono:Vikipediisto en-0
+Àtụ:User en	Ŝablono:Vikipediisto en
+Àtụ:User sk	Ŝablono:Vikipediisto sk
+Àtụ:User ja	Ŝablono:Vikipediisto ja
+Àtụ:Intricate template	Ŝablono:Esotera
+Àtụ:Mod	Ŝablono:Mod
+Òtù:Encyclopedias	Kategorio:Enciklopedioj
+Àtụ:Íshí Nzọr Inglish	Ŝablono:Bonvenon
+Àtụ:NwannenwanyiWikipedia	Ŝablono:ĈefPaĝo/AliajProjektoj
+Àtụ:Íshí nke önwa	Ŝablono:MonatEnkonduko
+Òtù:Coordinates templates	Kategorio:Ŝablono:Kun koordinatoj
+Àtụ:Click	Ŝablono:Ligo el bildo
+Àtụ:Meta	Ŝablono:Meta
+Àtụ:Wikimedia Foundation	Ŝablono:Vikimedia fondaĵo
+Àtụ:Collapsible list	Ŝablono:Kaŝebla listo
+Àtụ:Steady	Ŝablono:Sama
+Àtụ:Ngwómárí Obodo	Ŝablono:Informkesto lando
+Àtụ:Audio	Ŝablono:Aŭdio
+Àtụ:Ngwómárí pharaoh	Ŝablono:Informkesto Faraono
+Òtù:User en	Kategorio:Vikipediisto en
+Àtụ:Infobox	Ŝablono:Informkesto
+Àtụ:TOCright	Ŝablono:TOC-dekstre
+Àtụ:Coor URL	Ŝablono:KoordinatojURL
+Àtụ:Pp-template	Ŝablono:Pp-ŝablono
+Àtụ:Pp-semi-template	Ŝablono:Pp-duone-ŝablono
+Àtụ:IPA	Ŝablono:IFA
+Àtụ:Birth date and age	Ŝablono:Naskiĝdato kaj aĝo
+Àtụ:Infobox Ndi mbà	Ŝablono:Informkesto etnaj grupoj
+Àtụ:Border	Ŝablono:Bordero
+Àtụ:Infobox website	Ŝablono:Informkesto retejo
+Àtụ:Coor title dms	Ŝablono:Koord2
+Àtụ:PD-ineligible	Ŝablono:PD-nekopirajtebla
+Àtụ:Documentation subpage	Ŝablono:Ŝablona navigado
+Àtụ:Tlx	Ŝablono:Tlx
+Àtụ:User	Ŝablono:Uzanto2
+Àtụ:PD-user	Ŝablono:PD-uzanto
+Àtụ:Coor	Ŝablono:Koord
+Àtụ:Dated maintenance category	Ŝablono:Datita prizorga kategorio
+Òtù:Interwiki Templates	Kategorio:Ŝablono:Vikimedia projekto
+Òtù:User sk	Kategorio:Vikipediisto sk
+Òtù:Templates using ParserFunctions	Kategorio:Ŝablonoj uzantaj ParserFunctions
+Òtù:User sk-N	Kategorio:Vikipediisto sk-D
+Òtù:User de	Kategorio:Vikipediisto de
+Òtù:User de-N	Kategorio:Vikipediisto de-D
+Òtù:User en-N	Kategorio:Vikipediisto en-D
+Àtụ:Information	Ŝablono:Informo por dosiero
+Òtù:1960 births	Kategorio:Naskiĝintoj en 1960
+Òtù:Ala no n'ime Afrịka	Kategorio:Afrikaj landoj
+Òtù:Nebraska	Kategorio:Nebrasko
+Òtù:Michigan	Kategorio:Miĉigano
+Àtụ:Infobox Language/family-color	Ŝablono:Informkesto lingvo/Koloro
+Òtù:1st century	Kategorio:1-a jarcento
+Òtù:Jamaikạ	Kategorio:Jamajko
+Òtù:Esoteric templates	Kategorio:Ŝablono:Esoteraj
+Òtù:Template namespace templates	Kategorio:Ŝablono:Helpa ŝablono
+Òtù:Dominika	Kategorio:Dominiko
+Òtù:Wikimedia Foundation	Kategorio:Vikimedio
+Òtù:Ómárí	Kategorio:Logiko
+Àtụ:Infobox Language	Ŝablono:Informkesto lingvo
+Trojany (no na Wołomin County)	Trojany
+Jí	Ignamo
+Òtù:Wikipedia multilingual coordination	Kategorio:Babel
+Òtù:Akwụkwọ nke Momọn	Kategorio:Libro de Mormon
+Òtù:Göttingen	Kategorio:Göttingen
+Wikipedia:Bots	Vikipedio:Roboto/Etiko de robotisto
+Òtù:President of Naigeria	Kategorio:Prezidantoj de Niĝerio
+Wikipedia:Medical disclaimer	Vikipedio:Konsilo pri medicinaj temoj
+Nwanne	Frato
+Ube	Piro
+Ihü kárírí:RecentChanges	Specialaĵo:Lastaj ŝanĝoj

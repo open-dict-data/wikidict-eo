@@ -1,0 +1,477 @@
+Afirka	Afriko
+Japan	Japanio
+Norway	Norvegio
+Ireland	Irlando
+Hungariya	Hungario
+An Spàinn	Hispanio
+Amurika	Usono
+Beljik	Belgio
+Luksamburg	Luksemburgo (lando)
+Duniya	Tero
+Yan-adam	Homo
+Finland	Finnlando
+Sweden	Svedio
+Denmark	Danio
+Poland	Pollando
+Lithuania	Litovio
+Italiya	Italio
+Switzerland	Svislando
+Austriya	Aŭstrio
+Greek	Grekio
+Turkiyya	Turkio
+Portugal	Portugalio
+Turai	Eŭropo
+Asiya	Azio
+Amirka ta Arewa	Nordameriko
+Wikipedia	Vikipedio
+Berlin	Berlino
+Airbus	Airbus
+Na'ura	Komputilo
+Yanar gizo	Interreto
+Barack Obama	Barack Obama
+Pariis	Parizo
+Kenya	Kenjo
+Ethiopia	Etiopio
+Zaki	Leono
+Faransa	Francio
+Esperanto	Esperanto
+Kare	Hundo
+Birtaniya	Unuiĝinta Reĝlando
+Kyanwa	Hejma kato
+Sin	Ĉina Popola Respubliko
+Kifi	Fiŝoj
+Rasha	Rusio
+Teku	Maro
+São Paulo	San-Paŭlo (urbo)
+Jamus	Germanio
+Iceland	Islando
+Istoniya	Estonio
+Jirgin sama	Aviadilo
+Ɗaya	1 (nombro)
+Biyu	2 (nombro)
+Uku	3 (nombro)
+Huɗu	4 (nombro)
+Biyar	5 (nombro)
+Laitfiya	Latvio
+Ukraniya	Ukrainio
+Kazech	Ĉeĥio
+Slofakiya	Slovakio
+Sloveniya	Slovenio
+MOldufiniya	Moldava Respubliko
+Romainiya	Rumanio
+Bulgairiya	Bulgario
+Masadoiniya	Respubliko Makedonio
+Albaniya	Albanio
+Kroatiya	Kroatio
+Azerbaijan	Azerbajĝano
+Andorra	Andoro
+Cyprus	Kipro
+Georgia (country)	Kartvelio
+Kazakystan	Kazaĥio
+Malta	Malto
+Monaco	Monako
+Montenegro	Montenegro
+Vatican	Vatikano
+San Marino	San-Marino
+Indonesiya	Indonezio
+Afirka ta kudu	Sud-Afriko
+Aljeriya	Alĝerio
+Uzbekistan	Uzbekujo
+Ruwa	Akvo
+Chile	Ĉilio
+Isa Almasihu	Jesuo Kristo
+Singafora	Singapuro
+Ilmi	Scienco
+Liechtenstein	Liĥtenŝtejno
+Hitler	Adolf Hitler
+Facebook	Facebook
+Baharain	Barejno
+Armeniya	Armenio
+Serbiya	Serbio
+Wata	Luno
+Santanbul	Istanbulo
+Asturaliya	Aŭstralio
+Koriya ta Arewa	Nord-Koreio
+Kambodiya	Kamboĝo
+Musulunci	Islamo
+Rana	Suno
+Angela Merkel	Angela Merkel
+Timor-Leste	Orienta Timoro
+Duniyoyi	Planedo
+Cadi	Ĉado
+Indiya	Barato
+Mangolia	Mongolio
+Dabba	Bestoj
+Shuka	Plantoj
+Kaza	Koko
+Jersey	Ĵersejo
+Aladu	Porko
+Iran	Irano
+Irak	Irako
+Isra'ila	Israelo
+Yemen	Jemeno
+Jordan	Jordanio
+Kyrgystan	Kirgizio
+Kuwait	Kuvajto
+Laos	Laoso
+Lebanon	Libano
+Maldives	Maldivoj
+Maleziya	Malajzio
+Myanmar	Birmo
+Nepal	Nepalo
+Oman	Omano
+Pakistan	Pakistano
+Qatar	Kataro
+Saudiyya	Sauda Arabio
+Sri Lanka	Sri-Lanko
+Siriya	Sirio
+Tajikistan	Taĝikio
+Thailand	Tajlando
+Turkmenistan	Turkmenio
+Taraiyar larabawa	Unuiĝintaj Arabaj Emirlandoj
+Vietnam	Vjetnamio
+Koriya ta Kudu	Sud-Koreio
+Da Simpsons	La Simpsonoj
+Afghanistan	Afganio
+Bangladash	Bangladeŝo
+Mali	Malio
+Angola	Angolo
+Bhutan	Butano
+Brunei	Brunejo
+Filipin	Filipinoj
+Togo	Togolando
+Benin	Benino
+Botswana	Bocvano
+Burkina faso	Burkino
+Burundi	Burundo
+Jamhuriyar dimokuradiyya Kwango	Demokratia Respubliko Kongo
+Gine	Gvineo
+Kameru	Kameruno
+Libya	Libio
+Muritaniya	Maŭritanio
+Nijar	Niĝero
+Nijeriya	Niĝerio
+Uganda	Ugando
+Senegal	Senegalo
+Julius Caesar	Julio Cezaro
+Sudan	Sudano
+Majalisar Ɗinkin Duniya	Unuiĝintaj Nacioj
+Kofi Annan	Kofi Annan
+Montevideo	Montevideo
+Biri	Simio
+Augustus	Aŭgusto Cezaro
+Gibraltar	Ĝibraltaro
+Mota	Aŭtomobilo
+Buenos Aires	Bonaero
+Abarba	Ananaso
+Zinedine Yazid Zidane	Zinedine Zidane
+Baibûl	Biblio
+Gaskiyan Cocin Isa	Vera Eklezio de Jesuo
+Concepción, Chile	Koncepciono
+Końskowola	Końskowola
+Maciji	Serpento
+Kimiya	Kemio
+Lima	Limo
+Santiago de Chile	Santiago de Ĉilio
+Osasco	Osasco (San-Paŭlo)
+Dong Hoi Filin	Flughaveno Dong Hoi
+Curitiba	Kuritibo
+Confucius	Konfuceo
+Kiristancìì	Kristanismo
+Nahiya	Kontinento
+Tsuntsu	Birdoj
+Main Page	Vikipedio:Ĉefpaĝo
+Saratov	Saratov
+Bus	Aŭtobuso
+Åland	Alando
+Makkah	Mekko
+Canary Islands	Kanarioj
+Category:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+Sahara	Saharo
+Kyautar Nobel	Nobel-premio
+Sauro	Moskito
+Raƙumi	Kamelo
+Giwa	Elefanto
+Ƙudan zuma	Abelo
+Margaret Thatcher	Margaret Thatcher
+Nelson Mandela	Nelson Mandela
+Category:Fàransà	Kategorio:Francio
+Hakkokin Yan-adam	Homaj rajtoj
+Hong Kong	Honkongo
+Rio de Janeiro	Rio-de-Ĵanejro
+Addini	Religio
+Muhammad	Mohamedo
+Isle of Man	Manksinsulo
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+Bishiya	Arbo
+APACHE	Retservilo Apache
+Lissafi	Nombro
+Masara	Maizo
+Ƙasashen Duniya	Listo de sendependaj ŝtatoj
+Dabbar beya	Urso
+Sankara	Kancero
+Kurãme	Surdeco
+Polio	Poliomjelito
+Makaman nukiliya	Atombombo
+Macau	Makao
+Raƙumin dawa	Ĝirafo (specio)
+Template:Link FA	Ŝablono:LigoElstara
+Wikipedia:Community Portal	Vikipedio:Diskutejo
+Jimina	Struto
+Tara	9 (nombro)
+Jaki	Azeno
+Tuje	Otidedoj
+Jamhuriyar Sin	Tajvano
+Bakwai	7 (nombro)
+Takwas	8 (nombro)
+Dabbar rendiya	Cervedoj
+Tafarnuwa	Ajlo
+Shida	6 (nombro)
+Moshchena	Moŝĉena
+Selena	Selena
+Goma	10 (nombro)
+Guernsey	Guernsey
+Kahuhu	Upupedoj
+Kyankyaso	Blato
+Galantoyi	Blanka cikonio
+Kada	Krokodilulo
+Kurciya	Turtoj
+Zaƙami	Ordinara daturo
+Hausawa	Haŭsoj
+Mošovce	Mošovce
+Benazir Bhutto	Benazir Bhutto
+Mahmoud Ahmadinejad	Mahmud Ahmadineĵad
+Dokokin nan goma	La Dekalogo
+Damisa	Leopardo
+Ido	Ido (lingvo)
+Larabawa	Araboj
+Madinah	Medino
+Gyaɗa	Ternukso
+Ɗari	100 (nombro)
+Hawainiya	Ĥameleono
+Firinji	Fridujo
+Khomeini	Ruhollah Ĥomejni
+Ɗaɗɗoya	Bazilio
+Zirin Gaza	Gaza Sektoro
+Radio Studio 54 Network	Radio Studio 54 Network
+Ashirin	20 (nombro)
+Arbaʼin	40 (nombro)
+Palestin autonomija	Palestina aŭtonomio
+Talatin	30 (nombro)
+Dubu	1000 (nombro)
+Desmond Tutu	Desmond Tutu
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Tsibirin Bermuda	Bermuda triangulo
+Dabgi	Orikteropo
+Kotun Shari'ar Miyagun Laifuka	Internacia puna kortumo
+Template:Commonscat	Ŝablono:Commonscat
+Afirnawan Amirka	Afrik-usonanoj
+Ƙwayoyin cuta na Ebola	Ebola malsano
+Hausa	Haŭsa lingvo
+Ali Khamenei	Ali Ĥamenei
+Sao Vang Filin	Flughaveno Sao Vang
+Sittin	60 (nombro)
+Tsamiya	Tamarindo (arbo)
+Kuɓewa	Gombo
+Rogo	Manioko
+Karkandan	Kurtbuŝa rinocero
+Cutar murar aladu	Gripa pandemio de 2009
+Umaru Musa Yar'Adua	Umaru Jar'Adua
+Balbela	Bovardeo
+Rimi	Kapok-arbo
+Zamfara	Zamfara Ŝtato
+Zariya	Zaria
+Ɓauna	Afrika bubalo
+Gweba	Psidium guajava
+Zabo	Numidedoj
+Herzegovina	Hercegovino
+CFA franc ( sefar yammaci Afirka)	Afrika franko
+Kaduna	Kaduno
+Gwaggon biri	Anuba paviano
+Boko Haram	Boko Haram
+Maiduguri	Maiduguri
+Afifiya	Testuduloj
+Gwaza	Taro (planto)
+Zogale	Moringa oleifera
+Casaʼin	90 (nombro)
+Jibda	Afrika civeto
+Dumya	Spronflugila ansero
+Ƙirƙa	Etiopa klorocebo
+43 (adadan)	43 (nombro)
+Shamuwa	Abdima cikonio
+Mayen kifi	Blanknigra alciono
+Agadez	Agadez
+Marek Grechuta	Marek Grechuta
+Jan baki	Ruĝbeka teksbirdo
+Matiyu	Evangelio laŭ Mateo
+Kwara	Kŭara Ŝtato
+Tan Son Nhat Filin	Flughaveno Tan Son Nhat
+Babba da jaka	Marabuo
+Jihar Katsina	Kacina Ŝtato
+Danya	Marula arbo
+Kano	Kano (subŝtato de Niĝerio)
+Ybe	Jobe
+Tamanin	80 (nombro)
+Sabaʼin	70 (nombro)
+Hamsin	50 (nombro)
+Wushi-wushi	Dukolora arbanaso
+Ƙirinjijiya	Blankvizaĝa arbanaso
+Da Nang Filin	Flughaveno Da Nang
+VietJet Air	VietJet Air
+Hazbiya	Lentuga kolombo
+51 (adadan)	51 (nombro)
+Ca Mau Filin	Flughaveno Ca Mau
+Help:Contents	Helpo:Enhavo
+Katsina	Katsina
+Zakaran ƙeƙuwa	Nigrakapa vanelo
+Hankaka	Blankbrusta korvo
+Tsanwaka	Abisena koracio
+Category:Turkiyya	Kategorio:Turkio
+Category:Afirka ta kudu	Kategorio:Sud-Afriko
+Category:Nijeriya	Kategorio:Niĝerio
+Category:Vietnam	Kategorio:Vjetnamio
+Category:Tsuntsu	Kategorio:Birdoj
+Category:Shuka	Kategorio:Plantoj
+Category:Addini	Kategorio:Religio
+Category:Duniya	Kategorio:Tero
+LGBT hakkin a Afrika	Samseksemo en Afriko
+Shaho	Aglo
+Riɗi	Hindia sezamo
+Category:Stubs	Kategorio:Ĝermo
+Edmond Debeaumarché	Edmond Debeaumarché
+Template:Tl	Ŝablono:Ŝ
+Template:Userbox	Ŝablono:Uzantoskatolo1
+Category:Ƙasā̀shē	Kategorio:Landoj
+Wikipedia:Administrators	Vikipedio:Administrantoj
+Wikipedia:Vital 100	Vikipedio:Listo de 100 plej havendaj artikoloj
+Misra	Egiptujo
+Template:Bot	Ŝablono:Bot
+Kanada	Kanado
+Category:Slovakia	Kategorio:Slovakio
+Category:Tūrai	Kategorio:Eŭropo
+Template:Documentation	Ŝablono:Dok
+Wikipedia:Community portal	Portalo:Komunumo
+Category:User languages	Kategorio:Vikipediistoj laŭ lingvo
+Sung Jae-ki	Sung Jae-gi
+Template:Softredirect	Ŝablono:Intervikia plusendilo
+Template:Delete	Ŝablono:Forigu tuj
+Category:Wikipedia	Kategorio:Vikipedio
+Wikipedia:General disclaimer	Vikipedio:Malgarantio
+Wikipedia:Statistics	Vikipedio:Statistiko
+Template:Navbox	Ŝablono:Navigilo2
+Template:!	Ŝablono:!
+Template:=	Ŝablono:=
+Template:Navbar	Ŝablono:Tnavbar
+Template:Unicode	Ŝablono:Unicode
+Wikipedia:Vital articles	Vikipedio:Listo de havendaj artikoloj
+Category:Afirka	Kategorio:Afriko
+Category:Adadan	Kategorio:Nombroj
+Template:Babel	Ŝablono:Babelejo
+Template:Reflist	Ŝablono:Referencoj
+Template:Gnunote	Ŝablono:Gnunote
+Template:Stub	Ŝablono:Ĝermo
+Template:User af-1	Ŝablono:Vikipediisto af-1
+Template:User ar-1	Ŝablono:Vikipediisto ar-1
+Template:User ast-1	Ŝablono:Vikipediisto ast-1
+Template:User bar-1	Ŝablono:Vikipediisto bar-1
+Template:See also	Ŝablono:Vidu ankaŭ
+Template:User da-2	Ŝablono:Vikipediisto da-2
+Template:User da	Ŝablono:Vikipediisto da
+Template:User ca-1	Ŝablono:Vikipediisto ca-1
+Template:User ca-4	Ŝablono:Vikipediisto ca-4
+Template:User be-2	Ŝablono:Vikipediisto be-2
+Template:User da-1	Ŝablono:Vikipediisto da-1
+Template:User cs-1	Ŝablono:Vikipediisto cs-1
+Template:User bg-1	Ŝablono:Vikipediisto bg-1
+Template:User de	Ŝablono:Vikipediisto de
+Template:User de-1	Ŝablono:Vikipediisto de-1
+Template:User el	Ŝablono:Vikipediisto el
+Template:User de-3	Ŝablono:Vikipediisto de-3
+Template:User en-3	Ŝablono:Vikipediisto en-3
+Template:User el-1	Ŝablono:Vikipediisto el-1
+Template:User en-1	Ŝablono:Vikipediisto en-1
+Template:User en-2	Ŝablono:Vikipediisto en-2
+Template:User en-4	Ŝablono:Vikipediisto en-4
+Template:User en	Ŝablono:Vikipediisto en
+Template:User de-2	Ŝablono:Vikipediisto de-2
+Template:User tr-2	Ŝablono:Vikipediisto tr-2
+Category:Asiya	Kategorio:Azio
+Category:User uk	Kategorio:Vikipediisto uk
+Category:User uk-N	Kategorio:Vikipediisto uk-D
+Template:Mod	Ŝablono:Mod
+Template:SIL	Ŝablono:ISO639-3 ligilo
+Template:User uk	Ŝablono:Vikipediisto uk
+Template:ITA	Ŝablono:ITA
+Template:Wikivar	Ŝablono:Wikivar
+Template:Image label	Ŝablono:Marko sur bildo
+Template:Ambox	Ŝablono:ArtikolaMesaĝokesto
+Template:Infobox Country	Ŝablono:Informkesto lando
+Template:Tmbox	Ŝablono:DiskutaMesaĝokesto
+Template:Cite journal	Ŝablono:Citaĵo el gazeto
+Category:User en-4	Kategorio:Vikipediisto en-4
+Category:User en	Kategorio:Vikipediisto en
+Category:User en-2	Kategorio:Vikipediisto en-2
+Template:Infobox	Ŝablono:Informkesto
+Template:Cite web	Ŝablono:Citaĵo el la reto
+Template:Pp-template	Ŝablono:Pp-ŝablono
+Template:IPA	Ŝablono:IFA
+Category:Amurika	Kategorio:Ameriko
+Template:MONTHNAME	Ŝablono:Nomo de monato
+Template:Namespace detect	Ŝablono:Determinas nomspacon
+Template:Image label end	Ŝablono:Marko sur bildo fino
+Template:Tlx	Ŝablono:Tlx
+Kungiyar Agaji Ta Red Cross Ta Duniya	Internacia Komitato de la Ruĝa Kruco
+Template:Image label small	Ŝablono:Marko sur bildo malgranda
+Template:Pp-meta	Ŝablono:Pp-meta
+Template:Disambig	Ŝablono:Apartigilo
+Template:Dated maintenance category	Ŝablono:Datita prizorga kategorio
+Category:User az	Kategorio:Vikipediisto az
+Category:User be	Kategorio:Vikipediisto be
+Category:User cs-1	Kategorio:Vikipediisto cs-1
+Category:User da-1	Kategorio:Vikipediisto da-1
+Category:User ar-1	Kategorio:Vikipediisto ar-1
+Category:User be-2	Kategorio:Vikipediisto be-2
+Category:User da-2	Kategorio:Vikipediisto da-2
+Category:User tr-2	Kategorio:Vikipediisto tr-2
+Category:User af	Kategorio:Vikipediisto af
+Category:User af-1	Kategorio:Vikipediisto af-1
+Category:User ar	Kategorio:Vikipediisto ar
+Category:User ast	Kategorio:Vikipediisto ast
+Category:User ast-1	Kategorio:Vikipediisto ast-1
+Category:User bar	Kategorio:Vikipediisto bar
+Category:User bg	Kategorio:Vikipediisto bg
+Category:User bg-1	Kategorio:Vikipediisto bg-1
+Category:User ca	Kategorio:Vikipediisto ca
+Category:User ca-1	Kategorio:Vikipediisto ca-1
+Category:User ca-4	Kategorio:Vikipediisto ca-4
+Category:User cs	Kategorio:Vikipediisto cs
+Category:User da	Kategorio:Vikipediisto da
+Category:User de	Kategorio:Vikipediisto de
+Category:User de-2	Kategorio:Vikipediisto de-2
+Category:User de-3	Kategorio:Vikipediisto de-3
+Category:User el	Kategorio:Vikipediisto el
+Category:User el-1	Kategorio:Vikipediisto el-1
+Category:User el-N	Kategorio:Vikipediisto el-D
+Category:User en-3	Kategorio:Vikipediisto en-3
+Category:User en-N	Kategorio:Vikipediisto en-D
+Template:Nastaliq	Ŝablono:Persa belskribo
+Category:User tr	Kategorio:Vikipediisto tr
+Category:User tr-N	Kategorio:Vikipediisto tr-D
+Category:Bishiya	Kategorio:Arboj
+Category:Kudi	Kategorio:Monunuoj
+Category:Kifi	Kategorio:Fiŝoj
+Category:Amfani	Kategorio:Fruktoj
+Category:Dabba	Kategorio:Bestoj
+Kabewa	Kukurbeto
+Iska	Aero
+Template:Flag	Ŝablono:Flago
+Trojany	Trojany
+Doya	Ignamo
+Template:Image label begin	Ŝablono:Marko sur bildo komenco
+Category:User en-1	Kategorio:Vikipediisto en-1
+Category:User de-1	Kategorio:Vikipediisto de-1
+Category:User da-N	Kategorio:Vikipediisto da-D
+Malan boɗe ido	Rhopalocera
+Special:RecentChanges	Specialaĵo:Lastaj ŝanĝoj
+Module:InfoboxImage	Modulo:InfoboxImage

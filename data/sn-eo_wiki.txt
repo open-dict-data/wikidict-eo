@@ -1,0 +1,1486 @@
+Africa	Afriko
+Japan	Japanio
+South America	Sudameriko
+Norway	Norvegio
+Scotland	Skotlando
+Wales	Kimrio
+Ireland	Irlando
+Hungary	Hungario
+Spain	Hispanio
+United States of America	Usono
+Belgium	Belgio
+Luxembourg	Luksemburgo (lando)
+Rudunhumwe	Universo
+Rinopasi	Tero
+Finland	Finnlando
+Sweden	Svedio
+Denmark	Danio
+Poland	Pollando
+Lithuania	Litovio
+Italy	Italio
+Switzerland	Svislando
+Austria	Aŭstrio
+Greece	Grekio
+Turkey	Turkio
+Doro	Biero
+Portugal	Portugalio
+Europe	Eŭropo
+Asia	Azio
+North America	Nordameriko
+Netherlands	Nederlando
+Mboro	Peniso
+Washington, DC	Vaŝingtono
+Bern	Berno
+Uruguay	Urugvajo
+London	Londono
+Cairo	Kairo
+Alexandria	Aleksandrio
+Paris	Parizo
+Mexico	Meksiko
+Gungwa reAtlantic	Atlantika Oceano
+Gungwa rePacific	Pacifika Oceano
+Muvhuro	Lundo
+Kenya	Kenjo
+Ethiopia	Etiopio
+Ghana	Ganao
+Gunyana	Septembro
+Chipiri	Mardo
+Chitatu	Merkredo
+China (Musi)	Ĵaŭdo
+Chishanu (musi)	Vendredo
+Mugovera	Sabato
+Svondo (musi)	Dimanĉo
+Shumba	Leono
+France	Francio
+Imbwa	Hundo
+United Kingdom	Unuiĝinta Reĝlando
+Katsi	Hejma kato
+China (nyika)	Ĉina Popola Respubliko
+Hove	Fiŝoj
+Brazil	Brazilo
+Russian Federation	Rusio
+Skweya	Kvadrato (geometrio)
+Germany	Germanio
+Belarus	Belorusio
+Iceland	Islando
+Mwari	Dio
+Estonia	Estonio
+Ndege	Aviadilo
+Hondo	Milito
+Motsi	1 (nombro)
+Piri	2 (nombro)
+Tatu	3 (nombro)
+China	4 (nombro)
+Shanu	5 (nombro)
+Chipasina	Nulo
+Ruramamakonyo	Ortangulo
+Rurama (pimanyika)	Orto
+Latvia	Latvio
+Ukraine	Ukrainio
+Czechia	Ĉeĥio
+Slovakia	Slovakio
+Slovenia	Slovenio
+Vilnius	Vilno
+Moldova	Moldava Respubliko
+Romania	Rumanio
+Bulgaria	Bulgario
+Rome	Romo
+Macedonia	Respubliko Makedonio
+Albania	Albanio
+Croatia	Kroatio
+Bosnia and Herzegovina	Bosnio kaj Hercegovino
+Azerbaijan	Azerbajĝano
+Andorra	Andoro
+Cyprus	Kipro
+Georgia	Kartvelio
+Kazakhstan	Kazaĥio
+Malta	Malto
+Monaco	Monako
+Montenegro	Montenegro
+Vatican City	Vatikano
+San Marino	San-Marino
+Brussels	Brusela Ĉefurba Regiono
+Cuba	Kubo
+Belize	Belizo
+Barbados	Barbado
+Indonesia	Indonezio
+South Africa	Sud-Afriko
+Algeria	Alĝerio
+Uzbekistan	Uzbekujo
+Tashkent	Taŝkento
+Warsaw	Varsovio
+Mvura	Akvo
+Dehwe	Ledo
+Chile	Ĉilio
+Nhoroondo	Historio
+Mutauro	Lingvo
+Zvechadenga	Astronomio
+Singapore	Singapuro
+Liechtenstein	Liĥtenŝtejno
+Hondo yePasirose yeChiposhi	Unua mondmilito
+Hondo yePasirose yeChipiri	Dua mondmilito
+Skopje	Skopjo
+Masvomhu	Matematiko
+Bahrain	Barejno
+Armenia	Armenio
+Serbia	Serbio
+Mwedzi (mutumbi)	Luno
+Australia	Aŭstralio
+Fundoyetsimba	Fiziko
+Argentina	Argentino
+Peru	Peruo
+Ketaupenyu	Biologio
+North Korea	Nord-Koreio
+Cambodia	Kamboĝo
+Ketamhuka	Bestoscienco
+Islam	Islamo
+Ljubljana	Ljubljano
+Rugare	Paco
+Mukadzi	Virino
+Sofia	Sofio
+Husimbe	Maldiligento
+Milan	Milano
+Dhodhi	Fekaĵo
+Mukosho	Anuso
+Ruva	Floro
+Guta	Urbo
+Nyenyedzi	Stelo
+Zuva	Suno
+Dandira reMushana	Sunsistemo
+Bhuku	Libro
+Musi	Tago
+East Timor	Orienta Timoro
+Husiku	Nokto
+Gore	Jaro
+Mwaka wechizana	Jarcento
+Oslo	Oslo
+Lisbon	Lisbono
+Nyeredzi	Planedo
+Mimhanzi	Muziko
+Moscow	Moskvo
+Chad	Ĉado
+Maodzanyemba	Nordo
+New Zealand	Nov-Zelando
+Chamhembe	Sudo
+India	Barato
+Tuvalu	Tuvalo
+Tonga	Tongo
+Madokero	Okcidento
+Samoa	Samoo
+Mabvazuva	Oriento
+Solomon Islands	Salomonoj
+Vanuatu	Vanuatuo
+Papua New Guinea	Papuo-Nov-Gvineo
+Palau	Palaŭo
+Nauru	Nauro
+Federated States of Micronesia	Federacio de Mikronezio
+Marshall Islands	Marŝala Insularo
+Kiribati	Kiribato
+Mongolia	Mongolio
+Fiji	Fiĝioj
+Venezuela	Venezuelo
+Bhiza	Ĉevalo
+Amsterdam	Amsterdamo
+Zvombo	Armilo
+Mhuka	Bestoj
+Suriname	Surinamo
+Paraguay	Paragvajo
+Guyana	Gujano
+Ecuador	Ekvadoro
+Colombia	Kolombio
+Bolivia	Bolivio
+Trinidad and Tobago	Trinidado kaj Tobago
+Madzinde	Plantoj
+Saint Vincent and the Grenadines	Sankta Vincento kaj Grenadinoj
+Zeng'e	Zinko
+Saint Lucia	Sankta Lucio
+Saint Kitts and Nevis	Sankta-Kito kaj Neviso
+Jamaica	Jamajko
+Grenada	Grenado (lando)
+Guatemala	Gvatemalo
+The Bahamas	Bahamoj
+Huku	Koko
+Antigua and Barbuda	Antigvo-Barbudo
+Honduras	Honduro
+Dominica	Dominiko
+Dominican Republic	Domingo
+Nguruve	Porko
+Haiti	Haitio
+El Salvador	Salvadoro
+Iran	Irano
+Iraq	Irako
+Costa Rica	Kostariko
+Israel	Israelo
+Panama	Panamo
+Yemen	Jemeno
+Jordan	Jordanio
+Nicaragua	Nikaragvo
+Florida	Florido
+Kyrgyzstan	Kirgizio
+Kuwait	Kuvajto
+Laos	Laoso
+Lebanon	Libano
+Maldives	Maldivoj
+America (dzose)	Ameriko
+Malaysia	Malajzio
+Burma	Birmo
+Nepal	Nepalo
+Oman	Omano
+Pakistan	Pakistano
+Qatar	Kataro
+Saudi Arabia	Sauda Arabio
+Sri Lanka	Sri-Lanko
+Syria	Sirio
+Tajikistan	Taĝikio
+Taiwan	Respubliko Ĉinio
+Thailand	Tajlando
+Chitima	Trajno
+Turkmenistan	Turkmenio
+United Arab Emirates	Unuiĝintaj Arabaj Emirlandoj
+Vietnam	Vjetnamio
+South Korea	Sud-Koreio
+Afghanistan	Afganio
+Muronga Suez Canal	Sueza Kanalo
+Bangladesh	Bangladeŝo
+Mali	Malio
+Angola	Angolo
+Bhutan	Butano
+Brunei	Brunejo
+Tanzania	Tanzanio
+Philippines	Filipinoj
+Central African Republic	Centr-Afrika Respubliko
+Isaac Newton	Isaac Newton
+Togo	Togolando
+Tunisia	Tunizio
+Zambia (nyika)	Zambio
+Zimbabwe	Zimbabvo
+Beijing	Pekino
+South Sudan	Sud-Sudano
+Benin	Benino
+Botswana	Bocvano
+Burkina Faso	Burkino
+Burundi	Burundo
+Comoros	Komoroj
+Republic of the Congo	Respubliko Kongo
+Democratic Republic of the Congo	Demokratia Respubliko Kongo
+Djibouti	Ĝibutio
+Equatorial Guinea	Ekvatora Gvineo
+Eritrea	Eritreo
+New Delhi	Nov-Delhio
+Tbilisi	Tbiliso
+Mucheche	Bebo
+Gabon	Gabono
+Gambia	Gambio
+Guinea	Gvineo
+Guinea-Bissau	Gvineo Bisaŭa
+Côte d'Ivoire	Ebur-Bordo
+Cameroon	Kameruno
+Cape Verde	Kaboverdo
+Lesotho	Lesoto
+Liberia	Liberio
+Libya	Libio
+Madagascar	Madagaskaro
+Malawi	Malavio
+Mauritania	Maŭritanio
+Mauritius	Maŭricio
+Morocco	Maroko
+Mozambique	Mozambiko
+Namibia	Namibio
+Niger	Niĝero
+Nigeria	Niĝerio
+Uganda	Ugando
+Rwanda	Ruando
+Sao Tome and Principe	Sao-Tomeo kaj Principeo
+Senegal	Senegalo
+Seychelles	Sejŝeloj
+Sierra Leone	Siera-Leono
+Somalia	Somalio
+Julius Caesar	Julio Cezaro
+Sudan	Sudano
+Swaziland	Svazilando
+Mubatanidzwa weNyika Pasirose	Unuiĝintaj Nacioj
+Ketanyika	Geologio
+Taranyika	Geografio
+Moyo	Koro
+Huropi	Cerbo
+Prague	Prago
+Jerusalem	Jerusalemo
+Kosovo	Kosovo
+Chicago	Ĉikago
+Chirimo	Printempo
+Tsazahusiku	Ekvinokso
+Montevideo	Montevideo
+Dhaka	Dako
+Buwe	Araneuloj
+Islamabad	Islamabado
+Muchero	Frukto
+Shoko	Simio
+Mari	Mono
+Zagreb	Zagrebo
+Manila	Manilo
+Buenos Aires	Bonaero
+Mexico City	Meksik-urbo
+Tokyo	Tokio
+La Paz	La-Pazo
+Dziva rokushambira	Banejo
+Abu Dhabi	Abu-Dabio
+Astana	Astano
+Athens	Ateno
+Baghdad	Bagdado
+Caracas	Karakaso
+Guatemala City	Gvatemalurbo
+Havana	Havano
+Fodya	Tabako
+Vienna	Vieno
+Copenhagen	Kopenhago
+Stockholm	Stokholmo
+Helsinki	Helsinko
+Dublin	Dublino
+Reykjavík	Rejkjaviko
+Tallinn	Talino
+Riga	Rigo
+Bratislava	Bratislavo
+Budapest	Budapeŝto
+Vaduz	Vaduzo
+Bhaibheri	Biblio
+City of San Marino	San-Marino (urbo)
+Phnom Penh	Pnom-Peno
+Guta reHo Chi Minh	Ho-Ĉi-Min-urbo
+Hanoi	Hanojo
+True Jesus Church	Vera Eklezio de Jesuo
+Chirungu	Angla lingvo
+Bangkok	Bankoko
+Andorra la Vella	Andoro Malnova
+Kuala Lumpur	Kuala-Lumpuro
+Taipei	Tajpeo
+Dong Hoi	Dong Hoi
+Kyiv	Kievo
+Ottawa	Otavo
+Juba	Ĵubo
+Yerevan	Erevano
+Dar es Salaam	Daresalamo
+Khartoum	Ĥartumo
+Kudya	Manĝaĵo
+Nyoka	Serpento
+Nhanzvi	Buŝa seksumado
+Minsk	Minsko
+Chemishonga	Kemio
+Mogadishu	Mogadiŝo
+Nassau	Nasaŭo (Bahamoj)
+Sana'a	Sanao
+Nhabvu	Futbalo
+Rutsvamhumburu	Holokaŭsto
+Madrid	Madrido
+Bogotá	Bogoto
+Brasília	Braziljo
+Lima	Limo
+Santiago	Santiago de Ĉilio
+Quito	Kito
+Asunción	Asunciono
+Mbudzi	Hejma kapro
+Paramaribo	Paramaribo
+Mukomana	Knabo
+Musikana	Knabino
+Kathmandu	Katmanduo
+Belmopan	Belmopano
+San José	San-Joseo (Kostariko)
+San Salvador	San-Salvadoro
+Canberra	Kanbero
+Moto	Fajro
+Tegucigalpa	Tegucigalpo
+Managua	Managvo
+Panama City	Panamurbo
+Rwizi Nile	Nilo
+Rabat	Rabato
+Algiers	Alĝero
+Tunis	Tunizo
+Tripoli	Tripolo
+Djibouti (city)	Ĝibuto
+Tehran	Teherano
+Addis Ababa	Adis-Abebo
+Jakarta	Ĝakarto
+Ankara	Ankaro
+Asmara	Asmaro
+N'Djamena	Nĵameno
+Nouakchott	Nuakŝoto
+Riyadh	Riado
+Bamako	Bamako
+Belgrade	Beogrado
+Dakar	Dakaro
+Banjul	Banĵulo
+Conakry	Konakrio
+Bissau	Bisaŭo
+Monrovia	Monrovio
+Praia	Prajo
+Accra	Akrao
+Damascus	Damasko
+Yamoussoukro	Jamusukro
+French Guiana	Franca Gviano
+Ouagadougou	Uagaduguo
+Freetown	Fritaŭno
+Abuja	Abuĝo
+Lomé	Lomeo
+Porto-Novo	Porto-Novo
+Amman	Amano
+Yaoundé	Jaundeo
+Malabo	Malabo
+Beirut	Bejruto
+Libreville	Librevilo
+Muscat	Maskato
+Bangui	Bango
+Kinshasa	Kinŝaso
+Brazzaville	Brazavilo
+Bujumbura	Buĵumburo
+Nicosia	Nikozio
+Kigali	Kigalo
+Doha	Doho
+Dodoma	Dodomao
+Nairobi	Najrobo
+Lilongwe	Lilongvo
+Lusaka	Lusako
+Manama	Manamo
+Kudzikatidzwa kwezuva	Suna eklipso
+Maputo	Maputo
+Kampala	Kampalo
+Luanda	Luando
+Moroni	Moronio
+Mbabane	Mbabano
+Maseru	Maseruo
+Muravanembiri	Duuma sistemo
+Chikoro	Lernejo
+Antananarivo	Antananarivo
+Gaborone	Gaberono
+Harare	Harareo
+Pretoria	Pretorio
+Port Louis	Port-Luiso
+São Tomé	Sao-Tomeo
+Windhoek	Vindhuko
+Victoria (Seychelles)	Viktorio (Sejŝeloj)
+Imba	Domo
+Rwizi	Rivero
+Boterekwa	Orbito
+Dong Hoi Airport	Flughaveno Dong Hoi
+Mukaha weChadenga	Ekstertero
+Chiringakure	Teleskopo
+Curitiba	Kuritibo
+Sango	Arbaro
+Category:Masvomhu	Kategorio:Matematiko
+Mbiru	Kolono
+Gungwa Mediterranean	Mediteraneo
+Chitendero chechiKristu	Kristanismo
+Mupunga	Rizo
+Ziwumbe	Kontinento
+Shiri	Birdoj
+Mwedzi (Mwaka)	Monato
+Peji Rekutanga	Vikipedio:Ĉefpaĝo
+Cape Town	Kaburbo
+Durban	Durbano
+Bhazi	Aŭtobuso
+Kabul	Kabulo
+Gumbeze	Litkovrilo
+Kusvira	Amoro
+Mbutu	Vagino
+Category:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+Shambira	Naĝado
+Category:Zvechadenga	Kategorio:Astronomio
+Mbayo	Materialismo
+Matongerwo eNyika	Politiko
+Baradzira	Propagando
+Kilimanjaro	Kilimanĝaro
+Kutsvoda	Kiso
+Rudzi rwaIsrael	Judoj
+Nzeve	Orelo
+Mhuno	Nazo (organo)
+Ziso	Okulo
+Humhutu	Moskito
+Hwayi	Ŝafo
+Nghamera	Kamelo
+Dzinoyamwisa	Mamuloj
+Nzou	Elefanto
+Nyuchi	Abelo
+Amai (vakakubereka)	Patrino
+Sinowo	Neĝo
+Baba	Patro
+Vabereki	Generinto
+Vana	Infano
+Ngongoni	Gnuo
+Chingwa	Pano
+Sangano reHutano Pasirose	Monda Organizaĵo pri Sano
+Chimbuzi	Necesejo
+Sera (rezvinorarama)	Ĉelo (biologio)
+Ropa	Sango
+Mapapu	Pulmo
+Casablanca	Kazablanko
+Kundengenyeka kwenyika	Tertremo
+Muchegwa	Mineralo
+Chokwadi	Vero
+Mashandiro eZvinhu Zvisingararami	Naturscienco
+Dombo	Rokaĵo
+Chikwatamabwe	Vulkano
+Pimagonyonhatu	Trigonometrio
+Pimanyika	Geometrio
+Mhepo	Vento
+Gute romweya	Atmosfero (astro)
+Muchenga Pfuma	Ekonomiko
+Hushangazhi	Industrio
+Misambo paBonde	Listo de seksaj pozicioj
+Bonyora	Sinmasturbado
+Chita	Socio
+Mhuri	Familio
+Murume	Viro
+Rusaruraganda	Rasismo
+Muranda	Sklaveco
+Mukaka	Lakto
+Gomo	Monto
+Gwenga	Dezerto
+Lagos	Lagoso
+Seoul	Seulo
+Ruzivo	Scio
+Zamu	Mamo
+Chiedza	Lumo
+Chinamato	Religio
+Genesisi	Genezo
+Eksodo	Eliro
+Baku	Bakuo
+Thimphu	Timbuo
+Bandar Seri Begawan	Bandar-Seri-Begavano
+Dili	Dilo
+Vientiane	Vjentiano
+Malé	Maleo (Maldivoj)
+Bishkek	Biŝkeko
+Dushanbe	Duŝanbeo
+Chitaka	Hepato
+Itsvo	Reno
+Jende	Testiko
+Tsuro	Kuniklo
+Gungwa	Oceano
+Tsindi	Sciuredoj
+Kufema	Spirado
+Muzongoza	Mjelo
+Chibereko	Utero
+Rurimi	Lango (anatomio)
+Dzira (nhengo)	Nervo
+Makandiro	Ovario
+Mutsipa	Kolo
+Matumbu	Intesto
+Chipfuva	Brusto
+Tsatsadzi	Glando
+Muronga wechikafu	Digesta sistemo
+Huronyo	Ejakulaĵo
+Nouméa	Numeo
+Ronald Reagan	Ronald Reagan
+Cardiff	Cardiff
+Robert Gabriel Mugabe	Robert Mugabe
+Georgetown	Ĝorĝtaŭno (Gujano)
+Bununu	Nudeco
+Dzinokambaira	Reptilioj
+Muti	Arbo
+Dzehugaro huviri	Amfibioj
+Huchi	Mielo
+Nyama	Viando
+Mbatatisi	Terpomo
+Shuga	Sukero
+Muriwo	Legomo
+Pepanhau	Gazeto
+Runhare	Telefono
+Tsika	Kulturo
+Sarajevo	Sarajevo
+Mhetapawa	Logaritmo
+Huwandu	Aritmetiko
+Zviringani	Koordinatsistemo
+Munyu	Salo
+Enzane	Ekvacio
+Munangatire	Funkcio (matematiko)
+Gonyo	Angulo
+Chidenhi	Hormono
+Rufangu	Akcelo
+Simba	Energio
+Manikidzo	Forto
+Ngoma	Tamburo
+Chinyenze	Fluto
+Gunganidzo	Gravito
+Huremu	Maso
+Simbi	Metalo (fiziko)
+Misandu yeSebhe	Materistato
+Gasi	Gaso
+Mutuvi	Likvo
+Godo	Solido
+Kurima	Agrikulturo
+Donje	Kotono
+Zvipfeko	Vesto
+Kurima neMombe	Plugilo
+Muchacha	Vektora rapido
+Hujoto	Temperaturo
+Kukorora Simbi	Metalurgio
+Nguva	Tempo
+Nharaunda	Areo
+Dudzirazivo raPythagoras	Teoremo de Pitagoro
+Nhamba	Nombro
+Chibage	Maizo
+Kudzana	Danco
+Rufuvha (magetsi)	Elektra kurento
+Hwiriro	Frekvenco
+Sikarudzi	Reproduktado
+Nhumbu	Gravedeco
+Gorosi	Tritiko
+Mapfunde	Sorgo
+Hutano	Sano
+Kufuta	Trodikiĝo
+Zambuko	Ponto
+Dhamu	Akvobaraĵo
+Kupimirana	Simetrio
+Nhamba mhumburu	Entjero
+Mburungwa	Sfero
+Danhiko	Ŝtuparo
+Munondo	Glavo
+Zvombo zveShomwe	Atombombo
+Majuro	Majuro
+Dehenya	Kranio
+Ranjisi	Oranĝo (frukto)
+Ruomba	Kremo
+Bhodhi	Mamzono
+Penzura	Krajono
+Tafura	Tablo
+Template:Location map Zimbabwe	Ŝablono:Situo sur mapo Zimbabvo
+Twiza	Ĝirafo (specio)
+Muromo	Lipo
+Tsoka	Piedo
+Dzvinyu	Lacertuloj
+Pahuro	Gorĝo (anatomio)
+Template:Link FA	Ŝablono:LigoElstara
+Pasirose	Mondo
+Wikipedia:Community Portal	Vikipedio:Diskutejo
+Guam	Gvamo
+American Samoa	Usona Samoo
+Northern Mariana Islands	Nord-Marianoj
+Chipatara	Malsanulejo
+Kereke	Kirko
+Zai	Ovo
+Denderedzwa	Cirklo
+Mutsendo	Ebeno (matematiko)
+Chizinganhare	Poŝtelefono
+Mhou (shiri)	Struto
+Dudzirazivo	Teorio
+Pyongyang	Pjongjango
+Pfumbamwe	9 (nombro)
+Tirana	Tirano
+Mbongoro	Azeno
+Gonyonhatu	Triangulo
+Cecil John Rhodes	Cecil Rhodes
+Chișinău	Kiŝinevo
+Gumbapamwe reZviringani ZveTaranyika	Geografia koordinata sistemo
+Njanji	Fervojo
+Shangu	Ŝuo
+Nomwe	7 (nombro)
+Sere	8 (nombro)
+Vhiki	Semajno
+Nyanza	Lago
+Ulaanbaatar	Ulaanbaataro
+Edinburgh	Edinburgo
+Ashgabat	Aŝgabato
+Chitsuwa	Insulo
+Tanhatu	6 (nombro)
+Madomasi	Tomato
+Muenzanisi	Ekvatoro
+Podgorica	Podgorico
+Duramahwi	Vortaro
+Musoro	Kapo
+Wellington	Velingtono
+Valletta	La-Valeto
+Gumi	10 (nombro)
+Dindingwe	Gepardo
+Mwaka yepaNyika	Sezono
+Zizi	Strigoformaj birdoj
+Nguva dzezuva	Horo
+Dzemuzongoza	Vertebruloj
+Nowy Dwór Królewski	Nowy Dwór Królewski
+Pristina	Priŝtino
+Nyundo	Martelo
+Pichilemu	Piĉilemo
+Bete	Blato
+Pawa	Povumo
+Shuramurove	Blanka cikonio
+Mukweso	Elektra rezistanco
+Haka	Maniso
+Mukwava	Vertico (geometrio)
+Cook Islands	Kukinsuloj
+Chipo (huwandu)	Proksimuma kalkulado
+Vhudzi	Haro
+Pimamuganhu	Perimetro
+Jira	Tekstila
+Huduma	Denso
+Mbiti	Lutra lutra
+Mafuro	Paŝtejo
+Twana	Karakalo (besto)
+Alofi	Alofo
+Jamestown	Ĵamestaŭno
+French Polynesia	Franca Polinezio
+Hagåtña	Agano
+Mata-Utu	Matauto
+Yaren	Jareno
+Wedzaniso	Adicio
+Tsiva	Boksado
+Banga	Tranĉilo
+Mbizi	Zebro
+ChiBantu	Bantua lingvaro
+Muradanuro	Potenco (matematiko)
+Mheni	Fulmo
+New Caledonia	Nov-Kaledonio
+Hugari hwevanhu	Loĝantaro
+Shizha	Folio
+ChiShona	Ŝona lingvo
+Niue	Niuo
+Rumbariro	Latitudo
+Mapopoma	Akvofalo
+Funafuti	Funafutio
+Humburumbira	Cilindro
+Port-au-Prince	Portoprinco
+Chitendero	Kredo
+Sipo	Sapo
+Mugwagwa	Vojo
+Mvuu	Amfibia hipopotamo
+Munwe	Fingro
+Mirairo gumi yaMwari	La Dekalogo
+Johannesburg	Johanesburgo
+Jecha	Sablo
+Kingston	Kingstono
+Mbada	Leopardo
+Chipembere	Rinoceredoj
+Santo Domingo	Sankta Domingo
+Kuwait City	Kuvajturbo
+Arab	Araboj
+Colombo	Kolombo (urbo)
+Bako	Kaverno
+Wallis and Futuna	Valiso kaj Futuno
+Mhakatwa	Materio
+Huni	Brulligno
+Kukotsira	Dormo
+Kubhabhatidza	Bapto
+Igwa	Boato
+Mushenjere	Bambuo
+Ivhu (Dhaga)	Grundo
+Bridgetown	Briĝurbo
+Hurefu	Longo
+Apia	Apio
+Saint John's	Sankta Johano (Antigvo-Barbudo)
+Roseau	Roseo
+Chiroto	Sonĝo
+Hunhungo	Longitudo
+Port Moresby	Port-Moresbo
+Kupirimuka kwemishonga	Kemia reakcio
+Chipfambi	Prostituo
+Gonhi	Pordo
+Gonyoina	Kvarlatero
+Tokelau	Tokelao
+Gumi nembiri	12 (nombro)
+Chiso	Vizaĝo
+Shambadza	Reklamo
+Mutsetse	Rekto
+Gumi neimwe	11 (nombro)
+Gumi nenhatu	13 (nombro)
+Masaisai	Ondo
+Gurapakati	Diametro
+Mudzidzisi	Instruisto
+Mweya Mutsvene	Sankta Spirito
+Nzungu	Ternukso
+Naypyidaw	Nepjido
+Zana	100 (nombro)
+Mabvi	Genuo
+Bvungapfunga	Nebulo
+Gonyozhinji	Plurlatero
+Chivhuramabwe	Hajlo
+Musika (Kunotengeswa)	Merkato
+Rwavhi	Ĥameleono
+Bloemfontein	Bloemfontein
+Mawuto ehondo	Armeo
+Port Vila	Portvilao
+Firiji	Fridujo
+Mbambaira	Batato
+Mitemo yeruhambo yaNewton	Leĝoj de Newton pri movo
+Gumi neina	14 (nombro)
+Nwiwa	Akvomelono
+Gumi neshanu	15 (nombro)
+Gumi nesere	18 (nombro)
+Suva	Suvo
+Nukuʻalofa	Nukualofo
+Port of Spain	Portospeno
+Mbeva	Muso (besto)
+Mumhu	Volumeno
+Puresha	Premo
+Chiremba	Kuracisto
+Mupata	Valo
+Kuverengwa kweVanhu	Popolnombrado
+Gumi nepfumbamwe	19 (nombro)
+Mudhebhe	Pantalono
+Mwaka wechikumi	Jardekoj
+Zvidhinha	Briko
+Denderende	Elipso (matematiko)
+Gumi nenomwe	17 (nombro)
+Gumi nenhanhatu	16 (nombro)
+Kuunga huwandu	Multipliko
+Makumi maviri	20 (nombro)
+Gweta	Advokato
+Kubvisa	Subtraho
+Mbeu	Semo (planto)
+Gakanje	Krabo
+Honiara	Honiaro
+Mutundo	Urino
+Huma	Frunto
+Mapisarema	Psalmo
+Dova	Roso
+Gonyoina tsazamativi	Rombo
+Mburungwagama rekuchamhembe	Suda duonglobo
+Runhanhira	Movokvanto
+Basseterre	Bastero
+Kingstown	Kingstaŭno
+St. George's, Grenada	Sankta Georgo (Grenado)
+Castries	Kastrizo
+Rudzi	Etno
+Chisumamunyati	Hipotezo
+Zvakazarurwa	Apokalipso de Johano
+Bere	Hienedoj
+Magaro	Pugo
+Mubhedha	Lito
+Basa	Laboro (fiziko)
+Gwenzi	Arbedo
+Munyakwe	Argilo
+Makumi mana	40 (nombro)
+Charaka	Konuso
+Mutsimba	Lukto
+Nzunza	Servalo
+Palikir	Palikiro
+Ndebvu	Barbo
+Makumi matatu	30 (nombro)
+Muchovha	Vehiklo
+Muduso	Financoj
+Shangwa	Trosekeco
+Rwizi Zambezi	Zambezi
+Tsivatsaona	Asekuro
+Gonyeti	Kamiono
+Victoria Falls	Viktoria Akvofalo
+Gunguwo	Korvo
+Nzvari	Ina sekso
+Ruwoko	Brako
+Tsime	Puto
+Cotonou	Kotonuo
+Sokisi	Ŝtrumpeto
+Ngarikuni	Meleagro
+Guvhu	Umbiliko
+Hono	Vira sekso
+Injini	Motoro
+Kudzikatidzwa kwemwedzi	Luna eklipso
+Cayenne	Kajeno
+Madziya	Varmo
+Pfumo	Lanco
+Chigayo	Muelejo
+Mugodhi	Minado
+Poyindi	Punkto (matematiko)
+Gonyoina sambamba	Paralelogramo
+Museve	Sago
+Annaba	Annaba
+Hweru	Orikteropo
+Dandare remagetsi	Elektra kampo
+Simba reNhekairo	Kineta energio
+Gonyoina sambambiri	Trapezo
+Uta	Arko (armilo)
+Kamba	Teraj testudoj
+Mandundu	Montara sistemo
+Chindori	Fingroringo
+Saint-Denis	Saint-Denis (Reunio)
+Mugomo	Sitelo
+Chiyero chekupimisa	Mezurunuo
+Bhoni	Ampolo
+Chitupa	Identiga karto
+Template:Commons category	Ŝablono:Commonscat
+Chitunha	Kadavro
+Kennedy Space Center	Kennedy Space Center
+Penti	Kalsono
+Kuramwa Basa	Striko
+Muchato	Nupto
+Gwaro	Dokumento
+Pago Pago	Pagopago
+Saipan	Saipano
+Chirwere cheEbola	Ebola malsano
+Datya	Anuro
+Sambamba	Paralelo
+Musenerera	Osmozo
+Choya	Pubvilaro
+Ndiro (yokudyira)	Telero
+Morgan Tsvangirai	Morgan Tsvangirai
+Nhare	Fortikaĵo
+Dandira (zvakarongeka)	Sistemo
+Swakopmund	Swakopmund
+Chivi (kutadza)	Peko
+Marudzi aShem	Semidoj
+Chanduru	Gala veziko
+Kugetsenura	Elektrolizo
+Dimbu	Frakcio (matematiko)
+Rutsaudzo rwechiedza	Refrakto
+Doworume	Spermatozoo
+Duvurwi	Altebenaĵo
+Misodzi	Larmo
+Mushonga	Kemiaĵo
+Makumi matanhatu	60 (nombro)
+Bhodhoro	Botelo
+Jerenyenje	Mungotedoj
+Derere	Gombo
+Fes	Fez
+Nhevedzwa dzeMvura	Akvocirkulado
+Mupurwa	Varano
+Muravanegumi	Dekuma sistemo
+Kurwadziwa	Doloro
+Nyanga	Korno (anatomio)
+Mhesvi	Katalizilo
+Rudzindi	Frotado
+Dunhu	Regiono (geografio)
+Zita	Nomo
+Gonyonhanhatu	Seslatero
+Denga (Remba)	Tegmento
+Chidembo	Mefito
+Dzingiswa	Cirkumcido
+Huchenjeri	Intelekto
+Honha	Ingoto
+Mazita eMhuri	Familia nomo
+Dare	Sonorilo
+Lobamba	Lobambo
+Marrakesh	Marakeŝo
+Chitofu (mugodhi)	Erco
+Kayiti	Kajto (geometrio)
+Dendera	Rotacio
+Marin County	Kantono Marin
+Kuperekera magetsi	Elektra rezistivo
+Bumha	Birdaro
+Chinepfu (ruhambo)	Inercio
+Tsika yekurava nhamba	Cifereca sistemo
+Gora	Vulturo
+Zuvaragodza	Solstico
+Mhanda (Kurwa)	Violento
+Chisipiti	Akvofonto
+Chindunduma	Ribelo
+Port Elizabeth	Port Elizabeth
+Nhambwe	Distanco
+Tangier	Tanĝero
+Kurutsa	Vomado
+Gavakava	Aloo
+Bhomba	Bombo
+Makunakuna	Incesto
+Tsanga (ziso)	Katarakto
+Mafuta	Graso
+Zvidya	Femuro
+Papeetē	Papeeto
+Jekanyika	Geodezio
+Badza	Rastro
+South Tarawa	Bairikio
+Chidzayo	Kojno
+2 Johane	2-a epistolo de Johano
+Muprofita Isaya	Libro de Jesaja
+3 Johane	3-a epistolo de Johano
+Judi	Epistolo de Judaso
+Nhoo	Ŝildo
+Muprofita Jeremia	Libro de Jeremia
+Menduru	Medalo
+Sandhuru	Sandalo
+Kuverereka	Sublimado
+Oran	Orano
+Zano	Ideo
+Mhara	Impalo
+Mamoudzou	Mamudzo
+Sasauka	Vaporado
+Mhondi	Murdo
+Africa Zasi kweSahara	Afriko sude de Saharo
+Haro	Montpasejo
+Gumbo	Kruro
+Bvurunuro	Difrakto
+Bhande (chipfeko)	Zono (vestaĵo)
+Chikero	Pesilo (mezurilo)
+Pombi	Pumpilo
+Kun'ura	Korodo
+Nhoro	Granda kuduo
+Tsono (kusona)	Kudrilo
+Gwaya	Bramo (fiŝo)
+Munyungu	Solvaĵo
+Kisangani	Kisangani
+Dovi	Arakida butero
+Rumanda	Barilo
+Mufundisi	Pastoro
+Chisuvi chemvura	Akvodislimo
+Dota	Cindro
+Kamba dzenhapwa	Koncentrejo
+Simba reChakunga	Potenciala energio
+Gonyonhatu tsazakose	Egallatera triangulo
+Zenda	Fianĉiĝo
+Garoua	Garoua
+Ramallah	Ramalaho
+Gonyonhatu yakarurama	Orta triangulo
+Nhokwe	Papiruscipero
+Gonje	Sisalo
+Chiwundudzi	Ŝimo
+Gudo	Paviano
+Mapatya	Ĝemelo
+Mureza weZimbabwe	Flago de Zimbabvo
+Mumvuri	Ombro
+Nyati	Afrika bubalo
+Mhene	Ebenaĵo
+Ruchichinuko	Konvekto
+Keetmanshoop	Keetmanshoop
+Muchacha pima negonya	Angula rapido
+Munyonga	Kurbo
+Ketamabwe	Petrologio
+Mukoko	Abelujo
+Mhiripiri	Kapsiketo
+Tsanga	Kano
+Francistown	Francistown
+Kubundira	Kondensado
+Remba	Lembaoj
+Mhete	Orelringo
+Caselle Landi	Caselle Landi
+Hargeisa	Hargejso
+Hwata	Sekretaribirdo
+Nelspruit	Mbombela
+Matoro	Malsekejo
+Avarua	Avaruo
+Agadir	Agadir
+Zvombo zvinechefu	Biologia armilo
+Nhovo	Matraco
+Sunflower	Sunfloro
+Bwato	Kanuo
+Tsaona	Akcidento
+Hanga	Numidedoj
+Rukuvhute	Umbilika ŝnuro
+Fosi yeRutondapakati	Centripeta forto
+Nhoozhinji	Pluredro
+Hunzwi	Senso
+Bantu	Bantuoj
+Guva	Tombo
+Mhumhi	Makul-likaono
+Taramunyongo	Radiuso
+Bara	Kuglo
+Chitsitsinho	Kalkano
+Mukondo	Aŭtoritato
+Ruwa	Ruro
+Kuswedera	Konverĝo
+Toamasina	Toamasina
+Rutsuwa rwemagetsi	Izolilo
+Rukwarapakati	Centrifuga forto
+Ruzha	Bruo
+Shaya	Makzelo
+Zhumwi	Prismo
+Nhanzva	Sledo
+Mutemo waPareto	Principo de Pareto
+Maungira	Eĥo
+Kano	Kano (urbo)
+Njiri	Verukapro
+Ibadan	Ibadano
+Shato	Pitonedoj
+Rhekeni	Katapulto (armilo)
+Gwati (muti)	Arboŝelo
+Nyamukuta	Akuŝistino
+Chirambo (misandu)	Faztransiro
+Pietermaritzburg	Pietermaritzburg
+Donhwe	Guto
+Bota	Kaĉo (manĝaĵo)
+Constantine, Algeria	Konstantino (Alĝerio)
+Lumumbashi	Lubumbashi
+Idi	Fakto
+Choto	Kameno
+Munda	Kampo (agrikulturo)
+Manyene	Nigradorsa ŝakalo
+Chikwereti	Prunto
+Abomey	Abomejo
+Guramakonyo	Diagonalo
+Harar	Harar
+Bhutsu	Boto
+Mbonga	Ordena fratino
+Mhute	Brumo
+Madamvura	Hidrofila
+Basa (remari)	Verko
+Cherechedza	Observado
+Gambamutengo	Subvencio
+Bulawayo	Bulawayo
+Mweya (wemunhu)	Spirito
+Dire Dawa	Dire-Daŭo
+Mbabvu	Ripo
+Kuvaviwa	Jukado
+Chikupo	Svingoĵetilo
+Rokwe	Robo
+Rufu	Funebro
+Ziguinchor	Ziginĉor
+Avhareji	Centra dispozicio
+Bandiko	Cirkla sektoro
+Chitofu (Kubika)	Stovo
+Goma	Goma
+Pito	Fajfilo
+Mutwi	Perpendikularo
+Kananga	Kananga
+Dendera pa Mineti	Rivolua nombro
+Vanga	Cikatro
+Ruremekedzo	Honoro
+Huswa	Herbotapiŝo
+Shepi	Formo (filozofio)
+Masvingo eZimbabwe	Granda Zimbabvo
+Njiva	Columba (genro)
+East London	Orient-Londono
+Mbandaka	Mbandaka
+Matadi	Matadi
+Hudyu	Ingveno
+Dzinza	Klano
+Kupambadzirwa	Duktileco
+Zera (chizvarwa)	Generacio
+Kukohwa (kuunganidza)	Rikolto
+Mhofu	Elando
+Port Harcourt	Port Harcourt
+Hungwe	Afrika maraglo
+Mahajanga	Mahajanga (urbo)
+Gondar	Gondero
+Chikare (bonde)	Misiista pozicio
+Matyamvura	Hidrofoba
+Walvis Bay	Walvis Bay
+Chapfunga	Helika febro
+Bukavu	Bukavu
+Boma	Boma
+Musunamiswa	Inverso (matematiko)
+Mombasa	Mombasa
+Chinangwa	AIM (apartigilo)
+Chipakati	Mediano (statistiko)
+Kushumira	Kopulacio
+Runda	Tendeno
+Hupombwe	Adulto
+Boka (masvomhu)	SET
+Varungu	Blankulo
+Makumi mapfumbamwe	90 (nombro)
+Muzera	ROW
+Mhakure	Egiptia kobro
+Chiware	Tavolo
+Mupfunga	Vaporo
+Rukweza	Milio
+Mutupo	Totemo
+Kindu	Kindu
+Saint-Louis, Senegal	Saint-Louis (Senegalo)
+Chiremera	Digno
+Makumi mashanu nena	54 (nombro)
+Mukunda	Filino
+Hozhwa	Heliko
+Kuronga	Plano
+Madora	Gonimbrasia belina
+Mukwende	Ŝarĝo
+Mbuji-Mayi	Mbuji-Mayi
+Benin City	Beninurbo
+Kugunzva	Tuŝa sistemo
+Mek'ele	Mekele
+Muchovha Mota	Veturilo
+Makumi masere nesere	88 (nombro)
+Chibvumirano	Konsento
+Rondo	Rondo
+Adama	Adamo (urbo)
+Kugera	Razado
+George, Western Cape	George (Sud-Afriko)
+Kunyenga	Pariĝada memmontrado
+Chibeto	Kribrilo
+Mukombe	Trofeo
+Jimma	Ĝima
+Murayiro	Komando
+Chitungwiza	Chitungwiza
+Gweru	Gweru
+Mutare	Mutare
+Makumi mapfumbamwe nepfumbamwe	99 (nombro)
+Bhuku raMormoni	Libro de Mormon
+Bahir Dar	Bahir Dar
+Chenza (kutodza)	Bildo
+Chiso (Chiumbwa)	Surfaco
+Chipika	Kolumo
+Maguta emuZimbabwe	Listo de urboj de Zimbabvo
+Chinyamudzura	Militaglo
+Ngerulmud	Ngerulmudo
+Butembo	Butembo
+Fianarantsoa	Fianarantsoa
+Bamenda	Bamenda
+Keren, Eritrea	Kereno
+Mongo	Osta medolo
+Ishwa	Termito
+Waya	Drato
+Antsirabe	Antsirabe
+Sisi	Fratino
+Thiès	Tieso
+Chingaira	Valberga aglo
+Queenstown, Eastern Cape	Queenstown (Sud-Afriko)
+Chengu	Stepa alcelafo
+Dhumukwa	Akvantilopo
+Tsumeb	Cumebo
+Bunia	Bunia
+Mushandi	Dungito
+Touba, Senegal	Tuba
+Makumi mashanu neshanu	55 (nombro)
+Parakou	Parakou
+Nyamuragira	Nyamuragira
+Makumi masere	80 (nombro)
+Makumi maviri nembiri	22 (nombro)
+Makumi manomwe	70 (nombro)
+Makumi mashanu	50 (nombro)
+Makumi matatu nenhatu	33 (nombro)
+Makumi mana nena	44 (nombro)
+Makumi matanhatu nenhanhatu	66 (nombro)
+Makumi manomwe nenomwe	77 (nombro)
+Mazana maviri	200 (nombro)
+Madirano eNzizi	Kunfluejo
+Bandundu (city)	Bandundu
+Mutowo	Metodo
+Randfontein	Randfontein
+Ngaoundéré	Ngaoundéré
+Nhova	Fontanelo
+Dessie	Dese
+Jijiga	Ĝiĝiga
+Awasa	Aŭasa
+Rondo (hurongwa)	Tronosukcedo
+Kusiya basa	Rezignacio
+Bangassou	Bangassou
+Beni	Beni
+Toliara	Toliara (urbo)
+Chishanu (mhoresa)	Manpremo
+Musasa	Kampadejo
+Hupfu	Maizfaruno
+Calabar	Kalabaro
+Zvinyanye	Maksimumo kaj minimumo
+Mucheko	Sekco
+Kaolack	Kaolack
+Ouidah	Ouidah
+Gongo	Klitoro
+Boka	Socia grupo
+Mujawo	Vetkuro
+Chivhuni	Rompiĝemo
+Maunga huwandu	Produto
+Mwando	Brizo
+Uvira	Uvira
+Duwo	Naso
+Mukuwasha	Boparenco
+Tiburon	Tiburon
+Chubhu dzinotakura ropa	Sanga vaskulo
+Klerksdorp	Klerksdorp
+Rufisque	Rufisko
+M'Bour	Mbur
+Worcester, Western Cape	Worcester (Sud-Afriko)
+Newcastle, KwaZulu-Natal	Newcastle (Sud-Afriko)
+Dumbu	Stomako
+Tonderai	Individua nomo
+Chimiro chemuviri	Korpoformo
+Bindu	Ĝardeno
+Coloureds	Koloraj sudafrikanoj
+Mhiko	Voto
+Zhumwi regonyonhatu	Triangula prismo
+Ketamukadzi	Ginekologio
+Govaniso	Divido
+Chidavado	Dekoracio
+Nhamba svinu	Racionala nombro
+Rwodzi	Bastrubandoj
+Dowokadzi	Ovolo (bestoscienco)
+Manho	Kapablo
+Bvinina	Perkolilo
+Makonyo Mhirikano	Suplementaj anguloj
+Miko	Promeso
+Madzudzo	Zorgo (emocio)
+Mhemberero	Festaj kaj feriaj tagoj
+Category:Vietnam	Kategorio:Vjetnamio
+Category:Madzinde	Kategorio:Plantoj
+Category:Fundoyetsimba	Kategorio:Fiziko
+Category:Chezvipenyu	Kategorio:Biologio
+Category:Chemishonga	Kategorio:Kemio
+Category:Taranyika	Kategorio:Geografio
+Category:Chinamato	Kategorio:Religio
+Richards Bay	Richards Bay
+Mheu	Partiklo
+Katahwi	Himeno
+Middelburg, Mpumalanga	Middelburg (Mpumalanga)
+Chanza	Polmo
+Gondo	Aglo
+Jongwe	Virkoko
+Nyamafingu	Kobro
+Chamhembe kwakadziva kuMadokero	Sudokcidento
+Chisuvi	Apekso (geometrio)
+Category:Tsika	Kategorio:Kulturo
+Category:Ziwumbe	Kategorio:Kontinentoj
+Zviperengo zvehuwandu	Aroj de nombroj
+Tsapfu	Suro (muskolo)
+Hukukutu	Dureco
+Ganda	Raso
+Dumba	Piramido (geometrio)
+Rheshiyo	Rilatumo
+Dzihwa	Muko
+Category:Wikipedia bots	Kategorio:Vikipedio:Robotoj
+Hutapiri	Koncentriteco
+Chipangidzo	Signo (semiotiko)
+Spidhi	Rapido
+Dhadha	Anaso
+Akiso	Reflekta simetrio
+Template:Tl	Ŝablono:Ŝ
+Category:Muviri	Kategorio:Anatomio
+Category:Hurapi	Kategorio:Medicino
+Category:Dzidzo	Kategorio:Edukado
+Egypt	Egiptujo
+Template:Bot	Ŝablono:Bot
+Canada	Kanado
+Nzenda	Dimensio
+Category:Europe	Kategorio:Eŭropo
+Template:Documentation	Ŝablono:Dok
+Category:User languages	Kategorio:Vikipediistoj laŭ lingvo
+Sung Jae-ki	Sung Jae-gi
+Template:Softredirect	Ŝablono:Intervikia plusendilo
+Template:Delete	Ŝablono:Forigu tuj
+Category:Wikipedia	Kategorio:Vikipedio
+Wikipedia:General disclaimer	Vikipedio:Malgarantio
+Wikipedia:Statistics	Vikipedio:Statistiko
+Template:Navbox	Ŝablono:Navigilo2
+Template:!	Ŝablono:!
+Template:!-	Ŝablono:!-
+Template:Nowrap	Ŝablono:Nrsp
+Template:Bots	Ŝablono:Bots
+Category:Africa	Kategorio:Afriko
+Category:Zviperengo Zvehuwandu	Kategorio:Nombroj
+Category:Bhaibheri	Kategorio:Biblio
+Template:Babel	Ŝablono:Babelejo
+Maodzanyemba kwakadziva kuMadokero	Nordokcidento
+Template:User af-1	Ŝablono:Vikipediisto af-1
+Template:User ar-1	Ŝablono:Vikipediisto ar-1
+Template:User ast-1	Ŝablono:Vikipediisto ast-1
+Template:User bar-1	Ŝablono:Vikipediisto bar-1
+Template:User eo-1	Ŝablono:Vikipediisto eo-1
+Template:User da-2	Ŝablono:Vikipediisto da-2
+Template:User da	Ŝablono:Vikipediisto da
+Template:User ca-1	Ŝablono:Vikipediisto ca-1
+Template:User ca-4	Ŝablono:Vikipediisto ca-4
+Template:User be-2	Ŝablono:Vikipediisto be-2
+Template:User da-1	Ŝablono:Vikipediisto da-1
+Template:User cs-1	Ŝablono:Vikipediisto cs-1
+Template:User bg-1	Ŝablono:Vikipediisto bg-1
+Template:User eo-3	Ŝablono:Vikipediisto eo-3
+Template:User de	Ŝablono:Vikipediisto de
+Template:User de-1	Ŝablono:Vikipediisto de-1
+Template:User el	Ŝablono:Vikipediisto el
+Template:User es	Ŝablono:Vikipediisto es
+Template:User de-3	Ŝablono:Vikipediisto de-3
+Template:User en-3	Ŝablono:Vikipediisto en-3
+Template:User el-1	Ŝablono:Vikipediisto el-1
+Template:User en-1	Ŝablono:Vikipediisto en-1
+Template:User en-2	Ŝablono:Vikipediisto en-2
+Template:User eo-2	Ŝablono:Vikipediisto eo-2
+Template:User en-4	Ŝablono:Vikipediisto en-4
+Template:User en-0	Ŝablono:Vikipediisto en-0
+Template:User es-4	Ŝablono:Vikipediisto es-4
+Template:User en	Ŝablono:Vikipediisto en
+Template:User de-2	Ŝablono:Vikipediisto de-2
+Template:User es-1	Ŝablono:Vikipediisto es-1
+Template:User sk	Ŝablono:Vikipediisto sk
+Template:Location map/Info	Ŝablono:Situo sur mapo/informoj
+Category:User uk	Kategorio:Vikipediisto uk
+Category:User uk-N	Kategorio:Vikipediisto uk-D
+Template:Mod	Ŝablono:Mod
+Template:User uk	Ŝablono:Vikipediisto uk
+Template:User es-2	Ŝablono:Vikipediisto es-2
+Template:Max	Ŝablono:Max
+Template:Navbox with columns	Ŝablono:Navigilo kun kolumnoj
+Template:Location map	Ŝablono:Situo sur mapo
+Category:User en-4	Kategorio:Vikipediisto en-4
+Category:User en	Kategorio:Vikipediisto en
+Category:User en-2	Kategorio:Vikipediisto en-2
+Template:Infobox	Ŝablono:Informkesto
+Template:GeoTemplate	Ŝablono:GeoTemplate
+Category:Kurima	Kategorio:Agrikulturo
+Template:About	Ŝablono:TemasPri
+Template:Both	Ŝablono:Booland
+Template:User lt	Ŝablono:Vikipediisto lt
+Template:Kujekesa	Ŝablono:Apartigilo
+Template:Convert	Ŝablono:Convert
+Category:Gonyazhinji	Kategorio:Plurlateroj
+Template:Europe	Ŝablono:Ŝtatoj en Eŭropo
+Category:User az	Kategorio:Vikipediisto az
+Category:User be	Kategorio:Vikipediisto be
+Category:User sk	Kategorio:Vikipediisto sk
+Category:User eo	Kategorio:Vikipediisto eo
+Category:User lt	Kategorio:Vikipediisto lt
+Category:User cs-1	Kategorio:Vikipediisto cs-1
+Category:User da-1	Kategorio:Vikipediisto da-1
+Category:User ar-1	Kategorio:Vikipediisto ar-1
+Category:User be-2	Kategorio:Vikipediisto be-2
+Category:User da-2	Kategorio:Vikipediisto da-2
+Category:User lt-N	Kategorio:Vikipediisto lt-D
+Category:User af	Kategorio:Vikipediisto af
+Category:User af-1	Kategorio:Vikipediisto af-1
+Category:User ar	Kategorio:Vikipediisto ar
+Category:User ast	Kategorio:Vikipediisto ast
+Category:User ast-1	Kategorio:Vikipediisto ast-1
+Category:User bar	Kategorio:Vikipediisto bar
+Category:User bg	Kategorio:Vikipediisto bg
+Category:User bg-1	Kategorio:Vikipediisto bg-1
+Category:User ca	Kategorio:Vikipediisto ca
+Category:User ca-1	Kategorio:Vikipediisto ca-1
+Category:User ca-4	Kategorio:Vikipediisto ca-4
+Category:User cs	Kategorio:Vikipediisto cs
+Category:User da	Kategorio:Vikipediisto da
+Category:User sk-N	Kategorio:Vikipediisto sk-D
+Category:User de	Kategorio:Vikipediisto de
+Category:User de-2	Kategorio:Vikipediisto de-2
+Category:User de-3	Kategorio:Vikipediisto de-3
+Category:User el	Kategorio:Vikipediisto el
+Category:User el-1	Kategorio:Vikipediisto el-1
+Category:User el-N	Kategorio:Vikipediisto el-D
+Category:User en-3	Kategorio:Vikipediisto en-3
+Category:User en-N	Kategorio:Vikipediisto en-D
+Category:User eo-1	Kategorio:Vikipediisto eo-1
+Category:User eo-2	Kategorio:Vikipediisto eo-2
+Category:User eo-3	Kategorio:Vikipediisto eo-3
+Category:User es	Kategorio:Vikipediisto es
+Category:User es-1	Kategorio:Vikipediisto es-1
+Category:User es-2	Kategorio:Vikipediisto es-2
+Category:User es-4	Kategorio:Vikipediisto es-4
+Category:User es-N	Kategorio:Vikipediisto es-D
+Category:Pimanzvimbo	Kategorio:Geometrio
+Template:Weather box	Ŝablono:Informkesto jara klimo
+Hukwidza	Supermara alteco
+Chamhembe kwakadziva kumabvazuva	Sudoriento
+Template:Sup	Ŝablono:Eksp
+Maodzanyemba kwakadziva kuMabvazuva	Nordoriento
+Ruchiva	Volupto
+Nhungu	Barako
+Category:Hushangazhi	Kategorio:Industrio
+Category:User tr	Kategorio:Vikipediisto tr
+Category:User tr-N	Kategorio:Vikipediisto tr-D
+Chimiro	Strukturo
+Template:•	Ŝablono:•
+Template:Side box	Ŝablono:Flanka kesto
+Category:Rwizi	Kategorio:Riveroj
+Category:Zimbabwe	Kategorio:Zimbabvo
+Paradise Cay	Paradise Cay
+Category:Musangano	Kategorio:Politikaj partioj
+Category:Gonyanhatu	Kategorio:Trianguloj
+Category:Mhuka	Kategorio:Bestoj
+Category:Dzemuzongoza	Kategorio:Vertebruloj
+Category:Zvombo	Kategorio:Armiloj
+Category:Zvipfeko	Kategorio:Vestoj
+Category:Mhuri	Kategorio:Familio
+Category:Chitendero	Kategorio:Kredo
+Category:Nyoka	Kategorio:Serpentoj
+Category:North America	Kategorio:Nordameriko
+Category:Chadenga	Kategorio:Kosmo
+Category:Nzwimbo	Kategorio:Geografiaj lokoj
+Module:BaseConvert	Modulo:BaseConvert
+Template:Coord/display/inline,title	Ŝablono:Koord/montru/entekste,titolo/dokumentado
+Template:Module other	Ŝablono:Ĉu modulo
+Category:Huwandu	Kategorio:Aritmetiko
+Category:Bhuku Ramorimoni	Kategorio:Libro de Mormon
+Category:Jekanyika	Kategorio:Geodezio
+Category:Marudzi aShem	Kategorio:Semidoj
+Igo	Vespo
+Category:User en-1	Kategorio:Vikipediisto en-1
+Category:User de-1	Kategorio:Vikipediisto de-1
+Category:User da-N	Kategorio:Vikipediisto da-D
+Template:Babel field *	Ŝablono:Babel kadro *
+Mutauro wePasirose	Mondlingvo
+Template:Location map~	Ŝablono:Situo sur mapo/~
+Template:Location map+	Ŝablono:Situo sur mapo/+
+Template:Location map many	Ŝablono:Situo sur mapo/multaj
+Bhucha	Viandovendejo
+Module:Yesno	Modulo:Yesno
+Special:RecentChanges	Specialaĵo:Lastaj ŝanĝoj
+Module:TableTools	Modulo:TableTools
+Module:HtmlBuilder	Modulo:HtmlBuilder
+Module:Coordinates	Modulo:Coordinates
+Module:Math	Modulo:Math
+Module:InfoboxImage	Modulo:InfoboxImage

@@ -1,0 +1,2390 @@
+Afrika	Afriko
+Jabaan	Japanio
+Ameerikada koonfureed	Sudameriko
+Norway	Norvegio
+Ingiriiska	Anglio
+Skotland	Skotlando
+Waalis	Kimrio
+Waqooyiga Ayrland	Nord-Irlando
+Ireland	Irlando
+Hungaria	Hungario
+Isbania	Hispanio
+Mareykanka	Usono
+Beljim	Belgio
+Luksemburg	Luksemburgo (lando)
+Koon	Universo
+Dhul	Tero
+Nolosha	Vivo
+Biniaadan	Homo
+George Washington	George Washington
+Finland	Finnlando
+Iswiidhan	Svedio
+Denmark	Danio
+Boland	Pollando
+Lithuaniya	Litovio
+Talyaaniga	Italio
+Iswisarland	Svislando
+Austriya	Aŭstrio
+Giriig	Grekio
+Turkiga	Turkio
+Bortuqaal	Portugalio
+Yurub	Eŭropo
+Aasiya	Azio
+Woqooyiga Ameerika	Nordameriko
+Antiarktis	Antarkto
+Wikipedia	Vikipedio
+Holland	Nederlando
+New York	Novjorko
+Washington D.C	Vaŝingtono
+Baarliin	Berlino
+Los Angeles	Los-Anĝeleso
+Boeing	Boeing
+Kumbuyuutar	Komputilo
+Jineefa	Ĝenevo
+Internet	Interreto
+Barack Obama	Barack Obama
+Uruguay	Urugvajo
+London	Londono
+Qaahiro	Kairo
+Baariis	Parizo
+Android	Android
+Google	Google
+Meksiko	Meksiko
+Badweynta Atlaantik	Atlantika Oceano
+Badweynta Baasifik	Pacifika Oceano
+Kalifornia	Kalifornio
+Isniin	Lundo
+Janaayo	Januaro
+Febraayo	Februaro
+Maarso	Marto
+Farraare	Marso
+Kiinya	Kenjo
+Itoobiya	Etiopio
+Gaana	Ganao
+Abriil	Aprilo
+May	Majo
+Juun	Junio
+Luuliyo	Julio
+Agoosto	Aŭgusto
+Sebteembar	Septembro
+Oktoobar	Oktobro
+Nofeembar	Novembro
+Diseembar	Decembro
+Talaado	Mardo
+Arbaco	Merkredo
+Khamiis	Ĵaŭdo
+Jimco	Vendredo
+Sabti	Sabato
+Axad	Dimanĉo
+Libaax	Leono
+Faransiiska	Francio
+Esberanto	Esperanto
+Ey	Hundo
+Midowga boqortooyada Britan	Unuiĝinta Reĝlando
+Yaanyuur	Hejma kato
+Shiinaha	Ĉina Popola Respubliko
+Af-Faransiis	Franca lingvo
+Malaay	Fiŝoj
+Khamri	Alkoholaĵo
+Barasiil	Brazilo
+François Hollande	François Hollande
+Ruushka	Rusio
+Nibiri	Cetacoj
+Labajibaarane	Kvadrato (geometrio)
+Bad	Maro
+Bada madaw	Nigra Maro
+Pi Sumad xisaabeed	Pi (nombro)
+Cambe	Mango (frukto)
+Wiki	Vikio
+Toronto	Toronto
+Alabama	Alabamo
+São Paulo	San-Paŭlo (urbo)
+São Paulo (Gobol)	San-Paŭlo
+Wikimedia	Fondaĵo Vikimedio
+Jimmy Wales	Jimmy Wales
+Jarmalka	Germanio
+Belarus	Belorusio
+Af-Jarmal	Germana lingvo
+Island	Islando
+Estoniya	Estonio
+David Cameron	David Cameron
+Raage	Saturno (planedo)
+Chocolate	Ĉokolado
+Dagaalada	Milito
+Kow	1 (nombro)
+Labo	2 (nombro)
+Sadax	3 (nombro)
+Afar (lambar)	4 (nombro)
+Shan	5 (nombro)
+0	Nulo
+George W. Bush	George W. Bush
+Laydi	Ortangulo
+Latfiya	Latvio
+Ukrain	Ukrainio
+Jamhuuriyadda Tashik	Ĉeĥio
+Islofaakiya	Slovakio
+Isloveeniya	Slovenio
+Moldofa	Moldava Respubliko
+Romania	Rumanio
+Bulgaria	Bulgario
+Roma	Romo
+Jamhuriyada Makedonia	Respubliko Makedonio
+Albania	Albanio
+Griinland	Gronlando
+Kroatia	Kroatio
+Bosniya	Bosnio kaj Hercegovino
+Aserbiijaan	Azerbajĝano
+Andorra	Andoro
+Jasiirada Qabrus	Kipro
+Joorjiya	Kartvelio
+Kasakhstan	Kazaĥio
+Malta	Malto
+Monako	Monako
+Montenegro	Montenegro
+Faatikan	Vatikano
+San Marino	San-Marino
+Boroksel	Bruselo
+Kuuba	Kubo
+Belise	Belizo
+Barbados	Barbado
+Indunisiya	Indonezio
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Af-Turki	Turka lingvo
+Koonfur Afrika	Sud-Afriko
+Aljeeriya	Alĝerio
+Usbekistan	Uzbekujo
+Biyo	Akvo
+Alwaax	Ligno
+Telefishin	Televido
+Claude Monet	Claude Monet
+Diego Velázquez	Diego Velázquez
+Jili	Ĉilio
+El Greco	El Greco
+Ciise	Jesuo Kristo
+Dusaa	Merkuro (planedo)
+Taariikh	Historio
+Apple Inc	Apple
+Waxaraxir	Venuso (planedo)
+Jaceyl	Amo
+Cirjeex	Jupitero (planedo)
+Uraano	Urano (planedo)
+Nicolas Sarkozy	Nicolas Sarkozy
+Nebtuun	Neptuno (planedo)
+Xiddigis	Astronomio
+Singabuur	Singapuro
+Saynis	Scienco
+Buluuto	Plutono
+Liechtenstein	Liĥtenŝtejno
+Ciyaaraha	Sporto
+Adolf Hitler	Adolf Hitler
+Facebook	Facebook
+Julian Assange	Julian Assange
+Dagaalkii koowaad	Unua mondmilito
+Dagaalkii Labaad ee Aduunka	Dua mondmilito
+Goorsheegto	Horloĝo
+Linux	Linukso
+Xisaab	Matematiko
+Af-Laatiin	Latina lingvo
+Baxrayn	Barejno
+Armania	Armenio
+Seerbiya	Serbio
+Bil	Luno
+Istanbuul	Istanbulo
+Australia	Aŭstralio
+Fiisigis	Fiziko
+Arjantiina	Argentino
+Isgaarsiinta	Telekomunikado
+Peru	Peruo
+Bayoloji	Biologio
+Waqooyiga Kuuriya	Nord-Koreio
+Kambodiya	Kamboĝo
+Qur'aan	Korano
+Diinsoor (xayawaan)	Dinosaŭro
+Islaam	Islamo
+Ljubljana	Ljubljano
+World Wide Web	TTT
+Naag	Virino
+Gabay	Poezio
+Chernobyl	Nuklea akcidento de Ĉernobilo
+Milan	Milano
+Torino	Torino
+Liin dhanaan	Citrono
+Moos	Banano
+Ubax	Floro
+Magaalo	Urbo
+Napoleon Bonaparte	Napoleono Bonaparte
+Xidig	Stelo
+Qorax	Suno
+Cir	Ĉielo
+Tuulo	Vilaĝo
+Ooshiyaaniya	Oceanio
+Bahda Midaysay Qoraxdu	Sunsistemo
+Ilig	Dento
+Hydrogen	Hidrogeno
+Hiliyaam	Heliumo
+Cadaab	Infero
+Wikimedia Commons	Vikimedia Komunejo
+Liithiyaam	Litio
+Beriiliyaam	Berilio
+Buug	Libro
+Maalin	Tago
+Bariga Timor	Orienta Timoro
+Sanad	Jaro
+Qarni	Jarcento
+Oslo	Oslo
+Lissabon	Lisbono
+Dubay	Dubajo
+Lionel Messi	Lionel Messi
+Booron	Boro
+Versailles	Versailles
+Kaarboon	Karbono
+Nitrojiin	Nitrogeno
+Ogsajiin	Oksigeno
+FC Internazionale Milano	Inter Milano
+Meere	Planedo
+Muusig	Muziko
+Moskow	Moskvo
+Foloriin	Fluoro
+Af-Taliyaani	Itala lingvo
+Niyoon	Neono
+Saint Petersburg	Sankt-Peterburgo
+Jad	Ĉado
+Sodhiyaam	Natrio
+Woqooyi	Nordo
+Magniisiyaam	Magnezio
+Alumiiniyaam	Aluminio
+New Zealand	Nov-Zelando
+Koonfur	Sudo
+Hindiya	Barato
+Silikoon	Silicio
+Faransiyaam	Franciumo
+Tuvalu	Tuvalo
+Fosforos	Fosforo
+Xadiid	Fero
+Galbeed	Okcidento
+Salfar	Sulfuro
+Bari (Jiho)	Oriento
+Jasiiradaha Solomon	Salomonoj
+Koloriin	Kloro
+Koofurta Holland	Suda Holando
+Balau	Palaŭo
+Aargon	Argono
+Nawru	Nauro
+Firefox	Mozilla Firefox
+Waqooyiga Holland	Norda Holando
+Botashiyaam	Kalio
+Zeeland	Zelando
+Kaalshiyaam	Kalcio
+Flevoland	Flevolando
+Lead	Plumbo
+Jasiirada Marshall	Marŝala Insularo
+Kiribati	Kiribato
+Mongolia	Mongolio
+Fiji	Fiĝioj
+Iskaandhiyaam	Skandio
+Titaaniyaam	Titano (elemento)
+Fanansuwela	Venezuelo
+Jinkis Khan	Ĝingis-Ĥano
+Fanadhiyaam	Vanado
+Koroomiyaam	Kromo
+Faras	Ĉevalo
+Amistardam	Amsterdamo
+Hub	Armilo
+Xayawaan	Bestoj
+Surinam	Surinamo
+Manganiis	Mangano
+Paraguay	Paragvajo
+Guyana	Gujano
+Fan	Arto
+Ikwadoor	Ekvadoro
+Reheniyaam	Renio
+Kolombiya	Kolombio
+Kobalti	Kobalto
+Tungsten	Volframo
+Nikel	Nikelo
+Boliifia	Bolivio
+Osmiyaam	Osmio
+Groningen	Groningen (provinco)
+Kober	Kupro
+Beer	Plantoj
+Sinki	Zinko
+Leonardo da Vinci	Leonardo da Vinci
+Boqoshaa	Fungoj
+Jamayka	Jamajko
+Friesland	Frislando
+Drenthe	Drenthe
+Overijssel	Overijssel
+Guatemala	Gvatemalo
+Gelderland	Gelderland
+Utrecht	Utrecht (provinco)
+Bahamas	Bahamoj
+Dooro	Koko
+Antigua iyo Barbuda	Antigvo-Barbudo
+Hawaay	Havajo
+Dominika	Dominiko
+Doofaar	Porko
+Haiti	Haitio
+El Salfador	Salvadoro
+Iiraan	Irano
+Ciraaq	Irako
+Xikmad	Saĝo
+Kosta Rika	Kostariko
+Israaiil	Israelo
+Magaalada Utrecht	Utrecht
+Banama	Panamo
+Yemen	Jemeno
+Virus	Viruso (biologio)
+Urdun	Jordanio
+Nikaragua	Nikaragvo
+Florida	Florido
+Qargistan	Kirgizio
+Kuwayt	Kuvajto
+Laos	Laoso
+Lubnaan	Libano
+Jasiirada Maldiif	Maldivoj
+Ameerika	Ameriko
+Lo'	Bovo
+Malaysiya	Malajzio
+Burma	Birmo
+Nebal	Nepalo
+Cumaan	Omano
+Bakistaan	Pakistano
+Qatar	Kataro
+Ciyaarta Teeniska	Teniso
+Sacuudi Carabiya	Sauda Arabio
+Siri Lanka	Sri-Lanko
+Suuriya	Sirio
+Gaaliyaam	Galiumo
+Tadsjikistan	Taĝikio
+Pokemon	Pokemono
+Taywan	Respubliko Ĉinio
+YouTube	YouTube
+Jermaaniyaam	Germaniumo
+Tayland	Tajlando
+Tareen	Trajno
+Aarsenik	Arseno
+Turkmenistan	Turkmenio
+Seleniyaam	Seleno
+Iridiyaam	Iridio
+Imaaraatka Carabta	Unuiĝintaj Arabaj Emirlandoj
+Boromiin	Bromo
+Balatiniyaam	Plateno
+Fiyetnam	Vjetnamio
+Charlie Chaplin	Charlie Chaplin
+Koonfur Kuuriya	Sud-Koreio
+Kiribtoon	Kriptono
+Afgaanistan	Afganio
+Gangnam Style	Gangnam Style
+Rubiidhiyaam	Rubidio
+Dahab	Oro
+Kanaalka Suweys	Sueza Kanalo
+Bangladesh	Bangladeŝo
+Maali	Malio
+Sokrades	Sokrato
+Angola	Angolo
+Butaan	Butano
+Twitter	Twitter
+Barunay	Brunejo
+Tansaaniya	Tanzanio
+Meerkuri	Hidrargo
+Roald Amundsen	Roald Amundsen
+Harry Mulisch	Harry Mulisch
+Filibiin	Filipinoj
+Jamhuuriyadda Bartamaha Afrika	Centr-Afrika Respubliko
+Cirifka Koonfur	Suda poluso
+Cirifka waqooyi	Norda poluso
+Isxaaq Newton	Isaac Newton
+Albert Einstein	Albert Einstein
+Istoroontiyaam	Stroncio
+Itriyaam	Itrio
+Bismuth	Bismuto
+Jaale	Flava
+Togo	Togolando
+Tunisiya	Tunizio
+Saambiya	Zambio
+Simbaabwi	Zimbabvo
+Beijing	Pekino
+Koonfur Suudaan	Sud-Sudano
+Benin	Benino
+Botswana	Bocvano
+Burkina Faso	Burkino
+Burundi	Burundo
+Komoros	Komoroj
+Jamhuuriyadda Kongo	Respubliko Kongo
+Jamhuuriyada Dimuqaraadiga Kongo	Demokratia Respubliko Kongo
+Jabuuti	Ĝibutio
+Boloniyaam	Polonio
+Ikweetiga Guinea	Ekvatora Gvineo
+Eratareya	Eritreo
+New Delhi	Nov-Delhio
+Ilmo	Bebo
+Astatiin	Astato
+Gabon	Gabono
+Mahatma Gandhi	Mohandas Karamchand Gandhi
+Gambia	Gambio
+Guinea	Gvineo
+Guinea-Bissau	Gvineo Bisaŭa
+Xeebta Foolmaroodi	Ebur-Bordo
+Kamiruun	Kameruno
+Kab Ferde	Kaboverdo
+Lesotho	Lesoto
+Liberia	Liberio
+Libiya	Libio
+Madagaskar	Madagaskaro
+Malaawi	Malavio
+Mauritania	Maŭritanio
+Mauritius	Maŭricio
+Marooko	Maroko
+Musanbiig	Mozambiko
+Nambiya	Namibio
+Nayjar	Niĝero
+Nayjeeriya	Niĝerio
+Yugandha	Ugando
+Ruwanda	Ruando
+Sirkooniyaam	Zirkonio
+Sao Tome iyo Prinsipe	Sao-Tomeo kaj Principeo
+Sinigaal	Senegalo
+Seyshelles	Sejŝeloj
+Sierra Leone	Siera-Leono
+Soomaaliya	Somalio
+Niyobiyaam	Niobio
+Julius Caesar	Julio Cezaro
+Suudaan	Sudano
+Swasiland	Svazilando
+Qaansa Roobaad	Ĉielarko
+Molybdenum	Molibdeno
+Teknetiyaam	Teknecio
+Qaramada Midoobay	Unuiĝintaj Nacioj
+Juquraafi	Geografio
+Wadno	Koro
+Maskax	Cerbo
+Maqaar	Haŭto
+Midab	Koloro
+Rutheniyaam	Rutenio
+Roodhiyaam	Rodio
+Baluug	Blua
+Baladiyaam	Paladio
+Naxaas	Arĝento
+Kaadmiyaam	Kadmio
+Limburg	Limburgo (Nederlando)
+Tin (curiye)	Stano
+Antimony	Antimono
+Teluriyaam	Teluro
+Waqooyiga Brabant	Norda Brabanto
+Aaydhiin	Jodo
+Siinoon	Ksenono
+Kaasiyaam	Cezio
+Baariyaam	Bario
+Haafniyaam	Hafnio
+Aktiiniyaam	Aktinio
+Tantalum	Tantalo
+Bill Clinton	William J. Clinton
+Raadhiyaam	Radiumo
+Raadhoon	Radono
+Lorraine	Loreno
+Buerto Riko	Porto-Riko
+Niedersachsen	Malsupra Saksio
+Lombardia	Lombardujo
+Qudus	Jerusalemo
+Rutherfordium	Ruterfordio
+Dubniyaam	Dubnio
+Siiborgiyaam	Seborgio
+Badweynta Hindiya	Hinda Oceano
+Kosofo	Kosovo
+Badda Karabiya	Kariba Maro
+Bohriyaam	Borio
+Hasiyaam	Hasio
+Meitneriyaam	Mejtnerio
+Darmstadtiyaam	Darmŝtatio
+Roentgeniyaam	Rentgenio
+Dortmund	Dortmund
+Ununtriyaam	Ununtrio
+Lifermoriyaam	Livermorumo
+Ununoktiyaam	Ununoktio
+Maastricht	Maastricht
+Jiilaal	Vintro
+Gu	Printempo
+Xagaa	Somero
+Dayr	Aŭtuno
+Sadaam Xuseen	Saddam Hussein
+Usaama bin Laadin	Usama bin Laden
+Caarcaaro	Araneuloj
+Miro	Frukto
+Lacagta	Mono
+Xasharaad	Insekto
+Faladimir Lenin	Lenin
+Uetersen	Uetersen
+Augustus Octavian	Aŭgusto Cezaro
+Microsoft Windows	Microsoft Windows
+Jibraltaar	Ĝibraltaro
+Nokia	Nokia (kompanio)
+Baabuur	Aŭtomobilo
+Juventus FC	Juventus Football Club
+Texas	Teksaso
+Sasiiliya	Sicilio
+Sardiiniya	Sardio
+Fuuqbax	Crohn-malsano
+Buenos Aires	Bonaero
+Tokyo	Tokio
+Barcelona	Barcelono
+Abidjan	Abiĝano
+Minnesota	Minesoto
+Baqdaad	Bagdado
+Isuduwaha Waqtiga Caalamiga	UTC
+AC Milan	A.C. Milan
+Buuri	Tabako
+Internet Explorer	Internet Explorer
+Sigaar	Cigaredo
+Nayl armistaroong	Neil Armstrong
+München	Munkeno
+Fiyena	Vieno
+Kobanhaygan	Kopenhago
+Stockholm	Stokholmo
+Helsinki	Helsinko
+Dublin	Dublino
+Bratislava	Bratislavo
+Budapest	Budapeŝto
+Frankfurt	Frankfurto ĉe Majno
+Lanthanum	Lantano
+Kitaabka quduska	Biblio
+Phnom Penh	Pnom-Peno
+Ho Chi Minh City	Ho-Ĉi-Min-urbo
+Luteetiyaam	Lutecio
+Mida Rumeed Kaniisada Ciise	Vera Eklezio de Jesuo
+Ingiriis (luqad)	Angla lingvo
+Bangkok	Bankoko
+Dong Hoi	Dong Hoi
+Concepción	Koncepciono
+Franck Ribéry	Franck Ribéry
+Ottawa	Otavo
+Dayaxa Cirjeex	Naturaj satelitoj de Jupitero
+Juba	Ĵubo
+Końskowola	Końskowola
+Dar es Salaam	Daresalamo
+Khartuum	Ĥartumo
+Dayaxa raage	Naturaj satelitoj de Saturno
+2000	2000
+2003	2003
+2002	2002
+2001	2001
+2012	2012
+2011	2011
+2010	2010
+2009	2009
+2013	2013
+2014	2014
+2008	2008
+2004	2004
+2005	2005
+2006	2006
+2007	2007
+1900	1900
+1901	1901
+Charles De Gaulle	Charles de Gaulle
+1906	1906
+1908	1908
+1909	1909
+1992	1992
+1991	1991
+1990	1990
+1993	1993
+1994	1994
+1995	1995
+1996	1996
+1910	1910
+1911	1911
+1912	1912
+1913	1913
+1914	1914
+1997	1997
+1998	1998
+1999	1999
+1918	1918
+Cunto	Manĝaĵo
+Mas	Serpento
+Dayaxa docay	Naturaj satelitoj de Neptuno
+Dashiishe	1-a de januaro
+1920	1920
+1919	1919
+1921	1921
+Georges Pompidou	Georges Pompidou
+Malmö	Malmö
+Birmingham	Birmingham
+Microsoft	Microsoft
+Borotoon	Protono
+Kurów	Kurów
+Kimisteri	Kemio
+Robin van Persie	Robin van Persie
+27	27
+1989	1989
+1988	1988
+1987	1987
+1986	1986
+1985	1985
+1984	1984
+1983	1983
+1982	1982
+1981	1981
+1980	1980
+Muqdisho	Mogadiŝo
+Sana'a	Sanao
+1970	1970
+1971	1971
+1972	1972
+1973	1973
+1974	1974
+1975	1975
+1976	1976
+1977	1977
+1978	1978
+1979	1979
+1969	1969
+18 Abriil	18-a de aprilo
+25 Abriil	25-a de aprilo
+26 Abriil	26-a de aprilo
+Dayax	Natura satelito
+Kristian Wulff	Christian Wulff
+15 Meey	15-a de majo
+SSC Napoli	SSC Napoli
+1968	1968
+1967	1967
+1966	1966
+1965	1965
+1964	1964
+27 Juun	27-a de junio
+Kubadda Cagta	Futbalo
+AS Roma	AS Roma
+1963	1963
+Holokost	Holokaŭsto
+1962	1962
+Michael Jackson	Michael Jackson
+Bogota	Bogoto
+29 Diseembar	29-a de decembro
+Quito	Kito
+Adhi	Hejma kapro
+21 Oktoobar	21-a de oktobro
+Paramaribo	Paramaribo
+Wiil	Knabo
+Gabar	Knabino
+Kanbera	Kanbero
+Sydney	Sidnejo
+Cagaar	Verdo
+Gaduud	Ruĝa
+Perth	Perto
+Galbeed Australia (gobol)	Okcidenta Aŭstralio
+New South Wales	Novsudkimrio
+Wabiga Niil	Nilo
+Jini	Ĝino (spirito)
+Wabiga Nijer	Niĝero (rivero)
+Rabat	Rabato
+Algiers	Alĝero
+Tunis	Tunizo
+Triboli	Tripolo
+Jabuuti (magaalo)	Ĝibuto
+Tahraan	Teherano
+Addis Abeba	Adis-Abebo
+Ankara	Ankaro
+Asmara	Asmaro
+Nijamiina	Nĵameno
+Niamey	Niameo
+Nawakshot	Nuakŝoto
+1961	1961
+Bamako	Bamako
+Belgaraad	Beogrado
+Dakar	Dakaro
+Banjul	Banĵulo
+Konakri	Konakrio
+Bissau	Bisaŭo
+Category:Template	Kategorio:Vikipedio:Ŝablonoj
+Monrofia	Monrovio
+Braia	Prajo
+1960	1960
+Akara	Akrao
+Dimishiq	Damasko
+Yamoussoukro	Jamusukro
+Faransiis Guyana	Franca Gviano
+Ougadougou	Uagaduguo
+Freetown	Fritaŭno
+Abuja	Abuĝo
+Lome	Lomeo
+Borto-Novo	Porto-Novo
+Yawunde	Jaundeo
+Malabo	Malabo
+Librefille	Librevilo
+Bangui	Bango
+Kinshasa	Kinŝaso
+Barasafille	Brazavilo
+Bujumbura	Buĵumburo
+Kigali	Kigalo
+Dodoma	Dodomao
+Nayroobi	Najrobo
+Lilongwe	Lilongvo
+Lusaka	Lusako
+Qorax madoobaad	Suna eklipso
+Mabuto	Maputo
+Kambaala	Kampalo
+Luanda	Luando
+Moroni	Moronio
+Mabane	Mbabano
+Maseru	Maseruo
+Dugsi	Lernejo
+Antananarifo	Antananarivo
+Jaamacad	Universitato
+Gaborone	Gaberono
+Harare	Harareo
+Pretoria	Pretorio
+Bort Lois	Port-Luiso
+Sao Tome	Sao-Tomeo
+Windhoek	Vindhuko
+Wikipedia:Bacaadka	Vikipedio:Provejo
+Fiktoria	Viktorio (Sejŝeloj)
+Guri	Domo
+Kombuyuuterka Dhabta	Tekokomputilo
+Computer Hardware	Aparataro
+Aljebra	Algebro
+Webiyada	Rivero
+Osasko	Osasco (San-Paŭlo)
+Garoonka ee Dong Hoi	Flughaveno Dong Hoi
+Curitiba	Kuritibo
+Pangea	Pangeo
+Keyn	Arbaro
+Anne Frank	Anne Frank
+Shilin Soomaali	Somalia ŝilingo
+Confucius	Konfuceo
+Category:Taariikhda Ciraaq	Kategorio:Historio de Irako
+Corbin Bleu	Corbin Bleu
+Category:Xisaab	Kategorio:Matematiko
+Jasiiradaha Feroe	Ferooj
+Maxamed Morsi	Mohamed Mursi
+Euro	Eŭro
+Bada Dhexe	Mediteraneo
+Masiixiyad	Kristanismo
+Windows 8	Vindozo 8
+Bariis	Rizo
+Céline Dion	Céline Dion
+Qaaradaha	Kontinento
+Adelaide	Adelajdo
+Shimbir	Birdoj
+Template:Islaam	Ŝablono:Islamo
+Bilaha	Monato
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+1948	1948
+Jeejniya	Ĉeĉenio
+1949	1949
+Garoosni	Grozno
+Huang Xianfan	Huang Senfan
+1956	1956
+1941	1941
+1945	1945
+1958	1958
+1926	1926
+1947	1947
+1944	1944
+1952	1952
+Bill Gates	Bill Gates
+Encyclopedia	Enciklopedio
+DVD	DVD
+Bogga Hore	Vikipedio:Ĉefpaĝo
+CPU	Procesoro
+1959	1959
+Template:Maqaal Cusub	Ŝablono:Leginda
+Dhesibel	Decibelo
+Kubadda Koleyga	Korbopilkado
+Kab town	Kaburbo
+Bada Qaswiin	Kaspio
+Harta Fiktooriya	Viktoria lago
+Harada malaawi	Malavia Lago
+Salvador Dalí	Salvador Dalí
+Finsent van Gogh	Vincent van Gogh
+Hokusai	Katsushika Hokusai
+Mishelangelo	Mikelanĝelo
+Bablo bekaso	Pablo Picasso
+Rembrandt van Rijn	Rembrandt Harmenszoon van Rijn
+Eminem	Eminem
+Bas	Aŭtobuso
+Baabiyloon	Babilono
+Katalooniya	Katalunio
+Samarqanda	Samarkando
+Bukhaara	Buĥaro
+Mekka	Mekko
+Che Guvara	Che Guevara
+Mao Zedong	Mao Zedong
+Kabul	Kabulo
+Luqada Tamil-ka	Tamila lingvo
+Filasoofiyada	Filozofio
+50 Cent	50 Cent
+Snoop Dogg	Snoop Dogg
+Shaax	Teo
+Tupac Shakur	Tupac Shakur
+1507	1507
+Shuuciyad	Komunismo
+Amadeyo afogadro	Konstanto de Avogadro
+Liberalinimo	Liberalismo
+Wadan	Lando
+Qaran	Nacio
+Jow Bayden	Joe Biden
+Hillary Clinton	Hillary Rodham Clinton
+Dabaal	Naĝado
+Category:Xiddigis	Kategorio:Astronomio
+1542	1542
+1543	1543
+Jaan Jaak Rosoo	Jean-Jacques Rousseau
+Saxaara	Saharo
+Hambeegar	Hamburgero
+Shaydaanka	Diablo
+1606	1606
+Maktabad	Librarejo
+FC Barcelona	Futbala Klubo de Barcelono
+Midowga afrika	Afrika Unio
+Siyaasadda,	Politiko
+Jaamacada Carabta	Ligo de Arabaj Ŝtatoj
+Dimoqraadi	Demokratio
+Hay'ada laanqayrta cas	Ruĝa Kruco
+Gaashaanbuurta NATO	NATO
+Qin Shi Huang	Qin Shihuangdi
+Bariga Dhexe	Mezoriento
+Jamhuriyadda	Respubliko
+Hantiwadaag	Socialismo
+Dowlad	Ŝtato
+Xisbi	Partio (politiko)
+Kilimanjaaro	Kilimanĝaro
+Kristoffer Kolombus	Kristoforo Kolumbo
+Rixlaat Ibn Batuuta	Ibn Batuta
+Kanaalka Banama	Panama kanalo
+Dheg	Orelo
+San	Nazo (organo)
+Muruq	Muskolo
+Hees	Kanto
+Kaneeco	Moskito
+Libaax Badeed	Ŝarko
+Geel	Kamelo
+Naasley	Mamuloj
+Maroodi	Elefanto
+Quraansho	Formiko
+Shini	Abelo
+Software	Programaro
+Af-Holandees	Nederlanda lingvo
+DNA	DNA
+Nuucyada dhirta	Specio
+Hooyo	Patrino
+Aabe	Patro
+Waalid	Generinto
+Gaadiidka Dadweynaha	Transporto
+Debian	Debiano
+1669	1669
+1670	1670
+1671	1671
+1672	1672
+1673	1673
+1674	1674
+1675	1675
+1676	1676
+1677	1677
+1678	1678
+1679	1679
+1680	1680
+1856	1856
+Af-Ruush	Rusa lingvo
+Faladimir Putin	Vladimir Putin
+Dastuur	Konstitucio
+Dalalka Kommonwels	Komunumo de Nacioj
+OPEC	OPEL
+Rooti	Pano
+UNESCO	Unesko
+Baaqa Caalamiga ee Xuquuqda Aadanaha	Universala Deklaracio de Homaj Rajtoj
+1796	1796
+1797	1797
+1899	1889
+Sawaaxili	Svahila lingvo
+1893	1893
+Unug	Ĉelo (biologio)
+Dhiig	Sango
+Qolfoof	Skeleto
+Sambab	Pulmo
+Hab Neefsi	Spira sistemo
+Habdhiska Taranka	Reprodukta sistemo
+Af-Romani	Rumana lingvo
+Roob	Pluvo
+Dhulgariir	Tertremo
+Ibn Siinaa	Aviceno
+Nelson Mandela	Nelson Mandela
+Martin Luther King,	Martin Luther King
+Ensiim	Enzimo
+Borotiin	Proteino
+Daad	Inundo
+Tsunami	Cunamo
+Fulkaano	Vulkano
+Caad	Nubo
+Tirignoometeri	Trigonometrio
+Joomitiri	Geometrio
+Qarnigii 2aad	2-a jarcento
+Qarnigii 1aad	1-a jarcento
+Dhaqaale	Ekonomiko
+Warshad	Industrio
+Farta laatiinka	Latina alfabeto
+Suugaan	Literaturo
+Category:Faransiiska	Kategorio:Francio
+Category:Muusig	Kategorio:Muziko
+Kun Habeen Iyo Habeen	Mil kaj unu noktoj
+Category:Suugaanta	Kategorio:Literaturo
+Category:Gabayada	Kategorio:Poezio
+Waxbarasho	Eduko
+Qoys	Familio
+Hugo Chavez	Hugo Chávez
+Nin	Viro
+Guur	Geedzeco
+Midab Takoor	Rasismo
+Adoon	Sklaveco
+Dagaal Sokeeye	Interna milito
+Cumar	Umar ibn al-Ĥattab
+Suldaan Suleymaan kan 1aad	Sulejmano la 1-a
+Bun	Kafo
+Caano	Lakto
+Buur	Monto
+Salaaxudiin al-Ayyuubi	Saladino
+Karaaji	Karaĉio
+Riyaal Madrid	Real Madrid
+Dagaalkii qaboobaa	Malvarma milito
+Seoul	Seulo
+Tomas Edison	Thomas Alva Edison
+Michael Faraday	Michael Faraday
+Internet protocol	IP
+HTML	HTML
+Af-Iswiidhan	Sveda lingvo
+Muxamed bin Muuse al-Khwarizmī	Al-Ĥorazmi
+Karl Marx	Karl Marx
+Nabi Muuse C.S.	Moseo
+Aqoon	Scio
+Naas	Mamo
+Atom	Atomo
+Ileys	Lumo
+Af Giriig	Greka lingvo
+Operating system	Operaciumo
+Naf	Animo
+Af-Faarsi	Persa lingvo
+Diin	Religio
+Nabi Ibraahiim C.S.	Abraham
+Saladh	Salato
+Yuhuuda	Judismo
+Af-Hebrow	Hebrea lingvo
+Ibn Khalduun	Ibn-Ĥaldun
+Beer (xubin)	Hepato
+Bakeyle	Kuniklo
+Cilminafsi	Psikologio
+Badweyn	Oceano
+Gootama buuda	Sidarto Gotamo
+Muxamed	Mohamedo
+BBC	BBC
+Shahrukh Khan	Shahrukh Khan
+Al-Ghazaali	Algazelo
+Gerald Ford	Gerald Ford
+Shiica	Ŝijaismo
+Suufi	Sufiismo
+Carab	Lango (anatomio)
+Chelsea FC	Chelsea F.C.
+Arsenal F.C.	Arsenal F.C.
+Ganac	Pankreato
+Qolfoofta Dadka	Homa skeleto
+Qoor	Kolo
+Af	Buŝo
+Sakaar	Brusto
+Elizabeth II	Elizabeto la 2-a (Britio)
+Caajiska	Laceco
+Schiphol	Flughaveno Schiphol
+Haarlem	Haarlemo
+Ronald Reagan	Ronald Reagan
+Af-Zulu	Zulua lingvo
+Foosto	Barelo
+Sabool	Malriĉeco
+Gordon Brown	Gordon Brown
+Jadwalka Curiyayaasha	Perioda tabelo
+Robert Mugabe	Robert Mugabe
+Xamaam(Shinbir)	Kolombedoj
+Bakteeri	Bakterioj
+Geed	Arbo
+Canab	Vinbero
+Malab	Mielo
+Hilib	Viando
+Barandho	Terpomo
+Sonkor	Sukero
+Khudaar	Legomo
+Robot	Roboto
+Makiinad	Maŝino
+Saxaafad	Ĵurnalismo
+Taleefoon	Telefono
+Dhaqan	Kulturo
+RNA	RNA
+Xidigisyahan	Astronomo
+Habdhiska Wareega Dhiiga	Kardiovaskula sistemo
+Mindhicirka weyn	Dika intesto
+Mindhicirka yar	Maldika intesto
+Ibn Haytham	Alhazen
+Isku dhis	Kemia kombinaĵo
+Sharci dajinta	Leĝdona povo
+Windows 7	Vindozo 7
+Boqolleey	Procento
+Windows Vista	Vindozo Vista
+Fidel Castaro	Fidel Castro
+Category:Barasiil	Kategorio:Brazilo
+Tamar	Energio
+Abala-abalayn bayoloji	Biologia klasado
+Awood	Forto
+Cufisjiidad	Gravito
+Cuf	Maso
+Bir	Metalo (fiziko)
+Hawo	Gaso
+Dareere	Likvo
+Adke	Solido
+Bushkuleeti	Biciklo
+Markab	Ŝipo
+Beeraha	Agrikulturo
+Cudbi	Kotono
+Tiknolajiga nano	Nanoteknologio
+Xaansho	Papero
+Bac	Plasto
+Bed	Areo
+Lambar	Nombro
+Kiilogaraam	Kilogramo
+Cristiano Ronaldo	Cristiano Ronaldo
+Mitir	Metro
+Ilbiriqsi	Sekundo
+Galley	Maizo
+Kelvinka	Kelvino
+Dalalka	Listo de sendependaj ŝtatoj
+Ludwik Lejzer Zamenhof	L. L. Zamenhof
+Mesobotaamiya	Mezopotamio
+Buti	Urso
+Britney Spears	Britney Spears
+Habdhiska Dheefshiidka	Digestado
+Habka Samayska Cuntada	Fotosintezo
+Kansar	Kancero
+Boqortooyo	Reĝo
+Qamadi	Tritiko
+Kalandar	Kalendaro
+Dhagool	Surdeco
+Cudur	Malsano
+Niikotiin	Nikotino
+Malaariyo	Malario
+Cunto xumida	Malsufiĉa nutrado
+Benseliin	Penicilino
+Nantes	Nanto (Francio)
+AIDS	Aidoso
+Sokorow	Diabeto
+Template:Location map Yemen	Ŝablono:Situo sur mapo Jemeno
+Mona Lisa	La Gioconda
+Horgale (Fiisikis)	Internacia sistemo de unuoj
+Burj Khalifa	Burĝ Ĥalifa
+Gidaarka Shiinaha	Granda Ĉina Muro
+Abyoone	Entjero
+Kubad	Sfero
+Dawladii Cabaasiyiinta	Kalifujo de Abasidoj
+Dawlada Cosmaniya	Otomana Imperio
+Koronto	Elektro
+Seef	Glavo
+Pawlo Kuwelho	Paulo Coelho
+Liin	Oranĝo (frukto)
+Af-Soomaali	Somala lingvo
+Aljaziira	Al-Ĝazira
+Hal-xeraale	Enigmo
+Carabi	Araba lingvo
+Xorta ah	Libera verko
+Baar	Arekacoj
+Dollar	Dolaro (monunuo)
+Araga	Optiko
+Calan	Flago
+Qalin Qori	Krajono
+Saabaan	Meblo
+Template:Location map Sudan	Ŝablono:Situo sur mapo Sudano
+Template:Location map Eritrea	Ŝablono:Situo sur mapo Eritreo
+Template:Location map Ethiopia	Ŝablono:Geokesto lokumilo Etiopio
+Template:Location map Djibouti	Ŝablono:Situo sur mapo Ĝibutio
+Template:Location map Somalia	Ŝablono:Situo sur mapo Somalio
+Template:Location map Nigeria	Ŝablono:Situo sur mapo Niĝerio
+Template:Location map Uganda	Ŝablono:Situo sur mapo Ugando
+Geri	Ĝirafo (specio)
+Faruur	Lipo
+Shaarbo	Lipharoj
+Midowga Sofiyet	Sovetunio
+Qolofta kore ee Dhulka	Terkrusto
+FC Bayern München	FC Bayern München
+Queen	Queen
+Kanye West	Kanye West
+Huguri	Gorĝo (anatomio)
+Wikipedia:Maqaallo Xul Ah	Vikipedio:Elstaraj artikoloj
+Template:Link FA	Ŝablono:LigoElstara
+Aduunka	Mondo
+Wikipedia:Goob	Vikipedio:Diskutejo
+Nanjing	Nankingo
+Mayotte	Majoto
+Goobo	Cirklo
+Cesc Fàbregas	Cesc Fàbregas
+Mobile	Poŝtelefono
+Goronyo	Struto
+Kuuriya	Koreio
+Manchester	Manchester
+1000	1000
+999	999
+Yeey	Lupo
+1955	1955
+1954	1954
+1953	1953
+1951	1951
+1950	1950
+1946	1946
+1943	1943
+1942	1942
+1940	1940
+1939	1939
+1938	1938
+1937	1937
+1936	1936
+Manchester United FC	Manchester United
+1935	1935
+1934	1934
+Axdiga Cusub	Nova testamento
+Qafqaas	Kaŭkazio
+Sagaal	9 (nombro)
+Dabaqaroof	Skorpio
+Koobka Adduunka	Futbala Mondpokalo
+Boolo	Pelikano
+Macdin Alkaliini ah	Alkala metalo
+Macdin dhuleed ah	Teralkala metalo
+Rafael Correa	Rafael Correa
+Transitional Metal	Transirmetalo
+Bir la Mood	Metaloido
+Bir Ma Ahe	Nemetalo
+Guruubka 17	Halogeno
+Neefta Gobta	Nobla gaso
+5	5
+4	4
+3	3
+2	2
+Buqarest	Bukareŝto
+Louvre	Luvro
+Motorhead	Motörhead
+Dameer	Azeno
+Wikipedia:Maqaal Cusub	Vikipedio:Legindaj artikoloj
+6	6
+Axdigii Hore	Malnova testamento
+Saddax-xagal	Triangulo
+Lady Gaga	Lady Gaga
+Luqada Hindo Yurub	Hindeŭropa lingvaro
+Breinigerberg	Breinigerberg
+Muammar Qadaafi	Muamar Kadafi
+Shabeel	Tigro
+Francesco Totti	Francesco Totti
+PSY	PSY (kantisto)
+Nissan	Nissan
+Walhade	Pendolo
+Skandinafiyen	Skandinavio
+Aruba	Arubo
+Shidaal	Nafto
+Isuduwe Habka Juqraafiga	Geografia koordinata sistemo
+Banki	Banko
+1	1
+10	10
+20	20
+30	30
+Abkhazia	Abĥazio
+40	40
+9	9
+7	7
+8	8
+Todoba	7 (nombro)
+Sideed	8 (nombro)
+Todobaad	Semajno
+Deero	Cervedoj
+Baraf	Glacio
+Toon	Ajlo
+Musée d'Orsay	Musée d'Orsay
+Anthroboloji	Antropologio
+Badacas	Ruĝa Maro
+13	13
+Koonfur Ossetia	Sud-Osetio
+Ulan Bator	Ulaanbaataro
+51	51
+Jasiirad	Insulo
+Cad	Blanko
+Madaw	Nigro
+37	37
+900	900
+Lordi	Lordi
+Basal	Cepo
+Lix	6 (nombro)
+700	700
+Yaanyo	Tomato
+George H. W. Bush	George H. W. Bush
+68	68
+89	89
+11	11
+Quang Binh	Provinco Quang Binh
+Entrena	Entrena
+Dhulbare	Ekvatoro
+NASA	NASA
+Benito Mussolini	Benito Mussolini
+15	15
+14	14
+17	17
+500	500
+150	150
+Qaamuus	Vortaro
+Bermuda	Bermudo
+Madax	Kapo
+Wellington	Velingtono
+23	23
+800	800
+Heesta qaranka	Nacia himno
+42	42
+Afarta jiho	Kompasdirektoj
+18	18
+Nuurad	Kalkoŝtono
+19	19
+16	16
+21	21
+26	26
+41	41
+32	32
+33	33
+Falastiin	Palestino
+Valletta	La-Valeto
+200	200
+38	38
+43	43
+39	39
+24	24
+79	79
+61	61
+104	104
+29	29
+102	102
+100	100
+Haramcad	Gepardo
+Afarta xilli	Sezono
+101	101
+105	105
+108	108
+Dhuxul Dhagax	Terkarbo
+22	22
+46	46
+25	25
+153	153
+156	156
+31	31
+28	28
+Liverpool	Liverpool
+85	85
+88	88
+76	76
+54	54
+60	60
+47	47
+Guumees	Strigoformaj birdoj
+Nederlaan Antiilis	Nederlandaj Antiloj
+Bahda Bisada	Felisedoj
+Ambeer	Ampero
+Isotope	Izotopo
+Göteborg	Göteborg
+Culeys	Pezo
+Geed Timir	Daktilopalmo
+Burris	Martelo
+Racibórz	Racibórz
+Odense	Odense
+Luqadaha Berberiga	Berbera lingvaro
+600	600
+400	400
+300	300
+Tilburg	Tilburg
+Dayax gacmeed	Artefarita satelito
+Taylor Swift	Taylor Swift
+Bariga Afrika	Orientafriko
+Fiat	Fiat
+Bartamaha Ameerika	Centra Ameriko
+Af-Cafari	Afara lingvo
+Magrib	Magrebo
+Amxaari	Amhara lingvo
+36)	36
+Tin	Haro
+Wareeg	Perimetro
+Portal:Af-maal	Portalo:Lingvo
+Dhar	Tekstila
+Kacdoonka masar	Egipta revolucio de 2011
+Willis Tower	Willis-Turo
+Kacbada	Kaaba
+Beatriks	Beatrikso (Nederlando)
+Dublad	Funelo
+159	159
+107	107
+103	103
+152	152
+240	240
+197	197
+70	70
+Duqa	Urbestro
+81	81
+69	69
+87	87
+65	65
+66	66
+67	67
+55	55
+34	34
+44	44
+35	35
+64	64
+151	151
+155	155
+50	50
+260	260
+45	45
+49	49
+230	230
+Zhengzhou	Ĝengĝoŭo
+154	154
+52	52
+82	82
+84	84
+73	73
+72	72
+62	62
+71	71
+75	75
+74	74
+83	83
+78	78
+77	77
+90	90
+80	80
+91	91
+190	190
+109	109
+53	53
+270	270
+Madaxweyne	Prezidanto
+63	63
+86	86
+401	401
+99	99
+98	98
+110	110
+137	137
+138	138
+140	140
+130	130
+210	210
+220	220
+180	180
+158	158
+157	157
+106)	106
+48	48
+97	97
+56	56
+93	93
+Alofi	Alofo
+57	57
+Jamestown	Ĵamestaŭno
+170	170
+171	171
+172	172
+58	58
+59	59
+139	139
+134	134
+135	135
+96)	96
+92	92
+133	133
+176	176
+131	131
+Fowdo	Anarkio
+Jasiirad Dhuleedka Carabta	Arabio
+250	250
+280	280
+290	290
+Mindi	Tranĉilo
+Masaajid	Moskeo
+Dumnad	Domeno (ludo)
+174	174
+International Standard Book Number	ISBN
+132	132
+178	178
+Luqadaha Tashaadiga	Ĉada Grupo
+Luqadaha Kushiitiga	Kuŝida lingvaro
+Afguri	Dialekto
+95	95
+94	94
+257	257
+Biriq	Fulmo
+Gacan	Mano
+Af-Oromo	Oroma lingvo
+Caleen	Folio
+Jilaa	Aktoro
+Niue	Niuo
+Luqadaha Semitiga	Semida lingvaro
+Justin Bieber	Justin Bieber
+Xusni Mubaarak	Hosni Mubarak
+Af-Tigrinya	Tigraja lingvo
+Af-Tigre	Tigrea lingvo
+Dhululubo	Cilindro
+Subag	Butero
+Yaasir Carafaat	Jaser Arafat
+Fara-ka hadal	Signolingvo
+136	136
+Injiil	Evangelio
+Alexander Graham Bell	Alexander Graham Bell
+Tasmaniya	Tasmanio
+Rotterdam	Roterdamo
+Saabuun	Sapo
+Mošovce	Mošovce
+Shakira	Shakira
+Jaamacadda Oxford	Universitato de Oksfordo
+Maxamuud Axmadinajaad	Mahmud Ahmadineĵad
+CD	Kompakta disko
+Al-Qaacida	Al-Kaida
+Maxamed Al-faatex	Mehmedo la 2-a
+Jeer	Amfibia hipopotamo
+Far	Fingro
+Furaat	Eŭfrato
+Gacanka Faarsiga	Persa Golfo
+Cilmiga bulshada	Socia scienco
+Somaliland	Somalilando
+Ciida sanadka cusub	Novjaro
+Babaay	Papajo
+Brisbane	Brisbano
+Fiitamiin	Vitamino
+Towraad	Leĝo de Moseo
+Koonfur Joorjiya iyo Koonfurta Jasiiradaha Sanwij	Sud-Georgio kaj Sud-Sandviĉinsuloj
+Maahmaah	Proverbo
+Noemi	Noemi
+Website	TTT-ejo
+Ido	Ido (lingvo)
+Sumeer	Sumero
+Kolonbo	Kolombo (urbo)
+Dariishad	Fenestro
+Medina	Medino
+Akkadiyaan	Akada lingvo
+Booliis	Polico
+UEFA	UEFA
+Tigris	Tigriso
+Koonfur Australia (gobol)	Suda Aŭstralio
+Baarlamaan	Parlamento
+Maatar	Materio
+Jaamacadda Cambridge	Universitato de Kembriĝo
+Fulinta (Dawlad)	Plenuma povo
+Hurdo	Dormo
+Neefta	Astmo
+Doon	Boato
+Queensland	Kvinslando
+Mohammed ali Clay,	Muhammad Ali
+Beyoncé Knowles	Beyoncé Knowles
+Urur	Aro (matematiko)
+Siligo	Siligo
+Riyo	Sonĝo
+Bur	Faruno
+Dhigaha	Longitudo
+Kimikal dibusocod	Kemia reakcio
+Den Haag	Hago
+Goriila	Gorilo
+Daylight saving time	Somera tempo
+Daanta galbeed	Cisjordanio
+Maraykanka assalkoodii	Indianoj
+Siinaa	Sinajo
+Albaab	Pordo
+Rihanna	Rihanna
+Hargab Doofaar	Porka gripo
+Cinjo	Ungo
+Ugaadhsi	Ĉasado
+Toshiro Mifune	Mifune Toshiro
+Waji	Vizaĝo
+Aleksander Fileming	Alexander Fleming
+Musmaar	Najlo
+Nabi Suleymaan C.S.	Salomono
+Yahoo	Yahoo!
+AK-47	AK-47
+Mowjad	Ondo
+Dhexroor	Diametro
+Bare	Instruisto
+Internet Movie Database	Interreta filma datumbazo
+Dalai Lama	Dalai-lamao
+Jilib (xubin)	Genuo
+ISO 4217	ISO 4217
+Tomas hobis	Thomas Hobbes
+Campora San Giovanni	Campora San Giovanni
+Jirjiroole	Ĥameleono
+Cusmaan bin Cafaan	Uthman ibn Affan
+Jaandi	Alojo
+Nafto	Dizeloleo
+Qare	Akvomelono
+Toban iyo shan	15 (nombro)
+Rikter Cabir	Skalo de Richter
+Xamaas	Hamas
+Ruhollah Khomeini	Ruhollah Ĥomejni
+Rajab Dayib Erdogaan	Recep Tayyip Erdoğan
+Mug	Volumeno
+Jamaal Cabdinaasir	Naser
+Bluetooth	Bludento
+Cali	Ali ibn Abi Talib
+Marinka Gaza	Gaza Sektoro
+Radio Studio 54 Network	Radio Studio 54 Network
+Cabitaan	Trinkaĵo
+Qoori	Strando
+Qabaal	Elipso (matematiko)
+Hobart	Hobarto
+Dayax Gacmeed	Kosmoveturilo
+Doorashada	Voĉdono
+Iskudhufasho	Multipliko
+Saxaraha Galbeed	Araba Demokratia Sahara Respubliko
+.et	.et
+Geeska Afrika	Korno de Afriko
+Lisa Gerrard	Lisa Gerrard
+Nabi Yaxye C.S.	Johano la Baptisto
+Jennifer Lopez	Jennifer Lopez
+Faraq	Subtraho
+Breda (Netherlands)	Breda
+Shuban	Diareo
+Nancy	Nancio
+Honiara	Honiaro
+PH	PH (kemia parametro)
+Asiyriya	Asirio
+Qardhaas	Rombo
+Xayla Siilaasi	Haile Selassie
+Xalab	Alepo
+Big Ben	Big Ben
+Dhererka Mowjadda	Ondolongo
+Nabi Daa'uud C.S.	Davido
+Borussia Dortmund	Borussia Dortmund
+Xidido	Radiko (planto)
+Mole	Molo
+Frank Lampard	Frank Lampard
+Qallal	Epilepsio
+Ramadaan	Ramadano
+Baqal	Mulo
+Garaam	Gramo
+Gacanka Cadmeed	Adena Golfo
+Beeraha laalaada	Pendĝardenoj de Babilono
+Maas	Mozo
+Waraabe	Hienedoj
+Sariir	Lito
+Madaxwayne kuxigeen	Vicprezidanto
+Cilmibaadhis	Scienca esplorado
+Faaranhaayt	Grado farenhejta
+Dhuldaaqsiin	Savano
+Dhogor	Lano
+Toobin	Konuso
+Daliban	Talibano
+MP3	MP3
+Ismaamulka Falastiin	Palestina aŭtonomio
+.ke	.ke
+Fernando Torres	Fernando Torres
+Gar	Barbo
+Nabi	Profeto
+Derbi	Muro
+SMS	Servo de mallongaj mesaĝoj
+Majladda Time	Time
+Dhedig	Ina sekso
+Farabadne	Centpieduloj
+Amedeo Avogadro	Amedeo Avogadro
+Shambay	Sovaĝa kato
+Federaalka	Federacio
+Sedex Geesoodka Bermuda	Bermuda triangulo
+Arjen Robben	Arjen Robben
+Xamid Karzai	Hamid Karzai
+Lab	Vira sekso
+Rey mysterio	Rey Mysterio
+Dayax madoobaad	Luna eklipso
+Taxane	Matrico
+Kayene	Kajeno
+Waran	Lanco
+Dadqalato	Kanibalismo
+Busbus	Varioleto
+Provinces of Argentina	Provincoj de Argentino
+Dekad	Haveno
+Dadka Berberiga	Berberoj
+Afganbi	Puĉo
+RSS	RSS
+Lacagta Meherka	Doto
+Barbaroole	Paralelogramo
+Leeb	Sago
+Awood Socota	Kineta energio
+Koor	Trapezo
+Qaanso	Arko (armilo)
+Amiibada	Amebo
+Zlatan Ibrahimović	Zlatan Ibrahimović
+GSM	GSM
+Dhaban	Vango
+Saint-Denis	Saint-Denis (Reunio)
+Baabiylooniya	Babilonio
+Muslim	Islamano
+Warqadda aqoonsiga	Identiga karto
+Template:Commonscat	Ŝablono:Commonscat
+Qoorgooye	Meningito
+399	399
+Iidi Amiin Daada	Idi Amin
+Kayseri	Kayseri
+CNN	CNN
+Dhakhaatiirta Bilaaxuduudaa	Kuracistoj sen landlimoj
+Manchester city	Manchester City F.C.
+Ilaahay	Troms
+John Dramani Mahama	John Dramani Mahama
+Luqada Masaarida	Egipta lingvo
+Anatooliya	Anatolio
+Nabi Ciise	Isa bin Marjam
+Cudurka Ebola	Ebola malsano
+Template:Taxobox	Ŝablono:Taksonomio
+Toyota	Toyota
+Osmose	Osmozo
+Af-Hawsa	Haŭsa lingvo
+Saxan	Telero
+Jalaal Daalabaani	Ĝalal Talabani
+Ismaaciil Cumar Geelle	Ismail Omar Guelleh
+Nuur Al-Maliki	Nuri al-Maliki
+Mark Rutte	Mark Rutte
+Robinho	Robinho
+Bada Carbeed	Araba Maro
+Dhircun	Herbovorulo
+Calanka Denmark	Dannebrog
+Jay-Z	Jay-Z
+Sahel	Sahelo
+Henry Kissinger	Henry Kissinger
+Flums	Flums
+Nabi Aadam C.S.	Adamo (Biblio)
+Shumac	Kandelo
+Wikipedia:Sharaxaada Maqaalada Xulka Ah	Vikipedio:Proponoj por elstaraj artikoloj
+Wikipedia:Sharaxaada Maqaalada Cusub	Vikipedio:Proponoj por legindaj artikoloj
+Dhalo	Botelo
+Raqay	Tamarindo (arbo)
+Shabeelada Tamil	Tamilaj tigroj
+Qaangaadh	Plenkreskeco
+Enjerneer	Inĝeniero
+Gacanka Caqaba	Akaba Golfo
+KwaZulu-Natal Province	Kvazulu-Natalo
+AFC Ajax	AFC Ajax
+Qaado	Kulero
+VOIP	Interreta telefono
+Jibriil	Ĉefanĝelo Gabrielo
+Astaamayn	Interpunkcio
+Taksi	Taksio
+Soqotra	Sokotra
+Timor	Timoro
+Almere	Almere
+Xoor-dubbur	Mefito
+Dooli	Hejma muso
+Suul	Dikfingro
+Mesut ozil	Mesut Özil
+Turki	Turkoj
+Ukun	Kokina ovo
+HyperText	Hiperteksto
+Ibb	Ibb
+Lobamba	Lobambo
+Walxaha	Periodo de la perioda tabelo
+Magarete2	Margareta la 2-a (Danio)
+Calanka jabuuti	Flago de Ĝibutio
+Xareed	Nesala akvo
+Calanka Suudaan	Flago de Sudano
+Daanyeer	Homoideoj
+Sodium Hydroxide	Natria hidroksido
+Xoolo	Bruto (agrikulturo)
+Cirid	Gingivo
+Chalcogen	Elemento de grupo 16
+Tufaax	Pomarbo
+Shakaal	Hipotenuzo
+Biniktojiin	Elemento de grupo 15
+Lambedusa	Lampedusa
+Manuel Neuer	Manuel Neuer
+Jalmad	Bolkruĉo
+Wiz Khalifa	Wiz Khalifa
+Barfasoor	Profesoro
+Maydhax	Ksilemo
+Dhax kujir	Lando sen maraliro
+Andalus	Al-Andalus
+Dhadhan	Gusto
+ICAO	Internacia Civila Aviada Organizo
+.so	.so
+Western Cape Province	Okcidenta Kablando
+Mario Balotelli	Mario Balotelli
+Qiiq	Fumo
+Eastern Cape Province	Orienta Kablando
+Cerebellum	Cerbeto
+Haaruun Alrashiid	Harun ar-Raŝid
+Kaftan	Ŝerco
+Funaanad	T-ĉemizo
+IMMAGINE&POESIA	Immagine & Poesia
+Tangent	Tanĝanto
+Niisaabuur	Nejŝaburo
+Khilaafada Islaamka	Kalifujo
+Cadan	Adeno
+Het Wilhelmus	Wilhelmus
+Universidade Federal de Minas Gerais	Universidade Federal de Minas Gerais
+Mpumalanga Province	Mpumalanga
+Northern Cape Province	Norda Kablando
+Mamawdsaw	Mamudzo
+Gauteng Province	Ĥaŭtengo
+Lug	Kruro
+Cagaarshow	Iktero
+Du gamla, Du fria	Du gamla, du fria
+Shaydaanimo	Satanismo
+Limpopo Province	Provinco Limpopo
+LG	LG Group
+Ogaden	Ogadeno
+Wabiga Jubba	Juba (rivero)
+Qooleey	Leterkolombo
+Wabiga Shabeelle	Ŝabele
+Marsho	Dentrado
+Nabi Yuusuf	Jozef (filo de Jakob)
+Mille	Solvaĵo
+Degmo	Distrikto
+Dambas	Cindro
+Eduard Douwes Dekker	Eduard Douwes Dekker
+Yuusuf Islaam	Cat Stevens
+Kiyaawe	Boltilo
+Awood Kaydsan	Potenciala energio
+Universidade Estadual de Feira de Santana	Universidade Estadual de Feira de Santana
+Aadan Cabdulle Cusmaan	Aden Abdullah Osman Daar
+Malawad	Rektumo
+Universidade Federal da Bahia	Federacia Universitato de Bahio
+Centro Federal de Educação Tecnológica de Minas Gerais	Centro Federal de Educação Tecnológica de Minas Gerais
+Calanka Soomaaliya	Flago de Somalio
+Dhuuso	Furzo
+Free State Province	Provinco Liberŝtato
+Maqal	Aŭdo
+Oorfane	Orfejo
+Ubuc	Torso
+Meles Zenawi	Meles Zenavi
+Wahaabi	Ŭahabismo
+Diffusion	Difuzo
+DDT	DDT
+Ibrahim Affelay	Ibrahim Afellay
+Angry Birds	Angry Birds
+Daango	Krevmaizo
+Qalin	Plumo (skribilo)
+Aadaan	Azano
+Usher	Usher Raymond
+Hummaag noqod	Reflekto
+North West Province	Nordokcidenta Provinco (Sud-Afriko)
+Lelystad	Lelystad
+Midabada Asaasiga	Baza koloro
+Isnidaamis	Skabio
+Daaf	Konjunktivito
+CAF	CAF
+Hargeysa	Hargejso
+Xijaas	Heĝazo
+Kaliber	Kalibro
+Geed Hindi	Hinda azadiraĥto
+Jidh	Korpo (biologio)
+Qosol	Rido
+Nektar	Nektaro
+Mount kenya	Monto Kenja
+Uunsi	Olibano
+Jomo Kenyatta	Jomo Kenyatta
+Gacan (Joomitiri)	Radiuso
+Centimetre	Centimetro
+Millimeter	Milimetro
+Baadiye	Ruro
+Hunguriga neefta	Traĥeo
+Bowdo	Femurosto
+Fanaan	Kantisto
+Huulaaku Khan	Hulagu
+Wadan soo kobcooyo	Evolulando
+Dhuxul	Lignokarbo
+Shansho	Tibio
+Saac (faah faahin)	Brakhorloĝo
+Alchemist(Buug)	La alkemiisto
+Sanab	Statuo
+Nabi Ayuub C.S.	Ijob
+Fatima bint Muxamed	Fatima bint Muhamad
+Baras	Vitiligo
+Daan	Makzelo
+Ricir	Vertebro
+Qol	Ĉambro
+Dhado	Humideco
+Curiye	Elemento
+Mucaawiye bin Abii Sufyaan	Muawiya ibn Abi Sufyan
+Mahathir Bin Maxamed	Mahathir bin Mohamad
+Bidaar	Kalveco
+KLM	Koninklĳke Luchtvaart Maatschappĳ
+Mitsubishi	Mitsubishi
+Tamaashiir	Kreto (ŝtono)
+Daxal	Rusto
+Saxaro	Stala sterko
+Gaamur	Gudro
+Tariikhda Shiikh Axmed Yaasiin	Aĥmed Jasin
+Gows	Vangodento
+Shanbal	Cimbalo
+Harar	Harar
+Golcas	Gazelo
+Abuu Xaniifa	Abu Hanifah
+Ammonium	Amonio
+Session Initiation Protocol	Session Initiation Protocol
+Salafiya	Salafismo
+Berbera	Berbera (urbo)
+Bergen op Zoom	Bergen op Zoom
+Mengista Xayle Maryam	Mengistu Haile Mariam
+Ciraaqi Diinaar	Iraka dinaro
+Sin	Kokso
+Axmed Binu Xambal	Ahmad ibn Hanbal
+Sheybaar	Mikroskopo
+Peso (Arjantiina)	Argentina peso
+Yamanta Koonfureed	Demokratia Popola Respubliko Jemeno
+Assur	Aŝuro
+Decimetre	Decimetro
+Sean paul	Sean Paul
+Yazidi (yasiidi)	Jezidoj
+Calanka somaliland	Flago de Somalilando
+Soomaali Galbeed	Somala regiono
+Shilin Kiinyaati	Kenja ŝilingo
+Federaaliisim	Federismo
+Biomolikule	Biomolekulo
+Birr	Etiopa birro
+Jaad	Ĉato
+Cows	Herbotapiŝo
+Kung fu	Kungfuo
+Maxamed Siyaad Barre	Siad Barre
+Salo	Salo (Finnlando)
+Ívi Adámou	Ivi Adamu
+Cafar	Afaroj
+Cumar Mukhtaar	Omar Muĥtar
+Angalool	Konko
+Budhcad badeeda geeska afrika	Pirateco en Somalio
+Ayaan Xirsi Cali	Ayaan Hirsi Ali
+Ururka Dawladaha aan la aqoonsan Wali	Organizaĵo de Nereprezentitaj Nacioj kaj Popoloj
+Qof	Persono
+Darawal	Ŝoforo
+Addimo-yaqaan	Ortopedio
+Dhul (dhulka lagu socdo)	Planko
+C.H	BC
+Adam Levine	Adam Levine
+Hogaamiye Kooxeed	Militsenjoro
+Anggun	Anggun
+Carlos the Jackal	Ilich Ramírez Sánchez
+Mombaaso	Mombasa
+Alexa Internet	Alexa Internet
+Daariq ibn Ziyaad	Tarik ibn Zijad
+Seed	Tendeno
+Suurad	Surao
+Xadiis	Hadito
+Sunna	Sunao
+Allaah	Alaho
+Salaad	Salat
+Xaj	Haĝo
+Malag	Anĝelo
+Astaannta Qaranka ee Kolombiya	Blazono de Kolombio
+Xisbiga shacabka iyo xoriyada Holalnd	Popola Partio por Libereco kaj Demokratio
+Qeshm	Keŝm
+Dadka Soomaaliyeed	Somaloj
+Dagaalkii sokeeye ee Soomaaliya	Somalia enlanda milito
+Macrakadii Ceyn Jaaluut	Batalo de Ajn Ĝalut
+FIFA	FIFA
+Uumi	Vaporo
+Iman model	Iman
+Laf	Osto
+Al Hudaydah	Al-Hudaida
+Kismaayo	Kismajo
+R. Kelly	R. Kelly
+Fool	Incizivo
+Bakool	Bakool
+Nabi Yacquub C.S.	Jakobo
+Imaamu Shaafici	Al-Shafi'i
+Xasan Guuleed Abtidoon	Hassan Gouled Aptidon
+Booc	Calotropis
+Al Mahwit	Al Mahŭit
+Al Mukalla	Al-Mukala
+Sheekh Yaasir Al-Xabiib	Yassero Al-Habib
+Imaam Maalik	Malik ibn Anas
+Madfac	Grenado (eksplodaĵo)
+Oromo	Oromoj
+Ibn Nafiis	Ibn al-Nafis
+Dhulka Talyaaniga ee Soomaaliya	Itala Somalio
+Saytuun	Gujavo
+Macawiis	Sarongo
+Gob	Ziziphus mauritiana
+Tooreey	Klingo
+Boosaaso	Bosaso
+Dowladda federaalka kumeelgaarka	Transira Federacia Registaro
+Abu Bakr	Abu Bakr
+Cali maxamed Geedi	Ali Mohamed Gedi
+Marek Grechuta	Marek Grechuta
+Jeddah	Ĝido
+Shukaansi	Pariĝada memmontrado
+Woqooyi bari	Nordorienta provinco de Kenjo
+Masjid al-Aqsa	Moskeo Al-Aksa
+Dadka Tigriga	Tigrajoj
+Computer Engineering	Komputada inĝenierarto
+Masjid al-Xaram	Masĝid al-Haram
+Amxaaro	Amharoj
+Ta'izz	Taiz
+Calooleey	Tripo
+Dibi	Okso
+Lafdhabar	Vertebraro
+Paris Saint-Germain FC	Paris SG
+Ahlu sunno waljamaaca	Sunaismo
+Puntland	Puntlando
+Qureysh	Kurajŝoj
+Masjidka Nabiga	Moskeo de la Profeto
+Dagaalkii uxud	Batalo de Uhudo
+Sambuus	Samoso (manĝaĵo)
+Baydhabo	Baidoa
+G-Spot	Punkto de Gräfenberg
+Aakhiro	Postmorto
+Jowhar	Jawhar
+Shimbiris	Ŝimbiriso
+Marka	Merka
+Hiiraan	Hiiraan
+Dhulka Biritishka ee Soomaaliya	Brita Somalio
+Nabi Isxaaq C.S.	Isaak
+Shabeellaha Dhexe	Shabeellaha Dhexe
+Hanti maguurto	Nemoveblaĵo
+Liiska dalalka dad ahaan	Listo de landoj laŭ loĝantaro
+Bari (Gobol)	Bari (Somalio)
+Midowga Maxkamadaha Islaamiga	Islamaj Kortumoj
+Taleefoonada fiilada	Fiksa telefono
+UNICEF	UNICEF
+Sanaag	Sanaag
+Jigjiga	Ĝiĝiga
+Centro Federal de Educação Tecnológica Celso Suckow da Fonseca	Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+Garoonka Diyaaradaha ee Da Nang	Flughaveno Da Nang
+Awdal	Awdal
+Banaadir	Banaadir
+Baay	Bay (Somalio)
+Sedjibeke	Kubo (geometrio)
+Beledweyne	Beledweyne
+Garoowe	Garoowe
+Kilometer	Kilometro
+Xaawo	Eva
+Soor	Maizfaruno
+Liiska magaalooyinka adduunka dad ahaan	Listo de milionurboj
+Guraag	Guragoj
+Eurobeat	Eŭrobato
+Sool	Sool (Somalio)
+York University	York University
+Buurta Xira	Hira
+Gedo	Gedo
+Mareexaan	Marehanoj
+Gaalkacyo	Galkajo
+Guddi	Komitato
+Togdheer	Togdheer
+Goobogali	Plurelekta demandaro
+Galguduud	Galguduud
+Woqooyi Galbeed	Woqooyi Galbeed
+Shabeellaha Hoose	Shabeellaha Hoose
+Mudug	Mudug
+Jubbada Hoose	Jubbada Hoose
+Saxiixu Muslim	Sahih Muslim
+Boorama	Borama
+Taran	Produto
+Wikipedia:Caawinaad	Helpo:Enhavo
+Miraha Mucjisada	Synsepalum dulcificum
+Pontifícia Universidade Católica de Minas Gerais	Pontifícia Universidade Católica de Minas Gerais
+Galmudug	Galmudugo
+Dawladii Mamaaliikta	Mamelukoj
+Burco	Burco
+Cadaad	Senegala akacio
+Gadabuursi	Gadabursioj
+Bu’aale	Bu'aale
+Jamaame	Ĝamame
+Ceerigaabo	Erigavo
+Laascaanood	Laascaanood
+Buuloburde	Buuloburde
+Saxiixul Bukhaari	Sahih Buĥari
+Calool	Stomako
+Jubbada Dhexe	Jubbada Dhexe
+Nugaal	Nugaal
+Lambar Tubaxan	Triuma sistemo
+Ciidamada Qalabka Sida ee Masaarida	Egiptaj Armitaj Fortoj
+Dadka Tigrega	Tigreoj
+Liverpool FC	Liverpool FC
+Makemake	Makemako
+Ciise (qabiil)	Isaoj
+Wikipedia:Safaarad	Vikipedio:Ambasadorejo
+Naafto	Diesel (apartigilo)
+U qeybin	Divido
+Dir	Diroj (klano)
+Maakhir	Maĥiro
+Imtixaan	Ekzameno
+Agnes Monica	Agnes Monica
+Category:Jarmal	Kategorio:Germanio
+Category:Talyaaniga	Kategorio:Italio
+Category:Qaramada Midoobey ee Maraykanka	Kategorio:Usono
+Category:Ruushka	Kategorio:Rusio
+Category:Midowga boqortooyada Britan	Kategorio:Unuiĝinta Reĝlando
+Category:Isbania	Kategorio:Hispanio
+Category:Shiinaha	Kategorio:Ĉinio
+Category:Hindiya	Kategorio:Barato
+Category:Sucuudiga	Kategorio:Sauda Arabio
+Category:Turki	Kategorio:Turkio
+Category:Koonfur Afrika	Kategorio:Sud-Afriko
+Category:Masar	Kategorio:Egiptio
+Category:Iiraan	Kategorio:Irano
+Category:Arjantiina	Kategorio:Argentino
+Category:Afqaanistan	Kategorio:Afganio
+Category:Austriya	Kategorio:Aŭstrio
+Category:Itoobiya	Kategorio:Etiopio
+Category:Ciraaq	Kategorio:Irako
+Category:Nederland	Kategorio:Nederlando
+Category:Bakistaan	Kategorio:Pakistano
+Category:Boland	Kategorio:Pollando
+Category:Bortuqaal	Kategorio:Portugalio
+Category:Suudaan	Kategorio:Sudano
+Category:Iswisarland	Kategorio:Svislando
+Category:Fiyetnam	Kategorio:Vjetnamio
+Category:Shimbir	Kategorio:Birdoj
+Category:Fiisikis	Kategorio:Fiziko
+Category:Bayoloji	Kategorio:Biologio
+Category:Kimisteri	Kategorio:Kemio
+Category:Taariikh	Kategorio:Historio
+Category:Juqraafi	Kategorio:Geografio
+Category:Diin	Kategorio:Religio
+Category:Ciyaaraha	Kategorio:Sporto
+Category:Saynis	Kategorio:Scienco
+Category:Filimaanta	Kategorio:Kino
+Category:Isgaadhsiin	Kategorio:Komunikado
+Bolol	Serpula lacrymans
+Hawiye	Havijeoj
+Template:Box-footer	Portalo:Box-footer
+Cal Madow	Al Mado
+Isaaq	Isakoj
+Category:Filasoofiyada	Kategorio:Filozofio
+Category:Cilminafsi	Kategorio:Psikologio
+Category:Masiixiyad	Kategorio:Kristanismo
+Category:Islaam	Kategorio:Islamo
+Goronyo soomaaliyeed	Somalia struto
+Garbisaar	Kaptuko
+Dafo	Aglo
+Badh	Duono
+May 2013	Majo de 2013
+Diig	Virkoko
+Kobra	Kobro
+Nabi Yuunus C.S.	Jona (profeto)
+Dad	Popolo
+Universidade do Estado de Minas Gerais	Universidade do Estado de Minas Gerais
+Seedi	Bofrato
+Laan	Branĉo
+Category:Dhaqan	Kategorio:Kulturo
+Category:Tobaneeyada sano	Kategorio:Jardekoj
+Category:Sanad	Kategorio:Jaroj
+Category:Qaaradaha	Kategorio:Kontinentoj
+Edmond Debeaumarché	Edmond Debeaumarché
+Dumaashi	Bofratino
+Portal:Cilmi Fallag	Portalo:Astronomio
+Portal:Juqraafi	Portalo:Geografio
+Gunbur	Piramido (geometrio)
+Jano	Paradizo
+Saami qumman	Rilatumo
+Anna Rita Del Piano	Anna Rita Del Piano
+Category:Wikipedia bots	Kategorio:Vikipedio:Robotoj
+Cufka atamka	Atomomaso
+Leelkase	Mumin-Adanoj
+Hotmail	Windows Live Hotmail
+Wikipedia:Su'aal/Hordhac	Vikipedio:Informo
+Template:Wikipedialang	Ŝablono:ĈefPaĝo/AliajLingvoj
+Category:Wadamada	Kategorio:Landoj
+Wikipedia:Maamulka	Vikipedio:Administrantoj
+Category:Shaqsiyadaad	Kategorio:Personoj
+Wikipedia:Requests for adminship	Vikipedio:Administrantoj/kandidatoj
+Wikipedia:Bots	Vikipedio:Roboto
+Category:Amin	Kategorio:Tempo
+Category:Internet	Kategorio:Interreto
+Category:Siyaasad	Kategorio:Politiko
+Category:Waxbarasho	Kategorio:Edukado
+Category:Araga	Kategorio:Optiko
+Category:Fan	Kategorio:Arto
+Masar	Egiptujo
+Category:Filasoofiyaasha	Kategorio:Filozofoj
+Category:Doorashooyinka	Kategorio:Baloto
+Template:Bot	Ŝablono:Bot
+Kanada	Kanado
+Category:Denmark	Kategorio:Danio
+Category:Giriig	Kategorio:Grekio
+Category:Iswiidhan	Kategorio:Svedio
+Category:Islofaakiya	Kategorio:Slovakio
+Wikipedia:Copyright	Vikipedio:Aŭtorrajto
+Category:Dagaalada	Kategorio:Militoj
+Category:Microsoft	Kategorio:Mikrosofto
+Wikipedia:Ogaysiiska Maamulka	Vikipedio:Diskutejo/Administrejo
+Wikipedia:Goob/Farsamo	Vikipedio:Diskutejo/Teknikejo
+Template:Flagicon	Ŝablono:Flagikono
+Category:Wadamada Yurub	Kategorio:Eŭropaj landoj
+Category:Yurub	Kategorio:Eŭropo
+Wikipedia:Bogga Isticmaalaha	Vikipedio:Uzantopaĝo
+Portal:Dhacdooyinka Hadda	Vikipedio:Aktualaĵoj
+Template:Documentation	Ŝablono:Dok
+Category:Delete	Kategorio:Vikipedio:Forigoj
+Wikipedia:Ilaalinta badelka	Vikipedio:Ŝlosendaj paĝoj
+Wikipedia:Albaabka bulshada	Portalo:Komunumo
+Category:Luqadaha wikipediyaasha	Kategorio:Vikipediistoj laŭ lingvo
+Wikipedia:Shan walxood	Vikipedio:Kvin principoj
+Wikipedia:Userboxes	Vikipedio:Uzantoskatolo
+Wikipedia:Saxiix	Helpo:Subskribo
+Sung Jae-ki	Sung Jae-gi
+Caa'isha binti Abiibakar	Aiŝa
+Ganacsi	Profitcela organizaĵo
+Instituto Federal da Bahia	Federacia Instituto de Bahio
+Template:Softredirect	Ŝablono:Intervikia plusendilo
+Template:Tirtir	Ŝablono:Forigu tuj
+Category:Teknooloji	Kategorio:Teknologio
+Category:Afafka	Kategorio:Lingvoj
+Category:Kalandar	Kategorio:Kalendaro
+Category:Wikipedia	Kategorio:Vikipedio
+Jijeele	Ĝiĝeleoj
+Wikipedia:Masuul la'aan guud	Vikipedio:Malgarantio
+Category:Pages with broken file links	Kategorio:Paĝoj kun eraraj dosierligiloj
+Wikipedia:Tirakoob	Vikipedio:Statistiko
+Wikipedia:Xeerka Wiki	Vikipedio:Respekto de la privateco
+Template:Navbox	Ŝablono:Navigilo2
+Template:Xaqiiq	Ŝablono:Mankas fonto
+Portal:Siiro	Portalo:Homoj
+Template:!	Ŝablono:!
+Template:Tnavbar	Ŝablono:Tnavbar
+Template:Nowrap	Ŝablono:Nrsp
+Wikipedia:Maqaalada aan u baahan laheen	Vikipedio:Listo de havendaj artikoloj
+Category:Afrika	Kategorio:Afriko
+Category:Elektaroonig	Kategorio:Elektroniko
+Category:Kitaabka quduska	Kategorio:Biblio
+Category:Buugta	Kategorio:Libroj
+Category:Bilaha	Kategorio:Monatoj
+Template:Babel	Ŝablono:Babelejo
+Template:Reflist	Ŝablono:Referencoj
+Category:Isbitaal	Kategorio:Malsanulejoj
+Wikipedia:Soo bandhigida xogta	Vikipedio:Citi fontojn
+Wikipedia:Habka maqaalada Xulka Ah	Vikipedio:Kriterioj por elstaraj artikoloj
+Template:Gnunote	Ŝablono:Gnunote
+Template:Digniin	Ŝablono:Atentu
+Template:Gumud	Ŝablono:Ĝermo
+Template:User ar-1	Ŝablono:Vikipediisto ar-1
+Template:See also	Ŝablono:Vidu ankaŭ
+Template:User da-2	Ŝablono:Vikipediisto da-2
+Template:User da	Ŝablono:Vikipediisto da
+Template:User de	Ŝablono:Vikipediisto de
+Template:User de-1	Ŝablono:Vikipediisto de-1
+Template:User es	Ŝablono:Vikipediisto es
+Template:User de-3	Ŝablono:Vikipediisto de-3
+Template:User en-3	Ŝablono:Vikipediisto en-3
+Template:User en-1	Ŝablono:Vikipediisto en-1
+Template:User en-2	Ŝablono:Vikipediisto en-2
+Template:User en-4	Ŝablono:Vikipediisto en-4
+Template:User fi	Ŝablono:Vikipediisto fi-D
+Template:User en-0	Ŝablono:Vikipediisto en-0
+Template:User en	Ŝablono:Vikipediisto en
+Template:User de-2	Ŝablono:Vikipediisto de-2
+Template:User fi-1	Ŝablono:Vikipediisto fi-1
+Template:User fr-1	Ŝablono:Vikipediisto fr-1
+Template:User sk	Ŝablono:Vikipediisto sk
+Template:User ja	Ŝablono:Vikipediisto ja
+Template:User ja-1	Ŝablono:Vikipediisto ja-1
+Template:User fr	Ŝablono:Vikipediisto fr
+Category:Aasiya	Kategorio:Azio
+Category:Jili	Kategorio:Ĉilio
+Category:Ameerikada koonfureed	Kategorio:Sudameriko
+Template:Intricate template	Ŝablono:Esotera
+Template:Mod	Ŝablono:Mod
+Template:User es-2	Ŝablono:Vikipediisto es-2
+Category:Maalmaha usbuuca	Kategorio:Tagoj de la semajno
+Template:Click	Ŝablono:Ligo el bildo
+Template:Number of defined parameters	Ŝablono:Nombro de difinitaj parametroj
+Template:Image label	Ŝablono:Marko sur bildo
+Template:Kutaal	Ŝablono:Geografia ĉirkaŭaĵo
+Template:Sidebar	Ŝablono:Flanka kesto2
+Template:Navigation templates	Ŝablono:Navigilaro
+Template:Maqaal Xul Ah	Ŝablono:Elstara
+Category:Gaana	Kategorio:Ganao
+Category:User en	Kategorio:Vikipediisto en
+Category:User en-2	Kategorio:Vikipediisto en-2
+Template:Infobox	Ŝablono:Informkesto
+Template:User eo	Ŝablono:Vikipediisto eo
+Template:User zh	Ŝablono:Vikipediisto zh
+Category:Farta	Kategorio:Alfabeto
+Template:Template other	Ŝablono:Ĉu ŝablono
+Template:Pp-template	Ŝablono:Pp-ŝablono
+Template:Min	Ŝablono:Minimumo
+Category:Astaannta Qaranka	Kategorio:Blazonoj
+Category:Beeraha	Kategorio:Agrikulturo
+Template:Maamulka	Ŝablono:Admininfo
+Category:Dowladaha	Kategorio:Ŝtato
+Category:Bahda Midaysay Qoraxdu	Kategorio:Sunsistemaj planedoj
+Category:Falastiin	Kategorio:Palestino
+Category:Language user templates	Kategorio:Babelaj ŝablonoj
+Template:Navbox subgroup	Ŝablono:Navigilo subgrupo
+Template:Farac	Ŝablono:Informkesto etnaj grupoj
+Template:Category redirect	Ŝablono:Kategoria alidirekto
+Template:Macluumaad Qof Madax Ah	Ŝablono:Informkesto politikisto
+Category:Kacaanka	Kategorio:Revoluciuloj
+Template:Border	Ŝablono:Bordero
+Category:Qoraaga	Kategorio:Verkistoj
+Category:Jaamacadaha	Kategorio:Universitatoj
+Template:Hidden begin	Ŝablono:Kaŝskatolo komenco
+Template:User pt-1	Ŝablono:Vikipediisto pt-1
+Template:Infobox planet	Ŝablono:Informkesto Planedo
+Template:User nl	Ŝablono:Vikipediisto nl
+Template:Infobox website	Ŝablono:Informkesto retejo
+Template:Image label end	Ŝablono:Marko sur bildo fino
+Template:Documentation subpage	Ŝablono:Ŝablona navigado
+Category:Dekedaha	Kategorio:Haveno
+Template:Lang-la	Ŝablono:Lang-la
+Template:Macluumaad askariga	Ŝablono:Informkesto soldato
+Template:User	Ŝablono:Uzanto2
+Template:References	Ŝablono:Sen fontoj
+Template:Jadwal	Ŝablono:Belatabelo
+Template:PD-because	Ŝablono:PD
+Template:Infobox former country	Ŝablono:Informkesto pereinta ŝtato
+Template:Infobox Political post	Ŝablono:Informkesto ofico
+Template:Kaydka wadahadalka	Ŝablono:Arkivo de diskutoj
+Template:User de-0	Ŝablono:Vikipediisto de-0
+Template:Usbuuc	Ŝablono:Tagoj de la semajno
+Template:User fr-0	Ŝablono:Vikipediisto fr-0
+Template:Largest cities	Ŝablono:Plej grandaj urboj
+Template:Hidden end	Ŝablono:Kaŝskatolo fino
+Category:Booliis	Kategorio:Polico
+Template:Fb	Ŝablono:Fb
+Template:Astaamayn	Ŝablono:Interpunkcio
+Template:Geobox	Ŝablono:Geokesto
+Template:Dhintey	Ŝablono:Mortodato
+Template:Saynis	Ŝablono:Scienco
+Template:High-risk	Ŝablono:Ofte uzata
+Template:User pt-0	Ŝablono:Vikipediisto pt-0
+Template:User pt-3	Ŝablono:Vikipediisto pt-3
+Template:User pt-2	Ŝablono:Vikipediisto pt-2
+Category:User sk	Kategorio:Vikipediisto sk
+Category:User eo	Kategorio:Vikipediisto eo
+Category:User ja	Kategorio:Vikipediisto ja
+Category:User da-2	Kategorio:Vikipediisto da-2
+Category:Ganacsi	Kategorio:Negoco
+Template:Correct title	Ŝablono:Malsama titolo
+Category:User ar	Kategorio:Vikipediisto ar
+Category:Jasiirad	Kategorio:Insuloj
+Category:User da	Kategorio:Vikipediisto da
+Category:User sk-N	Kategorio:Vikipediisto sk-D
+Category:User de	Kategorio:Vikipediisto de
+Category:User fi	Kategorio:Vikipediisto fi
+Category:Nabiyada Islaamka	Kategorio:Profetoj en islamo
+Category:User ja-1	Kategorio:Vikipediisto ja-1
+Category:User ko	Kategorio:Vikipediisto ko
+Template:User date	Ŝablono:Vikipediisto dato
+Template:Macluumaad	Ŝablono:Informo por dosiero
+Template:Biological classification	Ŝablono:Biologia klasifikado
+Wikipedia:Babel	Vikipedio:Babelejo
+Category:Abwaanada	Kategorio:Poetoj
+Template:Sidebar with collapsible lists	Ŝablono:Flanka kesto kun kaŝeblaj listoj
+Category:Badaha	Kategorio:Maroj
+Template:No2	Ŝablono:Ne2
+Category:Ingiriiska	Kategorio:Anglio
+Category:Taariikhda Soomaaliya	Kategorio:Historio de Somalio
+Template:Yes2	Ŝablono:Jes2
+Category:Ururada caalamiga ah	Kategorio:Internaciaj organizaĵoj
+Category:Gobolada Soomaaliya	Kategorio:Regionoj de Somalio
+Category:Juquraafiga Soomaaliya	Kategorio:Geografio de Somalio
+Category:Madaxda Soomaaliya	Kategorio:Prezidantoj de Somalio
+Category:Cilmiga bulshada	Kategorio:Socia scienco
+Category:Wadamada Afrika	Kategorio:Afrikaj landoj
+Template:User da-3	Ŝablono:Vikipediisto da-3
+Template:User pt-4	Ŝablono:Vikipediisto pt-4
+Category:1542	Kategorio:1542
+Universidade Federal do Recôncavo da Bahia	Universidade Federal do Recôncavo da Bahia
+Category:Farshaxanka	Kategorio:Pentristoj
+Wikipedia:Xeerka adeegsiga sawirada	Vikipedio:Bildorajtoj
+Template:Raadiyoow	Ŝablono:Informkesto radiostacio
+Wikipedia:Habaynta Maqaalada Cusub	Vikipedio:Ne plu legindaj artikoloj
+Category:Dhirta	Kategorio:Arboj
+Portal:Hiddaha iyo Dhaqanka	Portalo:Kulturo
+Wikipedia:Habaynta Maqaalada Xulka Ah	Vikipedio:Ne plu elstaraj artikoloj
+Portal:Baayooloji	Portalo:Biologio
+Category:Juquraafiga Hindiya	Kategorio:Geografio de Barato
+Category:Jilaaga	Kategorio:Aktorinoj
+Category:Jabuuti	Kategorio:Ĝibutio
+Category:Ereteriya	Kategorio:Eritreo
+Category:Kiinya	Kategorio:Kenjo
+Category:Komoros	Kategorio:Komoroj
+Category:Libiya	Kategorio:Libio
+Category:Diinta Soomaaliya	Kategorio:Religio en Somalio
+Category:Dhaqaalaha Soomaaliya	Kategorio:Ekonomio de Somalio
+Category:Lacagta	Kategorio:Monunuoj
+Category:Webiyada	Kategorio:Riveroj
+Category:Juquraafiga Jabuuti	Kategorio:Geografio de Ĝibutio
+Template:User pt	Ŝablono:Vikipediisto pt
+Category:Holland	Kategorio:Holando
+Category:Soomaaliya	Kategorio:Somalio
+Category:Webiyada Soomaaliya	Kategorio:Riveroj en Somalio
+Category:Juquraafiga Yemen	Kategorio:Geografio de Jemeno
+Category:Magaalooyinka Yemen	Kategorio:Urboj de Jemeno
+Template:Maanta	Ŝablono:Hodiaŭ
+Category:User nl	Kategorio:Vikipediisto nl
+Category:Hay'ada laanqayrta cas	Kategorio:Ruĝa Kruco
+Category:Suuriya	Kategorio:Sirio
+Category:Qarniyada	Kategorio:Jarcentoj
+Category:Qarnigii 16aad	Kategorio:16-a jarcento
+Category:Qooriyada	Kategorio:Plaĝoj
+Category:Filasoofiyaasha Jarmalka	Kategorio:Germanaj filozofoj
+Category:Esoteric templates	Kategorio:Ŝablono:Esoteraj
+Category:Harraha Afrika	Kategorio:Lagoj de Afriko
+Category:Madaxda Faransiiska	Kategorio:Prezidantoj de Francio
+Category:Madaxda Iiraan	Kategorio:Prezidantoj de Irano
+Category:Norway	Kategorio:Norvegio
+Category:Yemen	Kategorio:Jemeno
+Category:Malaay	Kategorio:Fiŝoj
+Category:Mutolojiyada	Kategorio:Mitologio
+Category:Qaamuus	Kategorio:Vortaroj
+Category:Axdiga Cusub	Kategorio:Nova testamento
+Category:Ilko	Kategorio:Dento
+Category:Dhaqanka Soomaalida	Kategorio:Kulturo de Somalio
+Category:Wikimedia	Kategorio:Vikimedio
+Category:Radio	Kategorio:Radio
+Category:Xayawaan	Kategorio:Bestoj
+Category:Jamhuriyadda	Kategorio:Respublikoj
+Category:Bartamaha Ameerika	Kategorio:Mezameriko
+Category:Caasimadaha	Kategorio:Ĉefurboj
+Category:Magaalooyinka Hindiya	Kategorio:Urboj de Barato
+Category:Isgaarsiinta	Kategorio:Telekomunikado
+Category:Gaadiidka	Kategorio:Transporto
+Category:Ameerikada waqooyi	Kategorio:Nordameriko
+Category:Harraha	Kategorio:Lagoj
+Category:Calamada	Kategorio:Flagoj
+Template:Macluumaad luqadda	Ŝablono:Informkesto lingvo
+Category:Dimoqraadi	Kategorio:Demokratio
+Kaaroot	Karoto
+Category:Caasimadaha afrika	Kategorio:Ĉefurboj de Afriko
+Category:Komunistiyaasha Jarmalka	Kategorio:Germanaj komunistoj
+Category:Magaalooyinka Soomaaliya	Kategorio:Urboj de Somalio
+Category:Magaalooyinka Jabuuti	Kategorio:Urboj de Ĝibutio
+Category:Aadam iyo Xaawo	Kategorio:Adamo kaj Evo
+Category:Lahjadaha looga hadlo Soomaaliya	Kategorio:Lingvoj de Somalio
+Category:Caasimadaha yurub	Kategorio:Ĉefurboj de Eŭropo
+Category:Somaliland	Kategorio:Somalilando
+Category:Caafimaadka	Kategorio:Sano
+Template:Coord/display/inline,title	Ŝablono:Koord/montru/entekste,titolo/dokumentado
+Template:Flag	Ŝablono:Flago
+Template:Lang-pl	Ŝablono:Lang-pl
+Category:Maamulada Soomaaliya	Kategorio:Ŝtatoj en Somalio
+Portal:Xisaab	Portalo:Matematiko
+Trojany	Trojany
+Template:HMXA	Ŝablono:Ne plu elstara artikolo
+Category:Wadamada Aasiya	Kategorio:Aziaj landoj
+Portal:Siyaasadda	Portalo:Politiko
+Portal:Qaynuun	Portalo:Juro
+Template:Colonne	Ŝablono:Multkolumna
+Eray bixin	Terminologio
+Category:Esperanto	Kategorio:Esperanto
+Template:Lang-am	Ŝablono:Lang-am
+Khilaafadii Umawiyiinta	Umajida Kaliflando
+Portal:Kimistari	Portalo:Kemio
+Category:Linux	Kategorio:Linukso
+Category:Siyaasada Soomaaliya	Kategorio:Politiko de Somalio
+Category:Komunistiyaasha	Kategorio:Komunistoj
+Category:Qiyaasaha Masaafooyinka	Kategorio:Mezurunuoj de longo
+Category:Midabada	Kategorio:Koloroj
+Category:Triboli	Kategorio:Tripolo
+Category:User nl-4	Kategorio:Vikipediisto nl-4
+Wikipedia:Habka Maqaalada Cusub	Vikipedio:Kriterioj por legindaj artikoloj
+Template:Image label begin	Ŝablono:Marko sur bildo komenco
+Category:User en-1	Kategorio:Vikipediisto en-1
+Category:Gacamada caalamka	Kategorio:Golfoj
+Template:Turjumid	Ŝablono:Esperantigu artikolon
+Portal:Caafimaad	Portalo:Medicino
+Template:User nl-3	Ŝablono:Vikipediisto nl-3
+Kusheetik	Kuŝida grupo
+Template:Goob	Ŝablono:DiskutejoMultlingvaBonveno
+Template:Wayback	Ŝablono:Retarkivo
+Template:ForLoop/aux	Ŝablono:For/aŭ
+Template:Table cell templates	Ŝablono:Jes ne
+Template:Weather box/colpastel	Ŝablono:Veterkesto/paŝteloj
+Template:Infobox Weather/colt	Ŝablono:Veterkesto/Kolt
+Gobolada Soomaaliya	Regionoj de Somalio
+Special:RecentChanges	Specialaĵo:Lastaj ŝanĝoj
+Category:Wabiyada Afrika	Kategorio:Riveroj en Afriko

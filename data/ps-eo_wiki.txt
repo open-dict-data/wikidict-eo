@@ -1,0 +1,2113 @@
+افريقا	Afriko
+جاپان	Japanio
+سوېلي امريکا	Sudameriko
+ناروې	Norvegio
+د آيرلېنډ جمهوريت	Irlando
+هنگري	Hungario
+اسپانیا	Hispanio
+د امریکا متحده ایالتونه	Usono
+بلجیم	Belgio
+لوگزامبورگ	Luksemburgo (lando)
+ځمکه	Tero
+ژوند	Vivo
+انسان	Homo
+فېنلانډ	Finnlando
+سويډن	Svedio
+ډېنمارک	Danio
+پولنډ	Pollando
+لېتوانيا	Litovio
+اېټاليا	Italio
+سويس	Svislando
+اتريش	Aŭstrio
+يونان	Grekio
+تورکيه	Turkio
+بير	Biero
+پرتگال	Portugalio
+اروپا	Eŭropo
+آسيا	Azio
+شمالي امريکا	Nordameriko
+انټارکټيکا	Antarkto
+ويکيپېډيا	Vikipedio
+هالنډ	Nederlando
+نيويارک (ښار)	Novjorko
+واشنگټن ډي سي	Vaŝingtono
+برلين	Berlino
+سولگر	Komputilo
+څوریخ	Zuriko
+انټرنټ	Interreto
+باراک حسين اوباما	Barack Obama
+لندن	Londono
+قاهره	Kairo
+مڼه	Pomo
+پاريس	Parizo
+گووگل	Google
+اتلانتيک سمندر	Atlantika Oceano
+غلی سمندر	Pacifika Oceano
+کالېفورنیا	Kalifornio
+دونۍ	Lundo
+جنوري	Januaro
+فبروري	Februaro
+مارچ	Marto
+مريخ	Marso
+کېنيا	Kenjo
+اېتوپیا	Etiopio
+گانا	Ganao
+اپرېل	Aprilo
+مې	Majo
+جون	Junio
+جولای	Julio
+اگسټ	Aŭgusto
+سپټمبر	Septembro
+اکتوبر	Oktobro
+نومبر	Novembro
+ډيسمبر	Decembro
+درې نۍ	Mardo
+شورو	Merkredo
+زيارت	Ĵaŭdo
+جمعه	Vendredo
+خالي	Sabato
+يونۍ	Dimanĉo
+زمری	Leono
+فرانسه	Francio
+سپی	Hundo
+بريتانيا	Unuiĝinta Reĝlando
+پيشو	Hejma kato
+چين د خلکو جمهوريت	Ĉina Popola Respubliko
+فرانسوي ژبه	Franca lingvo
+اېتنول	Etanolo
+برازیل	Brazilo
+روسیه	Rusio
+نهنگ	Cetacoj
+څلوريځ (مېچپوهنه)	Kvadrato (geometrio)
+بوینگ ۷۴۷	Boeing 747
+ويکيمېډيا بنسټ	Fondaĵo Vikimedio
+آلمان	Germanio
+بېلاروس	Belorusio
+آلماني ژبه	Germana lingvo
+آيسلېنډ	Islando
+الله	Dio
+اېسټونيا	Estonio
+زحل	Saturno (planedo)
+الوتکه	Aviadilo
+جگړه	Milito
+جورج واکر بوش	George W. Bush
+اوکراین	Ukrainio
+چېک جمهوريت	Ĉeĥio
+سلواکيا	Slovakio
+سلووانیا	Slovenio
+مولدوا	Moldava Respubliko
+رومانیا	Rumanio
+بلغاریا	Bulgario
+د مقدونيې ولسمشريزه	Respubliko Makedonio
+البانیا	Albanio
+کروواسيا	Kroatio
+آزربايجان	Azerbajĝano
+اندورا	Andoro
+گرجستان	Kartvelio
+قزاقستان	Kazaĥio
+مالټا	Malto
+مانتېنېگرو	Montenegro
+واټيکان ښار	Vatikano
+سان مارینو	San-Marino
+بروکسل	Brusela Ĉefurba Regiono
+بېلیز	Belizo
+باربادوس	Barbado
+اندونيزيا	Indonezio
+ولفگانگ امادیوس موزارت	Wolfgang Amadeus Mozart
+لیودویگ وان بیتهووین	Ludwig van Beethoven
+تورکي ژبه	Turka lingvo
+سویلي افریقا	Sud-Afriko
+الجزاير	Alĝerio
+اوزبکستان	Uzbekujo
+تاشکند	Taŝkento
+اوبه	Akvo
+تلويزون	Televido
+چېلي	Ĉilio
+عيسی	Jesuo Kristo
+گاليليو گاليلی	Galilejo
+عطارد	Merkuro (planedo)
+پېښليک	Historio
+ژبه	Lingvo
+زورواکي	Diktatoreco
+مشتري	Jupitero (planedo)
+میشل باشله	Michelle Bachelet
+ستورپوهنه	Astronomio
+سينگاپور	Singapuro
+پوهنه	Scienco
+تکړښت	Sporto
+اډولف هټلر	Adolf Hitler
+فېس بوک	Facebook
+ويکيلېکس	WikiLeaks
+لومړنۍ نړېواله جگړه	Unua mondmilito
+دويمه نړېواله جگړه	Dua mondmilito
+گړيال	Horloĝo
+شچېچېن	Szczecin
+شمېرپوهنه	Matematiko
+لاتين ژبه	Latina lingvo
+بحرین	Barejno
+ارمنستان	Armenio
+مېخي ليکدود	Kojnoskribo
+هیگزبوسون	Bosono de Higgs
+سربيا	Serbio
+سپوږمۍ	Luno
+استنبول	Istanbulo
+آسټراليا	Aŭstralio
+پنځپوهنه	Fiziko
+ارجنټاین	Argentino
+مخابرات	Telekomunikado
+پيرو	Peruo
+ژونپوهنه	Biologio
+شمالي کوريا	Nord-Koreio
+کمبودیا	Kamboĝo
+قرآن	Korano
+ډانگسر	Dinosaŭro
+ژوپوهنه	Bestoscienco
+اسلام	Islamo
+ناک	Pirarbo
+بوټپوهنه	Plantoscienco
+لېخ والېسا	Lech Wałęsa
+اروپايي اتحاديه	Eŭropa Unio
+WWW	TTT
+شعر	Poezio
+کمپيوټري ويروس	Komputviruso
+ليمو	Citrono
+گل	Floro
+ناپليون بوناپارت	Napoleono Bonaparte
+لمر	Suno
+آسمان	Ĉielo
+وېکټور هوگو	Victor Hugo
+اقيانوسيه	Oceanio
+لمريز غونډال	Sunsistemo
+هايډروجن	Hidrogeno
+انگېلا مېرکل	Angela Merkel
+لوړغږی	Laŭtparolilo
+ورځ	Tago
+شپه	Nokto
+کال	Jaro
+پېړۍ	Jarcento
+اوسلو	Oslo
+جنسي اړيکې	Seksumado
+دوبۍ	Dubajo
+آکسيجن	Oksigeno
+سياره	Planedo
+سندارا	Muziko
+مسکو	Moskvo
+چاډ	Ĉado
+الومېنيم	Aluminio
+هند	Barato
+اوسپنه	Fero
+لوېديځ	Okcidento
+گوگړ	Sulfuro
+ساموا	Samoo
+ختيځ	Oriento
+وېليم شېکسپيير	William Shakespeare
+نكل	Fablo
+مارشال ټاپووان	Marŝala Insularo
+مغولستان	Mongolio
+سترنج	Ŝako
+چنگېز خان	Ĝingis-Ĥano
+آس	Ĉevalo
+امسټرډام	Amsterdamo
+وسله	Armilo
+ژوي	Bestoj
+سورينام	Surinamo
+گويانا	Gujano
+اېکوادور	Ekvadoro
+ځمکني توتان	Frago
+بوديزم	Budhismo
+بولېویا	Bolivio
+تامبه	Kupro
+بوټی	Plantoj
+سېنټ لوسیا	Sankta Lucio
+ليونارډو ډاوېنچي	Leonardo da Vinci
+چڼاس	Fungoj
+جمايکا	Jamajko
+گرېنادا	Grenado (lando)
+گواتمالا	Gvatemalo
+هندوراس	Honduro
+ډومنيکان جمهوريت	Domingo
+اهلي خوگ	Porko
+شمالي قطبي سمندر	Arkta Oceano
+هایتي	Haitio
+اېلسلوادور	Salvadoro
+ايران	Irano
+عراق	Irako
+کوسټاریکا	Kostariko
+اسرائيل	Israelo
+پاناما	Panamo
+يمن	Jemeno
+اردن	Jordanio
+نیکاراگوا	Nikaragvo
+قرغزستان	Kirgizio
+کوېټ	Kuvajto
+لاووس	Laoso
+لېبنان	Libano
+مالديپ	Maldivoj
+امريکا لويه وچه	Ameriko
+ميانمار	Birmo
+نيپال	Nepalo
+عمان	Omano
+پاکستان	Pakistano
+قطر	Kataro
+سعودي عربستان	Sauda Arabio
+سریلانکا	Sri-Lanko
+جوزف سټالين	Josif Stalin
+سوريه	Sirio
+اپلاتون	Platono
+تاجيکستان	Taĝikio
+د چين جمهوريت	Respubliko Ĉinio
+يوټيوب	YouTube
+ارستو	Aristotelo
+تايلنډ	Tajlando
+اورگاډی	Trajno
+آرسېنيک	Arseno
+راډيو	Radiofonio
+تورکمنستان	Turkmenio
+عربي متحده امارات	Unuiĝintaj Arabaj Emirlandoj
+چارلس چاپلين	Charlie Chaplin
+سوېلي کوريا	Sud-Koreio
+سمپسنز	La Simpsonoj
+افغانستان	Afganio
+بنگله دېش	Bangladeŝo
+فرانتس کافکا	Franz Kafka
+مالي	Malio
+سوقرات	Sokrato
+آنگولا	Angolo
+بوتان	Butano
+ټويټر	Twitter
+برونای	Brunejo
+تانزانیه	Tanzanio
+پاره	Hidrargo
+فلېپين	Filipinoj
+د منځنی افريقا ولسمشريزه	Centr-Afrika Respubliko
+آيزاک نيوټن	Isaac Newton
+آلبرټ آينشټاين	Albert Einstein
+تونس	Tunizio
+زېمبيا	Zambio
+زېمبابوې	Zimbabvo
+بېجنگ	Pekino
+سوېلي سوډان	Sud-Sudano
+بېنين	Benino
+بوتسوانا	Bocvano
+بورکینا فاسو	Burkino
+بروندي	Burundo
+کانگو جمهوريت	Respubliko Kongo
+جېبوتي	Ĝibutio
+پولونيم	Polonio
+باډن ورټمبرگ	Baden-Virtembergo
+اریتره	Eritreo
+فيودور ميخايلوويچ داستاېفسکي	Fjodor Dostojevskij
+گابن	Gabono
+مهاتما گاندي	Mohandas Karamchand Gandhi
+گامبيا	Gambio
+عاج ساحل	Ebur-Bordo
+کامرون	Kameruno
+لايبېريا	Liberio
+لېبيا	Libio
+مادغاسکر	Madagaskaro
+مالاوي	Malavio
+موریتانيا	Maŭritanio
+ماوریتوس	Maŭricio
+مراکش	Maroko
+موزمبيق	Mozambiko
+نېمبیا	Namibio
+نایجېر	Niĝero
+نايجېريا	Niĝerio
+راونډا	Ruando
+سېنېگال	Senegalo
+سیشل	Sejŝeloj
+سېرالیون	Siera-Leono
+سومالیا	Somalio
+سوډان	Sudano
+سوازيلانډ	Svazilando
+شنه زرغونه	Ĉielarko
+استقلاب	Metabolo
+ملگري ملتونه	Unuiĝintaj Nacioj
+دانتې الیگيري	Dante Alighieri
+ځمکپېژندنه	Geologio
+ځمکپوهنه	Geografio
+زړه	Koro
+ماغزه	Cerbo
+پراگ	Prago
+شين	Blua
+سپين زر	Arĝento
+يورانيم	Uranio
+پلوتونيم	Plutonio
+ممبای	Mumbajo
+گوا	Goao
+مهاراشترا	Maharaŝtro
+زارلاند	Sarlando
+براندنبورگ	Brandenburgio
+برېمن (ايالت)	Libera hansa urbo Bremeno
+بيت المقدس	Jerusalemo
+هندي سمندر	Hinda Oceano
+کلراډو	Koloradio
+ژمی	Vintro
+پسرلی	Printempo
+دوبی	Somero
+منی	Aŭtuno
+اسامه بن لادن	Usama bin Laden
+اوپرا	Opero
+کلکته	Kolkato
+ډېلي	Delhio
+بند پایان	Artropodoj
+اسلام آباد	Islamabado
+پيسې	Mono
+خوځندکې	Insekto
+ولادمير ايليچ لېنين	Lenin
+نېكولو مكياوېلې	Makiavelo
+مايکروسافټ وېنډوز	Microsoft Windows
+مانيلا	Manilo
+توکيو	Tokio
+استانه	Astano
+بغداد	Bagdado
+هندي ژبه	Hindia lingvo
+اوردو ژبه	Urduo
+واليبال	Flugpilkado
+وين	Vieno
+ډبلن	Dublino
+بوډاپسټ	Budapeŝto
+د مسيح حقيقي کليسا	Vera Eklezio de Jesuo
+انگرېزي ژبه	Angla lingvo
+بانگکوک	Bankoko
+کوالالامپور	Kuala-Lumpuro
+ديپلوماسي	Diplomatio
+کيېف	Kievo
+كونسكوولا	Końskowola
+2012	2012
+2013	2013
+خواړه	Manĝaĵo
+اېلېکټرون	Elektrono
+رغاويز اوښتون	Industria revolucio
+د روم ټولواکمني	Romia Imperio
+مايکروسافټ	Microsoft
+پروټون	Protono
+کوروف	Kurów
+کيميا	Kemio
+نيوټرون	Neŭtrono
+صنعا	Sanao
+آرنولد شوارزنېگر	Arnold Schwarzenegger
+فوټبال	Futbalo
+آيفون	IPhone
+مايکل جېکسن	Michael Jackson
+انتوان دي سينت اکسيوپيري	Antoine de Saint-Exupéry
+سور	Ruĝa
+هوا	Atmosfero (tero)
+پېرى	Ĝino (spirito)
+ربات	Rabato
+الجزيره	Alĝero
+ترابلس	Tripolo
+تهران	Teherano
+جکارتا	Ĝakarto
+انقره	Ankaro
+رياض	Riado
+فوټ	Futo
+وېشنيزه:د ويکيپېډيا کينډۍ	Kategorio:Vikipedio:Ŝablonoj
+د مشق	Damasko
+لوم	Lomeo
+دوها	Doho
+دودوما	Dodomao
+ښوونځی	Lernejo
+پوهنتون	Universitato
+د پوهنغونډ په اړه	Vikipedio:Bonvenon al Vikipedio
+آسټراليا (لويه وچه)	Aŭstralia kontinento
+ورونپاسی	Tekokomputilo
+الجبر	Algebro
+دونگ هوی هوايي ډگر	Flughaveno Dong Hoi
+آر دړه	Ĉeftabulo
+كوريتيبا	Kuritibo
+پنجاب (پاکستان)	Panĝabo (Pakistano)
+وېشنيزه:د افغانستان پېښليک	Kategorio:Historio de Afganio
+توماس شېن کانېري	Sean Connery
+كنفيوشيوس	Konfuceo
+کوربن بليو	Corbin Bleu
+وېشنيزه:شمېرپوهنه	Kategorio:Matematiko
+وېشنيزه:د ایران تاریخ	Kategorio:Historio de Irano
+امريکايي ډالر	Usona dolaro
+عيسويت	Kristanismo
+لويه وچه	Kontinento
+مرغه	Birdoj
+پلازمېنه	Ĉefurbo
+کينډۍ:اسلام	Ŝablono:Islamo
+مياشت (موده)	Monato
+مصطفی کمال اتاتورک	Mustafa Kemal Atatürk
+کينډۍ:تانبه	Ŝablono:Portalo
+هوانگ شيان فان	Huang Senfan
+بقراط	Hipokrato
+الماس	Diamanto
+پوهنغونډ	Enciklopedio
+RAM	Ĉefmemoro
+لومړی مخ	Vikipedio:Ĉefpaĝo
+کانډنسر	Kondensilo
+باسکټبال	Korbopilkado
+کرېکټ	Kriketo
+اوراسيا	Eŭrazio
+د هېتیانو واکمنۍ	Hititoj
+وينه لږی	Anemio
+کېپ ټاون	Kaburbo
+قراقرم	Karakorumo
+هندوکش	Hindukuŝo
+ميترو	Metroo
+پيکاسو	Pablo Picasso
+بس	Aŭtobuso
+ټرام	Tramo
+بابل	Babilono
+آنتون پاولوف چيخوف	Anton Ĉeĥov
+چارلېز ډيکېنز	Charles Dickens
+سپارتا	Sparto
+موينجو دېړو	Mohenĝo-daro
+سمرقند	Samarkando
+بخارا	Buĥaro
+چې گوارا	Che Guevara
+کابل	Kabulo
+گوېټه	Johann Wolfgang von Goethe
+مهبل	Vagino
+فلسفه	Filozofio
+د مقدس ویټوس کليسا	Katedralo de sankta Vito
+چای	Teo
+کمونيزم	Komunismo
+انارشيزم	Anarkiismo
+پانگولي	Kapitalismo
+لېبراليزم	Liberalismo
+فاشېزم	Faŝismo
+ولسپالنه	Naciismo
+حافظ شېرازي	Hafizo
+هېوادپالنه	Patriotismo
+هیواد	Lando
+ولس	Nacio
+هيلري کلنټن	Hillary Rodham Clinton
+د برتانيې موزيم	Brita Muzeo
+ژان ژاک روسو	Jean-Jacques Rousseau
+هومر	Homero
+الكساندر هومبولدت	Alexander von Humboldt
+کوارک	Kvarko
+اېډوارډ ټېللر	Edward Teller
+اتيزم	Ateismo
+نيلز بوهر	Niels Bohr
+ژونکيميا	Biokemio
+ژونپنځپوهنه	Biofiziko
+چاپېريالپوهنه	Ekologio
+بارسلونا فوټبال کلب	Futbala Klubo de Barcelono
+واگ	Politiko
+ووبپوهنه	Histologio
+عربي ټولنه	Ligo de Arabaj Ŝtatoj
+ولسواکي	Demokratio
+نجيب محفوظ	Naguib Mahfouz
+د سره صليب او سرې مياشتې نړيوال غورځنگ	Ruĝa Kruco
+نړيوالتوب	Tutmondiĝo
+ناټو	NATO
+جين	Geno
+حکومت	Registaro
+نوبل جايزه	Nobel-premio
+چېن شي هوانگ	Qin Shihuangdi
+منځنی ختيځ	Mezoriento
+رنځپوهنه	Patologio
+رابندرانات ټاگور	Rabindranath Tagore
+لېو نيكولايوويچ تولستوى	Lev Tolstoj
+مارک ټوېن	Mark Twain
+ايډيالوژي	Ideologio
+ادا لولېس	Ada Lovelace
+مارکسيزم	Marksismo
+ولسمشريزه	Respubliko
+دولت	Ŝtato
+گوند	Partio (politiko)
+بډمنټن	Badmintono
+يوري الکسويچ گاگارين	Jurij Aleksejeviĉ Gagarin
+ابن بطوطه	Ibn Batuta
+اباسين (سيند)	Induso
+فرانز جوزیف هایدن	Joseph Haydn
+غوږ	Orelo
+سترگه	Okulo
+سندره	Kanto
+اوښ	Kamelo
+تی لرونکی ځناوران	Mamuloj
+مېږی	Formiko
+مارگريت تاچر	Margaret Thatcher
+ډي آکسي رايبونيوکليک اسيد	DNA
+ژباړه	Traduko
+ښامار	Drako (mitologio)
+مور	Patrino
+پلار	Patro
+لېږدچارې	Transporto
+روسي ژبه	Rusa lingvo
+ولادمير پوتين	Vladimir Putin
+حقوق	Leĝo (jura)
+اساسي قانون	Konstitucio
+د بشري حقونو نړېواله اعلاميه	Universala Deklaracio de Homaj Rajtoj
+د روغتيا نړيوال سازمان	Monda Organizaĵo pri Sano
+د سوداگرۍ نړيوال سازمان	Monda Organizaĵo pri Komerco
+پرېولنځی	Necesejo
+طبيعت	Naturo
+سادرملنه	Psikiatrio
+ژونکه	Ĉelo (biologio)
+وينه	Sango
+هډوانه	Skeleto
+سږي	Pulmo
+ساييز غونډال	Spira sistemo
+رومانيايي ژبه	Rumana lingvo
+بلغاريايي ژبه	Bulgara lingvo
+ښوونپوهنه	Didaktiko
+روزنپوهنه	Pedagogio
+يمال	Lavango
+رېږدله	Tertremo
+طبيعي پوهنې	Naturscienco
+ابن سينا بلخي	Aviceno
+وېنسټون چرچل	Winston Churchill
+نېلسن مانډېلا	Nelson Mandela
+انزايم	Enzimo
+امينو اسيد	Aminoacido
+ورېځ	Nubo
+سولپوهنه	Logiko
+مېچپوهنه	Geometrio
+وټپوهنه	Ekonomiko
+پانگه (وټپوهنه)	Kapitalo
+ارز	Valuto
+رغاوه	Industrio
+ورکړېنه	Imposto
+ژبپوهنه	Lingvoscienco
+يوناني ابېڅې	Greka alfabeto
+ادبپوهنه	Literaturo
+وېشنيزه:فرانسه	Kategorio:Francio
+ناول	Romano
+سره گيدړه	Ruĝa vulpo
+اوستراوا	Ostrava
+کوروش ۲	Kiro la 2-a
+ټولنه	Socio
+تمدن	Civilizo
+زده کړه	Eduko
+هوگو چاوېز	Hugo Chávez
+واده	Geedzeco
+وگړنيز حقوق	Homaj rajtoj
+توکمپالنه	Rasismo
+گوډ تېمور	Timur
+عمر بن خطاب	Umar ibn al-Ĥattab
+پوځ	Militfortoj
+سلیمان ۱	Sulejmano la 1-a
+قهوه	Kafo
+د آمو سيند	Amudarjo
+شيدې	Lakto
+غر	Monto
+هلمند رود	Hilmend
+توكبنسټ	Datumbazo
+کابل سيند	Kabulo (rivero)
+صلاح الدين ايوبي	Saladino
+اشوک	Aŝoko
+جلال الدين محمد اکبر	Jalaluddin Muhammad Akbar
+هانگ کانگ	Honkongo
+کراچۍ	Karaĉio
+د ريال مادريد فوټبال کلب	Real Madrid
+سيول	Seulo
+شانگهای	Ŝanhajo
+د ماد واکمني	Medoj
+اقليدس	Eŭklido
+بايټ	Bitoko
+محمد بن موسی خوارزمي	Al-Ĥorazmi
+ناروېژي ژبه	Norvega lingvo
+نوم چومسكي	Noam Chomsky
+چيکی ژبه	Ĉeĥa lingvo
+کارل مارکس	Karl Marx
+موسی	Moseo
+پوهه	Scio
+هندويزم	Hinduismo
+اټوم	Atomo
+يوناني ژبه	Greka lingvo
+چليز غونډال	Operaciumo
+تاج محل	Taĝ-Mahalo
+بنسټپالنه	Fundamentismo
+برېښليک	Retpoŝto
+پاړسي ژبه	Persa lingvo
+مذهب	Religio
+اېمپاير سټېټ ودانۍ	Empire State Building
+سېگمونډ فرايډ	Sigmund Freud
+جاينيزم	Ĝajnismo
+گيورگ ويلهېلم فرېدرېش هېگل	Hegelo
+باکو	Bakuo
+تاجکي ژبه	Taĝika lingvo
+اوزبکي ژبه	Uzbeka lingvo
+تورکمني ژبه	Turkmena lingvo
+يهوديت	Judismo
+آزربايجاني ژبه	Azerbajĝana lingvo
+ابن خلدون	Ibn-Ĥaldun
+امانوېل کانت	Immanuel Kant
+سکيزم	Sikismo
+فرېدرېک وېلهېلم نېتشي	Friedrich Wilhelm Nietzsche
+بشکیک	Biŝkeko
+دوشنبه	Duŝanbeo
+اينه	Hepato
+پښتورگی	Reno
+ادم سمېت	Adam Smith
+احساس	Emocio
+ساپوهنه	Psikologio
+آند	Pensado
+سمندر	Oceano
+ملکه وېکټوريا	Viktoria (Britio)
+محمد	Mohamedo
+اخلاق	Etiko
+پوهنپوهنه	Sciteorio
+عبدالکلام	Abdul Kalam
+بي بي سي	BBC
+شاهرخ خان	Shahrukh Khan
+محمد الغزالي	Algazelo
+اميتاببچن	Amitabh Bachchan
+شيعه	Ŝijaismo
+گېډه	Ventro
+زرتشتيت	Zaratuŝtrismo
+تصوف	Sufiismo
+ژبه (اناتومي)	Lango (anatomio)
+پانکراس	Pankreato
+غاړه	Kolo
+زړه پوهنه	Kardiologio
+ډېوېډ بکهم	David Beckham
+کيم جونگ ايل	Kim Ĝong-il
+وېشنيزه:وېنزوېلا	Kategorio:Venezuelo
+روبېرت موگابي	Robert Mugabe
+خاپوړن	Reptilioj
+کوتره	Kolombedoj
+باکټريا	Bakterioj
+ونه	Arbo
+دوه ژوندوي	Amfibioj
+اوښتون	Revolucio
+انگور	Vinbero
+گبين	Mielo
+کچالو	Terpomo
+سابه	Legomo
+ټکنالوجي	Teknologio
+انجينري	Inĝenierarto
+خبريالي	Ĵurnalismo
+ورځپاڼه	Gazeto
+غږلېږدی	Telefono
+هڅوب	Kulturo
+سانسکریت ژبه	Sanskrito
+د زړه او رگونو غونډال	Kardiovaskula sistemo
+د پارکېنسون ناروغي	Parkinsona malsano
+گارډيان	The Guardian
+انډيپېنډنټ	The Independent
+درملگري	Medicino
+مقننه قوه	Leĝdona povo
+مالگه	Salo
+مايکروسافټ آفېس	Microsoft Office
+وېشنيزه:رومانیا	Kategorio:Rumanio
+کيمياوي توکی	Kemia elemento
+هورمون	Hormono
+اپارتايد	Apartismo
+لوبه	Ludo
+جودو	Ĵudo
+مقناطيس	Magneto
+فلم	Filmo
+ساهيالي	Animacio
+کرنه	Agrikulturo
+غږ	Sono
+نانو تکنالوژي	Nanoteknologio
+ښيښه	Vitro
+وخت	Tempo
+ليکپاڼه	Papero
+کازمېکي وړانگې	Kosma radiado
+جوار	Maizo
+انځورکښنه	Pentrado
+تشیالیونی	Kosmonaŭto
+انځوراخيستنه	Fotarto
+برېښنايي ټېکنالوژي	Elektroniko
+فريکونسي	Frekvenco
+خوړنځی	Restoracio
+د لودیانو ټولواکمني	Lodi-dinastio
+لاهور	Lahore
+د خپلواکو هېوادونو لړليک	Listo de sendependaj ŝtatoj
+ابوريحان بيروني	Al-Biruni
+څېړۍ	Kverko
+سرطان	Kancero
+کولرا	Ĥolero
+غنم	Tritiko
+ناروغي	Malsano
+گرېگوري کليز	Gregoria kalendaro
+نیکوتین	Nikotino
+روغتيا	Sano
+ملاريا	Malario
+انټيبايوټيک	Antibiotiko
+پنسلين	Penicilino
+نېمونيا	Pneŭmonito
+گوزڼ	Poliomjelito
+اېډز	Aidoso
+نری رنځ	Tuberkulozo
+ډايبېټېز مېلېټوز	Diabeto
+صليبي جگړې	Krucmilitoj
+منځنۍ پېړۍ	Mezepoko
+عثماني پېر	Otomana Imperio
+د کورنيو توليداتو ټوليز ارزښت	Malneta enlanda produkto
+برېښنا	Elektro
+یان آموس کمېنسکي	Johano Amoso Komenio
+اټومي برېښناکوټ	Nuklea energio
+د بړاس ماشين	Vapormaŝino
+توره (وسله)	Glavo
+هستوي وسلې	Atombombo
+شوبله	Tanko
+هرمان ون رومپوې	Herman Van Rompuy
+ناريال	Kokoso
+انار	Granatujo
+مالټه	Oranĝo (frukto)
+A New Etymological Vocabulary of Pashto	Kivifrukto
+گراڅ	Graz
+ډېبټ کارډ	Debetkarto
+انجلينا جولي	Angelina Jolie
+عربي ژبه	Araba lingvo
+کانډوم	Kondomo
+تيرانوسور	Tiranosaŭro
+تریسراتوپس	Triceratopo
+وچکښ	Krajono
+برنو	Brno
+هوجينتاو	Hu Jintao
+د شوروي سوسياليستي جمهوريتونو اتحاد	Sovetunio
+انځورۍ	Fotilo
+اېچ آی وي	HIV
+يومکی	Skapolo
+ځاني سولگر	Persona komputilo
+بروس لي	Bruce Lee
+نړۍ	Mondo
+د روم جمهوريت	Romia Respubliko
+گردکه	Cirklo
+گرځنده غږلېږدی	Poŝtelefono
+اوښمرغه	Struto
+ويټامين اې	Vitamino A
+بغ	Ardeedoj
+پيونگيانگ	Pjongjango
+د لور موندنې نړيوال غونډال	Tutmonda loktrova sistemo
+سمندري غڼې	Mar-araneo
+لړم	Skorpio
+ما اينگ جيو	Ma Ying-jeou
+انټرنټ لټوونکی ماشين	Serĉilo
+بخارست	Bukareŝto
+لوور	Luvro
+تیرانا	Tirano
+ويکټوريا بېکهم	Victoria Beckham
+درېڅنډی	Triangulo
+سټيف جوبز	Steve Jobs
+معمر القذافي	Muamar Kadafi
+پړانگ	Tigro
+لومړی خوان کارلوس	Johano Karlo la 1-a (Hispanio)
+لمسنالۍ	Tuŝplato
+ټولنپوهنه	Sociologio
+گاگره	Betono
+جغرافي کوراډينېټونو سيستم	Geografia koordinata sistemo
+پڼې	Ŝuo
+بهايي	Bahaa Kredo
+بانک	Banko
+د وينا ازادي	Parollibereco
+اډېل	Adele (kantistino)
+د نش ميزان	Nash-ekvilibro
+هوږه	Ajlo
+وگړپوهنه	Antropologio
+بادرنگ	Kukumo
+ارنېست مېلر هېمېنگوې	Ernest Hemingway
+عشق آباد	Aŝgabato
+ټاپو	Insulo
+تور (رنگ)	Nigro
+پياز	Cepo
+رسمي ژبه	Oficiala lingvo
+لرغونپوهنه	Arkeologio
+بالکان	Balkana duoninsulo
+سلاوي ژبې	Slava lingvaro
+سر	Kapo
+ولسي لاره	Nacia himno
+تماسي عدسيه	Kontaktlenso
+الفرېډ نوبل	Alfred Nobel
+ږمنځ	Kombilo
+لیلا داونز	Lila Downs
+موسم	Sezono
+ډبرين سکاره	Terkarbo
+يارمخچۍ	Mallongfingra alaŭdo
+نينورشک	Nynorsk
+بوکمول	Bokmål
+کونگ	Strigoformaj birdoj
+شمزۍ لرونکي ژوي	Vertebruloj
+نړېوال تشيال تمځای	Internacia Kosmostacio
+ISO 3166-1	ISO 3166-1
+کجوره	Daktilopalmo
+څټک	Martelo
+اروپايي کاغۍ	Eŭropa pigo
+چابکۍ	Blato
+كوچنى شاهزاده	La Eta Princo
+شمالي باز	Akcipitro
+غضروفی کبان	Kartilagaj fiŝoj
+ځنگلي سار	Komuna buteo
+سيلاني کارغه	Frugilego
+لويديځي کاغۍ	Monedo
+شودپۍ	Blanka motacilo
+اېشېريکيا کولي	Escherichia coli
+توتکۍ	Kamphirundo
+گنگو	Safrano
+ترکاڼک	Pegedoj
+شامتوره	Sturno
+کوشانيان	Kuŝana imperio
+کومکۍ	Palumbo
+جوک	Kanaba kardelo
+آتروپين	Atropino
+سپوږمکۍ	Artefarita satelito
+شينغاړی	Blugorĝulo
+تورياڼۍ	Apusedoj
+لونگ	Kariofilo
+زيره	Karvio
+وژونکی نهنگ	Granda orcino
+سپېرکونده	Tufalaŭdo
+منځنۍ آسيا	Centra Azio
+شمالي افريقا	Nord-Afriko
+مرکزي افريقا	Centra Afriko
+ختيځه اروپا	Orienta Eŭropo
+لوېديځه اروپا	Okcidenta Eŭropo
+افريقايي اوراسيا	Afrik-Eŭrazio
+مړز	Ordinara koturno
+مروری	Kamomilo
+کمول (مارغه)	Cikoniedoj
+اوبدانه	Tekstila
+توکي	Varo
+سپوږميز ليږديز کليز	Islama kalendaro
+ميلوش زېمان	Miloš Zeman
+ليوکېمي	Leŭkemio
+پارسیمن	Persimono
+ديموکراتيک گوند ( د امريکا متحده ایالتونه)	Demokrata Partio (Usono)
+ټيکاله	Alaŭdedoj
+ولسمشر	Prezidanto
+باشه	Migra falko
+رودولف کلاوزيوس	Rudolf Clausius
+تورغوږی	Karakalo (besto)
+شمېرنی	Kalkulilo
+ټکټکی	Koltordulo
+د عربستان ټاپووزمه	Arabio
+پهلوي ژبه	Mezpersa lingvo
+ملاله يوسفزۍ	Malala Yousafzai
+جومات	Moskeo
+بلوڅی ژبه	Baluĉa lingvo
+د کتاب نړيواله کره شمېره	ISBN
+د مغولو پاچايي	Mogola Imperio
+گړدود	Dialekto
+ایرانی ژبی	Irana lingvaro
+لاس	Mano
+خلکو شمېر	Loĝantaro
+پاڼه	Folio
+لوبگر	Aktoro
+هاليووډ	Holivudo
+محمد حسنی مبارک	Hosni Mubarak
+دينپوهنه	Teologio
+پابلو نرودا	Pablo Neruda
+زیوس	Zeŭso
+موساد	Mosado
+یغنابی ژبه	Jagnoba lingvo
+انجيل	Evangelio
+الېکسانډر گراهام بېل	Alexander Graham Bell
+ستورپېژندنه	Astrologio
+ساز	Muzika instrumento
+ويټني هيوسټن	Whitney Houston
+سابون	Sapo
+موشوفتسی	Mošovce
+شکيرا	Shakira
+محمود احمدي نژاد	Mahmud Ahmadineĵad
+كېښكلى ټيكلى (CD)	Kompakta disko
+چورلکه	Helikoptero
+القاعده	Al-Kaida
+محمد فاتح	Mehmedo la 2-a
+اناستاسيا	Anastacia
+فرات	Eŭfrato
+البېرټ کامو	Albert Camus
+د فارس خليج	Persa Golfo
+قطب نما	Kompaso
+ټولنيزې پوهنې	Socia scienco
+ټاپووزمه	Duoninsulo
+نوی کال	Novjaro
+ويټامين	Vitamino
+تورات	Leĝo de Moseo
+كرم	Blanka brasiko
+متل	Proverbo
+هينداره	Spegulo
+لرغونې پاړسي	Malnovpersa lingvo
+عربان	Araboj
+براډ پېت	Brad Pitt
+کړکۍ	Fenestro
+اکدي ژبه	Akada lingvo
+څارندوی	Polico
+ولسي جرگه	Parlamento
+اوساکا	Osako
+د کېمبرېج پوهنتون	Universitato de Kembriĝo
+اجرايي قوه	Plenuma povo
+تعمید غسل	Bapto
+ډډون	Inflacio
+سابندي	Astmo
+عمر خيام	Omar Ĥajam
+وله	Saliko
+محمد علي کلي	Muhammad Ali
+خاوره	Grundo
+ليکوال	Verkisto
+د توهوکو سونامي او رېږدله ۲۰۱۱	Tertremo de Sendajo en 2011
+واتسلاف هاول	Václav Havel
+د ورېښم لار	Silka Vojo
+جېن آسټن	Jane Austen
+کوردي ژبه	Kurda lingvo
+زرۍ	Jarmilo
+علمی نوم	Dunoma nomsistemo
+هنرېک ايبسن	Henrik Ibsen
+ماموت	Mamuto
+څلورڅنډی	Kvarlatero
+د سرکوزي والگی	Porka gripo
+اوزون	Ozono
+جذام	Lepro
+مخ (اناتومي)	Vizaĝo
+خپلواکي	Sendependeco
+ښوون	Olivarbo
+سليمان	Salomono
+یاهو!	Yahoo!
+کرښه (مېچپوهنه)	Rekto
+فرعون	Faraono
+کلاشېنکوف اې کې ۴۷	AK-47
+څپه	Ondo
+د وینې سره کرویات	Eritrocito
+سند	Sindo
+فرانسېس بیکن	Francis Bacon
+معمولي مندته	Abrikotarbo
+نيکول کېډمېن	Nicole Kidman
+هايکو	Hajko
+عثمان بن عفان	Uthman ibn Affan
+وگړشمېرنه	Demografio
+ځمکواکي	Feŭdismo
+اوبړۍ	Algo
+نتالي پورټمېن	Natalie Portman
+هېرټا مولر	Herta Müller
+مکډونالډز	McDonald's
+يوکوهوما	Jokohamo
+گړپوهنه	Morfologio (lingvo)
+ويليم فاکنر	William Faulkner
+هندواڼه	Akvomelono
+پخلی	Kuirado
+بادي ژرنده	Ventmuelejo
+د حماس اسلامي غورځنگ	Hamas
+آيت الله روح الله خميني	Ruhollah Ĥomejni
+ليزر	Lasero
+تبه	Febro
+تيد	Tejdo
+کوچنی وټه	Mikroekonomiko
+رجب طيب اردوغان	Recep Tayyip Erdoğan
+خزدکپوهنه	Entomologio
+تبر	Hakilo
+علي بن ابي طالب	Ali ibn Abi Talib
+گورجی سپی	Halthundoj
+لویه وټه	Makroekonomiko
+انسولين	Insulino
+بازارموندنه	Merkatiko
+سرشمېرنه	Popolnombrado
+ابن رشد	Ibn-Ruŝd
+لسيزه	Jardekoj
+بادام	Migdalujo
+څښاک	Trinkaĵo
+نيانډرټال	Neandertala homo
+الهي کمېډي	La Divina Commedia
+ووب	Histo
+پروېز مشرف	Pervez Muŝaraf
+لوط	Lot (Biblio)
+دهاډرونو ستر تعجیل کوونکي ماشین	Granda Koliziigilo de Hadronoj
+يحيی	Johano la Baptisto
+دیلما روسف	Dilma Rousseff
+ساندرا بللاک	Sandra Bullock
+جراحي	Kirurgio
+بياتي	Tondilo
+نفرتيتي	Nefertito
+لمونځ	Preĝo
+سکايپ	Skajpo
+غږپوهنه	Fonologio
+هارولډ پينټر	Harold Pinter
+د حزب الله اسلامی غورځنگ	Hizbulaho
+باو	Sifiliso
+د آشور واکمني	Asirio
+ودانۍ	Konstruaĵo
+سوني	Sony
+باريس ولاديميروويچ پاسترناک	Boris Pasternak
+کونستانتين اېدواردوويچ تسيولکوفسکي	Konstantin Ciolkovskij
+سينما	Kinejo
+بودجه	Buĝeto
+څپواټن	Ondolongo
+داوود	Davido
+کنگل هاکي	Glacihokeo
+کوردستان	Kurdio
+د موس مقياس	Mohs-skalo
+بواسيرونه	Hemoroido
+هېنريک سېنکېويچ	Henryk Sienkiewicz
+ککرۍ پتنگ	Atroposo
+كوكايين	Kokaino
+فینیکیان	Fenicio
+د بابل ځوړند بڼ	Pendĝardenoj de Babilono
+حاکميت	Suvereneco
+نیلي نهنگ	Blua baleno
+څېړنه	Scienca esplorado
+سولي پرودممه	Sully Prudhomme
+اوبپوهنه	Hidrologio
+بوکر	Konuso
+د مورنۍ ژبې نړيواله ورځ	Internacia Tago de la denaska lingvo
+سهيونېزم	Cionismo
+د طالبانو اسلامي غورځنگ	Talibano
+اناکزیمېنډر	Anaksimandro
+کورکمن	Kurkumo
+ځنگلي پيشو	Ĝangala kato
+عبدالله گل	Abdullah Gül
+ختيځپوهنه	Orientismo (ideologio)
+کرېشنا	Kriŝno
+ساباوري	Animismo
+ليکچه	Notlibro
+مالیه	Financoj
+وچکالي	Trosekeco
+تور مرچ	Nigra pipro
+ياقوت	Rubeno
+کشمير	Kaŝmiro
+ټولپوښتنه	Referendumo
+مولانا جلال الدين محمد بلخي	Ĝalal-ed-din Mohammad Rumi
+کارغه	Korvo
+پلزن	Plzeň
+توکمپوهنه	Etnologio
+مټ	Brako
+زمرد	Smeraldo
+وحشي پيشو	Sovaĝa kato
+شکرخوره	Kolibro
+فدراسيون	Federacio
+شونډکيز چرگ	Meleagro
+انسلم	Anselmo de Canterbury
+حامد کرزی	Hamid Karzai
+یان هوس	Jan Hus
+کورني آلو	Pruno (frukto)
+اندرس بېرينگ برېويک	Anders Behring Breivik
+شينټاغی	Koraciedoj
+احمد سلمان رشدي	Salman Rushdie
+افسانه	Legendo
+داریوش ۱	Dario la 1-a
+توت	Moruso
+اېنټروپي	Entropio
+هرات	Herato
+کودتا	Puĉo
+کندهار	Kandaharo
+تړمه ييزه پراختیا	Dilatkoeficiento
+غشی	Sago
+غږتاندی	Mikrofono
+ابن عربي	Ibn Arabi
+اپيم	Opio
+اوسيريس	Oziriso
+اسراييل لرغونتون	Muzeo de Israelo
+جي اس ام	GSM
+اېشواريه رای	Aishwarya Rai
+نوغپوهنه	Genealogio
+مېلټون فرايډمېن	Milton Friedman
+بانکنوټ	Monbileto
+نړيواله جنايي محکمه	Internacia puna kortumo
+رادار	Radaro
+د اسلامي همکاريو سازمان	Organizaĵo de Islama Kunlaboro
+د بابل واکمني	Babilonio
+جبران خليل جبران	Ĝibran Ĥalil Ĝibran
+روبي وېليمز	Robbie Williams
+د سږو سرطان	Pulma kancero
+مهايانا	Mahajano
+امريتسر	Amritsar
+مير تشيال تمځی	Mir (kosmostacio)
+لنډه کيسه	Novelo
+د لبنان جگړه ۲۰۰۶	Israela-Libana konflikto de 2006
+گرځندويي	Turismo
+بادي توربین	Ventoturbino
+يو گونديز حکومت	Unupartiismo
+مصري ژبه	Egipta lingvo
+هارون	Aaron
+ایبولا ناروغۍ	Ebola malsano
+ژونځمکپوهنه	Biogeografio
+غونډ	Regimento
+سور كانگرو	Ruĝa kanguruo
+هارپي	Amerika harpio
+ابسيډين	Obsidiano
+وېشنيزه:حکومت	Kategorio:Registaroj
+سپايس گرلز	Spice Girls
+عبدالله بن عبدالعزیز آل سعود	Abdulah bin Abdul-Aziz Al Saud
+سيد على خامنه‌اى	Ali Ĥamenei
+امام علي رحمانوف	Emomalii Raĥmon
+اسلام کريموف	Islom Karimov
+گيودو ويسترويلي	Guido Westerwelle
+پښتو ژبه	Paŝtoa lingvo
+عرب سمندرگی	Araba Maro
+گرمټ	Drilo
+دیو جانس کلبی	Diogeno la Cinika
+کورنت توغندی	AT-14 Kornet
+هېرويين	Heroino
+کوفین	Kafeino
+اندروجن	Androgeno
+راوړنې	Importo
+تريخی	Gala veziko
+مرکزي بانک	Centra banko
+جيپور	Ĝajpuro
+سيبري پړانگ	Siberia tigro
+القلويد	Alkaloido
+آدم	Adamo (Biblio)
+یوسيف ۲	Jozefo la 2-a (Sankta Romia Imperio)
+ښاري انجنيري	Konstruinĝenieriko
+وړانگپوهنه	Radiologio
+اليگارشي	Oligarkio
+زړه گراف	Elektrokardiografio
+د افغانستان رپی	Flago de Afganio
+ايسيس	Iziso
+ځوانکې	Aknohaŭto
+اېترنټ	Eterreto
+چکوتره	Pampelmuso
+بشري پوهنې	Homa scienco
+ټپوس	Nigra milvo
+نهنگی شارک	Balenŝarko
+بېنډۍ	Gombo
+د سلطان احمد جومات	Blua moskeo (Istanbulo)
+اټومي بټۍ	Nuklea reakciujo
+مايکروسافټ اوټلوک	Microsoft Outlook
+مالداري	Bredado
+معمولي کپر (کب)	Karpo
+اولوموڅ	Olomouc
+مورفين	Morfino
+د صرافی ماشین	Bankaŭtomato
+نخود	Kikero
+نوح	Noa
+والټ وايټمېن	Walt Whitman
+غاښۍ	Forko
+چوپسټېک	Manĝobastonetoj
+د خوړو او کرهڼې سازمان	Organizaĵo pri Nutrado kaj Agrikulturo
+براشوف	Brașov
+زنه	Mentono
+قطبي گيدړ	Arkta vulpo
+سياستوال	Politikisto
+شپږڅنډی	Seslatero
+د افغانستان جگړه (۱۹۷۹-۱۹۸۹)	Soveta-afgana milito
+ختيځ هند کمپنۍ	Brita Orienthinda Kompanio
+الكساندر نيكولاېويچ رومانوف	Aleksandro la 2-a (Rusio)
+اسکلېپيوس	Asklepio
+ژان اېف کوستو	Jacques-Yves Cousteau
+وزير (حکومت)	Ministro
+گرو نانک	Guru Nanak
+کانپوهنه	Mineralogio
+شېنگن تړون	Traktato de Schengen
+سابه خوړونکي	Vegetarismo
+امپيدوکلېس	Empedoklo
+اوېستا	Avesto
+ستر جنرال	Generalo
+شاه جهان	Ŝaho Jahano
+د الله نومونه	La Nomoj de Dio en Islamo
+د ساسانيانو واکمني	Sasanidoj
+هوروس	Horuso
+پولنډبال	Pollandpilko
+راټکو مېلادېچ	Ratko Mladić
+انځورگري	Desegnaĵo
+پرېژه	Eksgeedziĝo
+کلوژ-ناپوکا	Kluĵo
+مرزا حسين علي بهاالله	Bahá'u'lláh
+نېغ انسان	Homo erectus
+ماهر انسان	Homo habilis
+هاډرون	Hadrono
+سوسن	Konvalo
+اينو	Ajnuoj
+تسپود	Inflamo
+بايوم	Biomo
+لروين	Binoklo
+گبين مچۍ	Mielabelo
+آوسټرالوپیتهېکوس	Aŭstralopitekoj
+نړېواله جگړه	Mondmilito
+روي شنکر	Ravi Shankar
+چندرۍ	Vera lupolo
+کرښی	Liniilo
+قضايي قوه	Justica povo
+ماگنوس کارلسن	Magnus Carlsen
+خاښۍ	Forkego
+ايالت	Subŝtato
+کندوز	Kunduz
+د افغانستان د ښارونو لړليک	Listo de urboj de Afganio
+مارشال	Marŝalo
+هزاره گان	Hazaroj
+کورکورکه	Punktita turto
+الكساندر الكساندروويچ رومانوف	Aleksandro la 3-a (Rusio)
+بلخ ولايت	Provinco Balĥ
+مشهد	Maŝhado
+رنځورپالنه	Flegado
+ټولنیزه ولسواکي	Socialdemokratio
+د ستنې طب	Akupunkturo
+سفارت	Ambasadoro
+کجير	Vulturo
+عقيق	Agato
+ارستوکراسي	Aristokratio
+گيورگې ژوکوف	Georgij Konstantinoviĉ Ĵukov
+د اوبو چينه	Akvofonto
+بڼ پالنه	Ĝardenado
+وېليم جېمز	William James
+غوڅندۍ	Segilo
+سورلنډی	Ŝakalo
+د موسم بدلون	Klimata ŝanĝo
+واټن	Distanco
+پراگماتيزم	Pragmatismo
+وړکتون	Infanĝardeno
+ابن ميمون	Maimonido
+شين یاقوت	Safiro
+پينځڅنډی	Kvinlatero
+ټوټالېټر	Totalismo
+کوچيان	Nomado
+درملپوهنه	Farmakologio
+د زیات شوي ارزښت ورکړېنه	Aldonvalora imposto
+خټنه	Viskozeco
+انتراکس	Antrakso
+خشايارشا	Kserkso la 1-a (Persio)
+مزار شريف	Mazar-i Ŝarif
+د ذرو تعجيل کوونکي ماشين	Partikla akcelilo
+خلافت	Kalifujo
+معمولي آلوبالو	Acida ĉerizo
+زغوپرواژی	Pesticido
+ډومنيک ډي وېلپين	Dominique de Villepin
+د قم ولايت	Provinco Ĥom
+گڼرسنۍ	Plurmedio
+کوروند	Korundo
+سریښ	Gluo
+والي	Guberniestro
+توکمکښنه	Etnografio
+کرما په هندويزم کې	Karmo
+آيورويدا	Ajurvedo
+د جال تړونونه	Ret-komunika protokolo
+جوليوس روبرټ اوپنهايمر	Robert Oppenheimer
+باختر	Baktrio
+هېروگليف	Hieroglifoj
+ولاديمير ولاديميروويچ ماياکوفسکي	Vladimir Majakovskij
+د هند پېښليک	Historio de Barato
+مستعمره	Kolonio
+ملخوزه	Fenugreko
+اخوان المسلمون	Islama Frataro
+تومور	Tumoro
+الياس	Elija
+طاعون	Pesto
+د سېټريک اسيد څرخ	Ciklo de Krebs
+دهرما	Darmo
+ټاسماني شيطان	Tasmana diablo
+توپاز	Topazo
+زابل ولايت	Provinco Zabul
+زکريا	Zeĥarja (patro de Johano la Baptisto)
+مسراشمیت مې-۲۶۲	Messerschmitt Me 262
+ازاد شعر	Libera verso
+ايليوشين-۷۶	Il-76
+فرایشتات	Freistadt
+هربرټ سپېنسر	Herbert Spencer
+زلمی خليلزاد	Zalmay Khalilzad
+سارک	Sud-Azia Unuiĝo por Regiona Kunlaboro
+يوسف	Jozef (filo de Jakob)
+د لويديځ سلاوي ژبې	Okcidentslavaj lingvoj
+اروپايي صنوبر	Ordinara piceo
+چمبل	Violo
+پولي ونيل کلورايډ	Polivinil-klorido
+نانگه	Ruĝa ribo
+قبطيان	Koptoj
+نارنج	Bigarado
+کاجول	Kajol
+پښيميسل اوتاکار ۲	Přemysl Otakar la 2-a
+رودلف ۲ هابسبورگ	Rudolfo la 2-a (Sankta Romia Imperio)
+عبد العزيز بن عبدالرحمن بن فيصل آل سعود	Abdul-Aziz bin Saud
+دېوالي	Bankroto
+ډگر جنرال	Generalleŭtenanto
+بريد جنرال	Brigada generalo
+البرخت فون والدشتاین	Albrecht von Wallenstein
+امير امان الله خان	Amanullah Ĥan
+سکندر مرزا	Iskander Mirza
+یان لوگزامبورگ	Johano de Luksemburgo
+روهتاس	Fortikaĵo de Rothas
+مېسرشمېت بي اف ۱۰۹	Messerschmitt Bf 109
+ميل می ۲۴	Mil Mi-24
+ايساف	Internacia Sekurec-Asista Forto
+ټې-۷۲	T-72
+یونکرس یو ۸۸	Junkers Ju 88
+کارل ۴	Karolo la 4-a (Sankta Romia Imperio)
+مېگ ۲۳	MiG-23
+د آلمان ملي دموکراتیک گوند	Nacidemokrata partio de Germanio
+رشقه	Luzerno
+سره غوړیانه	Turbana lilio
+ادميرال پتنگ	Admiral-papilio
+فيض آباد (بدخشان)	Faizabad
+د افغانستان ولايتونه	Provincoj de Afganio
+تاووس پتنگ	Taga pavo
+پريانکا چوپړا	Prijanka Ĉopra
+ناصر الدين شاه قاجار	Naser al-Din Ŝaho
+یرژي پوديېبراد	Georgo de Podebrado
+وټه	Ekonomio
+د ځمکې گړۍ	Horo por la Tero
+محمد علی جناح	Muhammad Ali Jinnah
+وچکۍ تبه (محرقه)	Tifo
+اتره	Torso
+توت خوره	Fringedoj
+ښاريتوب	Urbanizado
+غونجېدنه (وټپوهنه)	Deflacio
+خپلپالنه	Nepotismo
+باور کارټ	Kreditkarto
+پامير	Pamiro
+سيسۍ	Lagopoj
+سرطانپوهنه	Onkologio
+گلايکوليسېز	Glikolizo
+گایوس واليریوس کاتولوس	Katulo
+بلوچستان (پاکستان)	Baluĉistano (Pakistano)
+غالۍ	Tapiŝo
+موزيکپوهنه	Muzikscienco
+ابسه	Absceso
+گانډۍ	Abelujo
+د کرمان ولايت	Provinco Kerman
+بدخشان ولايت	Provinco Badaĥŝan
+لیکاڼۍ	Plumo (skribilo)
+اتڅنډی	Oklatero
+وړانديز (وټپوهنه)	Mendado kaj ofertado
+پارلماني حکومت	Parlamenta demokratio
+برغټ	Palasa kato
+نگوس	Stereotipo
+نورستان ولايت	Provinco Nuristano
+ډولومیت	Dolomito
+بورقه	Burĥo
+کرايووا	Craiova
+کورکوری	Turto
+روحانيت	Spiriteco
+لاسپېله	Ganto
+گرافېن	Grafeno
+رنځېږن	Infekta agento
+ليکپاکټ	Koverto
+کانفدراسيون	Konfederacio
+ټي اېن ټي	TNT
+چېکيان	Ĉeĥoj
+بغلان ولايت	Provinco Baglan
+ابټ آباد	Abbottabad
+بدن	Korpo (biologio)
+يزد ولايت	Provinco Jazd
+قم	Ĥomo
+توماس اېډورډ لارېنس	Thomas Edward Lawrence
+بيولوژيکي وسلې	Biologia armilo
+ټېغکه	Laniedoj
+باميان ولايت	Provinco Bamijan
+لمرگلی	Sunfloro
+د سهېلي خراسان ولايت	Provinco Suda Ĥorasano
+پېښه	Akcidento
+کرمان	Kermano
+احمديت	Ahmadismo
+د اگرې کلا	Fortikaĵo Agra
+د مذهب خپلواكي	Religia libereco
+تيتر	Numidedoj
+ځانگړواله	Individuismo
+بادغيس ولايت	Provinco Badgis
+قبة الصخرة جومات	Kupolo de la Roko
+رېبز	Balailo
+ټوپولف ټو-۱۵۴	Tupolev Tu-154
+خواړه ساتنه	Konservado
+مارگريت ميتچېل	Margaret Mitĉell
+آرگېنين	Arginino
+غزني	Gazni
+کندهار ولايت	Provinco Kandahar
+کاپيسا ولايت	Provinco Kapisa
+هلمند ولايت	Provinco Helmand
+فارياب ولايت	Provinco Farjab
+محراب	Mihrabo
+د الازهر پوهنتون	Al-Azhar-universitato
+توحيد	Tawhid
+کوډيين	Kodeino
+قبله	Kiblo
+فتح علي شاه قاجار	Fath-Ali Ŝaho Kaĝaro
+واتسلاف ۱	Venceslao la 1-a (Bohemio)
+زوی	Filo
+سکاره	Lignokarbo
+شنقار	Ĉasfalko
+د ژونکې تيوري	Ĉelteorio
+فولېرېن	Fulereno
+نېکروسېز	Nekrozo
+د واشنگټن څلی	Vaŝingtona Monumento
+آنتونوف-۲۲۵	Antonov An-225
+وييپوهنه	Leksikologio
+ننگرهار ولايت	Provinco Nangarhar
+درونکښ	Gruo (maŝino)
+کاني اوبه	Mineralakvo
+نولۍ	Furo
+لگښت ساتنې تگلاره	Protektismo
+آنتیستنس	Antisteno
+اسماني کتابونه او صحيفې	Sanktaj libroj
+ژبساپوهنه	Psikolingvoscienco
+اوبزمکپوهنه	Hidrogeologio
+د مزلو د اړتیاوو د مرتبو سلسله	Piramido de bezonoj laŭ Maslov
+د بازار وټه	Merkata ekonomio
+اپیکوریزم	Epikuranismo
+اورمازده	Ahura Mazda
+درملنه	Terapio
+اريايان	Arjoj
+يعقوب کندي	Al-Kindi
+گورجېس	Gorgio
+سياسي فلسفه	Politika filozofio
+جوهر دوداییف	Ĝoĥar Dudajev
+ايوب	Ijob
+ستورمزلي	Kosmoesploro
+اېکونومېسټ	The Economist
+لمريز لېږديز کليز	Persa kalendaro
+فراه ولايت	Provinco Farah
+غزني ولايت	Provinco Gazni
+راشدين خليفه گان	Kvar Justaj Kalifoj
+وړانگدرملنه	Radioterapio
+کوټه	Ĉambro
+پوهنځی	Fakultato
+بلوچستان	Baluĉio
+دايکندي ولايت	Provinco Daikondi
+پنجشېر ولايت	Provinco Panĝŝir
+ټوپولف ټو-۹۵	Tupolev Tu-95
+بلخ	Balĥo
+آسيايي زمري	Azia leono
+کامبوجيه ۲	Kambizo la 2-a (Persio)
+سرپل ولايت	Provinco Sar-i Pul
+پکتيا ولايت	Provinco Paktia
+خوارزم	Ĥorazmo
+بهرونه	Eksporto
+كنسرټ	Koncerto
+هرات ولايت	Provinco Herat
+سمنگان ولايت	Provinco Samangan
+نيمروز ولايت	Provinco Nimruz
+روزگان ولايت	Provinco Uruzgan
+جوزجان ولايت	Provinco Ĝuzĝan
+ميدان وردگ ولايت	Provinco Vardak
+کورکوړۍ	Meropedoj
+شننيزه فلسفه	Analiza filozofio
+سېموېل کولټ	Samuel Colt
+جلالکوټ	Ĝalalabado
+خيبر پښتونخوا	Ĥajber-Paŝtulando
+اسماعيل	Iŝmael
+لسڅنډی	Deklatero
+چينايي فلسفه	Ĉina filozofio
+بوينگ بي ۱۷ فلاينگ فورټرېس	Boeing B-17
+واسلين	Vazelino
+اوبي ژرنده	Akvomuelejo
+فلېپيني عقاب	Filipina aglo
+لغمان ولايت	Provinco Lagman
+مولتان	Multano
+کوټه (ښار)	Kveta
+پکتيکا ولايت	Provinco Paktika
+کيفيت	Kvalito
+بريدمن	Leŭtenanto
+علي اکبر هاشمي رفسنجاني	Ali Akbar Haŝemi Rafsanĝani
+غور ولايت	Provinco Gor
+تخار ولايت	Provinco Taĥar
+کندوز ولايت	Provinco Kunduz
+د اتریش د خلک ګوند	Aŭstria Popola Partio
+کارسک گيدړ	Korsako
+ابهيشېک بچچن	Abhishek Bachchan
+سالنډي	Dispneo
+کونړ ولايت	Provinco Kunar
+پروان ولايت	Provinco Parvan
+قول اردو	Korpuso (armeo)
+ايمفيسېما	Emfizemo
+احمد ياسين	Aĥmed Jasin
+برهان الدين رباني	Burhanuddin Rabbani
+پريټي زېنتا	Preity Zinta
+سمایلوډون	Smilodonto
+کابل ولايت	Provinco Kabul
+ټېډ	TED (konferencoj)
+آندری کاراطايف	Andrej Korotajev
+پینټریټ	PETN
+اسلامي هنر	Islama arto
+اسلامپالنه	Islamismo
+پوښتنه	Demando
+هیکسوجن	RDX
+ميناتو	Kvartalo Minato-ku (Tokio)
+وزيرستان	Vaziristano
+اوښلن لوگی	Larmiga gaso
+کوستا کونکورديا	Costa Concordia
+د زړه ناروغۍ	Kormalsano
+ابو حنيفه (امام اعظم)	Abu Hanifah
+مرکاوا شوبله	Merkava
+جوهر	Esenco
+ټوپولف ټو-۱۶۰	Tupolev Tu–160
+شيطاني آيات	La satanaj versoj
+مالي کال	Financa jaro
+پرولاکټين	Prolaktino
+ټانگتوره	Daturo
+تیسفون	Seleŭkio-Ktesifono
+ډېلي ټيليگراف	The Daily Telegraph
+سبسيډي	Subvencio
+د پراگ کلا	Praga burgo
+آنتونوف-۱۲۴	Antonov An-124
+خړانکه	Pipioj
+فريد الدين عطار	Farid-ud-din Attar
+امام احمد بن حنبل	Ahmad ibn Hanbal
+کابل بانک	Kabul Bank
+ام کيو-۱ پرېډاټور	Predator
+کوږوږ	Zigzago
+زيډووډين	Zidovudino
+گلروزنه	Florikulturo
+افغانۍ	Afgana afganio
+احمد شاه مسعود	Ahmad Ŝah Masud
+آزاد کشمير	Azad Kaŝmiro
+اوبسپی	Lutrenoj
+چينايي دوديزه درملگري	Ĉina tradicia medicino
+گېلگېت بالتستان	Gilgit-Baltilando
+ټراک	Ĝardensilvio
+کېټ وېنسلېټ	Kate Winslet
+لرغونې فلسفه	Helena filozofio
+زين العابدين بن علي	Zine El Abidine Ben Ali
+يوني ماشين	Jonpelilo
+نېټه	Dato
+ایزو ۹۰۰۰	ISO 9000
+ترچ مير	Tiriĉ Mir
+مطبوعاتي اعلاميه	Gazetara komuniko
+زنځيري غوڅندۍ	Motorsegilo
+فدرالي قبايلي سيمې	Federacie Administrataj Tribareoj
+گونگه ښارو	Bombiciledoj
+د مذهب فلسفه	Filozofio de la religio
+چندړ	Blanka santalo
+سيد قطب	Sajid Kutb
+بوکو حرام	Boko Haram
+اېنډوسکوپي	Endoskopio
+غونډل	Tarantulo
+گندهارا	Gandhara
+کوډېکس	Kodekso (filologio)
+يان ژيژکا	Jan Žižka
+يوم	Ŝpato
+مقتدی الصدر	Muktada al-Sadr
+چت	Planko
+آلانين	Alanino
+ښکلي هنرونه	Belartoj
+جنگسالار	Militsenjoro
+د سږو امبولي	Pulma embolio
+ښي لاسی او کيڼ لاسی ترافيک	Trafikflanko
+De Havilland Mosquito	De Havilland Mosquito
+کيشپ	Testuduloj
+سټېنگر FIM-92	FIM-92 Stinger
+دماغي مړينه	Cerba morto
+شوننېزم	Ŝovinismo
+امريکا غږ	Voĉo de Usono
+درې بعدي چاپگر	3D-presilo
+مامولکه	Motaciloj
+ډېل کارنېگي	Dale Carnegie
+مېتی	Pioĉo
+سار	Aglobuteo
+مکه معظمه	Emirlando Mekko
+سپين توت	Nonio
+سورت	Surao
+حديث	Hadito
+حج	Haĝo
+لونيک	Balkana lunario
+ميل مي - ۲۸	Mil Mi-28
+ديکلوفيناک	Diklofenako
+د غزنويانو ټولواکمني	Gaznavida Imperio
+څلوريزه	Robajo
+ابن طفيل	Ibn Tufail
+آسي ژرنده	Ĉevalmuelejo
+فيفا	FIFA
+رابعه بصري	Rabia (sufisma poetino)
+ږدن	Milio
+د کارلشتین کلا	Karlštejn
+پلسيوسور	Pleziosaŭruloj
+گڼ پوهيال	Tutfakulo
+د سپاه پاسداران انقلاب اسلامی ځواک	Pasdarano
+آنتونوف-۱۲	Antonov An-12
+نوشاخ	Noŝak
+خټگري	Masonaĵo
+بسم الله الرحمن الرحيم	Bismilah
+غزل	Gazalo
+شهاب الدين سهروردي	Sohraŭardi
+يعقوب	Jakobo
+امام شافعي	Al-Shafi'i
+سيد جمال الدين افغاني	Jamal al-Din al-Afghani
+نور محمد ترکی	Nur Mohammad Taraki
+سادات	Sajido
+د راديوايزوټوپونو ترموبريښنایی جنريټر	Radioizotopa termoelektra generatoro
+لور	Filino
+ميمنه ولسوالۍ	Maimana
+ماخۍ	Alhagi
+امام مالک بن انس	Malik ibn Anas
+نورالدين عبدالرحمن جامي هروي	Ĝami
+خان عبدالغفار خان	Khan Abdul Ghaffar Khan
+غزی	Himantopo (genro)
+عبدالله عبدالله	Abdullah Abdullah
+مېلبورن پوهنتون	Universitato de Melburno
+کنکه لېږندويه انسېفلايټس	Fru-Somera Meningo-Encefalito
+ويي جوړښت	Vortfarado
+د سولې نړيواله ورځ	Internacia Tago de la Paco
+ناصر خسرو	Naser Ĥosro
+شپې ليد سترگۍ	Noktovidilo
+پادشاهی جومات	Moskeo Badŝahi
+اپورتونېزم	Oportunismo
+ابوبکر	Abu Bakr
+ابو مسلم خراساني	Abu Muslim
+کاشي	Glazuro
+تفسير	Tafsir
+محمد علي شاه قاجار	Mohammad Ali Ŝaho Kaĝaro
+سلمان ابن عبدالعزیز آل سعود	Salman bin Abdul-Aziz Al Saud
+سليووويټز	Slivovico
+اردشیر پاپاکان	Ardaŝiro la 1-a
+جده	Ĝido
+د چين نړيواله راډيو	Ĉina Radio Internacia
+لوييس سلوتين	Louis Slotin
+لمن لگښت	Marĝenaj kostoj
+افغان	Afganoj
+کارلوی واری	Karlovy Vary
+اهل بيت	Ahl al-Bajt
+خوست	Ĥost
+د هخامنشیانو ټولواکمني	Aĥemenida Imperio
+معیاري ژبه	Norma lingvo
+الاقصی جومات	Moskeo Al-Aksa
+مسجد الحرام	Masĝid al-Haram
+منبر	Minbaro
+اسلامي بانکوالی	Islama banko
+هنري کوربان	Henry Corbin
+د درانيانو ټولواکمني	Durana Imperio
+گردېز	Gardez
+ويليم مونټگمري وات	William Montgomery Watt
+لښکرگاه	Laŝkar Gah
+تالقان	Talokan
+شريعت	Ŝario
+اوزبکان	Uzbekoj
+ازمېښتون	Laboratorio
+جيروسكوپ	Giroskopo
+تاجکيان	Taĝikoj
+سني اسلام	Sunaismo
+آزربايجاني منات	Azerbajĝana manato
+بې پيلوټه الوتکه	Senhoma aviadilo
+محمد اقبال	Muhammad Ikbal
+فقه	Fikho
+مۍ	Mungfabo
+د باميانو بودايي پژۍ	Budhoj el Bamijan
+تورکمنان	Turkmenoj
+نړیوال سازمان	Internacia organizaĵo
+د ژبې فلسفه	Filozofio de lingvo
+شانگهای د همکاريو سازمان	Ŝanhaja Organizo por Kunlaboro
+کلبيان	Cinikismo
+د آزادۍ راډيو	Radio Libera Eŭropo
+اورنگزیب عالمگیر	Aŭrangzebo
+راني موکېرجي	Rani Mukerji
+مسجد نبوي	Moskeo de la Profeto
+اسلاموفوبيا	Islamofobio
+ازبکستاني سوم	Uzbeka somo
+مېټامتريال	Metamaterialo
+توبه	Pentofaro
+انځور خبريالي	Fotoĵurnalismo
+محمد عالم خان	Alim Ĥan
+رضوي خراسان ولايت	Provinco Razavi-Ĥorasano
+بفر سټېټ	Bufroŝtato
+کونډه	Karabenhoko
+څارنوال	Akuzisto
+بوکان	Bukan
+ابهيدا	Abidarmo
+ډئيزم	Diismo
+دگماتېزم	Dogmo
+گلسر	Ruĝfrunta kanario
+د هوتکيانو ټولواکمني	Hotaka dinastio
+امام جومات	Moskeo de la Ŝaho
+کتيتر	Katetero
+شهاب ۳	Shahab-3
+اسحاق	Isaak
+اسد آباد	Asadabad
+ټاټرا ۸۱۵	Tatra 815
+ريگويدا	Rigvedo
+تارو	Perdrikoj
+نورستانيان	Nuristananoj
+لاله سری	Ruĝkapa falko
+چنجری	Frankolino
+د غشی زهر آبي چونگښه	Dendrobates azureus
+تپندۍ	Trulo
+معمولي وامبټ	Kutima vombato
+کورکورۍ	Blankventra stepkoko
+بوټځمکپوهنه	Fitogeografio
+پنجوايي ولسوالۍ	Panĝvaj
+ظهير الدين محمد بابر	Babur
+درېيځ (مېچپوهنه)	Kubo (geometrio)
+هډپوهنه	Ostologio
+ارواپالنه	Spiritualismo
+چاپېريال ساتنه	Mediprotekto
+جنت	Jannaho
+فيزيکي کتنه	Korpa ekzameno
+يهودي فلسفه	Juda filozofio
+اومان	Ephedra
+امام علي آرام ځاي	Moskeo Imamo Ali
+ټاټرا ټې – ۳	Tatra T3
+لوېديځه فلسفه	Okcidenta filozofio
+آئیسو 639-3	ISO 639-3
+عيسوي فلسفه	Kristana filozofio
+دوه څنډی	Dulatero
+تورړۍ	Nigra enanto
+وییزېرمه	Glosaro
+معاصره فلسفه	Moderna filozofio
+د ناروغيو لړليک	Listo de homaj malsanoj
+يوناني درمل	Herbokuracado
+سمونتيا	Reformo
+توردلی	Saksikoloj
+مونټ سټوارټ الفنسټن	Mountstuart Elphinstone
+سجده	Saĝdeo
+اسلامي وييپانگه	Islamaj terminoj
+ميدان ښار ولسوالۍ	Maidan Ŝahr
+د سيستان او بلوچستان ولايت	Provinco Sistano kaj Baluĉistano
+د علیت برهان	Argumento kosmologia
+سپين باز	Blanka buteo
+اېکزېما	Ekzemo
+لرغونې يوناني فلسفه	Sintezo de la greka filozofio
+يشناټکی	Bolpunkto
+د فارس ولايت	Provinco Fars
+پارون	Parun (urbo)
+هالي بېري	Halle Berry
+اږبکه	Purpura hirundo
+د لوگر ولايت د بيارغونې ډله	Provinca rekonstrua teamo
+پېښور	Peŝavaro
+آر پي جي – ۲۹	RPG-29
+څېړنيزه خبريالي	Esploranta ĵurnalismo
+حدود	Hudud
+فرعوني مېږی	Faraona formiko
+اداينه	Pago
+جرگه	Ĝirga
+ډومبک	Saksikolenoj
+اپولینارېزم	Apolinariismo
+شکوڼ	Histriko
+تعبیه شوی چاودیدونکی وسیله	Improviza eksploda aparato
+بېړۍ ژرنده	Ŝipmuelejo
+سولگریز جال	Komputila reto
+د حکومت بڼې	Regformo
+پر اسلام نيوکه	Kritiko de Islamo
+کابل پوهنتون	Kabula Universitato
+د اصفهان ولايت	Provinco Isfahano
+ويکيپېډيا:وييپانگه	Helpo:Vikipedia terminaro
+وېشنيزه:د امريکا متحده ايالات	Kategorio:Usono
+وېشنيزه:روسيه	Kategorio:Rusio
+وېشنيزه:کاناډا	Kategorio:Kanado
+وېشنيزه:برطانيه	Kategorio:Unuiĝinta Reĝlando
+وېشنيزه:چين	Kategorio:Ĉinio
+وېشنيزه:هندوستان	Kategorio:Barato
+وېشنيزه:سعودي عربستان	Kategorio:Sauda Arabio
+وېشنيزه:ايران	Kategorio:Irano
+وېشنيزه:افغانستان	Kategorio:Afganio
+وېشنيزه:الجېريا	Kategorio:Alĝerio
+وېشنيزه:عراق	Kategorio:Irako
+وېشنيزه:نېدرلانډ/هالېنډ	Kategorio:Nederlando
+وېشنيزه:نايجېريا	Kategorio:Niĝerio
+وېشنيزه:پاکستان	Kategorio:Pakistano
+وېشنيزه:د روم امپراطوری	Kategorio:Romia Imperio
+وېشنيزه:مارغان	Kategorio:Birdoj
+وېشنيزه:بوټي	Kategorio:Plantoj
+وېشنيزه:ژونپوهنه	Kategorio:Biologio
+وېشنيزه:پېښليک	Kategorio:Historio
+وېشنيزه:ځمکپوهنه	Kategorio:Geografio
+وېشنيزه:ټولنه	Kategorio:Socio
+وېشنيزه:مذهب	Kategorio:Religio
+وېشنيزه:ورزښت	Kategorio:Sporto
+وېشنيزه:اروپايي اتحاديه	Kategorio:Eŭropa Unio
+وېشنيزه:ټوليزې رسنۍ	Kategorio:Amaskomunikiloj
+وېشنيزه:ژبه	Kategorio:Lingvo
+وېشنيزه:ځمکه	Kategorio:Tero
+وېشنيزه:تشيال	Kategorio:Spaco
+مړاپ زره پوښ گاډي	MRAP
+ټېمېلين اټومي برېښناکوټ	Nuklea elektrejo Temelín
+د بشري حقونو نړېواله اسلامي اعلاميه	Deklaracio de homaj rajtoj en islamo
+د پاکستان هوايي ځواک	Pakistana Aerarmeo
+سرپل	Sar-i Pul
+اورمکۍ	Noktopapilio
+کينډۍ:/بکس-پايليک	Portalo:Box-footer
+نړيواله ټولنه	Internacia komunumo
+ملهم	Balzamo
+کاربون نانو نل	Nanotubo
+محصول	Produkto
+ارغنداب ولسوالۍ (کندهار)	Arghandab
+خبريال	Ĵurnalisto
+کيشکره	Nucifrago
+وېشنيزه:فلسفه	Kategorio:Filozofio
+وېشنيزه:عيسويت	Kategorio:Kristanismo
+وېشنيزه:اسلام	Kategorio:Islamo
+وېشنيزه:يهوديت	Kategorio:Judismo
+تاکتيک	Taktiko
+رهبانيت	Ordeno (eklezio)
+گوربت	Aglo
+چسکی کروملوف (ماڼۍ)	Český Krumlov (kastelo)
+چرگ	Virkoko
+وړانگه	RAY
+بوښوتنيکا	Bochotnica
+د عراق او شام اسلامي دولت	Islama Ŝtato de Irako kaj Sirio
+يونس	Jona (profeto)
+د افغانستان ژبې	Lingvoj de Afganio
+بادخورک	Turfalkoj
+د فيلسوفانو لړليک	Listo de filozofoj
+ویدانتا	Vedanto
+پښتانه	Paŝtooj
+شرن	Ŝaran
+شاه ولي کوټ ولسوالۍ	Ŝah Vali Kot
+خاکرېز ولسوالۍ	Ĥakrez
+تخنيک	Tekniko
+تهافت الفلاسفه	La Nekohereco de la Filozofoj
+رسنۍ	Meznombro
+سمبالښت	Administradoscienco
+وېشنيزه:هڅوب	Kategorio:Kulturo
+وېشنيزه:لويې وچې	Kategorio:Kontinentoj
+وېشنيزه:ځمکپېژنده	Kategorio:Geologio
+وېشنيزه:الوتکې	Kategorio:Aviadiloj
+هېواد	Lando (franca teritorio)
+غوړگه	Suro (muskolo)
+تانبه:ځمکپوهنه	Portalo:Geografio
+د کوکا کولا شرکت	The Coca-Cola Company
+ببی	Galinago
+ويکيپېډيا:غونډال ته څنګه ورننوځو	Helpo:Registriĝo
+کيمياوي وسلې	Kemia armilo
+وېشنيزه:د پوهنغونډ روباټان	Kategorio:Vikipedio:Robotoj
+وېشنيزه:د افغانستان توکمونه	Kategorio:Etnoj en Afganio
+خوبانۍ	Abrikoto
+څلوريځ	Kupleo
+د مسلمانو فيلسوفانو لړليک	Listo de islamaj filozofoj
+سورلکۍ	Ruĝvostuloj (grupo)
+کينډۍ:دوراشې کامه	Ŝablono:Citaĵo
+وېشنيزه:هېوادونه	Kategorio:Landoj
+وېشنيزه:وټپوهنه	Kategorio:Ekonomiko
+ويکيپېډيا:پازوالان	Vikipedio:Administrantoj
+ويکيپېډيا:روباټان	Vikipedio:Roboto
+وېشنيزه:وخت	Kategorio:Tempo
+وېشنيزه:انټرنټ	Kategorio:Interreto
+وېشنيزه:پیسې	Kategorio:Mono
+وېشنيزه:بوټپوهنه	Kategorio:Botaniko
+وېشنيزه:اناتومي	Kategorio:Anatomio
+وېشنيزه:طب	Kategorio:Medicino
+وېشنيزه:سياست	Kategorio:Politiko
+گڼنه	Kontado
+مصر	Egiptujo
+اسلامي نظام	Islama ŝtato
+وېشنيزه:فيلسوفان	Kategorio:Filozofoj
+کينډۍ:Bot	Ŝablono:Bot
+خپگان	Deprimo
+کاناډا	Kanado
+وېشنيزه:هنګري	Kategorio:Hungario
+وېشنيزه:چېک جمهوريت	Kategorio:Ĉeĥio
+وېشنيزه:سلواکيا	Kategorio:Slovakio
+غوښتنه (وټپوهنه)	Mendado
+وېشنيزه:مايکروسافټ	Kategorio:Mikrosofto
+کينډۍ:Flagicon	Ŝablono:Flagikono
+وېشنيزه:د اروپا هېوادونه	Kategorio:Eŭropaj landoj
+وېشنيزه:اروپا	Kategorio:Eŭropo
+تانبه:تازه پېښې	Vikipedio:Aktualaĵoj
+کينډۍ:لاسوند	Ŝablono:Dok
+ويکيپېډيا:د ټولنې تانبه	Portalo:Komunumo
+وېشنيزه:User languages	Kategorio:Vikipediistoj laŭ lingvo
+عايشه بنت ابي بکر	Aiŝa
+سوداگري	Profitcela organizaĵo
+تانبه:ټکنالوجي	Portalo:Inĝenierarto
+کينډۍ:Softredirect	Ŝablono:Intervikia plusendilo
+کينډۍ:ړنگول	Ŝablono:Forigu tuj
+ليکبڼه	Tiparo
+وېشنيزه:ژبې	Kategorio:Lingvoj
+ويکيپېډيا:General disclaimer	Vikipedio:Malgarantio
+وېشنيزه:د چېک جمهوريت ښارونه	Kategorio:Urboj de Ĉeĥio
+کينډۍ:Navbox	Ŝablono:Navigilo2
+ويکيپېډيا:Shortcut	Ŝablono:Mallongigo
+وېشنيزه:د ایران ښارونه	Kategorio:Urboj de Irano
+کينډۍ:Citation needed	Ŝablono:Mankas fonto
+تانبه:ژوندليکونه	Portalo:Homoj
+کينډۍ:!	Ŝablono:!
+کينډۍ:Tnavbar	Ŝablono:Tnavbar
+ايمان	Fido
+کينډۍ:Anchor	Ŝablono:Ankro
+کينډۍ:Babel	Ŝablono:Babelejo
+کينډۍ:Commons	Ŝablono:Commons
+کينډۍ:لړسرچينې	Ŝablono:Referencoj
+کينډۍ:AFG	Ŝablono:AFG
+کينډۍ:Gnunote	Ŝablono:Gnunote
+کينډۍ:نابشپړ	Ŝablono:Ĝermo
+کينډۍ:User de	Ŝablono:Vikipediisto de
+کينډۍ:User en-3	Ŝablono:Vikipediisto en-3
+کينډۍ:User en-1	Ŝablono:Vikipediisto en-1
+کينډۍ:User en-2	Ŝablono:Vikipediisto en-2
+کينډۍ:User en	Ŝablono:Vikipediisto en
+کينډۍ:User fa	Ŝablono:Vikipediisto fa
+وېشنيزه:افغاني هڅوب	Kategorio:Kulturo de Afganio
+کينډۍ:User ja	Ŝablono:Vikipediisto ja
+کينډۍ:User ja-1	Ŝablono:Vikipediisto ja-1
+وېشنيزه:آسيا	Kategorio:Azio
+کينډۍ:Esoteric	Ŝablono:Esotera
+کينډۍ:Mod	Ŝablono:Mod
+کينډۍ:ISO639-3Documentation	Ŝablono:ISO639-3 ligilo
+وېشنيزه:درملپوهنه	Kategorio:Farmakologio
+وېشنيزه:ژبپوهنه	Kategorio:Lingvoscienco
+کينډۍ:Click	Ŝablono:Ligo el bildo
+کينډۍ:Wikivar	Ŝablono:Wikivar
+کينډۍ:د انځور نښه	Ŝablono:Marko sur bildo
+کينډۍ:ليکوال-مالوماتبکس/لاسوند	Ŝablono:Informkesto verkisto
+کينډۍ:Ambox	Ŝablono:ArtikolaMesaĝokesto
+کينډۍ:دکارنبکس-بېخ	Ŝablono:Uzantoskatolaro/fino
+کينډۍ:هېواد-مالوماتبکس	Ŝablono:Informkesto lando
+کينډۍ:ترسره شو	Ŝablono:Farita
+کينډۍ:Audio	Ŝablono:Aŭdio
+کينډۍ:Start box	Ŝablono:Komencskatolo
+کينډۍ:ساينسپوه-مالوماتبکس	Ŝablono:Informkesto sciencisto
+کينډۍ:پوهنتون مالوماتبکس/لاسوند	Ŝablono:Informkesto universitato
+کينډۍ:د فايرفاکس کارن	Ŝablono:Uzanto Mozilo
+کينډۍ:Ar	Ŝablono:Lang-ar
+کينډۍ:Featured article	Ŝablono:Elstara
+وېشنيزه:User en	Kategorio:Vikipediisto en
+وېشنيزه:User en-2	Kategorio:Vikipediisto en-2
+کينډۍ:مالوماتبکس	Ŝablono:Informkesto
+کينډۍ:د ايران ولايتونه	Ŝablono:Provincoj de Irano
+کينډۍ:User zh	Ŝablono:Vikipediisto zh
+کينډۍ:Colorbox	Ŝablono:Kolorita kesto
+وېشنيزه:دوتر توکي	Kategorio:Oficeja aparataro
+کينډۍ:د المان ايالتي نقشه	Ŝablono:Federaciaj landoj sur mapo de Germanio
+کينډۍ:User ru-4	Ŝablono:Vikipediisto ru-4
+کينډۍ:Pp-template	Ŝablono:Pp-ŝablono
+وېشنيزه:کرهڼه	Kategorio:Agrikulturo
+کينډۍ:User ru	Ŝablono:Vikipediisto ru
+کينډۍ:نغا	Ŝablono:IFA
+وېشنيزه:سياستوال	Kategorio:Politikistoj
+وېشنيزه:لمريز نظام	Kategorio:Sunsistemaj planedoj
+وېشنيزه:امريکا	Kategorio:Ameriko
+کينډۍ:Infobox Officeholder	Ŝablono:Informkesto politikisto
+کينډۍ:Border	Ŝablono:Bordero
+کينډۍ:ويکيسازنه	Ŝablono:Vikiigenda
+کينډۍ:Familytree/end	Ŝablono:Genealogia arbo/fino
+وېشنيزه:ليکوال	Kategorio:Verkistoj
+کينډۍ:د کتاب مالوماتبکس-1	Ŝablono:Informkesto libro
+وېشنيزه:اسلامي وييپانګه	Kategorio:Arabaj vortoj
+کينډۍ:Booland	Ŝablono:Booland
+وېشنيزه:څارګرې ادارې	Kategorio:Sekretaj servoj
+کينډۍ:Tlx	Ŝablono:Tlx
+کينډۍ:Lang-la	Ŝablono:Lang-la
+کينډۍ:Lang-el	Ŝablono:Lang-el
+وېشنيزه:اخلاق	Kategorio:Etiko
+د سره صليب نړيواله ټولنه	Internacia Komitato de la Ruĝa Kruco
+وېشنيزه:چاودېدونكى مواد	Kategorio:Eksplodaĵoj
+کينډۍ:Pp-meta	Ŝablono:Pp-meta
+وېشنيزه:سولګر	Kategorio:Komputilo
+وېشنيزه:توکي	Kategorio:Aparataro
+کينډۍ:مالوماتبکس لويه وچه	Ŝablono:Informkesto kontinento
+وېشنيزه:پخوانی ژبې	Kategorio:Mortaj lingvoj
+وېشنيزه:User ja-N	Kategorio:Vikipediisto ja-D
+کينډۍ:Polytonic	Ŝablono:Polytonic
+کينډۍ:Familytree/start	Ŝablono:Genealogia arbo/komenco
+کينډۍ:نامبهمېدنه	Ŝablono:Apartigilo
+وېشنيزه:اسرائیلي جوماتونه	Kategorio:Moskeoj en Israelo
+وېشنيزه:د ایران امپراتورۍ او پاچاهۍ	Kategorio:Persa imperio
+کينډۍ:Lang-grc	Ŝablono:Lang-grc
+کينډۍ:FRA	Ŝablono:FRA
+کينډۍ:Npov	Ŝablono:Malneŭtraleco
+کينډۍ:بوديزم	Ŝablono:Budhismo
+وېشنيزه:User ja	Kategorio:Vikipediisto ja
+وېشنيزه:User ko-N	Kategorio:Vikipediisto ko-D
+وېشنيزه:User ru-N	Kategorio:Vikipediisto ru-D
+وېشنيزه:وختتېری	Kategorio:Distrado
+وېشنيزه:تاريخپوهان	Kategorio:Historiistoj
+وېشنيزه:User de	Kategorio:Vikipediisto de
+وېشنيزه:User de-N	Kategorio:Vikipediisto de-D
+کينډۍ:د افغانستان ولايتونه	Ŝablono:Provincoj de Afganio
+وېشنيزه:User en-3	Kategorio:Vikipediisto en-3
+وېشنيزه:User en-N	Kategorio:Vikipediisto en-D
+وېشنيزه:User fa	Kategorio:Vikipediisto fa
+کينډۍ:N/A	Ŝablono:N/a
+وېشنيزه:د اسلام پيغمبران	Kategorio:Profetoj en islamo
+وېشنيزه:مېچپوهنه	Kategorio:Geometrio
+کينډۍ:Weather box	Ŝablono:Informkesto jara klimo
+وېشنيزه:هنرمندان	Kategorio:Artistoj
+وېشنيزه:User ja-1	Kategorio:Vikipediisto ja-1
+کينډۍ:نستعليق	Ŝablono:Persa belskribo
+وېشنيزه:ژمنۍ لوبې	Kategorio:Vintra sporto
+وېشنيزه:User ko	Kategorio:Vikipediisto ko
+وېشنيزه:د امريکا د متحده ايالاتو ايالتونه	Kategorio:Usonaj ŝtatoj
+کينډۍ:د نېټه کارن	Ŝablono:Vikipediisto dato
+وېشنيزه:د ایران ولایتونه	Kategorio:Provincoj de Irano
+وېشنيزه:User ru-1	Kategorio:Vikipediisto ru-1
+وېشنيزه:مخدره مواد	Kategorio:Drogoj
+وېشنيزه:اند	Kategorio:Pensado
+وېشنيزه:سياسي هڅوب	Kategorio:Politika kulturo
+وېشنيزه:لمريز غونډال	Kategorio:Sunsistemo
+وېشنيزه:مخترعين	Kategorio:Inventistoj
+وېشنيزه:سر او غاړه	Kategorio:Homaj kapo kaj kolo
+وېشنيزه:ژوپوهنه	Kategorio:Zoologio
+وېشنيزه:هلیکوپترونه	Kategorio:Helikopteroj
+وېشنيزه:ټولنيزې پوهنې	Kategorio:Socia scienco
+وېشنيزه:د آفریقاهیوادونه	Kategorio:Afrikaj landoj
+وېشنيزه:د هخامنشیانو حکمرانان	Kategorio:Aĥemenida imperio
+وېشنيزه:حزب الله	Kategorio:Hizbulaho
+وېشنيزه:User ro-3	Kategorio:Vikipediisto ro-3
+وېشنيزه:User ru	Kategorio:Vikipediisto ru
+وېشنيزه:User ru-2	Kategorio:Vikipediisto ru-2
+وېشنيزه:User ru-3	Kategorio:Vikipediisto ru-3
+وېشنيزه:User ru-4	Kategorio:Vikipediisto ru-4
+کينډۍ:Lang	Ŝablono:Lang
+وېشنيزه:د ۱۹۵۷ کال زېږېدنې	Kategorio:Naskiĝintoj en 1957
+لوگر ولايت	Provinco Lugar
+کينډۍ:امينواسيدونه	Ŝablono:Aminoacidoj
+وېشنيزه:افغانان	Kategorio:Afganoj
+د آلمان دپاره آلترناتیف	Alternativo por Germanio
+وېشنيزه:آرنی	Kategorio:Artikoloj
+وېشنيزه:اوبتلونه	Kategorio:Submarŝipoj
+کينډۍ:Style/ara	Ŝablono:Style/ara
+کينډۍ:Familytree/step2	Ŝablono:Genealogia arbo/paŝo2
+وېشنيزه:ليبيا	Kategorio:Libio
+وېشنيزه:د افغانستان وټه	Kategorio:Ekonomio de Afganio
+کينډۍ:Infobox Language/family-color	Ŝablono:Informkesto lingvo/Koloro
+کينډۍ:User ru-1	Ŝablono:Vikipediisto ru-1
+کينډۍ:دا وخت	Ŝablono:Hodiaŭ
+وېشنيزه:روسي ساينسپوهان	Kategorio:Sciencistoj de Rusio
+وېشنيزه:بازارموندنه	Kategorio:Merkatado
+وېشنيزه:د نړۍ هېوادونه	Kategorio:Internaciaj rilatoj
+وېشنيزه:غږپوهنه	Kategorio:Fonologio
+وېشنيزه:مالیه	Kategorio:Financoj
+وېشنيزه:د افغانستان ولايتونه	Kategorio:Provincoj de Afganio
+وېشنيزه:د چېک خلک	Kategorio:Ĉeĥoj
+وېشنيزه:مرکزي بانکونه	Kategorio:Centraj bankoj
+وېشنيزه:کيمياوي توکي	Kategorio:Kemiaj elementoj
+وېشنيزه:امريکايي فيلسوفان	Kategorio:Usonaj filozofoj
+وېشنيزه:ساينسپوهان	Kategorio:Sciencistoj
+وېشنيزه:سولګر ملتونونه	Kategorio:Firmaoj pri komputiko
+وېشنيزه:سهېلي کوريا	Kategorio:Nord-Koreio
+وېشنيزه:د ليبيا خلک	Kategorio:Libianoj
+وېشنيزه:ايراني سیاستوال	Kategorio:Iranaj politikistoj
+وېشنيزه:د پاکستان سياستوال	Kategorio:Pakistanaj politikistoj
+وېشنيزه:خبريالي	Kategorio:Ĵurnalistiko
+وېشنيزه:اوزبکستان	Kategorio:Uzbekio
+وېشنيزه:مغولو پاچايي	Kategorio:Mogola imperio
+وېشنيزه:عثماني پېر	Kategorio:Otomana Imperio
+وېشنيزه:پاکستاني هېوادمشران	Kategorio:Prezidantoj de Pakistano
+وېشنيزه:مېوې	Kategorio:Fruktoj
+وېشنيزه:زهرلرونکي نباتونه	Kategorio:Venenaj plantoj
+وېشنيزه:د اروپا سيمې	Kategorio:Regionoj en Eŭropo
+وېشنيزه:د آسیا جغرافیا	Kategorio:Geografio de Azio
+وېشنيزه:جوماتونه	Kategorio:Moskeoj
+وېشنيزه:د ترکیې جوماتونه	Kategorio:Moskeoj en Turkio
+وېشنيزه:انتي بيوتيکونه	Kategorio:Antibiotikoj
+وېشنيزه:د شمېرپوهنې ډګرونه	Kategorio:Matematikaj studfakoj
+وېشنيزه:خبري اژانس	Kategorio:Novaĵagentejoj
+وېشنيزه:بشرِی حقوق	Kategorio:Homaj rajtoj
+وېشنيزه:ناټو	Kategorio:NATO
+وېشنيزه:پوځي وييونه	Kategorio:Milita terminologio
+وېشنيزه:غړي	Kategorio:Organoj
+وېشنيزه:وسلې	Kategorio:Armiloj
+وېشنيزه:پاړسي ژبه	Kategorio:Persa lingvo
+وېشنيزه:اېډز	Kategorio:Aidoso
+وېشنيزه:قران	Kategorio:Korano
+وېشنيزه:ناروغۍ	Kategorio:Malsanoj
+وېشنيزه:ترافيک ترانسپورت	Kategorio:Transporto
+وېشنيزه:لوبې	Kategorio:Sportoj
+وېشنيزه:کورنۍ	Kategorio:Familio
+وېشنيزه:قضاء	Kategorio:Justeco
+وېشنيزه:سندرغاړي	Kategorio:Kantistoj
+وېشنيزه:وټپوهان	Kategorio:Ekonomikistoj
+کينډۍ:د ژبې مالوماتبکس	Ŝablono:Informkesto lingvo
+وېشنيزه:ځمکپوهان	Kategorio:Geografoj
+وېشنيزه:ولسواکي	Kategorio:Demokratio
+وېشنيزه:درمل	Kategorio:Medikamentoj
+وېشنيزه:ټانکونه	Kategorio:Tankoj
+وېشنيزه:د آفریقا د هېوادونو پلازمېنې	Kategorio:Ĉefurboj de Afriko
+وېشنيزه:ايراني هڅوب	Kategorio:Kulturo de Irano
+وېشنيزه:د رومانیا ښارونه	Kategorio:Urboj de Rumanio
+وېشنيزه:کراچۍ	Kategorio:Karaĉio
+وېشنيزه:کابل	Kategorio:Kabulo
+وېشنيزه:د آسیا د هېوادونو پلازمېنې	Kategorio:Ĉefurboj de Azio
+وېشنيزه:د افغانستان ژبې	Kategorio:Lingvoj de Afganio
+وېشنيزه:هندوکش	Kategorio:Hindukuŝo
+وېشنيزه:د افغانستان جوماتونه	Kategorio:Moskeoj en Afganio
+کينډۍ:يهوديت	Ŝablono:Judismo
+کينډۍ:رنگ مالوماتبکس	Ŝablono:Informkesto koloro
+وېشنيزه:د آسیا هېوادونه	Kategorio:Aziaj landoj
+کينډۍ:سياسي اندونه	Ŝablono:Ideologio
+کينډۍ:Sw icon	Ŝablono:Sw
+وېشنيزه:د القلوید مواد	Kategorio:Alkaloidoj
+نومونپوهنه	Terminologio
+کينډۍ:غوږ شه	Ŝablono:Aŭskultu
+وېشنيزه:مسلمان فيلسوفان	Kategorio:Islamaj filozofoj
+وېشنيزه:بسونه	Kategorio:Aŭtobusoj
+وېشنيزه:تصوف	Kategorio:Sufiismo
+وېشنيزه:ورکړېنې	Kategorio:Impostoj
+وېشنيزه:پاکستاني جوماتونه	Kategorio:Moskeoj en Pakistano
+وېشنيزه:د چیک ولسمشران	Kategorio:Prezidantoj de Ĉeĥio
+وېشنيزه:د لويديځ سلاوي ژبې	Kategorio:Okcidentslava lingvaro
+وېشنيزه:د چېک پوځي تخنيک	Kategorio:Ĉeĥa bataltekniko
+وېشنيزه:User en-1	Kategorio:Vikipediisto en-1
+وېشنيزه:اسلامپوهان	Kategorio:Islamologoj
+کينډۍ:Userbox-level	Ŝablono:Userbox-level
+دويم بريدمن	Subleŭtenanto
+کينډۍ:User zh-min-nan-3	Ŝablono:Vikipediisto zh-min-nan-3
+ټغ	Garolo
+کوکۍ	Rhopalocera
+مولۍ	Kultiva rafano
+درملتون	Apoteko
+کينډۍ:Style/ril	Ŝablono:Style/ril
+کينډۍ:Style/IPA	Ŝablono:Style/IPA
+کينډۍ:Style/yid	Ŝablono:Style/yid
+ځانګړی:اوسني بدلونونه	Specialaĵo:Lastaj ŝanĝoj
+Module:Coordinates	Modulo:Coordinates

@@ -1,0 +1,419 @@
+Abĩrika	Afriko
+Japan	Japanio
+Amerika ya Kuthini	Sudameriko
+Ngeretha	Anglio
+Macartsa	Hungario
+United States	Usono
+Binirandi	Finnlando
+Cuindeni	Svedio
+Ndenimaki	Danio
+Rithuĩnia	Litovio
+Itari	Italio
+Ngiriki	Grekio
+Takĩ	Turkio
+Wikipedia	Vikipedio
+Netharandi	Nederlando
+Los Angeles	Los-Anĝeleso
+Kenya	Kenjo
+Ethiopia	Etiopio
+Ghana	Ganao
+Baranja	Francio
+Esperanto	Esperanto
+China	Ĉina Popola Respubliko
+Wiktionary	Vikivortaro
+Brazil	Brazilo
+Racia	Rusio
+Wikimedia	Fondaĵo Vikimedio
+Jimmy Wales	Jimmy Wales
+Njĩrĩmani	Germanio
+Azerbaijan	Azerbajĝano
+Canimarino	San-Marino
+Intel	Intel
+Indonesia	Indonezio
+Abĩrika ya Kuthini	Sud-Afriko
+Algeria	Alĝerio
+Mai	Akvo
+Terebiceni	Televido
+Singapore	Singapuro
+Wikibooks	Vikilibroj
+Bahrain	Barejno
+Armenia	Armenio
+İstanbul	Istanbulo
+Australia	Aŭstralio
+Physics	Fiziko
+Argentina	Argentino
+Peru	Peruo
+Bayorojĩ	Biologio
+Mount Everest	Ĉomolungmo
+Napoleon	Napoleono Bonaparte
+Hydrogen	Hidrogeno
+Helium	Heliumo
+Lithium	Litio
+Beryllium	Berilio
+Carbon	Karbono
+Nitrogen	Nitrogeno
+Oxygen	Oksigeno
+Chad	Ĉado
+Sodium	Natrio
+Magnesium	Magnezio
+Aluminium	Aluminio
+Silicon	Silicio
+Phosphorous	Fosforo
+Iron	Fero
+Potasium	Kalio
+Calcium	Kalcio
+Titanium	Titano (elemento)
+Ecuador	Ekvadoro
+Copper	Kupro
+Mĩmera	Plantoj
+Zinc	Zinko
+Fungi	Fungoj
+Jamaica	Jamajko
+Haiti	Haitio
+Iraq	Irako
+Panama	Panamo
+Yemen	Jemeno
+Virus	Viruso (biologio)
+Laos	Laoso
+Malaysia	Malajzio
+Burma	Birmo
+Pakistan	Pakistano
+Sri Lanka	Sri-Lanko
+Syria	Sirio
+Thailand	Tajlando
+United Arab Emirates	Unuiĝintaj Arabaj Emirlandoj
+Platinum	Plateno
+Vietnam	Vjetnamio
+South Korea	Sud-Koreio
+Afghanistan	Afganio
+Gold	Oro
+Bangladesh	Bangladeŝo
+Angola	Angolo
+Bhutan	Butano
+Brunei	Brunejo
+Tanzania	Tanzanio
+Isaac Newton	Isaac Newton
+Zimbabwe	Zimbabvo
+Sũdana ya Kuthini	Sud-Sudano
+Benin	Benino
+Botswana	Bocvano
+Burkina Faso	Burkino
+Burundi	Burundo
+Republic of the Congo	Respubliko Kongo
+Democratic Republic of the Congo	Demokratia Respubliko Kongo
+Djibouti	Ĝibutio
+Gabon	Gabono
+Gambia	Gambio
+Côte d'Ivoire	Ebur-Bordo
+Cameroon	Kameruno
+Lesotho	Lesoto
+Madagascar	Madagaskaro
+Malawi	Malavio
+Namibia	Namibio
+Nigeria	Niĝerio
+Uganda	Ugando
+Rwanda	Ruando
+Somalia	Somalio
+Julius Caesar	Julio Cezaro
+Sũdana	Sudano
+Usain Bolt	Usain Bolt
+Piemonte	Piemonto
+Valle d'Aosta	Aosta Valo
+Emilia-Romagna	Emilio-Romanjo
+Chicago	Ĉikago
+Uetersen	Uetersen
+Augustus	Aŭgusto Cezaro
+Campania	Kampanio
+Puglia	Apulio
+Biblia	Biblio
+Kanitha wa Jesũ wa ma	Vera Eklezio de Jesuo
+Dong Hoi	Dong Hoi
+Concepción	Koncepciono
+Microsoft	Microsoft
+Kemu	Kemio
+Ankara	Ankaro
+Nairobi	Najrobo
+Osasco	Osasco (San-Paŭlo)
+Curitiba	Kuritibo
+Monzón	Monzono
+Almazán	Almazán
+Bill Gates	Bill Gates
+Main Page	Vikipedio:Ĉefpaĝo
+Cipiyu	Procesoro
+Penza	Penza
+Frank Lloyd Wright	Frank Lloyd Wright
+Category:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+Niels Bohr	Niels Bohr
+Bengi ya Thĩ	Monda Banko
+Ndemookirathĩ	Demokratio
+Kĩheo ya Nobero	Nobel-premio
+Mount Kilimajaro	Kilimanĝaro
+Mammal	Mamuloj
+WHO	Monda Organizaĵo pri Sano
+Thayathi cia ndũire	Naturscienco
+Tsunami	Cunamo
+Logic	Logiko
+Algorithm	Algoritmo
+Thomas Edison	Thomas Alva Edison
+Michael Faraday	Michael Faraday
+Henry Ford	Henry Ford
+Cancún	Cancún
+Atomu	Atomo
+Erwin Schrodinger	Erwin Schrödinger
+Ronald Reagan	Ronald Reagan
+Metha Njokereri	Perioda tabelo
+Bacteria	Bakterioj
+Robot	Roboto
+Macini	Maŝino
+Injiniarini	Inĝenierarto
+Gatheti	Gazeto
+Microsoft obici	Microsoft Office
+Bobbio	Bobbio
+AIDS	Aidoso
+Thiori ya Seti	Aroteorio
+Abacus	Abako (meĥanika kalkulilo)
+Piacenza	Piaĉenco
+Taranto	Taranto
+ISO	Internacia Organizaĵo por Normigado
+Province ya Piacenza	Provinco de Piaĉenco
+Province ya Taranto	Provinco de Taranto
+Template:Link FA	Ŝablono:LigoElstara
+Wikipedia:Community Portal	Vikipedio:Diskutejo
+GPS	Tutmonda loktrova sistemo
+Friedrich Schiller	Friedrich Schiller
+Moshchena	Moŝĉena
+Kihuruta	Lepidoptera
+Paradigm	Scienca paradigmo
+Gĩgĩkũyũ	Kikuja lingvo
+Linus Torvalds	Linus Torvalds
+Thayathi cia social	Socia scienco
+İzmir	Izmiro
+Siligo	Siligo
+IBM	IBM
+John Michael Talbot	John Michael Talbot
+Mawatho matano ma Newton	Leĝoj de Newton pri movo
+Radio Studio 54 Network	Radio Studio 54 Network
+Montehermoso	Montehermoso
+Ford	Ford Motor Company
+Template:Commonscat	Ŝablono:Commonscat
+Toyota	Toyota
+Cartesian Coordinates	Kartezia koordinato
+Agazzano	Agazzano
+Alseno	Alseno
+Besenzone	Besenzone
+Bettola	Bettola
+Borgonovo Val Tidone	Borgonovo Val Tidone
+Cadeo	Cadeo
+Calendasco	Calendasco
+Caminata	Caminata
+Caorso	Caorso
+Carpaneto Piacentino	Carpaneto Piacentino
+Castel San Giovanni	Castel San Giovanni
+Castell'Arquato	Castell'Arquato
+Castelvetro Piacentino	Castelvetro Piacentino
+Cerignale	Cerignale
+Coli	Coli
+Corte Brugnatella	Corte Brugnatella
+Cortemaggiore	Cortemaggiore
+Farini	Farini
+Ferriere	Ferriere
+Fiorenzuola d'Arda	Fiorenzuola d'Arda
+Gazzola	Gazzola
+Gossolengo	Gossolengo
+Gragnano Trebbiense	Gragnano Trebbiense
+Gropparello	Gropparello
+Lugagnano Val d'Arda	Lugagnano Val d'Arda
+Monticelli d'Ongina	Monticelli d'Ongina
+Morfasso	Morfasso
+Nibbiano	Nibbiano
+Ottone	Ottone
+Pecorara	Pecorara
+Pianello Val Tidone	Pianello Val Tidone
+Piozzano	Piozzano
+Podenzano	Podenzano
+Ponte dell'Olio	Ponte dell'Olio
+Pontenure	Pontenure
+Rivergaro	Rivergaro
+Rottofreno	Rottofreno
+San Giorgio Piacentino	San Giorgio Piacentino
+San Pietro in Cerro	San Pietro in Cerro
+Sarmato	Sarmato
+Travo	Travo
+Vernasca	Vernasca
+Vigolzone	Vigolzone
+Villanova sull'Arda	Villanova sull'Arda
+Zerba	Zerba
+Ziano Piacentino	Ziano Piacentino
+RFID	RFID
+Cybernetics	Kibernetiko
+Bioinformatics	Biokomputiko
+Euclidean Geometry	Eŭklida geometrio
+Macini ya Turing	Maŝino de Turing
+Silicon Valley	Silicon Valley
+Maywood	Maywood (Ilinojo)
+Kĩrĩnyaga	Monto Kenja
+Boolean Logic	Bulea algebro
+Jomo Kenyatta	Jomo Kenyatta
+Thomas Kuhn	Thomas Kuhn
+Microscope	Mikroskopo
+Tigranes II	Tigrano la Granda
+Cyberspace	Kiberspaco
+Anggun	Anggun
+Fuzzy Logic	Neakra logiko
+Ngũgĩ wa Thiong'o	Ngugi wa Thiong'o
+Gatagati mkoa, Kenya	Centra provinco de Kenjo
+Dévanos	Dévanos
+Caribbean	Karibio
+Alentisque	Alentisque
+Adradas	Adradas
+Arenillas	Arenillas
+Barcones	Barcones
+Pozalmuro	Pozalmuro
+Duruelo de la Sierra	Duruelo de la Sierra
+Pinilla del Campo	Pinilla del Campo
+Portillo de Soria	Portillo de Soria
+Herrera de Soria	Herrera de Soria
+Deza	Deza (Sorio)
+Hinojosa del Campo	Hinojosa del Campo
+Category:German	Kategorio:Germanio
+Category:Italy	Kategorio:Italio
+Category:USA	Kategorio:Usono
+Category:Urusi	Kategorio:Rusio
+Category:Spain	Kategorio:Hispanio
+Category:Turkey	Kategorio:Turkio
+Category:South Korea	Kategorio:Sud-Koreio
+Category:Thayathi cia ndũire	Kategorio:Naturscienco
+Category:Kemu	Kategorio:Kemio
+Category:Sport	Kategorio:Sporto
+Category:Thayathi	Kategorio:Scienco
+Wikipedia:Administrators	Vikipedio:Administrantoj
+Category:Medicine	Kategorio:Medicino
+Category:Politics	Kategorio:Politiko
+Egypt	Egiptujo
+Template:Bot	Ŝablono:Bot
+Canada	Kanado
+Category:Rũraya	Kategorio:Eŭropo
+Template:Documentation	Ŝablono:Dok
+Sung Jae-ki	Sung Jae-gi
+Template:Softredirect	Ŝablono:Intervikia plusendilo
+Template:Delete	Ŝablono:Forigu tuj
+Wikipedia:Statistics	Vikipedio:Statistiko
+Template:Navbox	Ŝablono:Navigilo2
+Template:!	Ŝablono:!
+Category:Abĩrika	Kategorio:Afriko
+Template:Babel	Ŝablono:Babelejo
+Template:Commons	Ŝablono:Commons
+Template:User af-1	Ŝablono:Vikipediisto af-1
+Template:User ar-1	Ŝablono:Vikipediisto ar-1
+Template:User bar-1	Ŝablono:Vikipediisto bar-1
+Template:User eo-1	Ŝablono:Vikipediisto eo-1
+Template:User da-2	Ŝablono:Vikipediisto da-2
+Template:User ca-4	Ŝablono:Vikipediisto ca-4
+Template:User be-2	Ŝablono:Vikipediisto be-2
+Template:User da-1	Ŝablono:Vikipediisto da-1
+Template:User cs-1	Ŝablono:Vikipediisto cs-1
+Template:User bg-1	Ŝablono:Vikipediisto bg-1
+Template:User eo-3	Ŝablono:Vikipediisto eo-3
+Template:User de	Ŝablono:Vikipediisto de
+Template:User de-1	Ŝablono:Vikipediisto de-1
+Template:User el	Ŝablono:Vikipediisto el
+Template:User es	Ŝablono:Vikipediisto es
+Template:User de-3	Ŝablono:Vikipediisto de-3
+Template:User en-3	Ŝablono:Vikipediisto en-3
+Template:User el-1	Ŝablono:Vikipediisto el-1
+Template:User en-1	Ŝablono:Vikipediisto en-1
+Template:User en-2	Ŝablono:Vikipediisto en-2
+Template:User eo-2	Ŝablono:Vikipediisto eo-2
+Template:User en-4	Ŝablono:Vikipediisto en-4
+Template:User fi	Ŝablono:Vikipediisto fi-D
+Template:User en-0	Ŝablono:Vikipediisto en-0
+Template:User en	Ŝablono:Vikipediisto en
+Template:User de-2	Ŝablono:Vikipediisto de-2
+Template:User es-1	Ŝablono:Vikipediisto es-1
+Template:User fa	Ŝablono:Vikipediisto fa
+Template:User fi-1	Ŝablono:Vikipediisto fi-1
+Template:User fr-1	Ŝablono:Vikipediisto fr-1
+Template:User ia-2	Ŝablono:Vikipediisto ia-2
+Template:User hr	Ŝablono:Vikipediisto hr
+Template:User he-1	Ŝablono:Vikipediisto he-1
+Template:User id-3	Ŝablono:Vikipediisto id-3
+Template:User io-3	Ŝablono:Vikipediisto io-3
+Template:User it-3	Ŝablono:Vikipediisto it-3
+Template:User ja-4	Ŝablono:Vikipediisto ja-4
+Template:User sk	Ŝablono:Vikipediisto sk
+Template:User tr-2	Ŝablono:Vikipediisto tr-2
+Template:User ja	Ŝablono:Vikipediisto ja
+Template:User ja-1	Ŝablono:Vikipediisto ja-1
+Template:User it-1	Ŝablono:Vikipediisto it-1
+Template:User hr-1	Ŝablono:Vikipediisto hr-1
+Template:User fr	Ŝablono:Vikipediisto fr
+Template:User gsw-1	Ŝablono:Vikipediisto gsw-1
+Category:Amerika ya Kuthini	Kategorio:Sudameriko
+Category:Football	Kategorio:Futbalo
+Template:Mod	Ŝablono:Mod
+Template:User uk	Ŝablono:Vikipediisto uk
+Template:User es-2	Ŝablono:Vikipediisto es-2
+Template:Welcome	Ŝablono:Bonvenon
+Template:User zh	Ŝablono:Vikipediisto zh
+Template:Legend	Ŝablono:Priskribo
+Template:User ru-4	Ŝablono:Vikipediisto ru-4
+Template:Pp-template	Ŝablono:Pp-ŝablono
+Template:User nl-1	Ŝablono:Vikipediisto nl-1
+Template:User nl-2	Ŝablono:Vikipediisto nl-2
+Template:Pp-semi-template	Ŝablono:Pp-duone-ŝablono
+Category:America	Kategorio:Ameriko
+Template:Mikoa cia Italy	Ŝablono:Regionoj de Italio
+Template:User pt-1	Ŝablono:Vikipediisto pt-1
+Template:User oc-4	Ŝablono:Vikipediisto oc-4
+Template:User pl	Ŝablono:Vikipediisto pl
+Template:User nl	Ŝablono:Vikipediisto nl
+Template:User no-2	Ŝablono:Vikipediisto no-2
+Template:Emergency-bot-shutoff	Ŝablono:Butono por forbari robotojn
+Template:User pl-1	Ŝablono:Vikipediisto pl-1
+Template:User lt	Ŝablono:Vikipediisto lt
+Template:User nds-1	Ŝablono:Vikipediisto nds-1
+Template:User ksh	Ŝablono:Vikipediisto ksh
+Template:User no	Ŝablono:Vikipediisto no
+Template:User sv-2	Ŝablono:Vikipediisto sv-2
+Template:User lb-1	Ŝablono:Vikipediisto lb-1
+Template:User la-1	Ŝablono:Vikipediisto la-1
+Category:Template documentation	Kategorio:Ŝablono:Dokumentado
+Category:User be-2	Kategorio:Vikipediisto be-2
+Category:User sk-N	Kategorio:Vikipediisto sk-D
+Template:User la-3	Ŝablono:Vikipediisto la-3
+Category:Province ya Piacenza	Kategorio:Provinco Piacenza
+Template:User sv-1	Ŝablono:Vikipediisto sv-1
+Template:User sw-1	Ŝablono:Vikipediisto sw-1
+Template:User ka-1	Ŝablono:Vikipediisto ka-1
+Category:Thayathi cia social	Kategorio:Socia scienco
+Template:User ru-2	Ŝablono:Vikipediisto ru-2
+Template:User es-3	Ŝablono:Vikipediisto es-3
+Template:User ko-3	Ŝablono:Vikipediisto ko-3
+Category:Main	Kategorio:Artikoloj
+Category:Kenya	Kategorio:Kenjo
+Template:User ca-3	Ŝablono:Vikipediisto ca-3
+Template:User cs-3	Ŝablono:Vikipediisto cs-3
+Template:User li-1	Ŝablono:Vikipediisto li-1
+Template:User mk-1	Ŝablono:Vikipediisto mk-1
+Template:User nn-2	Ŝablono:Vikipediisto nn-2
+Template:User no-1	Ŝablono:Vikipediisto no-1
+Template:User pt	Ŝablono:Vikipediisto pt
+Template:User ru-1	Ŝablono:Vikipediisto ru-1
+Template:User sk-1	Ŝablono:Vikipediisto sk-1
+Template:User sk-2	Ŝablono:Vikipediisto sk-2
+Template:User sr-1	Ŝablono:Vikipediisto sr-1
+Template:User uk-4	Ŝablono:Vikipediisto uk-4
+Template:User zh-1	Ŝablono:Vikipediisto zh-1
+Template:User zh-2	Ŝablono:Vikipediisto zh-2
+Template:User pfl-1	Ŝablono:Vikipediisto pfl-1
+Category:Mirimu	Kategorio:Malsanoj
+Template:User sl-1	Ŝablono:Vikipediisto sl-1
+Trojany	Trojany
+Template:User wep-1	Ŝablono:Vikipediisto wep-1
+Template:User pdt-1	Ŝablono:Vikipediisto pdt-1
+Template:User sli-1	Ŝablono:Vikipediisto sli-1
+Category:Mikoa cia Kenya	Kategorio:Provincoj de Kenjo
+Template:User vls-1	Ŝablono:Vikipediisto vls-1
+Ebola	Ebolo (viruso)
+Template:User sh-2	Ŝablono:Vikipediisto sh-2
+Special:RecentChanges	Specialaĵo:Lastaj ŝanĝoj

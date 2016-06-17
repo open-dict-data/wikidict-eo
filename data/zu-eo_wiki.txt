@@ -1,0 +1,708 @@
+IAfrika	Afriko
+IJapani	Japanio
+IMelika Eningizimu	Sudameriko
+INoki	Norvegio
+INgilandi	Anglio
+IsiKotilandi	Skotlando
+IWelisi	Kimrio
+I-Ayilendi	Irlando
+ISpeyini	Hispanio
+IMelika	Usono
+IFinlandi	Finnlando
+ISwidi	Svedio
+IDenimaki	Danio
+IPolandi	Pollando
+ILithuwaniya	Litovio
+ITaliya	Italio
+I-Ostriya	Aŭstrio
+IGreki	Grekio
+ITheki	Turkio
+IPhothugali	Portugalio
+IYurobhu	Eŭropo
+I-Eshiya	Azio
+IMelika Enyakatho	Nordameriko
+I-Antatika	Antarkto
+Wikipedia	Vikipedio
+Netherlands	Nederlando
+New York (idolobha)	Novjorko
+IBerlini	Berlino
+Ikhompiyutha	Komputilo
+Barack Obama	Barack Obama
+ILondon	Londono
+Ihhabhula	Pomo
+IParisi	Parizo
+IMekisiko	Meksiko
+California	Kalifornio
+IKenya	Kenjo
+I-Ithiopia	Etiopio
+IGana	Ganao
+Ibhubesi	Leono
+IFulansi	Francio
+Isi-Esperanto	Esperanto
+Inja	Hundo
+Umbuso Ohlangeneyo	Unuiĝinta Reĝlando
+Ikati	Hejma kato
+IShayina	Ĉina Popola Respubliko
+IsiFulentshi	Franca lingvo
+IBrazili	Brazilo
+IRashiya	Rusio
+Ulwandle	Maro
+IJalimani	Germanio
+IBelarusi	Belorusio
+IsiJalimani	Germana lingvo
+I-Ayisilandi	Islando
+UNkulunkulu	Dio
+I-Estoniya	Estonio
+David Cameron	David Cameron
+USatureni	Saturno (planedo)
+George W. Bush	George W. Bush
+ILatviya	Latvio
+ITsheki	Ĉeĥio
+ISlovaki	Slovakio
+IVilnyusi	Vilno
+IBulgariya	Bulgario
+Azerbaijan	Azerbajĝano
+IMalta	Malto
+Indolobha yaseVathikhani	Vatikano
+USanti Marino	San-Marino
+Belize	Belizo
+Volkswagen	Volkswagen
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+IRiphabliki yaseNingizimu Afrika	Sud-Afriko
+IAljiriya	Alĝerio
+IWarshawa	Varsovio
+Amanzi	Akvo
+Isi-Icelandic	Islanda lingvo
+ITshile	Ĉilio
+Apple	Apple
+UVenusi	Venuso (planedo)
+U-Uranu	Urano (planedo)
+UNepetuni	Neptuno (planedo)
+UPluto	Plutono
+Facebook	Facebook
+Ubuntu (uhlelo)	Ubuntu (linukso)
+Imathemathiki	Matematiko
+U2	U2
+ILatin	Latina lingvo
+ISerbiya	Serbio
+Inyanga	Luno
+I-Ostreliya	Aŭstralio
+Peru	Peruo
+Mount Everest	Ĉomolungmo
+Ilanga	Suno
+I-Osheaniya	Oceanio
+Uhlelo Lemihlaba YeLanga	Sunsistemo
+Wikimedia Commons	Vikimedia Komunejo
+Football Club Internazionale Milano	Inter Milano
+Umculo	Muziko
+IMoskwa	Moskvo
+IsiTaliya	Itala lingvo
+ITshedi	Ĉado
+INyuzilandi	Nov-Zelando
+INdiya	Barato
+Ubuciko bomlomo	Fabelo
+IFiji	Fiĝioj
+Venezuela	Venezuelo
+I-Amsterdami	Amsterdamo
+Isilwane	Bestoj
+IKolombiya	Kolombio
+UbuBudha	Budhismo
+Umthofu	Kupro
+Leonardo da Vinci	Leonardo da Vinci
+Massachusetts	Masaĉuseco
+Guatemala	Gvatemalo
+Connecticut	Konektikuto
+Hawaii	Havajo
+Honduras	Honduro
+El Salvador	Salvadoro
+I-Irani	Irano
+I-Iraki	Irako
+Costa Rica	Kostariko
+Isreyili	Israelo
+Panama	Panamo
+IYemen	Jemeno
+IsiPholisi	Pola lingvo
+Nicaragua	Nikaragvo
+Florida	Florido
+Arizona	Arizono
+Utah	Utaho
+IPakistani	Pakistano
+Sri Lanka	Sri-Lanko
+Joseph Stalin	Josif Stalin
+I-YouTube	YouTube
+IViyetnami	Vjetnamio
+I-Afganistani	Afganio
+Igolide	Oro
+Bangladesh	Bangladeŝo
+IMali	Malio
+I-Angola	Angolo
+ITanzania	Tanzanio
+Central African Republic	Centr-Afrika Respubliko
+ITogo	Togolando
+ITunisia	Tunizio
+IZambiya	Zambio
+IZimbabwe	Zimbabvo
+ISudan yaseNingizimu	Sud-Sudano
+IBenini	Benino
+IButswana	Bocvano
+IBukhina Faso	Burkino
+IBurundi	Burundo
+IsiKhomorosi	Komoroj
+IKongo	Respubliko Kongo
+IRiphabliki Labantu weKongo	Demokratia Respubliko Kongo
+IJibuthi	Ĝibutio
+IGini Enkabazwe	Ekvatora Gvineo
+I-Eritrea	Eritreo
+IGaboni	Gabono
+IGambia	Gambio
+IGini	Gvineo
+IGini Bisawu	Gvineo Bisaŭa
+Ugu Emhlophe	Ebur-Bordo
+IKamerooni	Kameruno
+IKhepi Vedhi	Kaboverdo
+OSotho	Lesoto
+ILiberia	Liberio
+ILibiya	Libio
+IMadagasika	Madagaskaro
+IMalawi	Malavio
+IMoritaniya	Maŭritanio
+IMorishisi	Maŭricio
+IMorokho	Maroko
+IMozambiki	Mozambiko
+INamibhiya	Namibio
+INayighe	Niĝero
+INigeria	Niĝerio
+IYuganda	Ugando
+IRuwanda	Ruando
+ISawu Tome noPhrinitshipeyi	Sao-Tomeo kaj Principeo
+ISenegal	Senegalo
+IsiSeyisheli	Sejŝeloj
+ISiera Liyoni	Siera-Leono
+ISomalia	Somalio
+ISudan	Sudano
+ISwazilandi	Svazilando
+Amazwe Ohlangeneyo	Unuiĝintaj Nacioj
+IPraha	Prago
+Isiliva	Arĝento
+Bill Clinton	William J. Clinton
+Usain Bolt	Usain Bolt
+John Lennon	John Lennon
+Wyoming	Vajomingo
+Idaho	Idaho
+Washington (isifunda eMelika)	Vaŝingtonio
+Nevada	Nevado
+Colorado	Koloradio
+Chicago	Ĉikago
+Ama-Beatles	The Beatles
+IsiSpeyini	Hispana lingvo
+Virginia	Virginio (ŝtato)
+New York Isifunda	Nov-Jorkio
+Maryland	Marilando
+Vladimir Lenin	Lenin
+Pennsylvania	Pensilvanio
+I-Uetersen	Uetersen
+New Jersey	Nov-Ĵerzejo
+Indiana	Indianio
+Texas	Teksaso
+ITokyo	Tokio
+I-Athene	Ateno
+IRiga	Rigo
+IBhayibheli	Biblio
+IHochiminh	Ho-Ĉi-Min-urbo
+True Jesus Church	Vera Eklezio de Jesuo
+IsiNgisi	Angla lingvo
+IDonghoi	Dong Hoi
+Concepción, ITshile	Koncepciono
+IKiyevi	Kievo
+2000	2000
+2001	2001
+2012	2012
+2009	2009
+2013	2013
+2014	2014
+1991	1991
+1993	1993
+3 uJanuwali	3-a de januaro
+Kurów	Kurów
+8 uFebruwari	8-a de februaro
+1985	1985
+1981	1981
+1969	1969
+Paul McCartney	Paul McCartney
+S.S. Lazio	Società Sportiva Lazio
+Ringo Starr	Ringo Starr
+George Harrison	George Harrison
+1968	1968
+25 uJuni	25-a de junio
+14 uJulayi	14-a de julio
+29 uJulayi	29-a de julio
+Ibhola	Futbalo
+29 uAgasti	29-a de aŭgusto
+Michael Jackson	Michael Jackson
+17 uSepthemba	17-a de septembro
+5 uNovemba	5-a de novembro
+Algiers	Alĝero
+IGaborone	Gaberono
+IHarara	Harareo
+IPitoli	Pretorio
+Wikipedia:Sandbox	Vikipedio:Provejo
+Ilaptop	Tekokomputilo
+Umfula	Rivero
+Osasco	Osasco (San-Paŭlo)
+Curitiba	Kuritibo
+Corbin Bleu	Corbin Bleu
+Category:Imathemathiki	Kategorio:Matematiko
+Euro	Eŭro
+IDola	Usona dolaro
+Celine Dion	Céline Dion
+IsiQongo	Ĉefurbo
+IsiPutukezi	Portugala lingvo
+1948	1948
+1958	1958
+IsiJapani	Japana lingvo
+Ikhasi Elikhulu	Vikipedio:Ĉefpaĝo
+ISaratov	Saratov
+Ikhilikithi	Kriketo
+Umbhoxo	Rugbeo
+IKapa	Kaburbo
+ITheku	Durbano
+Michelangelo	Mikelanĝelo
+Pablo Picasso	Pablo Picasso
+Iziqhingi iKhaneli	Kanarioj
+Ceuta	Ceŭto
+IMelilla	Melilo
+Category:Candidates for speedy deletion	Kategorio:Tujforigendaj artikoloj
+Ipiyano	Piano
+Category:Ukufunda umkhathi	Kategorio:Astronomio
+IsiKrowati	Kroata lingvo
+IsiKhathalani	Kataluna lingvo
+UBudha	Budho
+Iqoqo i-Afrika	Afrika Unio
+IBhange woMhlaba	Monda Banko
+Imvu	Ŝafo
+Indlovu	Elefanto
+IsiHolandi	Nederlanda lingvo
+Ukuhumusha	Traduko
+IsiRashiya	Rusa lingvo
+Vladimir Putin	Vladimir Putin
+Yurobhu Idaladala	Historio de Eŭropo
+1884	1884
+IsiShayina	Ĉina lingvaro
+Imvelo	Naturo
+Winston Churchill	Winston Churchill
+Nelson Mandela	Nelson Mandela
+Category:Umculo	Kategorio:Muziko
+Icilongo	Trumpeto
+Ikhofi	Kafo
+Ubisi	Lakto
+Intaba	Monto
+Miami, Florida	Miamo
+IsiSwidishi	Sveda lingvo
+IsiTsheki	Ĉeĥa lingvo
+IsiLatviya	Latva lingvo
+IsiLithuwaniya	Litova lingvo
+IsiGreki	Greka lingvo
+Iphengwini	Pingveno
+Ugenesis	Genezo
+Isi-Indonesia	Indonezia lingvo
+IsiHebheru	Hebrea lingvo
+IPod	IPod
+Martin Luther	Marteno Lutero
+Gerald Ford	Gerald Ford
+Richard Nixon	Richard Nixon
+Lyndon B. Johnson	Lyndon B. Johnson
+Michael Schumacher	Michael Schumacher
+Elizabeth II	Elizabeto la 2-a (Britio)
+John F. Kennedy	John F. Kennedy
+Ronald Reagan	Ronald Reagan
+IsiZulu	Zulua lingvo
+Fernando Alonso	Fernando Alonso
+Category:Venezuela	Kategorio:Venezuelo
+Robert Mugabe	Robert Mugabe
+Ushizi	Fromaĝo
+Izambane	Terpomo
+Imifino	Legomo
+Category:IBrazili	Kategorio:Brazilo
+Ama-elementhi	Kemia elemento
+Isigubhu	Tamburo
+Ukhamba	Ceramiko
+Silvio Berlusconi	Silvio Berlusconi
+Abayizithulu	Surdeco
+Mona Lisa	La Gioconda
+IsiXhosa	Kosa lingvo
+IsiOsithani	Okcitana lingvo
+IsiBhunu	Afrikansa lingvo
+Template:Location map Zimbabwe	Ŝablono:Situo sur mapo Zimbabvo
+Template:Location map South Africa	Ŝablono:Situo sur mapo Sud-Afriko
+Indlulamithi	Ĝirafo (specio)
+Queen	Queen
+Freddie Mercury.	Freddie Mercury
+ICrailsheim	Crailsheim
+Vermont	Vermonto
+IMayotte	Majoto
+IRiyunion	Reunio
+Umakhalekhukhwini	Poŝtelefono
+INhatrang	Nha Trang
+Rafael Correa	Rafael Correa
+Umfula Thames	Tamizo
+Motorhead	Motörhead
+UKhisimusi	Kristnasko
+Lady Gaga	Lady Gaga
+IPhasika	Pasko
+ILondon Kakhulu	Granda Londono
+Idolobha weLondon	City (Londono)
+Inyamazane	Cervedoj
+Iqhwa	Glacio
+IMoshchena	Moŝĉena
+Utamatisi	Tomato
+George H. W. Bush	George H. W. Bush
+Isichazamazwi	Vortaro
+Jimmy Carter	Jimmy Carter
+Inkondlo yesizwe	Nacia himno
+Avatar	Avatar (filmo)
+Upondo	Brita pundo
+Felidae	Felisedoj
+IDanang	Da Nang
+Canidae	Kanisedoj
+Imvubu yolwandle	Sireno (besto)
+IMadira	Madejro
+University Niccolò Cusano	Università degli Studi Niccolò Cusano
+IMelika Wenkaba	Centra Ameriko
+Shaka	Ŝaka
+Pinnipedia	Fokuloj
+Avril Lavigne	Avril Lavigne
+IsiHawayi	Havaja lingvo
+IsiSwazi	Svazia lingvo
+Impophoma	Akvofalo
+Justin Bieber	Justin Bieber
+Ibhulonze	Bronzo
+IsiTswana	Cvana lingvo
+Ngolimi lwezandla	Signolingvo
+IsiSuthu	Sota lingvo
+Rotterdam	Roterdamo
+Mošovce	Mošovce
+Shakira	Shakira
+IGoli	Johanesburgo
+Isonto	Eklezio
+Imitholoji lamaGreki	Helena mitologio
+I-eliki	Alko
+IsiNdebele	Suda Ndebela lingvo
+Rihanna	Rihanna
+Umoya ongcwele	Sankta Spirito
+Internet Movie Database	Interreta filma datumbazo
+Arara	Arara
+IBloemfontein	Bloemfontein
+Inyamazane yase-Athiki	Boaco
+Radio Studio 54 Network	Radio Studio 54 Network
+Porto Alegre	Porto-Alegro
+Inkalankala	Krabo
+God Save the Queen	God Save the Queen
+Iwalerosi	Rosmaro
+Demi Lovato	Demi Lovato
+Ibhayisikobho	Kinejo
+Castel Goffredo	Castel Goffredo
+The Star-Spangled Banner	The Star-Spangled Banner
+The Doors	The Doors
+John Cale	John Cale
+Nadine Gordimer	Nadine Gordimer
+Template:Commonscat	Ŝablono:Commonscat
+Hans Holbein the Younger	Hans Holbein la malpliaĝa
+Isifo segciwane le-Ebola	Ebola malsano
+Category:Amafilimu	Kategorio:Filmo
+Jacob Zuma	Jacob Zuma
+C. C. Catch	C. C. Catch
+Alla Pugatshova	Alla Pugaĉova
+KwaZulu-Natal	Kvazulu-Natalo
+African National Congress	Afrika Nacia Kongreso
+Selena Gomez	Selena Gomez
+Amaqanda	Kokina ovo
+Thabo Mbeki	Thabo Mbeki
+IHolandi	Holando
+2001: A Space Odyssey	2001: A Space Odyssey
+Marin County	Kantono Marin
+Ibhayi	Port Elizabeth
+IKipi laseNtshonalanga	Okcidenta Kablando
+Isayiklopsi	Ciklopo
+The Last Supper	La Lasta Vespermanĝo (Leonardo)
+AmaZulu	Zuluoj
+KwaXhosa	Orienta Kablando
+Brighton	Brajtono
+Mpumalanga	Mpumalanga
+IKipi laseNyakatho	Norda Kablando
+IGauteng	Ĥaŭtengo
+Limpopo	Provinco Limpopo
+Joan Miró	Joan Miró
+Nina Badrić	Nina Badrić
+Henri Rousseau	Henri Rousseau
+IFleyistata	Provinco Liberŝtato
+T.A.T.u.	T.A.T.u.
+Nyakatho-Ntshonalanga	Nordokcidenta Provinco (Sud-Afriko)
+Caselle Landi	Caselle Landi
+Syngman Rhee	Ji Sung-man
+David (Michelangelo)	Davido de Mikelanĝelo
+Ostankino Tower	Ostankina televidturo
+IRandi	Sudafrika rando
+Pietermaritzburg	Pietermaritzburg
+Chang Myon	Chang Myon
+Transvaal Province	Transvalo
+Izifundazwe zaseNingizimu Afrika	Provincoj de Sud-Afriko
+Insindiso	Savo
+Umbuso waseNingizimu Afrika	Unio de Sud-Afriko
+Oscar Pistorius	Oscar Pistorius
+IMito	Mito (Ibaraki)
+Bhisho	Bhisho
+Steve Biko	Steve Biko
+The Vitruvian Man	Vitruvia homo
+Soweto	Soweto
+Alexa Internet	Alexa Internet
+Nkosi Sikelel' iAfrika	Nacia himno de Sud-Afriko
+Ingelosi	Anĝelo
+Pietà (Michelangelo)	Pietato
+Marjorie Estiano	Marjorie Estiano
+Jan van Riebeeck	Jan van Riebeeck
+Ibhola lezinyawo	Piedpilkado
+Maurice Sendak	Maurice Sendak
+Marek Grechuta	Marek Grechuta
+IHlelo Amathole	Amatolo (distrikto)
+Louis-Nicolas Clérambault	Louis-Nicolas Clérambault
+Izinkundla	Stadiono
+Himno Nacional de Chile	Himno Nacional de Chile
+IQuakenbrück	Quakenbrück
+Vereeniging	Vereeniging
+Indluzele	Stepa alcelafo
+Khayelitsha	Kajeliĉa
+Jonava	Jonava
+Abantu abansundu	Nigrulo
+Boksburg	Boksburg
+Tiburon	Tiburon
+Uitenhage	Uitenhage
+Mvezo	Mvezo
+Vrahovice	Vrahovice
+University of Sussex	Universitato de Sussex
+El Chavo del 8	El Chavo del Ocho
+Agnes Monica	Agnes Monica
+Category:IJalimani	Kategorio:Germanio
+Category:IMelika	Kategorio:Usono
+Category:IRashiya	Kategorio:Rusio
+Category:Umbuso Ohlanganeyo	Kategorio:Unuiĝinta Reĝlando
+Category:IJapani	Kategorio:Japanio
+Category:IMekisiko	Kategorio:Meksiko
+Category:Ningizimu Afrika	Kategorio:Sud-Afriko
+Category:IPolandi	Kategorio:Pollando
+Category:IPhothugali	Kategorio:Portugalio
+Category:IViyetnamu	Kategorio:Vjetnamio
+Category:Umdlalo	Kategorio:Sporto
+Category:ISayensi	Kategorio:Scienco
+Tembisa	Tembisa
+Category:Ubefa 2012	Kategorio:Mortintoj en 2012
+Rhomani	Romio
+Category:Ububudha	Kategorio:Budhismo
+Category:Ubukrestu	Kategorio:Kristanismo
+Category:Stubs	Kategorio:Ĝermo
+Category:Amazwekazi	Kategorio:Kontinentoj
+Edmond Debeaumarché	Edmond Debeaumarché
+Portal:Umculo	Portalo:Muziko
+Template:Succession box	Ŝablono:Enŝovi dinastion
+Category:Amabhendi	Kategorio:Muzikaj grupoj
+Category:Izwe	Kategorio:Landoj
+Wikipedia:Administrators	Vikipedio:Administrantoj
+Wikipedia:Requests for adminship	Vikipedio:Administrantoj/kandidatoj
+Category:Internet	Kategorio:Interreto
+Wikipedia:Vital 100	Vikipedio:Listo de 100 plej havendaj artikoloj
+IGibhithe	Egiptujo
+Template:Bot	Ŝablono:Bot
+IKhanada	Kanado
+Category:ITsheki	Kategorio:Ĉeĥio
+Category:IEstoniya	Kategorio:Estonio
+Category:ILatviya	Kategorio:Latvio
+Category:ILithuwaniya	Kategorio:Litovio
+Category:ISwidi	Kategorio:Svedio
+Category:ISlovakiya	Kategorio:Slovakio
+Category:IBerlin	Kategorio:Berlino
+Category:IYurophu	Kategorio:Eŭropo
+Template:Documentation	Ŝablono:Dok
+Sung Jae-gi	Sung Jae-gi
+Template:Softredirect	Ŝablono:Intervikia plusendilo
+Template:Delete	Ŝablono:Forigu tuj
+Category:Ulimi	Kategorio:Lingvoj
+Wikipedia:Statistics	Vikipedio:Statistiko
+Template:Navbox	Ŝablono:Navigilo2
+Category:Abantu baphilile	Kategorio:Vivantaj homoj
+Template:!	Ŝablono:!
+Template:Trim	Ŝablono:Trim
+Template:Nowrap	Ŝablono:Nrsp
+Wikipedia:Vital articles	Vikipedio:Listo de havendaj artikoloj
+Category:IAfrika	Kategorio:Afriko
+Template:Babel	Ŝablono:Babelejo
+Template:Commons	Ŝablono:Commons
+Template:Reflist	Ŝablono:Referencoj
+Template:Isixwayiso	Ŝablono:Atentu
+Template:Stub	Ŝablono:Ĝermo
+Template:See also	Ŝablono:Vidu ankaŭ
+Template:User de	Ŝablono:Vikipediisto de
+Template:User es	Ŝablono:Vikipediisto es
+Template:User en-2	Ŝablono:Vikipediisto en-2
+Template:User en	Ŝablono:Vikipediisto en
+Template:User fr-1	Ŝablono:Vikipediisto fr-1
+Template:User sk	Ŝablono:Vikipediisto sk
+Category:Izilimi zaseNingizimu Afrika	Kategorio:Lingvoj de Sud-Afriko
+Category:Izilimi weNamibhiya	Kategorio:Lingvoj de Namibio
+Category:IAshiya	Kategorio:Azio
+Category:IMelika eNingizimu	Kategorio:Sudameriko
+Template:Mod	Ŝablono:Mod
+Template:SIL	Ŝablono:ISO639-3 ligilo
+Template:Infobox football club	Ŝablono:Informkesto futbalteamo
+Template:Welcome	Ŝablono:Bonvenon
+Template:Football kit	Ŝablono:Ĉemizo
+Template:Official website	Ŝablono:Oficiala retejo
+Category:Izinkondlo zamazwe	Kategorio:Naciaj himnoj
+Template:S-start	Ŝablono:Komencskatolo
+Template:Nom	Ŝablono:Nomumita
+Template:Cite journal	Ŝablono:Citaĵo el gazeto
+Template:Wikibooks	Ŝablono:Vikilibroj
+Template:S-aft	Ŝablono:S-aft
+Category:IParisi	Kategorio:Parizo
+Category:User en	Kategorio:Vikipediisto en
+Category:User en-2	Kategorio:Vikipediisto en-2
+Template:Infobox	Ŝablono:Informkesto
+Template:Template other	Ŝablono:Ĉu ŝablono
+Template:Legend	Ŝablono:Priskribo
+Template:Cite web	Ŝablono:Citaĵo el la reto
+Template:Pp-template	Ŝablono:Pp-ŝablono
+Template:Min	Ŝablono:Minimumo
+Template:Wiktionary	Ŝablono:Vikivortaro
+Category:Abongameli yamazwe	Kategorio:Prezidantoj
+Category:Language user templates	Kategorio:Babelaj ŝablonoj
+Template:List of African capitals	Ŝablono:Afrikaj ĉefurboj
+Template:Infobox ethnic group	Ŝablono:Informkesto etnaj grupoj
+Category:Abafileyo 1884	Kategorio:Mortintoj en 1884
+Template:ParmPart	Ŝablono:ParmPart
+Template:Increase	Ŝablono:Kresko
+Template:Infobox website	Ŝablono:Informkesto retejo
+Template:Image label end	Ŝablono:Marko sur bildo fino
+Template:Myspace	Ŝablono:Myspace
+Template:Female adult bio	Ŝablono:Informkesto erotika aktoro
+Template:Image label small	Ŝablono:Marko sur bildo malgranda
+Template:S-ttl	Ŝablono:S-ttl
+Template:S-bef	Ŝablono:S-bef
+Template:Oppose	Ŝablono:Kontraŭ
+Template:Largest cities	Ŝablono:Plej grandaj urboj
+Template:Lang-ru	Ŝablono:Lang-ru
+Template:URL	Ŝablono:URL
+Category:Amadolobha e-Netherlands	Kategorio:Urboj de Nederlando
+Category:User sk	Kategorio:Vikipediisto sk
+Category:User sk-N	Kategorio:Vikipediisto sk-D
+Category:User en-N	Kategorio:Vikipediisto en-D
+Template:N/a	Ŝablono:N/a
+Category:Izifunda weMelika	Kategorio:Usonaj ŝtatoj
+Wikipedia:Babel	Vikipedio:Babelejo
+Category:Umlando idaladala	Kategorio:Antikva epoko
+Category:INgilandi	Kategorio:Anglio
+Template:Title without disambig	Ŝablono:Titolo sen apartigo
+Category:Izimpucuko	Kategorio:Civilizoj
+Category:IYurobhu Empumalanga	Kategorio:Orienta Eŭropo
+Category:Amazwe eAfrika	Kategorio:Afrikaj landoj
+Category:Ubezalwa ngo-1452	Kategorio:Naskiĝintoj en 1452
+Template:Column-width	Ŝablono:Kolumno-larĝo
+Category:User ru	Kategorio:Vikipediisto ru
+Category:User ru-3	Kategorio:Vikipediisto ru-3
+Category:Abongameli yaseNingizimu Afrika	Kategorio:Prezidantoj de Sudafriko
+Category:Ubefa ngo-1519	Kategorio:Mortintoj en 1519
+Category:Ubezalwa ngo-1676	Kategorio:Naskiĝintoj en 1676
+Template:En icon	Ŝablono:En
+Template:Lang	Ŝablono:Lang
+Category:Abapendi	Kategorio:Pentristoj
+Category:Ubezalwa ngo-1483	Kategorio:Naskiĝintoj en 1483
+Category:Ubezalwa ngo-1844	Kategorio:Naskiĝintoj en 1844
+Category:Ubezalwa ngo-1873	Kategorio:Naskiĝintoj en 1873
+Category:Ubezalwa 1928	Kategorio:Naskiĝintoj en 1928
+Category:Ubezalwa ngo-1961	Kategorio:Naskiĝintoj en 1961
+Category:Ubezalwa ngo-1972	Kategorio:Naskiĝintoj en 1972
+Template:Allow wrap	Ŝablono:Rompebla
+Template:Twitter	Ŝablono:Twitter
+Category:Abafileyo 1745	Kategorio:Mortintoj en 1745
+Category:Ubefa ngo-1749	Kategorio:Mortintoj en 1749
+Category:Abafileyo 1781	Kategorio:Mortintoj en 1781
+Template:Main	Ŝablono:Ĉefartikolo
+Category:New York Isifunda	Kategorio:Nov-Jorkio
+Category:Hawaii	Kategorio:Havajo
+Category:Felidae	Kategorio:Felisedoj
+Category:IBenini	Kategorio:Benino
+Category:Ugu Emhlophe	Kategorio:Ebur-Bordo
+Template:Side box	Ŝablono:Flanka kesto
+Category:Abafileyo 1816	Kategorio:Mortintoj en 1816
+Category:Abafileyo 1828	Kategorio:Mortintoj en 1828
+Category:Abafileyo 1840	Kategorio:Mortintoj en 1840
+Category:Abafileyo 1872	Kategorio:Mortintoj en 1872
+Category:Ubefa ngo-1905	Kategorio:Mortintoj en 1905
+Category:Ubefa ngo-1910	Kategorio:Mortintoj en 1910
+Category:Abafileyo 1913	Kategorio:Mortintoj en 1913
+Category:Abafileyo 1968	Kategorio:Mortintoj en 1968
+Category:Abafileyo 2000	Kategorio:Mortintoj en 2000
+Category:2001	Kategorio:2001
+Category:2009	Kategorio:2009
+Category:IZimbabwe	Kategorio:Zimbabvo
+Category:IHolandi	Kategorio:Holando
+Category:Amazwe OPEC	Kategorio:Membroj de OPEL
+Category:Ababhali womculo baseFulansi	Kategorio:Francaj komponistoj
+Category:AbAfrika baseningizimu	Kategorio:Sudafrikanoj
+Category:Izintatheli isiNgisi	Kategorio:Britaj ĵurnalistoj
+Category:Abafileyo 1933	Kategorio:Mortintoj en 1933
+Category:IRhomani idaladala	Kategorio:Romio
+AbeLungu	Kaŭkaza raso
+Category:Abongameli weMelika	Kategorio:Prezidantoj de Usono
+Category:Amazwe Caribbean	Kategorio:Karibiaj landoj
+Category:Amazwe e-Osheaniya	Kategorio:Oceaniaj landoj
+Category:Amazwe eMelika Enyakatho	Kategorio:Nordamerikaj landoj
+Paradise Cay	Paradise Cay
+Category:Izithelo	Kategorio:Fruktoj
+Category:Amafilimu waseNingizimu Afrika	Kategorio:Sudafrikaj filmoj
+Category:Uhambo amafu	Kategorio:Kosmoflugo
+Category:Izilimi weBotswana	Kategorio:Lingvoj de Bocvano
+Category:Izifunda we-Afrika	Kategorio:Regionoj de Afriko
+Category:ILondon	Kategorio:Londono
+Category:Isilwane	Kategorio:Bestoj
+Category:Amazwe eMelika eNingizimu	Kategorio:Sudamerikaj landoj
+Category:Amakoloni weSpeyini edlulile	Kategorio:Iamaj kolonioj de Hispanio
+Category:IMelika Wenkaba	Kategorio:Mezameriko
+Category:Amadolobha eRiphabliki yaseNingizimu Afrika	Kategorio:Urboj de Sud-Afriko
+Category:Imidwebo nga-Leonardo da Vinci	Kategorio:Pentraĵoj de Leonardo da Vinci
+Category:Afrika Eningizimu	Kategorio:Suda Afriko
+Category:Afrika Enyakatho	Kategorio:Nord-Afriko
+Category:Afrika Empumalanga	Kategorio:Orientafriko
+Category:IMelika Enyakatho	Kategorio:Nordameriko
+Category:Ezingcolile ifilimu abadlali	Kategorio:Pornoaktoroj
+Category:I-Osheaniya	Kategorio:Oceanio
+Category:IYurobhu Enyakatho	Kategorio:Norda Eŭropo
+Category:Amabhendi weMzansi	Kategorio:Sud-afrikaj muzikaj grupoj
+The Prodigy	The Prodigy
+Category:Izilimi weZimbabwe	Kategorio:Lingvoj de Zimbabvo
+Category:IGoli	Kategorio:Johanesburgo
+Category:Iziqongo eyurobhu	Kategorio:Ĉefurboj de Eŭropo
+Category:IYurobhu Entshonalanga	Kategorio:Okcidenta Eŭropo
+Category:IYurobhu Eningizimu	Kategorio:Suda Eŭropo
+Portal:Izilwane	Portalo:Zoologio
+Category:ILondon Kakhulu	Kategorio:Granda Londono
+Template:Lang-pl	Ŝablono:Lang-pl
+Category:Izifunda wama-Netherlands	Kategorio:Regionoj de Nederlando
+Trojany	Trojany
+Template:Lang-oc	Ŝablono:Lang-oc
+Category:Vilnius	Kategorio:Vilno
+Category:Amazwe eMelika Wenkaba	Kategorio:Centramerikaj landoj
+Category:Iziqhingi we-Afrika	Kategorio:Insuloj en Afriko
+Template:Image label begin	Ŝablono:Marko sur bildo komenco
+Category:Amadolobha	Kategorio:Urboj
+Category:Izinyuvesi yombuso Ohlangeneyo	Kategorio:Universitatoj de Anglio
+Category:Ubezalwa ngo-1946	Kategorio:Naskiĝintoj en 1946
+Category:Ubezalwa ngo-1924	Kategorio:Naskiĝintoj en 1924
+Category:Ukuzala ngo-1964	Kategorio:Naskiĝintoj en 1964
+Template:Wayback	Ŝablono:Retarkivo
+Template:S-inc	Ŝablono:S-inc
+Template:Style/IPA	Ŝablono:Style/IPA
+Template:Style/yid	Ŝablono:Style/yid
+Module:Yesno	Modulo:Yesno
+Special:RecentChanges	Specialaĵo:Lastaj ŝanĝoj
+Module:List	Modulo:List
+Module:Math	Modulo:Math
+Module:InfoboxImage	Modulo:InfoboxImage
+Industrial and Mining Water Research Unit	Industrial and Mining Water Research Unit

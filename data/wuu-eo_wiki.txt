@@ -1,0 +1,2195 @@
+非洲	Afriko
+日本	Japanio
+南美洲	Sudameriko
+挪威	Norvegio
+英格兰	Anglio
+苏格兰	Skotlando
+匈牙利	Hungario
+西班牙	Hispanio
+美国	Usono
+比利时	Belgio
+卢森堡	Luksemburgo (lando)
+地球	Tero
+人	Homo
+欢喜	Feliĉo
+芬兰	Finnlando
+瑞典	Svedio
+波兰	Pollando
+立陶宛	Litovio
+意大利	Italio
+瑞士	Svislando
+奥地利	Aŭstrio
+希腊	Grekio
+土耳其	Turkio
+啤酒	Biero
+葡萄牙	Portugalio
+欧洲	Eŭropo
+亚洲	Azio
+维基百科	Vikipedio
+尼德兰	Nederlando
+PHP	PHP
+纽约市	Novjorko
+旧金山	San-Francisko
+洛杉矶	Los-Anĝeleso
+计算机	Komputilo
+办合纳	Berno
+极乃伐	Ĝenevo
+苏黎世	Zuriko
+巴拉克·奥巴马	Barack Obama
+乌拉圭	Urugvajo
+白才尔	Bazelo
+打印机	Presilo
+伦敦	Londono
+开罗	Kairo
+苹果	Pomo
+墨西哥	Meksiko
+大西洋	Atlantika Oceano
+太平洋	Pacifika Oceano
+加利福尼亚	Kalifornio
+波士顿	Bostono
+礼拜一	Lundo
+火星	Marso
+肯尼亚	Kenjo
+礼拜两	Mardo
+礼拜三	Merkredo
+礼拜四	Ĵaŭdo
+礼拜五	Vendredo
+礼拜六	Sabato
+礼拜天	Dimanĉo
+法国	Francio
+世界语	Esperanto
+狗	Hundo
+英国	Unuiĝinta Reĝlando
+貓	Hejma kato
+中华人民共和国	Ĉina Popola Respubliko
+法文	Franca lingvo
+鱼	Fiŝoj
+巴西	Brazilo
+俄罗斯	Rusio
+大海	Maro
+圓周率	Pi (nombro)
+Π	Pio (litero)
+聖保羅	San-Paŭlo (urbo)
+该办克	Kebekio
+德国	Germanio
+白俄罗斯	Belorusio
+德语	Germana lingvo
+冰岛	Islando
+愛沙尼亞	Estonio
+土星	Saturno (planedo)
+巧克力	Ĉokolado
+飞机	Aviadilo
+打仗	Milito
+拉脱维亚	Latvio
+乌克兰	Ukrainio
+捷克	Ĉeĥio
+斯洛伐克	Slovakio
+斯洛文尼亚	Slovenio
+摩尔多瓦	Moldava Respubliko
+罗马尼亚	Rumanio
+保加利亚	Bulgario
+罗马	Romo
+马其顿	Respubliko Makedonio
+阿爾巴尼亞	Albanio
+格陵兰	Gronlando
+克罗地亚	Kroatio
+波黑	Bosnio kaj Hercegovino
+阿塞拜疆	Azerbajĝano
+安道尔	Andoro
+塞浦路斯	Kipro
+格鲁吉亚	Kartvelio
+哈萨克斯坦	Kazaĥio
+马耳他	Malto
+摩纳哥	Monako
+黑山共和国	Montenegro
+梵蒂冈	Vatikano
+圣马力诺	San-Marino
+布鲁塞尔	Bruselo
+古巴	Kubo
+大众汽车	Volkswagen
+Java	Java (programlingvo)
+印度尼西亚	Indonezio
+南非	Sud-Afriko
+阿尔及利亚	Alĝerio
+乌兹别克斯坦	Uzbekujo
+欧罗维竞唱歌比赛	Eŭrovido-Kantokonkurso
+水	Akvo
+木	Ligno
+电视机	Televido
+冰岛文	Islanda lingvo
+智利	Ĉilio
+耶稣	Jesuo Kristo
+語言	Lingvo
+英语维基百科	Anglalingva Vikipedio
+尼古拉·萨科齐	Nicolas Sarkozy
+新加坡	Singapuro
+科学	Scienco
+自由軟件	Libera programaro
+列支敦士登	Liĥtenŝtejno
+希特拉	Adolf Hitler
+WikiLeaks	WikiLeaks
+第二次世界大战	Dua mondmilito
+科隆	Kolonjo
+Linux	Linukso
+数学	Matematiko
+拉丁文	Latina lingvo
+巴林	Barejno
+亚美尼亚	Armenio
+塞尔维亚	Serbio
+月球	Luno
+澳大利亚	Aŭstralio
+物理学	Fiziko
+阿根廷	Argentino
+秘鲁	Peruo
+朝鲜民主主义人民共和国	Nord-Koreio
+柬埔寨	Kamboĝo
+恐龙	Dinosaŭro
+回教	Islamo
+里昂	Liono
+欧洲联盟	Eŭropa Unio
+女性	Virino
+诗	Poezio
+米蘭	Milano
+屁眼	Anuso
+古高尔	Guglo
+珠穆朗玛峰	Ĉomolungmo
+城市	Urbo
+巴斯德	Louis Pasteur
+村	Vilaĝo
+大洋洲	Oceanio
+太阳系	Sunsistemo
+氢	Hidrogeno
+维基共享	Vikimedia Komunejo
+揚聲器	Laŭtparolilo
+东帝汶	Orienta Timoro
+维嘞合朋纳	Villeurbanne
+学纳河	Rodano
+迪拜	Dubajo
+哥白尼	Koperniko
+碳	Karbono
+音乐	Muziko
+圣皮得斯堡	Sankt-Peterburgo
+北	Nordo
+新西兰	Nov-Zelando
+南	Sudo
+印度	Barato
+西	Okcidento
+氯气	Kloro
+铅	Plumbo
+蒙古国	Mongolio
+委内瑞拉	Venezuelo
+国际象棋	Ŝako
+缅因	Majno
+苏里南	Surinamo
+巴拉圭	Paragvajo
+圭亚那	Gujano
+艺术	Arto
+厄瓜多尔	Ekvadoro
+哥伦比亚	Kolombio
+佛教	Budhismo
+玻利维亚	Bolivio
+特里尼达搭仔多巴哥	Trinidado kaj Tobago
+新罕布什爾	Nov-Hampŝiro
+马萨诸塞	Masaĉuseco
+康涅狄格	Konektikuto
+鸡	Koko
+澤西島	Ĵersejo
+猪猡	Porko
+伊朗	Irano
+伊拉克	Irako
+阿拉斯加	Alasko
+以色列	Israelo
+巴拿马	Panamo
+也門	Jemeno
+约旦	Jordanio
+佛罗里达州	Florido
+吉尔吉斯斯坦	Kirgizio
+科威特	Kuvajto
+老挝	Laoso
+黎巴嫩	Libano
+俄勒冈	Oregono
+马尔代芙	Maldivoj
+马来西亚	Malajzio
+缅甸	Birmo
+尼泊尔	Nepalo
+阿曼	Omano
+巴基斯坦	Pakistano
+卡塔尔	Kataro
+沙特阿拉伯	Sauda Arabio
+斯里兰卡	Sri-Lanko
+史太林	Josif Stalin
+叙利亚	Sirio
+塔吉克斯坦	Taĝikio
+口袋妖怪	Pokemono
+中华民国	Respubliko Ĉinio
+泰国	Tajlando
+火车	Trajno
+土库曼斯坦	Turkmenio
+阿拉伯联合酋长国	Unuiĝintaj Arabaj Emirlandoj
+越南	Vjetnamio
+新西伯利亚	Novosibirsko
+大韩民国	Sud-Koreio
+阿富汗	Afganio
+金	Oro
+喀山	Kazano
+孟加拉	Bangladeŝo
+马里	Malio
+安哥拉	Angolo
+不丹	Butano
+文莱	Brunejo
+菲律宾	Filipinoj
+牛顿	Isaac Newton
+OpenStreetMap	OpenStreetMap
+量子力学	Kvantuma mekaniko
+突尼斯	Tunizio
+赞比亚	Zambio
+津巴布韦	Zimbabvo
+北京	Pekino
+贝宁	Benino
+博茨瓦纳	Bocvano
+布隆迪	Burundo
+刚果共和国	Respubliko Kongo
+刚果民主共和国	Demokratia Respubliko Kongo
+甘地	Mohandas Karamchand Gandhi
+连环画	Bildliteraturo
+冈比亚	Gambio
+科特迪瓦	Ebur-Bordo
+喀麦隆	Kameruno
+尼日利亚	Niĝerio
+索马里	Somalio
+铌	Niobio
+凱撒	Julio Cezaro
+苏丹	Sudano
+汉堡	Hamburgo
+联合国	Unuiĝintaj Nacioj
+唐担	Dante Alighieri
+艾哈迈德堡	Ahmadabado
+锡	Stano
+克林顿总统	William J. Clinton
+孟买	Mumbajo
+波多黎各	Porto-Riko
+卡纳塔克邦	Karnatako
+列农	John Lennon
+爱达荷州	Idaho
+华盛顿州	Vaŝingtonio
+科索沃	Kosovo
+潘基文	Ban Ki-moon
+Kofi Annan	Kofi Annan
+分类:页面分类	Kategorio:Ĉio
+多特蒙德	Dortmund
+冬天	Vintro
+西班牙语	Hispana lingvo
+匹兹堡	Pittsburgh (Pensilvanio)
+费城	Filadelfio (Pensilvanio)
+金奈	Ĉenajo
+班加罗尔	Bengaluro
+钞票	Mono
+纽约州	Nov-Jorkio
+罗德岛	Rod-Insulo
+昆虫	Insekto
+宾夕法尼亚	Pensilvanio
+Uetersen	Uetersen
+奧古斯都	Aŭgusto Cezaro
+微软视窗	Microsoft Windows
+直布罗陀	Ĝibraltaro
+布宜诺斯艾利斯	Bonaero
+东京都	Tokio
+爱荷华州	Iovao
+里昂地铁	Metroo de Liono
+印地语	Hindia lingvo
+艾迪托·比娅呋	Édith Piaf
+因斯孛鲁克	Innsbruck
+都柏林	Dublino
+法兰克福	Frankfurto ĉe Majno
+天主教	Katolikismo
+圣经	Biblio
+金边	Pnom-Peno
+胡志明市	Ho-Ĉi-Min-urbo
+河內市	Hanojo
+真耶稣教会	Vera Eklezio de Jesuo
+英语	Angla lingvo
+曼谷	Bankoko
+臺北市	Tajpeo
+同海市	Dong Hoi
+Końskowola	Końskowola
+达累斯萨拉姆	Daresalamo
+Al-Khartoum	Ĥartumo
+1月11号	11-a de januaro
+明斯克	Minsko
+微软公司	Microsoft
+库鲁夫	Kurów
+化学	Kemio
+2月19号	19-a de februaro
+Visual Basic	Visual Basic
+本笃十六世	Benedikto la 16-a
+12月25号	25-a de decembro
+8月4号	4-a de aŭgusto
+8月31号	31-a de aŭgusto
+迈克尔·杰克逊	Michael Jackson
+巴西利亞	Braziljo
+圣地牙哥	Santiago de Ĉilio
+坎培拉	Kanbero
+悉尼	Sidnejo
+墨尔本	Melburno
+木卫三	Ganimedo (luno)
+珀斯	Perto
+西澳大利亚州	Okcidenta Aŭstralio
+北领地 (澳大利亚)	Norda Teritorio
+苏门答腊岛	Sumatro
+突尼斯市	Tunizo
+德黑兰	Teherano
+亚的斯亚贝巴	Adis-Abebo
+安卡拉	Ankaro
+贝尔格莱德	Beogrado
+分类:维基百科模板	Kategorio:Vikipedio:Ŝablonoj
+爪哇岛	Javo
+法属圭亚娜	Franca Gviano
+安曼	Amano
+贝鲁特	Bejruto
+分类:国家模板	Kategorio:Ŝablono:laŭ lando
+内罗毕	Najrobo
+分类:地理模板	Kategorio:Ŝablono:Geografio
+学堂	Lernejo
+大学	Universitato
+Wikipedia:沙盘	Vikipedio:Provejo
+屋	Domo
+卡尔梅克共和国	Kalmukio
+地图	Mapo
+奥萨斯库	Osasco (San-Paŭlo)
+同海机场	Flughaveno Dong Hoi
+里昂祭光节	Festo de la lumoj en Lyon
+世界言话排名	Listo de lingvoj laŭ parolantaro
+分类:日本历史	Kategorio:Historio de Japanio
+孔子	Konfuceo
+分类:数学	Kategorio:Matematiko
+法罗群岛	Ferooj
+分类:印度历史	Kategorio:Historio de Barato
+分类:泰国历史	Kategorio:Historio de Tajlando
+巴厘岛	Balio
+分类:缅甸历史	Kategorio:Historio de Birmo
+欧元	Eŭro
+美元	Usona dolaro
+地中海	Mediteraneo
+威尼斯共和国	Venecia respubliko
+杭州市	Hangĝoŭo
+基督教	Kristanismo
+模板:Support	Ŝablono:Por
+洲	Kontinento
+模板:ALA	Ŝablono:ALA
+阿德来得	Adelajdo
+首都	Ĉefurbo
+葡萄牙语	Portugala lingvo
+模板:Portal	Ŝablono:Portalo
+公元1949年	1949
+阿嘞玛桑	Almazán
+黄现璠	Huang Senfan
+日语	Japana lingvo
+荧光屏	Komputila ekrano
+百科全书	Enciklopedio
+封面	Vikipedio:Ĉefpaĝo
+路由器	Enkursigilo
+棒球	Basbalo
+奧林匹克运动会	Olimpiaj ludoj
+长江	Jangzio
+里海	Kaspio
+拉斐尔	Rafaelo
+电车	Tramo
+加泰罗尼亚	Katalunio
+毛泽东	Mao Zedong
+西安	Ŝjiano
+拉萨市	Lasao
+性行为	Amoro
+加夫列尔·加西亚·马尔克斯	Gabriel García Márquez
+分类:快速删除候选	Kategorio:Tujforigendaj artikoloj
+马可·波罗	Marko Polo
+共产主义	Komunismo
+1368年	1368
+國家	Lando
+Joe Biden	Joe Biden
+希拉里·克林顿	Hillary Rodham Clinton
+Yelena Isinbayeva	Jelena Isinbajeva
+大英博物馆	Brita Muzeo
+蒙彼利埃	Montpellier
+分类:天文学	Kategorio:Astronomio
+汉堡包	Hamburgero
+班合比让	Perpinjano
+标致汽车	Peugeot
+李白	Li Bai
+图书馆	Librarejo
+世界银行	Monda Banko
+汉武帝	Wu Di
+女权主义	Feminismo
+元朝	Dinastio Yuan
+库克船长	James Cook
+郑和	Ĉeng He
+黃河	Flava Rivero
+蚂蚁	Formiko
+宋朝	Dinastio Song
+落苏	Melongeno
+龙	Drako (mitologio)
+姆妈	Patrino
+隆波岛	Lomboko
+小人	Infano
+俄语	Rusa lingvo
+人家	Hejmo (loĝejo)
+普京	Vladimir Putin
+东南亚国家联盟	ASEAN
+面包	Pano
+国际货币基金组织	Internacia Monunua Fonduso
+联合国教育科学文化组织	Unesko
+联合国卫生组织	Monda Organizaĵo pri Sano
+漢語	Ĉina lingvaro
+雨	Pluvo
+全球暖化	Tutmonda varmiĝo
+纳尔逊·曼德拉	Nelson Mandela
+马丁·路德·金	Martin Luther King
+蛋白质	Proteino
+天灾	Naturkatastrofo
+海啸	Cunamo
+云	Nubo
+几何学	Geometrio
+日圆	Japana eno
+单词	Vorto
+漢字	Ĉina skribo
+希腊字母	Greka alfabeto
+諺文	Korea alfabeto
+分类:法国	Kategorio:Francio
+分类:音乐	Kategorio:Muziko
+红楼梦	Ruĝdoma sonĝo
+漫画	Mangao
+狐狸	Vulpo
+哈利波特	Harry Potter
+小提琴	Violono
+肛交	Anusa seksumado
+教育	Eduko
+男性	Viro
+婚姻	Geedzeco
+法语维基百科	Franclingva Vikipedio
+咖啡	Kafo
+果汁	Suko
+山	Monto
+第29届奧林匹克运动会	Somera Olimpiko 2008
+孙中山	Sun Jatsen
+香港	Honkongo
+首尔	Seulo
+上海	Ŝanhajo
+伦敦 海斯楼 飞机场	Flughaveno London Heathrow
+清朝	Dinastio Qing
+越南战争	Vjetnama milito
+巴斯克语	Eŭska lingvo
+阿拉贡语	Aragona lingvo
+瓦伦西亚	Valencio
+玛丽咏·高帝娅	Marion Cotillard
+麦克斯韦	James Clerk Maxwell
+原子	Atomo
+光	Lumo
+韩语	Korea lingvo
+官話	Nordĉina dialektaro
+高棉文	Kmera lingvo
+弗洛伊德	Sigmund Freud
+泰语	Siama lingvo
+马来语	Malaja lingvo
+蒙古语	Mongola lingvo
+犹太教	Judismo
+万象	Vjentiano
+莫白桑	Guy de Maupassant
+司马迁	Sima Qian
+朱熹	Zhu Xi
+廷巴克图	Timbuktuo
+伦理学	Etiko
+沙·卢克·康	Shahrukh Khan
+什叶派	Ŝijaismo
+道教	Taoismo
+子宫	Utero
+颈	Kolo
+富克朗特群岛	Insuloj Falklandoj
+马恩岛	Manksinsulo
+戴安娜王妃	Diana Spencer
+Α	Alfo
+Ω	Omego
+Μ	Muo (litero)
+明朝	Dinastio Ming
+朱元璋	Ĵu Juanĵang
+Φ	Fio (litero)
+2008年欧罗维竞唱歌比赛	Eŭrovido-Kantokonkurso 2008
+强·马凯恩	John McCain
+金正日	Kim Ĝong-il
+元素周期表	Perioda tabelo
+罗別脫 姆格比	Robert Mugabe
+自杀	Sinmortigo
+爬蟲類	Reptilioj
+Λ	Lambdo
+伍老虎	Tiger Woods
+洋山芋	Terpomo
+三宝垄	Semarang
+报纸	Gazeto
+电话	Telefono
+?	Demandosigno
+菲德尔·卡斯特罗	Fidel Castro
+元素单子	Kemia elemento
+广域网	Malloka reto
+围棋	Goo
+电影	Filmo
+气体	Gaso
+液体	Likvo
+固体	Solido
+脚踏车	Biciklo
+农业	Agrikulturo
+温度	Temperaturo
+面积	Areo
+数	Nombro
+玛丽亚·莎拉波娃	Marija Ŝarapova
+重慶	Ĉongĉingo
+天津市	Tjanĝino
+武汉	Vuhano
+世界地理索引	Listo de sendependaj ŝtatoj
+担桑身	Gravedeco
+Google地图	Google Maps
+癌	Kancero
+残疾人	Malkapablo
+抗生素	Antibiotiko
+青霉素	Penicilino
+肺炎	Pneŭmonito
+克来普	Patkuko
+麻将	Maĝango
+运河	Kanalo (akvovojo)
+坝	Akvobaraĵo
+牛顿 (单位)	Neŭtono (mezurunuo)
+世界报 (法国)	Le Monde
+万里长城	Granda Ĉina Muro
+可再生能源	Renoviĝanta energio
+电	Elektro
+核武器	Atombombo
+Joomla!	Joomla!
+吉卜赛语	Cigana lingvo
+壮语	Ĝŭanga lingvo
+自由人报 (法国)	Libération
+安吉丽娜	Angelina Jolie
+阿拉伯语	Araba lingvo
+马多符	Bernard Madoff
+扬马延岛	Janmajeno
+弗	Dolaro (monunuo)
+科西嘉岛	Korsiko
+奥克语	Okcitana lingvo
+克里斯蒂娜 艾伐脱	Chris Evert
+李明博	Ji Mjong-bak
+Β	Beto (litero)
+Γ	Gamo (litero)
+Δ	Delto (litero)
+Ε	Epsilono
+Ζ	Zeto
+Η	Eto (litero)
+Θ	Teto
+Ι	Joto
+Κ	Kapo (litero)
+Ν	Nuo (litero)
+Ξ	Ksio
+Ο	Omikrono
+Ρ	Roto (litero)
+Σ	Sigmo
+Τ	Taŭo (litero)
+Υ	Upsilono
+Χ	Ĥio (litero)
+Ψ	Psio (litero)
+复活节岛	Paskinsulo
+澳门	Makao
+胡锦涛	Hu Jintao
+习近平	Xi Jinping
+深圳市	Ŝenĵeno
+廣東省	Gŭangdongo
+广西壮族自治区	Gŭangŝjio
+鹿儿岛县	Gubernio Kagoŝimo
+C语言	C (programlingvo)
+手铐	Mankateno
+艾米·麦克唐纳 (歌手)	Amy Macdonald
+Wikipedia:Featured articles	Vikipedio:Elstaraj artikoloj
+模板:Link FA	Ŝablono:LigoElstara
+Wikipedia:红茶坊	Vikipedio:Diskutejo
+釜山广域市	Pusano
+佛蒙特	Vermonto
+广州	Kantono (Ĉinio)
+蔣中正	Ĉiang Kai-ŝek
+江泽民	Jiang Zemin
+南京市	Nankingo
+首都圈电铁	Metroo de Seulo
+北京大学	Pekina Universitato
+江苏省	Ĝjangsuo
+浙江省	Ĝeĝjango
+邓小平	Deng Xiaoping
+琶兰那克	Parañaque
+菲律宾比索	Filipina peso
+西藏	Tibeto
+圆	Cirklo
+同性婚姻	Samseksaj edzeco kaj edzineco
+Francesc Fàbregas	Cesc Fàbregas
+手机	Poŝtelefono
+欧洲杯足球赛	Ligo de Ĉampionoj de UEFA
+马来亚半岛	Malaja Duoninsulo
+平壤市	Pjongjango
+奥斯卡奖	Oskar-premio
+ی	Jod (hebrea alfabeto)
+黑龍江省	Hejlongĝjango
+芽庄市	Nha Trang
+教皇	Papo
+波多黎各独立党	Partio de la Sendependeco de Porto-Riko
+四川省	Siĉuano
+蔡元培	Cai Yuanpei
+圣诞	Kristnasko
+闰年	Superjaro
+大田广域市	Deĝon
+大邱广域市	Teguo
+仁川广域市	Inĉono
+阿鲁巴	Arubo
+国际音标	Internacia Fonetika Alfabeto
+河北省	Hebejo
+GNU自由文档许可证	Permesilo de GNU por Liberaj Dokumentoj
+台湾	Tajvano
+纽约	New York
+2012年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 2012
+人口密度	Loĝdenso
+爱尔兰	Irlando (insulo)
+鲁迅	Lu Xun
+湖	Lago
+黄瓜	Kukumo
+南奥赛西亚	Sud-Osetio
+阿什哈巴德	Aŝgabato
+岛屿	Insulo
+马赛	Marsejlo
+风牙己榜国家公园	Nacia Parko Phong Nha-Ke Bang
+广平省	Provinco Quang Binh
+赤道	Ekvatoro
+字典	Vortaro
+北塞浦路斯	Turka Respubliko Norda Kipro
+死海	Morta Maro
+英镑	Brita pundo
+金兰国际机场	Flughaveno Cam Ranh
+荷属安地列斯	Nederlandaj Antiloj
+根西岛	Guernsey
+斯瓦尔巴群岛	Svalbardo
+摄氏温标	Grado celsia
+大叻市	Da Lat
+岘港市	Da Nang
+Washington	Washington
+甴巴子	Blato
+鱷魚	Krokodilulo
+人造卫星	Artefarita satelito
+杀人鲸	Granda orcino
+日本海	Japana Maro
+东亚	Orienta Azio
+北亚	Norda Azio
+南欧	Suda Eŭropo
+东欧	Orienta Eŭropo
+北欧	Norda Eŭropo
+西欧	Okcidenta Eŭropo
+中欧	Mezeŭropo
+琉球国	Rjukju-reĝlando
+县	County
+氨基糖苷类抗生素	Aminoglikozido
+伊斯兰历	Islama kalendaro
+柳京饭店	Hotelo Ryugyong
+市长	Urbestro
+中文维基百科	Ĉinlingva Vikipedio
+总统	Prezidanto
+满洲国	Manĉukuo
+安娜·伊凡诺维琪	Ana Ivanović
+圣诞岛	Kristnaskinsulo
+臺灣省	Provinco Tajvano
+拳击	Boksado
+快达航空	Qantas
+斑马	Zebro
+客家语	Hakaa lingvo
+优八克	IUPAK
+赣语	Gana lingvo
+海地克里奥耳语	Haitia kreola lingvo
+大熊猫	Granda pando
+孤立語言	Senparenca lingvo
+卡纳达语	Kannada lingvo
+杜甫	Du Fu
+瓦尔帕莱索	Valparaiso
+演员	Aktoro
+分类:程序编制言话	Kategorio:Programlingvoj
+瓦哈卡	Oaxaca
+侗台语	Kradaja lingvaro
+白脱	Butero
+尼亚加拉瀑布	Niagara Akvofalaro
+吴语	Vua lingvo
+塔斯马尼亚	Tasmanio
+贝拉齐尔‧布托	Benazir Bhutto
+费利佩二世 (西班牙)	Filipo la 2-a (Hispanio)
+牛津大学	Universitato de Oksfordo
+基地 (恐怖组织)	Al-Kaida
+英吉利海峡	Manika Markolo
+柴尔兹孛格	Salzburg
+半岛	Duoninsulo
+新疆維吾爾自治區	Ŝinĝjango
+布里司班	Brisbano
+各国首都列表	Listo de ĉefurboj
+平面镜	Spegulo
+孛拉特 皮此	Brad Pitt
+欧洲足球联合会	UEFA
+美国个州	Usona ŝtato
+议会	Parlamento
+大阪市	Osako
+剑桥大学	Universitato de Kembriĝo
+牙膏	Dentopasto
+通货膨胀	Inflacio
+艾美 羅森	Emmy Rossum
+竹	Bambuo
+刚果	Kongo
+科科斯群岛	Kokosinsuloj
+昆士兰州	Kvinslando
+明尼阿波利斯	Minneapolis
+顺化市	Hue
+马拉雅南语	Malajala lingvo
+逻辑语	Loĵbano
+耶稣会	Jezuitoj
+阿伯丁	Aberdeen
+政治學	Politika scienco
+闽东语	Min-donga lingvo
+闽南语	Minnana lingvo
+Tycho Brahe	Tycho Brahe
+约旦河西岸	Cisjordanio
+维克多利亚州	Viktorio (Aŭstralio)
+水晶之夜	Kristala nokto
+台语	Hokla lingvo
+门	Pordo
+猪流感	Porka gripo
+三船敏郎	Mifune Toshiro
+AK-47	AK-47
+八国集团	G8
+孙武	Sun Tzu
+国际商用机器公司	IBM
+互聯網電影數據庫	Interreta filma datumbazo
+贝克特	Samuel Beckett
+达赖喇嘛	Dalai-lamao
+邮政编码	Poŝtkodo
+Nicole Kidman	Nicole Kidman
+联合国安理会	Konsilio de Sekureco de Unuiĝintaj Nacioj
+洋火棒儿	Alumeto
+雹	Hajlo
+南海	Sudĉina Maro
+肯波拉圣吉奥瓦尼	Campora San Giovanni
+朝鮮世宗	Seĝong
+奥克兰格兰玛学校	Auckland Grammar School
+电冰箱	Fridujo
+黄海	Flava Maro
+大仲马	Alexandre Dumas (patro)
+孟加拉湾	Bengala Golfo
+哈马斯	Hamas
+阿斯旺水坝	Asuana Baraĵo
+人民币	Renminbio
+富士山	Fuĵi-Monto
+小鼠	Muso (besto)
+索契	Soĉi
+迈克尔·菲尔普斯	Michael Phelps
+卡地马党	Kadima
+加沙地带	Gaza Sektoro
+霍巴特	Hobarto
+金草莓奖	Premio Ora Frambo
+律师	Advokato
+相扑	Sumoo
+希斯·莱杰	Heath Ledger
+安徽省	Anhujo
+内蒙古自治区	Interna Mongolio
+金日成	Kim Il-sung
+济州特别自治道	Jeju-do
+郁陵岛	Ulleungdo
+湄公河	Mekongo
+索尼	Sony
+巴別塔	Babela turo
+力学	Mekaniko
+南半球	Suda duonglobo
+蔚山广域市	Ulsan
+光州广域市	Kŭangĵuo
+温室效应	Forceja efiko
+Julia Gillard	Julia Gillard
+华国锋	Hua Guofeng
+福建省	Fuĝjano
+克拉耿富合脱	Klagenfurt
+小熊猫	Malgranda pando
+大溪地	Tahitio
+海南省	Hajnano
+汉语拼音	Hanyu Pinyin
+远东	Fora Oriento
+西班牙国家足球队	Hispana nacia teamo de futbalo
+华氏温标	Grado farenhejta
+海峡群岛	Manikinsuloj
+甘肃省	Gansuo
+苏州市	Suĝoŭo
+无锡市	Vuŝio
+绍兴市	Ŝaosing
+汉族	Hanoj
+宁波市	Ningbo
+ETA (民族组织)	ETA
+隆城国际机场	Flughaveno Long Thanh
+数据	Datumo
+迪马 皮郎	Dima Bilan
+基本粒子	Elementa partiklo
+陆克文	Kevin Rudd
+沙菲娅 劳塔露	Sofia Rotaru
+些拉·班琳	Sarah Palin
+云南省	Junano
+苏丹 (称谓)	Sultano
+德国国家足球队	Germana nacia teamo de futbalo
+山东省	Ŝandongo
+福楼拜	Gustave Flaubert
+英属印度洋领地	Brita Hindoceana Teritorio
+地质年代	Geologia temposkalo
+河南省	Henano
+乃堂雅虎	Benjamin Netanjahu
+护照	Pasporto
+遼寧省	Ljaŭningo
+件西卡 阿尔白	Jessica Alba
+GNOME	GNOME
+色子	Ĵetpluredro
+吉林省	Ĝilinio
+东海	Orientĉina Maro
+阿南德	Viswanathan Anand
+湖南省	Hunano
+水族馆	Akvario
+青海省	Ĉinghajo
+豪納省	Rhône (departemento)
+金一葉	Kim Il-yeop
+陸龜	Teraj testudoj
+話筒	Mikrofono
+山西省	Ŝanŝio
+魔方	Kubo de Rubik
+尼德兰国家足球队	Nederlanda nacia teamo de futbalo
+谜子	Ŝarado
+艾西瓦娅·巴克罕	Aishwarya Rai
+贵州省	Gŭiĝoŭo
+Warren Buffett	Warren Buffett
+蹔𧉆	Grilo
+纸币	Monbileto
+加沙城	Gaza-urbo
+白斯克	Eŭskio
+安达曼海	Andamana Maro
+穆斯林	Islamano
+孛路內 (Blu-Ray)	Blu-radia disko
+法国国家足球队	Franca nacia teamo de futbalo
+后现代	Postmodernismo
+宮城县	Gubernio Mijagi
+帕荔斯 希尔顿	Paris Hilton
+陕西省	Ŝenŝjio
+模板:Commonscat	Ŝablono:Commonscat
+岩手县	Gubernio Iŭate
+死人	Kadavro
+莱纳斯·鲍林	Linus Pauling
+Patrick Swayze	Patrick Swayze
+嫦娥1号	Chang'e 1
+水彩画	Akvarelo
+李舜臣	Ji Sun-sin
+巴黎地铁	Metroo de Parizo
+清迈	Ĉiang Mai
+珍珠港事件	Atako kontraŭ Pearl Harbor
+分类:化学模板	Kategorio:Ŝablono:Kemio
+模板:Taxobox	Ŝablono:Taksonomio
+松下电器	Matsushita
+丰田汽车	Toyota
+田鸡	Anuro
+艾奇亚	IKEA
+火车站	Fervoja stacidomo
+模板:中国历史	Ŝablono:Historio de Ĉinio
+金正恩	Kim Ĝong-un
+豪萨语	Haŭsa lingvo
+江西省	Ĝjangŝio
+纳姆耶尔·旺楚克 (不丹国王)	Jigme Khesar Namgyel Wangchuck
+阮明哲	Nguyễn Minh Triết
+宁夏回族自治区	Ningŝjao
+拿督阿都拉萨	Naĝib Razak
+扬州市	Janĉĵou
+泰州	Tajĝou (Ĝjangsuo)
+南通	Nantong
+镇江市	Ĉĵencjan
+常州市	Ĉangĝoŭo
+迪斯科	Diskoo
+阉	Kastro
+寿春机场	Flughaveno Sao Vang
+海蒂·克鲁姆	Heidi Klum
+空军	Aerarmeo
+大名	Daimio
+数码照相机	Cifereca fotilo
+数词	Nombrovorto
+哈里发	Kalifo
+汇率	Kurzo
+青森县	Gubernio Aomori
+福岛县	Gubernio Fukuŝima
+青蛙	Rano
+海防市	Hai Phong
+斯堪的纳维亚半岛	Skandinavia duoninsulo
+里尔克	Rainer Maria Rilke
+排列组合	Kombinatoriko
+鲍林标度	Elektronegativeco
+街道	Strato
+Wikipedia:新闻发布	Vikipedio:Historio
+机器翻译	Maŝintradukado
+阿根廷国家足球队	Argentina nacia teamo de futbalo
+面向对象程式编制	Objektema programado
+千叶县	Gubernio Ĉiba
+定积分	Integralo
+故宫	Malpermesita Urbo
+泰米尔猛虎解放组织	Tamilaj tigroj
+印度卢比	Barata rupio
+Microsoft Outlook	Microsoft Outlook
+早饭	Matenmanĝo
+自动银行出纳机	Bankaŭtomato
+秋田县	Gubernio Akita
+乌克兰元	Ukraina hrivno
+Ségolène Royal	Ségolène Royal
+通用汽车	General Motors
+差头	Taksio
+乌赛	Regiono (geografio)
+雷 (天气)	Tondro
+拿塔莎 康埔西	Natascha Kampusch
+模板:Cite book	Ŝablono:Citaĵo el libro
+香农 (计算数学家)	Claude Shannon
+索里亚省	Komunumoj de Sorio
+三角函数	Trigonometria funkcio
+2009年甲型H1N1流感疫情	Gripa pandemio de 2009
+草	Trudherbo
+文瑾莹	Moon Geun Young
+2004年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 2004
+严重急性呼吸道综合症	Netipa pneŭmonio
+John C. Mather	John C. Mather
+索尔·珀尔马特	Saul Perlmutter
+希腊数字	Grekaj ciferoj
+克里米亚鞑靼人	Krime-tataroj
+爱媛县	Gubernio Ehime
+圣灰星期三	Cindra merkredo
+邻舍	Kvartalo
+沙地	Stepo
+鸡窠生凤凰 (电影)	Slumdog Millionaire
+天坛	Ĉiela Altaro
+山形县	Gubernio Jamagata
+基呒湖	Kivuo
+电子工程	Terminaro pri elektro
+神奈川县	Gubernio Kanagaŭa
+中国地区	Ĉugoku
+长野县	Gubernio Nagano
+埼玉县	Gubernio Sajtama
+笼	Kaĝo
+英属印度	Brita Hindio
+法国高速铁路	TGV
+Ϝ	Digamo
+群马县	Gubernio Gunma
+Ϙ	Kuoppo
+Hugh Jackman	Hugh Jackman
+兵库县	Gubernio Hjogo
+2004年东南亚大地震搭海啸	Tertremo en Hinda Oceano en 2004
+安娜·库妮可娃	Anna Kurnikova
+泰国湾	Golfo de Tajlando
+2000年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 2000
+Ϛ	Stigmo (litero)
+兵房	Kazerno
+石川县	Gubernio Iŝikaŭa
+妓院	Bordelo
+国际单位制词头	Dekoblaj kaj dekonaj unuoj
+静冈县	Gubernio Ŝizuoka
+对话	Dialogo
+Ͳ	Sampio
+农民	Terkultivisto
+葡蛮郎	Bumerango
+渧拉米酥	Tiramisu
+Ϻ	Sano (litero)
+毛巾	Sekigtuko
+钱包	Monujo
+春节	Ĉina novjara festo
+麻生太郎	Aso Taro
+无产阶级	Proleto
+弥撒	Meso (diservo)
+Naomi Watts	Naomi Watts
+座头鲸	Ĝiba baleno
+冈山县	Gubernio Okajama
+赌场	Kazino
+撒旦教	Satanismo
+农历	Ĉina kalendaro
+克罗地亚国家足球队	Kroata nacia teamo de futbalo
+巴尔喀什湖	Balkaŝo
+泰国旗	Flago de Tajlando
+希腊国家足球队	Greka nacia teamo de futbalo
+峨眉山	Emej-ŝan
+Zip	ZIP (densigilo)
+冰壶	Glitŝtonludo
+台风	Tajfuno
+台南市	Tajnan
+加蒂诺市 (魁北克)	Gatineau
+针	Kudrilo
+加合拉·孛何妮	Carla Bruni
+欧楂	Mespilujo
+卡哟儿	Kajol
+魔幻现实主义	Magia realismo
+潘玉良	Pan Yuliang
+义和团	Boksista ribelo
+李芙妮	Cipi Livni
+列宁搿拉德围城搭仔保卫战	Sieĝo de Leningrado
+1988年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 1988
+薯条	Terpomfingroj
+吉赛尔·邦臣	Gisele Bündchen
+特强气旋风暴纳尔吉斯	Ciklono Nargis
+半岛战争	Milito de Hispana Sendependiĝo
+日本杯	Japana Pokalo (ĉevalvetkuro)
+英国电视电影艺术学院奖	BAFTA
+毛纳洛火山	Mauna Loa
+荷兰东印度公司	Nederlanda Orient-hinda Kompanio
+富牌国际机场	Flughaveno Phu Bai
+斷背山	Brokeback Mountain
+环球小姐	Fraŭlino Universo
+ADSL	ADSL
+1992年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 1992
+奥斯区亚国家足球队	Aŭstra nacia teamo de futbalo
+伦敦德里城	Derry
+新干线	Ŝinkanseno
+达新	Taksin Ĉinaŭat
+Olga Kurylenko	Olga Kurilenko
+瑞士国家足球队	Svisa nacia teamo de futbalo
+莲姜国际机场	Flughaveno Lien Ĥuong
+金泳三	Kim Young-Sam
+星海爭霸	StarCraft
+波兰国家足球队	Pola nacia teamo de futbalo
+环球影视城	Universal Studios
+罗马尼亚国家足球队	Rumana nacia teamo de futbalo
+小仲马	Alexandre Dumas (filo)
+罗杰·科恩伯格	Roger D. Kornberg
+2008年末─2009年初加沙地带大规模军事行动	Konflikto de la Gaza Sektoro (2008-2009)
+利息	Interezo
+直接民主制	Rekta demokratio
+橡胶擦子	Skrapogumo
+幽老猫	Kaŝludo
+萨丽	Sario
+1960年欧洲足球国家杯	Eŭropa Futbal-Ĉampionado 1960
+几何原本	Elementoj de Eŭklido
+解热镇痛药	Kontraŭdolorilo
+木版画	Lignogravurado
+长沙市	Ĉangŝa
+阿披实	Abhisit Vejjajiva
+越南国家航空公司	Vietnam Airlines
+油画	Oleo-pentrado
+物流	Loĝistiko
+宦官	Eŭnuko
+虱误	Cimo (komputscienco)
+阿歷克山德拉·柯倫泰	Aleksandra Miĥailovna Kolontaj
+George F. Smoot	George Smoot
+Ϸ	Ŝo (litero)
+锡克金庙	Harmandir Sahib
+酋长航空公司	Emirates Airlines
+1996年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 1996
+消费者物价指数	Konsumpreza indico
+卡本塔里亚湾	Karpentaria Golfo
+超级市场	Superbazaro
+章子怡	Zhang Ziyi
+Heineken	Heineken
+千分比	Elmilo
+高雄市	Kaoŝiung
+病人	Paciento
+1980年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 1980
+1968年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 1968
+1964年欧洲足球国家杯	Eŭropa Futbal-Ĉampionado 1964
+印第安纳琼斯 —— 水晶骷髅王国	Indiana Jones kaj la Reĝlando de la Kristala Kranio
+1972年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 1972
+1984年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 1984
+亚历山大	Aleksandrio (apartigilo)
+昆明	Kunmingo
+东京铁塔	Turo de Tokio
+兰州市	Lanĝoŭo
+佛來崮	Le Puy-en-Velay
+羅迪尼亞	Rodinia
+欧里维娅	Olivia Newton-John
+Knol	Knol
+Ͱ	Heto
+法国航空447号班机	Flugo Air France 447
+共享软件	Propagaĵo
+简化字	Simpligita ĉina skribo
+薄拉特 (电影)	Borat: Rigardado en usona kulturon laŭ mende por gloro al kazaĥia nacioj
+張勉	Chang Myon
+耳機	Kapaŭskultiloj
+利库德党	Firmigo
+洛阳	Lŭojango
+淞河	Saône
+白鳍豚	Blanknaĝila delfeno
+1976年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 1976
+平昌郡	Pjonĉango
+亚洲开发银行	Banko por Azia Disvolviĝo
+奖学金	Stipendio
+矮马	Poneo
+匈奴编年史	Ŝiungnuoj
+孟子	Menceo
+桂林	Gujlin
+雪兰莪州	Selangoro
+海口市	Hajkoŭo
+挪威广播公司	NRK
+声调	Tonlingvo
+基督山伯爵	La grafo de Montekristo
+玛丽女王2号	Queen Mary 2
+法国总统	Prezidento de la Respubliko (Francio)
+伊顿公学	Eton College
+越盾	Vjetnama dongo
+解剖学治疗学及化学分类系统	ATC-kodo
+尹致昊	Yun Chi-ho
+北卡罗莱纳大学教堂山分校	Universitato de Norda Karolino ĉe Chapel Hill
+我有一只梦	Revon havas mi
+梦工厂	DreamWorks
+谢列梅捷沃国际机场	Internacia flughaveno Ŝeremetjevo
+麵	Nudelo
+观世音	Avalokiteŝvaro
+月饼	Lunkuko
+株洲市	Ĝuĝou
+澎湖县	Penghuoj
+壯學	Ĝŭangoscienco
+中国人民解放军	Popola Liberiga Armeo
+辛格·旺楚克 (不丹国王)	Jigme Singye Wangchuck
+巴黎大区高速铁路C线	RER de Francilio C
+精神疾病诊断搭仔统计手冊	Diagnoza kaj Statistika Manlibro de Mensaj Malordoj
+米尔克 (电影)	Milk
+高棉帝国	Kmera imperio
+狙击手	Kaŝpafisto
+鼻衄	Epistakso
+开脱•文斯莱脱	Kate Winslet
+平均	Centra dispozicio
+富国机场	Flughaveno Phu Quoc
+曹操	Cao Cao
+水粉画	Guaŝo
+冬至	Vintra solstico
+新台币	Nova tajvana dolaro
+混成词	Kofrovorto
+法国省份一览表	Malnovaj provincoj de Francio
+袋鼠岛	Kanguru-Insulo
+DTD	Dokumento-Speco-Difino
+开脱•末斯	Kate Moss
+娜塔莎·李察遜	Natasha Richardson
+三聚氰胺	Melamino
+高隆皮亚国家足球队	Kolombia nacia teamo de futbalo
+莫尼卡-莱温斯基	Monica Lewinsky
+金奎植	Kim Kyu-sik
+7-Zip	7-Zip
+洋油盏	Kerosena lampo
+湘潭市	Sjantan
+费加罗报 (法国)	Le Figaro
+汽车旅馆	Motelo
+垃圾桶	Rubujo
+金刚 (电影)	King Kong
+海龜	Martestudoj
+老鼠会	Skemo Ponzi
+ISO/IEC 8859	ISO 8859
+龟	Testuduloj
+国际足联世界冠军俱乐部杯赛	Kluba Mondpokalo de FIFA
+石泰凡妮 莱斯	Stephanie Rice
+印度空间研究组织	Barata Organizo pri Kosmo Esplorado
+臺灣 (消歧義)	Tajvano (apartigilo)
+酱油	Sojsaŭco
+新山	Johor Bahru
+MT	Mt
+国富论	La Riĉo de Nacioj
+玫瑰人生 (2007年电影)	La Môme (filmo)
+九龙	Kaŭluno
+2008年欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado 2008
+索马里内战	Somalia enlanda milito
+金砖国家	BRICS
+纳戈尔诺-卡拉巴赫	Respubliko Montara Karabaĥo
+新北市	Novtajpeo
+臺中市	Tajĉung
+鹅	Bredansero
+高丽航空	Air Koryo
+环球银行金融电信协会	SWIFT
+赛义巴巴	Sai Baba de Shirdi
+欧洲足球冠军赛	Eŭropa Futbal-Ĉampionado
+汽水	Karbonata akvo
+保合多伽勒国家足球队	Portugala nacia teamo de futbalo
+爱尔兰镑	Irlanda pundo
+陈冯富珍	Margaret Chan
+林心如	Ruby Lin
+藏羚羊	Tibeta antilopo
+生个利亚酒	Sangrio
+耶莲娜	Jelena Dokić
+重组DNA	Rekombino de DNA
+素拉育	Surayud Chulanont
+颂猜·旺沙瓦	Somchai Wongsawat
+奥特莱•导都	Audrey Tautou
+Β－内酰胺类抗生素	Beta-laktamaj antibiotikoj
+金城武	Kaneshiro Takeshi
+纳维语	Na'via lingvo
+松浦晃一郎	Kojĉiro Macuura
+徐載弼	Philip Jaisohn
+窃听器	Subaŭskultilo
+杭州灣大橋	Ponto de golfo Hangzhou
+基斯孔哈拉斯	Kiskunhalas
+日本中央银行	Banko de Japanio
+哈桑式火箭弹	Kassam-raketo
+林语堂	Lin Yutang
+朴憲永	Park Heon-young
+芜湖市	Vuĥu
+新兴工业国家	Sojlolando
+中秋节	Luna Festo
+陈冠希	Edison Chen
+TCL	TCL
+金牌	Ormedalo
+秋叶原	Akihabara
+Моа	Dinornito
+崇礼门	Namdemun
+許貞淑	Heo Jong-suk
+羅蕙錫	Na Hyesok
+泰国人	Tajoj
+亚罗士打	Alor Setar
+博拉碧湖	Bueng Boraphet
+國際馬術聯合會	Internacia Rajdada Federacio
+新山一国际机场	Flughaveno Tan Son Nhat
+运动场	Stadiono
+圣保罗地铁	Metroo en San-Paŭlo
+捷克国家足球队	Ĉeĥa nacia teamo de futbalo
+朝鲜族	Koreoj
+吕克·贝松	Luc Besson
+俞吉濬	Yu Gil-jun
+李光洙	Yi Gwang-su
+朴重陽	Park Jung-yang
+六方会谈	Ses-partiaj interparoloj
+奶粉	Laktopulvoro
+莎阿南	Shah Alam
+西湖	Okcidenta Lago (Hangĝoŭo)
+卡卡	Kaká
+南印度	Suda Barato
+趙元任	Zhao Yuanren
+蒙古简介	Mongola Altebenaĵo
+IBM	IBM (apartigilo)
+巴彦淖尔	Bajan-Nuro
+意大利杂菜汤	Minestrono
+罗得乃斯脱岛	Rottnest
+花岗岩岛 (澳大利亚)	Insulo Granita
+List of Thailand cities	Listo de urboj de Tajlando
+庐山	Luŝan
+必和必拓矿业公司	BHP Billiton
+饺子	Ĝozo
+乃米湖	Nemi (lago)
+性旅游者	Seksa turismo
+卡里平	Karibio
+意大利国家足球队	Itala nacia teamo de futbalo
+流亡政府	Ekzilregistaro
+中文数字大写	Ĉinaj ciferoj
+搿连搭罗格 (爱尔兰)	Glendalough
+快门	Obturatoro
+金刚	Kloŝo kaj vajra
+市区	Urba areo
+西德	Okcidenta Germanio
+春卷	Lumpio
+俄罗斯国家足球队	Rusia nacia teamo de futbalo
+現代標準漢語	Norma ĉina lingvo
+巴黎大区高速铁路A线	RER de Francilio A
+泰国人妖	Kathoey
+丢勒个犀牛	Rinocero de Dürer
+凯山丰威汉市	Savannaĥet
+苏州码子	Cifereca sistemo de Suzhou
+克里米亚共和国	Aŭtonoma Respubliko Krimeo
+岘港国际机场	Flughaveno Da Nang
+Jászszentlászló	Jászszentlászló
+国王岛	Reĝinsulo (Tasmanio)
+应召女郎	Callgirl
+黑人	Nigrulo
+生-丰	Saint-Fons
+码头	Varfo
+富通银行	Fortis
+傣族	Dajoj
+國際語音學學會	Internacia Fonetika Asocio
+维基百科孵化器	Vikimedia Kovilo
+冠军	Ĉampiono
+越捷航空	VietJet Air
+拉玛九世	Phumiphon Adunjadet
+阴蒂	Klitoro
+孛拉先拿湖	Bracciano (lago)
+统万城	Tongwancheng
+金瓯机场	Flughaveno Ca Mau
+帮助:目录	Helpo:Enhavo
+申報	Shen Bao
+福布斯	Forbes
+陆上风帆	Landa velado
+草原	Herbejo
+金球奖	Premio Ora Globo
+比拉伊	Piraí
+维克多港	Victor Harbor (Suda Aŭstralio)
+仓颉码	Cangjie (Eniga metodo)
+龙虾	Omaro
+大报恩寺（南京）	Porcelanturo
+清迈大学	Chiang-Mai-Universitato
+百万富豪	Milionulo
+Club Méd	Club Méd
+手写体	Manskribaj literoj
+人民民主联盟 (泰国)	Popola Alianco por Demokratio
+库克船长个小房子	Cooks' Cottage
+还剑湖	Lago Hoan Kiem
+良渚文化	Liangzhu-kulturo
+机场	Flughaveno
+土星运载火箭	Saturn (raketo)
+汉服	Hanfu
+巴黎大区高速铁路B线	RER de Francilio B
+江南	Jiangnano
+分类:德国	Kategorio:Germanio
+分类:意大利	Kategorio:Italio
+分类:美国	Kategorio:Usono
+分类:俄罗斯	Kategorio:Rusio
+分类:英国	Kategorio:Unuiĝinta Reĝlando
+分类:西班牙	Kategorio:Hispanio
+分类:中国	Kategorio:Ĉinio
+分类:日本	Kategorio:Japanio
+分类:澳大利亚	Kategorio:Aŭstralio
+分类:墨西哥	Kategorio:Meksiko
+分类:印度	Kategorio:Barato
+分类:阿根廷	Kategorio:Argentino
+富国国际机场	Internacia Flughaveno Phu Quoc
+巴黎大区高速铁路D线	RER de Francilio D
+毛东岛	Insulo Moreton
+分类:印度尼西亚	Kategorio:Indonezio
+分类:乃特朗特	Kategorio:Nederlando
+分类:新加坡	Kategorio:Singapuro
+分类:韩国	Kategorio:Sud-Koreio
+分类:泰国	Kategorio:Tajlando
+分类:越南	Kategorio:Vjetnamio
+分类:哺乳动物	Kategorio:Mamuloj
+分类:植物	Kategorio:Plantoj
+分类:物理	Kategorio:Fiziko
+分类:生物学	Kategorio:Biologio
+分类:化学	Kategorio:Kemio
+分类:历史	Kategorio:Historio
+分类:地理	Kategorio:Geografio
+分类:社会	Kategorio:Socio
+分类:宗教	Kategorio:Religio
+分类:体育运动	Kategorio:Sporto
+分类:科学	Kategorio:Scienco
+分类:电影	Kategorio:Kino
+分类:建筑物	Kategorio:Konstruaĵoj
+上水	Ŝeung Ŝui
+巴士底獄	Bastille
+分类:消歧义	Kategorio:Apartigiloj
+分类:佛教	Kategorio:Budhismo
+分类:基督教	Kategorio:Kristanismo
+分类:伊斯兰教	Kategorio:Islamo
+华东师范大学	Orient-Ĉina Normala Universitato
+运动员	Atleto
+女阴	Vulvo
+Bochotnica	Bochotnica
+选美	Beleco-konkurso
+将军澳	Tseung Kvan O
+1998年印尼排华大骚乱	Ĝakartaj tumultoj en majo de 1998
+分类:未完个文章	Kategorio:Ĝermo
+分类:维基百科分类	Kategorio:Vikipedio:Kategorioj
+分类:维基百科管理	Kategorio:Vikipedio:Vikipedio
+分类:文化	Kategorio:Kulturo
+分类:大洲	Kategorio:Kontinentoj
+分类:地质学	Kategorio:Geologio
+Wikipedia:命名常规	Vikipedio:Titoloj de artikoloj
+剃刀	Sendanĝera razilo
+Portal:地理	Portalo:Geografio
+春运	Ĉunjun
+可口可乐公司	The Coca-Cola Company
+Wikipedia:HotCat	Vikipedio:VarmaKato
+分类:维基百科机器人	Kategorio:Vikipedio:Robotoj
+大阪	Osaka
+分类:美国人	Kategorio:Usonanoj
+分类:演员	Kategorio:Aktoroj
+分类:英国人	Kategorio:Britoj
+分类:法国人	Kategorio:Francoj
+模板:Tl	Ŝablono:Ŝ
+模板:Userbox	Ŝablono:Uzantoskatolo1
+模板:Wikipedialang	Ŝablono:ĈefPaĝo/AliajLingvoj
+模板:Itn	Ŝablono:ĈefPaĝoMondAktualaĵo
+分类:自由软件	Kategorio:Libera programaro
+分类:国家	Kategorio:Landoj
+Wikipedia:Changing username	Vikipedio:Alinomi uzanton
+Wikipedia:管理员	Vikipedio:Administrantoj
+分类:人物	Kategorio:Personoj
+分类:职业	Kategorio:Profesioj
+分类:各行各业个人	Kategorio:Homoj laŭ profesioj
+Wikipedia:机器人	Vikipedio:Roboto
+分类:货币	Kategorio:Mono
+分类:工程學	Kategorio:Inĝenierarto
+Wikipedia:100个核心页面	Vikipedio:Listo de 100 plej havendaj artikoloj
+Wikipedia:AutoWikiBrowser	Vikipedio:AutoWikiBrowser
+分类:医学	Kategorio:Medicino
+分类:政治	Kategorio:Politiko
+分类:教育	Kategorio:Edukado
+分类:光学	Kategorio:Optiko
+分类:艺术	Kategorio:Arto
+埃及	Egiptujo
+Wikipedia:手傀儡	Vikipedio:Gantopupo
+模板:Bot	Ŝablono:Bot
+加拿大	Kanado
+分类:倍尔奇姆	Kategorio:Belgio
+分类:捷克	Kategorio:Ĉeĥio
+Wikipedia:版权	Vikipedio:Aŭtorrajto
+分类:电子游戏	Kategorio:Videoludoj
+分类:游戏	Kategorio:Ludoj
+帮助:編輯摘要	Vikipedio:Resumo
+模板:Flagicon	Ŝablono:Flagikono
+分类:欧洲国家	Kategorio:Eŭropaj landoj
+分类:欧洲	Kategorio:Eŭropo
+Wikipedia:Subpages	Vikipedio:Subpaĝoj
+Wikipedia:近段辰光个事体	Vikipedio:Aktualaĵoj
+模板:Documentation	Ŝablono:Dok
+Wikipedia:User access levels	Vikipedio:Rajtoj de uzantoj
+Wikipedia:聊天频道	Vikipedio:IRC
+分类:维基人	Kategorio:Vikipediistoj
+Wikipedia:社区门堂	Portalo:Komunumo
+分类:User by languages	Kategorio:Vikipediistoj laŭ lingvo
+帮助:用词指南	Vikipedio:Evitu nebulajn vortojn
+成在基	Sung Jae-gi
+模板:Soft redirect	Ŝablono:Intervikia plusendilo
+模板:Delete	Ŝablono:Forigu tuj
+分类:技术	Kategorio:Teknologio
+卫星天线	Parabola anteno
+分类:言话	Kategorio:Lingvoj
+分类:历法	Kategorio:Kalendaro
+分类:维基百科	Kategorio:Vikipedio
+分类:各样言话个维基百科	Kategorio:Vikipedioj laŭ lingvoj
+分类:朆索引个页	Kategorio:Neindeksitaj paĝoj
+分类:有无用文件链接个页	Kategorio:Paĝoj kun eraraj dosierligiloj
+分类:現在正發生個事體	Kategorio:Aktualaĵoj
+分类:欧洲城市	Kategorio:Urboj de Eŭropo
+Wikipedia:維基休息	Vikipedio:Vikipaŭzo
+模板:-	Ŝablono:-
+模板:Navbox	Ŝablono:Navigilo2
+模板:Persondata	Ŝablono:Informkesto biografio
+模板:Fact	Ŝablono:Mankas fonto
+分类:維基百科維護	Kategorio:Artikoloj bezonantaj plibonigon
+模板:Error	Ŝablono:Eraro
+模板:!	Ŝablono:!
+模板:!!	Ŝablono:!!
+模板:=	Ŝablono:=
+模板:Tnavbar	Ŝablono:Tnavbar
+模板:Unicode	Ŝablono:Unicode
+模板:Small	Ŝablono:Malgrande
+模板:Nowrap	Ŝablono:Nrsp
+模板:Bots	Ŝablono:Bots
+Wikipedia:必有个页面	Vikipedio:Listo de havendaj artikoloj
+分类:非洲	Kategorio:Afriko
+分类:數字	Kategorio:Nombroj
+分类:电子学	Kategorio:Elektroniko
+分类:书	Kategorio:Libroj
+模板:Wikisource	Ŝablono:Vikifontaro
+模板:Babel	Ŝablono:Babelejo
+模板:Commons	Ŝablono:Commons
+模板:Link GA	Ŝablono:LigoLeginda
+模板:Reflist	Ŝablono:Referencoj
+模板:AFG	Ŝablono:AFG
+Wikipedia:列明來源	Vikipedio:Citi fontojn
+模板:Stub	Ŝablono:Ĝermo
+模板:See also	Ŝablono:Vidu ankaŭ
+模板:User de	Ŝablono:Vikipediisto de
+模板:User de-1	Ŝablono:Vikipediisto de-1
+模板:User es	Ŝablono:Vikipediisto es
+模板:User de-3	Ŝablono:Vikipediisto de-3
+模板:User en-3	Ŝablono:Vikipediisto en-3
+模板:User en-1	Ŝablono:Vikipediisto en-1
+模板:User en-2	Ŝablono:Vikipediisto en-2
+模板:User en-4	Ŝablono:Vikipediisto en-4
+模板:User en	Ŝablono:Vikipediisto en
+模板:User de-2	Ŝablono:Vikipediisto de-2
+模板:User es-1	Ŝablono:Vikipediisto es-1
+模板:User fa	Ŝablono:Vikipediisto fa
+模板:User fr-1	Ŝablono:Vikipediisto fr-1
+分类:各国个文化	Kategorio:Kulturo laŭ landoj
+分类:物质	Kategorio:Materio
+模板:User ja-4	Ŝablono:Vikipediisto ja-4
+模板:User sk	Ŝablono:Vikipediisto sk
+模板:User ja	Ŝablono:Vikipediisto ja
+模板:User ja-1	Ŝablono:Vikipediisto ja-1
+模板:User it-1	Ŝablono:Vikipediisto it-1
+模板:User fr	Ŝablono:Vikipediisto fr
+模板:Unsigned	Ŝablono:Subskribo
+模板:HRV	Ŝablono:HRV
+分类:亚洲	Kategorio:Azio
+分类:智利	Kategorio:Ĉilio
+分类:21世紀	Kategorio:21-a jarcento
+分类:User uk	Kategorio:Vikipediisto uk
+分类:南美洲	Kategorio:Sudameriko
+分类:User uk-N	Kategorio:Vikipediisto uk-D
+模板:Intricate template	Ŝablono:Esotera
+分类:马来西亚	Kategorio:Malajzio
+分类:食物	Kategorio:Manĝaĵoj
+分类:足球	Kategorio:Futbalo
+模板:Mod	Ŝablono:Mod
+模板:User uk	Ŝablono:Vikipediisto uk
+模板:User es-2	Ŝablono:Vikipediisto es-2
+模板:WikipediaSister	Ŝablono:ĈefPaĝo/AliajProjektoj
+模板:USA	Ŝablono:USA
+分类:组织	Kategorio:Organizaĵoj
+分类:语言学	Kategorio:Lingvoscienco
+模板:ITA	Ŝablono:ITA
+模板:GEO	Ŝablono:GEO
+模板:BOL	Ŝablono:BOL
+分类:鏈接模板	Kategorio:Ŝablono:Lighelpo
+模板:MEX	Ŝablono:MEX
+分类:User fr-1	Kategorio:Vikipediisto fr-1
+模板:Wikiquote	Ŝablono:Vikicitaro
+模板:Image label	Ŝablono:Marko sur bildo
+模板:Translated page	Ŝablono:Tradukita
+模板:MAR	Ŝablono:MAR
+模板:Ja icon	Ŝablono:Ja
+模板:PSE	Ŝablono:PSE
+模板:Sidebar	Ŝablono:Flanka kesto2
+模板:Es icon	Ŝablono:Es
+模板:Ambox	Ŝablono:ArtikolaMesaĝokesto
+模板:SVK	Ŝablono:SVK
+模板:TWN	Ŝablono:TWN
+模板:EGY	Ŝablono:EGY
+模板:KGZ	Ŝablono:KGZ
+模板:ISR	Ŝablono:ISR
+模板:Infobox Country	Ŝablono:Informkesto lando
+模板:Column-count	Ŝablono:Kolumno-nombro
+模板:VEN	Ŝablono:VEN
+模板:Airline infobox	Ŝablono:Informkesto flugkompanio
+模板:Wide image	Ŝablono:Granda dosiero
+模板:UKR	Ŝablono:UKR
+模板:Px	Ŝablono:Px
+模板:好哉	Ŝablono:Farita
+模板:Audio	Ŝablono:Aŭdio
+模板:Flatlist	Ŝablono:Listo de elementoj
+模板:PHL	Ŝablono:PHL
+模板:ROU	Ŝablono:ROU
+模板:BHR	Ŝablono:BHR
+模板:TUR	Ŝablono:TUR
+模板:Tmbox	Ŝablono:DiskutaMesaĝokesto
+模板:清理	Ŝablono:Polurinda
+模板:DJI	Ŝablono:DJI
+模板:Infobox university	Ŝablono:Informkesto universitato
+模板:BRN	Ŝablono:BRN
+模板:Wikibooks	Ŝablono:Vikilibroj
+模板:S-after	Ŝablono:S-aft
+分类:巴黎	Kategorio:Parizo
+分类:User en-4	Kategorio:Vikipediisto en-4
+分类:User en	Kategorio:Vikipediisto en
+分类:User zh	Kategorio:Vikipediisto zh
+分类:User zh-N	Kategorio:Vikipediisto zh-D
+分类:User en-2	Kategorio:Vikipediisto en-2
+模板:Infobox	Ŝablono:Informkesto
+模板:Right TOC	Ŝablono:TOC-dekstre
+模板:Main other	Ŝablono:Ĉu artikolo
+模板:User zh	Ŝablono:Vikipediisto zh
+模板:Template other	Ŝablono:Ĉu ŝablono
+模板:Legend	Ŝablono:Priskribo
+模板:Cite web	Ŝablono:Citaĵo el la reto
+模板:Youtube	Ŝablono:YouTube
+分类:軍事裝備	Kategorio:Milita tekniko
+模板:Infobox WS	Ŝablono:Informkesto skribo
+分类:女模特	Kategorio:Modeloj
+模板:IMDb title	Ŝablono:IMDb titolo
+模板:User ru-4	Ŝablono:Vikipediisto ru-4
+分类:饮食	Kategorio:Kuirarto
+模板:Coor URL	Ŝablono:KoordinatojURL
+模板:Wiktionary	Ŝablono:Vikivortaro
+模板:Multi-listen start	Ŝablono:Aŭskultu komenco
+模板:Languageicon	Ŝablono:Ref-lang
+分类:英国个博物馆	Kategorio:Muzeoj de Britio
+分类:总统	Kategorio:Prezidantoj
+模板:User ru	Ŝablono:Vikipediisto ru
+分类:20世紀	Kategorio:20-a jarcento
+模板:IPA	Ŝablono:IFA
+分类:美洲	Kategorio:Ameriko
+模板:Otheruses	Ŝablono:Aliaj signifoj
+分类:各国个人	Kategorio:Homoj laŭ nacioj
+模板:User language-N	Ŝablono:Babel kadro D
+模板:Imbox	Ŝablono:BildaMesaĝokesto
+模板:Rellink	Ŝablono:RilataLigilo
+模板:Did you know	Ŝablono:ĈefPaĝo/ĈuViSciasKe
+模板:MONTHNAME	Ŝablono:Nomo de monato
+Wikipedia:GNU自由文档许可证文本	Vikipedio:GNU Free Documentation License
+模板:CPV	Ŝablono:CPV
+模板:Death date and age	Ŝablono:Mortodato kaj aĝo
+模板:MONTHNUMBER	Ŝablono:Nombro de monato
+分类:人物小作品	Kategorio:Ĝermoj pri biografio
+模板:Top icon	Ŝablono:Titola ikono
+模板:Namespace detect	Ŝablono:Determinas nomspacon
+分类:作家	Kategorio:Verkistoj
+分类:軍事	Kategorio:Armitaj fortoj
+分类:大学	Kategorio:Universitatoj
+模板:Hidden begin	Ŝablono:Kaŝskatolo komenco
+模板:Talkback	Ŝablono:Respondo
+模板:MYS	Ŝablono:MYS
+模板:TJK	Ŝablono:TJK
+模板:Infobox Website	Ŝablono:Informkesto retejo
+模板:Image label end	Ŝablono:Marko sur bildo fino
+模板:Documentation subpage	Ŝablono:Ŝablona navigado
+模板:Ref label	Ŝablono:Markita referenco
+模板:GHA	Ŝablono:GHA
+模板:GMB	Ŝablono:GAM
+模板:Uncategorized	Ŝablono:Mankas kategorio
+模板:IDN	Ŝablono:IDN
+模板:FRO	Ŝablono:FRO
+模板:ZAF	Ŝablono:ZAF
+模板:POL	Ŝablono:POL
+模板:URY	Ŝablono:URY
+模板:CUB	Ŝablono:CUB
+模板:CMR	Ŝablono:CMR
+模板:BIH	Ŝablono:BIH
+模板:FIN	Ŝablono:FIN
+模板:Tlx	Ŝablono:Tlx
+模板:CAN	Ŝablono:CAN
+模板:Cc-by-3.0	Ŝablono:Cc-by-3.0
+模板:DNK	Ŝablono:DNK
+模板:Empty category	Ŝablono:Neforigenda kategorio
+模板:Dead link	Ŝablono:404
+分类:跨性别	Kategorio:Transgenruloj
+模板:SAU	Ŝablono:SAU
+模板:Userpage	Ŝablono:Uzula paĝo
+模板:DEU	Ŝablono:DEU
+模板:BEN	Ŝablono:BEN
+模板:SWE	Ŝablono:SWE
+模板:Note label	Ŝablono:Markita noto
+模板:User	Ŝablono:Uzanto2
+模板:YEM	Ŝablono:YEM
+模板:Spoken Wikipedia	Ŝablono:Aŭdioartikolo
+模板:User language-4	Ŝablono:Babel kadro 4
+分类:越南机场	Kategorio:Flughavenoj de Vietnamio
+分类:公司	Kategorio:Firmaoj
+模板:Footballbox	Ŝablono:Tabelo futbalo
+模板:Renameuser	Ŝablono:Peto pri alinomado/dokumentado
+模板:CIA World Factbook link	Ŝablono:Monda faktolibro de CIA
+模板:Image label small	Ŝablono:Marko sur bildo malgranda
+模板:User language-0	Ŝablono:Babel kadro 0
+模板:瑞士城市	Ŝablono:Informkesto komunumo en Svislando
+模板:Japanese	Ŝablono:Nihongo
+模板:User fr-3	Ŝablono:Vikipediisto fr-3
+模板:UEFA	Ŝablono:Eŭropa Futbal-Ĉampionado
+模板:美国地图含州名	Ŝablono:Usona mapo
+模板:IMDb name	Ŝablono:IMDb nomo
+模板:Ar icon	Ŝablono:Ar
+模板:ABW	Ŝablono:ABW
+分类:突尼斯	Kategorio:Tunizio
+模板:Th	Ŝablono:Th
+模板:S-title	Ŝablono:S-ttl
+模板:JPN	Ŝablono:JPN
+模板:Japan	Ŝablono:Administra divido de Japanio
+模板:PAN	Ŝablono:PAN
+模板:SOM	Ŝablono:SOM
+模板:SWZ	Ŝablono:SWZ
+模板:PAK	Ŝablono:PAK
+模板:User nds-1	Ŝablono:Vikipediisto nds-1
+模板:S-before	Ŝablono:S-bef
+模板:ISL	Ŝablono:ISL
+模板:Oppose	Ŝablono:Kontraŭ
+模板:COL	Ŝablono:COL
+模板:CCK	Ŝablono:CCK
+模板:ERI	Ŝablono:ERI
+模板:GAB	Ŝablono:GAB
+模板:IRN	Ŝablono:IRN
+模板:MLI	Ŝablono:MLI
+模板:JOR	Ŝablono:JOR
+模板:NPL	Ŝablono:NPL
+模板:NAM	Ŝablono:NAM
+模板:CAF	Ŝablono:CAF
+模板:MKD	Ŝablono:MKD
+模板:LKA	Ŝablono:LKA
+模板:MWI	Ŝablono:MWI
+模板:KAZ	Ŝablono:KAZ
+模板:OMN	Ŝablono:OMN
+模板:PER	Ŝablono:PER
+模板:MOZ	Ŝablono:MOZ
+模板:SUR	Ŝablono:SUR
+模板:TRI	Ŝablono:TTO
+模板:GUY	Ŝablono:GUY
+模板:ETH	Ŝablono:ETH
+模板:HKG	Ŝablono:HKG
+模板:NGA	Ŝablono:NGA
+模板:PRK	Ŝablono:PRK
+模板:NIC	Ŝablono:NIC
+模板:LBR	Ŝablono:LBR
+模板:TKM	Ŝablono:TKM
+模板:THA	Ŝablono:THA
+模板:BFA	Ŝablono:BFA
+模板:TCD	Ŝablono:TCD
+模板:PRY	Ŝablono:PAR
+模板:ECU	Ŝablono:ECU
+模板:BTN	Ŝablono:BTN
+模板:MDV	Ŝablono:MDV
+模板:SLE	Ŝablono:SLE
+模板:LTU	Ŝablono:LTU
+模板:SGP	Ŝablono:SIN
+模板:IND	Ŝablono:IND
+模板:MAC	Ŝablono:MAC
+模板:User ar-2	Ŝablono:Vikipediisto ar-2
+模板:User fr-0	Ŝablono:Vikipediisto fr-0
+分类:User ja-N	Kategorio:Vikipediisto ja-D
+分类:用戶名字空間模板	Kategorio:Vikipedio:Ŝablonoj por uzanta paĝo
+模板:CHE	Ŝablono:CHE
+分类:社会阶层	Kategorio:Sociaj klasoj
+分类:印度电影	Kategorio:Barata kino
+模板:URL	Ŝablono:URL
+模板:Hidden end	Ŝablono:Kaŝskatolo fino
+模板:Disambiguation	Ŝablono:Apartigilo
+分类:公共交通	Kategorio:Publika transporto
+分类:中东	Kategorio:Mezoriento
+分类:运动场	Kategorio:Stadionoj
+模板:Para	Ŝablono:Parametro
+模板:Fb	Ŝablono:Fb
+分类:維基百科元模板	Kategorio:Vikipedio:Porŝablonaj ŝablonoj
+模板:LAO	Ŝablono:LAO
+模板:User zh-min-nan-1	Ŝablono:Vikipediisto zh-min-nan-1
+模板:ARE	Ŝablono:ARE
+模板:GRC	Ŝablono:GRC
+模板:PRT	Ŝablono:PRT
+模板:BGD	Ŝablono:BGD
+模板:BAR	Ŝablono:BRB
+模板:User ksh	Ŝablono:Vikipediisto ksh
+模板:AUS	Ŝablono:AUS
+模板:CZE	Ŝablono:CZE
+模板:AZE	Ŝablono:AZE
+模板:Infobox Film	Ŝablono:Informkesto filmo
+模板:英文名	Ŝablono:Lang-en
+分类:语言标示模板	Kategorio:Ŝablono:Lingvo
+分类:甜品	Kategorio:Desertoj
+模板:Expand language	Ŝablono:Tradukon
+分类:內部鏈接模板	Kategorio:Ŝablono:Internaj ligiloj
+模板:KHM	Ŝablono:KHM
+模板:NLD	Ŝablono:NLD
+模板:KWT	Ŝablono:KUW
+模板:辅音	Ŝablono:Konsonantoj
+模板:VNM	Ŝablono:VNM
+模板:LIE	Ŝablono:LIE
+模板:SEN	Ŝablono:SEN
+模板:NZL	Ŝablono:NZL
+模板:MMR	Ŝablono:MMR
+模板:KOR	Ŝablono:KOR
+分类:各类电影	Kategorio:Filmoj laŭ ĝenroj
+模板:NATO	Ŝablono:NATO
+分类:生物	Kategorio:Vivaĵoj
+模板:De icon	Ŝablono:De
+模板:SVN	Ŝablono:SVN
+模板:LBN	Ŝablono:LBN
+模板:GUF	Ŝablono:GUF
+模板:GGY	Ŝablono:GGY
+模板:FRA	Ŝablono:FRA
+模板:Infobox Biography	Ŝablono:Informkesto homoj
+分类:蒙古	Kategorio:Mongolio
+模板:InterWiki	Ŝablono:Vikipedio
+分类:泰国个大学	Kategorio:Universitatoj de Tajlando
+分类:澳大利亚个报纸	Kategorio:Aŭstraliaj gazetoj
+分类:历年个电影	Kategorio:Filmoj laŭ aperdatoj
+分类:爱尔兰城市	Kategorio:Urboj de Irlando
+模板:Dated maintenance category	Ŝablono:Datita prizorga kategorio
+模板:Chem-stub	Ŝablono:Ĝermo-kemio
+分类:姊妹计划链接模板	Kategorio:Ŝablono:Vikimedia projekto
+模板:User la-1	Ŝablono:Vikipediisto la-1
+模板:歐洲行政區劃	Ŝablono:Ŝtatoj en Eŭropo
+分类:模板說明文檔	Kategorio:Ŝablono:Dokumentado
+分类:泰语	Kategorio:Taja lingvo
+分类:User zh-yue	Kategorio:Vikipediisto zh-yue
+分类:User sk	Kategorio:Vikipediisto sk
+分类:User fr	Kategorio:Vikipediisto fr
+分类:User ja	Kategorio:Vikipediisto ja
+分类:User la	Kategorio:Vikipediisto la
+分类:User fr-3	Kategorio:Vikipediisto fr-3
+分类:User fr-2	Kategorio:Vikipediisto fr-2
+分类:User ja-2	Kategorio:Vikipediisto ja-2
+分类:User la-2	Kategorio:Vikipediisto la-2
+分类:User ko-N	Kategorio:Vikipediisto ko-D
+分类:User fr-N	Kategorio:Vikipediisto fr-D
+分类:User nl-N	Kategorio:Vikipediisto nl-D
+分类:User ru-N	Kategorio:Vikipediisto ru-D
+分类:政治经济学	Kategorio:Politika ekonomiko
+分类:文字	Kategorio:Skribsistemoj
+分类:维基百科清理	Kategorio:Polurindaj artikoloj
+分类:Template using ParserFunctions	Kategorio:Ŝablonoj uzantaj ParserFunctions
+分类:岛	Kategorio:Insuloj
+分类:广平省	Kategorio:Provinco Quang Binh
+分类:User sk-N	Kategorio:Vikipediisto sk-D
+分类:User de	Kategorio:Vikipediisto de
+分类:User de-2	Kategorio:Vikipediisto de-2
+分类:User de-3	Kategorio:Vikipediisto de-3
+分类:User de-4	Kategorio:Vikipediisto de-4
+分类:User de-N	Kategorio:Vikipediisto de-D
+分类:User en-3	Kategorio:Vikipediisto en-3
+分类:User en-N	Kategorio:Vikipediisto en-D
+分类:User es	Kategorio:Vikipediisto es
+分类:User es-1	Kategorio:Vikipediisto es-1
+分类:User es-2	Kategorio:Vikipediisto es-2
+分类:User es-N	Kategorio:Vikipediisto es-D
+分类:首尔	Kategorio:Seulo
+分类:日本模板	Kategorio:Ŝablono:Japanio
+模板:User la-3	Ŝablono:Vikipediisto la-3
+分类:阿德来得	Kategorio:Adelajdo
+分类:法国个公园	Kategorio:Parkoj en Francio
+分类:各国个公园	Kategorio:Parkoj laŭ landoj
+分类:各国个政治	Kategorio:Politiko laŭ landoj
+模板:Multiple image	Ŝablono:Pluraj bildoj
+分类:User it	Kategorio:Vikipediisto it
+分类:User it-1	Kategorio:Vikipediisto it-1
+分类:User ja-1	Kategorio:Vikipediisto ja-1
+分类:User ko	Kategorio:Vikipediisto ko
+分类:美国州	Kategorio:Usonaj ŝtatoj
+分类:User ksh	Kategorio:Vikipediisto ksh
+分类:User ksh-N	Kategorio:Vikipediisto ksh-D
+分类:User la-1	Kategorio:Vikipediisto la-1
+分类:User la-3	Kategorio:Vikipediisto la-3
+分类:澳大利亚地理	Kategorio:Geografio de Aŭstralio
+分类:维基百科讨论	Kategorio:Vikipedio:Diskutejo
+分类:火山	Kategorio:Vulkanoj
+模板:NOR	Ŝablono:NOR
+分类:天气	Kategorio:Vetero
+模板:Information	Ŝablono:Informo por dosiero
+分类:日本个县	Kategorio:Gubernioj de Japanio
+分类:法国城市	Kategorio:Urboj de Francio
+模板:BRA	Ŝablono:BRA
+分类:User ru-1	Kategorio:Vikipediisto ru-1
+Wikipedia:巴别	Vikipedio:Babelejo
+水分子	Ecoj de la akvo
+分类:残疾人	Kategorio:Handikapuloj
+分类:化学小作品	Kategorio:Ĝermoj pri kemio
+分类:各国个军事	Kategorio:Armitaj fortoj laŭ landoj
+模板:TUN	Ŝablono:TUN
+分类:日本地方	Kategorio:Regionoj de Japanio
+分类:海	Kategorio:Maroj
+地方政府	Loka administracio
+分类:工具书	Kategorio:Referencaj laboroj
+分类:计算机科学	Kategorio:Komputiko
+分类:User nds	Kategorio:Vikipediisto nds
+分类:User nds-1	Kategorio:Vikipediisto nds-1
+模板:LUX	Ŝablono:LUX
+模板:Red	Ŝablono:Ruĝa
+分类:神奈川县	Kategorio:Gubernio Kanagaŭa
+分类:福岛县	Kategorio:Gubernio Fukuŝima
+分类:广东省	Kategorio:Gŭangdongo
+分类:安徽	Kategorio:Anhujo
+分类:江西省	Kategorio:Jianĝi
+分类:江苏省	Kategorio:Ĝjangsuo
+分类:经济	Kategorio:Ekonomio
+模板:Title without disambig	Ŝablono:Titolo sen apartigo
+分类:饮料	Kategorio:Trinkaĵoj
+分类:1980年代出生	Kategorio:Naskiĝintoj en 1980-1989
+分类:社会科学	Kategorio:Socia scienco
+分类:办拉路斯	Kategorio:Belorusio
+分类:中国电影	Kategorio:Ĉina kino
+分类:非洲国家	Kategorio:Afrikaj landoj
+分类:各国教育	Kategorio:Edukado laŭ landoj
+模板:User ru-2	Ŝablono:Vikipediisto ru-2
+分类:科幻片	Kategorio:Sciencfikciaj filmoj
+模板:Column-width	Ŝablono:Kolumno-larĝo
+分类:User ru	Kategorio:Vikipediisto ru
+分类:User ru-2	Kategorio:Vikipediisto ru-2
+分类:User ru-4	Kategorio:Vikipediisto ru-4
+模板:En icon	Ŝablono:En
+模板:Lang	Ŝablono:Lang
+分类:社会学	Kategorio:Sociologio
+模板:IRL	Ŝablono:IRL
+分类:1981年出生	Kategorio:Naskiĝintoj en 1981
+分类:1986年出生	Kategorio:Naskiĝintoj en 1986
+模板:ALB	Ŝablono:ALB
+模板:AND	Ŝablono:AND
+模板:ARG	Ŝablono:ARG
+模板:ARM	Ŝablono:ARM
+分类:美国慈善家	Kategorio:Usonaj filantropoj
+分类:各国个电影	Kategorio:Kino laŭ lando
+Wikipedia:Template sandbox and test cases	Vikipedio:Provejo de ŝablono
+分类:人类	Kategorio:Homoj
+分类:分類名字空間模板	Kategorio:Ŝablono en la spaco @@@u0026Kategorio"
+模板:BDI	Ŝablono:BDI
+模板:BAH	Ŝablono:BHS
+模板:BLR	Ŝablono:BLR
+分类:棋类	Kategorio:Abstraktaj tabulludoj
+模板:CIV	Ŝablono:CIV
+模板:CRI	Ŝablono:CRI
+模板:CHY	Ŝablono:CYP
+分类:泰国交通	Kategorio:Transporto en Tajlando
+模板:Fr	Ŝablono:Fr
+分类:文章	Kategorio:Artikoloj
+模板:Ko icon	Ŝablono:Ko
+分类:法国铁路	Kategorio:Fervojo en Francio
+分类:1951年个电影	Kategorio:Filmoj aperintaj en 1951
+分类:女演员	Kategorio:Aktorinoj
+分类:佛罗里达州	Kategorio:Florido
+模板:EST	Ŝablono:EST
+Wikipedia:Lua	Vikipedio:Lua
+分类:大規模殺傷性武器	Kategorio:Armiloj de amasa neniigo
+模板:QAT	Ŝablono:QAT
+模板:RUS	Ŝablono:RUS
+模板:AUT	Ŝablono:AUT
+模板:History-stub	Ŝablono:Ĝermo-historio
+分类:动作片	Kategorio:Agfilmoj
+模板:CHL	Ŝablono:CHL
+分类:英语电影	Kategorio:Anglalingvaj filmoj
+模板:SYR	Ŝablono:SYR
+模板:CHN	Ŝablono:CHN
+模板:Side box	Ŝablono:Flanka kesto
+分类:世界人口	Kategorio:Demografio laŭ landoj
+模板:IRQ	Ŝablono:IRQ
+分类:法国交通	Kategorio:Transporto en Francio
+分类:澳大利亚个湖	Kategorio:Lagoj en Aŭstralio
+分类:各国经济	Kategorio:Ekonomio laŭ landoj
+分类:韩国政治	Kategorio:Politiko de Sud-Koreio
+分类:澳大利亚个政治	Kategorio:Politiko de Aŭstralio
+分类:泰国政治	Kategorio:Politiko de Tajlando
+分类:越南经济	Kategorio:Ekonomio de Vjetnamio
+分类:柬埔寨经济	Kategorio:Ekonomio de Kamboĝo
+分类:朝鲜民主主义人民共和国政治	Kategorio:Politiko de Nord-Koreio
+分类:泰国经济	Kategorio:Ekonomio de Tajlando
+模板:Infobox Language/family-color	Ŝablono:Informkesto lingvo/Koloro
+分类:澳大利亚体育运动	Kategorio:Sporto en Aŭstralio
+分类:泰国体育	Kategorio:Sporto en Tajlando
+分类:河	Kategorio:Riveroj
+模板:User ko	Ŝablono:Vikipediisto ko-D
+模板:User ru-1	Ŝablono:Vikipediisto ru-1
+模板:User zh-1	Ŝablono:Vikipediisto zh-1
+模板:User zh-2	Ŝablono:Vikipediisto zh-2
+模板:User zh-3	Ŝablono:Vikipediisto zh-3
+模板:User zh-4	Ŝablono:Vikipediisto zh-4
+分类:韩国交通	Kategorio:Transporto en Sud-Koreio
+分类:中国交通	Kategorio:Transporto en Ĉinio
+分类:世界各国个博物馆	Kategorio:Muzeoj laŭ landoj
+分类:马来西亚经济	Kategorio:Ekonomio de Malajzio
+分类:菲律宾模板	Kategorio:Ŝablono:Filipinoj
+模板:Multi-listen end	Ŝablono:Aŭskultu fino
+分类:澳大利亚个交通	Kategorio:Transporto en Aŭstralio
+分类:蘇聯政治家	Kategorio:Politikistoj de Rusio aŭ Sovetunio
+分类:泰国教育	Kategorio:Edukado en Tajlando
+分类:韩国人	Kategorio:Sudkoreanoj
+分类:台湾人	Kategorio:Tajvananoj
+分类:菲律宾	Kategorio:Filipinoj
+分类:User nl	Kategorio:Vikipediisto nl
+分类:User zh-1	Kategorio:Vikipediisto zh-1
+分类:User zh-4	Kategorio:Vikipediisto zh-4
+分类:User zh-3	Kategorio:Vikipediisto zh-3
+分类:User zh-2	Kategorio:Vikipediisto zh-2
+分类:泰国国王	Kategorio:Reĝoj de Tajlando
+分类:力学	Kategorio:Mekaniko
+分类:不丹	Kategorio:Butano
+分类:印度模特	Kategorio:Barataj fotomodeloj
+分类:印度科学技术	Kategorio:Scienco kaj teknologio en Barato
+分类:中国演员	Kategorio:Ĉinaj aktoroj
+分类:泰国演员	Kategorio:Tajlandaj aktoroj
+分类:电视	Kategorio:Televido
+分类:中国诗人	Kategorio:Ĉinaj poetoj
+分类:世紀	Kategorio:Jarcentoj
+分类:蘇聯外敎官	Kategorio:Sovetiaj diplomatoj
+分类:印度演员	Kategorio:Barataj aktoroj
+分类:澳大利亚脚踏车运动员	Kategorio:Aŭstraliaj biciklistoj
+分类:中国运动员	Kategorio:Ĉinaj sportistoj
+分类:海滩	Kategorio:Plaĝoj
+分类:柬埔寨人	Kategorio:Kamboĝanoj
+分类:泰国政治人物	Kategorio:Tajlandaj politikistoj
+分类:泰国人	Kategorio:Tajlandanoj
+分类:意大利个湖	Kategorio:Lagoj en Italio
+分类:机场	Kategorio:Flughavenoj
+分类:日本个机场	Kategorio:Flughavenoj de Japanio
+分类:化学元素	Kategorio:Kemiaj elementoj
+分类:澳大利亚运动员	Kategorio:Aŭstraliaj sportistoj
+分类:澳大利亚总理	Kategorio:Ĉefministroj de Aŭstralio
+分类:泰国总理	Kategorio:Ĉefministroj de Tajlando
+分类:地理小作品	Kategorio:Ĝermoj pri geografio
+分类:朝鲜	Kategorio:Nord-Koreio
+分类:柬埔寨	Kategorio:Kamboĝo
+分类:澳大利亚人	Kategorio:Aŭstralianoj
+分类:中国人	Kategorio:Ĉinoj
+分类:韩国演员	Kategorio:Sudkoreaj aktoroj
+分类:蘇聯作家	Kategorio:Sovetiaj verkistoj
+分类:中国历史	Kategorio:Historio de Ĉinio
+分类:不丹国王	Kategorio:Reĝoj de Butano
+分类:老挝	Kategorio:Laoso
+分类:缅甸	Kategorio:Birmo
+分类:台湾	Kategorio:Tajvano
+分类:法国演员	Kategorio:Francaj aktoroj
+分类:電影模板	Kategorio:Ŝablono:Filmo
+分类:爱尔兰模板	Kategorio:Ŝablono:Irlando
+分类:伊朗模板	Kategorio:Ŝablono:Irano
+分类:英国模板	Kategorio:Ŝablono:Britio
+分类:美国模板	Kategorio:Ŝablono:Usono
+分类:中国古代朝代	Kategorio:Ĉinaj dinastioj
+分类:多語言支援模板	Kategorio:Multlingviloj
+分类:法国模板	Kategorio:Ŝablono:Francio
+分类:越南模板	Kategorio:Ŝablono:Vjetnamio
+分类:加拿大模板	Kategorio:Ŝablono:Kanado
+分类:马来西亚模板	Kategorio:Ŝablono:Malajzio
+分类:精密模板	Kategorio:Ŝablono:Esoteraj
+分类:模板名字空間模板	Kategorio:Ŝablono:Helpa ŝablono
+分类:泰国个公司	Kategorio:Tajlandaj firmaoj
+分类:出生	Kategorio:Naskiĝintoj laŭ jaroj
+分类:法国总统	Kategorio:Prezidantoj de Francio
+分类:亚洲历史	Kategorio:Historio de Azio
+分类:约旦	Kategorio:Jordanio
+分类:大洋洲国家	Kategorio:Oceaniaj landoj
+分类:鱼类	Kategorio:Fiŝoj
+分类:北京	Kategorio:Pekino
+分类:国家足球队	Kategorio:Naciaj teamoj de futbalo
+分类:日本关东地方	Kategorio:Kanto
+分类:剧情片	Kategorio:Dramaj filmoj
+分类:1971年个电影	Kategorio:Filmoj aperintaj en 1971
+分类:2003年个电影	Kategorio:Filmoj aperintaj en 2003
+分类:1994年个电影	Kategorio:Filmoj aperintaj en 1994
+分类:2004年个电影	Kategorio:Filmoj aperintaj en 2004
+分类:2005年个电影	Kategorio:Filmoj aperintaj en 2005
+分类:2007年个电影	Kategorio:Filmoj aperintaj en 2007
+分类:2008年个电影	Kategorio:Filmoj aperintaj en 2008
+分类:法国电影	Kategorio:Franca kino
+分类:印地语	Kategorio:Hindia lingvo
+分类:阿拉伯语	Kategorio:Araba lingvo
+分类:印度言话	Kategorio:Lingvoj de Barato
+分类:人类学	Kategorio:Antropologio
+分类:抗生素	Kategorio:Antibiotikoj
+分类:操作系统	Kategorio:Operaciumoj
+分类:昆士兰州	Kategorio:Kvinslando
+分类:维克多利亚州	Kategorio:Viktorio (Aŭstralio)
+分类:电影奖	Kategorio:Kino-premioj
+分类:奥斯卡金像奖	Kategorio:Akademia Premio
+分类:金球奖	Kategorio:Premio Ora Globo
+分类:里昂	Kategorio:Lyon
+模板:Incubator	Ŝablono:Inkubejo
+分类:中国文化	Kategorio:Kulturo de Ĉinio
+分类:法国文化	Kategorio:Kulturo de Francio
+分类:越南文化	Kategorio:Kulturo de Vjetnamio
+分类:韩国文化	Kategorio:Kulturo de Sud-Koreio
+分类:電子工程	Kategorio:Elektronika inĝenierarto
+模板:ESP	Ŝablono:ESP
+分类:动物	Kategorio:Bestoj
+分类:泰国航空公司	Kategorio:Tajlandaj flugkompanioj
+分类:国际象棋	Kategorio:Ŝako
+分类:武器	Kategorio:Armiloj
+分类:核武器	Kategorio:Nuklea armilo
+瀑瑶兰	Beaujolais
+分类:物理量	Kategorio:Fizika kvanto
+分类:温标	Kategorio:Mezurunuoj de temperaturo
+分类:汉字	Kategorio:Ĉina skribo
+分类:热力学	Kategorio:Termodinamiko
+分类:气象学	Kategorio:Meteologio
+分类:航空事故	Kategorio:Aviadilaj akcidentoj kaj incidentoj
+分类:香港	Kategorio:Honkongo
+分类:菲律宾群岛	Kategorio:Insuloj en la Filipinoj
+分类:大西洋岛屿	Kategorio:Insuloj en la Atlantika Oceano
+分类:上海	Kategorio:Ŝanhajo
+分类:节日	Kategorio:Festivaloj
+分类:印度城市	Kategorio:Urboj de Barato
+分类:俄罗斯城市	Kategorio:Urboj de Rusio
+分类:事体	Kategorio:Eventoj
+分类:西亚	Kategorio:Okcidenta Azio
+分类:電信	Kategorio:Telekomunikado
+分类:交通	Kategorio:Transporto
+分类:选美	Kategorio:Beleckonkursoj
+分类:性行为	Kategorio:Homa seksumado
+分类:电视剧	Kategorio:Televidaj serioj
+分类:北美洲	Kategorio:Nordameriko
+分类:歌手	Kategorio:Kantistoj
+分类:亚洲个湖泊	Kategorio:Lagoj de Azio
+分类:欧洲个湖泊	Kategorio:Lagoj en Eŭropo
+分类:湖泊	Kategorio:Lagoj
+模板:Infobox Language	Ŝablono:Informkesto lingvo
+分类:大洋洲	Kategorio:Oceanio
+分类:中国城市	Kategorio:Urboj de Ĉinio
+分类:瀑布	Kategorio:Akvofaloj
+分类:自然灾害	Kategorio:Naturkatastrofoj
+分类:日本九州	Kategorio:Kjuŝuo
+分类:1998年个电影	Kategorio:Filmoj aperintaj en 1998
+分类:2006年个电影	Kategorio:Filmoj aperintaj en 2006
+分类:恐怖片	Kategorio:Hororaj filmoj
+分类:美国电影	Kategorio:Usona kino
+分类:汉语	Kategorio:Ĉina lingvaro
+分类:泰国言话	Kategorio:Lingvoj de Tajlando
+分类:新南威尔士州	Kategorio:Novsudkimrio
+分类:澳大利亚文化	Kategorio:Kulturo de Aŭstralio
+分类:泰国文化	Kategorio:Kulturo de Tajlando
+分类:越南城市	Kategorio:Urboj de Vjetnamio
+分类:澳大利亚城市	Kategorio:Urboj de Aŭstralio
+分类:泰国城市	Kategorio:Urboj de Tajlando
+分类:泰国个岛	Kategorio:Insuloj en Tajlando
+分类:印度文化	Kategorio:Kulturo de Barato
+分类:印度尼西亚个岛	Kategorio:Indoneziaj insuloj
+分类:中东国家	Kategorio:Mezorientaj landoj
+分类:澳大利亚旅游	Kategorio:Turismo en Aŭstralio
+分类:中国个公园	Kategorio:Parkoj en Ĉinio
+分类:银行	Kategorio:Bankoj
+Wikipedia:模板文檔	Helpo:Dokumentado
+分类:維基百科文化	Kategorio:Vikipedio:Kulturo
+分类:维基百科媒体文件版权	Kategorio:Bildoj laŭ permesiloj
+分类:南欧	Kategorio:Suda Eŭropo
+分类:維基百科名字空間模板	Kategorio:Ŝablonoj por iuj paĝoj
+分类:学堂	Kategorio:Lernejoj
+分类:澳大利亚风光	Kategorio:Vizitindaĵoj en Aŭstralio
+分类:越南航空	Kategorio:Vjetnamaj flugkompanioj
+模板:Geo stub	Ŝablono:Ĝermo-geografio
+模板:UGA	Ŝablono:UGA
+模板:UZB	Ŝablono:UZB
+模板:Comment	Ŝablono:Komento
+中国	Ĉinio (apartigilo)
+模板:Module other	Ŝablono:Ĉu modulo
+Portal:数学	Portalo:Matematiko
+模板:Greece-stub	Ŝablono:Ĝermo-Grekio
+分类:亚洲国家	Kategorio:Aziaj landoj
+分类:美洲国家	Kategorio:Amerikaj landoj
+模板:Japan stub	Ŝablono:Ĝermo-Japanio
+模板:User zh-yue-2	Ŝablono:Vikipediisto zh-yue-2
+分类:維基百科幽默	Kategorio:Vikipedia humuro
+模板:RWA	Ŝablono:RWA
+模板:MLT	Ŝablono:MLT
+模板:KEN	Ŝablono:KEN
+模板:JAM	Ŝablono:JAM
+分类:南美洲国家模板	Kategorio:Ŝablono:Sudameriko
+模板:CXR	Ŝablono:CXR
+分类:必有个页面	Kategorio:Havendaj artikoloj
+分类:澳大利亚模板	Kategorio:Ŝablono:Aŭstralio
+分类:大桥	Kategorio:Pontoj
+分类:布里司班	Kategorio:Brisbano
+分类:中美洲国家	Kategorio:Centramerikaj landoj
+分类:江苏城市	Kategorio:Urboj de Ĝjangsuo
+分类:地震	Kategorio:Tertremoj
+分类:环境	Kategorio:Mediprotektado
+分类:凯撒奖	Kategorio:Premio César
+分类:日本本州	Kategorio:Honŝuo
+分类:印度小作品	Kategorio:Ĝermoj pri Barato
+分类:爱尔兰	Kategorio:Irlando
+分类:中华民国	Kategorio:Respubliko Ĉinio
+模板:Listen	Ŝablono:Aŭskultu
+分类:性学	Kategorio:Seksologio
+模板:MNG	Ŝablono:MNG
+分类:相态	Kategorio:Fazoj de materio
+分类:南澳大利亚州	Kategorio:Suda Aŭstralio
+模板:BEL	Ŝablono:BEL
+分类:法国总统夫人	Kategorio:Unuaj damoj de Francio
+分类:墨尔本	Kategorio:Melburno
+分类:方向	Kategorio:Orientiĝo
+分类:電話	Kategorio:Telefono
+分类:悉尼	Kategorio:Sidnejo
+分类:澳大利亚个公园	Kategorio:Parkoj en Aŭstralio
+分类:应用科学	Kategorio:Aplikataj sciencoj
+分类:法国个报纸	Kategorio:Francaj gazetoj
+模板:Image label begin	Ŝablono:Marko sur bildo komenco
+分类:澳大利亚大学	Kategorio:Universitatoj de Aŭstralio
+分类:消费行为	Kategorio:Konsumado
+分类:中国个报纸	Kategorio:Ĉinaj gazetoj
+分类:主持人	Kategorio:Moderatoroj
+分类:日本大学	Kategorio:Universitatoj de Japanio
+模板:Babels	Ŝablono:Babellingva enhavo
+分类:巴黎高速铁路	Kategorio:RER de Francilio
+分类:巴黎交通	Kategorio:Transporto en Parizo
+模板:HUN	Ŝablono:HUN
+分类:生活	Kategorio:Ĉiutaga vivo
+分类:女性	Kategorio:Virino
+分类:柬埔寨文化	Kategorio:Kulturo de Kamboĝo
+分类:User en-1	Kategorio:Vikipediisto en-1
+分类:User de-1	Kategorio:Vikipediisto de-1
+分类:法国省份	Kategorio:Departementoj de Francio
+分类:工具	Kategorio:Iloj
+分类:德国城市	Kategorio:Urboj de Germanio
+分类:美国演员	Kategorio:Usonaj aktoroj
+模板:France-stub	Ŝablono:Ĝermo-Francio
+分类:瑞典贵族	Kategorio:Svedaj nobeloj
+模板:Lua	Ŝablono:Kun Lua-modulo
+模板:勿是吳語	Ŝablono:Esperantigu artikolon
+Wikipedia:弗要犯常见个错误	Helpo:Kutimaj komencanteraroj
+Wikipedia:How to read a taxobox	Vikipedio:Kiel legi la taksonomion
+Wikipedia:Media help	Helpo:Dosieroj
+模板:Italy-stub	Ŝablono:Ĝermo-Italio
+姜義錫	Kang We-seok
+琉球群岛	Rjukju-insularo
+模板:Bio-stub	Ŝablono:Ĝermo-biografio
+模板:Wayback	Ŝablono:Retarkivo
+Wikipedia:VisualEditor	Vikipedio:VidRedaktilo
+Wikipedia:Spoken articles	Projekto:Aŭdioartikoloj
+模板:Multi-listen item	Ŝablono:Aŭskultu temon
+模板:User zh-yue-0	Ŝablono:Vikipediisto zh-yue-0
+模板:里昂大区城区	Ŝablono:Liona urbaro
+模板:Tld	Ŝablono:Tld
+模板:TemplateDataHeader	Ŝablono:TemplateDataKapo
+模板:Reply to	Ŝablono:Respondo al
+模块:Yesno	Modulo:Yesno
+尹賢碩	Yun Hyon-seok
+惡病質	Kaĥeksio
+特殊:最近更改	Specialaĵo:Lastaj ŝanĝoj
+模块:TableTools	Modulo:TableTools
+模块:List	Modulo:List
+模块:Bananas	Modulo:Saluton
+模块:HtmlBuilder	Modulo:HtmlBuilder
+模块:String	Modulo:String
+模块:InfoboxImage	Modulo:InfoboxImage
+馬來西亞航空17號班機空难	Flugo 17 de Malaysia Airlines
+雨傘運動	Protestoj en Honkongo 2014
